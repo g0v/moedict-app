@@ -1,4 +1,4 @@
-const DEBUGGING = on
+DEBUGGING = off
 
 LANG = getPref(\lang) || (if document.URL is /twblg/ then \t else \a)
 MOE-ID = getPref(\prev-id) || {a: \萌 t: \發穎 h: \發芽}[LANG]
@@ -7,6 +7,8 @@ $ -> $('body').addClass("lang-#LANG")
 isCordova = document.URL isnt /^https?:/
 isDroidGap = isCordova and location.href is /android_asset/
 isDeviceReady = not isCordova
+isStandalone = !isCordova and document.URL isnt /^https?:\/\/[\w\.]*moedict\.(?:org|tw)/
+DEBUGGING = on if isStandalone
 isCordova = true if DEBUGGING
 isMobile = isCordova or navigator.userAgent is /Android|iPhone|iPad|Mobile/
 isWebKit = navigator.userAgent is /WebKit/

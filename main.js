@@ -1,6 +1,6 @@
 (function(){
-  var DEBUGGING, LANG, MOEID, isCordova, isDroidGap, isDeviceReady, isMobile, isWebKit, entryHistory, INDEX, XREF, CACHED, GET, e, Howl, playing, player, callLater, MOE, CJKRADICALS, SIMPTRAD, ref$, Consonants, Vowels, Tones, re, C, V, split$ = ''.split, replace$ = ''.replace, join$ = [].join, slice$ = [].slice;
-  DEBUGGING = true;
+  var DEBUGGING, LANG, MOEID, isCordova, isDroidGap, isDeviceReady, isStandalone, isMobile, isWebKit, entryHistory, INDEX, XREF, CACHED, GET, e, Howl, playing, player, callLater, MOE, CJKRADICALS, SIMPTRAD, ref$, Consonants, Vowels, Tones, re, C, V, split$ = ''.split, replace$ = ''.replace, join$ = [].join, slice$ = [].slice;
+  DEBUGGING = false;
   LANG = getPref('lang') || (/twblg/.exec(document.URL) ? 't' : 'a');
   MOEID = getPref('prev-id') || {
     a: '萌',
@@ -13,6 +13,10 @@
   isCordova = !/^https?:/.test(document.URL);
   isDroidGap = isCordova && /android_asset/.exec(location.href);
   isDeviceReady = !isCordova;
+  isStandalone = !isCordova && !/^https?:\/\/[\w\.]*moedict\.(?:org|tw)/.test(document.URL);
+  if (isStandalone) {
+    DEBUGGING = true;
+  }
   if (DEBUGGING) {
     isCordova = true;
   }
