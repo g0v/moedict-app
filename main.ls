@@ -1,27 +1,46 @@
-DEBUGGING = off
+const DEBUGGING = on
 
 LANG = getPref(\lang) || (if document.URL is /twblg/ then \t else \a)
 MOE-ID = getPref(\prev-id) || {a: \萌 t: \發穎 h: \發芽}[LANG]
-$ -> $('body').addClass("lang-#LANG")
+$ ->
+  $('body').addClass("lang-#LANG")
+  $('.lang-active').text $(".lang-option.#LANG:first").text!
 
-isCordova = document.URL isnt /^https?:/
+const HASH-OF = {a: \#, t: \#!, h: \#:}
+const XREF-LABEL-OF = {a: \華, t: \閩, h: \客}
+
+window.isCordova = isCordova = document.URL isnt /^https?:/
 isDroidGap = isCordova and location.href is /android_asset/
 isDeviceReady = not isCordova
-isStandalone = !isCordova and document.URL isnt /^https?:\/\/[\w\.]*moedict\.(?:org|tw)/
-DEBUGGING = on if isStandalone
 isCordova = true if DEBUGGING
 isMobile = isCordova or navigator.userAgent is /Android|iPhone|iPad|Mobile/
 isWebKit = navigator.userAgent is /WebKit/
+width-is-xs = -> $ \body .width! < 768
 entryHistory = []
-INDEX = { t: '', a: '' }
-XREF = { t: '"發穎":"萌,抽芽,發芽,萌芽"', a: '"萌":"發穎"', tv: '' }
-function xref-of (id, lang=LANG)
-  idx = XREF[lang].indexOf('"' + id + '":')
-  return [] unless idx >= 0
-  part = XREF[lang].slice(idx + id.length + 4);
-  idx = part.indexOf \"
-  part.=slice 0 idx
-  return [ x || id for x in part / \, ]
+INDEX = { t: '', a: '', h: '' }
+XREF = {
+  t: {a: '"發穎":"萌,抽芽,發芽,萌芽"'}
+  a: {t: '"萌":"發穎"' h: '"萌":"發芽"'}
+  h: {a: '"發芽":"萌,萌芽"'}
+  tv: {t: ''}
+}
+# Return an object of all matched with {key: [words]}.
+function xref-of (id, src-lang=LANG)
+  rv = {}
+  if typeof XREF[src-lang] is \string
+    parsed = {}
+    for chunk in XREF[src-lang].split \}
+      [tgt-lang, words] = chunk.split \":{
+      parsed[tgt-lang.slice(-1)] = words if words
+    XREF[src-lang] = parsed
+  for tgt-lang, words of XREF[src-lang]
+    idx = words.indexOf('"' + id + '":')
+    rv[tgt-lang] = if idx < 0 then [] else
+      part = words.slice(idx + id.length + 4);
+      idx = part.indexOf \"
+      part.=slice 0 idx
+      [ x || id for x in part / \, ]
+  return rv
 
 CACHED = {}
 GET = (url, data, onSuccess, dataType) ->
@@ -39,6 +58,7 @@ try
     isDeviceReady := yes
     window.do-load!
   ), false
+  document.addEventListener \pause (-> stop-audio!), false
 catch
   <- $
   $ \#F9868 .html '&#xF9868;'
@@ -50,49 +70,72 @@ catch
   else
     window.do-load!
     if navigator.user-agent is /MSIE\s+[678]/
-      <- $.getScript \https://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js
+      $('.navbar, .query-box').hide!
+      $('#result').css \margin-top \50px
+      <- getScript \https://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js
       window.gcfnConfig = do
         imgpath: 'https://raw.github.com/atomantic/jquery.ChromeFrameNotify/master/img/'
         msgPre: ''
-        msgLink: '敬請安裝 Google 內嵌瀏覽框，以取得更完整的萌典功能。'
+        msgLink: '敬請安裝 Google 內嵌瀏覽框，以取得完整的萌典功能。'
         msgAfter: ''
-      <- $.getScript \https://raw.github.com/atomantic/jquery.ChromeFrameNotify/master/jquery.gcnotify.min.js
+      <- getScript \js/jquery.gcnotify.min.js
 
 function setPref (k, v) => try localStorage?setItem(k, JSON?stringify(v))
-function getPref (k) => try JSON?parse(localStorage?getItem(k) ? \null)
+function getPref (k) => try $.parseJSON(localStorage?getItem(k) ? \null)
 
-if !DEBUGGING and (isCordova or isMobile)
+/*
+if isMobile
   class window.Howl
-    ({ urls, onend, onloaderror }) ->
+    ({ urls, onplay, onend, onloaderror }) ->
       @el = document.createElement \audio
       @el.set-attribute \src urls.0
       @el.set-attribute \type if urls.0 is /mp3$/ then \audio/mpeg else \audio/ogg
       @el.set-attribute \autoplay true
       @el.set-attribute \controls true
-      @el.add-event-listener \error onloaderror; try @el.remove!; @el = null
-      @el.add-event-listener \ended onend; try @el.remove!; @el = null
+      @el.add-event-listener \playing ~> onplay!; @unload!
+      @el.add-event-listener \error ~> onloaderror!; @unload!
+      @el.add-event-listener \ended ~> onend!; @unload!
     play: -> @el.play!
-    stop: -> try @el?currentTime = 0
+    stop: -> @el?pause?!; @el?currentTime = 0.0; @unload!
+    unload: -> try $(@el).remove!; @el = null
+  */
 
-var playing, player
+var playing, player, seq
+seq = 0
+get-el = -> $("\#player-#seq")
+window.stop-audio = ->
+  $el = get-el!
+  if $el.length
+    $el.parent('.audioBlock').removeClass('playing')
+    $el.removeClass('icon-stop').removeClass('icon-spinner').show!
+    $el.addClass('icon-play')
+  player?unload!
+  player := null
+  playing := null
 window.play-audio = (el, url) ->
-  done = ->
-    playing := null
-    player := null
-    $(el).fadeIn \fast
+  done = -> stop-audio!
   play = ->
-    return if playing is url
-    player?stop!
+    $el = get-el!
+    if playing is url
+      if $el.hasClass('icon-stop') => stop-audio!; done!
+      return
+    stop-audio!
+    seq++
+    $(el).attr \id "player-#seq"
+    $el = get-el!
     playing := url
     $('#result .playAudio').show!
-    $(el).fadeOut \fast
+    $('.audioBlock').removeClass('playing')
+    $el.removeClass('icon-play').addClass('icon-spinner')
+    $el.parent('.audioBlock').addClass('playing')
     urls = [url]
-    urls.push url.replace(/ogg$/ 'mp3') if url is /ogg$/
-    audio = new window.Howl { +buffer, urls, onend: done, onloaderror: done }
+    urls.unshift url.replace(/ogg$/ 'mp3') if url is /ogg$/ and can-play-mp3!
+    audio = new window.Howl { +buffer, urls, onend: done, onloaderror: done, onplay: -> $el.removeClass('icon-play').removeClass('icon-spinner').addClass('icon-stop').show!
+    }
     audio.play!
     player := audio
   return play! if window.Howl
-  <- $.getScript \js/howler.min.js
+  <- getScript \js/howler.js
   return play!
 
 window.show-info = ->
@@ -106,53 +149,45 @@ window.show-info = ->
 
 callLater = -> setTimeout it, if isMobile then 10ms else 1ms
 
-window.press-down = ->
-  if navigator.user-agent is /Android\s*[12]\./
-    alert "抱歉，Android 2.x 版僅能於上方顯示搜尋框。"
-    return
-  $('body').removeClass "prefer-down-#{ !!getPref \prefer-down }"
-  val = !getPref \prefer-down
-  setPref \prefer-down val
-  $('body').addClass "prefer-down-#{ !!getPref \prefer-down }"
-
 window.do-load = ->
   return unless isDeviceReady
   $('body').addClass \cordova if isCordova
   $('body').addClass \web unless isCordova
   $('body').addClass \ios if isCordova and not isDroidGap
+  $('body').addClass \desktop unless isMobile
   $('body').addClass \android if isDroidGap
   if navigator.user-agent is /Android\s*[12]\./
     $('body').addClass \overflow-scrolling-false
     $('body').addClass "prefer-down-false"
   else
-    $('body').addClass "prefer-down-#{ !!getPref \prefer-down }"
+    $('body').addClass \overflow-scrolling-true
+    $('body').addClass "prefer-down-false"
   $('#result').addClass "prefer-pinyin-#{ !!getPref \prefer-pinyin }"
 
   fontSize = getPref(\font-size) || 14
   $('body').bind \pinch (, {scale}) ->
-    $('body').css('font-size', Math.max(14, Math.min(22, (scale * fontSize))) + 'pt')
+    $('body').css('font-size', Math.max(10, Math.min(42, (scale * fontSize))) + 'pt')
   saveFontSize = (, {scale}) ->
-    setPref \font-size fontSize := Math.max(14, Math.min(22, (scale * fontSize)))
+    setPref \font-size fontSize := Math.max(10, Math.min(42, (scale * fontSize)))
     $('body').css('font-size', fontSize + 'pt')
   $('body').bind \pinchclose saveFontSize
   $('body').bind \pinchopen saveFontSize
   window.adjust-font-size = (offset) ->
-    setPref \font-size fontSize := Math.max(14, Math.min(22, (fontSize + offset)))
+    setPref \font-size fontSize := Math.max(10, Math.min(42, (fontSize + offset)))
     $('body').css('font-size', fontSize + 'pt')
   window.adjust-font-size 0
 
   cache-loading = no
   window.press-about = press-about = ->
-    location.href = \about.html unless isDroidGap
+    if isDroidGap then show-info! else location.href = \about.html
   window.press-erase = press-erase = ->
     $ \#query .val '' .focus!
-    $ \.lang .show!
-    $ \.erase .hide!
+    $ \.erase-box .hide!
   window.press-back = press-back = ->
-    player?stop!
+    stop-audio!
     if isDroidGap and not(
       $ \.ui-autocomplete .hasClass \invisible
-    ) and $ \body .width! < 768
+    ) and width-is-xs!
       try $(\#query).autocomplete \close
       return
     return if cache-loading
@@ -169,7 +204,9 @@ window.do-load = ->
     if entryHistory.length <= 1 then window.press-quit! else window.press-back!
   ), false
 
-  window.press-quit = -> callLater -> navigator.app.exit-app!
+  window.press-quit = ->
+    stop-audio!
+    callLater -> navigator.app.exit-app!
 
   init = ->
     $ \#query .keyup lookup .change lookup .keypress lookup .keydown lookup .on \input lookup
@@ -178,6 +215,21 @@ window.do-load = ->
       try $(\#query).autocomplete \search if $(\#query).val!
     $ \#query .show!
     $ \#query .focus! unless isCordova
+
+    # Toggle submenu visibility.
+    $ \body .on \shown.bs.dropdown \.navbar -> if width-is-xs!
+      $(@).css \position \absolute
+      $(@).hide!
+      $(@).fadeIn 0ms
+    $ \body .on \hidden.bs.dropdown \.navbar -> $(@).css \position \fixed
+
+    $ \body .on \click 'li.dropdown-submenu > a' ->
+      $(@).next(\ul).slide-toggle \fast if width-is-xs!
+      return false
+
+    $ \body .on \click '.results .stroke' ->
+      return ($('#strokes').fadeOut \fast -> $('#strokes').html(''); window.scroll-to 0 0) if $('svg, canvas').length
+      strokeWords($('h1:first').text! - /[（(].*/) # Strip the english part and draw the strokes
 
     unless ``('onhashchange' in window)``
       $ \body .on \click \a ->
@@ -194,12 +246,19 @@ window.do-load = ->
       fetch MOE-ID
 
   window.grok-val = grok-val = (val) ->
-    player?stop!
+    stop-audio!
     return if val is /</
+    if val in <[ !=諺語 :=諺語 ]> and not width-is-xs!
+      <- setTimeout _, 500ms
+      $(\#query).autocomplete(\search)
     lang = \a
     if "#val" is /^!/
       lang = \t
       val.=substr 1
+    if "#val" is /^:/
+      lang = \h
+      val.=substr 1
+    $('.lang-active').text $(".lang-option.#lang:first").text!
     if lang isnt LANG
       LANG := LANG
       prevVal = ''
@@ -223,8 +282,12 @@ window.do-load = ->
 
   window.fill-query = fill-query = ->
     title = decodeURIComponent(it) - /[（(].*/
-    title -= /^!/
+    title -= /^[:!]/
     return if title is /^</
+    if title is /^→/
+      <- setTimeout _, 500ms
+      $(\#query).autocomplete(\search)
+      return
     $ \#query .val title
     $ \#cond .val "^#{title}$" unless isCordova
     input = $ \#query .get 0
@@ -238,11 +301,12 @@ window.do-load = ->
 
   prevId = prevVal = null
   window.press-lang = (lang='', id='') ->
-    $('.ui-autocomplete li').remove!
-    $ \#query .val ''
     prevId := null
     prevVal := null
-    LANG := lang || (if LANG is \a then \t else \a)
+    LANG := lang || switch LANG | \a => \t | \t => \h | \h => \a
+    $ \#query .val ''
+    $('.ui-autocomplete li').remove!
+    $('.lang-active').text $(".lang-option.#LANG:first").text!
     setPref \lang LANG
     id ||= {a: \萌 t: \發穎 h: \發芽}[LANG]
     unless isCordova
@@ -256,6 +320,7 @@ window.do-load = ->
     window.do-lookup id
 
   bucket-of = ->
+    return it.0 if it is /^[=@]/
     code = it.charCodeAt(0)
     if 0xD800 <= code <= 0xDBFF
       code = it.charCodeAt(1) - 0xDC00
@@ -263,46 +328,52 @@ window.do-load = ->
 
   lookup = ->
     if $(\#query).val!
-      $(\.erase).show!
-      $(\.lang).hide!
+      $(\.erase-box).show!
       return do-lookup b2g that
-    $(\.lang).show!
-    $(\.erase).hide!
+    $(\.erase-box).hide!
 
   window.do-lookup = do-lookup = (val) ->
     title = val - /[（(].*/
+    if location.search is /draw/ and not $('body').hasClass('autodraw')
+      $('body').addClass \autodraw
+      strokeWords title
     Index = INDEX[LANG]
-    if isCordova or not Index
+    if title is /^[=@]/ => # pass through...
+    else if isCordova or not Index
       return if title is /object/
       return true if Index and Index.indexOf("\"#title\"") is -1
-      id = title
     else
       return true if prevVal is val
       prevVal := val
       return true unless Index.indexOf("\"#title\"") >= 0
-      id = title
+    id = title
     return true if prevId is id or (id - /\(.*/) isnt (val - /\(.*/)
     $ \#cond .val "^#{title}$"
-    hist = "#{ if LANG is \a then '' else \! }#title"
+    hist = "#{ HASH-OF[LANG].slice(1) }#title"
     entryHistory.push hist unless entryHistory.length and entryHistory[*-1] is hist
-    $(\.back).show! if isCordova
+    if isCordova or LANG isnt \a or title is /^[=@]/
+      $(\.back).hide!
+    else
+      $(\.back).show!
     fetch title
     return true
 
-  htmlCache = {t:[], a:[]}
+  htmlCache = { t:[], a:[], h:[] }
   fetch = ->
     return unless it
+    return if prevId is it
     prevId := it
     prevVal := it
     setPref \prev-id prevId
-    hash = "#{ if LANG is \a then \# else \#! }#it"
-    try history.pushState null, null, hash unless "#{location.hash}" is hash
+    hash = "#{ HASH-OF[LANG] }#it"
+    if "#{location.hash}" isnt hash => try history.pushState null, null, hash
+      catch => location.replace hash
     if isMobile
       $('#result div, #result span, #result h1:not(:first)').hide!
-      $('#result h1:first').text(it).show!
+      $('#result h1:first').text(it - /^[@=]/).show!
     else
       $('#result div, #result span, #result h1:not(:first)').css \visibility \hidden
-      $('#result h1:first').text(it).css \visibility \visible
+      $('#result h1:first').text(it - /^[@=]/).css \visibility \visible
       window.scroll-to 0 0
     return if load-cache-html it
     return fill-json MOE, \萌 if it is \萌
@@ -322,6 +393,7 @@ window.do-load = ->
       callLater set-pinyin-bindings
 
   set-html = (html) -> callLater ->
+    $('#strokes').fadeOut(\fast -> $('#strokes').html(''); window.scroll-to 0 0) if $('svg, canvas').length and not $('body').hasClass('autodraw')
     $ \#result .html html
     $('#result .part-of-speech a').attr \href, null
     set-pinyin-bindings!
@@ -329,7 +401,7 @@ window.do-load = ->
     cache-loading := no
 
     if isCordova and not DEBUGGING
-      $('#result .playAudio').on \touchstart -> $(@).click!
+      $('#result .playAudio').on \touchstart -> $(@).click! if $(@).hasClass('icon-play')
       return
 
     $('#result .trs.pinyin').each(-> $(@).attr \title trs2bpmf $(@).text!).tooltip tooltipClass: \bpmf
@@ -364,35 +436,49 @@ window.do-load = ->
       part.=replace /"`辨~\u20DE&nbsp`似~\u20DE"[^}]*},{"f":"([^（]+)[^"]*"/ '"辨\u20DE 似\u20DE $1"'
     part.=replace /"`(.)~\u20DE"[^}]*},{"f":"([^（]+)[^"]*"/g '"$1\u20DE $2"'
     part.=replace /"([hbpdcnftrelsaqETAVCD_=])":/g (, k) -> keyMap[k] + \:
-    h = "#{ if LANG is \a then \# else \#! }"
+    h = HASH-OF[LANG]
     part.=replace /([「【『（《])`([^~]+)~([。，、；：？！─…．·－」』》〉]+)/g (, pre, word, post) -> "<span class='punct'>#pre<a href='#h#word'>#word</a>#post</span>"
     part.=replace /([「【『（《])`([^~]+)~/g (, pre, word) -> "<span class='punct'>#pre<a href='#h#word'>#word</a></span>"
     part.=replace /`([^~]+)~([。，、；：？！─…．·－」』》〉]+)/g (, word, post) -> "<span class='punct'><a href='#h#word'>#word</a>#post</span>"
     part.=replace /`([^~]+)~/g (, word) -> "<a href='#h#word'>#word</a>"
-    if JSON?parse?
-      html = render JSON.parse part
+    part.=replace /([)）])/g "$1\u200B"
+    if part is /^\[\s*\[/
+      html = render-strokes part, id
+    else if part is /^\[/
+      html = render-list part, id
     else
-      html = eval "render(#part)"
+      html = render $.parseJSON part
     html.=replace /(.)\u20DE/g          "</span><span class='part-of-speech'>$1</span><span>"
+    html.=replace /(.)\u20E3/g          "<span class='variant'>$1</span>"
     html.=replace //<a[^<]+>#id<\/a>//g "#id"
     html.=replace //<a>([^<]+)</a>//g   "<a href='#{h}$1'>$1</a>"
     html.=replace //(>[^<]*)#id//g      "$1<b>#id</b>"
+    html.=replace(/¹/g \<sup>1</sup>)
+    html.=replace(/²/g \<sup>2</sup>)
+    html.=replace(/³/g \<sup>3</sup>)
+    html.=replace(/⁴/g \<sup>4</sup>)
+    html.=replace(/⁵/g \<sup>5</sup>)
     html.=replace(/\uFFF9/g '<span class="ruby"><span class="rb"><span class="ruby"><span class="rb">').replace(/\uFFFA/g '</span><br><span class="rt trs pinyin">').replace(/\uFFFB/g '</span></span></span></span><br><span class="rt mandarin">').replace(/<span class="rt mandarin">\s*<\//g '</')
 
-    words = xref-of id
-    if words.length
-      html += '<div class="xrefs">'
+    has-xrefs = false
+    for tgt-lang, words of xref-of id | words.length
+      html += '<div class="xrefs">' unless has-xrefs++
       html += """
           <div class="xref-line">
-              <span class='xref'><span class='part-of-speech'>#{
-                if LANG is \t then \華 else \閩
+              <span class='xref part-of-speech'>#{
+                XREF-LABEL-OF[tgt-lang]
               }</span>
+              <span class='xref'>
       """
       html += (for word in words
-        h = "#{ if LANG is \t then \# else \#! }"
-        "<a class='xref' href='#h#word'>#word</a>"
+        h = HASH-OF[tgt-lang]
+        if word is /`/
+          word.replace /`([^~]+)~/g (, word) -> "<a class='xref' href='#h#word'>#word</a>"
+        else
+          "<a class='xref' href='#h#word'>#word</a>"
       ) * \、
-      html += '</span></div></div>'
+      html += '</span></div>'
+    html += '</div>' if has-xrefs
     cb(htmlCache[LANG][id] = html)
     return
 
@@ -415,7 +501,7 @@ window.do-load = ->
     fill-json part, id, cb
 
   if isCordova
-    for lang in <[ a t ]> => let lang
+    for lang in <[ a t h ]> => let lang
       GET "#lang/xref.json", (-> XREF[lang] = it; init! if lang is LANG), \text
       p1 <- GET "#lang/index.1.json", _, \text
       p2 <- GET "#lang/index.2.json", _, \text
@@ -424,12 +510,28 @@ window.do-load = ->
   else
     GET "#LANG/xref.json", (-> XREF[LANG] = it; init!), \text
     GET "#LANG/index.json", (-> INDEX[LANG] = it; init-autocomplete!), \text
-    for lang in <[ a t ]> | lang isnt LANG => let lang
+    for lang in <[ a t h ]> | lang isnt LANG => let lang
       GET "#lang/xref.json", (-> XREF[lang] = it), \text
 
-  GET "t/variants.json", (-> XREF.tv = it), \text
+  GET "t/variants.json", (-> XREF.tv = {t: it}), \text
 
-const MOE = '{"n":8,"t":"萌","r":"`艸~","Deutsch":"Leute, Menschen (u.E.) (S)","c":12,"francais":"germer","English":"to sprout","h":[{"d":[{"q":["`說文解字~：「`萌~，`艸~`芽~`也~。」","`唐~．`韓愈~、`劉~`師~`服~、`侯~`喜~、`軒轅~`彌~`明~．`石~`鼎~`聯句~：「`秋~`瓜~`未~`落~`蒂~，`凍~`芋~`強~`抽~`萌~。」"],"type":"`名~","f":"`草木~`初~`生~`的~`芽~。"},{"q":["`韓非子~．`說~`林~`上~：「`聖人~`見~`微~`以~`知~`萌~，`見~`端~`以~`知~`末~。」","`漢~．`蔡邕~．`對~`詔~`問~`灾~`異~`八~`事~：「`以~`杜漸防萌~，`則~`其~`救~`也~。」"],"type":"`名~","f":"`事物~`發生~`的~`開端~`或~`徵兆~。"},{"type":"`名~","l":["`通~「`氓~」。"],"e":["`如~：「`萌黎~」、「`萌隸~」。"],"f":"`人民~。"},{"type":"`名~","f":"`姓~。`如~`五代~`時~`蜀~`有~`萌~`慮~。"},{"q":["`楚辭~．`王~`逸~．`九思~．`傷~`時~：「`明~`風~`習習~`兮~`龢~`暖~，`百草~`萌~`兮~`華~`榮~。」"],"type":"`動~","e":["`如~：「`萌芽~」。"],"f":"`發芽~。"},{"q":["`管子~．`牧民~：「`惟~`有道~`者~，`能~`備~`患~`於~`未~`形~`也~，`故~`禍~`不~`萌~。」","`三國演義~．`第一~`回~：「`若~`萌~`異心~，`必~`獲~`惡報~。」"],"type":"`動~","e":["`如~：「`故態復萌~」。"],"f":"`發生~。"}],"p":"méng","b":"ㄇㄥˊ","=":"0676"}],"translation":{"francais":["germer"],"Deutsch":["Leute, Menschen (u.E.) (S)","Meng (u.E.) (Eig, Fam)","keimen, sprießen, knospen, ausschlagen (u.E.)"],"English":["to sprout","to bud","to have a strong affection for (slang)","adorable (loanword from Japanese `萌~え moe, slang describing affection for a cute character)"]}}'
+  for lang in <[ a t ]> => let lang
+    GET "#lang/=.json", (-> $(".taxonomy.#lang").after( render-taxonomy lang, $.parseJSON it )), \text
+
+function render-taxonomy (lang, taxonomy)
+  $ul = $(\<ul/> class: \dropdown-menu)
+  for taxo in (if taxonomy instanceof Array then taxonomy else [taxonomy])
+    if typeof taxo is \string
+      $ul.append $(\<li/> role: \presentation).append $(
+        \<a/> class: "lang-option #lang" href: "#{ HASH-OF[lang] }=#taxo"
+      ).text(taxo)
+    else for label, submenu of taxo
+      $ul.append $(\<li/> class: \dropdown-submenu).append(
+        $(\<a/> href: \#).text(label)
+      ).append(render-taxonomy lang, submenu)
+  return $ul
+
+const MOE = '{"n":8,"t":"萌","r":"`艸~","c":12,"h":[{"d":[{"q":["`說文解字~：「`萌~，`艸~`芽~`也~。」","`唐~．`韓愈~、`劉~`師~`服~、`侯~`喜~、`軒轅~`彌~`明~．`石~`鼎~`聯句~：「`秋~`瓜~`未~`落~`蒂~，`凍~`芋~`強~`抽~`萌~。」"],"type":"`名~","f":"`草木~`初~`生~`的~`芽~。"},{"q":["`韓非子~．`說~`林~`上~：「`聖人~`見~`微~`以~`知~`萌~，`見~`端~`以~`知~`末~。」","`漢~．`蔡邕~．`對~`詔~`問~`灾~`異~`八~`事~：「`以~`杜漸防萌~，`則~`其~`救~`也~。」"],"type":"`名~","f":"`事物~`發生~`的~`開端~`或~`徵兆~。"},{"type":"`名~","l":["`通~「`氓~」。"],"e":["`如~：「`萌黎~」、「`萌隸~」。"],"f":"`人民~。"},{"type":"`名~","f":"`姓~。`如~`五代~`時~`蜀~`有~`萌~`慮~。"},{"q":["`楚辭~．`王~`逸~．`九思~．`傷~`時~：「`明~`風~`習習~`兮~`龢~`暖~，`百草~`萌~`兮~`華~`榮~。」"],"type":"`動~","e":["`如~：「`萌芽~」。"],"f":"`發芽~。"},{"q":["`管子~．`牧民~：「`惟~`有道~`者~，`能~`備~`患~`於~`未~`形~`也~，`故~`禍~`不~`萌~。」","`三國演義~．`第一~`回~：「`若~`萌~`異心~，`必~`獲~`惡報~。」"],"type":"`動~","e":["`如~：「`故態復萌~」。"],"f":"`發生~。"}],"p":"méng","b":"ㄇㄥˊ","=":"0676"}],"translation":{"francais":["germer"],"Deutsch":["Leute, Menschen  (S)","Meng  (Eig, Fam)","keimen, sprießen, knospen, ausschlagen "],"English":["to sprout","to bud","to have a strong affection for (slang)","adorable (loanword from Japanese `萌~え moe, slang describing affection for a cute character)"]}}'
 
 function init-autocomplete
   $.widget "ui.autocomplete", $.ui.autocomplete, {
@@ -458,9 +560,19 @@ function init-autocomplete
       fill-query item.value if item?value
       return true
     source: ({term}, cb) ->
+      term = "。" if term is \=諺語 and LANG is \t
+      term = "，" if term is \=諺語 and LANG is \h
       return cb [] unless term.length
-      return cb [] unless term is /[^\u0000-\u00FF]/
+      return cb [] unless term is /[^\u0000-\u00FF]/ or term is /[-,;]/
+      return cb ["→列出含有「#{term}」的詞"] if term.length is 1 and width-is-xs! and term isnt /[。，]/
+      return do-lookup(term) if term is /^[@=]/
+      term.=replace(/^→列出含有「/ '')
+      term.=replace(/」的詞$/ '')
       term.=replace(/\*/g '%')
+      term.=replace(/[-—]/g    \－)
+      term.=replace(/[,﹐]/g   \，)
+      term.=replace(/[;﹔]/g   \；)
+      term.=replace(/[﹒．]/g  \。)
       regex = term
       if term is /\s$/ or term is /\^/
         regex -= /\^/g
@@ -481,8 +593,8 @@ function init-autocomplete
         regex = "\"#regex\""
       regex.=replace(/\(\)/g '')
       try results = INDEX[LANG].match(//#{ b2g regex }//g)
-      results ||= xref-of term, if LANG is \t then \a else \t
-      if LANG is \t => for v in xref-of(term, \tv).reverse!
+      results ||= xref-of(term, if LANG is \a then \t else \a)[LANG]
+      if LANG is \t => for v in xref-of(term, \tv).t.reverse!
         results.unshift v unless v in results
       return cb [''] unless results?length
       do-lookup(results.0 - /"/g) if results.length is 1
@@ -497,8 +609,8 @@ const CJK-RADICALS = '⼀一⼁丨⼂丶⼃丿⼄乙⼅亅⼆二⼇亠⼈人⼉�
 
 const SIMP-TRAD = window.SIMP-TRAD ? ''
 
-function b2g (str)
-  return str if LANG is \t
+function b2g (str='')
+  return str unless LANG is \a and str isnt /^@/
   rv = ''
   for char in (str / '')
     idx = SIMP-TRAD.index-of(char)
@@ -507,8 +619,9 @@ function b2g (str)
 
 function render-radical (char)
   idx = CJK-RADICALS.index-of(char)
-  return char if idx % 2
-  return CJK-RADICALS[idx + 1]
+  char = CJK-RADICALS[idx+1] unless idx % 2
+  return char unless LANG is \a
+  return "<a title='部首檢索' class='xref' style='color: white' href='\#@#char'> #char</a>"
 
 function can-play-mp3
   return CACHED.can-play-mp3 if CACHED.can-play-mp3?
@@ -520,15 +633,51 @@ function can-play-ogg
   a = document.createElement \audio
   CACHED.can-play-ogg = !!(a.canPlayType?('audio/ogg') - /no/)
 
-function render ({ title, english, heteronyms, radical, translation, non_radical_stroke_count: nrs-count, stroke_count: s-count})
+function render-strokes (terms, id)
+  h = HASH-OF[LANG]
+  id -= /^[@=]/
+  if id is /^\s*$/
+    title = "<h1>部首表</h1>"
+    h += '@'
+  else
+    title = "<h1>#id <a class='xref' href='#\@' title='部首表'>部</a></h1>"
+  rows = $.parseJSON terms
+  list = ''
+  for chars, strokes in rows | chars?length
+    list += "<span class='stroke-count'>#strokes</span><span class='stroke-list'>"
+    for ch in chars
+      list += "<a class='stroke-char' href='#h#ch'>#ch</a> "
+    list += "</span><hr style='margin: 0; padding: 0; height: 0'>"
+  return "#title<div class='list'>#list</div>"
+
+function render-list (terms, id)
+  h = HASH-OF[LANG]
+  id -= /^[@=]/
+  title = "<h1>#id</h1>"
+  terms -= /^[^"]*/
+  terms.=replace(/"([^"]+)"[^"]*/g "<span style='clear: both; display: block'>\u00B7 <a href='#{h}$1'>$1</a></span>")
+  return "#title<div class='list'>#terms</div>"
+
+function render (json)
+  { title, english, heteronyms, radical, translation, non_radical_stroke_count: nrs-count, stroke_count: s-count, pinyin: py } = json
   char-html = if radical then "<div class='radical'><span class='glyph'>#{
     render-radical(radical - /<\/?a[^>]*>/g)
-  }</span><span class='count'><span class='sym'>+</span>#{ nrs-count }</span><span class='count'> = #{ s-count }</span> 畫</div>" else ''
-  result = ls heteronyms, ({id, audio_id=id, bopomofo, pinyin, trs='', definitions=[], antonyms, synonyms, variants}) ->
+  }</span><span class='count'><span class='sym'>+</span>#{ nrs-count }</span><span class='count'> = #{ s-count }</span>&nbsp;<span class='iconic-circle stroke icon-pencil' title='筆順動畫'></span></div>" else "<div class='radical'><span class='iconic-circle stroke icon-pencil' title='筆順動畫'></span></div>"
+  result = ls heteronyms, ({id, audio_id=id, bopomofo, pinyin=py, trs='', definitions=[], antonyms, synonyms, variants}) ->
     pinyin ?= trs
-    pinyin = pinyin - /<[^>]*>/g - /（.*）/
+    pinyin = (pinyin - /<[^>]*>/g - /（.*）/)
+    if audio_id and LANG is \h
+      pinyin.=replace /(.)\u20DE/g (_, $1) ->
+        variant = " 四海大平安".indexOf($1)
+        mp3 = "http://h.moedict.tw/#{variant}-#audio_id.ogg"
+        mp3.=replace(/ogg$/ \mp3) if mp3 and not can-play-ogg!
+        """
+        </span><span class="audioBlock"><div onclick='window.playAudio(this, \"#mp3\")' class='icon-play playAudio part-of-speech'>#{$1}</div>
+      """
     bopomofo ?= trs2bpmf "#pinyin"
     bopomofo = bopomofo.replace(/ /g, '\u3000').replace(/([ˇˊˋ])\u3000/g, '$1 ') - /<[^>]*>/g
+    unless title is /</
+      title := "<div class='stroke' title='筆順動畫'>#title</div>"
     """#char-html
       <h1 class='title'>#{ h title }#{
         if audio_id and (can-play-ogg! or can-play-mp3!)
@@ -538,7 +687,7 @@ function render ({ title, english, heteronyms, radical, translation, non_radical
           else if LANG is \a
             mp3 = "http://a.moedict.tw/#audio_id.ogg"
           mp3.=replace(/ogg$/ \mp3) if mp3 and not can-play-ogg!
-        if mp3 then "<span class='playAudio' onclick='window.playAudio(this, \"#mp3\")'>▶</span>" else ''
+        if mp3 then "<i class='icon-play playAudio' onclick='window.playAudio(this, \"#mp3\")'></i>" else ''
       }#{
         if english then "<span class='english'>(#english)</span>" else ''
       }</h1>#{
@@ -547,10 +696,10 @@ function render ({ title, english, heteronyms, radical, translation, non_radical
           }<span class='bpmf'>#{ h bopomofo }</span></div>" else ''
       }<div class="entry">
       #{ls groupBy(\type definitions.slice!), (defs) ->
-        """<div>
-        #{ if defs.0.type then "<span class='part-of-speech'>#{
-          defs.0.type
-        }</span>" else ''}
+        """<div class="entry-item">
+        #{ if defs.0?type
+          [ "<span class='part-of-speech'>#t</span>" for t in defs.0.type / \, ] * '&nbsp;'
+        else '' }
         <ol>
         #{ls defs, ({ type, def, quote=[], example=[], link=[], antonyms, synonyms }) ->
           """<li><p class='definition'>
@@ -564,18 +713,18 @@ function render ({ title, english, heteronyms, radical, translation, non_radical
             #{ ls quote,   -> "<span class='quote'>#{   h it }</span>" }
             #{ ls link,    -> "<span class='link'>#{    h it }</span>" }
             #{ if synonyms then "<span class='synonyms'><span class='part-of-speech'>似</span> #{
-              h(synonyms.replace(/,/g '、'))
+              h((synonyms - /^,/).replace(/,/g '、'))
             }</span>" else '' }
             #{ if antonyms then "<span class='antonyms'><span class='part-of-speech'>反</span> #{
-              h(antonyms.replace(/,/g '、'))
+              h((antonyms - /^,/).replace(/,/g '、'))
             }</span>" else '' }
         </p></li>"""}</ol></div>
       """}
       #{ if synonyms then "<span class='synonyms'><span class='part-of-speech'>似</span> #{
-        h(synonyms.replace(/,/g '、'))
+        h((synonyms - /^,/).replace(/,/g '、'))
       }</span>" else '' }
       #{ if antonyms then "<span class='antonyms'><span class='part-of-speech'>反</span> #{
-        h(antonyms.replace(/,/g '、'))
+        h((antonyms - /^,/).replace(/,/g '、'))
       }</span>" else '' }
       #{ if variants then "<span class='variants'><span class='part-of-speech'>異</span> #{
         h(variants.replace(/,/g '、'))
@@ -583,7 +732,7 @@ function render ({ title, english, heteronyms, radical, translation, non_radical
       </div>
     """
   return "#result#{ if translation then "<div class='xrefs'><span class='translation'>
-    #{ if \English of translation then "<div class='xref-line'><span class='fw_lang'>英</span><span class='fw_def'>#{ (translation.English * ', ') - /, CL:.*/ }</span></div>" else '' }
+    #{ if \English of translation then "<div class='xref-line'><span class='fw_lang'>英</span><span class='fw_def'>#{ (translation.English * ', ') - /, CL:.*/g - /\|(?:<\/?a[^>*]>|[^[,.(])+/g }</span></div>" else '' }
     #{ if \francais of translation then "<div class='xref-line'><span class='fw_lang'>法</span><span class='fw_def'>#{ translation.francais * ', ' }</span></div>" else '' }
     #{ if \Deutsch of translation then "<div class='xref-line'><span class='fw_lang'>德</span><span class='fw_def'>#{ translation.Deutsch * ', ' }</span></div>" else '' }
   </span></div>" else '' }"
@@ -600,12 +749,9 @@ function render ({ title, english, heteronyms, radical, translation, non_radical
   function ls (entries=[], cb)
     [cb x for x in entries].join ""
   function h (text='')
-    text.=replace(/\uFF0E/g '\u00B7') unless isCordova
-    text.=replace(/\u223C/g '\uFF0D')
-    if isCordova
-      return text.replace(/\u030d/g '\u0358') if isDroidGap
-      return text.replace(/\u0358/g '\u030d')
-    return text
+    text.replace(/\uFF0E/g '\u00B7')
+        .replace(/\u223C/g '\uFF0D')
+        .replace(/\u0358/g '\u030d')
   function groupBy (prop, xs)
     return [xs] if xs.length <= 1
     x = xs.shift!
@@ -627,6 +773,7 @@ re = -> [k for k of it].sort((x, y) -> y.length - x.length).join \|
 const C = re Consonants
 const V = re Vowels
 function trs2bpmf (trs)
+  return ' ' if LANG is \h # TODO
   return trs if LANG is \a
   trs.replace(/[A-Za-z\u0300-\u030d]+/g ->
     tone = ''
@@ -640,3 +787,94 @@ function trs2bpmf (trs)
     it + (tone || '\uFFFD')
   ).replace(/[- ]/g '').replace(/\uFFFD/g ' ').replace(/\. ?/g \。).replace(/\? ?/g \？).replace(/\! ?/g \！).replace(/\, ?/g \，)
 
+# draw.coffee from zh-stroke-data by @c9s
+$ ->
+  filterNodes = (childNodes) ->
+    nodes = []
+    for n in childNodes
+      nodes.push n if n.nodeType == 1
+    return nodes
+
+  drawOutline = (paper, outline ,pathAttrs) ->
+    path = []
+    for node in outline.childNodes
+      continue if node.nodeType != 1
+      a = node.attributes
+      continue unless a
+      switch node.nodeName
+        when "MoveTo"
+          path.push [ "M", parseFloat(a.x.value) , parseFloat(a.y.value) ]
+        when "LineTo"
+          path.push [ "L", parseFloat(a.x.value) , parseFloat(a.y.value) ]
+        when "CubicTo"
+          path.push [ "C", parseFloat(a.x1.value) , parseFloat(a.y1.value), parseFloat(a.x2.value), parseFloat(a.y2.value), parseFloat(a.x3.value), parseFloat(a.y3.value) ]
+        when "QuadTo"
+          path.push [ "Q", parseFloat(a.x1.value) , parseFloat(a.y1.value), parseFloat(a.x2.value), parseFloat(a.y2.value) ]
+    stroke = paper.path(path).attr(pathAttrs).transform("s0.1,0.1,0,0")
+    stroke.node.setAttribute "class" "fade"
+    <- setTimeout _, 1ms
+    stroke.node.setAttribute "class" "fade in"
+
+  fetchStrokeXml = (code, next, cb) ->
+    $.get((if isCordova then "http://stroke.moedict.tw/" else "utf8/") + code.toLowerCase() + ".xml", cb, "xml")
+     .fail -> $('svg:last').fadeOut \fast -> $('svg:last').remove!; next!
+
+  strokeWord = (word, cb, timeout) ->
+    return unless $('#strokes').is \:visible
+    window.scroll-to 0 0
+    utf8code = escape(word).replace(/%u/ , "")
+    id = "stroke-#{ "#{Math.random!}" - /^../ }"
+    div = $('<div/>', { id, css: { display: \inline-block } }).appendTo $('#strokes')
+    paper = Raphael id, 204 204
+    grid-lines = [
+      "M68,0 L68,204"
+      "M136,0 L136,204"
+      "M0,68 L204,68"
+      "M0,136 L204,136"
+    ]
+    for line in grid-lines
+      paper.path line .attr 'stroke-width': 1 stroke: \#a33
+
+    fetchStrokeXml utf8code, (-> cb timeout), (doc) ->
+      window.scroll-to 0 0
+      color = "black"
+      pathAttrs = { stroke: color, "stroke-width": 0, "stroke-linecap": "round", "fill": color }
+      delay = 350ms
+      for outline in doc.getElementsByTagName 'Outline' => let
+        setTimeout (->
+          drawOutline(paper,outline,pathAttrs)
+        ), timeout += delay
+      cb (timeout + delay)
+
+  window.strokeWords = (words) ->
+    $('#strokes').html('').show!
+    if (try document.createElement('canvas')?getContext('2d'))
+      <- getScript \js/raf.min.js
+      <- getScript \js/gl-matrix-min.js
+      <- getScript \js/sax.js
+      <- getScript \js/jquery.strokeWords.js
+      url = \./json/
+      dataType = \json
+      if isCordova
+        if window.DataView and window.ArrayBuffer
+          url = \./bin/
+          dataType = \bin
+        else url = \http://stroke-json.moedict.tw/ # Android <4 has no DataView support
+      $('#strokes').strokeWords(words, {url, dataType, -svg})
+    else
+      <- getScript \js/raphael.js
+      ws = words.split ''
+      step = -> strokeWord(ws.shift!, step, it) if ws.length
+      step 0
+
+LoadedScripts = {}
+function getScript (src, cb)
+  return cb! if LoadedScripts[src]
+  LoadedScripts[src] = true
+  $.ajax do
+    type: \GET
+    url: src
+    dataType: \script
+    cache: yes
+    crossDomain: yes
+    complete: cb
