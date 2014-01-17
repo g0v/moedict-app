@@ -1,5 +1,5 @@
 (function() {
-  var StrokeData, WordStroker, fetchStrokeJSON, fetchStrokeJSONFromBinary, fetchStrokeJSONFromXml, fetchStrokeXml, forEach, getBinary, glMatrix, jsonFromXml, root, sax, sortSurrogates, transform, transformWithMatrix;
+  var CacheBinary, CacheJSON, StrokeData, WordStroker, binaryCache, fetchStrokeJSON, fetchStrokeJSONFromBinary, fetchStrokeJSONFromXml, fetchStrokeXml, fetchers, forEach, getBinary, glMatrix, jsonCache, jsonFromBinary, jsonFromXml, root, sax, scale, sortSurrogates, transform, transformWithMatrix, undelta, undeltaR;
 
   root = this;
 
@@ -166,7 +166,7 @@
     xhr.onprogress = progress;
     xhr.onreadystatechange = function(e) {
       if (this.readyState === 4) {
-        if (this.status === 200 || !(this.status)) {
+        if (this.status === 200 || this.status === 0) {
           return typeof success === "function" ? success(this.response) : void 0;
         } else {
           return typeof fail === "function" ? fail(this.status) : void 0;
@@ -176,114 +176,182 @@
     return xhr.send();
   };
 
-  fetchStrokeJSONFromBinary = function(path, success, fail, progress) {
-    var file_id, packed_path;
-    if (root.window) {
-      packed_path = "" + (path.substr(0, 6)) + (path.substr(path.length - 6, 2)) + ".bin";
-      file_id = parseInt(path.substr(6, path.length - 12), 16);
-      return getBinary(packed_path, function(data) {
-        var cmd, cmd_len, data_view, i, id, index, node, offset, outline, p, ret, scale, size_indices, size_len, stroke_count, strokes_len, track, track_len, _i, _j, _k, _l, _len, _len1, _len2, _len3, _m, _n, _o, _p, _q;
-        scale = 2060.0 / 256;
-        data_view = new DataView(data);
-        stroke_count = data_view.getUint16(0, true);
-        for (i = _i = 0; 0 <= stroke_count ? _i < stroke_count : _i > stroke_count; i = 0 <= stroke_count ? ++_i : --_i) {
-          id = data_view.getUint16(2 + i * 6, true);
-          if (id === file_id) {
-            offset = data_view.getUint32(2 + i * 6 + 2, true);
+  undelta = function(xs) {
+    var i, results, _i, _ref;
+    results = [xs[0]];
+    for (i = _i = 1, _ref = xs.length; 1 <= _ref ? _i < _ref : _i > _ref; i = 1 <= _ref ? ++_i : --_i) {
+      results.push((results[i - 1] + xs[i] + 256) % 256);
+    }
+    return results;
+  };
+
+  undeltaR = function(result, current) {
+    var prev;
+    prev = result.length !== 0 ? result[result.length - 1] : 0;
+    return result.concat([(prev + current + 256) % 256]);
+  };
+
+  scale = function(v) {
+    return v * 2060.0 / 256;
+  };
+
+  jsonFromBinary = function(data, file_id, success, fail) {
+    var cmd, cmd_len, cood_len, data_view, i, id, index, j, offset, outline, p, ret, size, size_indices, size_len, ss, stroke_count, strokes_len, track, track_len, xs, ys, _i, _j, _k, _l, _len, _len1, _m, _n, _o, _p, _q, _r, _s, _t;
+    size = {
+      "M": 1,
+      "L": 1,
+      "Q": 2,
+      "C": 3
+    };
+    data_view = new DataView(data);
+    stroke_count = data_view.getUint16(0, true);
+    for (i = _i = 0; 0 <= stroke_count ? _i < stroke_count : _i > stroke_count; i = 0 <= stroke_count ? ++_i : --_i) {
+      id = data_view.getUint16(2 + i * 6, true);
+      if (id === file_id) {
+        offset = data_view.getUint32(2 + i * 6 + 2, true);
+        break;
+      }
+    }
+    if (i === stroke_count) {
+      return typeof fail === "function" ? fail(new Error("stroke not found")) : void 0;
+    }
+    p = 0;
+    ret = [];
+    strokes_len = data_view.getUint8(offset + p++);
+    for (_j = 0; 0 <= strokes_len ? _j < strokes_len : _j > strokes_len; 0 <= strokes_len ? _j++ : _j--) {
+      outline = [];
+      cmd_len = data_view.getUint8(offset + p++);
+      cood_len = 0;
+      for (_k = 0; 0 <= cmd_len ? _k < cmd_len : _k > cmd_len; 0 <= cmd_len ? _k++ : _k--) {
+        cmd = {
+          type: String.fromCharCode(data_view.getUint8(offset + p++))
+        };
+        cood_len += size[cmd.type];
+        outline.push(cmd);
+      }
+      xs = [];
+      ys = [];
+      for (_l = 0; 0 <= cood_len ? _l < cood_len : _l > cood_len; 0 <= cood_len ? _l++ : _l--) {
+        xs.push(data_view.getUint8(offset + p++));
+      }
+      for (_m = 0; 0 <= cood_len ? _m < cood_len : _m > cood_len; 0 <= cood_len ? _m++ : _m--) {
+        ys.push(data_view.getUint8(offset + p++));
+      }
+      xs = undelta(xs).map(scale);
+      ys = undelta(ys).map(scale);
+      j = 0;
+      for (_n = 0, _len = outline.length; _n < _len; _n++) {
+        cmd = outline[_n];
+        switch (cmd.type) {
+          case "M":
+            cmd.x = xs[j];
+            cmd.y = ys[j++];
             break;
-          }
+          case "L":
+            cmd.x = xs[j];
+            cmd.y = ys[j++];
+            break;
+          case "Q":
+            cmd.begin = {
+              x: xs[j],
+              y: ys[j++]
+            };
+            cmd.end = {
+              x: xs[j],
+              y: ys[j++]
+            };
+            break;
+          case "C":
+            cmd.begin = {
+              x: xs[j],
+              y: ys[j++]
+            };
+            cmd.mid = {
+              x: xs[j],
+              y: ys[j++]
+            };
+            cmd.end = {
+              x: xs[j],
+              y: ys[j++]
+            };
         }
-        if (i === stroke_count) {
-          return typeof fail === "function" ? fail(new Error("stroke not found")) : void 0;
-        }
-        p = 0;
-        ret = [];
-        strokes_len = data_view.getUint8(offset + p++);
-        for (_j = 0; 0 <= strokes_len ? _j < strokes_len : _j > strokes_len; 0 <= strokes_len ? _j++ : _j--) {
-          outline = [];
-          cmd_len = data_view.getUint8(offset + p++);
-          for (_k = 0; 0 <= cmd_len ? _k < cmd_len : _k > cmd_len; 0 <= cmd_len ? _k++ : _k--) {
-            outline.push({
-              type: String.fromCharCode(data_view.getUint8(offset + p++))
-            });
-          }
-          for (_l = 0, _len = outline.length; _l < _len; _l++) {
-            cmd = outline[_l];
-            switch (cmd.type) {
-              case "M":
-                cmd.x = scale * data_view.getUint8(offset + p++);
-                break;
-              case "L":
-                cmd.x = scale * data_view.getUint8(offset + p++);
-                break;
-              case "Q":
-                cmd.begin = {
-                  x: scale * data_view.getUint8(offset + p++)
-                };
-                cmd.end = {
-                  x: scale * data_view.getUint8(offset + p++)
-                };
-                break;
-              case "C":
-                cmd.begin = {
-                  x: scale * data_view.getUint8(offset + p++)
-                };
-                cmd.mid = {
-                  x: scale * data_view.getUint8(offset + p++)
-                };
-                cmd.end = {
-                  x: scale * data_view.getUint8(offset + p++)
-                };
-            }
-          }
-          for (_m = 0, _len1 = outline.length; _m < _len1; _m++) {
-            cmd = outline[_m];
-            switch (cmd.type) {
-              case "M":
-                cmd.y = scale * data_view.getUint8(offset + p++);
-                break;
-              case "L":
-                cmd.y = scale * data_view.getUint8(offset + p++);
-                break;
-              case "Q":
-                cmd.begin.y = scale * data_view.getUint8(offset + p++);
-                cmd.end.y = scale * data_view.getUint8(offset + p++);
-                break;
-              case "C":
-                cmd.begin.y = scale * data_view.getUint8(offset + p++);
-                cmd.mid.y = scale * data_view.getUint8(offset + p++);
-                cmd.end.y = scale * data_view.getUint8(offset + p++);
-            }
-          }
-          track = [];
-          track_len = data_view.getUint8(offset + p++);
-          size_indices = [];
-          size_len = data_view.getUint8(offset + p++);
-          for (_n = 0; 0 <= size_len ? _n < size_len : _n > size_len; 0 <= size_len ? _n++ : _n--) {
-            size_indices.push(data_view.getUint8(offset + p++));
-          }
-          for (_o = 0; 0 <= track_len ? _o < track_len : _o > track_len; 0 <= track_len ? _o++ : _o--) {
-            track.push({
-              x: scale * data_view.getUint8(offset + p++)
-            });
-          }
-          for (_p = 0, _len2 = track.length; _p < _len2; _p++) {
-            node = track[_p];
-            node.y = scale * data_view.getUint8(offset + p++);
-          }
-          for (_q = 0, _len3 = size_indices.length; _q < _len3; _q++) {
-            index = size_indices[_q];
-            track[index].size = scale * data_view.getUint8(offset + p++);
-          }
-          ret.push({
-            outline: outline,
-            track: track
+      }
+      track = [];
+      track_len = data_view.getUint8(offset + p++);
+      size_indices = [];
+      size_len = data_view.getUint8(offset + p++);
+      for (_o = 0; 0 <= size_len ? _o < size_len : _o > size_len; 0 <= size_len ? _o++ : _o--) {
+        size_indices.push(data_view.getUint8(offset + p++));
+      }
+      xs = [];
+      ys = [];
+      ss = [];
+      for (_p = 0; 0 <= track_len ? _p < track_len : _p > track_len; 0 <= track_len ? _p++ : _p--) {
+        xs.push(data_view.getUint8(offset + p++));
+      }
+      for (_q = 0; 0 <= track_len ? _q < track_len : _q > track_len; 0 <= track_len ? _q++ : _q--) {
+        ys.push(data_view.getUint8(offset + p++));
+      }
+      for (_r = 0; 0 <= size_len ? _r < size_len : _r > size_len; 0 <= size_len ? _r++ : _r--) {
+        ss.push(data_view.getUint8(offset + p++));
+      }
+      xs = undelta(xs).map(scale);
+      ys = undelta(ys).map(scale);
+      ss = ss.map(scale);
+      for (j = _s = 0; 0 <= track_len ? _s < track_len : _s > track_len; j = 0 <= track_len ? ++_s : --_s) {
+        track.push({
+          x: xs[j],
+          y: ys[j]
+        });
+      }
+      j = 0;
+      for (_t = 0, _len1 = size_indices.length; _t < _len1; _t++) {
+        index = size_indices[_t];
+        track[index].size = ss[j++];
+      }
+      ret.push({
+        outline: outline,
+        track: track
+      });
+    }
+    return typeof success === "function" ? success(ret) : void 0;
+  };
+
+  CacheBinary = function() {
+    var cache;
+    cache = {};
+    return {
+      get: function(path) {
+        var p, packed, packed_path;
+        packed = path.substr(path.length - 6, 2);
+        packed_path = "" + (path.substr(0, 6)) + packed + ".bin";
+        if (cache[packed] === void 0) {
+          p = jQuery.Deferred();
+          getBinary(packed_path, function(data) {
+            return p.resolve(data);
+          }, function(err) {
+            return p.reject(err);
+          }, function(event) {
+            return p.notify(event);
           });
+          cache[packed] = p;
         }
-        return typeof success === "function" ? success(ret) : void 0;
-      }, fail, progress);
+        return cache[packed];
+      }
+    };
+  };
+
+  binaryCache = CacheBinary();
+
+  fetchStrokeJSONFromBinary = function(path, success, fail, progress) {
+    var file_id;
+    if (root.window) {
+      file_id = parseInt(path.substr(6, path.length - 12), 16);
+      return binaryCache.get(path).done(function(data) {
+        return jsonFromBinary(data, file_id, success, fail);
+      }).fail(fail).progress(progress);
     } else {
-      return console.log("not implement");
+      return console.log("not implemented");
     }
   };
 
@@ -407,30 +475,46 @@
     return ret;
   };
 
-  StrokeData = function(options) {
-    var buffer, fetchers, ret;
-    fetchers = {
-      "xml": fetchStrokeJSONFromXml,
-      "json": fetchStrokeJSON,
-      "bin": fetchStrokeJSONFromBinary
+  fetchers = {
+    "xml": fetchStrokeJSONFromXml,
+    "json": fetchStrokeJSON,
+    "bin": fetchStrokeJSONFromBinary
+  };
+
+  CacheJSON = function() {
+    var cache;
+    cache = {};
+    return {
+      get: function(cp, url, type) {
+        var p;
+        if (cache[cp] === void 0) {
+          p = jQuery.Deferred();
+          fetchers[type]("" + url + cp + "." + type, function(json) {
+            return p.resolve(json);
+          }, function(err) {
+            return p.reject(err);
+          }, function(event) {
+            return p.notify(event);
+          });
+          cache[cp] = p;
+        }
+        return cache[cp];
+      }
     };
+  };
+
+  jsonCache = CacheJSON();
+
+  StrokeData = function(options) {
+    var ret;
     options = $.extend({
       url: "./json/",
       dataType: "json"
     }, options);
-    buffer = {};
     return ret = {
       transform: transformWithMatrix,
       get: function(cp, success, fail, progress) {
-        if (!buffer[cp]) {
-          return fetchers[options.dataType]("" + options.url + cp + "." + options.dataType, function(json) {
-            return typeof success === "function" ? success(buffer[cp] = json) : void 0;
-          }, function(err) {
-            return typeof fail === "function" ? fail(err) : void 0;
-          }, progress);
-        } else {
-          return typeof success === "function" ? success(buffer[cp]) : void 0;
-        }
+        return jsonCache.get(cp, options.url, options.dataType).done(success).fail(fail).progress(progress);
       }
     };
   };
@@ -459,9 +543,7 @@
 
 }).call(this);
 
-/*
-//@ sourceMappingURL=utils.stroke-words.js.map
-*/(function() {
+(function() {
   $(function() {
     var drawOutline, fetchStrokeXml, filterNodes, strokeWord, strokeWords;
     filterNodes = function(childNodes) {
@@ -564,9 +646,7 @@
 
 }).call(this);
 
-/*
-//@ sourceMappingURL=draw.js.map
-*/(function() {
+(function() {
   $(function() {
     var Word, demoMatrix, drawBackground, drawElementWithWord, drawElementWithWords, internalOptions, pathOutline;
     internalOptions = {
@@ -754,56 +834,62 @@
       return _results;
     };
     drawElementWithWord = function(element, word, options) {
-      var $loader, $word, data, promise, stroker;
+      var $loader, $word, data, pp, stroker;
       options || (options = {});
-      promise = jQuery.Deferred();
       stroker = new Word(options);
       $word = $("<div class=\"word\"></div>");
       $loader = $("<div class=\"loader\"><div style=\"width: 0\"></div><i class=\"icon-spinner icon-spin icon-large icon-fixed-width\"></i></div>");
-      $word.append(stroker.canvas).append($loader);
+      $word.append(stroker.canvas);
       $(element).append($word);
       data = WordStroker.utils.StrokeData({
         url: options.url,
         dataType: options.dataType
       });
-      data.get(word.cp, function(json) {
-        $loader.remove();
-        return promise.resolve({
-          drawBackground: function() {
-            return stroker.drawBackground();
-          },
-          draw: function() {
-            return stroker.draw(json);
-          },
-          remove: function() {
-            return $(stroker.canvas).remove();
-          }
-        });
-      }, function() {
-        $loader.remove();
-        return promise.resolve({
-          drawBackground: function() {
-            return stroker.drawBackground();
-          },
-          draw: function() {
-            var p;
-            p = jQuery.Deferred();
-            $(stroker.canvas).fadeTo("fast", 0.5, function() {
-              return p.resolve();
+      pp = jQuery.Deferred();
+      return {
+        promise: pp,
+        load: function() {
+          $word.append($loader);
+          data.get(word.cp, function(json) {
+            $loader.remove();
+            return pp.resolve({
+              drawBackground: function() {
+                return stroker.drawBackground();
+              },
+              draw: function() {
+                return stroker.draw(json);
+              },
+              remove: function() {
+                return $(stroker.canvas).remove();
+              }
             });
-            return p;
-          },
-          remove: function() {
-            return $(stroker.canvas).remove();
-          }
-        });
-      }, function(e) {
-        if (e.lengthComputable) {
-          $loader.find("> div").css("width", e.loaded / e.total * 100 + "%");
+          }, function() {
+            $loader.remove();
+            return pp.resolve({
+              drawBackground: function() {
+                return stroker.drawBackground();
+              },
+              draw: function() {
+                var p;
+                p = jQuery.Deferred();
+                $(stroker.canvas).fadeTo("fast", 0.5, function() {
+                  return p.resolve();
+                });
+                return p;
+              },
+              remove: function() {
+                return $(stroker.canvas).remove();
+              }
+            });
+          }, function(e) {
+            if (e.lengthComputable) {
+              $loader.find("> div").css("width", e.loaded / e.total * 100 + "%");
+            }
+            return pp.notifyWith(e, [e, word.text]);
+          });
+          return pp;
         }
-        return promise.notifyWith(e, [e, word.text]);
-      });
-      return promise;
+      };
     };
     drawElementWithWords = function(element, words, options) {
       return WordStroker.utils.sortSurrogates(words).map(function(word) {
@@ -819,9 +905,7 @@
 
 }).call(this);
 
-/*
-//@ sourceMappingURL=draw.canvas.js.map
-*/(function() {
+(function() {
   var $, isCanvasSupported;
 
   isCanvasSupported = function() {
@@ -838,43 +922,43 @@
       }
       options = $.extend({
         single: false,
+        pool_size: 4,
         svg: !isCanvasSupported(),
         progress: null
       }, options);
       return this.each(function() {
-        var promises;
+        var index, load, loaded, loaders;
         if (options.svg) {
           return window.WordStroker.raphael.strokeWords(this, words);
         } else {
-          promises = window.WordStroker.canvas.drawElementWithWords(this, words, options);
-          if (!options.single) {
-            promises.forEach(function(p) {
-              return p.progress(options.progress).then(function(word) {
+          loaders = window.WordStroker.canvas.drawElementWithWords(this, words, options);
+          index = 0;
+          loaded = 0;
+          (load = function() {
+            var _results;
+            _results = [];
+            while (index < loaders.length && loaded < options.pool_size) {
+              ++loaded;
+              _results.push(loaders[index++].load().progress(options.progress).then(function(word) {
                 return word.drawBackground();
+              }));
+            }
+            return _results;
+          })();
+          return loaders.reduceRight(function(next, current) {
+            return function() {
+              return current.promise.then(function(word) {
+                return word.draw().then(function() {
+                  --loaded;
+                  load();
+                  if (options.single) {
+                    word.remove();
+                  }
+                  return typeof next === "function" ? next() : void 0;
+                });
               });
-            });
-            return promises.reduceRight(function(next, current) {
-              return function() {
-                return current.then(function(word) {
-                  return word.draw().then(next);
-                });
-              };
-            }, null)();
-          } else {
-            return promises.reduceRight(function(next, current) {
-              return function() {
-                return current.then(function(word) {
-                  word.drawBackground();
-                  return word.draw().then(function() {
-                    if (next) {
-                      word.remove();
-                      return next();
-                    }
-                  });
-                });
-              };
-            }, null)();
-          }
+            };
+          }, null)();
         }
       }).data("strokeWords", {
         play: null
@@ -883,7 +967,3 @@
   });
 
 }).call(this);
-
-/*
-//@ sourceMappingURL=jquery.stroke-words.js.map
-*/
