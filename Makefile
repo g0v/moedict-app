@@ -14,6 +14,8 @@ after_prepare :: before_build
 	#cp -Rf ../android/res/drawable/* platforms/android/res/drawable
 	cp -Rf ./res/icons/android/* platforms/android/res/
 	cp -Rf ./res/icons/ios/* platforms/ios/MoeDict/Resources/icons/
+	# CSLD Specific
+	find platforms -type f -name index.html | xargs perl -pi -e 's!<noscript>!<script>window.STANDALONE="c";</script><noscript>!'
 
 before_build ::
 	-@mkdir -p platforms/android/src/org/audreyt/dict/moe platforms/android/res/menu platforms/android/res/values
