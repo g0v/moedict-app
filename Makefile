@@ -9,7 +9,7 @@ before_prepare :: copy
 
 after_prepare :: before_build
 	cp MoeDict-Info.plist platforms/ios/MoeDict/MoeDict-Info.plist
-	find platforms/android -type f |grep xml$$ | xargs grep -l moe.dict | xargs perl -pi -e 's/moe.dict/dict.moe/g'
+	find platforms/android -type f |grep xml$$ | xargs grep -l moe.dict | xargs perl -pi -e 's/moe.dict/dict.moe_c/g'
 	#@cd ../android/res && tar cf splash.tar */splash.png && cd ../../cordova/platforms/android/res && tar vxf ../../../../android/res/splash.tar && cd ../../..
 	#cp -Rf ../android/res/drawable/* platforms/android/res/drawable
 	cp -Rf ./res/icons/android/* platforms/android/res/
