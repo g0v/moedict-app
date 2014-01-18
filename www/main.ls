@@ -1,5 +1,5 @@
 window.isCordova = isCordova = document.URL isnt /^https?:/
-const DEBUGGING = (!isCordova and !!window.cordova?require)
+const DEBUGGING = (!isCordova and !!window.cordova?require) or yes
 const STANDALONE = window.STANDALONE || false
 
 {map} = require('prelude-ls')
@@ -180,7 +180,7 @@ window.do-load = ->
   $('body').addClass \desktop unless isMobile or isApp
   $('body').addClass \android if isDroidGap
 
-  unless isCordova
+  unless STANDALONE and isDroidGap
     <- setTimeout _, 1ms
     cx = '007966820757635393756:sasf0rnevk4';
     gcse = document.createElement('script')
