@@ -602,7 +602,7 @@ window.do-load = ->
       html = render-list part, id
     else
       html = render $.parseJSON part
-    html.=replace /(.)\u20DD/g          "<span class='regional part-of-speech'>$1</span>"
+    html.=replace /(.)\u20DD/g          "<span class='regional part-of-speech'>$1</span> "
     html.=replace /(.)\u20DE/g          "</span><span class='part-of-speech'>$1</span><span>"
     html.=replace /(.)\u20DF/g          "<span class='specific'>$1</span>"
     html.=replace /(.)\u20E3/g          "<span class='variant'>$1</span>"
@@ -922,7 +922,9 @@ function render (json)
       b .= replace /（[語|讀|又]音）[\u200B]?/, ''
       b .= replace /\(變\)​\/.*/, ''
       b .= replace /\/.*/, ''
-      b .= replace /<br>.*/, ''
+      if b is /<br>陸/
+        cn-specific-bpmf = b - /.*<br>陸./
+      b .= replace /<br>(.*)/, ''
       b -= /.\u20DF/g
 
       if t is /^([\uD800-\uDBFF][\uDC00-\uDFFF]|.)$/
@@ -948,7 +950,7 @@ function render (json)
 
                  # 國語兒化音
                  else if LANG != \t && yin is /^[^eēéěè].*r$/g
-                 then ' rbspan="2"'
+                 then ((b = (cn-specific-bpmf || b)); ' rbspan="2"')
 
                  # 兩岸詞典，按元音群計算字數
                  else if LANG != \t and yin is /[aāáǎàeēéěèiīíǐìoōóǒòuūúǔùüǖǘǚǜ]+/g
@@ -1049,8 +1051,12 @@ function render (json)
         }
           <ol>
           #{ls defs, ({ type, def, quote=[], example=[], link=[], antonyms, synonyms }) ->
-          """
-            <li><p class='definition'>
+          if def is /∥/
+            after-def = "<div style='margin: 0 0 21px -27px'>#{ h(def - /.*∥/) }</div>"
+            def -= /∥.*/
+          """#{
+            if def is /^\s*\(\d+\)/ then '' else '<li>'
+          }<p class='definition'>
               <span class="def">
               #{
                 (h expand-def def).replace(
@@ -1072,7 +1078,8 @@ function render (json)
                   h((antonyms - /^,/).replace(/,/g '、'))
                 }</span>" else ''
               }
-            </p></li>
+            </p>
+            #{ after-def || '' }
           """
           }
           </ol></div>
@@ -1110,7 +1117,7 @@ function render (json)
     ).replace(
       /\{(\d)\}/g (_, num) -> String.fromCharCode(0x2775 + parseInt num)
     ).replace(
-      /[（(](\d)[)）]/g (_, num) -> String.fromCharCode(0x2789 + parseInt num)
+      /[（(](\d)[)）]/g (_, num) -> String.fromCharCode(0x2789 + parseInt num) + ' '
     ).replace(/\(/g, '（').replace(/\)/g, '）')
   function ls (entries=[], cb)
     [cb x for x in entries].join ""

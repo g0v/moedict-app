@@ -1059,7 +1059,7 @@
       } else {
         html = render($.parseJSON(part));
       }
-      html = html.replace(/(.)\u20DD/g, "<span class='regional part-of-speech'>$1</span>");
+      html = html.replace(/(.)\u20DD/g, "<span class='regional part-of-speech'>$1</span> ");
       html = html.replace(/(.)\u20DE/g, "</span><span class='part-of-speech'>$1</span><span>");
       html = html.replace(/(.)\u20DF/g, "<span class='specific'>$1</span>");
       html = html.replace(/(.)\u20E3/g, "<span class='variant'>$1</span>");
@@ -1574,7 +1574,7 @@
       bopomofo = bopomofo.replace(/([^ ])(ㄦ)/g, '$1 $2').replace(/([ ]?[\u3000][ ]?)/g, ' ');
       bopomofo = bopomofo.replace(/([ˇˊˋ˪˫])[ ]?/g, '$1 ').replace(/([ㆴㆵㆶㆷ][̍͘]?)/g, '$1 ');
       ruby = function(){
-        var t, b, ruby, p, i$, len$, yin, span;
+        var t, b, cnSpecificBpmf, ruby, p, i$, len$, yin, span;
         if (LANG === 'h') {
           return;
         }
@@ -1584,7 +1584,10 @@
         b = b.replace(/（[語|讀|又]音）[\u200B]?/, '');
         b = b.replace(/\(變\)​\/.*/, '');
         b = b.replace(/\/.*/, '');
-        b = b.replace(/<br>.*/, '');
+        if (/<br>陸/.exec(b)) {
+          cnSpecificBpmf = replace$.call(b, /.*<br>陸./, '');
+        }
+        b = b.replace(/<br>(.*)/, '');
         b = replace$.call(b, /.\u20DF/g, '');
         if (/^([\uD800-\uDBFF][\uDC00-\uDFFF]|.)$/.exec(t)) {
           ruby = '<rbc><div class="stroke" title="筆順動畫"><rb>' + t + '</rb></div></rbc>';
@@ -1606,7 +1609,7 @@
             span = LANG === 't' && /\-/g.exec(yin)
               ? ' rbspan="' + (yin.match(/[\-]+/g).length + 1) + '"'
               : LANG !== 't' && /^[^eēéěè].*r$/g.exec(yin)
-                ? ' rbspan="2"'
+                ? (b = cnSpecificBpmf || b, ' rbspan="2"')
                 : LANG !== 't' && /[aāáǎàeēéěèiīíǐìoōóǒòuūúǔùüǖǘǚǜ]+/g.exec(yin) ? ' rbspan="' + yin.match(/[aāáǎàeēéěèiīíǐìoōóǒòuūúǔùüǖǘǚǜ]+/g).length + '"' : '';
             p[i$] = '<rt' + span + '>' + yin + '</rt>';
           }
@@ -1650,7 +1653,7 @@
           }
           return results$;
         }()).join('&nbsp;') : '') + "\n  <ol>\n  " + ls(defs, function(arg$){
-          var type, def, quote, ref$, example, link, antonyms, synonyms;
+          var type, def, quote, ref$, example, link, antonyms, synonyms, afterDef;
           type = arg$.type, def = arg$.def, quote = (ref$ = arg$.quote) != null
             ? ref$
             : [], example = (ref$ = arg$.example) != null
@@ -1658,13 +1661,17 @@
             : [], link = (ref$ = arg$.link) != null
             ? ref$
             : [], antonyms = arg$.antonyms, synonyms = arg$.synonyms;
-          return "<li><p class='definition'>\n  <span class=\"def\">\n  " + h(expandDef(def)).replace(/([：。」])([\u278A-\u2793\u24eb-\u24f4])/g, '$1</span><span class="def">$2') + "</span>\n  " + ls(example, function(it){
+          if (/∥/.exec(def)) {
+            afterDef = "<div style='margin: 0 0 21px -27px'>" + h(replace$.call(def, /.*∥/, '')) + "</div>";
+            def = replace$.call(def, /∥.*/, '');
+          }
+          return (/^\s*\(\d+\)/.exec(def) ? '' : '<li>') + "<p class='definition'>\n    <span class=\"def\">\n    " + h(expandDef(def)).replace(/([：。」])([\u278A-\u2793\u24eb-\u24f4])/g, '$1</span><span class="def">$2') + "</span>\n    " + ls(example, function(it){
             return "<span class='example'>" + h(it) + "</span></span>";
-          }) + "\n  " + ls(quote, function(it){
+          }) + "\n    " + ls(quote, function(it){
             return "<span class='quote'>" + h(it) + "</span>";
-          }) + "\n  " + ls(link, function(it){
+          }) + "\n    " + ls(link, function(it){
             return "<span class='link'>" + h(it) + "</span>";
-          }) + "\n  " + (synonyms ? "<span class='synonyms'><span class='part-of-speech'>似</span> " + h((replace$.call(synonyms, /^,/, '')).replace(/,/g, '、')) + "</span>" : '') + (antonyms ? "<span class='antonyms'><span class='part-of-speech'>反</span> " + h((replace$.call(antonyms, /^,/, '')).replace(/,/g, '、')) + "</span>" : '') + "\n</p></li>";
+          }) + "\n    " + (synonyms ? "<span class='synonyms'><span class='part-of-speech'>似</span> " + h((replace$.call(synonyms, /^,/, '')).replace(/,/g, '、')) + "</span>" : '') + (antonyms ? "<span class='antonyms'><span class='part-of-speech'>反</span> " + h((replace$.call(antonyms, /^,/, '')).replace(/,/g, '、')) + "</span>" : '') + "\n  </p>\n  " + (afterDef || '');
         }) + "\n  </ol></div>";
       }) + (synonyms ? "<span class='synonyms'><span class='part-of-speech'>似</span> " + h((replace$.call(synonyms, /^,/, '')).replace(/,/g, '、')) + "</span>" : '') + (antonyms ? "<span class='antonyms'><span class='part-of-speech'>反</span> " + h((replace$.call(antonyms, /^,/, '')).replace(/,/g, '、')) + "</span>" : '') + (variants ? "<span class='variants'><span class='part-of-speech'>異</span> " + h(variants.replace(/,/g, '、')) + "</span>" : '') + "\n</div>";
     });
@@ -1677,7 +1684,7 @@
       }).replace(/\{(\d)\}/g, function(_, num){
         return String.fromCharCode(0x2775 + parseInt(num));
       }).replace(/[（(](\d)[)）]/g, function(_, num){
-        return String.fromCharCode(0x2789 + parseInt(num));
+        return String.fromCharCode(0x2789 + parseInt(num)) + ' ';
       }).replace(/\(/g, '（').replace(/\)/g, '）');
     }
     function ls(entries, cb){
