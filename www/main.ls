@@ -950,7 +950,14 @@ function render (json)
 
                  # 國語兒化音
                  else if LANG != \t && yin is /^[^eēéěè].*r$/g
-                 then ((b = (cn-specific-bpmf || b)); ' rbspan="2"')
+                 then
+                   if cn-specific-bpmf
+                     cns = cn-specific-bpmf / /\s+/
+                     tws = b / /\s+/
+                     tws[*-2] = cns[*-2]
+                     b-alt := b
+                     b = tws * ' '
+                   ' rbspan="2"'
 
                  # 兩岸詞典，按元音群計算字數
                  else if LANG != \t and yin is /[aāáǎàeēéěèiīíǐìoōóǒòuūúǔùüǖǘǚǜ]+/g
@@ -1052,11 +1059,13 @@ function render (json)
           <ol>
           #{ls defs, ({ type, def, quote=[], example=[], link=[], antonyms, synonyms }) ->
           if def is /∥/
-            after-def = "<div style='margin: 0 0 21px -27px'>#{ h(def - /.*∥/) }</div>"
+            after-def = "<div style='margin: 0 0 22px -44px'>#{ h(def - /^[^∥]+/ ) }</div>"
             def -= /∥.*/
           """#{
-            if def is /^\s*\(\d+\)/ then '' else '<li>'
-          }<p class='definition'>
+            if def is /^\s*\(\d+\)|[:：]<\/span>$/ then '' else '<li><p '
+          }<p class='definition' #{
+            if def is /[:：]<\/span>$/ then 'style="margin-left: -28px"' else ''
+          }>
               <span class="def">
               #{
                 (h expand-def def).replace(

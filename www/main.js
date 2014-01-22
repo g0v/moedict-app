@@ -1574,7 +1574,7 @@
       bopomofo = bopomofo.replace(/([^ ])(ㄦ)/g, '$1 $2').replace(/([ ]?[\u3000][ ]?)/g, ' ');
       bopomofo = bopomofo.replace(/([ˇˊˋ˪˫])[ ]?/g, '$1 ').replace(/([ㆴㆵㆶㆷ][̍͘]?)/g, '$1 ');
       ruby = function(){
-        var t, b, cnSpecificBpmf, ruby, p, i$, len$, yin, span;
+        var t, b, cnSpecificBpmf, ruby, p, i$, len$, yin, span, cns, tws;
         if (LANG === 'h') {
           return;
         }
@@ -1609,7 +1609,7 @@
             span = LANG === 't' && /\-/g.exec(yin)
               ? ' rbspan="' + (yin.match(/[\-]+/g).length + 1) + '"'
               : LANG !== 't' && /^[^eēéěè].*r$/g.exec(yin)
-                ? (b = cnSpecificBpmf || b, ' rbspan="2"')
+                ? (cnSpecificBpmf && (cns = split$.call(cnSpecificBpmf, /\s+/), tws = split$.call(b, /\s+/), tws[tws.length - 2] = cns[cns.length - 2], bAlt = b, b = join$.call(tws, ' ')), ' rbspan="2"')
                 : LANG !== 't' && /[aāáǎàeēéěèiīíǐìoōóǒòuūúǔùüǖǘǚǜ]+/g.exec(yin) ? ' rbspan="' + yin.match(/[aāáǎàeēéěèiīíǐìoōóǒòuūúǔùüǖǘǚǜ]+/g).length + '"' : '';
             p[i$] = '<rt' + span + '>' + yin + '</rt>';
           }
@@ -1662,10 +1662,10 @@
             ? ref$
             : [], antonyms = arg$.antonyms, synonyms = arg$.synonyms;
           if (/∥/.exec(def)) {
-            afterDef = "<div style='margin: 0 0 21px -27px'>" + h(replace$.call(def, /.*∥/, '')) + "</div>";
+            afterDef = "<div style='margin: 0 0 22px -44px'>" + h(replace$.call(def, /^[^∥]+/, '')) + "</div>";
             def = replace$.call(def, /∥.*/, '');
           }
-          return (/^\s*\(\d+\)/.exec(def) ? '' : '<li>') + "<p class='definition'>\n    <span class=\"def\">\n    " + h(expandDef(def)).replace(/([：。」])([\u278A-\u2793\u24eb-\u24f4])/g, '$1</span><span class="def">$2') + "</span>\n    " + ls(example, function(it){
+          return (/^\s*\(\d+\)|[:：]<\/span>$/.exec(def) ? '' : '<li><p ') + "<p class='definition' " + (/[:：]<\/span>$/.exec(def) ? 'style="margin-left: -28px"' : '') + ">\n    <span class=\"def\">\n    " + h(expandDef(def)).replace(/([：。」])([\u278A-\u2793\u24eb-\u24f4])/g, '$1</span><span class="def">$2') + "</span>\n    " + ls(example, function(it){
             return "<span class='example'>" + h(it) + "</span></span>";
           }) + "\n    " + ls(quote, function(it){
             return "<span class='quote'>" + h(it) + "</span>";
