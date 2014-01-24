@@ -2,7 +2,7 @@ window.isCordova = isCordova = document.URL isnt /^https?:/
 const DEBUGGING = (!isCordova and !!window.cordova?require)
 const STANDALONE = window.STANDALONE || false
 
-{map} = require('prelude-ls')
+{any, map} = require('prelude-ls')
 
 LANG = STANDALONE || getPref(\lang) || (if document.URL is /twblg/ then \t else \a)
 MOE-ID = getPref(\prev-id) || {a: \萌 t: \發穎 h: \發芽 c: \萌}[LANG]
@@ -955,7 +955,7 @@ function render (json)
                      cns = cn-specific-bpmf / /\s+/
                      tws = b / /\s+/
                      tws[*-2] = cns[*-2]
-                     b-alt := b
+                     b-alt := b.replace(/ /g, '\u3000').replace(/\sㄦ$/, 'ㄦ')
                      b = tws * ' '
                    ' rbspan="2"'
 
@@ -1061,10 +1061,15 @@ function render (json)
           if def is /∥/
             after-def = "<div style='margin: 0 0 22px -44px'>#{ h(def - /^[^∥]+/ ) }</div>"
             def -= /∥.*/
+          is-colon-def = LANG is \c and (def is /[:：]<\/span>$/) and not(any (->
+            console.log it.def is /^\s*\(\d+\)/
+            !!(it.def is /^\s*\(\d+\)/)
+          ), defs) 
           """#{
-            if def is /^\s*\(\d+\)|[:：]<\/span>$/ then '' else '<li><p '
+            if def is /^\s*\(\d+\)/ or is-colon-def => ''
+            else => '<li>'
           }<p class='definition' #{
-            if def is /[:：]<\/span>$/ then 'style="margin-left: -28px"' else ''
+            if is-colon-def then 'style="margin-left: -28px"' else ''
           }>
               <span class="def">
               #{
