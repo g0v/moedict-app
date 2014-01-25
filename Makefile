@@ -5,6 +5,7 @@ emulate :: copy
 	cordova emulate ios
 
 before_prepare :: copy
+	-mkdir -p platforms/android/res/xml
 	rsync -avP ../ios/Default* platforms/ios/*/Resources/splash/
 
 after_prepare :: before_build
