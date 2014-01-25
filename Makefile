@@ -1,5 +1,5 @@
 copy :: res/icons/android/drawable-hdpi/icon.png
-	rsync -av --delete --copy-links base/* www
+	rsync -av --delete --copy-links base/ www
 
 emulate :: copy
 	cordova emulate ios
