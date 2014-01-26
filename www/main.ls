@@ -272,16 +272,17 @@ window.do-load = ->
       $(@).fadeIn 0ms
     $ \body .on \hidden.bs.dropdown \.navbar -> $(@).css \position \fixed
 
-    if isApp => $ \body .on \click '#gcse a.gs-title' ->
-      it.preventDefault!
-      val = $('#gcse input:visible').val!
-      url = $(@).data('ctorig') || ($(@).attr('href') - /^.*?q=/ - /&.*$/)
-      setTimeout (->
-        $('#gcse input:visible').val val
-        grok-val decode-hash(url -= /^.*\//)
-      ), 1ms
-      $ \.gsc-results-close-btn .click!
-      return false
+    if isApp =>
+      $ \body .on \touchstart '#gcse a.gs-title' ->
+        $(@).removeAttr \href
+        val = $('#gcse input:visible').val!
+        url = $(@).data('ctorig') || ($(@).attr('href') - /^.*?q=/ - /&.*$/)
+        setTimeout (->
+          $('#gcse input:visible').val val
+          grok-val decode-hash(url -= /^.*\//)
+        ), 1ms
+        $ \.gsc-results-close-btn .click!
+        return false
 
     $ \body .on \click 'li.dropdown-submenu > a' ->
       $(@).next(\ul).slide-toggle \fast if width-is-xs!
@@ -294,9 +295,13 @@ window.do-load = ->
         grok-val("#{HASH-OF[LANG]}=*" - /^#/)
       return false
 
-    unless \onhashchange of window
-      $ \body .on \click \a ->
+    if isCordova or not \onhashchange of window
+      $ '#result, .dropdown-menu' .on \click 'a[href^=#]' ->
         val = $(@).attr(\href)
+        return true if val is \#
+        if $('.dropdown.open').length
+          $ \.navbar .css \position \fixed
+          $ \.dropdown.open .removeClass \open
         val -= /.*\#/ if val
         val ||= $(@).text!
         window.grok-val val
@@ -1062,7 +1067,6 @@ function render (json)
             after-def = "<div style='margin: 0 0 22px -44px'>#{ h(def - /^[^∥]+/ ) }</div>"
             def -= /∥.*/
           is-colon-def = LANG is \c and (def is /[:：]<\/span>$/) and not(any (->
-            console.log it.def is /^\s*\(\d+\)/
             !!(it.def is /^\s*\(\d+\)/)
           ), defs) 
           """#{
