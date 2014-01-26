@@ -19,9 +19,9 @@ after_prepare :: before_build
 	find platforms -type f -name index.html | xargs perl -pi -e 's!<noscript>!<script>window.STANDALONE="c";</script><noscript>!'
 
 before_build ::
-	-@mkdir -p platforms/android/src/org/audreyt/dict/moe platforms/android/res/menu platforms/android/res/values
+	-@mkdir -p platforms/android/src/org/audreyt/dict/moe_c platforms/android/res/menu platforms/android/res/values
 	-@rm platforms/android/src/org/audreyt/moe/dict/MoeDict.java
-	cp MoeDict.java platforms/android/src/org/audreyt/dict/moe
+	cp MoeDict.java platforms/android/src/org/audreyt/dict/moe_c
 	cp example.xml platforms/android/res/menu/example.xml
 	cp strings.xml platforms/android/res/values/strings.xml
 	-@cp *.*o* AndroidManifest.xml platforms/android
