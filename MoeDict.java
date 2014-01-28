@@ -62,5 +62,10 @@ public class MoeDict extends CordovaActivity
         }
         return true;
     }
+
+    @Override
+    public void onReceivedError(final int errorCode, final String description, final String failingUrl) {
+        return;
+    }
 }
 
