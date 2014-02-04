@@ -17,7 +17,7 @@
        under the License.
  */
 
-package org.audreyt.dict.moe;
+package org.audreyt.dict.moe_c;
 
 import android.os.Bundle;
 import android.view.*;
@@ -46,27 +46,21 @@ public class MoeDict extends CordovaActivity
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
 	if (id == R.id.small) {
-	        this.appView.loadUrl("javascript:window.adjustFontSize(-1);");
+	        this.appView.sendJavascript("window.adjustFontSize(-1)");
         }
         else if (id == R.id.large) {
-	        this.appView.loadUrl("javascript:window.adjustFontSize(+1);");
+	        this.appView.sendJavascript("window.adjustFontSize(+1)");
         }
         else if (id == R.id.quit) {
-                this.finish();
-                System.exit(0);
+                this.appView.sendJavascript("window.pressQuit()");
         }
         else if (id == R.id.lang) {
-                this.appView.loadUrl("javascript:window.pressLang();");
+                this.appView.sendJavascript("window.pressLang()");
         }
         else {
                 return super.onOptionsItemSelected(item);
         }
         return true;
-    }
-
-    @Override
-    public void onReceivedError(final int errorCode, final String description, final String failingUrl) {
-        return;
     }
 }
 

@@ -46,21 +46,27 @@ public class MoeDict extends CordovaActivity
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
 	if (id == R.id.small) {
-	        this.appView.sendJavascript("window.adjustFontSize(-1)");
+	        this.appView.loadUrl("javascript:window.adjustFontSize(-1);");
         }
         else if (id == R.id.large) {
-	        this.appView.sendJavascript("window.adjustFontSize(+1)");
+	        this.appView.loadUrl("javascript:window.adjustFontSize(+1);");
         }
         else if (id == R.id.quit) {
-                this.appView.sendJavascript("window.pressQuit()");
+                this.finish();
+                System.exit(0);
         }
         else if (id == R.id.lang) {
-                this.appView.sendJavascript("window.pressLang()");
+                this.appView.loadUrl("javascript:window.pressLang();");
         }
         else {
                 return super.onOptionsItemSelected(item);
         }
         return true;
+    }
+
+    @Override
+    public void onReceivedError(final int errorCode, final String description, final String failingUrl) {
+        return;
     }
 }
 
