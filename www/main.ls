@@ -198,7 +198,7 @@ window.do-load = ->
       isQuery := no
     setTimeout poll-gsc, 500ms
 
-  unless isMobile or isApp or width-is-xs!
+  unless isApp or width-is-xs!
     <- setTimeout _, 1ms
     ``!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");``
 
@@ -236,7 +236,11 @@ window.do-load = ->
       try $(\#query).autocomplete \close
       return
     return if cache-loading
-    entryHistory.pop!
+    window.press-quit! if isDroidGap and entryHistory.length <= 1
+    cur = entryHistory[*-1]
+    while entryHistory[*-1] is cur
+      entryHistory.pop!
+      window.press-quit! if isDroidGap and entryHistory.length < 1
     token = Math.random!
     cache-loading := token
     setTimeout (-> cache-loading := no if cache-loading is token), 10000ms
@@ -251,7 +255,7 @@ window.do-load = ->
 
   window.press-quit = ->
     stop-audio!
-    callLater -> navigator.app.exit-app!
+    navigator.app.exit-app!
 
   init = ->
     $ \#query .keyup lookup .change lookup .keypress lookup .keydown lookup .on \input lookup
@@ -307,7 +311,8 @@ window.do-load = ->
         val ||= $(@).text!
         window.grok-val val
         return false
-    window.onpopstate = ->
+    unless isDroidGap => window.onpopstate = ->
+      return window.press-back! if isDroidGap
       state = decodeURIComponent "#{location.pathname}".slice(1)
       return grok-hash! unless state is /\S/
       grok-val state
@@ -378,9 +383,13 @@ window.do-load = ->
 
   prevId = prevVal = null
   window.press-lang = (lang='', id='') ->
+    return if STANDALONE
     prevId := null
     prevVal := null
-    LANG := lang || switch LANG | \a => \t | \t => \h | \h => \c | \c => \a
+    if HASH-OF.c
+      LANG := lang || switch LANG | \a => \t | \t => \h | \h => \c | \c => \a
+    else
+      LANG := lang || switch LANG | \a => \t | \t => \h | \h => \a
     $ \#query .val ''
     $('.ui-autocomplete li').remove!
     $('iframe').fadeIn \fast
@@ -515,7 +524,7 @@ window.do-load = ->
  
     cache-loading := no
 
-    vclick = if isMobile then \touchstart else \click
+    vclick = if isMobile then 'touchstart click' else \click
     $ '.results .star' .on vclick, ->
       key = "\"#prevId\"\n"
       if $(@).hasClass \icon-star-empty then STARRED[LANG] = key + STARRED[LANG] else STARRED[LANG] -= "#key"
