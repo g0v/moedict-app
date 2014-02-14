@@ -198,7 +198,7 @@ window.do-load = ->
       isQuery := no
     setTimeout poll-gsc, 500ms
 
-  unless isMobile or isApp or width-is-xs!
+  unless isApp or width-is-xs!
     <- setTimeout _, 1ms
     ``!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");``
 
@@ -524,7 +524,7 @@ window.do-load = ->
  
     cache-loading := no
 
-    vclick = if isMobile then \touchstart else \click
+    vclick = if isMobile then 'touchstart click' else \click
     $ '.results .star' .on vclick, ->
       key = "\"#prevId\"\n"
       if $(@).hasClass \icon-star-empty then STARRED[LANG] = key + STARRED[LANG] else STARRED[LANG] -= "#key"
@@ -867,7 +867,7 @@ function render-list (terms, id)
   else
     terms.=replace(/"([^"]+)"[^"]*/g "<span style='clear: both; display: block'>\u00B7 <a href=\"#{h}$1\">$1</a></span>")
   if id is \字詞紀錄簿 and LRU[LANG]
-    terms += "<br><h3>最近查閱過的字詞</h3>\n"
+    terms += "<br><h3>最近查閱過的字詞</h3>\n" # clear?
     terms += LRU[LANG].replace(/"([^"]+)"[^"]*/g "<span style='clear: both; display: block'>\u00B7 <a href=\"#{h}$1\">$1</a></span>")
   return "#title<div class='list'>#terms</div>"
 
