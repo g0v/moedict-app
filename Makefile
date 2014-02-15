@@ -1,6 +1,12 @@
 copy :: res/icons/android/drawable-hdpi/icon.png
 	rsync -av --delete --copy-links base/ www
 
+android :: before_prepare
+	cp -Rf res/icons/android/* platforms/android/res/
+	rsync -avzP --delete www platforms/android/assets
+	cp platforms/android/platform_www/cordova.js platforms/android/assets/www
+	make after_prepare
+
 emulate :: copy
 	cordova emulate ios
 
@@ -17,6 +23,8 @@ after_prepare :: before_build
 	cp -Rf ./res/icons/ios/* platforms/ios/MoeDict/Resources/icons/
 	# CSLD Specific
 	find platforms -type f -name index.html | xargs perl -pi -e 's!<noscript>!<script>window.STANDALONE="c";</script><noscript>!'
+	perl -pi -e 's!href="http[^"]*"!!g' platforms/android/assets/www/about.html
+	perl -pi -e 's!<a +target=[^ >]* *>!<a style="color: inherit">!g' platforms/android/assets/www/about.html
 
 before_build ::
 	-@mkdir -p platforms/android/src/org/audreyt/dict/moe_c platforms/android/res/menu platforms/android/res/values
