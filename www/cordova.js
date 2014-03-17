@@ -1,1 +1,0 @@
-window.cordova = { require: true }
