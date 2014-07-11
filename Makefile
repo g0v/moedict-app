@@ -1,3 +1,6 @@
+manifest ::
+	perl -pi -e 's/# [A-Z].*\n/# @{[`date`]}/m' manifest.appcache
+
 copy :: res/icons/android/drawable-hdpi/icon.png
 	rsync -av --delete --copy-links base/ www
 
