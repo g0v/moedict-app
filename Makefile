@@ -5,6 +5,7 @@ android :: before_prepare
 	cp -Rf res/icons/android/* platforms/android/res/
 	rsync -avzP --delete www platforms/android/assets
 	cp platforms/android/platform_www/cordova.js platforms/android/assets/www
+	cp jquery-2.1.1.min.js platforms/android/assets/www/js/jquery-1.11.1.min.js
 	make after_prepare
 
 emulate :: copy

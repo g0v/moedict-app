@@ -53,7 +53,7 @@ if isCordova and STANDALONE isnt \c
   $ -> $('.nav .c').remove!
 
 # Return an object of all matched with {key: [words]}.
-function xref-of (id, src-lang=LANG)
+function xref-of (id, src-lang=LANG, tgt-lang-only)
   rv = {}
   if typeof XREF[src-lang] is \string
     parsed = {}
@@ -62,12 +62,14 @@ function xref-of (id, src-lang=LANG)
       parsed[tgt-lang.slice(-1)] = words if words
     XREF[src-lang] = parsed
   for tgt-lang, words of XREF[src-lang]
+    continue if tgt-lang-only and tgt-lang isnt tgt-lang-only
     idx = words.indexOf('"' + id + '":')
     rv[tgt-lang] = if idx < 0 then [] else
       part = words.slice(idx + id.length + 4);
       idx = part.indexOf \"
       part.=slice 0 idx
       [ x || id for x in part / \, ]
+    return rv[tgt-lang] if tgt-lang-only
   return rv
 
 CACHED = {}
@@ -75,7 +77,7 @@ add-to-lru = ->
   key = "\"#it\"\n"
   LRU[LANG] = key + (LRU[LANG] -= "#key")
   lru = LRU[LANG] / '\n'
-  if lru.length > 50
+  if lru.length > 5000
     rmPref "GET #LANG/#{encodeURIComponent(lru.pop!slice(1, -1))}.json" unless isCordova
     LRU[LANG] = (lru * '\n') + '\n'
   setPref "lru-#LANG" LRU[LANG]
@@ -300,6 +302,18 @@ window.do-load = ->
         grok-val("#{HASH-OF[LANG]}=*" - /^#/)
       return false
 
+    $ \body .on \click '#btn-clear-lru' ->
+      return unless confirm("確定要清除瀏覽紀錄？")
+      $('#lru').prevAll('br')remove!
+      $('#lru').nextAll!remove!
+      $('#lru').fadeOut \fast
+      unless isCordova
+        lru = LRU[LANG] / '\n'
+        for word in lru
+          rmPref "GET #LANG/#{encodeURIComponent(word.slice(1, -1))}.json"
+      LRU[LANG] = []
+      setPref "lru-#LANG" ''
+
     if isCordova or not \onhashchange of window
       $ '#result, .dropdown-menu' .on \click 'a[href^=#]' ->
         val = $(@).attr(\href)
@@ -521,15 +535,18 @@ window.do-load = ->
 
     $('#result .part-of-speech a').attr \href, null
     set-pinyin-bindings!
- 
     cache-loading := no
 
     vclick = if isMobile then 'touchstart click' else \click
     $ '.results .star' .on vclick, ->
+      $star = $(@)hide!
       key = "\"#prevId\"\n"
       if $(@).hasClass \icon-star-empty then STARRED[LANG] = key + STARRED[LANG] else STARRED[LANG] -= "#key"
       $(@).toggleClass \icon-star-empty .toggleClass \icon-star
-      $(\#btn-starred).fadeOut \fast -> $(@).css(\background \#ddd)fadeIn -> $(@).css(\background \transparent)
+      $(\#btn-starred).fadeOut \fast ->
+        $(@).css(\background \#ddd)fadeIn ->
+          $(@).css(\background \transparent)
+          $star.fadeIn \fast
       setPref "starred-#LANG" STARRED[LANG]
 
     $ '.results .stroke' .on vclick, ->
@@ -683,7 +700,7 @@ window.do-load = ->
   else
     GET "#LANG/xref.json", (-> XREF[LANG] = it; init!), \text
     GET "#LANG/index.json", (-> INDEX[LANG] = it; init-autocomplete!), \text
-    for lang in HASH-OF | lang isnt LANG => let lang
+    for let lang of HASH-OF | lang isnt LANG
       GET "#lang/xref.json", (-> XREF[lang] = it), \text
 
   unless STANDALONE
@@ -785,8 +802,10 @@ function init-autocomplete
         regex = "\"#regex\""
       regex.=replace(/\(\)/g '')
       try results = INDEX[LANG].match(//#{ b2g regex }//g)
-      results ||= xref-of(term, if LANG is \a then \t else \a)[LANG]
-      if LANG is \t => for v in xref-of(term, \tv).t.reverse!
+      results ||= xref-of(term, (if LANG is \a then \t else \a), LANG)
+      if LANG is \h and term is \我
+        results.unshift \𠊎
+      if LANG is \t => for v in xref-of(term, \tv, \t).reverse!
         results.unshift v unless v in results
       return cb ["▶找不到。建議收錄？"] if LANG is \c and not results?length
       return cb ["▶找不到。分享這些字？"] if LANG isnt \c and not results?length
@@ -800,8 +819,17 @@ function init-autocomplete
       return cb (map (- /"/g), results)
       #return cb ((results.join(',') - /"/g) / ',')
 
-trs_lookup = (term,cb) -> GET("https://www.moedict.tw/lookup/trs/#{term}",((data)-> cb (data / '|' )) )
-
+PUA2UNI = {
+  \⿰𧾷百 : \󾜅
+  \⿸疒哥 : \󿗧
+  \⿰亻恩 : \󿌇
+  \⿰虫念 : \󿑂
+  \⿺皮卜 : \󿕅
+}
+trs_lookup = (term,cb) ->
+  data <- GET "https://www.moedict.tw/lookup/trs/#{term}"
+  data.=replace /[⿰⿸⿺](?:𧾷|.)./g -> PUA2UNI[it]
+  cb( data / '|' )
 
 const CJK-RADICALS = '⼀一⼁丨⼂丶⼃丿⼄乙⼅亅⼆二⼇亠⼈人⼉儿⼊入⼋八⼌冂⼍冖⼎冫⼏几⼐凵⼑刀⼒力⼓勹⼔匕⼕匚⼖匸⼗十⼘卜⼙卩⼚厂⼛厶⼜又⼝口⼞囗⼟土⼠士⼡夂⼢夊⼣夕⼤大⼥女⼦子⼧宀⼨寸⼩小⼪尢⼫尸⼬屮⼭山⼮巛⼯工⼰己⼱巾⼲干⼳幺⼴广⼵廴⼶廾⼷弋⼸弓⼹彐⼺彡⼻彳⼼心⼽戈⼾戶⼿手⽀支⽁攴⽂文⽃斗⽄斤⽅方⽆无⽇日⽈曰⽉月⽊木⽋欠⽌止⽍歹⽎殳⽏毋⽐比⽑毛⽒氏⽓气⽔水⽕火⽖爪⽗父⽘爻⽙爿⺦丬⽚片⽛牙⽜牛⽝犬⽞玄⽟玉⽠瓜⽡瓦⽢甘⽣生⽤用⽥田⽦疋⽧疒⽨癶⽩白⽪皮⽫皿⽬目⽭矛⽮矢⽯石⽰示⽱禸⽲禾⽳穴⽴立⽵竹⽶米⽷糸⺰纟⽸缶⽹网⽺羊⽻羽⽼老⽽而⽾耒⽿耳⾀聿⾁肉⾂臣⾃自⾄至⾅臼⾆舌⾇舛⾈舟⾉艮⾊色⾋艸⾌虍⾍虫⾎血⾏行⾐衣⾑襾⾒見⻅见⾓角⾔言⻈讠⾕谷⾖豆⾗豕⾘豸⾙貝⻉贝⾚赤⾛走⾜足⾝身⾞車⻋车⾟辛⾠辰⾡辵⻌辶⾢邑⾣酉⾤釆⾥里⾦金⻐钅⾧長⻓长⾨門⻔门⾩阜⾪隶⾫隹⾬雨⾭靑⾮非⾯面⾰革⾱韋⻙韦⾲韭⾳音⾴頁⻚页⾵風⻛风⾶飛⻜飞⾷食⻠饣⾸首⾹香⾺馬⻢马⾻骨⾼高⾽髟⾾鬥⾿鬯⿀鬲⿁鬼⿂魚⻥鱼⻦鸟⿃鳥⿄鹵⻧卤⿅鹿⿆麥⻨麦⿇麻⿈黃⻩黄⿉黍⿊黑⿋黹⿌黽⻪黾⿍鼎⿎鼓⿏鼠⿐鼻⿑齊⻬齐⿒齒⻮齿⿓龍⻰龙⿔龜⻳龟⿕龠'
 
@@ -860,14 +888,16 @@ function render-list (terms, id)
   title = "<h1 itemprop='name'>#id</h1>"
   terms -= /^[^"]*/
   if id is \字詞紀錄簿
-    terms += "（請按詞條右方的 <i class='icon-star-empty'></i> 按鈕，即可將字詞加到這裡。）" unless terms
+    terms += "<p class='bg-info'>（請按詞條右方的 <i class='icon-star-empty'></i> 按鈕，即可將字詞加到這裡。）</p>" unless terms
   if terms is /^";/
     terms = "<table border=1 bordercolor=\#ccc><tr><td><span class='part-of-speech'>臺</span></td><td><span class='part-of-speech'>陸</span></td></tr>#terms</table>"
     terms.=replace /";([^;"]+);([^;"]+)"[^"]*/g """<tr><td><a href=\"#{h}$1\">$1</a></td><td><a href=\"#{h}$2\">$2</a></td></tr>"""
   else
     terms.=replace(/"([^"]+)"[^"]*/g "<span style='clear: both; display: block'>\u00B7 <a href=\"#{h}$1\">$1</a></span>")
   if id is \字詞紀錄簿 and LRU[LANG]
-    terms += "<br><h3>最近查閱過的字詞</h3>\n" # clear?
+    terms += "<br><h3 id='lru'>最近查閱過的字詞"
+    terms += "<input type='button' id='btn-clear-lru' class='btn-default btn btn-tiny' value='清除' style='margin-left: 10px'>"
+    terms += "</h3>\n"
     terms += LRU[LANG].replace(/"([^"]+)"[^"]*/g "<span style='clear: both; display: block'>\u00B7 <a href=\"#{h}$1\">$1</a></span>")
   return "#title<div class='list'>#terms</div>"
 
@@ -989,7 +1019,7 @@ function render (json)
     cn-specific = ''
     cn-specific = \cn-specific if bopomofo is /陸/ #and bopomofo isnt /<br>/
 
-    if LANG is \c 
+    if LANG is \c
       if bopomofo is /<br>/
         pinyin .= replace /.*<br>/ '' .replace /陸./ '' .replace /\s?([,\.;])\s?/g '$1 '
         bopomofo .= replace /.*<br>/ '' .replace /陸./ '' .replace /\s?([，。；])\s?/g '$1'
@@ -1078,7 +1108,7 @@ function render (json)
             def -= /∥.*/
           is-colon-def = LANG is \c and (def is /[:：]<\/span>$/) and not(any (->
             !!(it.def is /^\s*\(\d+\)/)
-          ), defs) 
+          ), defs)
           """#{
             if def is /^\s*\(\d+\)/ or is-colon-def => ''
             else => '<li>'
