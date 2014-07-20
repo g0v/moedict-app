@@ -337,7 +337,7 @@
     return setTimeout(it, isMobile ? 10 : 1);
   };
   window.doLoad = function(){
-    var fontSize, saveFontSize, cacheLoading, pressAbout, pressErase, pressBack, init, grokVal, grokHash, fillQuery, prevId, prevVal, bucketOf, lookup, doLookup, htmlCache, res$, key, fetch, loadJson, setPinyinBindings, setHtml, loadCacheHtml, fillJson, keyMap, fillBucket, lang, i$, results$ = [];
+    var fontSize, saveFontSize, cacheLoading, pressAbout, pressErase, pressBack, init, grokVal, grokHash, fillQuery, prevId, prevVal, bucketOf, lookup, doLookup, htmlCache, res$, key, fetch, loadJson, setPinyinBindings, setHtml, bindHtmlActions, loadCacheHtml, fillJson, keyMap, fillBucket, lang, i$, results$ = [];
     if (!isDeviceReady) {
       return;
     }
@@ -870,14 +870,6 @@
           href: $(this).data('href').replace(/__TEXT__/, prevId) + encodeURIComponent(encodeURIComponent(hash.substr(1)))
         });
       });
-      if (isMobile) {
-        $('#result div, #result span, #result h1:not(:first)').hide();
-        $('#result h1:first').text(replace$.call(it, /^[@=]/, '')).show();
-      } else {
-        $('#result div, #result span, #result h1:not(:first)').css('visibility', 'hidden');
-        $('#result h1:first').text(replace$.call(it, /^[@=]/, '')).css('visibility', 'visible');
-        window.scrollTo(0, 0);
-      }
       if (loadCacheHtml(it)) {
         return;
       }
@@ -910,176 +902,174 @@
       });
     };
     setHtml = function(html){
-      return callLater(function(){
-        var vclick;
-        if ($('svg, canvas').length && !$('body').hasClass('autodraw')) {
-          $('#strokes').fadeOut('fast', function(){
+      if ($('svg, canvas').length && !$('body').hasClass('autodraw')) {
+        $('#strokes').fadeOut('fast', function(){
+          $('#strokes').html('');
+          return window.scrollTo(0, 0);
+        });
+      }
+      html = html.replace('<!-- STAR -->', ~STARRED[LANG].indexOf("\"" + prevId + "\"") ? "<a class='star iconic-color icon-star' title='已加入記錄簿'></a>" : "<a class='star iconic-color icon-star-empty' title='加入字詞記錄簿'></a>");
+      return React.View.result.setProps({
+        html: html,
+        type: 'html'
+      }, bindHtmlActions);
+    };
+    bindHtmlActions = function(){
+      var vclick;
+      $('.ui-tooltip').remove();
+      setTimeout(function(){
+        $('.ui-tooltip').remove();
+        return setTimeout(function(){
+          return $('.ui-tooltip').remove();
+        }, 125);
+      }, 125);
+      $('#result').ruby();
+      _pua();
+      window.scrollTo(0, 0);
+      $('#result h1 rb[word]').each(function(){
+        var _h, _i, _ci;
+        _h = HASHOF[LANG];
+        _i = $(this).attr('word-order');
+        _ci = $(this).attr('word');
+        return $(this).wrap($('<a/>').attr({
+          'word-order': _i,
+          'href': _h + _ci
+        })).on('mouseover', function(){
+          var _i;
+          _i = $(this).attr('word-order');
+          return $('#result h1 a[word-order=' + _i + ']').addClass('hovered');
+        }).on('mouseout', function(){
+          return $('#result h1 a').removeClass('hovered');
+        });
+      });
+      $('#result .part-of-speech a').attr('href', null);
+      setPinyinBindings();
+      cacheLoading = false;
+      vclick = isMobile ? 'touchstart click' : 'click';
+      $('.results .star').on(vclick, function(){
+        var $star, key;
+        $star = $(this).hide();
+        key = "\"" + prevId + "\"\n";
+        if ($(this).hasClass('icon-star-empty')) {
+          STARRED[LANG] = key + STARRED[LANG];
+        } else {
+          STARRED[LANG] = replace$.call(STARRED[LANG], key + "", '');
+        }
+        $(this).toggleClass('icon-star-empty').toggleClass('icon-star');
+        $('#btn-starred').fadeOut('fast', function(){
+          return $(this).css('background', '#ddd').fadeIn(function(){
+            $(this).css('background', 'transparent');
+            return $star.fadeIn('fast');
+          });
+        });
+        return setPref("starred-" + LANG, STARRED[LANG]);
+      });
+      $('.results .stroke').on(vclick, function(){
+        if ($('svg, canvas').length) {
+          return $('#strokes').fadeOut('fast', function(){
             $('#strokes').html('');
             return window.scrollTo(0, 0);
           });
         }
-        html = html.replace('<!-- STAR -->', ~STARRED[LANG].indexOf("\"" + prevId + "\"") ? "<a class='star iconic-color icon-star' title='已加入記錄簿'></a>" : "<a class='star iconic-color icon-star-empty' title='加入字詞記錄簿'></a>");
-        $('#result').html(html).ruby();
-        _pua();
-        $('#result h1 rb[word]').each(function(){
-          var _h, _i, _ci;
-          _h = HASHOF[LANG];
-          _i = $(this).attr('word-order');
-          _ci = $(this).attr('word');
-          return $(this).wrap($('<a/>').attr({
-            'word-order': _i,
-            'href': _h + _ci
-          })).on('mouseover', function(){
-            var _i;
-            _i = $(this).attr('word-order');
-            return $('#result h1 a[word-order=' + _i + ']').addClass('hovered');
-          }).on('mouseout', function(){
-            return $('#result h1 a').removeClass('hovered');
-          });
-        });
-        $('#result .part-of-speech a').attr('href', null);
-        setPinyinBindings();
-        cacheLoading = false;
-        vclick = isMobile ? 'touchstart click' : 'click';
-        $('.results .star').on(vclick, function(){
-          var $star, key;
-          $star = $(this).hide();
-          key = "\"" + prevId + "\"\n";
-          if ($(this).hasClass('icon-star-empty')) {
-            STARRED[LANG] = key + STARRED[LANG];
-          } else {
-            STARRED[LANG] = replace$.call(STARRED[LANG], key + "", '');
-          }
-          $(this).toggleClass('icon-star-empty').toggleClass('icon-star');
-          $('#btn-starred').fadeOut('fast', function(){
-            return $(this).css('background', '#ddd').fadeIn(function(){
-              $(this).css('background', 'transparent');
-              return $star.fadeIn('fast');
-            });
-          });
-          return setPref("starred-" + LANG, STARRED[LANG]);
-        });
-        $('.results .stroke').on(vclick, function(){
-          if ($('svg, canvas').length) {
-            return $('#strokes').fadeOut('fast', function(){
-              $('#strokes').html('');
-              return window.scrollTo(0, 0);
-            });
-          }
-          window.scrollTo(0, 0);
-          return strokeWords(replace$.call($('h1:first').data('title'), /[（(].*/, ''));
-        });
-        if (isCordova && !DEBUGGING) {
-          try {
-            navigator.splashscreen.hide();
-          } catch (e$) {}
-          $('#result .playAudio').on('touchstart', function(){
-            if ($(this).hasClass('icon-play')) {
-              return $(this).click();
-            }
-          });
-          return;
-        }
-        $('#result .trs.pinyin').each(function(){
-          return $(this).attr('title', trs2bpmf($(this).text()));
-        }).tooltip({
-          tooltipClass: 'bpmf'
-        });
-        $('#result a[href]:not(.xref)').tooltip({
-          disabled: true,
-          tooltipClass: "prefer-pinyin-" + true,
-          show: 100,
-          hide: 100,
-          items: 'a',
-          open: function(){
-            $('.ui-tooltip-content h1').ruby();
-            return _pua();
-          },
-          content: function(cb){
-            var id;
-            id = $(this).attr('href').replace(/^#['!:~]?/, '');
-            callLater(function(){
-              if (htmlCache[LANG][id]) {
-                cb(htmlCache[LANG][id]);
-                return;
-              }
-              return loadJson(id, function(it){
-                return cb(it);
-              });
-            });
-          }
-        });
-        $('#result a[href]:not(.xref)').hoverIntent({
-          timeout: 250,
-          over: function(){
-            $('.ui-tooltip').remove();
-            try {
-              return $(this).tooltip('open');
-            } catch (e$) {}
-          },
-          out: function(){
-            try {
-              return $(this).tooltip('close');
-            } catch (e$) {}
-          }
-        });
-        partialize$.apply(this, [
-          setTimeout, [
-            void 8, 125, function(){
-              $('.ui-tooltip').remove();
-              return partialize$.apply(this, [
-                setTimeout, [
-                  void 8, 125, function(){
-                    return $('.ui-tooltip').remove();
-                  }
-                ], [0]
-              ]);
-            }
-          ], [0]
-        ]);
-        function _pua(){
-          $('hruby rb[annotation]').each(function(){
-            var a;
-            a = $(this).attr('annotation');
-            if (isDroidGap || isChrome) {
-              a = a.replace(/([aeiou])\u030d/g, function(m, v){
-                return v === 'a'
-                  ? '\uDB80\uDC61'
-                  : v === 'e'
-                    ? '\uDB80\uDC65'
-                    : v === 'i'
-                      ? '\uDB80\uDC69'
-                      : v === 'o'
-                        ? '\uDB80\uDC6F'
-                        : v === 'u' ? '\uDB80\uDC75' : void 8;
-              });
-            } else {
-              a = a.replace(/i\u030d/g, '\uDB80\uDC69');
-            }
-            if (/(<span[^<]*<\/span>)/.exec(a)) {
-              $(RegExp.$1).appendTo($('<span/>', {
-                'class': 'specific_to'
-              }).appendTo($(this).parents('h1')));
-            }
-            return $(this).attr('annotation', replace$.call(a, /<span[^<]*<\/span>/g, ''));
-          });
-          return $('hruby rb[diao]').each(function(){
-            var d;
-            d = $(this).attr('diao');
-            d = d.replace(/([\u31B4-\u31B7])[\u0358|\u030d]/g, function(m, j){
-              return j === '\u31B4'
-                ? '\uDB8C\uDDB4'
-                : j === '\u31B5'
-                  ? '\uDB8C\uDDB5'
-                  : j === '\u31B6'
-                    ? '\uDB8C\uDDB6'
-                    : j === '\u31B7' ? '\uDB8C\uDDB7' : void 8;
-            });
-            return $(this).attr('diao', d);
-          });
-        }
-        return _pua;
+        window.scrollTo(0, 0);
+        return strokeWords(replace$.call($('h1:first').data('title'), /[（(].*/, ''));
       });
+      if (isCordova && !DEBUGGING) {
+        try {
+          navigator.splashscreen.hide();
+        } catch (e$) {}
+        $('#result .playAudio').on('touchstart', function(){
+          if ($(this).hasClass('icon-play')) {
+            return $(this).click();
+          }
+        });
+        return;
+      }
+      $('#result .trs.pinyin').each(function(){
+        return $(this).attr('title', trs2bpmf($(this).text()));
+      }).tooltip({
+        tooltipClass: 'bpmf'
+      });
+      $('#result a[href]:not(.xref)').tooltip({
+        disabled: true,
+        tooltipClass: "prefer-pinyin-" + true,
+        show: 100,
+        hide: 100,
+        items: 'a',
+        open: function(){
+          $('.ui-tooltip-content h1').ruby();
+          return _pua();
+        },
+        content: function(cb){
+          var id;
+          id = $(this).attr('href').replace(/^#['!:~]?/, '');
+          callLater(function(){
+            if (htmlCache[LANG][id]) {
+              cb(htmlCache[LANG][id]);
+              return;
+            }
+            return loadJson(id, function(it){
+              return cb(it);
+            });
+          });
+        }
+      });
+      $('#result a[href]:not(.xref)').hoverIntent({
+        timeout: 250,
+        over: function(){
+          $('.ui-tooltip').remove();
+          try {
+            return $(this).tooltip('open');
+          } catch (e$) {}
+        },
+        out: function(){
+          try {
+            return $(this).tooltip('close');
+          } catch (e$) {}
+        }
+      });
+      function _pua(){
+        $('hruby rb[annotation]').each(function(){
+          var a;
+          a = $(this).attr('annotation');
+          if (isDroidGap || isChrome) {
+            a = a.replace(/([aeiou])\u030d/g, function(m, v){
+              return v === 'a'
+                ? '\uDB80\uDC61'
+                : v === 'e'
+                  ? '\uDB80\uDC65'
+                  : v === 'i'
+                    ? '\uDB80\uDC69'
+                    : v === 'o'
+                      ? '\uDB80\uDC6F'
+                      : v === 'u' ? '\uDB80\uDC75' : void 8;
+            });
+          } else {
+            a = a.replace(/i\u030d/g, '\uDB80\uDC69');
+          }
+          if (/(<span[^<]*<\/span>)/.exec(a)) {
+            $(RegExp.$1).appendTo($('<span/>', {
+              'class': 'specific_to'
+            }).appendTo($(this).parents('h1')));
+          }
+          return $(this).attr('annotation', replace$.call(a, /<span[^<]*<\/span>/g, ''));
+        });
+        return $('hruby rb[diao]').each(function(){
+          var d;
+          d = $(this).attr('diao');
+          d = d.replace(/([\u31B4-\u31B7])[\u0358|\u030d]/g, function(m, j){
+            return j === '\u31B4'
+              ? '\uDB8C\uDDB4'
+              : j === '\u31B5'
+                ? '\uDB8C\uDDB5'
+                : j === '\u31B6'
+                  ? '\uDB8C\uDDB6'
+                  : j === '\u31B7' ? '\uDB8C\uDDB7' : void 8;
+          });
+          return $(this).attr('diao', d);
+        });
+      }
+      return _pua;
     };
     loadCacheHtml = function(it){
       var html;
@@ -1117,7 +1107,14 @@
       if (/^\[\s*\[/.exec(part)) {
         html = renderStrokes(part, id);
       } else if (/^\[/.exec(part)) {
-        html = renderList(part, id);
+        React.View.result.setProps({
+          id: id,
+          type: 'list',
+          terms: part,
+          h: HASHOF[LANG],
+          lru: LRU[LANG]
+        }, bindHtmlActions);
+        return;
       } else {
         html = render($.parseJSON(part));
       }
@@ -2092,16 +2089,5 @@
     var i = -1, l = xs.length >>> 0;
     while (++i < l) if (x === xs[i]) return true;
     return false;
-  }
-  function partialize$(f, args, where){
-    var context = this;
-    return function(){
-      var params = slice$.call(arguments), i,
-          len = params.length, wlen = where.length,
-          ta = args ? args.concat() : [], tw = where ? where.concat() : [];
-      for(i = 0; i < len; ++i) { ta[tw[0]] = params[i]; tw.shift(); }
-      return len < wlen && len ?
-        partialize$.apply(context, [f, ta, tw]) : f.apply(context, ta);
-    };
   }
 }).call(this);

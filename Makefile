@@ -1,3 +1,6 @@
+sync ::
+	cp -Rf ../{manifest.{webapp,appcache},opensearch,images,js,fonts,main.js,styles.css,about.html,index.html,logout.html,manifest.webapp} .
+
 manifest ::
 	perl -pi -e 's/# [A-Z].*\n/# @{[`date`]}/m' manifest.appcache
 
