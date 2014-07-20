@@ -1,32 +1,37 @@
 CACHE MANIFEST
-# Sat Jul 12 02:21:07 CST 2014
+# Sat Jul 12 02:20:12 CST 2014
 
 CACHE:
 
 # core App files
 index.html
 main.js
-view.js
 styles.css
 
 # core JSON files
 a/=.json
 a/@.json
-a/index.json
+a/index.1.json
+a/index.2.json
 a/xref.json
 
-c/=.json
-c/@.json
-c/index.json
-c/xref.json
+#c/=.json
+#c/@.json
+#c/index.1.json
+#c/index.2.json
+#c/xref.json
 
-h/index.json
+h/index.1.json
+h/index.2.json
 h/xref.json
 
 t/=.json
-t/index.json
+t/index.1.json
+t/index.2.json
 t/xref.json
 t/variants.json
+
+pack/=.txt
 
 # css files
 css/cupertino/jquery-ui-1.10.4.custom.css
@@ -81,11 +86,10 @@ css/cupertino/images/ui-icons_72a7cf_256x240.png
 css/cupertino/images/ui-icons_ffffff_256x240.png
 
 # non-essential images
-icon.png
 css/Download_on_the_App_Store_Badge_HK_TW_135x40.png
 css/google_play.jpg
-images/g0v-icon-invert.png
 images/icon.png
+images/g0v-icon-invert.png
 
 # cordova specific
 cordova.js
