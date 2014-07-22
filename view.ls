@@ -123,15 +123,15 @@ Heteronym = React.createClass do
       meta { itemProp: \image, content: encodeURIComponent(t) + ".png" }
       meta { itemProp: \name, content: t }
       $char
-      h1 { className: \title, 'data-title': t, style: if H.0 is \# then {} else { visibility: \hidden } }, ...list
-      if bopomofo then div { className: "bopomofo #cn-specific" },
+      h1 { className: \title, 'data-title': t, style: { visibility: \hidden } }, ...list
+      if bopomofo or pinyin-list then div { className: "bopomofo #cn-specific" },
         if alt? then div { lang: \zh-Hans, className: \cn-specific },
           span { className: 'xref part-of-speech' }, \简
           span { className: \xref }, untag alt
         if cn-specific and pinyin and bopomofo then small { className: 'alternative cn-specific' },
           span { className: \pinyin } pinyin
           span { className: \bopomofo } bopomofo
-        else if LANG is \h then
+        if pinyin-list then
           span { className: \pinyin } ...pinyin-list
       div { className: \entry, itemProp: \articleBody },
         ...for defs in groupBy(\type definitions.slice!)
