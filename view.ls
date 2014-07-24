@@ -137,11 +137,13 @@ Heteronym = React.createClass do
         ...for defs in groupBy(\type definitions.slice!)
           DefinitionList { LANG, H, defs, synonyms, antonyms, variants }
 
-decorate-ruby = ({ LANG, title, bopomofo, py, pinyin=py, trs }) ->
-  pinyin ?= trs
+decorate-ruby = ({ LANG, title='', bopomofo, py, pinyin=py, trs }) ->
+  pinyin ?= trs ? ''
   pinyin = (pinyin - /<[^>]*>/g - /（.*）/) unless LANG is \c
-  bopomofo ?= trs2bpmf LANG, "#pinyin"
+  pinyin ||= ''
+  bopomofo ?= trs2bpmf(LANG, "#pinyin") ? ''
   bopomofo -= /<[^>]*>/g unless LANG is \c
+  bopomofo ||= ''
   pinyin .= replace /ɡ/g \g
   pinyin .= replace /ɑ/g \a
   pinyin .= replace /，/g ', '
@@ -286,7 +288,10 @@ RadicalTable = React.createClass do
     else
       H += '@'
       title = h1-name {}, \部首表
-    rows = $.parseJSON terms
+    if $?
+      rows = $.parseJSON terms
+    else
+      rows = JSON.parse terms
     list = []
     for chars, strokes in rows | chars?length
       chs = []
