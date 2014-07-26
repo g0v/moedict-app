@@ -8,14 +8,20 @@ LANG = STANDALONE || window.PRERENDER_LANG || getPref(\lang) || (if document.URL
 MOE-ID = getPref(\prev-id) || {a: \萌 t: \發穎 h: \發芽 c: \萌}[LANG]
 $ ->
   $('body').addClass("lang-#LANG")
-  $('.lang-active').text $(".lang-option.#LANG:first").text!
+  React.renderComponent React.View.Links!, $(\#links).0
+  React.renderComponent React.View.Nav!, $(\#nav).0, ->
+    $('.lang-active').text $(".lang-option.#LANG:first").text!
+    if navigator.userAgent is /MSIE|Trident/
+      $('#lookback').remove!
+    else
+      $('#lookback').attr \accept-charset \big5
 
 const XREF-LABEL-OF = {a: \華, t: \閩, h: \客, c: \陸, ca: \臺}
 const TITLE-OF = {a: '', t: \臺語, h: \客語, c: \兩岸}
 
 HASH-OF = {a: \#, t: "#'", h: \#:, c: \#~}
 
-if isCordova or DEBUGGING
+if (isCordova or DEBUGGING) and not window.ALL_LANGUAGES
   if STANDALONE
     HASH-OF = {"#STANDALONE": HASH-OF[STANDALONE]}
   else
@@ -48,7 +54,7 @@ XREF = {
   tv: {t: ''}
 }
 
-if isCordova and STANDALONE isnt \c
+if isCordova and STANDALONE isnt \c and not window.ALL_LANGUAGES
   delete HASH-OF.c
   delete INDEX.c
   $ -> $('.nav .c').remove!

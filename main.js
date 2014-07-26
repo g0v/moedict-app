@@ -14,7 +14,15 @@
   }[LANG];
   $(function(){
     $('body').addClass("lang-" + LANG);
-    return $('.lang-active').text($(".lang-option." + LANG + ":first").text());
+    React.renderComponent(React.View.Links(), $('#links')[0]);
+    return React.renderComponent(React.View.Nav(), $('#nav')[0], function(){
+      $('.lang-active').text($(".lang-option." + LANG + ":first").text());
+      if (/MSIE|Trident/.exec(navigator.userAgent)) {
+        return $('#lookback').remove();
+      } else {
+        return $('#lookback').attr('accept-charset', 'big5');
+      }
+    });
   });
   XREFLABELOF = {
     a: '華',
@@ -35,7 +43,7 @@
     h: '#:',
     c: '#~'
   };
-  if (isCordova || DEBUGGING) {
+  if ((isCordova || DEBUGGING) && !window.ALL_LANGUAGES) {
     if (STANDALONE) {
       HASHOF = (ref$ = {}, ref$[STANDALONE + ""] = HASHOF[STANDALONE], ref$);
     } else {
@@ -101,7 +109,7 @@
       t: ''
     }
   };
-  if (isCordova && STANDALONE !== 'c') {
+  if (isCordova && STANDALONE !== 'c' && !window.ALL_LANGUAGES) {
     delete HASHOF.c;
     delete INDEX.c;
     $(function(){
