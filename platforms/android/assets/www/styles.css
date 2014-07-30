@@ -9655,6 +9655,7 @@ input.iconic-circle {
   height: 30px;
   padding: 7px;
   cursor: pointer !important;
+  z-index: 999;
 }
 .iconic-circle.stroke:hover,
 .star:hover {
@@ -10755,7 +10756,8 @@ body .ui-tooltip .quote,
 body .ui-tooltip .antonyms,
 body .ui-tooltip .synonyms,
 body .ui-tooltip .variants,
-body .ui-tooltip .radical {
+body .ui-tooltip .radical,
+body .ui-tooltip .star {
   display: none;
 }
 
