@@ -10389,7 +10389,10 @@ img.back {
   line-height: 1.5;
   overflow-x: hidden;
 }
-.result li {
+.result li table {
+  border: 0;
+  display: inline-block;
+  max-width: 100%;
   overflow-x: auto;
 }
 
