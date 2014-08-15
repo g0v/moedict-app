@@ -558,7 +558,10 @@ http-map =
   'stroke-json': \829091573dd46381a321-9e8a43b8d3436eaf4353af683c892840.ssl.cf1.rackcdn.com
   stroke: \/626a26a628fa127d6a25-47cac8eba79cfb787dbcc3e49a1a65f1.ssl.cf1.rackcdn.com
 
-http = -> "https://#{ it.replace(/^([^.]+)\.[^\/]+/, (xs,x) -> http-map[x] or xs ) }"
+http = ->
+  return "http://#it" if window?cordova?require
+  return "https://#{ it.replace(/^([^.]+)\.[^\/]+/, (xs,x) -> http-map[x] or xs ) }"
+
 can-play-mp3 = -> yes
 can-play-ogg = -> no
 can-play-opus = -> no

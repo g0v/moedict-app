@@ -1366,6 +1366,10 @@
     stroke: '/626a26a628fa127d6a25-47cac8eba79cfb787dbcc3e49a1a65f1.ssl.cf1.rackcdn.com'
   };
   http = function(it){
+    var ref$;
+    if ((typeof window != 'undefined' && window !== null) && ((ref$ = window.cordova) != null && ref$.require)) {
+      return "http://" + it;
+    }
     return "https://" + it.replace(/^([^.]+)\.[^\/]+/, function(xs, x){
       return httpMap[x] || xs;
     });
