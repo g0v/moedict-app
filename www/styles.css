@@ -1,225 +1,5 @@
 @charset "UTF-8";
 /*! HiDPI v1 | MIT License | git.io/hidpi */
-/*! normalize.css v3.0.0 | MIT License | git.io/normalize */
-html {
-  font-family: sans-serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-}
-
-body {
-  margin: 0;
-}
-
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-nav,
-section,
-summary {
-  display: block;
-}
-
-audio,
-canvas,
-progress,
-video {
-  display: inline-block;
-  vertical-align: baseline;
-}
-
-audio:not([controls]) {
-  display: none;
-  height: 0;
-}
-
-[hidden],
-template {
-  display: none;
-}
-
-a {
-  background: transparent;
-}
-
-a:active,
-a:hover {
-  outline: 0;
-}
-
-abbr[title] {
-  border-bottom: 1px dotted;
-}
-
-b,
-strong {
-  font-weight: bold;
-}
-
-dfn {
-  font-style: italic;
-}
-
-h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
-}
-
-mark {
-  background: #ff0;
-  color: #000;
-}
-
-small {
-  font-size: 80%;
-}
-
-sub,
-sup {
-  font-size: 75%;
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline;
-}
-
-sup {
-  top: -0.5em;
-}
-
-sub {
-  bottom: -0.25em;
-}
-
-img {
-  border: 0;
-}
-
-svg:not(:root) {
-  overflow: hidden;
-}
-
-figure {
-  margin: 1em 40px;
-}
-
-hr {
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
-  height: 0;
-}
-
-pre {
-  overflow: auto;
-}
-
-code,
-kbd,
-pre,
-samp {
-  font-family: monospace, monospace;
-  font-size: 1em;
-}
-
-button,
-input,
-optgroup,
-select,
-textarea {
-  color: inherit;
-  font: inherit;
-  margin: 0;
-}
-
-button {
-  overflow: visible;
-}
-
-button,
-select {
-  text-transform: none;
-}
-
-button,
-html input[type="button"],
-input[type="reset"],
-input[type="submit"] {
-  -webkit-appearance: button;
-  cursor: pointer;
-}
-
-button[disabled],
-html input[disabled] {
-  cursor: default;
-}
-
-button::-moz-focus-inner,
-input::-moz-focus-inner {
-  border: 0;
-  padding: 0;
-}
-
-input {
-  line-height: normal;
-}
-
-input[type="checkbox"],
-input[type="radio"] {
-  box-sizing: border-box;
-  padding: 0;
-}
-
-input[type="number"]::-webkit-inner-spin-button,
-input[type="number"]::-webkit-outer-spin-button {
-  height: auto;
-}
-
-input[type="search"] {
-  -webkit-appearance: textfield;
-  -moz-box-sizing: content-box;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
-}
-
-input[type="search"]::-webkit-search-cancel-button,
-input[type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none;
-}
-
-fieldset {
-  border: 1px solid #c0c0c0;
-  margin: 0 2px;
-  padding: 0.35em 0.625em 0.75em;
-}
-
-legend {
-  border: 0;
-  padding: 0;
-}
-
-textarea {
-  overflow: auto;
-}
-
-optgroup {
-  font-weight: bold;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-td,
-th {
-  padding: 0;
-}
-
 @media print {
   * {
     text-shadow: none !important;
@@ -6381,6 +6161,384 @@ button.close {
  * Last Modified: 2013/12/05
  *
  */
+/*! normalize.css v2.1.3 | MIT License | git.io/normalize */
+/* ==========================================================================
+   HTML5 display definitions
+   ========================================================================== */
+/**
+ * Correct `block` display not defined in IE 8/9.
+ */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block;
+}
+
+/**
+ * Correct `inline-block` display not defined in IE 8/9.
+ */
+audio,
+canvas,
+video {
+  display: inline-block;
+}
+
+/**
+ * Prevent modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+/**
+ * Address `[hidden]` styling not present in IE 8/9.
+ * Hide the `template` element in IE, Safari, and Firefox < 22.
+ */
+[hidden],
+template {
+  display: none;
+}
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
+/**
+ * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+html {
+  font-family: sans-serif;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+}
+
+/**
+ * Remove default margin.
+ */
+body {
+  margin: 0;
+}
+
+/* ==========================================================================
+   Links
+   ========================================================================== */
+/**
+ * Remove the gray background color from active links in IE 10.
+ */
+a {
+  background: transparent;
+}
+
+/**
+ * Address `outline` inconsistency between Chrome and other browsers.
+ */
+a:focus {
+  outline: thin dotted;
+}
+
+/**
+ * Improve readability when focused and also mouse hovered in all browsers.
+ */
+a:active,
+a:hover {
+  outline: 0;
+}
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+/**
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari 5, and Chrome.
+ */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+/**
+ * Address styling not present in IE 8/9, Safari 5, and Chrome.
+ */
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
+ */
+b,
+strong {
+  font-weight: bold;
+}
+
+/**
+ * Address styling not present in Safari 5 and Chrome.
+ */
+dfn {
+  font-style: italic;
+}
+
+/**
+ * Address differences between Firefox and other browsers.
+ */
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+mark {
+  background: #ff0;
+  color: #000;
+}
+
+/**
+ * Correct font family set oddly in Safari 5 and Chrome.
+ */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  font-size: 1em;
+}
+
+/**
+ * Improve readability of pre-formatted text in all browsers.
+ */
+pre {
+  white-space: pre-wrap;
+}
+
+/**
+ * Set consistent quote types.
+ */
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+small {
+  font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+/* ==========================================================================
+   Embedded content
+   ========================================================================== */
+/**
+ * Remove border when inside `a` element in IE 8/9.
+ */
+img {
+  border: 0;
+}
+
+/**
+ * Correct overflow displayed oddly in IE 9.
+ */
+svg:not(:root) {
+  overflow: hidden;
+}
+
+/* ==========================================================================
+   Figures
+   ========================================================================== */
+/**
+ * Address margin not present in IE 8/9 and Safari 5.
+ */
+figure {
+  margin: 0;
+}
+
+/* ==========================================================================
+   Forms
+   ========================================================================== */
+/**
+ * Define consistent border, margin, and padding.
+ */
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+
+/**
+ * 1. Correct `color` not being inherited in IE 8/9.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+legend {
+  border: 0;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+}
+
+/**
+ * 1. Correct font family not being inherited in all browsers.
+ * 2. Correct font size not being inherited in all browsers.
+ * 3. Address margins set differently in Firefox 4+, Safari 5, and Chrome.
+ */
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  /* 1 */
+  font-size: 100%;
+  /* 2 */
+  margin: 0;
+  /* 3 */
+}
+
+/**
+ * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+button,
+input {
+  line-height: normal;
+}
+
+/**
+ * Address inconsistent `text-transform` inheritance for `button` and `select`.
+ * All other form control elements do not inherit `text-transform` values.
+ * Correct `button` style inheritance in Chrome, Safari 5+, and IE 8+.
+ * Correct `select` style inheritance in Firefox 4+ and Opera.
+ */
+button,
+select {
+  text-transform: none;
+}
+
+/**
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Correct inability to style clickable `input` types in iOS.
+ * 3. Improve usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  /* 2 */
+  cursor: pointer;
+  /* 3 */
+}
+
+/**
+ * Re-set default cursor for disabled elements.
+ */
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+/**
+ * 1. Address box sizing set to `content-box` in IE 8/9/10.
+ * 2. Remove excess padding in IE 8/9/10.
+ */
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+}
+
+/**
+ * 1. Address `appearance` set to `searchfield` in Safari 5 and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome
+ *    (include `-moz` to future-proof).
+ */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  /* 2 */
+  box-sizing: content-box;
+}
+
+/**
+ * Remove inner padding and search cancel button in Safari 5 and Chrome
+ * on OS X.
+ */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/**
+ * Remove inner padding and border in Firefox 4+.
+ */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+/**
+ * 1. Remove default vertical scrollbar in IE 8/9.
+ * 2. Improve readability and alignment in all browsers.
+ */
+textarea {
+  overflow: auto;
+  /* 1 */
+  vertical-align: top;
+  /* 2 */
+}
+
+/* ==========================================================================
+   Tables
+   ========================================================================== */
+/**
+ * Remove most spacing between table cells.
+ */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
 /* 
  * @font-face字體設定
  * ---
@@ -9433,7 +9591,7 @@ a .icon-rotate-90:before, a .icon-rotate-180:before, a .icon-rotate-270:before, 
 
 body {
   background-image: url('images/subtle_stripes.png');
-  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Microsoft Jhenghei", "微軟正黑體", "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
+  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", 'Noto Sans T Chinese', 'Source Han Sans TWHK', "Microsoft Jhenghei", "微軟正黑體", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
 }
 @media (-webkit-min-device-pixel-ratio: 1.3), (-o-min-device-pixel-ratio: 2.6 / 2), (min--moz-device-pixel-ratio: 1.3), (min-device-pixel-ratio: 1.3), (min-resolution: 1.3dppx) {
   body {
@@ -9445,7 +9603,7 @@ body {
   }
 }
 body input, body button, body select, body textarea, body .ui-widget {
-  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Microsoft Jhenghei", "微軟正黑體", "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
+  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", 'Noto Sans T Chinese', 'Source Han Sans TWHK', "Microsoft Jhenghei", "微軟正黑體", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
 }
 body [class^="icon-"], body [class*=" icon-"] {
   font-family: FontAwesome;
@@ -9655,6 +9813,7 @@ input.iconic-circle {
   height: 30px;
   padding: 7px;
   cursor: pointer !important;
+  z-index: 8;
 }
 .iconic-circle.stroke:hover,
 .star:hover {
@@ -9706,9 +9865,9 @@ input.iconic-circle {
 }
 @media only screen and (max-width: 767px) {
   .app .query-box input {
-    position: fixed;
+    position: absolute;
     left: 40px;
-    top: 55px;
+    top: 18px;
     right: 10px;
     width: auto;
   }
@@ -10077,6 +10236,131 @@ img.back {
 }
 
 @media only screen and (max-width: 767px) {
+  #btn-pref {
+    display: none;
+  }
+}
+#user-pref label {
+  width: 100% !important;
+  margin-top: 20px !important;
+}
+
+#btn-starred {
+  margin-left: -0.5em !important;
+}
+
+#btn-pref {
+  margin-left: -5px !important;
+  margin-right: 10px !important;
+}
+#btn-pref a {
+  margin-top: -1px !important;
+}
+
+#user-pref {
+  position: fixed;
+  top: 45px;
+  z-index: 110;
+  display: none;
+  height: 100%;
+  width: 260px;
+  padding: 0.25em 1em;
+  font-size: 0.85em;
+  background-color: #d6cbbc;
+  border-right: 1px solid #c8baa6;
+}
+#user-pref h4 {
+  margin: 1.25em 0 0.75em;
+  font-weight: bold;
+  color: #634f3c;
+}
+#user-pref h4 + button.close {
+  position: absolute;
+  right: 0.5em;
+  top: 0.5em;
+}
+#user-pref ul {
+  list-style: none;
+  padding: 0;
+  font-size: inherit;
+}
+#user-pref ul.dropdown-menu li a.active {
+  background-color: #6aa3d5;
+  color: white;
+}
+#user-pref > ul {
+  margin-bottom: 0.55em;
+  padding-bottom: 0.5em;
+}
+#user-pref > ul li.btn-group {
+  width: 100%;
+  display: block;
+  margin-bottom: 0.75em;
+}
+#user-pref > ul li.btn-group:last-child {
+  margin-bottom: 0.35em;
+}
+#user-pref > ul li.btn-group.option-romanization {
+  display: none;
+}
+#user-pref > ul li.btn-group label {
+  display: block;
+  font-weight: normal;
+  margin-top: 5px;
+  text-shadow: 1px 1px 0 rgba(238, 238, 238, 0.7);
+}
+#user-pref > ul li.btn-group button {
+  float: none;
+  margin-top: -0.4em;
+  border-radius: 4px !important;
+}
+#user-pref span.fa {
+  font-size: 0.8em;
+  vertical-align: top;
+}
+#user-pref .btn-info {
+  margin: -0.5em 0 1em;
+}
+#user-pref .btn-primary {
+  bottom: 60px;
+  left: 0.75em;
+  position: absolute;
+  width: 90%;
+  font-size: 1.1em;
+  letter-spacing: 0.75em;
+  padding-left: 0.75em;
+}
+
+.starred-record--header {
+  display: none;
+}
+.starred-record--header + nav {
+  margin-top: 1.5em;
+}
+.starred-record--header + nav a:hover {
+  outline: 0;
+}
+.starred-record--header ~ div {
+  padding: 1.25em 0.5em 1em;
+  border: 1px solid #dddddd;
+  border-top: 0;
+}
+.starred-record--header ~ div h3 {
+  display: none;
+}
+.starred-record--header ~ div ul {
+  list-style: square;
+}
+.starred-record--header ~ div ul .starred-record--none-msg {
+  list-style: none;
+  margin-left: -2em;
+  color: #666666;
+}
+.starred-record--header ~ div ul .starred-record--none-msg span.fa {
+  color: #996655;
+}
+
+@media only screen and (max-width: 767px) {
   .results {
     margin-top: 105px;
     margin-left: 0px;
@@ -10103,6 +10387,13 @@ img.back {
   margin-bottom: 20px;
   font-size: 100%;
   line-height: 1.5;
+  overflow-x: hidden;
+}
+.result li table {
+  border: 0;
+  display: inline-block;
+  max-width: 100%;
+  overflow-x: auto;
 }
 
 center {
@@ -10131,6 +10422,7 @@ hruby rb[annotation]:after {
 
 .result h1,
 .ui-tooltip h1 {
+  visibility: visible !important;
   margin: -.25em 0 .5em;
   padding-bottom: .3em;
   font-family: "MOEDICT", "Biaodian Pro Serif CNS", "Fira Sans OT", "TW-Kai-98_1", "教育部標準楷書", "kai-pc", "CMEXc1", "標楷體", "BiauKai", "MOEDICT-IOS-KAI", "DFKaiShu-SB-Estd-BF", "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
@@ -10179,7 +10471,7 @@ hruby rb[annotation]:after {
   font-size: 40%;
   position: absolute;
   margin-top: 2.5ex;
-  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Microsoft Jhenghei", "微軟正黑體", "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
+  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", 'Noto Sans T Chinese', 'Source Han Sans TWHK', "Microsoft Jhenghei", "微軟正黑體", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
 }
 .result h1 .english,
 .ui-tooltip h1 .english {
@@ -10200,7 +10492,7 @@ hruby rb[annotation]:after {
 .ui-tooltip h1 small.alternative,
 .ui-tooltip h1 + div small.youyin,
 .ui-tooltip h1 + div small.alternative {
-  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Microsoft Jhenghei", "微軟正黑體", "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
+  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", 'Noto Sans T Chinese', 'Source Han Sans TWHK', "Microsoft Jhenghei", "微軟正黑體", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
   color: #888;
   display: inline-block;
   font-size: .45em;
@@ -10476,6 +10768,12 @@ body.overflow-scrolling-true.web hruby rb[annotation]:before {
   line-height: 100%;
 }
 
+body.lang-h h1 {
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
 body.lang-h .bopomofo {
   font-family: "Fira Sans OT", "Segoe UI", "Charis SIL", "Biaodian Pro Sans CNS", "MOEDICT", sans-serif;
 }
@@ -10501,7 +10799,7 @@ body.lang-c .specific {
 .glyph,
 .fw_lang,
 .specific {
-  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Microsoft Jhenghei", "微軟正黑體", "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
+  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", 'Noto Sans T Chinese', 'Source Han Sans TWHK', "Microsoft Jhenghei", "微軟正黑體", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
   color: white;
   background-color: #6b0000;
   border-radius: 4px;
@@ -10581,11 +10879,11 @@ body.lang-t .example, body.lang-h .example {
 }
 
 .example {
-  font-family: "MOEDICT", "Biaodian Pro Serif CNS", "Fira Sans OT", "Songti TC", "宋體-繁",  "TW-Sung-98_1", "教育部標準宋體", "MOESongUN", "全字庫正宋體", "Lisong Pro", "儷宋 Pro", "Apple LiSung", "蘋果儷細宋", "文鼎ＰＬ新宋", "cwTex 仿宋體", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
+  font-family: "MOEDICT", "Biaodian Pro Serif CNS", "Fira Sans OT", "TW-Sung-98_1", "教育部標準宋體", "MOESongUN", "全字庫正宋體", "Songti TC", "宋體-繁", "Lisong Pro", "儷宋 Pro", "Apple LiSung", "蘋果儷細宋", "文鼎ＰＬ新宋", "cwTex 仿宋體", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
 }
 
 .quote {
-  font-family: "MOEDICT", "Biaodian Pro Serif CNS", "Fira Sans OT", "Songti TC", "宋體-繁",  "TW-Sung-98_1", "教育部標準宋體", "MOESongUN", "全字庫正宋體", "Lisong Pro", "儷宋 Pro", "Apple LiSung", "蘋果儷細宋", "文鼎ＰＬ新宋", "cwTex 仿宋體", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
+  font-family: "MOEDICT", "Biaodian Pro Serif CNS", "Fira Sans OT", "TW-Sung-98_1", "教育部標準宋體", "MOESongUN", "全字庫正宋體", "Songti TC", "宋體-繁", "Lisong Pro", "儷宋 Pro", "Apple LiSung", "蘋果儷細宋", "文鼎ＰＬ新宋", "cwTex 仿宋體", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
   clear: both;
   display: block;
   font-size: 92%;
@@ -10660,7 +10958,7 @@ body .ui-tooltip {
   max-height: 300px;
   min-width: 300px;
   width: 300px;
-  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Microsoft Jhenghei", "微軟正黑體", "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
+  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", 'Noto Sans T Chinese', 'Source Han Sans TWHK', "Microsoft Jhenghei", "微軟正黑體", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
   word-break: break-all;
   background: #fffcfc !important;
   border-top: 0;
@@ -10694,7 +10992,7 @@ body .ui-tooltip ul li, body .ui-tooltip ol li {
   margin: 0 !important;
   margin-left: 1.5em !important;
   padding: 0 !important;
-  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Microsoft Jhenghei", "微軟正黑體", "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
+  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", 'Noto Sans T Chinese', 'Source Han Sans TWHK', "Microsoft Jhenghei", "微軟正黑體", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
   line-height: 1.35;
 }
 body .ui-tooltip ul li .part-of-speech, body .ui-tooltip ol li .part-of-speech {
@@ -10748,7 +11046,8 @@ body .ui-tooltip .quote,
 body .ui-tooltip .antonyms,
 body .ui-tooltip .synonyms,
 body .ui-tooltip .variants,
-body .ui-tooltip .radical {
+body .ui-tooltip .radical,
+body .ui-tooltip .star {
   display: none;
 }
 
@@ -10855,7 +11154,7 @@ body.cordova #gcse > span .gsc-results-wrapper-overlay {
   vertical-align: middle;
 }
 #gcse > span .gsc-control-cse .gs-spelling {
-  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Microsoft Jhenghei", "微軟正黑體", "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
+  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", 'Noto Sans T Chinese', 'Source Han Sans TWHK', "Microsoft Jhenghei", "微軟正黑體", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
   margin-bottom: 5px;
 }
 #gcse > span .gsc-control-cse .gs-spelling a {
@@ -10882,7 +11181,7 @@ body.cordova #gcse > span .gsc-results-wrapper-overlay {
   border-radius: 2px;
 }
 #gcse > span .gsc-control-cse .gsc-input {
-  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Microsoft Jhenghei", "微軟正黑體", "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
+  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", 'Noto Sans T Chinese', 'Source Han Sans TWHK', "Microsoft Jhenghei", "微軟正黑體", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
   font-size: 15px !important;
   vertical-align: top;
 }
@@ -10893,7 +11192,7 @@ body.cordova #gcse > span .gsc-results-wrapper-overlay {
   padding: 0 !important;
 }
 #gcse > span .gsc-control-cse .gs-snippet {
-  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Microsoft Jhenghei", "微軟正黑體", "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
+  font-family: "MOEDICT", "Biaodian Pro Sans CNS", "Fira Sans OT", 'Noto Sans T Chinese', 'Source Han Sans TWHK', "Microsoft Jhenghei", "微軟正黑體", "Lantinghei TC", "Heiti TC", "黑體-繁",  "Lihei Pro", "儷黑 Pro", "Apple LiGothic", "蘋果儷中黑", "Adobe 繁黑體 Std", "cwTex 明體", "Adobe 明體 Std", "PMingLiU", "MingLiU", sans-serif, "HanaMinA", "HanaMinB", "HAN NOM A", "HAN NOM B";
   padding-top: 1px !important;
   padding-left: 4px !important;
   padding-bottom: 10px !important;
@@ -10926,4 +11225,8 @@ body.cordova #gcse > span .gsc-results-wrapper-overlay {
 }
 #gcse > span .gsc-control-cse .gsc-cursor-page:only-child {
   display: none !important;
+}
+
+body {
+  font-size: 14pt;
 }
