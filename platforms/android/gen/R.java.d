@@ -46,6 +46,7 @@
 /Users/audreyt/w/moedict-webkit/app/platforms/android/res/layout/main.xml \
 /Users/audreyt/w/moedict-webkit/app/platforms/android/res/menu/example.xml \
 /Users/audreyt/w/moedict-webkit/app/platforms/android/res/values/strings.xml \
+/Users/audreyt/w/moedict-webkit/app/platforms/android/res/xml/config.xml \
 /Users/audreyt/w/moedict-webkit/app/platforms/android/bin/res/drawable/down.png \
 /Users/audreyt/w/moedict-webkit/app/platforms/android/bin/res/drawable/icon.png \
 /Users/audreyt/w/moedict-webkit/app/platforms/android/bin/res/drawable/info.png \
