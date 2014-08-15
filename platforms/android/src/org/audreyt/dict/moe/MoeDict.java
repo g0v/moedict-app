@@ -23,11 +23,23 @@ import android.os.Bundle;
 import android.view.*;
 import org.apache.cordova.*;
 
+import android.os.Build;
+import android.util.Log;
+import android.content.pm.ApplicationInfo;
+import android.webkit.WebView;
+
+
 public class MoeDict extends CordovaActivity 
 {
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
+        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT){
+            if(0 != (getApplicationInfo().flags = ApplicationInfo.FLAG_DEBUGGABLE)){
+                Log.i("Your app", "Enabling web debugging");
+                WebView.setWebContentsDebuggingEnabled(true);
+            }
+        }
         super.onCreate(savedInstanceState);
         super.init();
         // Set by <content src="index.html" /> in config.xml
