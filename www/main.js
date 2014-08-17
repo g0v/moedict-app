@@ -16,7 +16,9 @@
     $('body').addClass("lang-" + LANG);
     React.renderComponent(React.View.Links(), $('#links')[0]);
     React.renderComponent(React.View.UserPref(), $('#user-pref')[0]);
-    return React.renderComponent(React.View.Nav(), $('#nav')[0], function(){
+    return React.renderComponent(React.View.Nav({
+      STANDALONE: STANDALONE
+    }), $('#nav')[0], function(){
       $('.lang-active').text($(".lang-option." + LANG + ":first").text());
       if (/MSIE|Trident/.exec(navigator.userAgent)) {
         return $('#lookback').remove();
@@ -988,7 +990,7 @@
           $(this).attr('title', '加入字詞記錄簿');
         }
         $(this).toggleClass('icon-star-empty').toggleClass('icon-star');
-        $('#btn-starred').fadeOut('fast', function(){
+        $('#btn-starred a').fadeOut('fast', function(){
           return $(this).css('background', '#ddd').fadeIn(function(){
             $(this).css('background', 'transparent');
             return $star.fadeIn('fast');
@@ -1226,11 +1228,13 @@
       }, 'text');
     }
     function fn2$(lang){
+      if (STANDALONE && lang !== STANDALONE) {
+        return;
+      }
       return GET(lang + "/=.json", function(it){
         var $ul;
         $ul = renderTaxonomy(lang, $.parseJSON(it));
         if (STANDALONE) {
-          $('.nav .lang-option.c:first').parent().prevAll().remove();
           return $(".taxonomy." + lang).parent().replaceWith($ul.children());
         }
         return $(".taxonomy." + lang).after($ul);
