@@ -320,7 +320,9 @@
         itemProp: 'articleSection'
       }, '國語辭典'), b({
         className: 'caret'
-      })), DropDown({})), li({
+      })), DropDown({
+        STANDALONE: this.props.STANDALONE
+      })), li({
         id: 'btn-starred'
       }, a({
         href: '#=*',
@@ -513,40 +515,50 @@
   });
   DropDown = React.createClass({
     render: function(){
-      return ul({
+      var list;
+      list = [];
+      if (this.props.STANDALONE !== 'c') {
+        list = list.concat([
+          MenuItem({
+            lang: 'a',
+            href: '#萌'
+          }, '國語辭典'), Taxonomy({
+            lang: 'a'
+          }), MenuItem({
+            lang: 'a',
+            href: '#@'
+          }, '…部首表'), MenuItem({
+            lang: 't',
+            href: '#!'
+          }, '臺灣閩南語'), Taxonomy({
+            lang: 't'
+          }), MenuItem({
+            lang: 't',
+            href: '#!=諺語'
+          }, '…諺語'), MenuItem({
+            lang: 'h',
+            href: '#:'
+          }, '臺灣客家語'), MenuItem({
+            lang: 'h',
+            href: '#:=諺語'
+          }, '…諺語')
+        ]);
+      }
+      list = list.concat([
+        MenuItem({
+          lang: 'c',
+          href: '#~'
+        }, '兩岸詞典'), Taxonomy({
+          lang: 'c'
+        }), MenuItem({
+          lang: 'c',
+          href: '#~@'
+        }, '…部首表')
+      ]);
+      return ul.apply(null, [{
         className: 'dropdown-menu',
         role: 'navigation'
-      }, MenuItem({
-        lang: 'a',
-        href: '#萌'
-      }, '國語辭典'), Taxonomy({
-        lang: 'a'
-      }), MenuItem({
-        lang: 'a',
-        href: '#@'
-      }, '…部首表'), MenuItem({
-        lang: 't',
-        href: '#!'
-      }, '臺灣閩南語'), Taxonomy({
-        lang: 't'
-      }), MenuItem({
-        lang: 't',
-        href: '#!=諺語'
-      }, '…諺語'), MenuItem({
-        lang: 'h',
-        href: '#:'
-      }, '臺灣客家語'), MenuItem({
-        lang: 'h',
-        href: '#:=諺語'
-      }, '…諺語'), MenuItem({
-        lang: 'c',
-        href: '#~'
-      }, '兩岸詞典'), Taxonomy({
-        lang: 'c'
-      }), MenuItem({
-        lang: 'c',
-        href: '#~@'
-      }, '…部首表'));
+      }].concat(slice$.call(list)));
     }
   });
   Result = React.createClass({
@@ -1366,10 +1378,6 @@
     stroke: '/626a26a628fa127d6a25-47cac8eba79cfb787dbcc3e49a1a65f1.ssl.cf1.rackcdn.com'
   };
   http = function(it){
-    var ref$;
-    if ((typeof window != 'undefined' && window !== null) && ((ref$ = window.cordova) != null && ref$.require)) {
-      return "http://" + it;
-    }
     return "https://" + it.replace(/^([^.]+)\.[^\/]+/, function(xs, x){
       return httpMap[x] || xs;
     });
