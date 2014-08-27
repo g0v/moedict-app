@@ -10,12 +10,12 @@ $ ->
   $('body').addClass("lang-#LANG")
   React.renderComponent React.View.Links!, $(\#links).0
   React.renderComponent React.View.UserPref!, $(\#user-pref).0
-  React.renderComponent React.View.Nav!, $(\#nav).0, ->
+  React.renderComponent React.View.Nav({STANDALONE}), $(\#nav).0, ->
     $('.lang-active').text $(".lang-option.#LANG:first").text!
     if navigator.userAgent is /MSIE|Trident/
       $('#lookback').remove!
     else
-      $('#lookback').attr \accept-charset \big5
+      $('form[id=lookback]').attr \accept-charset \big5
 
 const XREF-LABEL-OF = {a: \華, t: \閩, h: \客, c: \陸, ca: \臺}
 const TITLE-OF = {a: '', t: \臺語, h: \客語, c: \兩岸}
@@ -372,7 +372,7 @@ window.do-load = ->
 
   window.grok-val = grok-val = (val) ->
     stop-audio!
-    return if val is /</ or val is /^\s+$/
+    return if val is /</ or val is /^\s+$/ or val is /index.html/
     if val in <[ '=諺語 !=諺語 :=諺語 ]> and not width-is-xs!
       <- setTimeout _, 500ms
       $(\#query).autocomplete(\search)
@@ -578,7 +578,7 @@ window.do-load = ->
         STARRED[LANG] -= "#key"
         $(@).attr \title \加入字詞記錄簿
       $(@).toggleClass \icon-star-empty .toggleClass \icon-star
-      $(\#btn-starred).fadeOut \fast ->
+      $('#btn-starred a').fadeOut \fast ->
         $(@).css(\background \#ddd)fadeIn ->
           $(@).css(\background \transparent)
           $star.fadeIn \fast
@@ -693,10 +693,10 @@ window.do-load = ->
     GET "t/variants.json", (-> XREF.tv = {t: it}), \text
 
   for lang of HASH-OF | lang isnt \h => let lang
+    return if STANDALONE and lang isnt STANDALONE
     GET "#lang/=.json", (->
       $ul = render-taxonomy lang, $.parseJSON it
       if STANDALONE
-        $('.nav .lang-option.c:first').parent!prevAll!remove!
         return $(".taxonomy.#lang").parent!replaceWith $ul.children!
       $(".taxonomy.#lang").after $ul
     ), \text
@@ -842,49 +842,6 @@ function can-play-opus
   return CACHED.can-play-opus if CACHED.can-play-opus?
   a = document.createElement \audio
   CACHED.can-play-opus = !!(a.canPlayType?('audio/ogg; codecs="opus"') - /^no$/)
-
-function render-strokes (terms, id)
-  h = HASH-OF[LANG]
-  id -= /^[@=]/
-  if id is /^\s*$/
-    title = "<h1 itemprop='name'>部首表</h1>"
-    h += '@'
-  else
-    title = "<h1 itemprop='name'>#id <a class='xref' href=\"#\@\" title='部首表'>部</a></h1>"
-  rows = $.parseJSON terms
-  list = ''
-  for chars, strokes in rows | chars?length
-    list += "<span class='stroke-count'>#strokes</span><span class='stroke-list'>"
-    for ch in chars
-      list += "<a class='stroke-char' href=\"#h#ch\">#ch</a> "
-    list += "</span><hr style='margin: 0; padding: 0; height: 0'>"
-  return "#title<div class='list'>#list</div>"
-
-function render-list (terms, id)
-  h = HASH-OF[LANG]
-  id -= /^[@=]/
-  title = "<h1 itemprop='name'>#id</h1>"
-  terms -= /^[^"]*/
-  if id is \字詞紀錄簿
-    title = $ \#starred-record .html!
-    terms += "<li class='starred-record--none-msg'>點選詞條右方的<span class='fa icon-star-empty'>星號</span>按鈕，即可將字詞加到這裡。</li>" unless terms
-    terms = '<div class="starred-record--fav"><h3>我收藏的條目</h3><ul>' + terms.replace(/"([^"]+)"[^"]*/g "<li><a href=\"#{h}$1\">$1</a></li>") + "</ul></div>"
-
-  if id is \字詞紀錄簿 and LRU[LANG]
-    terms += '<div hidden class="starred-record--history"><h3>最近查閱過的字詞</h3>\n<ul>'
-    terms += LRU[LANG].replace(/"([^"]+)"[^"]*/g "<li><a href=\"#{h}$1\">$1</a></li>")
-    terms += "</ul></div>"
-
-  # 兩岸詞典・同實異名列表
-  if terms is /^";/
-    terms = "<table><tr><th><span class='part-of-speech'>臺</span></th><th><span class='part-of-speech'>陸</span></th></tr>#terms</table>"
-    terms.=replace /";([^;"]+);([^;"]+)"[^"]*/g """<tr><td><a href=\"#{h}$1\">$1</a></td><td><a href=\"#{h}$2\">$2</a></td></tr>"""
-
-  # 一般列表
-  if terms is /^"/
-    terms = '<ul>' + terms.replace(/"([^"]+)"[^"]*/g "<li><a href=\"#{h}$1\">$1</a></li>") + '</ul>'
-
-  return "#title<div class='list'>#terms</div>"
 
 http-map =
   a: \203146b5091e8f0aafda-15d41c68795720c6e932125f5ace0c70.ssl.cf1.rackcdn.com

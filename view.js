@@ -231,18 +231,6 @@
     render: function(){
       var id, icon, label, background, href;
       return div({}, a({
-        id: 'sendback',
-        className: 'btn btn-default small',
-        title: '送回編修',
-        style: {
-          marginLeft: '50%',
-          display: 'none',
-          background: '#333333',
-          color: 'white'
-        },
-        href: 'mailto:xldictionary@gmail.com?subject=編修建議&body=出處及定義：',
-        target: '_blank'
-      }, '送回編修'), a({
         className: 'visible-xs pull-left ebas btn btn-default',
         href: '#',
         title: '關於本站',
@@ -320,7 +308,9 @@
         itemProp: 'articleSection'
       }, '國語辭典'), b({
         className: 'caret'
-      })), DropDown({})), li({
+      })), DropDown({
+        STANDALONE: this.props.STANDALONE
+      })), li({
         id: 'btn-starred'
       }, a({
         href: '#=*',
@@ -513,45 +503,56 @@
   });
   DropDown = React.createClass({
     render: function(){
-      return ul({
+      var list;
+      list = [];
+      if (this.props.STANDALONE !== 'c') {
+        list = list.concat([
+          MenuItem({
+            lang: 'a',
+            href: '#萌'
+          }, '國語辭典'), Taxonomy({
+            lang: 'a'
+          }), MenuItem({
+            lang: 'a',
+            href: '#@'
+          }, '…部首表'), MenuItem({
+            lang: 't',
+            href: '#!'
+          }, '臺灣閩南語'), Taxonomy({
+            lang: 't'
+          }), MenuItem({
+            lang: 't',
+            href: '#!=諺語'
+          }, '…諺語'), MenuItem({
+            lang: 'h',
+            href: '#:'
+          }, '臺灣客家語'), MenuItem({
+            lang: 'h',
+            href: '#:=諺語'
+          }, '…諺語')
+        ]);
+      }
+      list = list.concat([
+        MenuItem({
+          lang: 'c',
+          href: '#~'
+        }, '兩岸詞典'), Taxonomy({
+          lang: 'c'
+        }), MenuItem({
+          lang: 'c',
+          href: '#~@'
+        }, '…部首表')
+      ]);
+      return ul.apply(null, [{
         className: 'dropdown-menu',
         role: 'navigation'
-      }, MenuItem({
-        lang: 'a',
-        href: '#萌'
-      }, '國語辭典'), Taxonomy({
-        lang: 'a'
-      }), MenuItem({
-        lang: 'a',
-        href: '#@'
-      }, '…部首表'), MenuItem({
-        lang: 't',
-        href: '#!'
-      }, '臺灣閩南語'), Taxonomy({
-        lang: 't'
-      }), MenuItem({
-        lang: 't',
-        href: '#!=諺語'
-      }, '…諺語'), MenuItem({
-        lang: 'h',
-        href: '#:'
-      }, '臺灣客家語'), MenuItem({
-        lang: 'h',
-        href: '#:=諺語'
-      }, '…諺語'), MenuItem({
-        lang: 'c',
-        href: '#~'
-      }, '兩岸詞典'), Taxonomy({
-        lang: 'c'
-      }), MenuItem({
-        lang: 'c',
-        href: '#~@'
-      }, '…部首表'));
+      }].concat(slice$.call(list)));
     }
   });
   Result = React.createClass({
     render: function(){
-      switch (this.props.type) {
+      var ref$;
+      switch ((ref$ = this.props) != null && ref$.type) {
       case 'term':
         return Term(this.props);
       case 'list':
@@ -695,7 +696,7 @@
           }
         }());
         u.volume = 1.0;
-        u.rate = 1.1;
+        u.rate = 1.0;
         return syn.speak(u);
       } catch (e$) {}
     }

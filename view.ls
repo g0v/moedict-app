@@ -111,7 +111,7 @@ UserPref = React.createClass do
 
 Links = React.createClass do
   render: -> div {},
-    a { id: \sendback, className: 'btn btn-default small', title: \送回編修, style: { marginLeft: \50%, display: \none, background: \#333333, color: \white }, href: \mailto:xldictionary@gmail.com?subject=編修建議&body=出處及定義：, target: \_blank }, \送回編修
+    # a { id: \sendback, className: 'btn btn-default small', title: \送回編修, style: { marginLeft: \50%, display: \none, background: \#333333, color: \white }, href: \mailto:xldictionary@gmail.com?subject=編修建議&body=出處及定義：, target: \_blank }, \送回編修
     a { className: 'visible-xs pull-left ebas btn btn-default', href: \#, title: \關於本站, style: { float: \left, marginTop: \-10px, marginLeft: \5px, marginBottom: \5px }, onClick: -> pressAbout! },
       span { className: \iconic-circle }, i { className: \icon-info }
       span {}, nbsp, \萌典
@@ -131,7 +131,7 @@ Nav = React.createClass do
           i { className: \icon-book }, nbsp
           span { className: \lang-active, style: { margin: 0, padding: 0 }, itemProp: \articleSection }, \國語辭典
           b { className: \caret }
-        DropDown {},
+        DropDown { STANDALONE: @props.STANDALONE },
       li { id: \btn-starred },
         a { href: \#=*, style: { paddingLeft: \5px, paddingRight: \5px } },
           i { className: \icon-bookmark-empty }
@@ -182,24 +182,27 @@ MenuItem = React.createClass do
       a { className: "#lang lang-option#{ if role then '' else " #lang\-idiom"}", role, href }, children
 
 DropDown = React.createClass do
-  render: -> ul { className: \dropdown-menu, role: \navigation },
-    MenuItem { lang: \a, href: \#萌 }, \國語辭典
-    Taxonomy { lang: \a }
-    MenuItem { lang: \a, href: \#@ }, \…部首表
-
-    MenuItem { lang: \t, href: \#! }, \臺灣閩南語
-    Taxonomy { lang: \t }
-    MenuItem { lang: \t, href: \#!=諺語 }, \…諺語
-
-    MenuItem { lang: \h, href: \#: }, \臺灣客家語
-    MenuItem { lang: \h, href: \#:=諺語 }, \…諺語
-
-    MenuItem { lang: \c, href: \#~ }, \兩岸詞典
-    Taxonomy { lang: \c }
-    MenuItem { lang: \c, href: \#~@ }, \…部首表
+  render: ->
+    list = []
+    if @props.STANDALONE isnt \c => list ++= [
+      MenuItem { lang: \a, href: \#萌 }, \國語辭典
+      Taxonomy { lang: \a }
+      MenuItem { lang: \a, href: \#@ }, \…部首表
+      MenuItem { lang: \t, href: \#! }, \臺灣閩南語
+      Taxonomy { lang: \t }
+      MenuItem { lang: \t, href: \#!=諺語 }, \…諺語
+      MenuItem { lang: \h, href: \#: }, \臺灣客家語
+      MenuItem { lang: \h, href: \#:=諺語 }, \…諺語
+    ]
+    list ++= [
+      MenuItem { lang: \c, href: \#~ }, \兩岸詞典
+      Taxonomy { lang: \c }
+      MenuItem { lang: \c, href: \#~@ }, \…部首表
+    ]
+    ul { className: \dropdown-menu, role: \navigation }, ...list
 
 Result = React.createClass do
-  render: -> switch @props.type
+  render: -> switch @props?type
     | \term    => Term @props
     | \list    => List @props
     | \radical => RadicalTable @props
@@ -245,7 +248,7 @@ Translations = React.createClass do
       | \法 => \fr-FR
       | \德 => \de-DE
     u.volume = 1.0
-    u.rate = 1.1
+    u.rate = 1.0
     syn.speak u
 
 const HASH-OF = {a: \#, t: "#'", h: \#:, c: \#~}
