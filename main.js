@@ -25,7 +25,8 @@
       } else {
         $('form[id=lookback]').attr('accept-charset', 'big5');
         if (window.PRERENDER_ID) {
-          return $('form[id=lookback] input[id=cond]').val("^" + window.PRERENDER_ID + "$");
+          $('form[id=lookback] input[id=cond]').val("^" + window.PRERENDER_ID + "$");
+          return $('#query').val(window.PRERENDER_ID);
         }
       }
     });
@@ -599,7 +600,7 @@
             $('.dropdown.open').removeClass('open');
           }
           if (val) {
-            val = replace$.call(val, /.*\#/, '');
+            val = replace$.call(val, /[^#]*\#/, '');
           }
           val || (val = $(this).text());
           window.grokVal(val);
@@ -733,9 +734,14 @@
     };
     prevId = prevVal = window.PRERENDER_ID;
     window.pressLang = function(lang, id){
+      var i$, ref$, len$, ref1$, words;
       lang == null && (lang = '');
       id == null && (id = '');
+      id = replace$.call(id, /#/g, '');
       if (STANDALONE) {
+        return;
+      }
+      if (lang === LANG && !id) {
         return;
       }
       prevId = null;
@@ -770,6 +776,13 @@
       $('iframe').fadeIn('fast');
       $('.lang-active').text($(".lang-option." + LANG + ":first").text());
       setPref('lang', LANG);
+      for (i$ = 0, len$ = (ref$ = React.View.result.props.xrefs || []).length; i$ < len$; ++i$) {
+        ref1$ = ref$[i$], lang = ref1$.lang, words = ref1$.words;
+        if (lang === LANG) {
+          id || (id = words[0]);
+        }
+      }
+      id || (id = (ref$ = LRU[LANG]) != null ? ref$.replace(/[\\\n][\d\D]*/, '').replace(/[\\"]/g, '') : void 8);
       id || (id = {
         a: '萌',
         t: '發穎',

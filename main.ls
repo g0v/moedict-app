@@ -16,7 +16,9 @@ $ ->
       $('form[id=lookback]').remove!
     else
       $('form[id=lookback]').attr \accept-charset \big5
-      $('form[id=lookback] input[id=cond]').val "^#{window.PRERENDER_ID}$" if window.PRERENDER_ID
+      if window.PRERENDER_ID
+        $('form[id=lookback] input[id=cond]').val "^#{window.PRERENDER_ID}$"
+        $('#query').val window.PRERENDER_ID
 
 const XREF-LABEL-OF = {a: \華, t: \閩, h: \客, c: \陸, ca: \臺}
 const TITLE-OF = {a: '', t: \臺語, h: \客語, c: \兩岸}
@@ -353,7 +355,7 @@ window.do-load = ->
         if $('.dropdown.open').length
           $ \.navbar .css \position \fixed
           $ \.dropdown.open .removeClass \open
-        val -= /.*\#/ if val
+        val -= /[^#]*\#/ if val
         val ||= $(@).text!
         window.grok-val val
         return false
@@ -427,7 +429,9 @@ window.do-load = ->
 
   prevId = prevVal = window.PRERENDER_ID
   window.press-lang = (lang='', id='') ->
+    id -= /#/g
     return if STANDALONE
+    return if lang is LANG and !id
     prevId := null
     prevVal := null
     if HASH-OF.c
@@ -439,6 +443,9 @@ window.do-load = ->
     $('iframe').fadeIn \fast
     $('.lang-active').text $(".lang-option.#LANG:first").text!
     setPref \lang LANG
+    for {lang, words} in (React.View.result.props.xrefs || []) | lang is LANG
+      id ||= words.0
+    id ||= LRU[LANG]?replace(/[\\\n][\d\D]*/, '').replace(/[\\"]/g, '')
     id ||= {a: \萌 t: \發穎 h: \發芽 c: \萌}[LANG]
     unless isCordova
       GET "#LANG/xref.json" (-> XREF[LANG] = it), \text
