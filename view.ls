@@ -25,6 +25,7 @@ PrefList = React.createClass do
       return { key, selected }
   componentDidMount: -> @phoneticsChanged!
   componentDidUpdate: -> @phoneticsChanged!
+  pinyin_aChanged: -> location.reload!
   phoneticsChanged: ->
     $('rb[order]').each ->
       attr = $(@).attr('annotation')
@@ -78,8 +79,9 @@ UserPref = React.createClass do
   getDefaultProps: -> {
     simptrad: localStorage?getItem \simptrad
     phonetics: localStorage?getItem \phonetics
+    pinyin_a: localStorage?getItem \pinyin_a
   }
-  render: -> { phonetics, simptrad } = @props; div {},
+  render: -> { phonetics, simptrad, pinyin_a } = @props; div {},
     h4 {}, \偏好設定
     button { className: 'close btn-close', type: \button, 'aria-hidden': true }, \×
     ul {},
@@ -88,7 +90,12 @@ UserPref = React.createClass do
         [ \bopomofo   \只顯示注音符號 ] # , small {}, \（方言音） ]
         [ \pinyin     \只顯示羅馬拼音 ]
         [] # li {}, a {}, \置於條目名稱下方
-        [ \none       \關閉 ] /*
+        [ \none       \關閉 ]
+      PrefList { pinyin_a }, \國語辭典拼音系統,
+        [ \HanYu      \漢語拼音 ]
+        [ \TongYong   \通用拼音 ] # , small {}, \（方言音） ]
+        [ \GuoYin     \國音二式 ]
+        [ \WadeGiles  \威妥瑪拼音 ] /*
       li { className: \btn-group },
         label {}, \字詞查閱紀錄
         button { className: 'btn btn-default btn-sm dropdown-toggle', type: \button, 'data-toggle': \dropdown },
@@ -321,7 +328,7 @@ Heteronym = React.createClass do
       meta { itemProp: \contentURL, content: mp3 }
     if b-alt
       list ++= small { className: \alternative },
-        span { className: \pinyin } p-alt
+        span { className: \pinyin } convert-pinyin p-alt
         span { className: \bopomofo } b-alt
     list ++= span { lang: \en, className: \english } english if english
     list ++= span { className: \specific_to, dangerouslySetInnerHTML: { __html: h specific_to } } if specific_to
@@ -338,7 +345,7 @@ Heteronym = React.createClass do
           span { className: 'xref part-of-speech' }, \简
           span { className: \xref }, untag alt
         if cn-specific and pinyin and bopomofo then small { className: 'alternative cn-specific' },
-          span { className: \pinyin } pinyin
+          span { className: \pinyin } convert-pinyin pinyin
           span { className: \bopomofo } bopomofo
         if pinyin-list then
           span { className: \pinyin } ...pinyin-list
@@ -399,6 +406,7 @@ decorate-ruby = ({ LANG, title='', bopomofo, py, pinyin=py, trs }) ->
   p .= replace /<br>.*/, ''
   p .= split ' '
   for yin, idx in p | yin
+    yin = convert-pinyin yin
     span = # 閩南語典，按隔音符計算字數
            if LANG is \t and yin is /\-/g
            then ' rbspan="'+ (yin.match /[\-]+/g .length+1) + '"'
@@ -432,6 +440,25 @@ decorate-ruby = ({ LANG, title='', bopomofo, py, pinyin=py, trs }) ->
   else if LANG is \h
     bopomofo = ''
   return { ruby, youyin, b-alt, p-alt, cn-specific, pinyin, bopomofo }
+
+function convert-pinyin (yin)
+  return yin unless $?('body').hasClass('lang-a')
+  system = localStorage?getItem \pinyin_a
+  return yin unless system and PinYinMap[system]
+  return [ convert-pinyin y for y in yin.split(/\s+/) ].join(' ') if yin is /\s/
+  tone = 5
+  tone = 1 if yin is /[āōēīūǖ]/
+  tone = 2 if yin is /[áóéíúǘ]/
+  tone = 3 if yin is /[ǎǒěǐǔǚ]/
+  tone = 4 if yin is /[àòèìùǜ]/
+  yin = yin.replace(/[āáǎà]/g, 'a')
+           .replace(/[ōóǒò]/g, 'o')
+           .replace(/[ēéěè]/g, 'e')
+           .replace(/[īíǐì]/g, 'i')
+           .replace(/[ūúǔù]/g, 'u')
+           .replace(/[üǖǘǚǜ]/g, 'v')
+  yin = PinYinMap[system][yin] || yin
+  return "#yin#tone"
 
 DefinitionList = React.createClass do
   render: ->
@@ -673,3 +700,8 @@ else
   unless window.PRERENDER_LANG
     <- $
     React.View.result = React.renderComponent Result!, $(\#result).0
+
+PinYinMap =
+  "WadeGiles": {"mie":"mieh","bu":"pu","bin":"pin","cun":"tsun","can":"tsan","ben":"pen","qin":"chin","ruo":"jo","xian":"hsien","ran":"jan","yue":"yueh","rong":"jung","suo":"so","nuo":"no","tong":"tung","dou":"tou","xing":"hsing","ba":"pa","ye":"yeh","que":"chueh","ci":"tzu","da":"ta","duo":"to","zu":"tsu","chi":"chih","juan":"chuan","lve":"lueh","za":"tsa","dui":"tui","jun":"chun","bie":"pieh","zhang":"chang","ji":"chi","zhua":"chua","guo":"kuo","pie":"pieh","de":"te","dun":"tun","du":"tu","xiu":"hsiu","tie":"tieh","duan":"tuan","tian":"tien","jiong":"chiung","bo":"po","zhuo":"cho","gai":"kai","xiang":"hsiang","yong":"yung","lv":"lu","pian":"pien","cong":"tsung","zhuang":"chuang","ru":"ju","gong":"kung","xi":"hsi","yan":"yen","jie":"chieh","jing":"ching","bei":"pei","qiu":"chiu","cu":"tsu","biao":"piao","dai":"tai","gang":"kang","gei":"kei","dian":"tien","qun":"chun","ju":"chu","xia":"hsia","zheng":"cheng","qing":"ching","lian":"lien","shi":"shih","nie":"nieh","zui":"tsui","zao":"tsao","guai":"kuai","xin":"hsin","song":"sung","gao":"kao","cen":"tsen","ren":"jen","zhu":"chu","diang":"-","bi":"pi","zhen":"chen","kong":"kung","cang":"tsang","gou":"kou","chong":"chung","qie":"chieh","bing":"ping","jue":"chueh","lvan":"luan","bang":"pang","gen":"ken","lie":"lieh","ding":"ting","qu":"chu","zai":"tsai","cao":"tsao","kui":"kuei","er":"erh","you":"yu","xu":"hsu","diao":"tiao","guang":"kuang","gun":"kun","ge":"ke","run":"jun","quan":"chuan","gu":"ku","di":"ti","zhan":"chan","ca":"tsa","xie":"hsieh","nian":"nien","cuo":"tso","zha":"cha","mian":"mien","jiu":"chiu","ce":"tse","die":"tieh","zhei":"chei","nve":"nueh","jia":"chia","zan":"tsan","zuo":"tso","qiong":"chiung","zhao":"chao","cai":"tsai","zi":"tzu","guan":"kuan","deng":"teng","hong":"hung","dao":"tao","rou":"jou","zhong":"chung","qi":"chi","ze":"tse","qian":"chien","zhe":"che","bai":"pai","zou":"tsou","zhai":"chai","rang":"jang","nong":"nung","zhun":"chun","re":"je","dei":"tei","ruan":"juan","dong":"tung","bian":"pien","xuan":"hsuan","geng":"keng","dang":"tang","luo":"lo","si":"ssu","gua":"kua","rao":"jao","ga":"ka","cuan":"tsuan","qiang":"chiang","zeng":"tseng","zong":"tsung","zen":"tsen","zhi":"chih","zhuan":"chuan","diu":"tiu","rui":"jui","zuan":"tsuan","reng":"jeng","zhou":"chou","chuo":"cho","ceng":"tseng","jiang":"chiang","qia":"chia","cui":"tsui","ban":"pan","gan":"kan","nv":"nu","cou":"tsou","xun":"hsun","xue":"hsueh","long":"lung","zang":"tsang","zei":"tsei","qiao":"chiao","ri":"jih","xiong":"hsiung","beng":"peng","jin":"chin","xiao":"hsiao","jiao":"chiao","zun":"tsun","tuo":"to","bao":"pao","zhuai":"chuai","gui":"kuei","zhui":"chui","jian":"chien","dan":"tan"}
+  "GuoYin": {"gui":"guei","zhao":"jau","zuo":"tzuo","niao":"niau","zan":"tzan","zou":"tzou","rong":"rung","tao":"tau","ci":"tsz","zong":"tzung","cuo":"tsuo","ao":"au","qiang":"chiang","miao":"miau","xuan":"shiuan","lv":"liu","chun":"chuen","sun":"suen","shi":"shr","kao":"kau","can":"tsan","diao":"diau","zu":"tzu","qun":"chiun","ca":"tsa","xing":"shing","zun":"tzuen","xian":"shian","diu":"diou","shun":"shuen","kun":"kuen","yao":"yau","kui":"kuei","jiong":"jiung","dui":"duei","hao":"hau","zen":"tzen","xun":"shiun","diang":"-","hui":"huei","cong":"tsung","xie":"shie","ju":"jiu","cou":"tsou","ceng":"tseng","jue":"jiue","zui":"tzuei","nve":"niue","zhuai":"juai","zhuang":"juang","cui":"tsuei","ce":"tse","yong":"yung","xi":"shi","cun":"tsuen","chao":"chau","zhui":"juei","xiu":"shiou","xiao":"shiau","xin":"shin","dong":"dung","qie":"chie","sui":"suei","zhun":"juen","zhai":"jai","xu":"shiu","si":"sz","qu":"chiu","zhen":"jen","shao":"shau","chi":"chr","cang":"tsang","qiu":"chiou","gao":"gau","xiang":"shiang","za":"tza","zang":"tzang","cu":"tsu","hong":"hung","zha":"ja","kong":"kung","bao":"bau","zhua":"jua","nv":"niu","cen":"tsen","dun":"duen","nong":"nung","liu":"liou","zao":"tzau","piao":"piau","xia":"shia","tun":"tuen","rao":"rau","jiao":"jiau","zhang":"jang","cuan":"tsuan","zhuo":"juo","qiao":"chiau","nun":"nuen","niu":"niou","qing":"ching","jiu":"jiou","zhu":"ju","sao":"sau","qi":"chi","zhan":"jan","zheng":"jeng","liao":"liau","juan":"jiuan","zhe":"je","cai":"tsai","tong":"tung","zhuan":"juan","zi":"tz","qia":"chia","lao":"lau","gun":"guen","zhou":"jou","tiao":"tiau","tui":"tuei","gong":"gung","zei":"tzei","rui":"ruei","lve":"liue","ze":"tze","xue":"shiue","chong":"chung","zeng":"tzeng","cao":"tsau","xiong":"shiung","hun":"huen","zai":"tzai","que":"chiue","biao":"biau","zhong":"jung","nao":"nau","zuan":"tzuan","song":"sung","qiong":"chiung","run":"ruen","long":"lung","chui":"chuei","zhi":"jr","pao":"pau","lun":"luen","qian":"chian","dao":"dau","quan":"chiuan","shui":"shuei","miu":"miou","lvan":"liuan","ri":"r","jun":"jiun","mao":"mau","zhei":"jei","qin":"chin"}
+  "TongYong": {"shi":"shih","xuan":"syuan","lv":"lyu","liu":"liou","xia":"sia","zhua":"jhua","qiang":"ciang","nv":"nyu","zha":"jha","ci":"cih","xiang":"siang","qiu":"ciou","chi":"chih","zhao":"jhao","si":"sih","qu":"cyu","gui":"guei","zhen":"jhen","zhou":"jhou","hui":"huei","qia":"cia","feng":"fong","zi":"zih","xun":"syun","dui":"duei","zhuan":"jhuan","jiong":"jyong","kui":"kuei","juan":"jyuan","zhe":"jhe","zhu":"jhu","qi":"ci","zheng":"jheng","zhan":"jhan","diu":"diou","jiu":"jiou","qing":"cing","niu":"niou","xian":"sian","xing":"sing","qiao":"ciao","zhuo":"jhuo","zhang":"jhang","qun":"cyun","que":"cyue","wen":"wun","xiong":"syong","zhuang":"jhuang","cui":"cuei","zhuai":"jhuai","xue":"syue","nve":"nyue","zui":"zuei","lve":"lyue","jue":"jyue","rui":"ruei","xie":"sie","tui":"tuei","ju":"jyu","qin":"cin","zhai":"jhai","zhei":"jhei","xu":"syu","weng":"wong","jun":"jyun","zhun":"jhun","lvan":"lyuan","ri":"rih","sui":"suei","qie":"cie","shui":"shuei","miu":"miou","xin":"sin","quan":"cyuan","qian":"cian","xiu":"siou","xiao":"siao","zhi":"jhih","zhui":"jhuei","chui":"chuei","qiong":"cyong","zhong":"jhong","xi":"si"}
