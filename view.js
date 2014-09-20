@@ -224,10 +224,10 @@
         type: 'button',
         'aria-hidden': true
       }, '×'), ul({}, PrefList({
-        phonetics: phonetics
-      }, '條目注音顯示方式', ['rightangle', '直角共同顯示'], ['bopomofo', '只顯示注音符號'], ['pinyin', '只顯示羅馬拼音'], [], ['none', '關閉']), PrefList({
         pinyin_a: pinyin_a
-      }, '國語辭典拼音系統', ['HanYu', '漢語拼音'], ['TongYong', '通用拼音'], ['GuoYin', '國音二式'], ['WadeGiles', '威妥瑪拼音'])), button({
+      }, '國語辭典拼音系統', ['HanYu', '漢語拼音'], ['TongYong', '通用拼音'], ['WadeGiles', '威妥瑪拼音'], ['GuoYin', '國音二式']), PrefList({
+        phonetics: phonetics
+      }, '條目注音顯示方式', ['rightangle', '直角共同顯示'], ['bopomofo', '只顯示注音符號'], ['pinyin', '只顯示羅馬拼音'], [], ['none', '關閉'])), button({
         className: 'btn btn-primary btn-block btn-close',
         type: 'button'
       }, '關閉'));
@@ -907,7 +907,38 @@
       }), key === 0 ? Star({
         CurrentId: CurrentId,
         LANG: LANG
-      }) : void 8, $char, h1.apply(null, [{
+      }) : void 8, a({
+        style: {
+          position: 'absolute',
+          right: '41px',
+          top: '160px',
+          color: 'white',
+          cursor: 'pointer',
+          display: 'none'
+        },
+        id: 'historical-scripts',
+        className: 'part-of-speech',
+        title: '顯示歷代書體',
+        onClick: function(){
+          var i$, ref$, len$, ch, results$ = [];
+          $('#strokes iframe').remove();
+          for (i$ = 0, len$ = (ref$ = CurrentId).length; i$ < len$; ++i$) {
+            ch = ref$[i$];
+            results$.push($('#strokes').append($('<iframe />', {
+              src: "http://chinese-linguipedia.org/clk/searchclk/srch_history/main/" + encodeURIComponent(ch),
+              css: {
+                width: '1400px',
+                clear: 'both',
+                transform: 'scale(0.6)',
+                marginLeft: '-300px',
+                height: '250px',
+                marginTop: '-55px'
+              }
+            })));
+          }
+          return results$;
+        }
+      }, '歷代書體'), $char, h1.apply(null, [{
         className: 'title',
         'data-title': t
       }].concat(slice$.call(list))), bopomofo || alt || pinyinList ? div({
@@ -1054,7 +1085,7 @@
     };
   };
   function convertPinyin(yin){
-    var system, y, tone;
+    var system, y, tone, r;
     if (!(typeof $ === 'function' && $('body').hasClass('lang-a'))) {
       return yin;
     }
@@ -1086,8 +1117,13 @@
       tone = 4;
     }
     yin = yin.replace(/[āáǎà]/g, 'a').replace(/[ōóǒò]/g, 'o').replace(/[ēéěè]/g, 'e').replace(/[īíǐì]/g, 'i').replace(/[ūúǔù]/g, 'u').replace(/[üǖǘǚǜ]/g, 'v');
+    r = '';
+    if (/r$/.exec(yin)) {
+      r = 'r';
+      yin = replace$.call(yin, /r$/, '');
+    }
     yin = PinYinMap[system][yin] || yin;
-    return yin + "" + tone;
+    return yin + "" + r + tone;
   }
   DefinitionList = React.createClass({
     render: function(){

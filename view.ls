@@ -85,17 +85,17 @@ UserPref = React.createClass do
     h4 {}, \偏好設定
     button { className: 'close btn-close', type: \button, 'aria-hidden': true }, \×
     ul {},
+      PrefList { pinyin_a }, \國語辭典拼音系統,
+        [ \HanYu      \漢語拼音 ]
+        [ \TongYong   \通用拼音 ] # , small {}, \（方言音） ]
+        [ \WadeGiles  \威妥瑪拼音 ]
+        [ \GuoYin     \國音二式 ]
       PrefList { phonetics }, \條目注音顯示方式,
         [ \rightangle \直角共同顯示 ]
         [ \bopomofo   \只顯示注音符號 ] # , small {}, \（方言音） ]
         [ \pinyin     \只顯示羅馬拼音 ]
         [] # li {}, a {}, \置於條目名稱下方
-        [ \none       \關閉 ]
-      PrefList { pinyin_a }, \國語辭典拼音系統,
-        [ \HanYu      \漢語拼音 ]
-        [ \TongYong   \通用拼音 ] # , small {}, \（方言音） ]
-        [ \GuoYin     \國音二式 ]
-        [ \WadeGiles  \威妥瑪拼音 ] /*
+        [ \none       \關閉 ] /*
       li { className: \btn-group },
         label {}, \字詞查閱紀錄
         button { className: 'btn btn-default btn-sm dropdown-toggle', type: \button, 'data-toggle': \dropdown },
@@ -337,7 +337,26 @@ Heteronym = React.createClass do
       meta { itemProp: \image, content: encodeURIComponent(t) + ".png" }
       meta { itemProp: \name, content: t }
       if key is 0 then # Only display Star for the first entry
-        Star { CurrentId, LANG }
+        Star { CurrentId, LANG } /* a { style: { color: \white cursor: \pointer }, className: \part-of-speech, title: \加入字詞記錄簿 } \甲
+      a { style: { color: \white cursor: \pointer }, className: \part-of-speech, title: \加入字詞記錄簿 } \篆
+      a { style: { color: \white cursor: \pointer }, className: \part-of-speech, title: \加入字詞記錄簿 } \金
+      a { style: { color: \white cursor: \pointer }, className: \part-of-speech, title: \加入字詞記錄簿 } \隸
+      a { style: { color: \white cursor: \pointer }, className: \part-of-speech, title: \加入字詞記錄簿 } \草
+      a { style: { color: \white cursor: \pointer }, className: \part-of-speech, title: \加入字詞記錄簿 } \行
+      a { style: { color: \white cursor: \pointer }, className: \part-of-speech, title: \加入字詞記錄簿 } \楷
+      */
+      a {
+        style: { position: \absolute right: \41px top: \160px color: \white cursor: \pointer display: \none }
+        id: 'historical-scripts'
+        className: \part-of-speech
+        title: \顯示歷代書體
+        onClick: ->
+          $('#strokes iframe').remove!
+          for ch in CurrentId
+            $('#strokes').append($('<iframe />', {
+              src: "http://chinese-linguipedia.org/clk/searchclk/srch_history/main/#{ encodeURIComponent ch }"
+              css: { width: \1400px clear: \both transform: 'scale(0.6)' marginLeft: \-300px height: \250px marginTop: \-55px }
+            })) } \歷代書體
       $char
       h1 { className: \title, 'data-title': t }, ...list
       if bopomofo or alt or pinyin-list then div { className: "bopomofo #cn-specific" },
@@ -457,8 +476,12 @@ function convert-pinyin (yin)
            .replace(/[īíǐì]/g, 'i')
            .replace(/[ūúǔù]/g, 'u')
            .replace(/[üǖǘǚǜ]/g, 'v')
+  r = ''
+  if yin is /r$/
+    r = 'r'
+    yin -= /r$/
   yin = PinYinMap[system][yin] || yin
-  return "#yin#tone"
+  return "#yin#r#tone"
 
 DefinitionList = React.createClass do
   render: ->
