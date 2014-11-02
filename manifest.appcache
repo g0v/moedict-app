@@ -6,6 +6,7 @@ CACHE:
 # core App files
 index.html
 main.js
+view.js
 styles.css
 
 # core JSON files
