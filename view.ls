@@ -100,7 +100,9 @@ UserPref = createClass do
           [ \GuoYin     \注音二式 ]
       if $?('body').hasClass('lang-t')
         PrefList { pinyin_t }, \羅馬拼音顯示方式,
+          [ \TL-DT      \臺羅臺通共同顯示 ]
           [ \TL         \臺羅拼音 ]
+          [ \DT         \臺通拼音 ]
           [ \POJ        \白話字   ]
       PrefList { phonetics }, \條目音標顯示方式,
         [ \rightangle \注音拼音共同顯示 ]
@@ -445,8 +447,8 @@ decorate-ruby = ({ LANG, title='', bopomofo, py, pinyin=py, trs }) ->
   for yin, idx in p | yin
     yin = convert-pinyin yin
     span = # 閩南語典，按隔音符計算字數
-           if LANG is \t and yin is /\-/g
-           then ' rbspan="'+ (yin.match /[\-]+/g .length+1) + '"'
+           if LANG is \t and yin is /[-\u2011]/g
+           then ' rbspan="'+ (yin.match /[-\u2011]+/g .length+1) + '"'
            # 國語兒化音
            else if LANG != \t && yin is /^[^eēéěè].*r\d?$/g
            then
@@ -479,9 +481,51 @@ decorate-ruby = ({ LANG, title='', bopomofo, py, pinyin=py, trs }) ->
     bopomofo = ''
   return { ruby, youyin, b-alt, p-alt, cn-specific, pinyin, bopomofo }
 
+#p:\ㆴ t:\ㆵ k:\ㆶ h:\ㆷ p$:"ㆴ\u0358" t$:"ㆵ\u0358" k$:"ㆶ\u0358" h$:"ㆷ\u0358" 
+const DT-Tones = {
+  "\u0300": "\u0332"  # 3
+  "\u0301": "\u0300"  # 2,6
+  "\u0302": "\u0306"  # 5
+  "\u0304": "\u0304"  "\u0305": "\u0305"  # 7
+  "\u0306": "\u0301"  # 9
+  "\u0307": ""        "\u030d": ""        # 8
+  "ah" : "ā" "ih" : "ī" "oh" : "ō" "uh" : "ū" "eh" : "ē" # 4
+}
+
+# ptk(4) 變高入 (1)
+# h(4) 變高降 (2)
+# ptkh(8) 變低入 (4)
+# ă(5) 直接轉 ā̱ (7+3) # 優勢腔變中平 ā (7)，台北變 a̲ (3)
+
+
 function convert-pinyin-t (yin)
-  system = localStorage?getItem \pinyin_t
-  return yin unless system is \POJ
+  system = localStorage?getItem(\pinyin_t) || \TL
+  return yin if system is \TL
+  if system is \DT
+    return yin.replace(/b(\w)/g, 'bh$1').replace(/p(\w)/g, 'b$1') # Consonants
+              .replace(/th(\w)/g, 'TH$1').replace(/t(\w)/g, 'd$1').replace(/TH(\w)/g, 't$1')
+              .replace(/kh(\w)/g, 'k$1').replace(/g(\w)/g, 'gh$1')
+              .replace(/k(\w)/g, 'g$1')
+              .replace(/tsh/g, 'c').replace(/ts/g, 'z')
+              .replace(/j/g, 'r')
+              .replace(/B/g, 'Bh').replace(/P/g, 'B') # Consonants
+              .replace(/Th(\w)/g, 'TH$1').replace(/T(\w)/g, 'D$1').replace(/TH(\w)/g, 'T$1')
+              .replace(/Kh(\w)/g, 'K$1').replace(/G(\w)/g, 'Gh$1')
+              .replace(/K(\w)/g, 'G$1')
+              .replace(/Tsh/g, 'c').replace(/Ts/g, 'z')
+              .replace(/J/g, 'R')
+              .replace(/o([^\w\s]*)o/g, 'O$1O').replace(/o([^\w\s]*)/g, 'o$1r').replace(/O([^\w\s]*)O/g, 'o$1')
+              #.replace(/rn/g, 'n') # TODO: 用方音重轉
+              .replace(//([\u0300-\u0302\u0304\u030d]|[aeiou]h)//g -> DT-Tones[it])
+              .replace(/[-\u2011][-\u2011]([aeiou])/g, '$1\u030A')
+              .replace(/[-\u2011][-\u2011]ā/g, '\u2011\u2011a\u030A')
+              .replace(/[-\u2011][-\u2011]ō/g, '\u2011\u2011o\u030A')
+              .replace(/[-\u2011][-\u2011]ī/g, '\u2011\u2011i\u030A')
+              .replace(/[-\u2011][-\u2011]ē/g, '\u2011\u2011e\u030A')
+              .replace(/[-\u2011][-\u2011]ū/g, '\u2011\u2011u\u030A')
+              .replace(/nn($|[-\s])/g, 'ⁿ$1')
+              .replace(/((?:\S*(?:\w[^\w\s]*)\u2011)+)(\w)/g, (_, $1, $2) ->
+                [ tone-sandhi seg for seg in $1.split('\u2011') ].join("\u2011") + $2)
   # POJ Rules from: https://lukhnos.org/blog/zh/archives/472/
   return yin.replace(/oo/g, 'o\u0358')
             .replace(/ts/g, 'ch')
@@ -490,8 +534,21 @@ function convert-pinyin-t (yin)
             .replace(/i([^\w\s]*)k($|[-\s])/g, 'e$1k$2')
             .replace(/i([^\w\s]*)ng/g, 'e$1ng')
             .replace(/nn($|[-\s])/g, 'ⁿ$1')
+            .replace(/([ie])r/g, '$1\u0358')
+            .replace(/\u030B/g, "\u0306") # 9th tone
+
+
+const DT-Tones-Sandhi = {
+    "\u0300": ""              # 2,6 ->  1
+    "\u0332": "\u0300"        # 3   ->  2
+    "\u0306": "\u0304\u0331"  # 5   ->  3+7
+    "\u0304": "\u0305"        # 7   ->  3
+}
+function tone-sandhi (seg)
+  return seg.replace(/([\u0300\u0332\u0306\u0304])/g -> DT-Tones-Sandhi[it])
 
 function convert-pinyin (yin)
+  yin.=replace(/-/g '\u2011')
   return convert-pinyin-t yin if $?('body').hasClass('lang-t')
   return yin unless $?('body').hasClass('lang-a')
   system = localStorage?getItem \pinyin_a
