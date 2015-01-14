@@ -22,7 +22,7 @@ after_prepare :: before_build
 	cp -Rf ./res/icons/android/* platforms/android/res/
 	cp -Rf ./res/icons/ios/* platforms/ios/MoeDict/Resources/icons/
 	# CSLD Specific
-	find platforms -type f -name index.html | xargs perl -pi -e 's!<noscript>!<script>window.STANDALONE="c";</script><noscript>!'
+	find platforms -type f -name index.html | xargs perl -pi -e 's!<noscript>!<script>window.STANDALONE="p";</script><noscript>!'
 	perl -pi -e 's!href="http[^"]*"!!g' platforms/android/assets/www/about.html
 	perl -pi -e 's!<a +target=[^ >]* *>!<a style="color: inherit">!g' platforms/android/assets/www/about.html
 
