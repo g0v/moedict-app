@@ -5,7 +5,7 @@ const STANDALONE = window.STANDALONE || false
 {any, map} = require('prelude-ls')
 
 LANG = STANDALONE || window.PRERENDER_LANG || getPref(\lang) || (if document.URL is /twblg/ then \t else \a)
-MOE-ID = getPref(\prev-id) || {a: \萌 t: \發穎 h: \發芽 c: \萌}[LANG]
+MOE-ID = getPref(\prev-id) || {a: \萌 t: \發穎 h: \發芽 c: \萌 p:\ci'im }[LANG]
 $ ->
   $('body').addClass("lang-#LANG")
   React.renderComponent React.View.Links!, $(\#links).0
@@ -17,10 +17,10 @@ $ ->
     else
       $('#lookback').attr \accept-charset \big5
 
-const XREF-LABEL-OF = {a: \華, t: \閩, h: \客, c: \陸, ca: \臺}
-const TITLE-OF = {a: '', t: \臺語, h: \客語, c: \兩岸}
+const XREF-LABEL-OF = {a: \華, t: \閩, h: \客, c: \陸, ca: \臺, p: \阿}
+const TITLE-OF = {a: '', t: \臺語, h: \客語, c: \兩岸, p: \阿美}
 
-HASH-OF = {a: \#, t: "#'", h: \#:, c: \#~}
+HASH-OF = {a: \#, t: "#'", h: \#:, c: \#~, p: '#;'}
 
 if (isCordova or DEBUGGING) and not window.ALL_LANGUAGES
   if STANDALONE
@@ -47,12 +47,13 @@ isChrome = navigator.userAgent is /\bChrome\/\b/
 isPrerendered = window.PRERENDER_LANG
 width-is-xs = -> $ \body .width! < 768
 entryHistory = []
-INDEX = { t: '', a: '', h: '', c: '' }
+INDEX = { t: '', a: '', h: '', c: '', p:'' }
 XREF = {
-  t: {a: '"發穎":"萌,抽芽,發芽,萌芽"'}
-  a: {t: '"萌":"發穎"' h: '"萌":"發芽"' }
-  h: {a: '"發芽":"萌,萌芽"'}
+  t: {a: '"發穎":"萌,抽芽,發芽,萌芽"', p: "ci'im" }
+  a: {t: '"萌":"發穎"' h: '"萌":"發芽"', p: "ci'im" }
+  h: {a: '"發芽":"萌,萌芽"', p: "ci'im" }
   tv: {t: ''}
+  p: {a: '"發穎":"萌,抽芽,發芽,萌芽"', t: '"萌":"發穎"' h: '"萌":"發芽"'}
 }
 
 if isCordova and STANDALONE isnt \c and not window.ALL_LANGUAGES
@@ -90,6 +91,8 @@ add-to-lru = ->
     LRU[LANG] = (lru * '\n') + '\n'
   setPref "lru-#LANG" LRU[LANG]
 GET = (url, data, onSuccess, dataType) ->
+  if LANG is \p
+    url .= toLowerCase!
   if data instanceof Function
     [data, dataType, onSuccess] = [null, onSuccess, data]
   return onSuccess(that) if CACHED[url]
@@ -380,6 +383,7 @@ window.do-load = ->
     if "#val" is /^['!]/ => lang = \t; val.=substr 1
     if "#val" is /^:/ => lang = \h; val.=substr 1
     if "#val" is /^~/ => lang = \c; val.=substr 1
+    if "#val" is /^;/ => lang = \p; val.=substr 1
     $('.lang-active').text $(".lang-option.#lang:first").text!
     if lang isnt LANG
       return setTimeout (-> window.press-lang lang, val), 1ms
@@ -405,7 +409,10 @@ window.do-load = ->
 
   window.fill-query = fill-query = ->
     title = decodeURIComponent(it) - /[（(].*/
-    title -= /^[':!~]/
+    if LANG isnt \p
+      title -= /^[':!~;]/       # 保留阿美語 ' ^ 塞音符號
+    else
+      title -= /^[:!~;]/
     return if title is /^</
     if title is /^→/
       $(\#query).blur! if isMobile and width-is-xs!
@@ -430,15 +437,15 @@ window.do-load = ->
     prevId := null
     prevVal := null
     if HASH-OF.c
-      LANG := lang || switch LANG | \a => \t | \t => \h | \h => \c | \c => \a
+      LANG := lang || switch LANG | \a => \t | \t => \h | \h => \c | \c => | \c => \p | \p => \a
     else
-      LANG := lang || switch LANG | \a => \t | \t => \h | \h => \a
+      LANG := lang || switch LANG | \a => \t | \t => \h | \h => \p | \p => \a
     $ \#query .val ''
     $('.ui-autocomplete li').remove!
     $('iframe').fadeIn \fast
     $('.lang-active').text $(".lang-option.#LANG:first").text!
     setPref \lang LANG
-    id ||= {a: \萌 t: \發穎 h: \發芽 c: \萌}[LANG]
+    id ||= {a: \萌 t: \發穎 h: \發芽 c: \萌 p: \ci'im}[LANG]
     unless isCordova
       GET "#LANG/xref.json" (-> XREF[LANG] = it), \text
       GET "#LANG/index.json" (-> INDEX[LANG] = it), \text
@@ -446,6 +453,7 @@ window.do-load = ->
     $('body').removeClass("lang-a")
     $('body').removeClass("lang-h")
     $('body').removeClass("lang-c")
+    $('body').removeClass("lang-p")
     $('body').addClass("lang-#LANG")
     $ \#query .val id
     window.do-lookup id
@@ -605,7 +613,8 @@ window.do-load = ->
         $('.ui-tooltip-content h1').ruby!
         _pua!
       content: (cb) ->
-        id = $(@).attr \href .replace /^#['!:~]?/, ''
+        id = $(@).attr \href .replace /^#['!:~;]?/, ''
+        id = id.toLowerCase! if LANG is \p
         callLater ->
           if htmlCache[LANG][id]
             cb htmlCache[LANG][id]
@@ -821,6 +830,7 @@ trs_lookup = (term,cb) ->
 const SIMP-TRAD = window.SIMP-TRAD ? ''
 
 function b2g (str='')
+  return str.toLowerCase! if LANG is \p
   return str unless LANG in <[ a c ]> and str isnt /^@/
   rv = ''
   for char in (str / '')
