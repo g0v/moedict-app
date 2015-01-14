@@ -1,0 +1,15 @@
+{"Kakawasan":{"h":[{"d":[{"s":["`kakawasan~"],"f":"￹￺Refer to `kakawasan~￻詳見 `kakawasan~"}]}],"t":"Kakawasan"}
+,"Kalala":{"h":[{"d":[{"s":["`kalala~"],"f":"￹￺Refer to `kalala~￻詳見 `kalala~"}]}],"t":"Kalala"}
+,"Kaligko":{"h":[{"d":[{"s":["`kaligko~"],"f":"￹￺Refer to `kaligko~￻詳見 `kaligko~"}]}],"t":"Kaligko"}
+,"Kaliyawan%20%3D%3E%20kaliyawan":{"h":[{"d":[]}],"t":"Kaliyawan => kaliyawan"}
+,"Kalotogan":{"h":[{"d":[{"s":["`kalotogan~"],"f":"￹￺Refer to `kalotogan~￻詳見 `kalotogan~"}]}],"t":"Kalotogan"}
+,"Kanalog":{"h":[{"d":[{"s":["`kanalog~"],"f":"￹￺Refer to `kanalog~￻詳見 `kanalog~"}]}],"t":"Kanalog"}
+,"Kanifagar":{"h":[{"d":[{"s":["`kanifagar~"],"f":"￹￺Refer to `kanifagar~￻詳見 `kanifagar~"}]}],"t":"Kanifagar"}
+,"Kapig":{"h":[{"d":[{"s":["`holam~"],"f":"￹￺Refer to `holam~￻詳見 `holam~"}]}],"t":"Kapig"}
+,"Karoroan":{"h":[{"d":[{"s":["`karoroan~"],"f":"￹￺Refer to `karoroan~￻詳見 `karoroan~"}]}],"t":"Karoroan"}
+,"Kicofi":{"h":[{"d":[{"s":["`kicofi~"],"f":"￹￺Refer to `kicofi~￻詳見 `kicofi~"}]}],"t":"Kicofi"}
+,"Kiwit":{"h":[{"d":[{"s":["`kiwit~"],"f":"￹￺Refer to `kiwit~￻詳見 `kiwit~"}]}],"t":"Kiwit"}
+,"Kiyko":{"h":[{"d":[{"s":["`kiyko~"],"f":"￹￺Refer to `kiyko~￻詳見 `kiyko~"}]}],"t":"Kiyko"}
+,"Koladot":{"h":[{"d":[{"s":["`koladot~"],"f":"￹￺Refer to `koladot~￻詳見 `koladot~"}]}],"t":"Koladot"}
+,"Kwapig":{"h":[{"d":[{"s":["`holam~"],"f":"￹￺Refer to `holam~￻詳見 `holam~"}]}],"t":"Kwapig"}
+}

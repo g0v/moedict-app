@@ -1,0 +1,70 @@
+{"ga%27":{"h":[{"d":[{"f":"￹￺connective particle meaning then * as a result￻連接詞，好讓，以便"}]}],"t":"ga'"}
+,"ga%27ay":{"h":[{"d":[{"f":"￹￺okay * agreed * acceptable￻好，同意，贊成，可接受"},{"e":["￹`O~ `ga'ay~`ay~ `a~ `romi'ad~ `anini~.￺This is a good day (refers to weather or opportunity).￻今天是好日子，今天是好天氣","￹`Ma~`ga'ay~ `kako~ `a~ `tayra~ `haw~? `Ga'ayto~.￺May I go? Fine.￻我可以去嗎?可以","￹`Ma~`ga'ay~ `ko~ `adada~ `nira~.￺His illness is gone.￻他的病好了","￹`Awaay~ `ko~ `na~`ga'ay~`an~.￺There is no improvement.￻沒有起色","￹`Sa~`ga'ay~ `~ `ko~ `harateg~ `ako~ `anini~.￺I feel much better (about it) now. (implied that I had been upset)￻今天我很安心,我的心情好多了(煩亂，吵架，發脾氣之後)","￹`O~ `ka~`ga'ay~`an~ `ako~ `konini~.￺This is my opportunity.￻這是我的好機會","￹`O~ `ga'ay~`ay~ `a~ `tamdaw~ `cigra~.￺He is a good man.￻他是好人"],"f":"￹￺good * fine￻好，很好，可"}]}],"t":"ga'ay"}
+,"ga%27ga":{"h":[{"d":[{"f":"￹￺the rim or brim of a dish or pot￻碟子或盤子的邊緣部份"}]}],"t":"ga'ga"}
+,"gacol":{"h":[{"d":[{"f":"￹￺to fit in a place * the right size￻實物適所，適切於適所，東西原令人擔心不能帶進門或洞口，但經一番折騰後終於進去了"}]}],"t":"gacol"}
+,"gafgaf":{"h":[{"d":[{"f":"￹￺to eat grass as a cow does￻牛吃草的樣子，以牛吃草的方式親嬰孩或異性"}]}],"t":"gafgaf"}
+,"gafol":{"h":[{"d":[{"f":"￹￺antelope￻羚羊"}]}],"t":"gafol"}
+,"gagafolan":{"h":[{"d":[{"f":"￹￺a skin disease that leaves the skin white￻皮膚病"},{"f":"￹￺deeper sores￻潰爛的"}]}],"t":"gagafolan"}
+,"gagal":{"h":[{"d":[{"f":"￹￺ulcerated mouth from chewing betel nut￻嚼檳榔滲過多石灰，傷及口腔的現象"}]}],"t":"gagal"}
+,"gagan":{"h":[{"d":[{"s":["`miligagan~"],"f":"￹￺name * title * designation￻名字，抬頭，命令，稱呼，名稱"},{"e":["￹`Tadamaanay~ `ko~ `gagan~ `nira~.￺He is a man of good reputation * above average intelligence.￻他的名聲很好","￹`Aka~ `pi~`togagan~ `to~ `tamdaw~.￺Don't speak evil against the character of people.￻不要誹謗別人，不要說別人的壞話","￹`O~ `ci~`gagan~`ay~ `cigra~ `to~ `tayal~.￺He has a reputation for his work.￻他是這一行的專家，他在他的工作崗位上很有名","￹`Pa~`gagan~`en~ `koya~ `wawa~.￺Give that child a name.￻請為那孩子命名"],"f":"￹￺character * reputation￻品格，名譽"}]}],"t":"gagan"}
+,"gagel":{"h":[{"d":[{"f":"￹￺to step into a hole or empty space￻掉入洞裡或有縫的地方"}]}],"t":"gagel"}
+,"gagelgelen":{"h":[{"d":[{"s":["`gelgel~"],"f":"￹￺wrist￻手腕"}]}],"t":"gagelgelen"}
+,"gagiw":{"h":[{"d":[{"f":"￹￺to touch * feel to identify something￻覺得頗為認同"}]}],"t":"gagiw"}
+,"gagool":{"h":[{"d":[{"s":["`mahgagool~"],"f":"￹￺tree of plant budding all over with new life￻嫩芽初生"}]}],"t":"gagool"}
+,"gala%27":{"h":[{"d":[{"s":["`pagala'en~"],"e":["￹`Ma~`gala'~ `ko~ `kamaro'an~ `iso~.￺Your space was not filled / i.e. you were absent.￻你的空地沒有填塞仍留有空隙"],"f":"￹￺space * a small passageway or crack￻間隙, 空間"}]}],"t":"gala'"}
+,"galay":{"h":[{"d":[{"f":"￹￺saliva￻唾液"},{"s":["`kagalayan~"],"e":["￹`Ma~`galay~ `kako~ `a~ `tayra~.￺I want to go.￻我想要去"],"f":"￹￺desire￻需要，慾望"}]}],"t":"galay"}
+,"galef":{"h":[{"d":[{"e":["￹`Ma~`galef~ `ko~ `adada~ `nira~ `anini~.￺His sickness is worse now.￻他的病越來越重","￹`Ano~ `haen~`en~ `iso~ `'i~, `ma~`galef~ `ko~ `nika~ `ga'ay~.￺If you do that it is even better (than another plan).￻如果你那樣做會愈來愈好(會更好)"],"f":"￹￺more so * even more compared with another or former state￻愈來愈…，比以前的情況更嚴重"}]}],"t":"galef"}
+,"galiwgiw":{"h":[{"d":[{"f":"￹￺to complain * murmur * gripe￻抱怨，自言自語表不滿，喃喃有詞表不滿，怨聲載道"}]}],"t":"galiwgiw"}
+,"galo%27go":{"h":[{"d":[{"f":"￹￺the sound of voices￻聽到聲音，但聽不清楚說些什麼"}]}],"t":"galo'go"}
+,"gapad":{"h":[{"d":[{"s":["`tpad~"],"f":"￹￺a pass * the space between two precipices of earth including the top on each side￻絕壁，斷層"}]}],"t":"gapad"}
+,"gapir":{"h":[{"d":[{"f":"￹￺edge * ledge from which there is a dropping off place￻邊緣，瀕臨 (深淵)"}]}],"t":"gapir"}
+,"garap":{"h":[{"d":[{"f":"￹￺fox￻狐"},{"f":"￹￺the covering over betel nut bloom￻檳榔穗包"}]}],"t":"garap"}
+,"garawgaw":{"h":[{"d":[{"s":["`ra~`rawraw~"],"f":"￹￺the noise of many voices￻喧嘩，吵鬧"}]}],"t":"garawgaw"}
+,"gargar":{"h":[{"d":[{"f":"￹￺to dig into dirt * as a pig does to feed￻用鼻挖掘地面如豬"},{"f":"￹￺to work hard (magargar)￻努力工作"},{"e":["￹`Mi~`gargar~ `ko~ `kolog~.￺Water buffalo eat grass.￻牛在吃草"],"f":"￹￺to eat grass￻如牛吃草"}]}],"t":"gargar"}
+,"gari%27gi%27":{"h":[{"d":[{"f":"￹￺a creaking sound￻形容不足之意"}]}],"t":"gari'gi'"}
+,"garoy":{"h":[{"d":[{"f":"￹￺chin * part of the face￻下巴，顎"}]}],"t":"garoy"}
+,"gasaw":{"h":[{"d":[{"f":"￹￺clan * a group with common ancestry￻宗親，親族，氏族"},{"e":["￹`Icowaay~ `a~ `ga~`gasawan~ `kiso~?￺Which is your clan?￻你是那一個氏族"],"f":"￹￺biblical use - tribe￻聖經以此字表種族"}]}],"t":"gasaw"}
+,"gata":{"h":[{"d":[{"e":["￹`Ma~`ga~`gata~ `kita~.￺We are near each other.￻我們的距離很近, 我們的關係很親"],"f":"￹￺near * to draw near￻近，附近，靠近"}]}],"t":"gata"}
+,"gataa%27":{"h":[{"d":[{"f":"￹￺extreme surprise * amazement * like a dream￻發呆，驚訝，驚異，發楞，楞住"}]}],"t":"gataa'"}
+,"gato":{"h":[{"d":[{"s":["`nagotoan~","`miligato~"],"e":["￹`o~ `gato~ `no~ `tamako~￺a cigarette butt￻煙蒂"],"f":"￹￺place where one starts doing something that he left off doing before￻未完成工作，尚待繼續的工作"},{"f":"￹￺Common Schefflera * a plant￻鴨腳木(江某)"}]}],"t":"gato"}
+,"gatowa%27":{"h":[{"d":[{"f":"￹￺mouth open * as when looking with surprise * birds' mouths open waiting for worms￻開，開開的，嘴巴張開狀(看到驚異的事情不止禁的表情)"}]}],"t":"gatowa'"}
+,"gawa%27":{"h":[{"d":[{"e":["￹`Ma~`gawa'~ `ko~ `wadis~ `nira~￺He has a missing tooth.￻他缺牙"],"f":"￹￺an open space￻空位"}]}],"t":"gawa'"}
+,"gawgaw":{"h":[{"d":[{"f":"￹￺to eat sweet potatoes or lettuce or guava raw￻生吃蕃薯或紅蘿蔔等球根類食物"}]}],"t":"gawgaw"}
+,"gawi%27":{"h":[{"d":[{"f":"￹￺the corners of the mouth￻嘴角"}]}],"t":"gawi'"}
+,"gawit":{"h":[{"d":[{"f":"￹￺to pull the trigger of a gun￻扣板機"}]}],"t":"gawit"}
+,"gayagay":{"h":[{"d":[{"f":"￹￺shelter * hut used in the fields￻臨時搭建之遮蔽所"}]}],"t":"gayagay"}
+,"gelgel":{"h":[{"d":[{"s":["`gagelgelen~"],"f":"￹￺a place to attach something￻附上東西的地方"}]}],"t":"gelgel"}
+,"gelgelan":{"h":[{"d":[{"f":"￹￺wrist￻手腕"},{"f":"￹￺place in mouth for molars￻牙牀"}]}],"t":"gelgelan"}
+,"gerger":{"h":[{"d":[{"f":"￹￺shaken * as a large building or a mountain￻搖動，山搖地動狀"}]}],"t":"gerger"}
+,"gidet":{"h":[{"d":[{"f":"￹￺drainage from nose￻鼻涕"}]}],"t":"gidet"}
+,"gidip":{"h":[{"d":[{"f":"￹￺to watch secretly￻窺視"}]}],"t":"gidip"}
+,"giep":{"h":[{"d":[{"e":["￹`Ma~`giep~ `ko~ `pisig~.￺The face is moon-shaped.￻他的臉扭曲"],"f":"￹￺dish-shaped * indented￻形狀扭曲"}]}],"t":"giep"}
+,"gigoy":{"h":[{"d":[{"s":["`liloc~","`ino'~"],"f":"￹￺to take a bath￻洗澡"}]}],"t":"gigoy"}
+,"giha%27":{"h":[{"d":[{"f":"￹￺voice * sound of a voice￻聲音"}]}],"t":"giha'"}
+,"gilos":{"h":[{"d":[{"f":"￹￺thin * scrawny looking￻瘦弱，骨瘦如柴"}]}],"t":"gilos"}
+,"giraw":{"h":[{"d":[{"s":["`sapagiraw~","`sa~`giraw~"],"f":"￹￺to eat as an invited guest at a feast￻參加婚宴，喝喜酒"},{"f":"￹￺to go to a scene of conflict as an onlooker￻如觀眾去看一場鬥爭"}]}],"t":"giraw"}
+,"girgir":{"h":[{"d":[{"f":"￹￺to scratch constantly￻不斷的搔抓，擦"}]}],"t":"girgir"}
+,"giriw":{"h":[{"d":[{"f":"￹￺thin * no fat on body￻瘦小"}]}],"t":"giriw"}
+,"giro":{"h":[{"d":[{"s":["`rigo~","`tagiroan~"],"f":"￹￺to warm oneself by a fire￻靠火取暖"}]}],"t":"giro"}
+,"gisgis":{"h":[{"d":[{"f":"￹￺beard￻鬍鬚"}]}],"t":"gisgis"}
+,"gitagit":{"h":[{"d":[{"f":"￹￺to request * implore￻強求，強索，說項，遊說"},{"f":"￹￺to intercede on behalf of￻為某種目的說項，為某人向某人說項"}]}],"t":"gitagit"}
+,"gitgit":{"h":[{"d":[{"f":"￹￺to gnaw * on bones or wood￻咬，咬噬骨頭或木頭"}]}],"t":"gitgit"}
+,"gitid":{"h":[{"d":[{"f":"￹￺to hold and carry in its teeth (a dog's activity)￻用嘴含銜東西(如狗，貓)"}]}],"t":"gitid"}
+,"gito%27":{"h":[{"d":[{"f":"￹￺to remove teeth * knocking out or pulling out￻拔牙，缺齒"}]}],"t":"gito'"}
+,"giwgiw":{"h":[{"d":[{"s":["`pagiwgiw~"],"f":"￹￺to dig into and clean out * as to dig into one's ear￻挖，挖耳朵，用細長的東西掏小孔，挖取東西或清擦裏面的攪動狀"}]}],"t":"giwgiw"}
+,"giwit":{"h":[{"d":[{"f":"￹￺to be crooked * with reference to a person's mouth as when face is paralyzed￻指歪嘴，指某人的嘴扭曲狀，如當某人的臉麻痺"}]}],"t":"giwit"}
+,"glo%27":{"h":[{"d":[{"e":["￹`o~ `glo'~ `no~ `faloco'~￺trouble of heart * problem￻我的心很疲憊"],"f":"￹￺weary * tired￻因疲倦...而全身痠痛，因工作過量造成身體的傷害"}]}],"t":"glo'"}
+,"gocdis":{"h":[{"d":[{"s":["`cogdis~"],"f":"￹￺to bare teeth as a dog does￻露牙，如狗做咬人態"}]}],"t":"gocdis"}
+,"gocih":{"h":[{"d":[{"f":"￹￺eclipse of sun or moon￻日月之蝕"},{"f":"￹￺cleft palate￻缺唇，兔唇"}]}],"t":"gocih"}
+,"godo":{"h":[{"d":[{"e":["￹`Ma~`godo~ `cigra~ `to~ `mama~￺He is respectful to his father.￻他很孝順父親，他尊敬他的父親"],"f":"￹￺respect￻客氣，尊敬"},{"e":["￹`Ma~`godo~ `cigra~ `a~ `mi~`licay~.￺He is embarrassed to ask.￻他不好意思問"],"f":"￹￺embarrassment￻害臊，害羞"},{"f":"￹￺politeness￻禮讓"},{"e":["￹`Ma~`godo~ `cigra~ `to~ `nika~ `ci~`raraw~.￺He is ashamed of his sin.￻他為他的罪而感羞恥","￹`pakagodo~ `cigra~.￺He is shamed / disgraced.￻他被羞辱","￹`Ka~`godo~`an~ `ko~ `dmak~ `nira~.￺The phrase has double meaning. 1. What he does is cause for respect / admiration. 2. What he did is shameful.￻這語句有雙重意義: 1. 他所作所為令人欽佩(尊敬，讚賞) 2. 他做了令人羞恥的事，他自取其辱"],"f":"￹￺shame￻羞恥"}]}],"t":"godo"}
+,"gohagoh":{"h":[{"d":[{"f":"￹￺to loosen by moving back and forth something pinned to the ground￻柱或木樁經人為的前後左右擺動而鬆弛"}]}],"t":"gohagoh"}
+,"gohah":{"h":[{"d":[{"f":"￹￺boy or girl friend￻男女朋友，情人，情侶"},{"s":["`migohah~"],"f":"￹￺fiance￻未婚夫，未婚妻"}]}],"t":"gohah"}
+,"gohgoh":{"h":[{"d":[{"f":"￹￺smooch * kiss￻親熱，吻"},{"f":"￹￺to draw near * as to a fire to warm self￻挨近火取暖"}]}],"t":"gohgoh"}
+,"gosgos":{"h":[{"d":[{"f":"￹￺to eat raw food￻生吃蔬菜"}]}],"t":"gosgos"}
+,"goso%27":{"h":[{"d":[{"f":"￹￺nose￻鼻子"}]}],"t":"goso'"}
+,"gota":{"h":[{"d":[{"f":"￹￺muddy * condition of water￻水污貌"}]}],"t":"gota"}
+,"goyi%27":{"h":[{"d":[{"f":"￹￺the cry of a cow￻母牛尋找小牛的哭叫聲，牛的鳴叫聲"}]}],"t":"goyi'"}
+,"goyos":{"h":[{"d":[{"f":"￹￺mouth￻口，嘴"},{"e":["￹`fana'ko~ `goyos~ `nira~.￺He surely knows how to talk.￻他很會說話(口才好)，口齒伶俐，伶牙俐齒","￹`Tatiih~ `ko~ `goyos~ `nira~.￺He speaks in a way that hurts people.￻他說話帶刺,他說話會傷人","￹`Alagoyos~ / `lagoyos~ `cigra~.￺He talks a lot.￻他話說得太多，他人多嘴","￹`cigoyos~ `kiso~.￺Don't be afraid to talk.￻請你開口說話，不要怕說話，希望你講得頭頭是道"],"f":"￹￺manner with which one speaks￻人說話的態度(樣子)，口才"}]}],"t":"goyos"}
+,"gric":{"h":[{"d":[{"f":"￹￺to grind teeth￻咬牙或磨牙聲"}]}],"t":"gric"}
+,"gyagi":{"h":[{"d":[{"f":"￹￺to shake * try to sway something￻搖動"},{"e":["￹`Ma~`gyagi~ `ko~ `faloco'~ `nira~.￺His heart is swayed (easily influenced).￻他的心深受感動","￹`Ma~`gyagi~ `no~ `fali~ `ko~ `papah~.￺The wind moves the leaves.￻樹葉被風吹動"],"f":"￹￺to sway * move figuratively￻寓意上的動搖，搖撼，震撼"}]}],"t":"gyagi"}
+}

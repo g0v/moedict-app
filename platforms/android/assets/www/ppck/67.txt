@@ -1,0 +1,12 @@
+{"Cigaroan":{"h":[{"d":[{"s":["`cigaroan~"],"f":"￹￺Refer to `cigaroan~￻詳見 `cigaroan~"}]}],"t":"Cigaroan"}
+,"Cikor":{"h":[{"d":[{"s":["`cikor~"],"f":"￹￺Refer to `cikor~￻詳見 `cikor~"}]}],"t":"Cikor"}
+,"Cikowa%27ay":{"h":[{"d":[{"s":["`kowa'~"],"f":"￹￺name of an Amis village￻池上鄉雷光部落之名"}]}],"t":"Cikowa'ay"}
+,"Cilgacay":{"h":[{"d":[{"s":["`Lgacay~"],"f":"￹￺name of an Amis village￻花蓮縣玉里鎮德武部落名"}]}],"t":"Cilgacay"}
+,"Cinag":{"h":[{"d":[{"s":["`cinag~"],"f":"￹￺Refer to `cinag~￻詳見 `cinag~"}]}],"t":"Cinag"}
+,"Ciokagan":{"h":[{"d":[{"s":["`ciokagan~"],"f":"￹￺Refer to `ciokagan~￻詳見 `ciokagan~"}]}],"t":"Ciokagan"}
+,"Ciriyahan":{"h":[{"d":[{"s":["`ciriyahan~"],"f":"￹￺Refer to `ciriyahan~￻詳見 `ciriyahan~"}]}],"t":"Ciriyahan"}
+,"Cirokohay":{"h":[{"d":[{"s":["`cirokohay~"],"f":"￹￺Refer to `cirokohay~￻詳見 `cirokohay~"}]}],"t":"Cirokohay"}
+,"Ciwidian":{"h":[{"d":[{"s":["`widi~"],"f":"￹￺place that has leeches * name of an Amis village￻產水蛭的地方，花蓮縣壽豐鄉水璉部落名"}]}],"t":"Ciwidian"}
+,"Cogaw":{"h":[{"d":[{"s":["`cogaw~"],"f":"￹￺Refer to `cogaw~￻詳見 `cogaw~"}]}],"t":"Cogaw"}
+,"Copo":{"h":[{"d":[{"s":["`copo~"],"f":"￹￺Refer to `copo~￻詳見 `copo~"}]}],"t":"Copo"}
+}

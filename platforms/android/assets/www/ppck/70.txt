@@ -1,0 +1,4 @@
+{"Fagcalay%20%27Adigo":{"h":[{"d":[{"f":"￹￺Holy Spirit * coined expression for￻聖靈"}]}],"t":"Fagcalay 'Adigo"}
+,"Fahol":{"h":[{"d":[{"s":["`fahol~"],"f":"￹￺Refer to `fahol~￻詳見 `fahol~"}]}],"t":"Fahol"}
+,"Falagaw":{"h":[{"d":[{"s":["`falagaw~"],"f":"￹￺Refer to `falagaw~￻詳見 `falagaw~"}]}],"t":"Falagaw"}
+}

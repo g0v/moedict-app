@@ -1,0 +1,90 @@
+{"na%27ag":{"h":[{"d":[{"s":["`pina'agan~"],"f":"￹￺to put away, to put inside, keep￻收藏，收拾，保存"}]}],"t":"na'ag"}
+,"na%27ay":{"h":[{"d":[{"f":"￹￺to refuse * to say \"no\"￻不要，拒絕"}]}],"t":"na'ay"}
+,"na%27on":{"h":[{"d":[{"f":"￹￺to be careful * beware￻小心，謹慎"},{"e":["￹`'onen~ `ko~ `rakat~ `iso~.￺Walk carefully. (a greeting expressing concern)￻走路要小心，祝一路順風 (對即將動身的人的祝詞)","￹`na'no~ `to~ `sowal~ `nira~.￺Beware of what he says.￻仔細傾聽他所說的話","￹`Ma~`na'on~`ay~ `cigra~.￺He is careful / not impulsive.￻他是很謹慎的人"],"f":"￹￺to do slowly and deliberately￻深思，熟慮"}]}],"t":"na'on"}
+,"nacnac":{"h":[{"d":[{"f":"￹￺to lick with tongue￻用舌頭舔東西"}]}],"t":"nacnac"}
+,"nafoy":{"h":[{"d":[{"f":"￹￺to crawl on all fours * as a baby that has not learned to walk￻用四肢爬行；如小孩在未學走路前的行動"}]}],"t":"nafoy"}
+,"nages":{"h":[{"d":[{"f":"￹￺Mango tree and its fruit * Amba￻芒菓"}]}],"t":"nages"}
+,"nagotoan":{"h":[{"d":[{"s":["`gato~"],"f":"￹￺place where one left off￻留下來尚未完成的工作或責任"}]}],"t":"nagotoan"}
+,"nagra":{"h":[{"d":[{"f":"￹￺their * theirs * belonging to them * they.  See Pronouns - Appendix 1￻他們的，參閱附錄I代名詞"}]}],"t":"nagra"}
+,"nahay":{"h":[{"d":[{"f":"￹￺to keep each other company doing the same thing such as working or visiting￻同伴，陪伴做事或訪問"}]}],"t":"nahay"}
+,"nahol":{"h":[{"d":[{"f":"￹￺to rot * the state of a dead body￻腐爛的，如死屍之狀態"}]}],"t":"nahol"}
+,"nai":{"h":[{"d":[{"e":["￹`nai~ `'ayaw~ `tahanini~￺from the past to the present￻從前到現在"],"f":"￹￺from * generic form￻從"},{"s":["`nani~"],"e":["￹`Nai~`cowa~`ay~ `cigra~ `a~ `tayni~?￺Where did he come from?￻他是從什麼地方來的？"],"f":"￹￺from a place￻從某地方"}]}],"t":"nai"}
+,"naicowa":{"h":[{"d":[{"s":["`cowa~"],"f":"￹￺where from?￻從那裏？"}]}],"t":"naicowa"}
+,"naikoran":{"h":[{"d":[{"f":"￹￺after an event or the action of a person￻從某人的行動與事件之後"},{"s":["`ikor~"],"f":"￹￺situation after something or someone has gone or happened￻所經過之事，事情經過之後，某人走了之後之情境，事情發生之後"}]}],"t":"naikoran"}
+,"nalacolan":{"h":[{"d":[{"f":"￹￺the ruins of a former village￻古老所在地，廢墟，故土"},{"f":"￹￺something left behind￻被遺留下來的某種事物"}]}],"t":"nalacolan"}
+,"nalaloodan":{"h":[{"d":[{"f":"￹￺autumn * fall￻秋季"},{"f":"￹￺place where there was a war￻曾經戰爭過的地方"}]}],"t":"nalaloodan"}
+,"nalineknek":{"h":[{"d":[{"s":["`neknek~"],"f":"￹￺to settle easily (of dirt in water)￻輕易的沉澱下來"}]}],"t":"nalineknek"}
+,"namal":{"h":[{"d":[{"s":["`lamal~","`cinamalay~","`namanamalan~"],"f":"￹￺fire￻火"}]}],"t":"namal"}
+,"namanamalan":{"h":[{"d":[{"s":["`namal~"],"f":"￹￺a place of fire * hell￻火中；地獄"}]}],"t":"namanamalan"}
+,"namo":{"h":[{"d":[{"f":"￹￺yours (plural) * your.  See Pronouns - Appendix 1.￻你們的；參閱附錄I代名詞"}]}],"t":"namo"}
+,"nanam":{"h":[{"d":[{"s":["`mapananam~"],"e":["￹`Mi~`nanam~ `kako~ `to~ `tilid~ `no~ `'Amis~.￺I an learning Amis writing￻我要學習阿美語文","￹`O~ `pananaman~ `ako~ `a~ `wawa~ `cigra~.￺He is a child I disciplined/ trained.￻他是我訓練出來的孩子"],"f":"￹￺to learn￻學習"},{"e":["￹`Ma~`nanam~ `kako~ `a~ `maro'~ `itini~.￺I am used to living here.￻我習慣住在這裡","￹`ka~`nanam~`an~ `a~ `salikaka~￺a person you are acquainted with￻認識的信徒，熟悉的會友","￹`ka~`nanam~`an~ / `namanan~ `a~ `dmak~￺a habit * custom￻熟悉的工作，習慣，風俗"],"f":"￹￺to be familiar with * accustomed to￻欲對某事熟悉，習慣"}]}],"t":"nanam"}
+,"nananoyan":{"h":[{"d":[{"s":["`cacanoyan~","`nanoy~"],"f":"￹￺a cradle * a swing￻搖籃"}]}],"t":"nananoyan"}
+,"nanaw":{"h":[{"d":[{"s":["`monanaw~","`mananaw~","`kamonanawan~"],"f":"￹￺to wash * referring to hands or dishes￻洗；指洗手或洗器皿"}]}],"t":"nanaw"}
+,"nanay":{"h":[{"d":[{"e":["￹`nay~ `ira~ `kiso~ `a~ `tayni~ `a~ `lama~.￺I wish that you would come and visit.￻但願你能來這裡玩，我渴望你能來這裡玩"],"f":"￹￺an expression of wish or desire￻但願，希望"}]}],"t":"nanay"}
+,"nani":{"h":[{"d":[{"e":["￹`tira~ `i~ `Sigko~ `kiso~ `a~ `tayni~ `haw~?￺Did you come from Chengkung?￻你是從成功鎮來的嗎?"],"f":"￹￺(nani-) from a place￻從某地方"}]}],"t":"nani"}
+,"nani%27ol":{"h":[{"d":[{"f":"￹￺tadpoles￻小蝌蚪"}]}],"t":"nani'ol"}
+,"naniaykor":{"h":[{"d":[{"s":["`ikor~"],"f":"￹￺from the back (moving towards)￻從後面，從背後"}]}],"t":"naniaykor"}
+,"naniwac":{"h":[{"d":[{"f":"￹￺bean sprouts made from lentils￻綠豆"}]}],"t":"naniwac"}
+,"nano":{"h":[{"d":[{"e":["￹`O~ `nano~ `pi~`ti'er~ `~ `Yisan~ `ko~ `saka~`ga'ay~ `ita~ `a~ `mala~ `wawa~ `no~ `was~.￺We become God's children on the basis of trust in Jesus.￻我藉著耶穌得成為上帝的兒女","￹`O~ `nano~ `nima~ `konini~ `a~ `dmak~?￺Who did this? / What was the source of this activity?￻這是誰做的/這個活動的根源是什麼?"],"f":"￹￺a grammatical marker indicating the source of something￻文法上的字首助詞，指東西的根源"},{"f":"￹￺a grammatical marker indicating the basis of something￻文法上的字首助詞，指事物的基礎"},{"s":["`nao~"],"e":["￹`O~ `na~ / `nao~ `loma'~ `niyam~ `konini~.￺This was our former home.￻這是我們曾經住過的家"],"f":"￹￺a grammatical marker indicating the former state of something￻文法上的字首助詞，指事情的前況"}]}],"t":"nano"}
+,"nanom":{"h":[{"d":[{"s":["`minanom~","`pinanoman~","`tananoman~"],"e":["￹`Ci~`nanom~ `kita~.￺We have water.￻我們有水","￹`Pa~`nanom~`en~ `kami~.￺Give us water to drink. (literally cause us to have water)￻請給我們水喝 (字面上指我們有水的起因)"],"f":"￹￺water￻水"}]}],"t":"nanom"}
+,"nanoy":{"h":[{"d":[{"f":"￹￺to swing back and forth￻使搖擺"},{"s":["`canoy~","`nananoyan~","`cacanoyan~","`mihnanoy~"],"f":"￹￺to cradle￻擺動，搖籃，催眠"}]}],"t":"nanoy"}
+,"nanoya":{"h":[{"d":[{"f":"￹￺after that * after an interval of time￻從那時候，從某一段時間之後"}]}],"t":"nanoya"}
+,"nanpokoy":{"h":[{"d":[{"f":"￹￺a species of fish * Tilapia (mossambica) (from Japanese)￻吳郭魚 (引自日語)"}]}],"t":"nanpokoy"}
+,"nao":{"h":[{"d":[{"s":["`nano~"],"e":["￹`o~ `ma~`fana'~`ay~ `kako~ `to~ `faloco'~ `nira~.￺I used to know how he felt.￻我原本就知道他的心意"],"f":"￹￺a grammatical particle indicating the former state of something or someone￻曾經，原來，本末；文法上的用詞指某事或某人以前的狀態"}]}],"t":"nao"}
+,"naol":{"h":[{"d":[{"e":["￹`Aka~ `pi~`naol~ `toya~ `tamdaw~.￺Don't associate with that person.￻不要接近他，不要親近那個人"],"f":"￹￺to associate with * with negative connotations￻接近，親近，含有否定意味的交往"}]}],"t":"naol"}
+,"naop":{"h":[{"d":[{"s":["`nawnaw~"],"f":"￹￺to be surrounded by or swamped with water￻被水淹沒，飄浮"}]}],"t":"naop"}
+,"narafaran":{"h":[{"d":[{"s":["`rafar~"],"f":"￹￺an abandoned fallow field￻被遺棄的田地，廢耕的土地"}]}],"t":"narafaran"}
+,"narikay":{"h":[{"d":[{"s":["`ranikay~"],"f":"￹￺quickly * of time or activity￻很快，趕快，迅速"}]}],"t":"narikay"}
+,"nasa":{"h":[{"d":[{"e":["￹`O~ `widag~ `ako~ `cigra~ `nasa~ `ko~ `harateg~ `ako~.￺I had thought he was my friend.￻我以為他是我的朋友"],"f":"￹￺a grammatical marker indicating a way of thinking that has ceased to exist￻以為，怎麼，文法上的助詞，指已不存在的想法"}]}],"t":"nasa"}
+,"natawran":{"h":[{"d":[{"f":"￹￺name of an Amis village and clan￻花蓮縣吉安鄉田埔部落名"}]}],"t":"natawran"}
+,"naw":{"h":[{"d":[{"s":["`nawiro~","`mana~","`nawhani~"],"f":"￹￺why?￻為什麼？"}]}],"t":"naw"}
+,"nawhani":{"h":[{"d":[{"s":["`naw~"],"f":"￹￺because * for￻因為"}]}],"t":"nawhani"}
+,"nawiro":{"h":[{"d":[{"f":"￹￺why?￻為何？"},{"f":"￹￺for what purpose?￻為何目的"},{"s":["`mana~"],"f":"￹￺what was the cause?￻甚麼原因"}]}],"t":"nawiro"}
+,"nawnaw":{"h":[{"d":[{"s":["`naop~"],"e":["￹`Ma~`nawnaw~ `to~ `loma'~ `niyam~.￺Our house is swamped.￻我們的家被淹沒"],"f":"￹￺to be swamped * surrounded by water￻漂游/淹沒"},{"e":["￹`Ma~`nawnaw~ `ko~ `tamina~.￺The boat is floating.￻船在漂流"],"f":"￹￺to float￻漂流"}]}],"t":"nawnaw"}
+,"nayar":{"h":[{"d":[{"s":["`nayat~"],"e":["￹`pa~`nayar~ `to~ `romi'ad~￺extend the time (before an event begins)￻時間延期"],"f":"￹￺to stretch * pull out * extend￻延期/延伸，延長"}]}],"t":"nayar"}
+,"nayat":{"h":[{"d":[{"e":["￹`pa~`nayat~ / `pa~`nayar~ `to~ `romi'ad~￺to delay the time for an event to take place￻要延期時間，暫緩的發生","￹`Ma~`nayat~ `ko~ `romi'ad~.￺It will be a long time yet.￻日間延長，還有很長的時間","￹`Mi~`nayat~`ay~ `ko~ `soni~ `no~ `la'pa~.￺The trumpet blew long.￻喇叭聲傳的很遠，喇叭聲拖的很長"],"f":"￹￺to pull something that stretches * to stretch￻伸縮狀"}]}],"t":"nayat"}
+,"necnec":{"h":[{"d":[{"f":"￹￺to rub one's eyes￻揉，用手揉眼睛"}]}],"t":"necnec"}
+,"negneg":{"h":[{"d":[{"s":["`hinig~","`mlaw~","`tanegnegan~"],"e":["￹`Negnegen~ `kako~.￺Look at me!￻看著我","￹`O~ `pi~`negneg~ `iso~ `ko~ `ga'ay~.￺You should look and see.￻你最好還是 看一看"],"f":"￹￺to look * see￻注視，窺視，看"}]}],"t":"negneg"}
+,"neknek":{"h":[{"d":[{"s":["`nalineknek~","`palinekneken~"],"f":"￹￺to be settled * as dirt in the bottom of a pan of water￻沉澱"}]}],"t":"neknek"}
+,"nemnem":{"h":[{"d":[{"f":"￹￺a spring of water￻泉水，水源"}]}],"t":"nemnem"}
+,"nfak":{"h":[{"d":[{"s":["`dfak~","`rinafo~"],"f":"￹￺to be furrowed￻田地犁過後使成眭，中間有犁溝"}]}],"t":"nfak"}
+,"ngaw":{"h":[{"d":[{"s":["`cgaw~"],"e":["￹`Ngawen~ `ko~ `mata~ `iso~.￺Open your eyes.￻請睜開你的眼睛"],"f":"￹￺to tell someone to open his eyes￻叫某人睜開眼睛"}]}],"t":"ngaw"}
+,"nigra":{"h":[{"d":[{"s":["`nira~"],"f":"￹￺his * hers * by him or her.  See Pronouns - Appendix 1.￻他 (她) 的；藉著他 (她) 。參閱附錄I代名詞"}]}],"t":"nigra"}
+,"nihar":{"h":[{"d":[{"s":["`kaniharan~"],"e":["￹`Ma~`nihar~ / `monihar~ `ko~ `dafak~￺The morning is (in a state of) dawning￻清晨剛亮，清晨正值破曉"],"f":"￹￺dawn * early morning￻黎明"}]}],"t":"nihar"}
+,"nika":{"h":[{"d":[{"f":"￹￺a grammatical marker indicating the state of something￻文法上的用語指某些事情的狀態"},{"e":["￹`Ma~`fana'~ `cigra~ `to~ `nika~ `ira~ `ako~.￺He knows I am here.￻他知道我在這裡"],"f":"￹￺a grammatical marker indicating the opening to a dependent clause￻文法上的用語指話承上轉接到獨立句子"},{"e":["￹`O~ `nika~ `fana'~ `iso~ `tonini~ `ko~ `ga'ay~.￺Your knowing this is good. / You should know this.￻你應該知道這件事"],"f":"￹￺a grammatical marker indicating \"should\"￻文法上的用語指應該"}]}],"t":"nika"}
+,"nikar":{"h":[{"d":[{"s":["`nihar~","`kanikaran~","`manikar~"],"f":"￹￺dawn * when the first light of predawn begins to appear￻黎明，當黎明前的第一道光芒出現時"}]}],"t":"nikar"}
+,"nikaw":{"h":[{"d":[{"s":["`manikaw~"],"f":"￹￺[No English description]￻[無中文解釋]"}]}],"t":"nikaw"}
+,"nikawrira":{"h":[{"d":[{"f":"￹￺but * a logical connective of thought￻但是，邏輯上聯接思想的用詞"}]}],"t":"nikawrira"}
+,"nikiw":{"h":[{"d":[{"s":["`manikiw~"],"f":"￹￺to go through the possessions of another piece by piece looking for something to take * to steal￻翻動別人的東西找尋要偷取的東西"}]}],"t":"nikiw"}
+,"nikowanan":{"h":[{"d":[{"s":["`kowan~"],"f":"￹￺that which is ruled￻聯權，統領範圍"}]}],"t":"nikowanan"}
+,"nima":{"h":[{"d":[{"e":["￹`Ono~ `manima~ `konini~?￺Whose (plural) are these?￻這些東西是誰的？"],"f":"￹￺whose? for whom?  See Pronouns - Appendix 1.￻是誰的？參閱附錄Ｉ代名詞"}]}],"t":"nima"}
+,"ninip":{"h":[{"d":[{"e":["￹`Alaninininip~ `han~ `konini~ `a~ `takid~.￺All of you drink a sip from this cup.￻所有的每一個人都要啜飲這杯酒"],"f":"￹￺to sip * to take a small sip of liquid￻啜飲，一點一滴的喝"}]}],"t":"ninip"}
+,"nira":{"h":[{"d":[{"s":["`nigra~","`no~ `mira~"],"f":"￹￺his * hers * by him or her.  See Pronouns - Appendix 1.￻他 (她) 的；藉著他 (她)；參閱附錄I代名詞"}]}],"t":"nira"}
+,"nirnir":{"h":[{"d":[{"e":["￹`Pa~`nirnir~`en~ `ko~ `wawa~ `ako~ `a~ `papi~`tilid~.￺Help my child first so he can get into a (good) school. (The person being requested has other children to help.)￻請你幫助教導我的孩子好讓他 (她) 能升上較好的學校 (這個人請求別的孩子幫忙)"],"f":"￹￺to move closer and closer by stages￻愈步愈矩，慢慢靠近"}]}],"t":"nirnir"}
+,"nisafitigan":{"h":[{"d":[{"s":["`fitig~"],"f":"￹￺(something) made into earrings￻拿東西來做為耳環"}]}],"t":"nisafitigan"}
+,"nisawawaan":{"h":[{"d":[{"s":["`wawa~"],"f":"￹￺a disciple￻門徒"}]}],"t":"nisawawaan"}
+,"nisnis":{"h":[{"d":[{"f":"￹￺to cut * clip off short (grass)￻割草，割田埂的草"}]}],"t":"nisnis"}
+,"nitiih":{"h":[{"d":[{"s":["`lmed~"],"f":"￹￺to dream when sleeping￻夢"}]}],"t":"nitiih"}
+,"niwaniw":{"h":[{"d":[{"s":["`kapkap~"],"f":"￹￺to hand cultivate rice plants * pulling out weeds from the mud￻除田間的草，在泥中拔除雜草"}]}],"t":"niwaniw"}
+,"niyah":{"h":[{"d":[{"f":"￹￺personal * belonging to one's own self￻自己的，各人的"},{"s":["`no~ `tireg~"],"e":["￹`Ono~ `niyah~ `a~ `harateg~ `ko~ `dado'doen~.￺One should follow his personal opinions / ideas.￻要按照自己的想法去遵行","￹`yniyaniyah~ / `ytmek~ `kita~ `a~ `mi~`tolon~￺Let us each pray his own prayer.￻我們各自禱告"],"f":"￹￺the ego * self￻自我"}]}],"t":"niyah"}
+,"niyam":{"h":[{"d":[{"e":["￹`Tooren~ `ko~ `harateg~ `niyam~.￺(You) follow our ideas.￻請你順從我們的意見","￹`Ma~`toor~ `niyam~ `ko~ `sowal~ `iso~.￺Followed by us your words. / We did what you told us.￻我們已按你的旨意去行"],"f":"￹￺ours (excluding the hearer) * by us.  See Pronouns - Appendix 1.￻我們的，藉着我們。參閱附錄I代名詞"}]}],"t":"niyam"}
+,"niyani%27":{"h":[{"d":[{"s":["`seksek~"],"f":"￹￺to shake so that contents settle down￻搖動麻袋使能盛裝更多殼子"}]}],"t":"niyani'"}
+,"niyaro%27":{"h":[{"d":[{"s":["`kasaniyaro'~","`paniyaro'an~"],"e":["￹`Tayra~ `kita~ `i~ `yaroaro'~ `no~ `'Amis~.￺Let's go to the Amis villages.￻讓我們一道去阿美族部落"],"f":"￹￺town * village * city￻部落，村莊，城市"}]}],"t":"niyaro'"}
+,"nker":{"h":[{"d":[{"f":"￹￺to press down firmly and hold * to pin down￻被壓倒，壓制，被按住使不能動彈"}]}],"t":"nker"}
+,"no":{"h":[{"d":[{"f":"￹￺a grammatical particle * of * by.  See Grammar Appendix 2.￻文法上的用詞有屬於或憑，依據，藉，經等用法。參閱附錄Ⅱ文法"}]}],"t":"no"}
+,"no%27no%27":{"h":[{"d":[{"f":"￹￺to dig into the center leaving a hole as an insect making a hole in a tree￻挖到核心留下一個洞孔，有如昆蟲在樹上挖一口洞穴一般"}]}],"t":"no'no'"}
+,"nohir":{"h":[{"d":[{"f":"￹￺to crawl on the ground from being hurt or sick or drunk or having feelings hurt￻指受傷或酒醉者在地面的塵埃爬行"}]}],"t":"nohir"}
+,"noka":{"h":[{"d":[{"f":"￹￺to make thread or twine￻捻線或編織"}]}],"t":"noka"}
+,"nokay":{"h":[{"d":[{"f":"￹￺to return to starting point￻回到起點"},{"e":["￹`Mi~`nokay~ `ko~ `wawa~ `ako~.￺My child is going home.￻我的孩子回家了","￹`Pa~`nokay~`en~ `ko~ `wawa~ `ako~.￺Take my child home (carried).￻請帶我的孩子回家","￹`Papi~`nokay~`en~ `ko~ `wawa~ `ako~.￺Make my child go home.￻讓我的孩子回家"],"f":"￹￺to return home￻回家"}]}],"t":"nokay"}
+,"noli":{"h":[{"d":[{"f":"￹￺paste * glue￻漿糊"}]}],"t":"noli"}
+,"nona":{"h":[{"d":[{"s":["`nonini~"],"f":"￹￺of this * by this.  See Pronouns Appendix 1.￻這個/憑這個。參閱附錄Ⅰ代名詞"}]}],"t":"nona"}
+,"noneg":{"h":[{"d":[{"f":"￹￺to treat something with care so it is not broken or wasted￻細心處理使其不毀損與浪費"}]}],"t":"noneg"}
+,"nonini":{"h":[{"d":[{"s":["`nona~"],"f":"￹￺this * of this * by this.  See Pronouns - Appendix 1.￻這個，屬這個，依據這個。參閱附錄Ⅰ代名詞"}]}],"t":"nonini"}
+,"nonoh":{"h":[{"d":[{"f":"￹￺to scrounge * to take something someone else has thrown away and keep￻撿拾別人丟掉的東西加以利用(廢物利用)"}]}],"t":"nonoh"}
+,"nonol":{"h":[{"d":[{"f":"￹￺the lower leg * from knee to ankle￻從膝蓋到腳踝之間的小腿"}]}],"t":"nonol"}
+,"nonor":{"h":[{"d":[{"s":["`panonor~"],"f":"￹￺to gradually get what is needed with no extra￻逐漸的，逐次的得到所需要的東西而不超額"}]}],"t":"nonor"}
+,"nora":{"h":[{"d":[{"s":["`norira~"],"e":["￹`O~ `wawa~ `noranan~ `a~ `tamdaw~ `cigra~.￺He is the child of that person (over there).￻他是那個人的孩子"],"f":"￹￺of that * by that.  See Pronouns - Appendix 1.￻屬於那個的，憑藉那個的。參閱附錄Ⅰ代名詞"}]}],"t":"nora"}
+,"norira":{"h":[{"d":[{"s":["`nora~"],"f":"￹￺of that * by that.  See Pronouns - Appendix 1.￻屬於那個，藉著那個。參閱附錄Ⅰ代名詞"}]}],"t":"norira"}
+,"nornor":{"h":[{"d":[{"s":["`nirnir~"],"f":"￹￺to gradually move closer by stages * to approach old age * as to gradually pay a debt￻逐漸的接近，如年紀愈來愈大，如債務逐漸還清"}]}],"t":"nornor"}
+,"noya":{"h":[{"d":[{"f":"￹￺of the * by the.  See Pronouns - Appendix 1.￻屬於這個，憑著這個。參閱附錄Ⅰ代名詞"}]}],"t":"noya"}
+}

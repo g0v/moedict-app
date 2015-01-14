@@ -1,0 +1,436 @@
+{"sa%27aniwan":{"h":[{"d":[{"f":"￹￺the name of an Amis village￻長濱鄉宜灣部落"}]}],"t":"sa'aniwan"}
+,"sa%27ayaw":{"h":[{"d":[{"f":"￹￺first * to start￻首先，起初"}]}],"t":"sa'ayaw"}
+,"sa%27def":{"h":[{"d":[{"f":"￹￺a door￻扇門"}]}],"t":"sa'def"}
+,"sa%27et":{"h":[{"d":[{"f":"￹￺to obstruct passage * barricade￻阻塞，阻擋，阻礙"},{"s":["`'alet~"],"f":"￹￺to stop * hinder￻阻止，遏止，妨礙，妨害，阻礙"}]}],"t":"sa'et"}
+,"sa%27fit":{"h":[{"d":[{"s":["`safana'~"],"e":["￹`Ma~`sa'fit~ `no~ `ko'san~`ay~ `a~ `sowal~ `nira~ `kako~.￺I was deceived by his good sounding words.￻我被他的甜言蜜語所騙"],"f":"￹￺to deceive￻欺騙，詐欺"}]}],"t":"sa'fit"}
+,"sa%27ged":{"h":[{"d":[{"f":"￹￺a stand￻站立"},{"f":"￹￺a band worn around the head as a base for carrying a jar on one's head￻用頭頂截東西的墊環，例如用甕汲水頂截時的墊底"}]}],"t":"sa'ged"}
+,"sa%27ger":{"h":[{"d":[{"s":["`so'so'~"],"f":"￹￺to stay put for a while * to not move￻怔住，暫時不動"}]}],"t":"sa'ger"}
+,"sa%27is%27is":{"h":[{"d":[{"s":["`'is'is~"],"f":"￹￺razor￻剃刀"}]}],"t":"sa'is'is"}
+,"sa%27iwas":{"h":[{"d":[{"s":["`'iwas~"],"f":"￹￺oar￻櫓槳，划船用櫓槳"}]}],"t":"sa'iwas"}
+,"sa%27iyot":{"h":[{"d":[{"f":"￹￺a knife for cutting￻鑽子"}]}],"t":"sa'iyot"}
+,"sa%27lec":{"h":[{"d":[{"f":"￹￺a trap made of twine to ensnare an animal￻網羅，誘入陷阱，設陷阱"}]}],"t":"sa'lec"}
+,"sa%27let":{"h":[{"d":[{"e":["￹`'leten~ `ko~ `kaos~ `no~ `cokap~ `iso~.￺Tie into a knot your shoe laces.￻把你的鞋子打蝴蝶結","￹`Ma~`sa~`sa'let~ `ko~ `tatnooyen~ `a~ `kliw~.￺The thread to be woven is all twisted and tied in knots.￻線編織成綢狀"],"f":"￹￺to tighten a knot so it won't come loose￻打結使它不鬆弛掉"}]}],"t":"sa'let"}
+,"sa%27mamokot":{"h":[{"d":[{"s":["`'amamokot~"],"f":"￹￺to curl up to sleep * to lie in a fetal position￻全身蜷縮而睡，捲曲著身子睡覺"}]}],"t":"sa'mamokot"}
+,"sa%27mel":{"h":[{"d":[{"s":["`si'mel~"],"e":["￹`'mel~ `ko~ `fali~ `anini~.￺The wind is cool (comfortable) today.￻今天的風很涼快，今天的風吹得涼爽舒適","￹`Miki~`sa'mel~ `koya~ `ma~`to'as~`ay~.￺That old person is sitting in the shade to cool off.￻那些老人坐在樹蔭下納涼"],"f":"￹￺to feel cool￻涼爽，清涼"}]}],"t":"sa'mel"}
+,"sa%27mic":{"h":[{"d":[{"s":["`'mic~"],"f":"￹￺tweezers￻鋏子"}]}],"t":"sa'mic"}
+,"sa%27opo":{"h":[{"d":[{"e":["￹`O~ `maan~ `a~ `sa'opo~ `konini~?￺What kind of a gathering is this?￻這是什麼聚會？"],"f":"￹￺to gather * of people or things￻集合，人或物"},{"e":["￹`'opoen~ `ako~ `ko~ `wawa~.￺I will gather the children together (lead them or call together).￻我要召集兒童","￹`'opoen~ `ako~ `ko~ `wawa~.￺I will (have someone go) gather the children.￻我要 (差某人) 把兒童集合起來","￹`Papi~`sa'opo~`en~ `ko~ `sigsi~ `to~ `wawa~.￺Have the teacher gather the children together.￻請 (告訴) 老師把兒童召集在一起","￹`'opoen~ `ko~ `ni~`ala~`an~ `namo~ `a~ `fotig~.￺Gather together the fish you caught.￻把你們捉來的魚集中在一起"],"f":"￹￺to gather together￻集合在一起"},{"f":"￹￺biblical term for church￻聖經指教會的聚會"}]}],"t":"sa'opo"}
+,"sa%27osi":{"h":[{"d":[{"e":["￹`Caay~ `ka~ `sa'osi~ `cigra~ `a~ `lhaklog~ `titaanan~.￺He was not included in the count to go with us.￻沒有把他算在我們行列之中"],"f":"￹￺reckoned * included￻計算，包括"},{"e":["￹`na~ `ko~ `sa'osi~?￺What is the count?￻請問多少錢","￹`Sa~`'osi~`en~ `ko~ `ma~`tahidag~`ay~.￺Count how many have been invited￻請點清被邀請的人"],"f":"￹￺to count￻計算"},{"s":["`'osi~"],"e":["￹`Sa~`'osi~`en~ / `asip~`en~ / `'osi~`en~ `konini~ `a~ `tilid~.￺Read this writing.￻請你讀一下這一篇文章 (一本書或一封信)"],"f":"￹￺to read￻讀或念"}]}],"t":"sa'osi"}
+,"sa%27owac":{"h":[{"d":[{"f":"￹￺a mountain valley * ravine￻深谷，狹谷，溪澗"},{"s":["`'alo~"],"f":"￹￺mountain stream￻溪澗"}]}],"t":"sa'owac"}
+,"sa%27sa":{"h":[{"d":[{"s":["`so'so'~"],"f":"￹￺to drain through a sieve or reed basket drainer￻篩子將東西撈起來而將水通過其中滴落 (飄形漏水) 或蘆葦草製成的籃簍漏斗"}]}],"t":"sa'sa"}
+,"saan":{"h":[{"d":[{"e":["￹`O~ `sowal~ `nira~ `'i~, `o~ `ta~`tayni~ `kako~ `saan~.￺He said he would come.￻他說：「我本來要來的」。"],"f":"￹￺a grammatical particle indicating a quotation mark marking the end of someone's words or thoughts￻文法上含概著許多自己意念的表達：一個句子的最後一個語氣的懇定"},{"s":["`~"],"e":["￹`Ma~`hrek~ `kako~ `a~ `mi~`licay~ `'i~, `sowal~ `saan~ `cigra~￺When I finished asking, he responded by saying ...￻我問完他以後，他就說：「……」"],"f":"￹￺a grammatical particle indicating a sequence marker￻文法上含概著許多自己意念的表達：連接詞"}]}],"t":"saan"}
+,"saasik":{"h":[{"d":[{"f":"￹￺broom￻掃帚"}]}],"t":"saasik"}
+,"saca":{"h":[{"d":[{"f":"￹￺special * distinct from the rest￻特別的，特殊的，※從…給予區分"}]}],"t":"saca"}
+,"sacadiw":{"h":[{"d":[{"s":["`cadiw~"],"f":"￹￺instrument used for sharpening * as a rock￻磨石，磨具"}]}],"t":"sacadiw"}
+,"sacapoxan":{"h":[{"d":[{"s":["`capox~"],"f":"￹￺seedling bed￻秧苗圃"}]}],"t":"sacapoxan"}
+,"saciker":{"h":[{"d":[{"s":["`ciker~"],"f":"￹￺a lock￻鎖，鎖頭"}]}],"t":"saciker"}
+,"sacker":{"h":[{"d":[{"s":["`cker~"],"f":"￹￺the webbing * support system frame used for support￻支架，支撐系統，用以支持的架構"}]}],"t":"sacker"}
+,"sackih":{"h":[{"d":[{"f":"￹￺claws of a chicken or bird or dog or cat￻雞或鳥或狗或貓的腳"},{"f":"￹￺hoof * as of pig or cow￻豬，牛的趾蹄"}]}],"t":"sackih"}
+,"sacnacna%27":{"h":[{"d":[{"s":["`cna'~"],"f":"￹￺to do something at irregular intervals￻做事斷斷續續"}]}],"t":"sacnacna'"}
+,"sacokiwat":{"h":[{"d":[{"s":["`cokiwat~"],"f":"￹￺instrument used for the activity￻用以這個舉動的用具"}]}],"t":"sacokiwat"}
+,"sacomod":{"h":[{"d":[{"s":["`comod~"],"f":"￹￺entrance way￻入口處，入口"}]}],"t":"sacomod"}
+,"sacorcor":{"h":[{"d":[{"s":["`corcor~","`saklap~"],"f":"￹￺a scoop to dig out rice plants￻小鏟子(用來掘取秧苗插秧的工具)"}]}],"t":"sacorcor"}
+,"sadadoy":{"h":[{"d":[{"s":["`dadoy~"],"f":"￹￺scales used to weigh￻天秤、秤子"}]}],"t":"sadadoy"}
+,"sadak":{"h":[{"d":[{"s":["`kasadakan~"],"e":["￹`Ma~`sadak~`to~ `cigra~ `nai~ `pi~`rofo~`an~.￺He has come out of prison.￻他已從監獄裡面出來了","￹`daken~ `ko~ `'ayam~.￺Let the chickens out.￻把雞放出來","￹`Icowa~ `ko~ `kasadakan~?￺Where is there an exit / way out?￻出口處在哪裡？"],"f":"￹￺to come out (from inside)￻出現，出走，流出，冒出，出來"}]}],"t":"sadak"}
+,"saday":{"h":[{"d":[{"f":"￹￺to prepare ahead of time * to get ready￻準備好，預備妥當"}]}],"t":"saday"}
+,"sadikay":{"h":[{"d":[{"f":"￹￺the name of a species of grass that grows along side streams of water * it looks like fur and is scratchy￻蘆葦的一種，生長在溪水邊的草，在沼澤區生長的草"}]}],"t":"sadikay"}
+,"sadim":{"h":[{"d":[{"e":["￹`Ma~`sadim~`to~ `ko~ `fotig~.￺The fish are poisoned / stunned.￻魚被毒死了"],"f":"￹￺a poison extracted from a plant * sprinkled on the surface of water to temporarily paralyze fish so they come to the surface and can be caught for eating￻一種毒樹汁；毒藤，打碎後取其汁撒在水面上魚羣食後會死亡 (阿美族原始捉魚之方法之一)"},{"f":"￹￺Wild Walnut￻野樹"}]}],"t":"sadim"}
+,"sadit":{"h":[{"d":[{"f":"￹￺mud used to plaster the walls of a house or the mouth of an earthen vessel￻用水泥砌牆或堵塞或封住陶器的口"},{"e":["￹`Ma~`sadit~ `to~ `amoto~ `ko~ `pa'nan~ `ato~ `cafeg~ `no~ `loma'~ `niyam~.￺The floor and walls of our house have been plastered with cement.￻我們家的圍牆和地板已經用水泥舖成了"],"f":"￹￺cement is now used for this purpose￻水泥現在已被用於這個目的"}]}],"t":"sadit"}
+,"sadoasi%27":{"h":[{"d":[{"f":"￹￺the name of edible seaweed￻海上可食用的海草"}]}],"t":"sadoasi'"}
+,"sadosdos":{"h":[{"d":[{"s":["`ta'lidan~","`tarokos~"],"f":"￹￺the person who goes ahead of the rest leading the way￻陣線前鋒"}]}],"t":"sadosdos"}
+,"sadoy":{"h":[{"d":[{"f":"￹￺a shield for use in battle￻盾牌"}]}],"t":"sadoy"}
+,"safa":{"h":[{"d":[{"e":["￹`O~ `safa~ `iso~ `ko~ `mi~`hca~`an~ `ako~.￺I am younger than you.￻我年齡比你小"],"f":"￹￺younger￻年青人"},{"e":["￹`O~ `safa~ `ako~ `konini~.￺1. This is my younger brother / sister.  2. This is my younger cousin.￻1. 這是我的弟弟或妹妹  2. 這是我的表弟妹"],"f":"￹￺younger brother or sister￻弟弟，妹妹"},{"f":"￹￺younger cousin￻表弟，表妹"},{"e":["￹`Ma~`safa~ `nira~ `kako~.￺He has excelled over me.￻他優於我","￹`Aka~ `pala~`safa~`en~ `cigra~.￺Don't put down someone (of standing).￻不要看輕他，不要藐視他","￹`fa~ `cigra~ `to~ `fana'~ `ako~.￺He put down my ability.￻他藐視我的能力"],"f":"￹￺inferior to * lesser in rank￻晚輩"}]}],"t":"safa"}
+,"safak":{"h":[{"d":[{"s":["`'asad~"],"f":"￹￺a single grain * kernel of grain￻殼粒子"}]}],"t":"safak"}
+,"safakec":{"h":[{"d":[{"s":["`fakec~","`safaked~"],"f":"￹￺a belt￻腰帶"}]}],"t":"safakec"}
+,"safaked":{"h":[{"d":[{"s":["`safakec~"],"f":"￹￺Refer to `safakec~￻詳見 `safakec~"}]}],"t":"safaked"}
+,"safalat":{"h":[{"d":[{"e":["￹`Ma~`safalat~ `anini~.￺The south wind is blowing today.￻現在是吹南風，今天吹南風"],"f":"￹￺south wind￻南風"}]}],"t":"safalat"}
+,"safalod":{"h":[{"d":[{"s":["`falod~"],"f":"￹￺thing used to bind * as string￻用以綁東西的器具，繩子"}]}],"t":"safalod"}
+,"safana%27":{"h":[{"d":[{"e":["￹`Sa~`fana'~ `~ `ira~ `cigra~ `inacila~.￺He came unexpectedly yesterday.￻他瞞著，其實他昨天就來了，他昨天意外的來了"],"f":"￹￺suddenly * unexpectedly without notice￻突然的，意外，毫無留意"},{"e":["￹`Sa~`fana'~`en~ `~ `satan~ `~ `Yis~ `a~ `papi~`saga'~ `to~ `'pag~.￺Satan tried to tempt Jesus to make bread.￻撒但試探耶穌把石頭變成麵包","￹`Ma~`safana'~ `nira~ `kako~.￺I succumbed to his tempting me.￻我經不起他的誘惑"],"f":"￹￺to tempt to do something not intended￻不情願的去嘗試某事"},{"f":"￹￺to take advantage of￻利用，趁機"}]}],"t":"safana'"}
+,"safanohan":{"h":[{"d":[{"s":["`fanoh~"],"f":"￹￺body hair of humans￻體毛"}]}],"t":"safanohan"}
+,"safatel":{"h":[{"d":[{"f":"￹￺a belt￻腰帶，褲帶"}]}],"t":"safatel"}
+,"safaw":{"h":[{"d":[{"e":["￹`Ci~`safaw~ `ko~ `fafoy~ `niyam~.￺We have more than ten pigs.￻我們有十幾頭豬","￹`Ccay~ `ko~ `safaw~ `ko~ `fafoy~ `niyam~.￺We have eleven pigs￻我們有十一頭豬","￹`faw~ `ccay~ `ko~ `fafoy~ `niyam~.￺We have eleven pigs.￻我們有十一頭豬"],"f":"￹￺more than ten￻十幾個，十來個"}]}],"t":"safaw"}
+,"safel":{"h":[{"d":[{"s":["`tagtag~"],"f":"￹￺to cook meat or fish or vegetables using water or stir-frying￻用開水煮或油炸肉或魚或蔬菜"}]}],"t":"safel"}
+,"safi":{"h":[{"d":[{"f":"￹￺to stab as a hunter does using a spear￻用矛刺戳如獵人之對獵物"}]}],"t":"safi"}
+,"safit":{"h":[{"d":[{"f":"￹￺a long cloth used as a band to tie a baby on one's back￻用長布帶如揹孩子用的，布繫帶子"},{"f":"￹￺a cloth used as a belt￻皮帶"},{"f":"￹￺a cloth used as a headdress like that of a shepherd￻像牧人用於綁頭的布條"},{"f":"￹￺a cloth wrapped around the feet to help climb betel nut tree￻把腳綁帶套起，以便爬到樹上不致滑落"}]}],"t":"safit"}
+,"safitay":{"h":[{"d":[{"s":["`fitay~"],"f":"￹￺winnowing basket * a sifter￻篩穀器，用來分別穀物等粉質粗細的器具"}]}],"t":"safitay"}
+,"saflaw":{"h":[{"d":[{"f":"￹￺flock * referring to sheep or cattle or chickens or ducks￻羣集，指牛羊雞鴨 (家畜) 等"}]}],"t":"saflaw"}
+,"safon":{"h":[{"d":[{"f":"￹￺soap * in former days soap was made from the seeds of flowers from a Soap Nut tree￻肥皂；農人用一種叫無患子來做成肥皂"}]}],"t":"safon"}
+,"safool":{"h":[{"d":[{"f":"￹￺the urge to urinate￻尿急"}]}],"t":"safool"}
+,"safraag":{"h":[{"d":[{"f":"￹￺to wait too long to do something * to procrastinate￻等得不耐煩，遷延"}]}],"t":"safraag"}
+,"safreg":{"h":[{"d":[{"e":["￹`Ma~`safreg~ `ko~ `takola'~ `i~ `yil~ `a~ `'alo~.￺Frogs swarmed in the Nile river.￻一羣羣的青蛙在泥羅河的河川上","￹`Ma~`safreg~ `ko~ `sofitay~ `a~ `romakat~.￺The soldiers swarmed / were together in great numbers as they moved.￻一羣羣的士兵在路上行軍，士兵羣集而行"],"f":"￹￺to swarm * to move together in great numbers￻羣集而行，人們群體移動"}]}],"t":"safreg"}
+,"saga%27":{"h":[{"d":[{"e":["￹`O~ `maan~ `ko~ `sa~`saga'~`en~ `ita~?￺What shall we make?￻我們要製作什麼？"],"f":"￹￺to make￻做，製造"},{"e":["￹`Sa~`ga'~`en~ `no~ `was~ `ko~ `kakarayan~ `ato~ `hkal~.￺God made the heavens and earth.￻上帝造天地萬物"],"f":"￹￺to create￻創造"},{"e":["￹`Pasa~`ga'~`en~ `ko~ `palidig~ `iso~.￺Have your vehicle fixed.￻你的車子拿去修理","￹`Ma~`saga'~`to~ `ko~ `faloco'~ `nira~.￺His attitude has changed.￻他的心意改變了 (態度) ，他已心平氣和了","￹`Ma~`sa~`saga'to~ `kami~ `anini~.￺We (two) have been reconciled.￻我們已互相諒解了，我們已和解了"],"f":"￹￺to fix * repair￻修理"}]}],"t":"saga'"}
+,"sagasif":{"h":[{"d":[{"f":"￹￺hot water for drinking￻燒開水"},{"e":["￹`gasifen~ `ko~ `flac~.￺Put rice in the kettle.￻放米在鍋子裡面"],"f":"￹￺tea￻茶"}]}],"t":"sagasif"}
+,"saglay":{"h":[{"d":[{"f":"￹￺to feel nauseated * to feel like vomiting￻想嘔，嘔心，產生噁心感，作嘔"}]}],"t":"saglay"}
+,"sagotfol":{"h":[{"d":[{"s":["`gotfoh~"],"f":"￹￺expression of anger on the face￻臉上表忿怒或生氣的樣子"}]}],"t":"sagotfol"}
+,"sahalaka":{"h":[{"d":[{"f":"￹￺to make plans￻起頭，計劃，設計，策劃"}]}],"t":"sahalaka"}
+,"sahci":{"h":[{"d":[{"f":"￹￺to explain (literally: to reveal the substance of)￻說明，解說，解釋，(字面上，透露…本質)"}]}],"t":"sahci"}
+,"saho":{"h":[{"d":[{"e":["￹`Itini~ `saho~ `kako~ `a~ `lama~.￺I am still here visiting.￻我暫時留在這裡訪問，我仍然在這裡逗留"],"f":"￹￺a condition or action still in process (in contrast to sato where a new response is introduced into the sequence of events)￻一個情況或動作正在進行的過程 (和 sato 對照一個新的反應被引入於接著發生的事)"},{"e":["￹`ho~ `saho~ `ira~ `kiso~.￺I was thinking about you when you suddenly turned up.￻我在思維有關你時，你就突然出現"],"f":"￹￺to think of something and immediately it happens￻正思想某事情時，那件事立刻發生"}]}],"t":"saho"}
+,"sahto":{"h":[{"d":[{"e":["￹`hto~ `o~ `gcah~ `ko~ `ro'ay~ `itira~.￺The great majority of people living there are Amis.￻那兒絕大多數的居民是阿美族"],"f":"￹￺for the greatest part * the large majority of￻絕大多數"}]}],"t":"sahto"}
+,"saikoray":{"h":[{"d":[{"s":["`ikor~"],"f":"￹￺the very last one￻最後，最終，末後的"}]}],"t":"saikoray"}
+,"sair":{"h":[{"d":[{"f":"￹￺sorcery * the act of a medium to divine illness and cause it to leave￻巫術，妖術，指巫師持某物在患者身上咒咀去邪"}]}],"t":"sair"}
+,"sait":{"h":[{"d":[{"s":["`kalatim~","`sasait~"],"f":"￹￺to cut with scissors￻用剪刀剪斷"}]}],"t":"sait"}
+,"saka":{"h":[{"d":[{"f":"￹￺prefix on many words.  See Appendix 1 - Grammar.￻加字首語，加在許多字詞之首。參閱附錄Ⅰ文法"},{"f":"￹￺therefore * so￻所以，因此"},{"f":"￹￺the (first)￻這 (首)"}]}],"t":"saka"}
+,"saka%27ca":{"h":[{"d":[{"s":["`sakacaaw~"],"f":"￹￺so that (something) not (happen) * negative purpose￻所以(事情)不會(發生)※否定的目的"}]}],"t":"saka'ca"}
+,"sakacaaw":{"h":[{"d":[{"s":["`saka'ca~"],"e":["￹`Mi~`tolon~ `kako~ `to~ `sakacaaw~ `ka~ `patay~ `nira~.￺I prayed that he might not die.￻我為他免於死亡而祈禱"],"f":"￹￺negative purpose * so that (something) not (happen)￻否定目的※所以事情沒有(發生)"}]}],"t":"sakacaaw"}
+,"sakaccay":{"h":[{"d":[{"s":["`ccay~"],"f":"￹￺the first one￻第一，頭一次"}]}],"t":"sakaccay"}
+,"sakafana%27ananay":{"h":[{"d":[{"s":["`fana'~"],"f":"￹￺those who want to know￻那個人很想知道"}]}],"t":"sakafana'ananay"}
+,"sakafogen":{"h":[{"d":[{"s":["`kafog~"],"f":"￹￺to put on one's hat￻戴帽子"}]}],"t":"sakafogen"}
+,"sakaira":{"h":[{"d":[{"s":["`ira~"],"f":"￹￺reason for being * means of being￻存在的理由, 原因, 意義"}]}],"t":"sakaira"}
+,"sakalahok":{"h":[{"d":[{"s":["`lahok~"],"f":"￹￺provision for lunch￻供作午餐之物"}]}],"t":"sakalahok"}
+,"sakalatim":{"h":[{"d":[{"s":["`kalatim~"],"f":"￹￺scissors￻剪刀"}]}],"t":"sakalatim"}
+,"sakalcadan":{"h":[{"d":[{"s":["`lcad~"],"f":"￹￺approximately the same￻近似的，近乎相同，幾近相似"}]}],"t":"sakalcadan"}
+,"sakaligad":{"h":[{"d":[{"s":["`ligad~"],"f":"￹￺tools needed for farming or work￻農具，工具"}]}],"t":"sakaligad"}
+,"sakalima":{"h":[{"d":[{"s":["`lima~"],"f":"￹￺the fifth￻第五"}]}],"t":"sakalima"}
+,"sakalmed":{"h":[{"d":[{"s":["`lmed~"],"f":"￹￺the means of blessing￻藉以蒙福之因素"}]}],"t":"sakalmed"}
+,"sakamatini":{"h":[{"d":[{"s":["`matini~"],"f":"￹￺the reason for (it) being like it is￻他之所以像這個樣子，理由是……"}]}],"t":"sakamatini"}
+,"sakamo%27tep":{"h":[{"d":[{"s":["`mo'tep~"],"f":"￹￺the tenth￻第十"}]}],"t":"sakamo'tep"}
+,"sakaota%27an":{"h":[{"d":[{"s":["`ota'~"],"f":"￹￺to be nauseated￻想吐，將要嘔吐"}]}],"t":"sakaota'an"}
+,"sakapahen":{"h":[{"d":[{"s":["`kapah~"],"f":"￹￺make look pretty￻修飾漂亮，美化"}]}],"t":"sakapahen"}
+,"sakara":{"h":[{"d":[{"s":["`kara~"],"f":"￹￺a rake￻耙子"}]}],"t":"sakara"}
+,"sakarih":{"h":[{"d":[{"s":["`karih~"],"f":"￹￺bamboo and wood rake￻耙子"}]}],"t":"sakarih"}
+,"sakarop":{"h":[{"d":[{"s":["`karop~"],"f":"￹￺rubbish basket￻垃圾袋，簸箕"}]}],"t":"sakarop"}
+,"sakasaan":{"h":[{"d":[{"f":"￹￺the reason for * with regard to something that has been expressed or thought￻理由，原因※牽涉已被顯示或想到的一些事情"}]}],"t":"sakasaan"}
+,"sakasak":{"h":[{"d":[{"e":["￹`Aka~ `saken~ `ko~ `riko'~.￺Don't trample on the clothes.￻不要踐踏衣服","￹`Aka~ `pi~`sakasak~ `to~ `sowal~ `no~ `ma~`to'as~`ay~.￺Don't be disrespectful of the words of the elders.￻對老人家的訓勉不得無禮，不要藐視大人的叮嚀"],"f":"￹￺to trample on * as grain sown * plants growing * or something lying on the path * figuratively￻踐踏，蹂躝；如踩踏已撒好的穀子, 萌芽的植物或散落在路上的東西；比喻上的意義"}]}],"t":"sakasak"}
+,"sakasiwa":{"h":[{"d":[{"s":["`siwa~"],"f":"￹￺the ninth￻第九"}]}],"t":"sakasiwa"}
+,"sakaspat":{"h":[{"d":[{"s":["`spat~"],"f":"￹￺the fourth￻第四"}]}],"t":"sakaspat"}
+,"saki":{"h":[{"d":[{"e":["￹`Mi~`tolon~ `kako~ `to~ `saki~ `~ `cawan~.￺I am praying for Kacaw.￻我為卡照祈禱，我因kacawan的緣故祈禱"],"f":"￹￺for the sake of￻為了，因……的緣故"}]}],"t":"saki"}
+,"sakipat":{"h":[{"d":[{"s":["`kipat~"],"f":"￹￺glue * paste￻膠黏，漿糊"}]}],"t":"sakipat"}
+,"saklap":{"h":[{"d":[{"f":"￹￺a scoop for digging￻鏟子"},{"s":["`klap~"],"f":"￹￺a spatula￻調刀，小鏟，壓台器"}]}],"t":"saklap"}
+,"sakmot":{"h":[{"d":[{"f":"￹￺to temporarily tie together￻暫時"},{"f":"￹￺to jest * joke with good or bad meaning￻騙人，嘲弄人，戲謔※有好或壞意義的玩笑"}]}],"t":"sakmot"}
+,"sakoc":{"h":[{"d":[{"s":["`towasig~"],"f":"￹￺a pick axe for breaking rock￻鏟子"}]}],"t":"sakoc"}
+,"sakofit":{"h":[{"d":[{"s":["`kofit~"],"f":"￹￺buttons￻鈕釦"}]}],"t":"sakofit"}
+,"sakola":{"h":[{"d":[{"f":"￹￺Taiwan Bridal Wreath Spirea￻櫻花"},{"f":"￹￺Taiwan Cherry Tree (from Japanese)￻山櫻花 (Prunus campanulata) (引自日語)"}]}],"t":"sakola"}
+,"sakor":{"h":[{"d":[{"s":["`kor~"],"f":"￹￺name of an Amis village￻花蓮國富里部落名"}]}],"t":"sakor"}
+,"sakowan":{"h":[{"d":[{"s":["`kowan~"],"f":"￹￺authority￻權威，威信，權力"}]}],"t":"sakowan"}
+,"saksak":{"h":[{"d":[{"e":["￹`ksaken~ `ko~ `riko'~ `iso~.￺Spread your clothes on the ground (for a carpet).￻把你的衣服攤開在地上 (當作毯子)"],"f":"￹￺something to sit on on the ground * a cushion * a rug￻墊子，草蓆，坐墊，地毯，蓆子"}]}],"t":"saksak"}
+,"sala":{"h":[{"d":[{"f":"￹￺a plate * platter (from Japanese)￻盤子，碟子 (引自日語)"}]}],"t":"sala"}
+,"sala%27sa%27":{"h":[{"d":[{"f":"￹￺the sound of rain hitting something￻下雨，雨滴聲，擊倒東西的聲音"}]}],"t":"sala'sa'"}
+,"salag":{"h":[{"d":[{"f":"￹￺sap * juice from inside a plant￻湯，植物的汁液"},{"f":"￹￺the juice of fruit￻果汁"},{"f":"￹￺pus￻濃汁"}]}],"t":"salag"}
+,"salakec":{"h":[{"d":[{"s":["`lakec~"],"f":"￹￺crossing place * ford￻涉水地點，渡河處，需涉渡之水"}]}],"t":"salakec"}
+,"salakowit":{"h":[{"d":[{"s":["`lakowit~"],"f":"￹￺path to transverse￻橫斷之小道，需橫越之山"}]}],"t":"salakowit"}
+,"salama":{"h":[{"d":[{"s":["`halama~","`holol~"],"e":["￹`O~ `lamaay~ `kami~ `a~ `tayni~.￺We came to visit and relax.￻我們來這裡拜訪和遊覽"],"f":"￹￺to relax * sit and visit￻娛樂，休息，休閒，歇息玩耍"},{"e":["￹`Aka~ `pi~`salama~ `to~ `citosiya~ `nira~.￺Don't handle her car.￻不要玩弄他的車子"],"f":"￹￺to play with * handle￻操作遊戲，玩遊戲"}]}],"t":"salama"}
+,"salawacan":{"h":[{"d":[{"s":["`lawac~"],"f":"￹￺frontier * dividing line￻邊界，分界線"}]}],"t":"salawacan"}
+,"salceg":{"h":[{"d":[{"s":["`lceg~"],"f":"￹￺clippers￻剪刀，剪物之工具"}]}],"t":"salceg"}
+,"salikaka":{"h":[{"d":[{"e":["￹`O~ `salikaka~ `ita~ `cigra~.￺He belongs to our family.￻他是我們家族的一份子","￹`O~ `sa~`salikaka~`en~ `ako~ `cigra~.￺He is a close relative (acousin).￻他是我近親 (堂兄弟)"],"f":"￹￺brother or sister in the same family without reference to age￻在一個家庭中不按年齡分的兄弟姊妹"},{"e":["￹`O~ `salikaka~ `ita~ `cigra~.￺He is a part of the Christian community.￻他是基督教團體的一份子"],"f":"￹￺a term for people in the same social group i.e. a Christian brother or sister￻諸如基督徒的兄弟姊妹在同屬一個團體中各份子的相互稱呼"}]}],"t":"salikaka"}
+,"salikiki%27":{"h":[{"d":[{"s":["`lomig~"],"f":"￹￺the small finger * the littlest finger on the hand￻無名指"}]}],"t":"salikiki'"}
+,"saliklon":{"h":[{"d":[{"s":["`liklon~"],"f":"￹￺a path for descending￻下坡"}]}],"t":"saliklon"}
+,"salil":{"h":[{"d":[{"f":"￹￺a generic term for fish net * one kind is long and pulled from each end by two parties￻漁網"},{"f":"￹￺a bird snare￻鳥網"}]}],"t":"salil"}
+,"salimpo":{"h":[{"d":[{"s":["`Sa~`limpo~"],"f":"￹￺the name of an Amis village￻台東縣長濱鄉寧埔阿美部落名"}]}],"t":"salimpo"}
+,"salipaw":{"h":[{"d":[{"s":["`'adapaw~"],"f":"￹￺Refer to `'adapaw~￻詳見 `'adapaw~"}]}],"t":"salipaw"}
+,"salitata%27ag":{"h":[{"d":[{"f":"￹￺thumb￻大拇指"}]}],"t":"salitata'ag"}
+,"saliway":{"h":[{"d":[{"f":"￹￺to fast * to deliberately refrain from eating￻禁食"},{"s":["`liway~"],"f":"￹￺to go without eating because food is not available￻節食，因糧食不足"}]}],"t":"saliway"}
+,"salkolko":{"h":[{"d":[{"f":"￹￺to act like one knows when they really do not￻自以為是，儼然……的樣子，裝的很行的樣子其實不然"}]}],"t":"salkolko"}
+,"salo%27afag":{"h":[{"d":[{"s":["`'adigo~","`'afag~"],"e":["￹`Mi~`laliw~ `ko~ `salo'afag~ `nira~.￺His soul has left him.￻他的靈魂已離開他而去了","￹`Ma~`safa~ `no~ `salo'afag~ `no~ `'oner~ `kako~.￺The soul of the snake has conquered me (I've been bitten by a snake).￻我的靈魂被蛇征服，我被蛇咬了"],"f":"￹￺the soul * human spirit.  In Amis thinking the soul wanders and appears to another in dreams or must be brought back when ill.  Animals also have souls.￻靈魂※在阿美族的思想中靈魂在徘徊並在別人夢中出現或生病時必須要把它召回來。阿美族認為動物也有靈魂"}]}],"t":"salo'afag"}
+,"salof":{"h":[{"d":[{"e":["￹`lofen~ `ko~ `faloco'~ `noya~ `wawa~.￺Correct that child.￻請糾正那小孩的心思意念","￹`lofen~ `ita~ `ko~ `ni~`tilid~`an~ `ita~ `a~ `kimad~.￺We must edit the story we wrote.￻我們要修改我們寫的故事","￹`Ma~`salof~ `koya~ `dmak~ `anini~.￺That matter has been rectified.￻那件事已經修正了"],"f":"￹￺to correct * rectify * amend￻修正，矯正，改正"},{"f":"￹￺to reprove￻修改,校正,重新"}]}],"t":"salof"}
+,"salofal":{"h":[{"d":[{"f":"￹￺a tamarisk tree * Weeping Willow￻垂柳"}]}],"t":"salofal"}
+,"salog":{"h":[{"d":[{"e":["￹`O~ `sapa~`salog~ `konini~.￺This is a token gift.￻這是一點意思以表心意","￹`log~ `cigra~ `a~ `komaen~ `to~ `'pah~.￺He drank just a little bit of wine.￻他象徵性的喝一點酒"],"f":"￹￺a token amount * a gift that is not calculated to pay for service￻象徵性的，意思意思的，很少的；象徵性的給一點禮金意思意思"}]}],"t":"salog"}
+,"salogan":{"h":[{"d":[{"s":["`sanegseg~"],"e":["￹`logan~ `kiso~ `a~ `ci~`riko'~ `tono~ `tayrig~.￺You look good dressed in a police uniform.￻你穿警服看起來很瀟洒"],"f":"￹￺to be fitting * becoming￻很適合，很標緻"}]}],"t":"salogan"}
+,"salogasog":{"h":[{"d":[{"f":"￹￺an edible seaweed * red colored￻紅色可食用的海草"}]}],"t":"salogasog"}
+,"saloklon":{"h":[{"d":[{"s":["`loklon~"],"f":"￹￺a path for descending￻下坡道"}]}],"t":"saloklon"}
+,"salonan":{"h":[{"d":[{"f":"￹￺a plant * Raisha Calanthe * an orchid￻根節蘭"},{"f":"￹￺Common Camellia￻颱風草"}]}],"t":"salonan"}
+,"salopiko":{"h":[{"d":[{"s":["`piko~","`lopiko~"],"f":"￹￺an intersection￻有彎路的地方，轉彎處"}]}],"t":"salopiko"}
+,"salowasi":{"h":[{"d":[{"f":"￹￺seaweed￻馬尾藻"}]}],"t":"salowasi"}
+,"saloya":{"h":[{"d":[{"f":"￹￺to waste * referring to food * things * time￻浪費；指浪費食物，東西，時間"}]}],"t":"saloya"}
+,"sama%27":{"h":[{"d":[{"f":"￹￺tender edible greens which look somewhat like dandelions￻山萵苣 (蕨類)"}]}],"t":"sama'"}
+,"samaanen":{"h":[{"d":[{"e":["￹`Sa~`maan~`en~ `ita~ `ko~ `tayal~?￺How do we do the work?￻我們如何做這份工作呢？"],"f":"￹￺how? * how to do?￻怎麼樣，如何?"},{"s":["`anen~","`maan~"],"e":["￹`Ma~`'deg~ `samaanen~. `Awaay~ `ko~ `lalan~ `ita~.￺There is nothing that can be done about it. We have no way.￻無可奈何！我們沒有辦法可行"],"f":"￹￺method to do￻怎麼做"}]}],"t":"samaanen"}
+,"samadah":{"h":[{"d":[{"e":["￹`madahen~ `ko~ `pi~`sti'~ `toya~ `wawa~￺Don't beat that child hard.￻輕輕地打那個小孩，打小孩不要出手太重","￹`madahen~ `ko~ `pasowal~ `toya~ `wawa~.￺Be gentle the way you address / rebuke that child.￻溫柔的告訴那小孩，責備的意思不要很重","￹`Caay~ `ka~ `samadah~ `ko~ `pi~`sti'~ `ako~.￺I beat without mercy.￻我重重的打毫不施予仁慈"],"f":"￹￺to do something gently￻輕輕的，柔和地"}]}],"t":"samadah"}
+,"samado":{"h":[{"d":[{"s":["`lipanay~"],"f":"￹￺tares￻生長在水稻中的壞植物，長相酷似水稻的草"}]}],"t":"samado"}
+,"samamaw":{"h":[{"d":[{"s":["`'adapaw~"],"f":"￹￺Refer to `'adapaw~￻詳見 `'adapaw~"}]}],"t":"samamaw"}
+,"samao":{"h":[{"d":[{"f":"￹￺a wild edible leafy vegetation￻可食用的蔬菜葉"}]}],"t":"samao"}
+,"sameced":{"h":[{"d":[{"s":["`mdac~"],"f":"￹￺to eat only one kind of food on the table￻偏食，僅吃桌上一種食物的偏食惡習"}]}],"t":"sameced"}
+,"samisi":{"h":[{"d":[{"e":["￹`Ma~`samisi~`misi~ `ko~ `dmak~ `nira~.￺He didn't act quite right / his acts were not fitting for the occasion￻他的作法不完好，只差一點點，他做的不完善","￹`Ma~`samisi~ `ko~ `pi~`latag~ `nira~.￺He didn't measure out quite the right amount.￻他測量的不完全正確"],"f":"￹￺off just a little from being right in size or becoming to the situation * not quite right￻捉襟見肘，只差一點，不完全"}]}],"t":"samisi"}
+,"samiyay":{"h":[{"d":[{"f":"￹￺idols * images * objects of worship￻偶像，塑像，神像，拜佛教的"}]}],"t":"samiyay"}
+,"samiyot":{"h":[{"d":[{"s":["`hmot~"],"f":"￹￺the end of rectum * anus￻肛門"}]}],"t":"samiyot"}
+,"samo%27":{"h":[{"d":[{"e":["￹`Ci~`samo'~ `ko~ `citosiya~ `ako~.￺My car has a defect.￻我車有毛病，我的車有缺陷","￹`Ci~`samo'~ `ko~ `faloco'~ `nira~.￺His heart has a defect (literally or figuratively).￻他的心理有缺陷 (字面上或比喻上的)"],"f":"￹￺a defect￻缺陷，短處，不足，缺乏"}]}],"t":"samo'"}
+,"samokon":{"h":[{"d":[{"s":["`mokon~"],"f":"￹￺a hammer (from Amoy dialect)￻鐵鎚 (引自閩南語)"}]}],"t":"samokon"}
+,"samolal":{"h":[{"d":[{"e":["￹`Ma~`samolal~ `ko~ `'ogcoy~ `no~ `riyar~.￺The rocks in the ocean can be seen (because the tide is out).￻海裡的岩石因退潮而顯露出來了","￹`Ma~`samolal~`to~ `ko~ `folad~ `anini~.￺The moon is starting to show a little sliver.￻月亮今天漸漸開始顯出細長條狀的形狀","￹`Ma~`samolal~`to~ `ko~ `ni~`paloma~`an~ `ako~ `a~ `dateg~.￺The vegetables I planted are starting to show.￻我播種的蔬菜已發芽了"],"f":"￹￺to turn up * to become evident￻出現，顯現，掘起，仰上"}]}],"t":"samolal"}
+,"samoro":{"h":[{"d":[{"f":"￹￺Milk Tree￻豬母乳"},{"s":["`haherher~"],"f":"￹￺Common Yellow Stem-fig (Fiscus fistulosa Reinw.)￻稜果桐"}]}],"t":"samoro"}
+,"samsam":{"h":[{"d":[{"e":["￹`msamen~ `no~ `tata'ag~`ay~ `a~ `wawa~ `ko~ `magay~ `a~ `wawa~.￺The big boys mistreated the small boys.￻大的欺負小的孩子","￹`Ma~`samsam~ `nira~ `kako~.￺He mocked me.￻我被他愚弄"],"f":"￹￺to mistreat * insult * mock￻欺侮，虐待，諷刺"}]}],"t":"samsam"}
+,"sanalsal":{"h":[{"d":[{"s":["`sanasal~"],"f":"￹￺to tickle * be ticklish￻逗癢，輕癢的感覺"}]}],"t":"sanalsal"}
+,"sanasal":{"h":[{"d":[{"s":["`sanalsal~"],"f":"￹￺to be ticklish￻被搔癢"}]}],"t":"sanasal"}
+,"sanawsaw":{"h":[{"d":[{"f":"￹￺to be unsettled in spirit * jumpy * not give attention to the thing at hand, i.e. to be thinking about food when he should be studying￻很恐慌，沒有安全感，恐懼憂戚；當他在讀書時直想到吃的東西直坐立不安"}]}],"t":"sanawsaw"}
+,"sanay":{"h":[{"d":[{"f":"￹￺a grammatical particle similar to the force of saan but with the force of a substantive￻文法上的特別用詞，與 saan 相似不過是靠實質力量"},{"f":"￹￺a summary of what a person thought or said￻簡述某人的意思或說過的話"},{"e":["￹`Ma~`toka~ `kako~ `o~ `sanay~ `nira~.￺He is saying he is lazy.￻他是在說，他很懶惰"],"f":"￹￺a descriptive of what the character of something is￻描述某事物的特質"}]}],"t":"sanay"}
+,"sanayasay":{"h":[{"d":[{"f":"￹￺Green Island off the east coast of Taiwan￻綠島"}]}],"t":"sanayasay"}
+,"sanegseg":{"h":[{"d":[{"f":"￹￺just right￻恰到好處　"},{"s":["`salogan~"],"e":["￹`negseg~ `a~ `negneg~`en~ `ko~ `ciriko'~ `iso~ `tonini~.￺It looks very appropriate and fitting for you to wear those clothes.￻你穿這件衣服看起來很標緻"],"f":"￹￺appropriate * fitting * becoming￻很標緻，適當，適切的"}]}],"t":"sanegseg"}
+,"sanek":{"h":[{"d":[{"s":["`hanek~"],"e":["￹`Ma~`sanek~ `koya~ `titi~.￺That meat smells (like it is going to spoil).￻這豬肉的味道不好"],"f":"￹￺a bad odor * smell￻嗅味"}]}],"t":"sanek"}
+,"sano":{"h":[{"d":[{"f":"￹￺a grammatical particle indicating simultaneous activity * i.e. doing two things at the same time￻文法用詞指兩件事是在同時發生"}]}],"t":"sano"}
+,"saog":{"h":[{"d":[{"f":"￹￺a hat made of reeds and grass￻斗笠"},{"s":["`hnay~"],"f":"￹￺an umbrella￻雨傘"}]}],"t":"saog"}
+,"sapa":{"h":[{"d":[{"s":["`ckok~"],"e":["￹`O~ `maan~ `ko~ `ka~`sapa~`an~ `iso~ `graan~?￺What surprises you about him? (implied change or something impressive)￻你到底忌諱他甚麼?"],"f":"￹￺to be surprised￻驚駭，訝異，驚訝"},{"e":["￹`Ma~`sapa~ `ko~ `tireg~ `nira~ `a~ `negneg~`en~.￺He looks well and lazy.￻你看起來很好但懶散"],"f":"￹￺to be physically able but lazy￻可以做而不做，生理上能，但很懶惰"}]}],"t":"sapa"}
+,"sapa%27alofo":{"h":[{"d":[{"f":"￹￺a thank offering￻報酬，謝禮金"},{"f":"￹￺a bribe￻紅包，賄路，行賄之物"}]}],"t":"sapa'alofo"}
+,"sapa%27ayaw":{"h":[{"d":[{"e":["￹`sapa'ayaw~ `a~ `tilid~￺letters of recommendation￻序言，推薦書，介紹信"],"f":"￹￺N/A￻N/A"}]}],"t":"sapa'ayaw"}
+,"sapa%27ciw":{"h":[{"d":[{"s":["`rocwi~"],"f":"￹￺a goad for hitting￻靶"}]}],"t":"sapa'ciw"}
+,"sapa%27nor":{"h":[{"d":[{"s":["`sapatnod~"],"f":"￹￺Refer to `sapatnod~￻詳見 `sapatnod~"}]}],"t":"sapa'nor"}
+,"sapa%27orip":{"h":[{"d":[{"f":"￹￺the provision of salvation￻拯救的定規"}]}],"t":"sapa'orip"}
+,"sapaco%27ay":{"h":[{"d":[{"s":["`co'ay~"],"f":"￹￺something to give back after receiving￻用於回報的東西，收別人的東西後用於回敬的東西"}]}],"t":"sapaco'ay"}
+,"sapad":{"h":[{"d":[{"e":["￹`o~ `sapa~`sapad~ `to~ `pa'nan~￺for making a board floor￻是要做地板用的木板"],"f":"￹￺a board made of wood￻板子，木板"},{"f":"￹￺the floor madefrom wood￻木製地板"},{"s":["`cokoi~","`masasapaday~","`misasapad~"],"f":"￹￺a table￻桌子"}]}],"t":"sapad"}
+,"sapadamso%27":{"h":[{"d":[{"s":["`damso'~"],"f":"￹￺payment of taxes (Hualien dialect)￻稅金，稅款(花蓮南勢阿美語)"}]}],"t":"sapadamso'"}
+,"sapafagsis":{"h":[{"d":[{"s":["`fagsis~"],"f":"￹￺method to make sweet smelling or tasting￻加香味的方法，香水，香劑"}]}],"t":"sapafagsis"}
+,"sapagiraw":{"h":[{"d":[{"s":["`giraw~","`sa~`giraw~"],"f":"￹￺gifts to carry with￻贈送，贈與"}]}],"t":"sapagiraw"}
+,"sapaini":{"h":[{"d":[{"f":"￹￺a gift￻禮物，贈"},{"s":["`paini~"],"f":"￹￺a contribution￻贈品，捐助，捐贈，獻金"}]}],"t":"sapaini"}
+,"sapakoyocay":{"h":[{"d":[{"s":["`pakoyoc~"],"f":"￹￺the poorest person￻最貧窮的人"}]}],"t":"sapakoyocay"}
+,"sapal":{"h":[{"d":[{"f":"￹￺the sprouting of plants as the first tender shoots that come out of the ground￻苗，種苗，種子，芽，萌芽，發芽"}]}],"t":"sapal"}
+,"sapalit":{"h":[{"d":[{"s":["`palit~"],"f":"￹￺instrument for snaring * as handcuffs￻手銬，監獄，逮捕 工具"}]}],"t":"sapalit"}
+,"sapaloma":{"h":[{"d":[{"s":["`pipalomaan~","`paloma~","`mapaloma~"],"f":"￹￺seed￻種子"}]}],"t":"sapaloma"}
+,"sapana%27":{"h":[{"d":[{"s":["`pana'~"],"f":"￹￺arrows￻箭"}]}],"t":"sapana'"}
+,"sapasikaen":{"h":[{"d":[{"s":["`kaen~"],"f":"￹￺food used for a meal￻副食品，菜"}]}],"t":"sapasikaen"}
+,"sapat":{"h":[{"d":[{"s":["`t~"],"f":"￹￺name of an Amis village￻瑞穗鄉三民村部落"}]}],"t":"sapat"}
+,"sapatnod":{"h":[{"d":[{"s":["`sapa'nor~"],"f":"￹￺an anchor for a shop￻船錨"}]}],"t":"sapatnod"}
+,"sapay":{"h":[{"d":[{"s":["`ropay~"],"e":["￹`Ma~`sapay~ `ko~ `pipalomaan~ `to~ `dateg~.￺The vegetable garden is clear and level for planting.￻種植蔬菜之地已弄平了"],"f":"￹￺to level and clear land￻使之平坦，弄平，水平，平地"},{"s":["`slic~","`sowapay~"],"f":"￹￺a sled￻農耕用的截物橇"}]}],"t":"sapay"}
+,"sapayo":{"h":[{"d":[{"f":"￹￺medicine￻藥"},{"f":"￹￺poison￻肥料，農藥"},{"s":["`payo~"],"f":"￹￺insecticide￻殺蟲劑"}]}],"t":"sapayo"}
+,"sapdek":{"h":[{"d":[{"s":["`pdek~"],"f":"￹￺eyelashes * something for blinking￻眼皮"}]}],"t":"sapdek"}
+,"sapi%27":{"h":[{"d":[{"e":["￹`Ma~`sapi'~ `ko~ `panay~ `anini~.￺The grain is now fallen on the ground from its weight.￻稻穗結實的低垂下來"],"f":"￹￺to be heavy and fall over￻巨大植物倒下，傾倒"}]}],"t":"sapi'"}
+,"sapidiwas":{"h":[{"d":[{"s":["`diwas~"],"f":"￹￺instrument for stretching and winding thread￻這器具是用來纏結線的工具"}]}],"t":"sapidiwas"}
+,"sapifihkac":{"h":[{"d":[{"s":["`fihkac~"],"f":"￹￺a bird snare￻捕抓鳥的捕獵器"}]}],"t":"sapifihkac"}
+,"sapihpih":{"h":[{"d":[{"s":["`pihpih~"],"f":"￹￺a fan￻扇子"}]}],"t":"sapihpih"}
+,"sapikpik":{"h":[{"d":[{"s":["`pikpik~"],"f":"￹￺wing * wings￻翅膀"}]}],"t":"sapikpik"}
+,"saplek":{"h":[{"d":[{"s":["`sapdek~","`plek~"],"f":"￹￺eyelashes￻眼皮"}]}],"t":"saplek"}
+,"sapsap":{"h":[{"d":[{"e":["￹`psapen~ `ko~ `tireg~ `iso~.￺Feel your body.￻摸摸你的身體"],"f":"￹￺to feel with one's hands￻用手感觸"},{"e":["￹`Paka~`sapsap~ `ko~ `was~ `to~ `faloco'~ `ita~.￺God is able to feel / find out our inner hearts.￻上帝能夠洞察我們內心的意念，上帝能摸清我們的心意"],"f":"￹￺to figuratively feel * find out￻比喻上感覺，發現……"}]}],"t":"sapsap"}
+,"sarad":{"h":[{"d":[{"s":["`soped~"],"e":["￹`Ma~`sarad~ `ko~ `'onig~ `noya~ `tamdaw~.￺The dirt has accumulated on that person.￻那個人身上積滿污垢","￹`Ma~`sarad~ `ko~ `aasipen~ `ako~ `a~ `tikami~.￺Letters have accumulated for me to read.￻我要閱讀的信，堆積如山","￹`O~ `sa~`sarad~`en~ `ita~ `ko~ `nanom~.￺We must accumulate / collect water.￻我們必須儲存水"],"f":"￹￺to accumulate￻集中，堆積"}]}],"t":"sarad"}
+,"saradaw":{"h":[{"d":[{"s":["`ki'ciw~"],"f":"￹￺to start off a song * to start out singing with others to join in￻開頭領唱者主唱後，群眾複誦相互應唱 (如在豐年季或慶典時在歌舞中圍成一圈時其中有一人領唱)"}]}],"t":"saradaw"}
+,"sarareman":{"h":[{"d":[{"s":["`rarem~","`masararem~"],"f":"￹￺the person at the back * the most inferior person in rank￻後面的人，下級的人"}]}],"t":"sarareman"}
+,"saraw":{"h":[{"d":[{"s":["`raw~"],"f":"￹￺a demon who deceives small children and leads them astray * appearing as the mother.  Saraw is very tall and puts children in trees or on high cliffs.￻偽裝成母親騙小孩並引領小孩走錯誤的鬼魂。Saraw 是又高又大的魔鬼，牠會把小孩懸吊在樹梢或懸崖上"}]}],"t":"saraw"}
+,"sargad":{"h":[{"d":[{"f":"￹￺a plant.  Caryot Palm (caryota mitis)￻孔雀椰子"},{"f":"￹￺Golden Shower (Cassia fistula) used to make brooms￻孔雀椰子的葉子，可製作成掃把"}]}],"t":"sargad"}
+,"sarina%27":{"h":[{"d":[{"s":["`rina'~"],"f":"￹￺a chop * stamp￻印章"}]}],"t":"sarina'"}
+,"saripa%27":{"h":[{"d":[{"s":["`ripa'~","`taripa'an~","`pasaripa'an~"],"f":"￹￺the bottom of the foot or hoof￻腳掌，腳底"}]}],"t":"saripa'"}
+,"saritrit":{"h":[{"d":[{"s":["`ritrit~"],"f":"￹￺a sickle￻鐮刀(割稻用)"}]}],"t":"saritrit"}
+,"sarocod":{"h":[{"d":[{"e":["￹`O~ `maan~ `ko~ `ka~`sarocod~`an~ `iso~ `anini~?￺What are you giving yourself to at present?￻你現所專注的意念是什麼?","￹`Sa~`rocod~`en~ `ko~ `faloco'~ `iso~ `a~ `ma~`olah~ `to~ `was~.￺Give yourself wholly to loving God.￻你要盡心，盡意，盡性的愛主"],"f":"￹￺to be single-minded * to give oneself completely to￻一心一意，專心一致，全心全意把自己奉獻給……"}]}],"t":"sarocod"}
+,"sarocor":{"h":[{"d":[{"s":["`ma~`rikec~"],"f":"￹￺to be agreed￻團結一致的"}]}],"t":"sarocor"}
+,"sarosaros":{"h":[{"d":[{"f":"￹￺a saw￻鋸子"}]}],"t":"sarosaros"}
+,"sasagi":{"h":[{"d":[{"e":["￹`Ma~`sasagi~ `ko~ `ma~`palit~`ay~.￺The imprisoned person is tortured.￻受刑人被審問 (審訊)","￹`sagien~ `no~ `wawa~ `ko~ `waco~.￺The children tortured the dog.￻小孩折磨小狗"],"f":"￹￺to torture￻烤問，審問"}]}],"t":"sasagi"}
+,"sasait":{"h":[{"d":[{"s":["`sait~"],"f":"￹￺scissors￻剪刀"}]}],"t":"sasait"}
+,"sasaw":{"h":[{"d":[{"s":["`sawsaw~"],"f":"￹￺generic word for wash￻洗的總稱"}]}],"t":"sasaw"}
+,"sasfet":{"h":[{"d":[{"s":["`sfet~"],"f":"￹￺a rubber band or string or tie￻要綁的繩子，或橡皮筋或細帶或飾帶"}]}],"t":"sasfet"}
+,"sasifin":{"h":[{"d":[{"s":["`sifin~"],"f":"￹￺towel￻毛巾，抹布"}]}],"t":"sasifin"}
+,"sasifod":{"h":[{"d":[{"e":["￹`Ma~`sasifod~ `ko~ `faloco'~ `ako~ `anini~.￺My heart / emotions are all mixed up / tangled right now.￻今天我有千千結","￹`Aka~ `sa~`sifod~`en~ `ko~ `kliw~.￺Don't tangle the string.￻不要把繩子纏結在一起"],"f":"￹￺to tangle * be tangled, with literal and figurative meanings￻纏結，打結，糾纏；字面上和比喻上的意義"}]}],"t":"sasifod"}
+,"sasig":{"h":[{"d":[{"e":["￹`sapi~`sasig~￺camera￻照像機","￹`Ma~`sasig~ `nira~ `kako~.￺He took my picture.￻他照了我的相，我被他攝入鏡頭","￹`g~ `kita~.￺Let's have our pictures taken.￻我們去照像"],"f":"￹￺a photo picture * to take a picture￻相片，肖像，玉照"}]}],"t":"sasig"}
+,"sasigaran":{"h":[{"d":[{"f":"￹￺window * window casing￻窗戶 (門窗的框)"}]}],"t":"sasigaran"}
+,"sasimi":{"h":[{"d":[{"f":"￹￺raw fish (from Japanese)￻生魚片 (引自日語)"},{"f":"￹￺to eat raw meat￻吃生肉"}]}],"t":"sasimi"}
+,"sasla%27an":{"h":[{"d":[{"s":["`sla'~"],"f":"￹￺the breath of life￻呼吸器，氣孔，生命的氣息"}]}],"t":"sasla'an"}
+,"saslican":{"h":[{"d":[{"s":["`slic~"],"f":"￹￺a place to slide * as the runners for a sliding door￻滑溜的地方(溜滑梯)，滑溜的通道(門的滑道)"}]}],"t":"saslican"}
+,"sasnat":{"h":[{"d":[{"s":["`snat~"],"f":"￹￺the rake pulled by buffalo in flooded fields￻用水牛拉耙機在水田上使田地平坦"}]}],"t":"sasnat"}
+,"sastel":{"h":[{"d":[{"s":["`stel~"],"f":"￹￺a knife￻刀刃"}]}],"t":"sastel"}
+,"sata":{"h":[{"d":[{"e":["￹`O~ `lisataay~ `~ `Cakay~.￺Zacchaeus was a tax collector.￻撒該是稅吏","￹`Caay~ `ko~ `sa~`sata~`en~ `no~ `hogti~ `ko~ `loma'~ `nira~.￺The king will not levy taxes on his home.￻國王不徵收房屋課稅，國王不收自己的房屋稅"],"f":"￹￺tax￻稅金"},{"e":["￹`Pasa~`ta~ `kita~ `to~ `tigki~.￺We pay our electric bill.￻我們要去繳電費"],"f":"￹￺a charge * fee￻索(價)，要(錢)，課(稅)"}]}],"t":"sata"}
+,"sata%27os":{"h":[{"d":[{"e":["￹`O~ `ma~`tkes~`ay~ `a~ `sata'os~ `ko~ `sapi~`sipasip~ `~ `riya~ `to~ `tireg~ `~ `Yis~.￺Mary anointed Jesus with expensive perfume.￻馬利亞用高貴的油膏抹在耶穌的身上","￹`ta'osay~ `ko~ `fokes~ `nira~.￺His hair is full of hair oil.￻他頭髮有抹髮油"],"f":"￹￺perfume * fragrant oil￻香水，香油"},{"f":"￹￺shampoo made from the ashes of straw￻用糯米穗草燒成灰燼後浸泡水中過濾後留下來的水稱 ta'os，昔日阿美族婦女常用這種水洗頭"}]}],"t":"sata'os"}
+,"satadamata":{"h":[{"d":[{"e":["￹`tadamatamata~ `han~ `ako~ `a~ `mi~`negneg~ `'i~, `caay~ `ka~ `hapinag~ `ako~.￺I looked very closely at it but couldn't make out what it was.￻我靠近地看它但還是不能看出那是什麼東西"],"f":"￹￺to look very closely at something￻密切注意，專注，看清楚"}]}],"t":"satadamata"}
+,"satan":{"h":[{"d":[{"s":["`tag~"],"f":"￹￺title for the devil * Satan￻撒但"}]}],"t":"satan"}
+,"satapag":{"h":[{"d":[{"s":["`tapag~"],"f":"￹￺to begin￻開始，直因，起初"}]}],"t":"satapag"}
+,"satapagan":{"h":[{"d":[{"f":"￹￺the beginning * starting point * Genesis * a book of the Bible￻源頭，起因；創世紀，聖經第一卷"}]}],"t":"satapagan"}
+,"satfo":{"h":[{"d":[{"s":["`Sa~`tfo~"],"f":"￹￺the name of an Amis village￻瑞穗鄉下德武部落"}]}],"t":"satfo"}
+,"satlec":{"h":[{"d":[{"s":["`safaked~","`safakec~","`tlec~"],"f":"￹￺belt￻腰帶，皮帶"}]}],"t":"satlec"}
+,"satnok":{"h":[{"d":[{"s":["`tnok~"],"f":"￹￺heel * part of the foot￻後腳跟，踵"}]}],"t":"satnok"}
+,"satnooy":{"h":[{"d":[{"s":["`tnooy~"],"f":"￹￺a weaver's loom￻織布機"}]}],"t":"satnooy"}
+,"sato":{"h":[{"d":[{"f":"￹￺a dry measure for measuring grain￻稱量器，量杯，斗量"},{"e":["￹`Yo~ `ma~`tgil~ `ako~ `ko~ `sowal~ `nira~ `'i~, `kter~ `sato~ `kako~.￺When I heard what he said I became angry.￻當我聽到他說的話後，我很生氣"],"f":"￹￺a grammatical particle indicating a response at a point of time in the sequence of action￻在文法是指時態的關聯"}]}],"t":"sato"}
+,"satoko":{"h":[{"d":[{"f":"￹￺a large black beam used in the stucture of Amis homes￻阿美族用房標做屋上的橫木"},{"f":"￹￺a mast on a ship￻船的中間柱子"}]}],"t":"satoko"}
+,"satoktok":{"h":[{"d":[{"s":["`samokon~","`toktok~"],"f":"￹￺a hammer￻鐵鎚"}]}],"t":"satoktok"}
+,"satopa":{"h":[{"d":[{"s":["`sarina'~","`topa~"],"f":"￹￺a chop * a stamp￻印章，印記，戳記"}]}],"t":"satopa"}
+,"satoro%27":{"h":[{"d":[{"s":["`toro'~"],"f":"￹￺the forefinger￻食指"}]}],"t":"satoro'"}
+,"satrek":{"h":[{"d":[{"s":["`trek~"],"f":"￹￺food saved￻儲存之食物"}]}],"t":"satrek"}
+,"saw":{"h":[{"d":[{"f":"￹￺a question particle indicating that the speaker expects the answer to be obvious￻疑問句，指說話者的期望能獲得更具體的回答"}]}],"t":"saw"}
+,"sawad":{"h":[{"d":[{"e":["￹`O~ `misawad~ `kako~ `to~ `tiraay~ `a~ `tayal~.￺I am going to quit that kind of work.￻那種工作我將要辭掉","￹`O~ `pi~`sawad~ `iso~ `a~ `mitamako~ `ko~ `ga'ay~.￺You should quit smoking.￻你最好把香烟戒掉","￹`Mala~`sawad~`to~ `ko~ `ni~`harateg~`an~ `ako~.￺I have given up that thinking.￻我已經放棄那種思想","￹`ma~`sa~`sawad~ `ko~ `ka~`ra~`ramod~￺divorced￻夫妻離婚"],"f":"￹￺to give up * quit￻放棄，停止"},{"e":["￹`palasawadto~ `koya~ `niyaro'~.￺That village has ceased to exist.￻那個村落已成廢墟了"],"f":"￹￺to disappear * no longer exist￻失蹤，消失"},{"s":["`hawad~"],"e":["￹`wad~ `kako~ `a~ `mi~`tilid~.￺1. I graduated from school.  2. I quit school.￻1. 我從學校畢業  2. 我離開學校"],"f":"￹￺to graduate￻畢業"}]}],"t":"sawad"}
+,"sawarak":{"h":[{"d":[{"s":["`warak~"],"f":"￹￺poison￻毒藥"}]}],"t":"sawarak"}
+,"sawfag":{"h":[{"d":[{"s":["`parok~"],"f":"￹￺heavy quilts * pugai * made from cotton-like stuffing￻棉被"}]}],"t":"sawfag"}
+,"sawi":{"h":[{"d":[{"f":"￹￺to tempt * persuade to do something that is wrong￻試探，試驗，引誘，錯事"},{"e":["￹`Ma~`sawi~ `nira~ `ko~ `faloco'~ `ako~.￺He influenced me negatively.￻他從反面影響我","￹`Aka~ `wien~ `cigra~.￺Don't tempt him.￻別引誘他"],"f":"￹￺to influence negatively￻從反面影響之"}]}],"t":"sawi"}
+,"sawihawih":{"h":[{"d":[{"f":"￹￺the tail of a fish￻魚的尾巴"}]}],"t":"sawihawih"}
+,"sawkit":{"h":[{"d":[{"f":"￹￺to judge * pass judgment upon in the formal sense only￻判斷，審判"}]}],"t":"sawkit"}
+,"sawsaw":{"h":[{"d":[{"s":["`sasaw~"],"f":"￹￺generic word for wash￻\"洗\"的總稱"}]}],"t":"sawsaw"}
+,"say%27od":{"h":[{"d":[{"f":"￹￺Spanish Mackerel (Scomberomorus commerson) * a species of fish￻雨傘旗魚"}]}],"t":"say'od"}
+,"saycar":{"h":[{"d":[{"f":"￹￺common Adam's Needle (Yucca gloriosa) * a cactus with white flowers  (from Japanese)￻刺葉玉蘭，開白花之仙人掌 (引自日語)"}]}],"t":"saycar"}
+,"sayho":{"h":[{"d":[{"e":["￹`O~ `misa~`sayho~`ay~ `cigra~ `to~ `kilag~.￺He is an expert in wood working.￻他是木工專家，他是木匠"],"f":"￹￺an expert (from Amoy dialect)￻專家，師父 (引自閩南語)"}]}],"t":"sayho"}
+,"sayma":{"h":[{"d":[{"s":["`ropay~"],"f":"￹￺to flatten ground and make it level￻使水平，水平面"},{"f":"￹￺to comfort * to bring confusion to an end￻安慰 (使其疑惑消除)"},{"f":"￹￺to plane off wood so that it is smooth￻將木刨平使之平滑"}]}],"t":"sayma"}
+,"saynay":{"h":[{"d":[{"f":"￹￺to act childish in front of adults￻撒嬌"},{"f":"￹￺to woo * win with love￻懇求愛，博得愛"},{"s":["`talimola'~"],"f":"￹￺foreplay in making love￻強迫得到愛 (FIXME)"}]}],"t":"saynay"}
+,"saysay":{"h":[{"d":[{"e":["￹`ysayen~ `ko~ `fokes~ `iso~.￺Fix up your hair.￻你的頭髮梳一梳","￹`Ma~`saysay~`to~ `ko~ `fali~.￺The wind stopped blowing.￻風已平靜了","￹`ysayen~ `nira~ `ko~ `sowal~ `niyam~.￺He stopped our quarrel.￻他平息了我們的爭吵"],"f":"￹￺to fix something up so that it is neat and orderly￻修飾使之整齊"}]}],"t":"saysay"}
+,"saytaw":{"h":[{"d":[{"e":["￹`hgagay~ `a~ `saytaw~￺carrots￻紅蘿蔔"],"f":"￹￺large white radish￻白蘿蔔"}]}],"t":"saytaw"}
+,"sdak":{"h":[{"d":[{"e":["￹`Na~`mimaan~ `kiso~ `iro~ `sdak~ `~ `ira~ `kiso~ `anini~?￺What have you been doing that you should suddenly turn up?￻你在搞什麼，為何突然出現？(什麼風把你給吹來了?)"],"f":"￹￺to suddenly appear￻突然出現"}]}],"t":"sdak"}
+,"sdal":{"h":[{"d":[{"f":"￹￺to loosen a knot￻真正的解放"},{"f":"￹￺to set free literally￻真正解放"},{"s":["`tdal~"],"e":["￹`Ma~`fana'~ `~ `Yis~ `a~ `mi~`sdal~ `to~ `faloco'~ `ita~￺Jesus knows how to set our hearts free.￻耶穌會解開我們的心結"],"f":"￹￺to figuratively set free the heart￻象徵性的解脫心靈，比喻上指心靈解脫釋懷"}]}],"t":"sdal"}
+,"sday":{"h":[{"d":[{"e":["￹`Ma~`sday~ `koya~ `sasig~.￺That picture dropped of its own accord (from hanging.)￻他的像框掉下來了 (從懸掛處)"],"f":"￹￺to drop of its own accord from hanging￻從懸掛的高處掉下來"},{"f":"￹￺to be unconscious￻不省人事，失去意識"}]}],"t":"sday"}
+,"sdef":{"h":[{"d":[{"s":["`tafa'~"],"f":"￹￺to dam * a dam￻堵住水壩"}]}],"t":"sdef"}
+,"sdeg":{"h":[{"d":[{"f":"￹￺nettles * Urtica tumbergiana￻咬人貓"},{"f":"￹￺the name of a village￻花蓮縣玉里鎮大禹部落名"}]}],"t":"sdeg"}
+,"sdi":{"h":[{"d":[{"e":["￹`Ma~`sdi~ `ko~ `pisig~ `nira~.￺His face is smiling.￻他的臉露出微笑"],"f":"￹￺a smile￻微笑"}]}],"t":"sdi"}
+,"sefsef":{"h":[{"d":[{"f":"￹￺to strain * filter out substance from liquid￻擰 (以將物質從液中濾出) 過濾 (用漏斗過濾)"}]}],"t":"sefsef"}
+,"seksek":{"h":[{"d":[{"s":["`cekcek~"],"e":["￹`Sekseken~ `a~ `mi~`paro~ `ko~ `panay~ `i~ `pawti~.￺Shake down and pack solidly the rice into the sacks.￻將袋中的米抖緊並打包好"],"f":"￹￺to shake contents down so that they settle￻將東西往下抖震以使穩固，搖動容器中的貨物使容量增至最大限度"}]}],"t":"seksek"}
+,"semsem":{"h":[{"d":[{"e":["￹`Mi~`semsem~ / `ma~`semsem~ `koya~ `adada~`ay~.￺That sick person is suffering.￻那病人忍受病痛的煎熬","￹`pasemsem~ `nira~ `kako~.￺He tormented / tortured me.￻他折磨我，他虐待我"],"f":"￹￺to suffer * torment￻受煎熬，忍受折磨"}]}],"t":"semsem"}
+,"serser":{"h":[{"d":[{"e":["￹`Serserenho~ `ko~ `pi~`paloma'~`an~.￺Let the land settle for awhile where (you) are going to build a house.￻讓你將建築房的這塊地稍微穩固一下，建築房子前將建地暫且放著使泥土堅實穩固"],"f":"￹￺to settle down￻挖地基，定居，穩定"}]}],"t":"serser"}
+,"sfay":{"h":[{"d":[{"f":"￹￺to hang on after being broken￻垂吊※因斷裂而懸吊"},{"e":["￹`Ma~`sfay~ `ko~ `ca'ag~ `no~ `kilag~.￺The branch is dangling but attached.￻那樹枝搖晃著，但還沒有斷 (斷枝倒懸在樹上)"],"f":"￹￺to be hanging from one end￻一端懸吊著"},{"e":["￹`Ma~`sfay~ `ko~ `riko'~ `nira~.￺His clothing is on crooked / or buttoned incorrectly.￻他的衣服穿得歪七扭八的 (扣子扣錯了)"],"f":"￹￺to be crooked￻被彎曲，弄彎"}]}],"t":"sfay"}
+,"sfeg":{"h":[{"d":[{"f":"￹￺to watch and herd animals￻看護一羣動物"},{"f":"￹￺to guard from enemy￻看守壞人(FIXME)"},{"s":["`pisfegan~"],"f":"￹￺to case out a person￻看顧某人"}]}],"t":"sfeg"}
+,"sfek":{"h":[{"d":[{"e":["￹`Ma~`sfek~ `ko~ `pi~`fotig~ `nira~.￺He caught a lot of fish￻他捕到很多魚"],"f":"￹￺to have a lof of￻很多，豐富，大量"}]}],"t":"sfek"}
+,"sfel":{"h":[{"d":[{"s":["`cnon~"],"e":["￹`Caay~ `ka~ `sfel~ `koya~ `fafahi~.￺That wife is enduring i.e. she does not leave the situation.￻那位太太很堅忍, 他沒有逃避現實","￹`Mi~`negneg~ `koya~ `wawa~ `to~ `kiyafes~ `'i~, `ma~`sfel~`to~.￺When the child sees the guavas he is afraid (to pick them because of former punishment).￻當那小孩子看見番石榴時，他不敢摘下他們，由於前次的教訓"],"f":"￹￺fear * the kind of fear makes a person avoid a situation out of experience of getting mistreated￻恐懼，因遭人虐待的經歷而產生的一種恐懼逃避某種狀況"}]}],"t":"sfel"}
+,"sfet":{"h":[{"d":[{"s":["`sasfet~"],"e":["￹`Mi~`sfet~ `cigra~ `to~ `li'el~.￺He put on a necktie.￻他打領帶","￹`Mi~`sfet~ `cigra~ `to~ `fokes~.￺He put his hair into a ponytail.￻他紮一個馬尾"],"f":"￹￺to tie into a knot￻打結"}]}],"t":"sfet"}
+,"sfi":{"h":[{"d":[{"f":"￹￺the community gathering house of the Amis village￻阿美村集會所"},{"s":["`'dmi~"],"f":"￹￺kitchen￻廚房"}]}],"t":"sfi"}
+,"sga":{"h":[{"d":[{"f":"￹￺to be bored * tired of something￻膩，厭煩，對某事物厭煩"}]}],"t":"sga"}
+,"sged":{"h":[{"d":[{"e":["￹`Ma~`sged~ `no~ `wawa~ `ko~ `kafoti'an~ `niyam~.￺The children messed up our bedroom.￻我們臥房被孩子弄得一團糟"],"f":"￹￺to mess up * to make disorderly￻使雜亂弄糟"},{"f":"￹￺for debris to collect and stop the flow of water￻水溝堆滿了垃圾使水不能流通"}]}],"t":"sged"}
+,"sger":{"h":[{"d":[{"e":["￹`Ma~`sger~ `ko~ `riko'~ `ako~.￺My clothes are damp / wet.￻我的衣服被淋濕"],"f":"￹￺damp￻浸濕"},{"s":["`'opic~"],"e":["￹`Ma~`sger~ `no~ `'orad~ `ko~ `sra~.￺The rain wet the ground.￻雨水滋潤大地","￹`Sgeren~ `ko~ `flac~.￺Wash the rice for cooking.￻淘米煮飯，把米浸在水中"],"f":"￹￺wet￻濕的"},{"s":["`cpa'~"],"f":"￹￺a species of tree * Formosan Sweet Gum * Fragrant Maple (Liquidambar formosana Hance)￻一種樹，有香味的槭 (楓香)"}]}],"t":"sger"}
+,"si%27ac":{"h":[{"d":[{"s":["`'rac~"],"e":["￹`Ma~`si'ac~ `ko~ `nanom~ `no~ `'alo~.￺The river is dried up.￻河川的水乾涸了"],"f":"￹￺to be gone * referring to water having left an area￻離去 (指水離開某地)"}]}],"t":"si'ac"}
+,"si%27ayawen":{"h":[{"d":[{"f":"￹￺to face towards (someone)￻面向"}]}],"t":"si'ayawen"}
+,"si%27ed":{"h":[{"d":[{"f":"￹￺to choke * to have food get caught in windpipe * to aspirate￻咳(以將食物吐出)，卡在喉中，吐氣"}]}],"t":"si'ed"}
+,"si%27ked":{"h":[{"d":[{"e":["￹`sasi'ike'iked~ `ko~ `aro'~ `no~ `finawlan~.￺The crowd all had places arranged for sitting.￻群眾都有座位，村民各就其位而坐"],"f":"￹￺for each to have its own place or order or arrangement￻各得其所，分門別類，妥善安排"}]}],"t":"si'ked"}
+,"si%27lac":{"h":[{"d":[{"f":"￹￺gravel * pebbles * small rock￻小石子，碎石，砂礫"}]}],"t":"si'lac"}
+,"si%27naw":{"h":[{"d":[{"s":["`kasi'nawan~"],"e":["￹`Si'naw~ `ko~ `romi'ad~. `Ki'tec~ `ko~ `kamay~ `ita~.￺The day is cold. Our hands are cold.￻天氣寒冷，我們的手很冷"],"f":"￹￺cold * referring to weather￻冷 (指天氣)"}]}],"t":"si'naw"}
+,"siciminciw":{"h":[{"d":[{"f":"￹￺turkey * turkeys (from Japanese)￻火雞 (引自日語)"}]}],"t":"siciminciw"}
+,"sicoci":{"h":[{"d":[{"f":"￹￺deacon * deacons (from Japanese)￻執事 (引自日語)"}]}],"t":"sicoci"}
+,"sida%27it":{"h":[{"d":[{"e":["￹`O~ `ka~`sida'it~`an~ `ako~ `a~ `wawa~ `cigra~.￺He is the child I fell concern for.￻他是我最關心的小孩","￹`O~ `sida'it~`ay~ `ko~ `Wama~ `ita~.￺Our Father (in heaven) feels concern for us.￻天父眷顧我們，我們的上帝是最疼愛我們的"],"f":"￹￺concern for * anxiety about * care for￻關心, 擔憂, 憂慮，掛慮，懸念，焦慮"}]}],"t":"sida'it"}
+,"siday":{"h":[{"d":[{"e":["￹`Siday~ `aka~ `haen~`en~ `ko~ `wawa~ `itini~.￺Don't leave the child here (when you go).￻走的時候，別忘了帶走小孩，不要把孩子留在這裡","￹`O~ `tahasidayay~ `ci~`ina~ `ako~.￺My mother deliberately stayed behind.￻我母親有意殿後"],"f":"￹￺to leave behind￻遺失，遺留，遺忘"},{"e":["￹`Ma~`siday~ `ako~ `ko~ `payso~ `ako~.￺I lost my money.￻我遺失了錢，我的錢搞丟了"],"f":"￹￺to lose￻迷失，丟掉"}]}],"t":"siday"}
+,"sidsid":{"h":[{"d":[{"f":"￹￺to drop here and there along the way￻走到那裡，就遺失到哪裡，掉得一路"}]}],"t":"sidsid"}
+,"sifana%27":{"h":[{"d":[{"s":["`fana'~"],"f":"￹￺teachings * instruction￻教訓"}]}],"t":"sifana'"}
+,"sifasif":{"h":[{"d":[{"f":"￹￺to be the same length touching the ground￻接觸於地面四周的長度相同"},{"f":"￹￺to have no strength￻軟弱無力"},{"f":"￹￺to tie * arrive at the goal at the same time￻得分相同※同時到達終點線"},{"f":"￹￺to pan out of water * as to pan gold￻將砂金以鍋淘洗選別 (砂土中出金)"}]}],"t":"sifasif"}
+,"sifed":{"h":[{"d":[{"e":["￹`Mi~`sifed~ `ko~ `talip~ `iso~ `i~ `tfos~.￺Your pants catch in the sugar cane.￻你的褲子被甘蔗鈎住了","￹`Ma~`sifed~ `ko~ `wa'ay~ `ako~.￺My leg is caught in brush.￻我的腳被草叢鈎住了","￹`Tahasifed~ `ko~ `waa'~ `no~ `siri~ `i~ `dme~`dmetan~.￺The goat's horns were caught in brush.￻羊角被草叢絆住了，羊的角被陷在坑裡"],"f":"￹￺to catch * get caught in grass or brush￻纏住, 鈎住 (被草或樹叢絆住)"}]}],"t":"sifed"}
+,"sifin":{"h":[{"d":[{"s":["`sasifin~"],"e":["￹`Sifinen~ `ko~ `cokoi~.￺Wipe off the table.￻把桌子擦乾淨"],"f":"￹￺to wipe or rub the surface of something with a towel￻擦拭⋯⋯的表面或用毛巾擦拭"}]}],"t":"sifin"}
+,"sifo%27":{"h":[{"d":[{"s":["`trog~","`tnok~"],"e":["￹`Itinien~ `cigra~ `i~ `fo'an~.￺Put him here in the center￻他放置在中間","￹`Tahsifo'~ `no~ `nanom~ `koya~ `wawa~.￺The child was was carried into the middle of the water.￻那孩子流失到水中間"],"f":"￹￺the middle * center￻中間，中央，內部"}]}],"t":"sifo'"}
+,"sifod":{"h":[{"d":[{"e":["￹`Ma~`sasifod~ `ko~ `kliw~.￺The thead is tangled.￻線纏結在一起"],"f":"￹￺to be tangled up * mixed up￻纏結，混淆"}]}],"t":"sifod"}
+,"sigara%27":{"h":[{"d":[{"f":"￹￺gills of a fish￻魚鰓"}]}],"t":"sigara'"}
+,"sigasig":{"h":[{"d":[{"f":"￹￺small bells worn by the Amis￻阿美族佩帶在身上的小鈴鐺"}]}],"t":"sigasig"}
+,"sigat":{"h":[{"d":[{"f":"￹￺to not wipe oneself after a bowel movement * unwiped bottom￻上完廁所後沒有擦屁股"}]}],"t":"sigat"}
+,"sigda":{"h":[{"d":[{"e":["￹`Pa~`sigda~ `han~ `nira~ `ko~ `sowal~.￺He said something dirty.￻他說了些髒話"],"f":"￹￺something dirty or obnoxious￻污穢或令人厭惡的東西"}]}],"t":"sigda"}
+,"sigko":{"h":[{"d":[{"f":"￹￺faith * trust (in Christ's provision including salvation and all personal needs)￻信心，信任 (上帝所賜與的一切包括救贖及一切個人所需)"},{"f":"￹￺the faith you have * your religion￻所信仰之宗教，你所持有的宗教信仰，你有信仰宗教"},{"s":["`Sigko~"],"f":"￹￺an Amis village (from Japanese)￻台東縣成功鎮 (引自日語)"}]}],"t":"sigko"}
+,"sigsi":{"h":[{"d":[{"f":"￹￺an address * sir￻講演，先生"},{"f":"￹￺teacher (from Japanese)￻老師 (引自日語)"}]}],"t":"sigsi"}
+,"siiked":{"h":[{"d":[{"e":["￹`Siikeden~ `ko~ `siri~.￺Separate the goats by kinds i.e. black vs. white.￻把羊分類一邊是白一邊是黑的"],"f":"￹￺to separate into graded groups￻分開，按級分組 (分門別類)"}]}],"t":"siiked"}
+,"siikor":{"h":[{"d":[{"s":["`soikor~"],"e":["￹`O~ `mi~`siikor~`ay~ `cigra~ `to~ `wawa~ `nira~.￺She went back to look after her child.￻他回去照顧他的孩子","￹`Aka~ `pasasi~`ikor~ `a~ `mi~`negneg~.￺Don't look back.￻勿回首，不要向後看"],"f":"￹￺to look behind * to the rear￻回顧，向後看，相背"},{"f":"￹￺to be concerned enough to go back to one's home and responsibilities (from which they have left)￻因關切而重返家庭並負起責任"}]}],"t":"siikor"}
+,"sikal":{"h":[{"d":[{"f":"￹￺a sleeping mat made of grass or thin bamboo strips￻草蓆或竹蓆"}]}],"t":"sikal"}
+,"sikatay":{"h":[{"d":[{"f":"￹￺choir (from Japanese)￻聖歌隊 (引自日語)"}]}],"t":"sikatay"}
+,"sikda":{"h":[{"d":[{"e":["￹`Ma~`sikda~ `no~ `fokloh~ `kako~.￺I was hit by a rock.￻我被石頭擊中","￹`Ma~`sikda~ `no~ `adada~ `kako~ `anini~.￺Sickness has found me.￻我生病了","￹`Ma~`sikda~ `ko~ `pi~`kowag~ `nira~.￺He shot his gun and hit the target.￻他射擊，擊目中標"],"f":"￹￺to hit a target * to lodge upon￻擊中，投中，投宿於"}]}],"t":"sikda"}
+,"siked":{"h":[{"d":[{"s":["`cidek~"],"f":"￹￺to separate from the rest￻分開，單獨，獨立"}]}],"t":"siked"}
+,"siket":{"h":[{"d":[{"s":["`pisiketan~","`pasiket~"],"e":["￹`Mi~`siket~ `ko~ `faloco'~ `ako~ `~ `Yisan~.￺My heart is attached to Jesus. * i.e. I abide in Jesus * trust in Him.￻我的心屬於耶穌基督，我心與上帝同在","￹`Tahasiket~ `i~ `ca'ag~ `no~ `kilag~ `ko~ `fogoh~ `nira~.￺His hair (head) got caught in tree branches.￻他的頭髮被樹枝鉤住了"],"f":"￹￺to be attached to * joined to￻附著於，加入"}]}],"t":"siket"}
+,"sikiw":{"h":[{"d":[{"f":"￹￺to look sideways while facing straight ahead because of hate￻斜視，敵視"}]}],"t":"sikiw"}
+,"sikol":{"h":[{"d":[{"f":"￹￺to look back￻向後看"},{"e":["￹`O~ `tatiih~`ay~ `a~ `ina~ `cigra~. `Caay~ `pi~`sikol~ `cigra~ `to~ `wawa~ `nira~.￺She is a bad mother. She doesn't have an attitude of care for her child.￻她都不照顧孩子，是一位不負責任的母親"],"f":"￹￺an attitude of concern for * care for￻關心"}]}],"t":"sikol"}
+,"sila%27":{"h":[{"d":[{"s":["`masila'~"],"f":"￹￺to be watery * as rice which doesn't boil dry when cooked￻水分過多 (如煮飯未充分蒸發水分時而成軟黏現象)"}]}],"t":"sila'"}
+,"silay":{"h":[{"d":[{"f":"￹￺to go off course * to go askew￻我們想要走正，結果走偏"}]}],"t":"silay"}
+,"silsil":{"h":[{"d":[{"f":"￹￺to lay out in piles￻堆疊，排列"},{"e":["￹`lsil~ `~ `cagra~ `to~ `tayal~.￺They divided up their work responsibilities.￻我們分配工作責任"],"f":"￹￺to divide up for positions or activities￻按職位或活動分配"}]}],"t":"silsil"}
+,"simaanay":{"h":[{"d":[{"f":"￹￺it doesn't matter￻沒有關係"},{"s":["`asimaan~`ay~"],"f":"￹￺anything will do￻隨便，無所謂"}]}],"t":"simaanay"}
+,"simal":{"h":[{"d":[{"f":"￹￺oil * grease￻油"},{"e":["￹`Adihay~ `ko~ `simal~ `nonini~ `a~ `titi~.￺This meat is full of fat.￻這塊肉的肥肉很多"],"f":"￹￺fat￻肥肉"},{"s":["`pasimal~"],"e":["￹`O~ `'a~`'acaen~ `ita~ `ko~ `simal~.￺We must buy gasoline.￻我得買汽油了","￹`Ci~`simal~`ay~ `ko~ `mata~ `nira~.￺His eyes are full of lust.￻他眼中充滿色慾，他的眼睛好色"],"f":"￹￺gasoline￻汽油"}]}],"t":"simal"}
+,"simanta%27":{"h":[{"d":[{"e":["￹`Tatiih~ `a~ `simanta'~ `~ `a~ `komaen~ `to~ `titi~.￺It is bad to eat raw meat.￻吃生肉不好，生吃沒有煮過的肉是不好的"],"f":"￹￺to eat raw food￻生吃"}]}],"t":"simanta'"}
+,"simaw":{"h":[{"d":[{"f":"￹￺to guard * watch￻看顧，照顧，看守，守護，守衛"}]}],"t":"simaw"}
+,"simed":{"h":[{"d":[{"e":["￹`Aka~ `pi~`simed~ `to~ `raraw~ `iso~.￺Don't hide your sin.￻不要隱藏你的罪","￹`Simeden~ `ko~ `payso~ `iso~ `ta~ `caay~ `ka~ `takaw~￺Hide your money so it won't be stolen.￻把你的錢收藏好，才不致被偷","￹`O~ `lasimeday~ `a~ `tamdaw~ `cigra~.￺He is always hiding things * i.e. he is secretive.￻他總是藏東藏西的"],"f":"￹￺to hide something￻隱藏，隱瞞，守密"}]}],"t":"simed"}
+,"simlag":{"h":[{"d":[{"s":["`simelag~","`kasimlagan~"],"f":"￹￺embarrassing * inappropriate * poor taste * shameful￻不適當的，鑑賞力差的，可恥的"}]}],"t":"simlag"}
+,"simpal":{"h":[{"d":[{"f":"￹￺cymbals (from Japanese)￻鐃鈸 (引自日語)"}]}],"t":"simpal"}
+,"simpo":{"h":[{"d":[{"f":"￹￺priest * leader of the Catholic Church (from Japanese)￻神父 (引自日語)"}]}],"t":"simpo"}
+,"simpon":{"h":[{"d":[{"f":"￹￺newspaper * magazine  (from Japanese)￻報紙，雜誌 (引自日語)"}]}],"t":"simpon"}
+,"sinag":{"h":[{"d":[{"f":"￹￺the blade edge of knife or machete￻刀刃很鋒利"}]}],"t":"sinag"}
+,"sinanot":{"h":[{"d":[{"f":"￹￺to be careful￻謹慎小心"}]}],"t":"sinanot"}
+,"sinar":{"h":[{"d":[{"s":["`kacawas~","`lidaw~"],"f":"￹￺watermelon￻西瓜"}]}],"t":"sinar"}
+,"sinawar":{"h":[{"d":[{"f":"￹￺to be dizzy from sickness or fever * from being intoxicated * from car sickness or seasickness￻因病或發燒所引起的頭暈；使陶醉，使如夢似的 (FIXME)；暈車或暈船"}]}],"t":"sinawar"}
+,"sini%27ada":{"h":[{"d":[{"e":["￹`O~ `ka~`sini'ada~`an~ `a~ `tamdaw~ `cigra~.￺He is a person who needs to have kindness shown towards him.￻他是值得同情的人","￹`O~ `kasini'adaan~ `a~ `tamdaw~ `koya~ `ma~`rofo~`ay~.￺That prisoner is someone to feel sorry for.￻那些被關起來的人，值得同情"],"f":"￹￺pity￻同情"},{"e":["￹`O~ `lasini'adaay~ `a~ `was~ `ko~ `was~ `ita~.￺Our God is always gracious and kind.￻我們的上帝是滿有慈愛的神"],"f":"￹￺grace * gracious￻慈悲的"},{"e":["￹`O~ `nano~ `sini'ada~ `no~ `was~ `ko~ `pipa'orip~ `nira~ `titaanan~.￺God saves us on the basis of His grace.￻由於上帝的慈愛自罪惡中拯救我們，才使我們得著生命"],"f":"￹￺kindness * kind￻仁慈，親切，和藹的"}]}],"t":"sini'ada"}
+,"sino%27et":{"h":[{"d":[{"s":["`cifrag~","`ifagat~","`cahiw~"],"f":"￹￺sweat perspiration￻汗，流汗，出汗"}]}],"t":"sino'et"}
+,"sioy":{"h":[{"d":[{"f":"￹￺kettle * pan for cooking￻鍋"}]}],"t":"sioy"}
+,"sipasip":{"h":[{"d":[{"e":["￹`Sipasipen~ `no~ `Israil~ `ko~ `rmes~ `no~ `siri~ `i~ `fawahan~ `no~ `loma'~.￺The Israelites applied the blood of sheep to the doorways of their homes.￻以色列人把羊的血塗在門檻上"],"f":"￹￺to apply to * rub on the surface of something￻撫，貼，塗，熬"},{"e":["￹`Sipasipen~ `koya~ `tilid~.￺Erase that writing.￻把那個字擦掉"],"f":"￹￺to erase￻擦掉，抹去，削除"}]}],"t":"sipasip"}
+,"sipolo%27":{"h":[{"d":[{"s":["`masipolo'~","`ma~`poneg~`ay~"],"f":"￹￺to be separated from and thus left alone￻因分離而獨居，分家"}]}],"t":"sipolo'"}
+,"sipon":{"h":[{"d":[{"e":["￹`Ma~`sipon~ `kami~ `to~ `nano~ `faliyos~.￺We suffered loss because of the typhoon.￻由因颱風使我們損失慘重","￹`Hakowa~ `ko~ `sipon~ `namo~?￺How much was your loss?￻你們損失多少"],"f":"￹￺loss * to suffer loss￻損失，損害，蒙受損失，虧損"}]}],"t":"sipon"}
+,"siraw":{"h":[{"d":[{"f":"￹￺salted meat of fish preserved in brine￻鹽醃的肉或魚保存在鹽水裡(鹹肉)"}]}],"t":"siraw"}
+,"siri":{"h":[{"d":[{"s":["`tadasiri~","`pasirian~","`Pisirian~"],"e":["￹`enay~ `to~ `siri~￺shepherd￻牧羊者","￹`tofor~ `a~ `siri~￺a kid * young goat￻小羊，小山羊"],"f":"￹￺goats￻公羊"}]}],"t":"siri"}
+,"sisir":{"h":[{"d":[{"f":"￹￺a scraping sound￻擦去，抹去，削去，擦 (削) 的聲音"},{"s":["`slic~"],"f":"￹￺to slide￻滑，溜"},{"s":["`posisir~"],"f":"￹￺to slide on one's bottom (seat)￻用屁股 (坐) 溜滑"}]}],"t":"sisir"}
+,"sisit":{"h":[{"d":[{"e":["￹`Ma~`sisit~ `nira~ `ko~ `'onig~.￺He wiped the dirt off.￻他把污穢擦掉","￹`Sisiten~ `ko~ `losa'~ `no~ `wawa~.￺Wipe away the child's tears.￻把孩子的眼淚擦掉"],"f":"￹￺to wipe away * rub clean￻擦拭、拭掉、摩擦乾淨"}]}],"t":"sisit"}
+,"siwa":{"h":[{"d":[{"s":["`sakasiwa~"],"f":"￹￺nine￻九"}]}],"t":"siwa"}
+,"siwala":{"h":[{"d":[{"e":["￹`lasiwala~ `kako~.￺I am scatter-brained * i.e. I forget or lose things easily.￻我是慌慌張張的人，我很容易忘記或遺失東西","￹`Ma~`siwala~ `kako~.　`Caay~ `ka~ `fana'~ `kako~ `to~ `lalan~.￺I am mixed up. I don't know the road.￻我迷惘，不知該走那一條路"],"f":"￹￺to be mixed up * confused￻混淆，弄錯，困惑，混亂，搞亂"}]}],"t":"siwala"}
+,"siwar":{"h":[{"d":[{"e":["￹`Siwaren~ `konini~ `a~ `cokoi~.￺Move this table a little.￻稍微移動桌子，把桌子移動一下","￹`Ma~`siwar~ `ko~ `cidal~.￺The sun has changed position in rising (as when the seasons change).￻太陽已改變位置了 (如當換季時)"],"f":"￹￺to move or change the position of￻轉動，改變位置"}]}],"t":"siwar"}
+,"siwasiw":{"h":[{"d":[{"f":"￹￺to separate the grain from the chaff￻用篩子篩選"},{"f":"￹￺to sort * separate into groups or kinds￻分等級，分類團體或種類"}]}],"t":"siwasiw"}
+,"siwatid":{"h":[{"d":[{"s":["`siwatik~"],"f":"￹￺aloof * to not take part with the group * to stay by oneself￻遠離，離開，沒有跟團體一起，把持自己的意念"}]}],"t":"siwatid"}
+,"siwatik":{"h":[{"d":[{"s":["`siwatid~"],"f":"￹￺aloof * to not take part with the group * to stay by oneself￻遠離，離開，不與團體一起，不參加團體※孤居"}]}],"t":"siwatik"}
+,"siwit":{"h":[{"d":[{"e":["￹`Ma~`siwit~ `ko~ `pi~`tli~ `nira~.￺He set it down slanted.￻他放的斜歪了"],"f":"￹￺to slant * set at an angle * off course￻歪，傾斜，歪斜，放置釣鉤；方向歪了"}]}],"t":"siwit"}
+,"siyam":{"h":[{"d":[{"s":["`faho~"],"f":"￹￺grass used to make mats and baskets￻草可用來做草蓆和簍筐"}]}],"t":"siyam"}
+,"siyokeg":{"h":[{"d":[{"f":"￹￺large earthen storage container for water (from Amoy dialect)￻大水缸 (引自閩南語)"}]}],"t":"siyokeg"}
+,"siyop":{"h":[{"d":[{"f":"￹￺to swoop in flight￻從高處飛下來猛撲 (如老鷹攫取小雞時)"}]}],"t":"siyop"}
+,"siyor":{"h":[{"d":[{"e":["￹`yoren~ `ko~ `rakat~ `iso~.￺Turn your direction of movement.￻移動你的方向","￹`yoren~ `ko~ `faloco'~ `iso~.￺Repent.￻後悔，懊悔"],"f":"￹￺to turn around * change direction￻旋轉，回頭，轉向，改變方向"}]}],"t":"siyor"}
+,"ska%27":{"h":[{"d":[{"e":["￹`Ma~`ska'~ `cigra~.￺He fainted and stopped breathing.￻他休克了 (停止呼吸)"],"f":"￹￺to stop breathing temporarily￻休克"}]}],"t":"ska'"}
+,"skak":{"h":[{"d":[{"e":["￹`Ma~`skak~ `ko~ `'ayam~.￺The rooster crowed.￻雞叫"],"f":"￹￺the crow of a rooster * to crow￻雞鳴"}]}],"t":"skak"}
+,"skay":{"h":[{"d":[{"e":["￹`O~ `pi~`skay~`an~ `no~ `faloco'~ `ako~ `ko~ `Wama~ `a~ `was~.￺My heavenly Father is the one in whom I confide.￻天父上帝是我寄託心聲的對象"],"f":"￹￺to confide in￻寄託"}]}],"t":"skay"}
+,"skig":{"h":[{"d":[{"f":"￹￺test * to take a test (from Japanese)￻考試，測試 (引自日語)"}]}],"t":"skig"}
+,"skog":{"h":[{"d":[{"e":["￹`saskog~ `cagra~ `tatosa~￺The two of them had a fist fight.￻他們兩相互徒手毆打 (打架)","￹`Aka~ `pi~`skog~ `to~ `fafahi~ `iso~.￺Don't hit your wife with your fist.￻不要打你的妻子"],"f":"￹￺to strike with the fist￻打擊，用拳頭擊打"}]}],"t":"skog"}
+,"sla%27":{"h":[{"d":[{"s":["`hanhan~","`misasla'~","`masasla'~","`smla'~","`mahanhan~","`sasla'an~","`cisasla'ananay~","`pasla'~","`pa~`hanhan~"],"f":"￹￺breath￻呼吸"}]}],"t":"sla'"}
+,"slak":{"h":[{"d":[{"f":"￹￺to spread out * lay out (as to dry)￻張開，攤開 (如曬東西)"}]}],"t":"slak"}
+,"slal":{"h":[{"d":[{"s":["`kasaslal~"],"f":"￹￺contemporaries * people of the same age group * peers￻同時代的人們，同年紀的，同輩，好友"}]}],"t":"slal"}
+,"slen":{"h":[{"d":[{"e":["￹`Ma~`slen~ `no~ `ma~`prar~`ay~ `a~ `lotok~ `ko~ `sa'owac~.￺The landslide filled in the ravine.￻河川被山崩掩沒"],"f":"￹￺to fill in with earth￻埋，覆沒，掩沒"}]}],"t":"slen"}
+,"sli%27":{"h":[{"d":[{"f":"￹￺to landslide￻山崩"}]}],"t":"sli'"}
+,"slic":{"h":[{"d":[{"f":"￹￺to slide down or along * to coast along or down￻沿甲斜坡滑落下來 (乘橇等滑下)"},{"s":["`saslican~","`sapay~","`sowapay~"],"f":"￹￺a sled￻指農耕用的載物橇而言"}]}],"t":"slic"}
+,"slog":{"h":[{"d":[{"s":["`hlog~"],"f":"￹￺to take off * as to remove clothing or shoes￻脫，如換衣服或鞋子, 整裝"}]}],"t":"slog"}
+,"sma":{"h":[{"d":[{"s":["`pasma~"],"f":"￹￺tongue￻舌頭"}]}],"t":"sma"}
+,"smer":{"h":[{"d":[{"f":"￹￺to sting * hurt literally￻刺痛，字面上指傷口的疼痛"},{"s":["`kasmeran~"],"e":["￹`Ma~`smer~ `ko~ `faloco'~ `ako~ `to~ `sowal~ `nira~.￺His words hurt me in my heart.￻他說的話，傷了我的心"],"f":"￹￺to figuratively hurt in one's inner being￻比喻上指一個人內心的傷痛"}]}],"t":"smer"}
+,"smla%27":{"h":[{"d":[{"s":["`misasla'~"],"f":"￹￺Refer to `misasla'~￻詳見 `misasla'~"}]}],"t":"smla'"}
+,"smo%27ot":{"h":[{"d":[{"s":["`so'ot~"],"f":"￹￺(ccay no 'li', ccay a 'li'an) one hundred￻百"}]}],"t":"smo'ot"}
+,"smot":{"h":[{"d":[{"f":"￹￺brush * bushes growing on the mountains or on uncultivated land￻灌木，叢林，灌木叢生長在山上或未經開墾的地方"}]}],"t":"smot"}
+,"sna%27":{"h":[{"d":[{"f":"￹￺to be slick * as when rain makes a trail wet and muddy￻使光滑，如當下雨時地面濕滑"},{"f":"￹￺name of an Amis village￻台東縣東河鄉北源村部落名"}]}],"t":"sna'"}
+,"snat":{"h":[{"d":[{"e":["￹`Ma~`snat~ `ko~ `wa'ay~ `ako~ `a~ `romakat~￺My legs got cut walking.￻我走路時，我的腳被割傷"],"f":"￹￺to cut * to be cut as by sharp grass￻割，如割草"},{"s":["`sasnat~"],"f":"￹￺to rake plowed rice fields￻耙機是犁稻田的器具"}]}],"t":"snat"}
+,"sneg":{"h":[{"d":[{"e":["￹`O~ `ka~`sneg~`an~ `ita~ `ko~ `nika~ `tadamaan~ `no~ `Tapag~ `ita~.￺We are proud of the greatness of our Lord.￻上帝的偉大(全能)是我們的光榮(主的至高無尚令我們敬畏)","￹`Pa~`sneg~ / `sgi~ `kita~ `to~ `fana'~ `ita~￺We boast of our knowledge.￻我們誇耀我們的智慧","￹`wadaw~ `ko~ `pasnesnegay~ `a~ `sowal~.￺Stop (your) boastful word.￻停止你誇大的言語，不要再講自誇的話","￹`Ma~`sneg~ `kako~.￺1. I feel threatened by his ability.  2. I feel panic from heights.￻1. 我被他的能力所脅迫  2. 從高處往下看有畏懼感"],"f":"￹￺displayed * something to be proud of￻驕傲，誇示，炫耀，光榮，對某東西感得意"}]}],"t":"sneg"}
+,"sni%27":{"h":[{"d":[{"s":["`taktak~"],"f":"￹￺to pour out￻傾倒"},{"f":"￹￺for something to settle down and shrink in size * as salted vegetables in an earthen vessel￻東西沉澱或收縮狀如鹹菜在缸器內放很久後會收縮"}]}],"t":"sni'"}
+,"so%27ac":{"h":[{"d":[{"e":["￹`So'acen~ `ko~ `wadis~ `iso~.￺Brush your teeth.￻去刷你的牙齒"],"f":"￹￺to brush * clean with a brush￻洗刷，用刷子清洗"}]}],"t":"so'ac"}
+,"so%27aw":{"h":[{"d":[{"f":"￹￺to be thirsty￻口渴"}]}],"t":"so'aw"}
+,"so%27da":{"h":[{"d":[{"s":["`solda~","`malaso'da~"],"f":"￹￺ice * snow￻冰雪"}]}],"t":"so'da"}
+,"so%27er":{"h":[{"d":[{"f":"￹￺water from rain * rain water￻雨水"}]}],"t":"so'er"}
+,"so%27lin":{"h":[{"d":[{"e":["￹`O~ `so'lin~`ay~ `a~ `dmak~ `konini~.￺1. This thing really happened.  2. This is the way that activity is / the nature of the activity.￻1. 這是真實的事情  2. 這個活動是自然活躍的動作 (FIXME)"],"f":"￹￺genuine * real￻誠實，真的，實在的"},{"e":["￹`O~ `so'lin~`ay~ `a~ `sowal~ `konini~.￺These are true words.￻這些話的確是真的","￹`So'linay~ `ma~`fana'~ `cigra~ `haw~?￺Does he really know?￻他真的知道嗎？"],"f":"￹￺true￻真實"},{"e":["￹`So'linay~ `ko~ `faloco'~ `noya~ `tamdaw~.￺That person is sincere / faithful.￻那個人很忠厚"],"f":"￹￺sincere￻忠誠"},{"s":["`paso'lin~"],"e":["￹`Onini~ `ko~ `so'lin~`ay~.￺This is the standard / norm.￻這是很標準的"],"f":"￹￺norm * standard￻切實的，標準的"}]}],"t":"so'lin"}
+,"so%27met":{"h":[{"d":[{"e":["￹`Pa~`so'met~`en~ `ko~ `riko'~ `ta~ `mi~`aylog~.￺Dampen the clothes for ironing.￻衣服灑點水使之潮濕再燙","￹`Ma~`so'met~ `ko~ `sra~.￺The ground is damp.￻地面潮濕，土壤潮濕","￹`Ma~`so'met~ `ko~ `faloco'~ `nira~.￺His heart is gentle.￻他的性情很溫和"],"f":"￹￺to dampen * to be damp￻潮濕"}]}],"t":"so'met"}
+,"so%27ol":{"h":[{"d":[{"f":"￹￺to melt as a candle melts￻鐵生鏽 (FIXME)"},{"s":["`so'or~"],"f":"￹￺to dissolve￻使溶解，使分解"}]}],"t":"so'ol"}
+,"so%27or":{"h":[{"d":[{"e":["￹`Mala~`so'or~`to~ `koya~ `so'da~.￺The ice has melted.￻冰雪溶化了"],"f":"￹￺to melt￻溶化，溶解"},{"s":["`so'er~","`lasinol~"],"e":["￹`Mala~`so'or~`to~ `ko~ `waneg~ `i~ `goyos~ `nira~.￺The sugar dissolved in his mouth.￻他嘴裡的糖溶化了"],"f":"￹￺to dissolve￻溶解，分解，氧化"}]}],"t":"so'or"}
+,"so%27ot":{"h":[{"d":[{"e":["￹`na~ `a~ `so'ot~ `ko~ `aalaen~?￺How many hundred should we take?￻我們要拿幾百個？","￹`Smo'ot~ `aca~ `ko~ `aalaen~ `ita~.￺We should take just one hundred.￻我們只要拿一百個"],"f":"￹￺a bundle of one hundred￻捆一百個"},{"e":["￹`So'oten~ `ko~ `panay~.￺Bundle the grain.￻把稻草捆起來"],"f":"￹￺to bundle￻捆綁"},{"e":["￹`So'oten~ `ko~ `waco~.￺Tie the dog up.￻把狗拴起來","￹`So'oten~ `ko~ `fokes~.￺Tie your hair back.￻把頭髮綁成馬尾","￹`Kinaso'ot~ `cigra~ `a~ `kinapatay~.￺He killed himself by hanging.￻他上吊自殺"],"f":"￹￺to tie up￻打結"},{"f":"￹￺to bind￻繫結"},{"e":["￹`So'~ `oten~ `ko~ `ma~`ri'ag~`ay~ `a~ `tamdaw~.￺Tie up / imprison in cords the criminal.￻把壞人關起來，把罪犯逮捕法辦"],"f":"￹￺imprison with cords￻坐牢"}]}],"t":"so'ot"}
+,"so%27so":{"h":[{"d":[{"e":["￹`Ma~`so'so~ `ko~ `kolog~ `iso~.￺Your water buffalo is fat.￻你的水牛很肥大"],"f":"￹￺to be fat * plump￻胖，豐滿"},{"e":["￹`Ma~`so'so~ `ko~ `kolog~ `iso~.￺Your water buffalo is healthy.￻你的水牛很健壯"],"f":"￹￺to be healthy￻很健康，肥壯，健壯"}]}],"t":"so'so"}
+,"so%27so%27":{"h":[{"d":[{"s":["`sa'sa~"],"e":["￹`liso'so'en~ `koya~ `riko'~ `a~ `mi~`pawali~.￺Hang those clothes up dripping to dry.￻把那些衣服拿出去曬使之濾乾"],"f":"￹￺to drip * drain water off of￻滴，把水滴滴下，把水濾乾"}]}],"t":"so'so'"}
+,"sodoc":{"h":[{"d":[{"s":["`hodoc~"],"f":"￹￺to draw * pull out * referring to a weapon￻抽拉，拉出，如武器，拔出"}]}],"t":"sodoc"}
+,"sodod":{"h":[{"d":[{"s":["`sorar~"],"f":"￹￺to yield * give in￻退讓，給予，容許，允准"}]}],"t":"sodod"}
+,"sodsod":{"h":[{"d":[{"e":["￹`Pa~`sodsod~ `han~ `nira~ `ko~ `pi~`pafli~ `to~ `payso~.￺He gradually and secretly gave money.￻他暗中悄悄地以金錢施予"],"f":"￹￺to give secretly and gradually over a period of time * being afraid to give all at once￻在一段時間內悄悄地給付一點一點的給，或因恐懼而立即付清 (FIXME)"}]}],"t":"sodsod"}
+,"sofac":{"h":[{"d":[{"f":"￹￺to lengthen￻拉長，延長"}]}],"t":"sofac"}
+,"sofal":{"h":[{"d":[{"f":"￹￺territory * district * valley * region￻領土，地區，鄉村，領域，地帶"}]}],"t":"sofal"}
+,"sofitay":{"h":[{"d":[{"e":["￹`Mala~`sofitay~ `ko~ `wawa~ `ako~.￺My son is in the army.￻我的孩子被徵召服役"],"f":"￹￺soldiers * military￻士兵，軍人"}]}],"t":"sofitay"}
+,"sofoc":{"h":[{"d":[{"f":"￹￺to give birth to￻出生"},{"s":["`hofoc~","`kasofocan~"],"f":"￹￺to lay an egg￻蛋"}]}],"t":"sofoc"}
+,"sofok":{"h":[{"d":[{"f":"￹￺a woven bag used as a backpack￻用麻繩製作成的背袋"}]}],"t":"sofok"}
+,"sofoy":{"h":[{"d":[{"s":["`sfay~","`rfay~"],"e":["￹`Ma~`sofoy~ `koya~ `towaso~.￺That rope is slack.￻繩子鬆了"],"f":"￹￺to slacken * to release the tension￻鬆脫，鬆弛"}]}],"t":"sofoy"}
+,"sogidet":{"h":[{"d":[{"f":"￹￺to throw away mucus from the nose￻擤鼻涕"}]}],"t":"sogidet"}
+,"sogila%27":{"h":[{"d":[{"e":["￹`Caay~ `ko~ `ma~`sogila'~`ay~ `a~ `tamdaw~ `kita~.￺We people are not perfect.￻我們不是完全人","￹`Sogila'en~ `ko~ `tayal~ `iso~.￺Do your work well and completely.￻你的工作要做徹底"],"f":"￹￺to do perfectly completely and well￻完全的，圓滿的"},{"s":["`soliga'~"],"e":["￹`Sogila'en~ `ko~ `aro'~ `iso~.￺Sit orderly.￻你坐姿優雅一點"],"f":"￹￺to do with dignity * in good order￻高貴，以嚴正的態度做；良好秩序"}]}],"t":"sogila'"}
+,"sogtol":{"h":[{"d":[{"e":["￹`Aka~ `pi~`sogtol~ `to~ `romakatay~ `i~ `lalan~.￺Don't hit a pedestrian.￻不要碰撞行路的人","￹`sasogtol~ `ko~ `palidig~ `nagra~ `tatosa~.￺Their two vehicles hit each other.￻他們的車子相互碰撞","￹`pasogtol~ `nira~ `kako~.￺He forced me to hit someone.￻他強迫我揍人"],"f":"￹￺to hit * crash * bump against￻打擊，撞擊，碰撞"}]}],"t":"sogtol"}
+,"soikor":{"h":[{"d":[{"f":"￹￺to look behind￻向後看"},{"s":["`siikor~"],"e":["￹`Mi~`soikor~`ho~ `kako~ `a~ `mi~`nokay~.￺I have to go back home for a minute.￻我須先回家一下","￹`Aka~ `pi~`soikor~ `a~ `mi~`negneg~.￺Don't look back.￻不要向後看"],"f":"￹￺to go backwards￻走反向道，向後走"}]}],"t":"soikor"}
+,"soked":{"h":[{"d":[{"f":"￹￺to shrink * referring to cloth￻收縮，縮小"}]}],"t":"soked"}
+,"sokir":{"h":[{"d":[{"f":"￹￺(of water) to carry along things in its path￻刮，削，刮掉那黏在皮膚上的東西"}]}],"t":"sokir"}
+,"sokiwat":{"h":[{"d":[{"f":"￹￺to use an instrument to get hold of something big￻抓物之用具, 鉤子"},{"s":["`kiwat~"],"f":"￹￺as contrasted with kiwat where a small instrument is used￻如比照其用法，kiwat 是用來攫取小東西"}]}],"t":"sokiwat"}
+,"soklet":{"h":[{"d":[{"s":["`soklot~"],"f":"￹￺to tie a string or rope loosely so that it can be easily untied * to make a slip knot￻用繩子捆綁，綁活結"}]}],"t":"soklet"}
+,"soklot":{"h":[{"d":[{"s":["`soklet~"],"f":"￹￺Refer to `soklet~￻詳見 `soklet~"}]}],"t":"soklot"}
+,"soko":{"h":[{"d":[{"f":"￹￺a storage building for implements or food or other valuables (from Japanese)￻存有價值東西的倉庫，倉庫 (引自日語)"}]}],"t":"soko"}
+,"sokon":{"h":[{"d":[{"f":"￹￺Common Fig tree and its fruit￻無花果樹和果子"},{"f":"￹￺Ceylon Olive tree (Elaeocarpus serratus) for ornament and fruit￻橄欖樹"},{"f":"￹￺Formosan Eupatorium * common wild plant found along roads and on hills￻闊葉植物，一般生長在路上或山上的野樹"},{"s":["`talip~"],"f":"￹￺a wrap around double skirt￻包纏在四周的兩片裙"}]}],"t":"sokon"}
+,"sokoy":{"h":[{"d":[{"s":["`kakorot~"],"f":"￹￺the name of a wild edible vegetable￻苦瓜 (蔓藤類)"}]}],"t":"sokoy"}
+,"solac":{"h":[{"d":[{"f":"￹￺a tree * Fiscus ampelas Burm￻金瓦榕"}]}],"t":"solac"}
+,"solap":{"h":[{"d":[{"f":"￹￺to investigate * find out the facts￻巡視，探測"},{"e":["￹`O~ `mi~`solap~`ay~ `a~ `tamdaw~ `cigra~.￺He is an undercover man / spy.￻他是地下工作人員/奸諜"],"f":"￹￺to spy * work under cover￻奸諜 (在暗地裡偵察)"}]}],"t":"solap"}
+,"solasol":{"h":[{"d":[{"f":"￹￺masturbation for sexual gratification￻自瀆，手淫"}]}],"t":"solasol"}
+,"solek":{"h":[{"d":[{"f":"￹￺a method of crossing two pieces of wood and attaching toeach other￻兩塊木頭相互附着的方式 (成十字形)"}]}],"t":"solek"}
+,"soliga%27":{"h":[{"d":[{"s":["`sogila~"],"e":["￹`Ma~`soliga'~ `ko~ `faloco'~ `noya~ `tamdaw~.￺That person's heart is at ease / has wholeness.￻那個人的心情很安逸","￹`Soliga'en~ `ko~ `pi~`na'ag~ `tonini~ `a~ `tilid~.￺Put this writing away in complete order.￻把這本書收藏好","￹`Papi~`soliga'~`en~ `cigra~ `to~ `tayal~ `nira~.￺Make him do his work well and completely.￻叫他徹底的做好他的工作"],"f":"￹￺to do perfectly * well and completely￻完整，有秩序的，完全，圓滿的"}]}],"t":"soliga'"}
+,"solimet":{"h":[{"d":[{"f":"￹￺to arrange * put in order things that are lying around￻把散亂的東西整理妥當"},{"s":["`losimet~"],"f":"￹￺to prepare￻預備，準備"}]}],"t":"solimet"}
+,"solipa":{"h":[{"d":[{"f":"￹￺sandals (from Japanese)￻拖鞋 (引自日語)"}]}],"t":"solipa"}
+,"solol":{"h":[{"d":[{"e":["￹`Sololen~ `ko~ `kilag~ `a~ `talala'no~.￺Slide the log down hill.￻把圓木順著斜坡滾滑到下面"],"f":"￹￺to slide down￻使滑的，溜過"},{"s":["`hpol~"],"e":["￹`Sololen~ `ko~ `patlac~ `ako~.￺Forgive me for my mistake.￻原諒我的過錯"],"f":"￹￺to forgive￻赦免，寬恕"}]}],"t":"solol"}
+,"solomaig":{"h":[{"d":[{"s":["`wmi'~","`talomig~"],"f":"￹￺to have no strength￻軟弱無力"}]}],"t":"solomaig"}
+,"solot":{"h":[{"d":[{"e":["￹`Soloten~ `ko~ `palidig~.￺Pull the wagon.￻拉運貨馬車"],"f":"￹￺to pull * draw something literally￻拉，牽，喻拉東西"},{"e":["￹`Ma~`solot~ `nira~ `ko~ `faloco'~ `ako~.￺He has influenced me.￻他感化我的心，我的心被他影響","￹`O~ `ko'san~`ay~ `a~ `sowal~ `nira~ `ko~ `sapi~`solot~ `nira~ `toya~ `fafahian~.￺He used polished speech to attract that woman.￻他用甜言蜜語引誘那女孩"],"f":"￹￺to attract * exert influence on￻吸引，引誘，使影響感化"}]}],"t":"solot"}
+,"soloy":{"h":[{"d":[{"f":"￹￺semen￻精液"}]}],"t":"soloy"}
+,"solsol":{"h":[{"d":[{"f":"￹￺to thread through holes and draw as to run a drawn string through holes￻串連，如把有洞的東西串連在一起"},{"e":["￹`Solsolen~ `~ `Atam~ `ko~ `papah~ `no~ `kilag~ `a~ `misa~`ga'~ `to~ `talip~.￺Adam made an apron of fig leaves.￻亞當把樹葉編串成裙子"],"f":"￹￺to string together￻串在一起"}]}],"t":"solsol"}
+,"somad":{"h":[{"d":[{"s":["`'iwil~"],"e":["￹`Yo~ `paka'araw~ `kako~ `to~ `ina~ `nira~ `'i~, `ma~`somad~ `ko~ `faloco'~ `ako~.￺When I saw his mother I had sad mixed up feelings.￻當我看到他母親的時候，我心裡很難過"],"f":"￹￺feelings of sadness * mixed feelings￻傷心，悲傷；混亂"},{"e":["￹`lisomaden~ `ko~ `faloco'~.￺Change your attitudes.￻你要改邪歸正，你要悔改"],"f":"￹￺to change￻改變，轉變，變化，悔改"}]}],"t":"somad"}
+,"sona":{"h":[{"d":[{"f":"￹￺grandchild (from Amoy dialect)￻孫子 (引自閩南語)"}]}],"t":"sona"}
+,"sonay":{"h":[{"d":[{"f":"￹￺threadbare * cloth being well worn￻穿舊衣服，陳腐，衣服很耐穿，耐用"}]}],"t":"sonay"}
+,"soni":{"h":[{"d":[{"e":["￹`Sonien~ `ko~ `palidig~ `iso~.￺Blow the horn of your vehicle.￻按你車子的喇叭看看"],"f":"￹￺noise￻喧噪聲　"},{"e":["￹`Ma~`tgil~ `ako~ `ko~ `soni~ `no~ `'do~.￺I heard the sound of a rat.￻我聽到老鼠的聲音","￹`Tata'ag~ `ko~ `soni~ `noya~ `kikay~.￺That motor makes a lot of noise.￻那個引擎的聲音很大"],"f":"￹￺sound￻聲音"},{"s":["`honi~"],"e":["￹`Ano~ `soni~ `ira~ `ko~ `wawa~ `ako~.￺My child will be here soon.￻待會兒我的孩子要來","￹`Isoni~ `ira~ `cigra~.￺He came a little bit ago.￻他剛剛才來的"],"f":"￹￺a time reference word￻剛才"}]}],"t":"soni"}
+,"sonol":{"h":[{"d":[{"f":"￹￺to drift * of a boat￻漂流，漂浮，如小船"},{"s":["`'alol~"],"f":"￹￺to move from one place to another * usually with reference to water￻從這個地方移動到另一個地方，浮起漂流，通常指水勢"}]}],"t":"sonol"}
+,"sonor":{"h":[{"d":[{"s":["`masonor~"],"f":"￹￺[No English description]￻[無中文解釋q"}]}],"t":"sonor"}
+,"soo%27":{"h":[{"d":[{"e":["￹`Soo'en~ `koya~ `ofag~.￺Put your hand into that hole.￻把手伸進洞裡搜尋"],"f":"￹￺to put hand inside of something￻把手伸進袋裡搜尋"}]}],"t":"soo'"}
+,"sopa%27":{"h":[{"d":[{"s":["`tasopa'an~"],"e":["￹`Aka~ `pi~`sopa'~.￺Don't spit.￻不要吐痰"],"f":"￹￺to spit * spittle￻吐 (唾沫，血等) 唾沫，唾液"}]}],"t":"sopa'"}
+,"sopaliw":{"h":[{"d":[{"s":["`tomaliw~"],"f":"￹￺to change places　 * to be available for use in place of￻交會；變換的地方"}]}],"t":"sopaliw"}
+,"sopay":{"h":[{"d":[{"e":["￹`Paka~`sopay~ `kiso~ `to~ `riko'~ `ako~?￺Can you rub the dirt out of my clothing?￻你能把我那件衣服的污垢除掉嗎？","￹`Ma~`sopay~ `ko~ `'onig~ `no~ `tireg~.￺My body has been rubbed clean.￻我身上的污垢已洗乾淨了","￹`Ma~`sopay~ `ko~ `faloco'~ `ako~.￺My bad attitude has gone.￻我已去邪歸正 (改過自新)"],"f":"￹￺to rub in order to remove dirt￻揉擦得以拭掉污物"}]}],"t":"sopay"}
+,"soped":{"h":[{"d":[{"e":["￹`Adihay~ `ko~ `ni~`soped~`en~ `nira~ `a~ `payso~.￺He has amassed a lot of money.￻他儲存了很多錢","￹`Aka~ `pi~`soped~ `to~ `riko'~.￺Don't collect a lot of clothes.￻不要堆積很多衣服 (未洗的)"],"f":"￹￺to collect * gather together and keep￻收集，儲存"}]}],"t":"soped"}
+,"soprit":{"h":[{"d":[{"s":["`hapric~"],"f":"￹￺to strip grain off from the stalk￻把餘留在稻草上的稻穗剝落乾淨"}]}],"t":"soprit"}
+,"sopsop":{"h":[{"d":[{"e":["￹`mi~`sopsop~ `to~ `tafokod~￺to draw the strings in a draw net￻把漁網拉起來收縮面積"],"f":"￹￺to gather together so there is more space on the outer perimeters * referring to people or things￻集成一堆騰出周圍多餘的空間，指人群或東西"}]}],"t":"sopsop"}
+,"sorar":{"h":[{"d":[{"s":["`sodod~"],"f":"￹￺to yield * give in * for the sake of unity￻退讓，屈服，允准，容許，寬恕；為了利益的原故(FIXME)"}]}],"t":"sorar"}
+,"sorita":{"h":[{"d":[{"f":"￹￺octopus * eight-legged creature of the sea (from Japanese)￻章魚 (引自日語)"}]}],"t":"sorita"}
+,"sorot":{"h":[{"d":[{"s":["`pasorot~"],"e":["￹`mi~`sorot~ `to~ `payso~￺collect money (as for a special project)￻收集金錢(如為特別的計劃)"],"f":"￹￺to collect * gather dues from each person￻收集，收集每一個人所繳付的費用"}]}],"t":"sorot"}
+,"soso%27":{"h":[{"d":[{"e":["￹`lisoso'enho~.￺Drain it first.￻烘乾"],"f":"￹￺to let drip out￻把水濾乾"},{"s":["`soo'~"],"f":"￹￺to put hand inside of something￻把手把進口袋裡搜索"}]}],"t":"soso'"}
+,"sota%27":{"h":[{"d":[{"f":"￹￺earth * dirt￻汙泥"},{"e":["￹`Ci~`sota'~ `ko~ `lalan~ `anini~.￺The path is muddy at present.￻現在馬路上全是泥濘","￹`Aka~ `pi~`salama~ `to~ `sota'~.￺Don't play with dirt / mud.￻不要玩泥巴"],"f":"￹￺mud￻泥巴"},{"s":["`sra~"],"e":["￹`Mi~`'aca~ `kita~ `to~ `sota'~.￺We are buying land.￻我們購買土地"],"f":"￹￺land￻土地，田地"}]}],"t":"sota'"}
+,"sotic":{"h":[{"d":[{"f":"￹￺a species of tree * Sago Cycad (Cycas revoluta)￻蘇鐵"}]}],"t":"sotic"}
+,"soto":{"h":[{"d":[{"s":["`'onig~"],"f":"￹￺dirt￻污垢，污穢"}]}],"t":"soto"}
+,"sowaf":{"h":[{"d":[{"f":"￹￺to yawn￻打哈欠"}]}],"t":"sowaf"}
+,"sowal":{"h":[{"d":[{"e":["￹`Pa~`sowal~ `cigra~ `to~ `ifaloco'ay~ `nira~.￺He told / spoke what was in his heart.￻他說出他內心的話","￹`O~ `nika~ `somowal~ `ko~ `ga'ay~.￺You should speak.￻你最好說出來","￹`Ma~`sowal~ `ako~ `cigra~.￺I told her.￻我已告訴他了","￹`Ma~`sasowa~`sowal~ `kita~.￺Let's discuss with each other.￻我們彼此商量吧？","￹`O~ `maan~ `ko~ `sa~`sowal~`en~ `iso~?￺What do you have to say?￻你要說什麼？","￹`Sapa~`sowal~`an~ `kako~ `nikawrira~ `caay~ `ka~ `sadak~ `ko~ `sa~`sowal~`en~.￺I want to speak but the words don't come out.￻我很想說出來，但是講不出來 (欲言猶止，有口難言)"],"f":"￹￺words￻文字"},{"f":"￹￺speech￻演講，談話"},{"e":["￹`O~ `sowal~ `no~ `'Amis~ `konini~.￺This is Amis.￻這是阿美族說的話"],"f":"￹￺language￻語言"},{"f":"￹￺sayings * oracles￻說話，口頭，格言"}]}],"t":"sowal"}
+,"sowana":{"h":[{"d":[{"f":"￹￺large green garlic (from Amoy dialect)￻蒜頭 (引自閩南語)"}]}],"t":"sowana"}
+,"sowapay":{"h":[{"d":[{"s":["`sapay~","`slic~"],"f":"￹￺a sled￻指農耕用的載物橇而言"}]}],"t":"sowapay"}
+,"sowasan":{"h":[{"d":[{"f":"￹￺dog teeth - shaped metal pieces strung together to be shaken for music￻青銅犬齒，排鈴在齒根部分緊結在一起，撞繫擺動時發出清脆的鈴聲"}]}],"t":"sowasan"}
+,"spat":{"h":[{"d":[{"s":["`sakaspat~"],"e":["￹`Sa~`spat~ `kita~ `a~ `tayra~.￺Four of us will go.￻我們四個人去","￹`Spat~ `ko~ `waco~ `niyam~.￺We have four dogs.￻我們有四隻狗"],"f":"￹￺four￻四"}]}],"t":"spat"}
+,"spen":{"h":[{"d":[{"s":["`'pec~"],"f":"￹￺to look down upon * treat with disrespect.￻輕視，對待不禮貌，失禮，不敬重"}]}],"t":"spen"}
+,"sra":{"h":[{"d":[{"e":["￹`Ci~`ma~ `ko~ `ci~`sra~`ay~ `tonini~?￺Who owns this land?￻這塊土地是誰的?","￹`kahad~ `ko~ `sra~ `niyam~.￺We have a lot of land.￻我們的田地很大(廣大)，我們擁有很多土地"],"f":"￹￺land￻土地"}]}],"t":"sra"}
+,"sray":{"h":[{"d":[{"s":["`fray~"],"f":"￹￺to relax * release * let go of￻鬆弛，寬鬆，解開，解脫"}]}],"t":"sray"}
+,"srer":{"h":[{"d":[{"f":"￹￺to slide down * landslide￻滑落，滑動下來，崩坍"},{"e":["￹`Ma~`srer~`to~ `ko~ `'orip~ `ita~ `anini~.￺We have a less affluent life style now than before.￻現在我們的生活沒有以前富裕","￹`Ma~`srer~`to~ `ko~ `'icel~ `nira~.￺He has lost strength.￻他體力減退很多","￹`Ma~`srer~ `ko~ `'aca~ `no~ `dateg~.￺The price of vegetables has come down.￻蔬菜降價了","￹`Sreren~ `no~ `tawki~ `ko~ `matayalay~ `nira~.￺The boss gave his worker a lesser position.￻老闆把工人的地位降低"],"f":"￹￺to come down figuratively￻退化，降落，低落(比喻上)"}]}],"t":"srer"}
+,"sro":{"h":[{"d":[{"f":"￹￺the hump on the neck of a male water buffalo￻公牛背上有肉峰 (如駝峰)"},{"f":"￹￺To walk with a limp from having one short leg￻因另一支有缺陷的腳較短故走路不平均"}]}],"t":"sro"}
+,"sta%27":{"h":[{"d":[{"e":["￹`Fahal~ `~ `cigra~ `a~ `ma~`sta'~.￺He suddenly fell fainting.￻他突然的昏倒","￹`Ma~`pasta'~ `kako~ `to~ `nika~ `kamleg~ `no~ `lalan~.￺I fell down heavily from the slickness on the path.￻因路滑使我摔倒"],"f":"￹￺to fall and faint￻昏倒"}]}],"t":"sta'"}
+,"statihi":{"h":[{"d":[{"f":"￹￺to be off balance￻不平均，失去平衡"},{"s":["`tatokinil~"],"f":"￹￺to show favoritism￻偏愛，偏袒，不公平"}]}],"t":"statihi"}
+,"stay":{"h":[{"d":[{"f":"￹￺to be exhausted￻很疲倦"}]}],"t":"stay"}
+,"stek":{"h":[{"d":[{"s":["`pastek~"],"e":["￹`Ini~ `ko~ `ccay~ `a~ `ni~`stek~`an~ `a~ `titi~.￺Here is a piece of cut meat.￻這裡有一塊切好的肉"],"f":"￹￺to literally cut * sever￻字面上指切斷"}]}],"t":"stek"}
+,"stel":{"h":[{"d":[{"s":["`sastel~"],"e":["￹`O~ `stel~ `no~ `titi~ `konini~.￺This is a hunk of meat.￻這是肉塊 (這是個獵獲到的肉塊)","￹`O~ `mi~`stel~`ay~ `cigra~ `to~ `'ayam~.￺He is cutting the chicken's throat (to bleed it).￻他切割雞的脖子"],"f":"￹￺a piece that has been cut * to cut a piece off￻切成一片一片的，切塊狀；切一塊，片塊"}]}],"t":"stel"}
+,"sti%27":{"h":[{"d":[{"e":["￹`Aka~ `pi~`sti'~ `to~ `safa~.￺Don't hit your younger sister.￻不要打弟妹"],"f":"￹￺to hit * slap￻打擊，摑，打，掌擊"},{"e":["￹`O~ `sa~`sti'~`en~ `no~ `mama~ `hananay~ `ko~ `wawa~ `nira~ `a~ `lof~.￺Fathers must discipline their children.￻父親所以責打孩子們是要管教他們，為父者必須要訓練他們的子女"],"f":"￹￺figuratively to discipline￻喻上指訓練"}]}],"t":"sti'"}
+,"stik":{"h":[{"d":[{"e":["￹`O~ `ma~`stik~`ay~ `ko~ `kadafo~ `ako~.￺My son-in-law has a habit of going fishing.￻我女婿善於打魚 (捕魚)"],"f":"￹￺to set out to go fishing￻獵物，出去捕魚"}]}],"t":"stik"}
+,"sto%27":{"h":[{"d":[{"f":"￹￺to come loose from￻(鋤頭)脫落，解脫"},{"e":["￹`Ano~ `misaliway~ `to~ `tolo~ `a~ `romi'ad~ `'i~, `ma~`sto'~ `kita~.￺If we fast three days we will be faint with hunger.￻如果我們禁食三天，全身就軟弱無力","￹`Ma~`sto'~`to~ `cigra~ `to~ `nika~ `adihay~ `no~ `ni~`'orog~`an~ `nira~.￺He collapsed from the heavy load he was carrying.￻他搬運過多的東西使他衰弱疲倦","￹`Ma~`sto'~ `ko~ `kawil~ `no~ `pitaw~.￺The handle came loose from the hoe.￻鋤頭的柄鬆脫"],"f":"￹￺to collapse from hunger literally or figuratively￻指字面上或比喻上的，因飢餓而崩潰"}]}],"t":"sto'"}
+,"stol":{"h":[{"d":[{"e":["￹`sastol~ `kita~.￺We bumped into each other.￻我們互相碰撞","￹`Tahastol~ `kami~.￺We stumbled.￻我們被絆倒了"],"f":"￹￺to hit * bump against as when in an accident￻打，拍擊，碰撞，如車禍"}]}],"t":"stol"}
+,"syoni":{"h":[{"d":[{"f":"￹￺a nun * a sister * a Catholic woman committed to celibacy in serving God (from Chinese)￻尼姑，修女，天主教修女 (引自國語)"}]}],"t":"syoni"}
+}

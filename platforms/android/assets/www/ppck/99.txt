@@ -1,0 +1,359 @@
+{"ca":{"h":[{"d":[{"s":["`'ca~","`caay~"],"f":"￹￺a negative particle￻否定詞"}]}],"t":"ca"}
+,"ca%27ag":{"h":[{"d":[{"f":"￹￺branch￻枝幹"},{"f":"￹￺literal and figurative meanings￻具有字面上或寓意上的分枝, 分岐, 分支等含意"}]}],"t":"ca'ag"}
+,"ca%27ca%27":{"h":[{"d":[{"f":"￹￺small gate used in the doorway of a home to keep out chickens￻小柵門，小欄扇"},{"f":"￹￺reeds used to join bamboo pieces together￻用以連結竹竿的草"},{"f":"￹￺a portable bamboo mat for sitting or sleeping￻手提坐臥兩用的竹蓆或籐蓆"}]}],"t":"ca'ca'"}
+,"ca%27des":{"h":[{"d":[{"e":["￹`ca'des~ `ko~ `sowal~￺words are stern or sting￻他的話很嚴厲，他的話傷人，他的話有刺","￹`o~ `sa~`ca'des~`ay~ `a~ `dmak~ `no~ `lisin~￺the strictest activities of the religion￻宗教 (迷信) 最嚴酷的活動"],"f":"￹￺to sting as when putting salt on a cut￻擦傷痛，割傷上放鹽的痛楚"}]}],"t":"ca'des"}
+,"ca%27dog":{"h":[{"d":[{"f":"￹￺covering for the body￻遮蓋身體的衣物"},{"s":["`caca'dogan~","`cica'dogananay~","`paca'dog~"],"f":"￹￺to put on￻穿，穿上"}]}],"t":"ca'dog"}
+,"ca%27fas":{"h":[{"d":[{"f":"￹￺for waves to splash over a barrier * fast powerful motion of water￻浪溢出坡堤，水快速而有力的運動"}]}],"t":"ca'fas"}
+,"ca%27fay":{"h":[{"d":[{"f":"￹￺to put on * drape over the shoulder or shoulders￻披上，懸掛在肩上"}]}],"t":"ca'fay"}
+,"ca%27fon":{"h":[{"d":[{"f":"￹￺to throw dirt or dust on one's head￻將塵埃或粉末撒在別人的頭上"}]}],"t":"ca'fon"}
+,"ca%27gar":{"h":[{"d":[{"f":"￹￺to cross two poles and stand them up￻交叉兩支竿架起來"},{"f":"￹￺to heat food that is cold￻將冷食物懸吊在火堆上烤熱"},{"f":"￹￺to cook a plant whole￻番薯或芋頭等塊狀食物不經切割處理即放在鍋上煮"}]}],"t":"ca'gar"}
+,"ca%27gaw":{"h":[{"d":[{"f":"￹￺to look up or into the distance￻開眼，眼睛由合而開，注視，眺望"}]}],"t":"ca'gaw"}
+,"ca%27get":{"h":[{"d":[{"f":"￹￺itch * generic word for￻癢"}]}],"t":"ca'get"}
+,"ca%27i":{"h":[{"d":[{"e":["￹`Ca'ienho~ `kako~￺Let me go first.￻讓我先去"],"f":"￹￺to let someone else do something first￻謙讓別人優先"}]}],"t":"ca'i"}
+,"ca%27it":{"h":[{"d":[{"s":["`maca'it~"],"e":["￹`Mi~`ca'it~ `cigra~.￺He hung his satchel in the home. / i.e. He went to live with the person he proposed to marry.￻他把他的小皮包掛在家裡，意即與想結婚的對象住在一起生活 (同居) ※試婚"],"f":"￹￺to hang up￻懸掛，懸吊"}]}],"t":"ca'it"}
+,"ca%27lay":{"h":[{"d":[{"f":"￹￺to use a shoulder strap￻戴上肩帶"},{"s":["`paca'lay~"],"f":"￹￺ornamental shoulder cross band worn with tribal costume￻阿美族交叉佩掛在肩上的 裝飾品"}]}],"t":"ca'lay"}
+,"ca%27mot":{"h":[{"d":[{"s":["`ca'not~"],"e":["￹`Ma~`fana'~ `cigra~ `a~ `mi~`ca'mot~ `to~ `sowal~.￺He is an attentive listener.￻他聽講的吸收力很強，他是專注的聽眾"],"f":"￹￺to listen to instruction￻聆聽，領悟(教導或教訓)，吸收"}]}],"t":"ca'mot"}
+,"ca%27not":{"h":[{"d":[{"s":["`ca'mot~"],"e":["￹`Paka~`ca'not~ `cigra~.￺He is able to remember the first time he is told.￻第一次所講的，他都記得很清楚"],"f":"￹￺to listen * hold in memory￻記憶，記憶力"}]}],"t":"ca'not"}
+,"ca%27nto":{"h":[{"d":[{"f":"￹￺a negative meaning \"forget about it\"￻不做也罷了，算了"}]}],"t":"ca'nto"}
+,"ca%27of":{"h":[{"d":[{"s":["`paca'of~"],"f":"￹￺answer￻回答，回應，應答"}]}],"t":"ca'of"}
+,"ca%27or":{"h":[{"d":[{"s":["`'ofad~"],"f":"￹￺ten thousand￻萬，一萬"}]}],"t":"ca'or"}
+,"ca%27owaw":{"h":[{"d":[{"s":["`ta'owaw~"],"f":"￹￺to be weighed down on one end￻車輛的後部太重而前面被高舉"}]}],"t":"ca'owaw"}
+,"caa%27":{"h":[{"d":[{"f":"￹￺to look up and into the distance￻向上看，仰視，眺望，仰望，昂首"}]}],"t":"caa'"}
+,"caay":{"h":[{"d":[{"s":["`caayho~","`caayay~"],"e":["￹`Caay~ `ka~ `fana'~ `kako~.￺I don't know.￻我不知道"],"f":"￹￺no * not * negative￻不, 不是, 否定詞"}]}],"t":"caay"}
+,"caayay":{"h":[{"d":[{"s":["`caay~"],"f":"￹￺emphatic no￻不是"}]}],"t":"caayay"}
+,"caayho":{"h":[{"d":[{"s":["`caay~"],"f":"￹￺not yet￻還沒有"}]}],"t":"caayho"}
+,"caca%27dogan":{"h":[{"d":[{"s":["`ca'dog~"],"f":"￹￺sleeves￻袖子"}]}],"t":"caca'dogan"}
+,"cacafi%27an":{"h":[{"d":[{"s":["`cafi'~"],"f":"￹￺door frame * entrance way￻門檻"}]}],"t":"cacafi'an"}
+,"cacak":{"h":[{"d":[{"s":["`misacacak~"],"f":"￹￺to change from hard to soft￻煮，料理"}]}],"t":"cacak"}
+,"cacaklaw":{"h":[{"d":[{"f":"￹￺ringed black and white poisonous snake * no antidote for bite * White Plum Blossom Snake￻雨傘節"},{"f":"￹￺Common Scaled Water Snake * non-poisonous￻水蛇無毒"},{"f":"￹￺(Natrix annularis)￻水赤鏈游蛇"},{"s":["`lao'cen~"],"f":"￹￺(Natrix tigrina formosana Maki)￻台灣赤煉蛇"}]}],"t":"cacaklaw"}
+,"cacanoyan":{"h":[{"d":[{"s":["`cacanoyan~","`nanoy~","`canoy~"],"f":"￹￺a cradle * a swing￻搖籃"}]}],"t":"cacanoyan"}
+,"cacay":{"h":[{"d":[{"s":["`ccay~"],"f":"￹￺to be alone * no companion￻一，一個，單獨，沒有伙伴"}]}],"t":"cacay"}
+,"cacesces":{"h":[{"d":[{"f":"￹￺a snake * Chinese cobra * poisonous￻眼鏡蛇"}]}],"t":"cacesces"}
+,"cacido%27":{"h":[{"d":[{"f":"￹￺dragonfly￻蜻蜓"}]}],"t":"cacido'"}
+,"caciro%27":{"h":[{"d":[{"f":"￹￺the name of long water bug￻水蟲"}]}],"t":"caciro'"}
+,"caciyaw":{"h":[{"d":[{"s":["`glaw~","`karacaciyaw~"],"e":["￹`Misa~`caciyaw~ `cigra~.￺He talked a lot / went on and on without stopping.￻他不斷地講話，他滔滔不絕地講，他喋喋不休"],"f":"￹￺to talk￻說話，講話，話語"}]}],"t":"caciyaw"}
+,"cacodo":{"h":[{"d":[{"e":["￹`pa~`cacodo~ `to~ `pawli~￺to give (child) a banana (for a snack)￻給小孩香蕉，當點心(以替代蛋糕或糖菓等小孩的需求)"],"f":"￹￺temporary provision when the desired object is not available * as when meeting the needs of a child￻暫時的替代物，如當小孩的需要來滿足時所給予的暫時替代品"}]}],"t":"cacodo"}
+,"cacopi":{"h":[{"d":[{"f":"￹￺maggots￻蛆，幼蟲"}]}],"t":"cacopi"}
+,"cada":{"h":[{"d":[{"f":"￹￺to hold hands out to catch￻伸手接，承接，承受"},{"f":"￹￺to figuratively receive￻象徵性的，寓意性的接受，承受"}]}],"t":"cada"}
+,"cadi%27ci%27":{"h":[{"d":[{"f":"￹￺the sting of a wound as when salt touches it￻傷口觸鹽時之陣痛"},{"f":"￹￺heart pain￻心痛,苦痛"},{"f":"￹￺hurt when abused with words￻受壞話中傷的痛苦"}]}],"t":"cadi'ci'"}
+,"cadikis":{"h":[{"d":[{"f":"￹￺a hangnail * skin peeling away from fingernail cuticle￻掛釘"}]}],"t":"cadikis"}
+,"cadiw":{"h":[{"d":[{"s":["`sacadiw~"],"f":"￹￺sharpen￻磨刀，磨利"}]}],"t":"cadiw"}
+,"cadiway":{"h":[{"d":[{"f":"￹￺a hand net used to catch fish￻三角輕便捕魚網，手網，手網使用捕魚法"}]}],"t":"cadiway"}
+,"cadok":{"h":[{"d":[{"f":"￹￺to dig underneath to bring up * to scoop out￻鏟子，炒菜或盛飯的東西"}]}],"t":"cadok"}
+,"cadokol":{"h":[{"d":[{"f":"￹￺to scratch body from itching￻搔癢"}]}],"t":"cadokol"}
+,"cafay":{"h":[{"d":[{"s":["`pacafay~"],"f":"￹￺companion to do something￻同伴，伴侶"}]}],"t":"cafay"}
+,"cafeg":{"h":[{"d":[{"f":"￹￺the bamboo wall of a building￻竹竿做成的牆壁，隔牆"}]}],"t":"cafeg"}
+,"cafer":{"h":[{"d":[{"s":["`kalto~"],"f":"￹￺to stop enroute * to make a visit on the way￻順路拜訪，路過順便過門拜見"}]}],"t":"cafer"}
+,"cafi%27":{"h":[{"d":[{"f":"￹￺door frame￻門框"},{"s":["`lowid~","`dawa~","`tapi'~"],"f":"￹￺defeat * be defeated￻打敗"},{"s":["`macacafi'~","`cacafi'an~"],"f":"￹￺pass by and go ahead￻越過，迎頭趕上"}]}],"t":"cafi'"}
+,"cagal":{"h":[{"d":[{"s":["`kacagalan~"],"f":"￹￺to not meet expectations * the attitude of the person who is judging￻嫌不足，評判者對未達預期要求的態度"}]}],"t":"cagal"}
+,"cagaw":{"h":[{"d":[{"s":["`pacagaw~"],"f":"￹￺necklace￻項鍊，頸飾"}]}],"t":"cagaw"}
+,"cagdi":{"h":[{"d":[{"s":["`cagli~"],"f":"￹￺hard-shelled snail found in rice fields (from Amoy dialect)￻田螺 (引自閩南語)"}]}],"t":"cagdi"}
+,"cager":{"h":[{"d":[{"s":["`tahcager~"],"f":"￹￺to get caught in a stream or on a steep slope * of logs floated down stream that get caught and refuse to move￻溪(河)中漂流物卡住往溪(河)中或東西由高處滾動卡住在半腰上"},{"f":"￹￺to get waylaid * slow in returning￻躭誤，遭到阻礙"}]}],"t":"cager"}
+,"caglah":{"h":[{"d":[{"e":["￹`O~ `caglahanto~ `anini~.￺It is spring tine now.￻現在已經是春天了"],"f":"￹￺spring time￻春季"}]}],"t":"caglah"}
+,"caglal":{"h":[{"d":[{"s":["`pacaglal~"],"f":"￹￺a full moon￻滿月, 月圓, 陰曆每月十五日"}]}],"t":"caglal"}
+,"cagli":{"h":[{"d":[{"s":["`cagdi~"],"f":"￹￺Refer to `cagdi~￻詳見 `cagdi~"}]}],"t":"cagli"}
+,"cago%27ot":{"h":[{"d":[{"s":["`garod~"],"f":"￹￺inadequate * need * lack * often used with reference to livelihood￻不正確，不足，不夠，缺乏，不敷，常用於生計上的不足"}]}],"t":"cago'ot"}
+,"cagra":{"h":[{"d":[{"f":"￹￺they.  See Appendix 1 - Pronouns￻他們。請參閱附錄Ⅰ代名詞"}]}],"t":"cagra"}
+,"cagray":{"h":[{"d":[{"f":"￹￺to lean back against something￻倚靠, 依偎"}]}],"t":"cagray"}
+,"cahak":{"h":[{"d":[{"f":"￹￺to widen *to begin narrow and grow wider￻拓 寬，擴大，由狹小而變大"},{"s":["`cahal~","`macahak~"],"f":"￹￺to wait for fish to enter a trap￻設魚籠陷阱等魚進入"}]}],"t":"cahak"}
+,"cahal":{"h":[{"d":[{"s":["`cahak~"],"f":"￹￺Refer to `cahak~￻詳見 `cahak~"}]}],"t":"cahal"}
+,"cahcah":{"h":[{"d":[{"s":["`cahacah~"],"f":"￹￺out of breath￻喘氣，上氣不接下氣"}]}],"t":"cahcah"}
+,"cahdal":{"h":[{"d":[{"f":"￹￺the condition when sun comes out for a moment between rain showers￻驟雨中陽光短暫照射貌"}]}],"t":"cahdal"}
+,"cahfay":{"h":[{"d":[{"s":["`pacahfay~"],"f":"￹￺to drape over * of clothing or blankets￻懸掛衣物或被類攤開風乾或曝晒"}]}],"t":"cahfay"}
+,"cahid":{"h":[{"d":[{"s":["`to'em~"],"f":"￹￺clouds (Hualien county)￻雲，雲彩 (花蓮語)"},{"f":"￹￺dried stem of taro used for food￻芋頭莖曬乾 (當菜煮熟來吃)"}]}],"t":"cahid"}
+,"cahiw":{"h":[{"d":[{"s":["`solep~"],"e":["￹`Ma~`cahiw~`en~ `kako~.￺I feel hungry.￻我肚子餓","￹`Pa~`cahiw~`en~ `nira~ `kamo~.￺He made you go hungry.￻他讓你們挨餓"],"f":"￹￺hunger * hungry￻餓，空腹，饑餓"}]}],"t":"cahiw"}
+,"cahkit":{"h":[{"d":[{"e":["￹`Ma~`cahkit~ `koya~ `wawa~.￺The child is disturbed.￻那孩子被驚嚇","￹`Mi~`cahkit~ `koya~ `wawa~.￺The child is disturbing others.￻那個孩子帶給別人煩燥"],"f":"￹￺disturb￻驚嚇"}]}],"t":"cahkit"}
+,"cahni":{"h":[{"d":[{"f":"￹￺itching from being around grass or grain￻草或穀類粉末引起的皮膚癢"}]}],"t":"cahni"}
+,"caho":{"h":[{"d":[{"s":["`cahocaho~"],"f":"￹￺not yet￻還沒有，尚未"}]}],"t":"caho"}
+,"cahocaho":{"h":[{"d":[{"s":["`caho~","`ca~`caayho~"],"e":["￹`Cahocaho~ `mi~`liyas~ `cagra~ `to~ `limo'ot~ `ako~.￺Almost immediately they left my commands.￻他們不一會功夫就離開了我的勸告(告誡)"],"f":"￹￺in almost no time * almost at once￻幾乎沒有時間，立刻，尚未，不久"}]}],"t":"cahocaho"}
+,"cahog":{"h":[{"d":[{"f":"￹￺a temporary dwelling￻臨時住所，工寮"},{"f":"￹￺a visor as on a cap￻帽子，遮雨棚"}]}],"t":"cahog"}
+,"cahok":{"h":[{"d":[{"s":["`'acaw~"],"f":"￹￺to scoop out as with a dipper or hand net￻舀取"},{"f":"￹￺an object used for scooping water or grain or sand￻用杓挹取液體或盛器舀取穀物或沙子"}]}],"t":"cahok"}
+,"caholak":{"h":[{"d":[{"s":["`fofo~"],"f":"￹￺a fish trap laid in a stream to catch fish or young minnows￻捕魚用螺形竹製籠"}]}],"t":"caholak"}
+,"cakal":{"h":[{"d":[{"f":"￹￺a muzzle for an ox or water buffalo￻牛之鼻籠"},{"f":"￹￺a band made of a reed used on the top of a wooden bucket to hold it together￻蘆葦做箍帶用以籠集木製水桶"}]}],"t":"cakal"}
+,"cakat":{"h":[{"d":[{"s":["`pacakat~","`pipacakatan~"],"e":["￹`Pa~`cakat~`en~ `ko~ `tireg~ `iso~ `faloco'~ `iso~ `i~ `was~.￺Offer yourself and your heart to God.￻把你的身心獻給上帝","￹`O~ `maan~ `ko~ `sapa~`cakat~ `noya~ `misa~`lisin~`ay~?￺What does that person who is practicing a rite have for an offering?￻那些祭拜的人所獻的祭品是甚麼？","￹`O~ `pa~`pacakat~`en~ `koya~ `matayalay~.￺That worker is to get a higher position.￻那些工作人員將被提拔升級"],"f":"￹￺to arise * go up￻上升，往上，昇起，升級"}]}],"t":"cakat"}
+,"cakay":{"h":[{"d":[{"s":["`micakay~","`mi'aca~","`pacakay~","`pa~`liwal~"],"f":"￹￺to take￻買，購；購買"}]}],"t":"cakay"}
+,"cakcak":{"h":[{"d":[{"s":["`calcal~"],"f":"￹￺to cut into pieces with a machete as sweet potatoes￻切成大塊大塊(如蕃薯等)"},{"f":"￹￺to hoe ground till it is well tilled￻用鋤頭翻土耕地"}]}],"t":"cakcak"}
+,"caki":{"h":[{"d":[{"s":["`micaki~"],"f":"￹￺a basket for vegetables￻菜籃"},{"s":["`pogki~"],"f":"￹￺a rubbish basket￻畚箕"}]}],"t":"caki"}
+,"cakil":{"h":[{"d":[{"e":["￹`cakli~ `ko~ `rakat~ `niyam~.￺Our path was very steep.￻我們沿著陡峭的小徑走"],"f":"￹￺very steep path in the mountains￻險陡小徑"}]}],"t":"cakil"}
+,"caklis":{"h":[{"d":[{"s":["`timpo~"],"f":"￹￺an ax * instrument for chopping￻斧頭"}]}],"t":"caklis"}
+,"cakod":{"h":[{"d":[{"f":"￹￺to jump * prance * gallop￻跳越"}]}],"t":"cakod"}
+,"cala%27":{"h":[{"d":[{"f":"￹￺the jaw bone * jaw￻顎，顎骨"}]}],"t":"cala'"}
+,"calacalaw":{"h":[{"d":[{"f":"￹￺a demon who deceives people with the guise of being a comforter * i.e. when someone loses a family member and this spirit comes and makes them feel more sad and guilty * or when a child thinks it is following its mother only to be led far from home￻鬼名, 善於喬裝為安慰者以欺騙人。當一個家庭有喪事時，這鬼魂就來使他們更加悲傷與內疚 * 讓小孩以為是在跟著母親走，結果離家越走越遠"}]}],"t":"calacalaw"}
+,"calamay":{"h":[{"d":[{"f":"￹￺Indian Rubber Tree￻印度橡樹"}]}],"t":"calamay"}
+,"calap":{"h":[{"d":[{"f":"￹￺to unintentionally take what is lying around and belongs to another * as to go over the land marker * as when your portion sits on my section so I take it￻如越界侵犯土地 * 如你的份落在我的地段上，所以我要拿走"}]}],"t":"calap"}
+,"calascas":{"h":[{"d":[{"f":"￹￺the sound of running water￻潺潺流水聲"}]}],"t":"calascas"}
+,"calay":{"h":[{"d":[{"s":["`pacalay~"],"e":["￹`O~ `maan~ `ko~ `ni~`calay~`an~ `iso~?￺What did you rope (a cow)?￻你牽什麼(是黃牛嗎)？"],"f":"￹￺rope used for water buffalo￻牽牛繩，線(如電線)"},{"f":"￹￺spider web￻蜘蛛網"}]}],"t":"calay"}
+,"calcal":{"h":[{"d":[{"f":"￹￺to break up with a large machete or ax￻用大刀或 斧頭劈開"}]}],"t":"calcal"}
+,"caleg":{"h":[{"d":[{"f":"￹￺pine tree or wood￻松樹，松柏"}]}],"t":"caleg"}
+,"calemcem":{"h":[{"d":[{"f":"￹￺fear at the sight of something * something appears dangerous or critical to the observor￻引由為對任何危險事物發生之憂慮與担心"}]}],"t":"calemcem"}
+,"calig":{"h":[{"d":[{"s":["`lapic~","`micalig~"],"e":["￹`Ma~`calig~ `no~ `tao~ `ko~ `omah~ `ako~.￺My field has been encroached upon by outsiders.￻我的土地被他人侵占了"],"f":"￹￺to encroach upon * as someone's land and use as to plant a garden￻侵占(越界)鄰界來種植"}]}],"t":"calig"}
+,"caliw":{"h":[{"d":[{"s":["`pacaliw~","`micaliw~","`macaliw~"],"f":"￹￺borrow * lend￻借入，借出"}]}],"t":"caliw"}
+,"caloway":{"h":[{"d":[{"f":"￹￺to be easy to do or handle * handy * convenient￻易於操作，順手的，便利"}]}],"t":"caloway"}
+,"camol":{"h":[{"d":[{"s":["`micamol~","`pacamol~","`macacamol~"],"f":"￹￺mixture￻混合"}]}],"t":"camol"}
+,"canem":{"h":[{"d":[{"f":"￹￺mist * appearing over water or the ocean￻霧，霧氣"}]}],"t":"canem"}
+,"cani%27iw":{"h":[{"d":[{"e":["￹`Ma~`foti'~ `~ `Yis~ `i~ `cani'iw~ `no~ `tamina~.￺Jesus slept in the hold of the ship.￻耶穌睡在船尾","￹`Mi~`maan~ `kiso~ `a~ `maro'~ `i~ `cani'iw~ `no~ `loma'~?￺Why are you sitting in such an out-of-the-way place?￻你坐在房子的深處作甚麼？"],"f":"￹￺an inside place * a place out of sight￻內部，視力達不到的地方"}]}],"t":"cani'iw"}
+,"caniker":{"h":[{"d":[{"f":"￹￺a lock * method to lock￻鎖，鎖的方法"}]}],"t":"caniker"}
+,"canot":{"h":[{"d":[{"f":"￹￺the tiny pieces at the end of things￻線條末端的毛狀物"},{"f":"￹￺smallest threads of string￻最小的纖維"},{"f":"￹￺tip of a letter in writing￻字跡的尖端"},{"f":"￹￺something not needed￻不需要的東西"}]}],"t":"canot"}
+,"canoy":{"h":[{"d":[{"f":"￹￺cradle * hammock￻搖動 ( 懸吊的東西 )"},{"s":["`nanoy~","`cacanoyan~"],"f":"￹￺a swing * to swing￻搖擺，擺動"}]}],"t":"canoy"}
+,"capa%27":{"h":[{"d":[{"f":"￹￺forked * as a road￻叉路，交叉處，分 叉處"},{"s":["`cipa'~","`cacipa'~"],"f":"￹￺a fork for attaching a cross pole￻做成一個叉形使橫木附 屬於上面"}]}],"t":"capa'"}
+,"capas":{"h":[{"d":[{"f":"￹￺a fork * to branch off from the straight path￻由直路分岔"},{"f":"￹￺with negative * unable to keep up with or catch up with a person or a job￻用以否定一不能趕上別人或工作"}]}],"t":"capas"}
+,"capay":{"h":[{"d":[{"s":["`fitig~"],"f":"￹￺earrings￻耳環"}]}],"t":"capay"}
+,"caper":{"h":[{"d":[{"f":"￹￺to lift up to a higher position something that has slid down * as waht is tied on one's back￻提住或提升(高)滑動的東西，如提(抬)高背上的小孩或揹袱"}]}],"t":"caper"}
+,"capet":{"h":[{"d":[{"f":"￹￺to grab with the hand * catch￻抓住(用手)，用手捕抓(捉)，接球"}]}],"t":"capet"}
+,"capo%27":{"h":[{"d":[{"f":"￹￺the act of xutting wood or bamboo￻砍樹，砍竹的動作 (尤 指一刀砍斷的功夫)"}]}],"t":"capo'"}
+,"capox":{"h":[{"d":[{"s":["`misacapox~","`sacapoxan~"],"f":"￹￺rice seedlings￻秧苗"}]}],"t":"capox"}
+,"cara":{"h":[{"d":[{"f":"￹￺to interrupt￻打攪，妨礙，打斷 (工作，說話等)"}]}],"t":"cara"}
+,"carcar":{"h":[{"d":[{"e":["￹`pacarcar~ `a~ `maro'~￺1. sit down for a few minutes 2. stay in someone's home￻1. 坐下休息片刻 2. 暫住他人家"],"f":"￹￺to temporarily do something￻暫時，片刻，短暫"}]}],"t":"carcar"}
+,"carkah":{"h":[{"d":[{"f":"￹￺rough * description of the surface of something scratchy * wiry * to have traction￻粗燥，形容東西的表面；有牽引力；抓痕，搔痕"}]}],"t":"carkah"}
+,"carofacof":{"h":[{"d":[{"f":"￹￺fog * light cloud￻輕霧"}]}],"t":"carofacof"}
+,"cascas":{"h":[{"d":[{"f":"￹￺waterfall￻瀑布"}]}],"t":"cascas"}
+,"cawag":{"h":[{"d":[{"f":"￹￺slit apart * as the slits in a Chinese dress￻開叉，如中國旗袍之開叉"}]}],"t":"cawag"}
+,"cawas":{"h":[{"d":[{"f":"￹￺a split with space between the two parts￻分裂成兩部份中間有間隔"},{"e":["￹`Ma~`ca~`cawas~ `ko~ `ramod~ `nagra~.￺They are divorced.￻他們分離了，他們離婚了"],"f":"￹￺a method of notching wood and laying a cross pole￻把一個木頭刻成凹形橫擺一個橫木在上面成十字形"}]}],"t":"cawas"}
+,"cawhi":{"h":[{"d":[{"f":"￹￺Sea Perch * Japanese Sea Bass (Lateolabrax japonicus) a fish (from Amoy dialect)￻鱸魚(引自閩南語)"}]}],"t":"cawhi"}
+,"cawi":{"h":[{"d":[{"e":["￹`ma~`ca~`cawi~ `a~ `romadiw~￺to sing in rounds * to have an echo respond in singing￻對唱；以對唱方式唱歌","￹`ma~`ca~`cawi~ `a~ `somowal~￺to have a discussion￻他們談論(討論事情)","￹`Pa~`cawi~`en~ `ko~ `sowal~ `nira~￺Answer him.￻回答他的話吧！"],"f":"￹￺reply￻回答，回應，應答"}]}],"t":"cawi"}
+,"cawi%27":{"h":[{"d":[{"f":"￹￺a dividing place￻分離的地方"},{"f":"￹￺name of an Amis village * divided from the next village by a river￻靜埔部落名，與另一部落(港口)被一條河隔開"}]}],"t":"cawi'"}
+,"cawpi":{"h":[{"d":[{"f":"￹￺the bars on a wooden wagon that bear the yoke of the ox or water buffalo￻車轅"}]}],"t":"cawpi"}
+,"cayat":{"h":[{"d":[{"f":"￹￺to share a part of a piece of cloth￻二人或數人同時拉開同一條布"}]}],"t":"cayat"}
+,"cayna":{"h":[{"d":[{"f":"￹￺a basket to carry on shoulder for vegetables (from Amoy dialect)￻菜籃(引自閩南語)"}]}],"t":"cayna"}
+,"ccay":{"h":[{"d":[{"s":["`haccayen~","`kinaccay~","`sakaccay~","`alaccay~"],"e":["￹`pakaccayto~ `kako~.￺I am isolated from the rest / left alone.￻我被孤立, 身影孤單"],"f":"￹￺one * the first of in counting￻一，數算的第一，首位"}]}],"t":"ccay"}
+,"cda%27ah":{"h":[{"d":[{"s":["`hodiyak~"],"f":"￹￺groan as when in distress * voiceless letting out of air￻嘆息"}]}],"t":"cda'ah"}
+,"cdas":{"h":[{"d":[{"f":"￹￺rushing water as of a fast moving river￻洪水，因雨或颱風所 引發之河水暴漲"}]}],"t":"cdas"}
+,"cdeg":{"h":[{"d":[{"f":"￹￺to do something slowly￻慢慢地做，慢條斯理"}]}],"t":"cdeg"}
+,"cdem":{"h":[{"d":[{"f":"￹￺sweet tasting￻甜，甘蜜"},{"f":"￹￺good tasting￻好的滋味"}]}],"t":"cdem"}
+,"cdet":{"h":[{"d":[{"f":"￹￺to burn the skin as when splashed by hot water￻當被熱水潑到那種突熱的感覺"}]}],"t":"cdet"}
+,"cdi":{"h":[{"d":[{"e":["￹`Ci~`cdi~ `ko~ `sowal~ `nira~.￺He is a forceful speaker.￻他的話強而有力，他義正詞嚴，他的話一針見血"],"f":"￹￺power * strength, with literal and figurative meanings￻力量，能力，動力；字面上與寓意上的能力意義兼有"}]}],"t":"cdi"}
+,"cdo":{"h":[{"d":[{"f":"￹￺to put in water￻放進水中"}]}],"t":"cdo"}
+,"cekcek":{"h":[{"d":[{"e":["￹`Ma~`cekcek~ `ko~ `pi~`paloma~ `to~ `anip~.￺The rice plants are put too close together.￻秧苗插得很擁擠"],"f":"￹￺to press * crowd together * shake down * of people or grain etc.￻擠置，擠放在一起"}]}],"t":"cekcek"}
+,"celcel":{"h":[{"d":[{"f":"￹￺to slip through a crowded place￻從擁擠的人群中擠出來"}]}],"t":"celcel"}
+,"cepcep":{"h":[{"d":[{"s":["`copcop~"],"f":"￹￺to suck * as a mosquito sucks blood￻吸，咂，如蚊子之吸血"}]}],"t":"cepcep"}
+,"cfag":{"h":[{"d":[{"s":["`masacfacfag~"],"e":["￹`Pala~`tolo~`en~ `nira~ `a~ `pasa~`cfag~ `ko~ `sofitay~.￺He made the soldiers into three groups.￻他把士兵分成三隊"],"f":"￹￺a group * chapter * division of people or things￻羣、章，團，組，班(東西或人的組成單位)"}]}],"t":"cfag"}
+,"cfis":{"h":[{"d":[{"f":"￹￺to snatch something held by another from his hands￻搶奪，掠取"}]}],"t":"cfis"}
+,"cfo":{"h":[{"d":[{"e":["￹`Ma~`cfo~ `ko~ `wawa~ `ako~.￺My child bed-wets.￻我的孩子尿床"],"f":"￹￺bladder * container for urine￻膀胱"}]}],"t":"cfo"}
+,"cfog":{"h":[{"d":[{"e":["￹`Pa~`cfog~`en~ `ko~ `wawa~ `i~ `pi~`tilid~`an~.￺Enter the child into school.￻讓小孩入學吧!"],"f":"￹￺to dip into * as vegetables into boiling water￻浸泡(如蔬菜放入滾開水中)"}]}],"t":"cfog"}
+,"cfos":{"h":[{"d":[{"f":"￹￺to splash liquid or water on something￻潑，澆，灑，撒液體或水在東西上面的動作"}]}],"t":"cfos"}
+,"cgaw":{"h":[{"d":[{"e":["￹`ma~`cgaw~ `ko~ `faloco'~￺awareness * of heart attitude￻心門開竅，覺醒，醒悟"],"f":"￹￺to open * of one who has been sleeping and opens eyes￻從睡夢中睜開眼睛看"}]}],"t":"cgaw"}
+,"cgel":{"h":[{"d":[{"f":"￹￺color￻顏色"},{"f":"￹￺contamination￻汙染"}]}],"t":"cgel"}
+,"cgo%27":{"h":[{"d":[{"f":"￹￺tender shoots on a vegetation￻芽，嫩芽"}]}],"t":"cgo'"}
+,"ci%27acfelay":{"h":[{"d":[{"f":"￹￺train￻火車，冒煙者"}]}],"t":"ci'acfelay"}
+,"ci%27ada":{"h":[{"d":[{"f":"￹￺to have an enemy￻有敵人"}]}],"t":"ci'ada"}
+,"ci%27ci%27":{"h":[{"d":[{"s":["`kegkeg~"],"f":"￹￺a ditch where water runs￻水溝，水圳，水渠"}]}],"t":"ci'ci'"}
+,"ci%27dilay":{"h":[{"d":[{"s":["`'dil~"],"f":"￹￺something that is radiant * glorious￻發亮的，榮耀的"}]}],"t":"ci'dilay"}
+,"ci%27em":{"h":[{"d":[{"s":["`'pec~","`spen~","`paci'em~"],"f":"￹￺to look down upon￻輕視，輕蔑"}]}],"t":"ci'em"}
+,"ci%27ep":{"h":[{"d":[{"f":"￹￺to sip water with the mouth from the water's source￻用口吸水"}]}],"t":"ci'ep"}
+,"ci%27im":{"h":[{"d":[{"f":"￹￺a sprout from the base of a plant * an offshoot￻芽，發芽，萌芽"}]}],"t":"ci'im"}
+,"ci%27iwi":{"h":[{"d":[{"s":["`ciwi~","`ciwa'~","`cirid~"],"e":["￹`Mi~`ci'iwi~ `ko~ `harateg~ `nira~.￺He thinks differently from the rest. / His thinking is wrong.￻他的思想偏激，他的思想與其他人不一樣，他的思想錯誤"],"f":"￹￺to diverge from the main path * go off main trail￻從主道中分出來，分歧"}]}],"t":"ci'iwi"}
+,"ci%27keg":{"h":[{"d":[{"s":["`yokeg~","`talafinan~","`flalonan~"],"f":"￹￺a large water vessel for storing water￻水缸，大的儲水器"}]}],"t":"ci'keg"}
+,"ci%27lis":{"h":[{"d":[{"f":"￹￺the amount of pitch to the placement of something * angle￻傾斜，斜坡，坡度，相同於置放東西的斜度，角度"}]}],"t":"ci'lis"}
+,"ci%27orip":{"h":[{"d":[{"s":["`'orip~"],"f":"￹￺have iife￻有生命"}]}],"t":"ci'orip"}
+,"cica%27":{"h":[{"d":[{"f":"￹￺pitch from a tree￻樹脂"},{"s":["`'adteg~"],"f":"￹￺white sap of some plants￻有些植物的白汁"}]}],"t":"cica'"}
+,"cica%27dogananay":{"h":[{"d":[{"s":["`ca'dog~"],"f":"￹￺clothing with sleeves￻有袖子的衣服"}]}],"t":"cica'dogananay"}
+,"cicax":{"h":[{"d":[{"f":"￹￺a species of bird called Brown Shrike.  A migratory bird.￻伯勞鳥，候鳥"}]}],"t":"cicax"}
+,"cicih":{"h":[{"d":[{"f":"￹￺to tear * of cloth or paper￻[衣服或紙張]撕破，撕裂"},{"e":["￹`Ma~`cicih~ `namo~ `ko~ `tatlekan~ `ita~.￺You broke our covenant.￻你們廢了我的契約(約定)，你們廢約"],"f":"￹￺to figuratively break￻寓意上的撕破"}]}],"t":"cicih"}
+,"cicir":{"h":[{"d":[{"f":"￹￺a bamboo pipe or trough used for piping water￻竹，鐵，木槽製成之水橋，或用水管引水"}]}],"t":"cicir"}
+,"ciciw":{"h":[{"d":[{"f":"￹￺a small pig * piglet￻小豬，子豬"}]}],"t":"ciciw"}
+,"cico%27og":{"h":[{"d":[{"s":["`co'og~"],"f":"￹￺budded tree or plant￻生芽，發芽，萌芽"}]}],"t":"cico'og"}
+,"cicokap":{"h":[{"d":[{"s":["`cokap~"],"f":"￹￺to have shoes￻穿鞋"}]}],"t":"cicokap"}
+,"cidafogay":{"h":[{"d":[{"s":["`dafog~"],"f":"￹￺one who is rich￻富裕的人，有錢人"}]}],"t":"cidafogay"}
+,"cidal":{"h":[{"d":[{"s":["`macidal~","`pacidal~","`mikicidal~"],"f":"￹￺sun￻日，太陽"}]}],"t":"cidal"}
+,"cidek":{"h":[{"d":[{"f":"￹￺to separate￻分居，離羣孤居"},{"s":["`micidek~","`mapalacidek~"],"f":"￹￺Black Tanoak tree (Pansania brevicauda)￻短尾柯(黑石櫟)"}]}],"t":"cidek"}
+,"cidem":{"h":[{"d":[{"f":"￹￺a sharp point * a sharp end￻尖銳，銳利，尖端部分"}]}],"t":"cidem"}
+,"cidodohay":{"h":[{"d":[{"s":["`dohdoh~"],"f":"￹￺green onions￻蔥"}]}],"t":"cidodohay"}
+,"ciem":{"h":[{"d":[{"f":"￹￺the set of the lips when silent and looking on￻噘嘴沉思和凝視"},{"f":"￹￺a term of address to the mother of child's spouse (from Amoy dialect)￻親家母(引自閩南語)"}]}],"t":"ciem"}
+,"cifalo":{"h":[{"d":[{"s":["`falo~"],"f":"￹￺to flower * bloom￻開花"}]}],"t":"cifalo"}
+,"cifanoh":{"h":[{"d":[{"s":["`fanoh~"],"f":"￹￺to have hairy skin or fur￻有毛，長毛"}]}],"t":"cifanoh"}
+,"cifar":{"h":[{"d":[{"f":"￹￺a bowl made from base of a betel nut palm branch￻用檳榔皮製成菜餚之盛器"},{"f":"￹￺a ship * boat￻船，輪船"}]}],"t":"cifar"}
+,"cifes":{"h":[{"d":[{"f":"￹￺the fin of a fish￻鰭魚翅"}]}],"t":"cifes"}
+,"cifolo%27ay":{"h":[{"d":[{"f":"￹￺to have a lot of small bamboo trees of the species of folo'￻長有箭竹的地方"},{"f":"￹￺the name of a village * many bamboo trees grew there￻花蓮縣壽豐鄉崩崁部落名"}]}],"t":"cifolo'ay"}
+,"cifrag":{"h":[{"d":[{"s":["`sinoet~","`ifagat~"],"f":"￹￺to perspire * perspiration￻悶熱，出汗"}]}],"t":"cifrag"}
+,"ciga":{"h":[{"d":[{"e":["￹`sa~`ciga~`ciga~ `~￺to look back and forth at each other￻[因聽到聲音而]東張西望彼此相視"],"f":"￹￺to look up responding to hearing￻聽到聲音則摒氣弄清之狀"}]}],"t":"ciga"}
+,"cigaroan":{"h":[{"d":[{"s":["`Cigaroan~"],"f":"￹￺the name of an Amis village * the Amis name of Fenglin￻花蓮縣鳳林鎮鳳信部落名"}]}],"t":"cigaroan"}
+,"cigcig":{"h":[{"d":[{"f":"￹￺to change land boundary to add to one own's property￻擅改界線以蠶食手段將鄰土地占為己有"}]}],"t":"cigcig"}
+,"cigdis":{"h":[{"d":[{"s":["`gocdis~"],"f":"￹￺to bare ones teeth as a dog does￻露出牙齒(如狗)"}]}],"t":"cigdis"}
+,"cigki":{"h":[{"d":[{"f":"￹￺to become related through marriage of children to each other * the fathers of each couple (from Amoy dialect)￻親家父(引自閩南語)"}]}],"t":"cigki"}
+,"cigra":{"h":[{"d":[{"f":"￹￺he * she.  See Appendix 1 - Pronouns.￻他或她，參閱附錄Ⅰ - 代名詞"}]}],"t":"cigra"}
+,"cihaf":{"h":[{"d":[{"s":["`cikaf~"],"f":"￹￺scales of a fish￻魚鱗"}]}],"t":"cihaf"}
+,"cihafayan":{"h":[{"d":[{"f":"￹￺the name of a village￻花蓮縣鳳林鎮中興部落名"},{"f":"￹￺literally place where there is millet￻豐產小米的地方"}]}],"t":"cihafayan"}
+,"cihafayay":{"h":[{"d":[{"s":["`hafay~"],"f":"￹￺someone who is rich￻有財富的人"}]}],"t":"cihafayay"}
+,"cihak":{"h":[{"d":[{"f":"￹￺the name of a tree￻樹名(阿美族有時剝其皮當檳榔的的替代品來嚼)"}]}],"t":"cihak"}
+,"cihrag":{"h":[{"d":[{"s":["`kacihragan~"],"f":"￹￺to be honored￻受尊重，敬重"}]}],"t":"cihrag"}
+,"cikadaan":{"h":[{"d":[{"f":"￹￺Kada is the name of a person kada￻係日人名賀田"},{"f":"￹￺name of an Amis village * origin of kada￻台東縣長濱鄉南溪部落名(曾有名賀田\"kada\"之人最先住過此地而得名)"}]}],"t":"cikadaan"}
+,"cikaf":{"h":[{"d":[{"s":["`cihaf~"],"f":"￹￺scales of a fish￻魚鱗"}]}],"t":"cikaf"}
+,"cikasoan":{"h":[{"d":[{"f":"￹￺name of an Amis clan￻阿美族氏族名，漢譯為七脚川"},{"f":"￹￺name of a village￻七脚川部落名，原址在現吉安鄉農業改良場一帶"}]}],"t":"cikasoan"}
+,"cikawasay":{"h":[{"d":[{"s":["`sikawasay~","`kawas~"],"f":"￹￺a medium * witch doctor who is subject to possession by a spirit￻巫婆，巫師"}]}],"t":"cikawasay"}
+,"cikay":{"h":[{"d":[{"e":["￹`sa~`cika~`cikay~ `~￺to run this and that direction￻跑來跑去"],"f":"￹￺movement￻跑步運動"},{"s":["`comikay~","`hacikay~"],"f":"￹￺speed￻速度"}]}],"t":"cikay"}
+,"cikcik":{"h":[{"d":[{"s":["`kinacikcik~"],"f":"￹￺to cut up into small pieces￻切成一塊"}]}],"t":"cikcik"}
+,"cikeg":{"h":[{"d":[{"f":"￹￺a large earthen water container for water storage (from Amoy dialect)￻水缸(引自閩南語)"}]}],"t":"cikeg"}
+,"ciker":{"h":[{"d":[{"s":["`ta'ta~","`nit~","`saciker~"],"f":"￹￺to lock￻鎖住，上鎖"}]}],"t":"ciker"}
+,"cikil":{"h":[{"d":[{"f":"￹￺a finger or toe of the body that is superfluous￻多出的手指和腳趾"}]}],"t":"cikil"}
+,"ciko":{"h":[{"d":[{"f":"￹￺elbow￻肘，肘狀物"},{"e":["￹`ciko~ `no~ `lalan~￺intersection in the street￻街道之交叉點，十字路口"],"f":"￹￺intersection￻交叉點"},{"f":"￹￺corner￻角落"}]}],"t":"ciko"}
+,"cikor":{"h":[{"d":[{"s":["`Cikor~"],"f":"￹￺name of an Amis village￻蕃薯寮坑之地名"}]}],"t":"cikor"}
+,"cikowa%27ay":{"h":[{"d":[{"f":"￹￺to have papaya trees￻產木瓜之地"},{"f":"￹￺name of an Amis village￻台東縣池上鄉富興部落名"}]}],"t":"cikowa'ay"}
+,"cila":{"h":[{"d":[{"s":["`anocila~","`inacila~","`icila~","`tahacila~","`cilacila~"],"e":["￹`cila~ `sato~￺next day￻次日"],"f":"￹￺time when marked, by particles before or after￻特定時間之前後"}]}],"t":"cila"}
+,"cilacila":{"h":[{"d":[{"s":["`cila~"],"f":"￹￺frequently￻常常，時常"}]}],"t":"cilacila"}
+,"cilah":{"h":[{"d":[{"s":["`nah~","`pacilah~"],"f":"￹￺salt￻鹽"}]}],"t":"cilah"}
+,"cilahoday":{"h":[{"d":[{"s":["`lahod~"],"f":"￹￺something that has steam * vapor￻有蒸汽的"}]}],"t":"cilahoday"}
+,"cilamitay":{"h":[{"d":[{"f":"￹￺to have roots￻多根的"},{"f":"￹￺name of an Amis village￻花蓮縣富里鄉豐南部落名"}]}],"t":"cilamitay"}
+,"cilas":{"h":[{"d":[{"f":"￹￺reckless * foolish￻魯莽的，愚蠢的"},{"f":"￹￺to live in luxury and wantonness￻生活不檢點，放任，放肆"}]}],"t":"cilas"}
+,"cilgacay":{"h":[{"d":[{"f":"￹￺See lgac, to have that kind of plant￻參看 lgac 多產月桃之地"},{"f":"￹￺name of a village￻花蓮縣玉里鎮德武落名"}]}],"t":"cilgacay"}
+,"cilidog":{"h":[{"d":[{"s":["`lidog~"],"f":"￹￺to have a place of shade or shelter￻有遮蔭之處"}]}],"t":"cilidog"}
+,"cilifon":{"h":[{"d":[{"s":["`lifon~"],"f":"￹￺to get wages￻得酬勞"}]}],"t":"cilifon"}
+,"cilikesay":{"h":[{"d":[{"f":"￹￺to have mosquitos￻多蚊(蚊子猖獗)的地方"},{"f":"￹￺name of an Amis village￻台東縣成功鎮麒麟部落名"}]}],"t":"cilikesay"}
+,"cilimaw":{"h":[{"d":[{"s":["`limaw~"],"f":"￹￺to have free time￻有空閒，有閒暇時間"}]}],"t":"cilimaw"}
+,"cilisinay":{"h":[{"d":[{"s":["`lisin~"],"f":"￹￺people involved in animistic worship￻人們潛心於迷信或禁忌中"}]}],"t":"cilisinay"}
+,"cilosa%27":{"h":[{"d":[{"s":["`losa'~"],"f":"￹￺to have tears￻掉眼淚"}]}],"t":"cilosa'"}
+,"cima":{"h":[{"d":[{"f":"￹￺who? * what is the name?￻誰，叫甚麼名字？"}]}],"t":"cima"}
+,"cimaanan":{"h":[{"d":[{"f":"￹￺to whom?￻在甚麼人的地方？"}]}],"t":"cimaanan"}
+,"cimacima":{"h":[{"d":[{"f":"￹￺whoever￻那些，任何人，誰跟誰"}]}],"t":"cimacima"}
+,"cimacimaan":{"h":[{"d":[{"f":"￹￺to whomever￻在某某等人之處"}]}],"t":"cimacimaan"}
+,"cimata":{"h":[{"d":[{"f":"￹￺to be able to see￻能視，能見"},{"s":["`mata~"],"f":"￹￺to wear glasses￻帶眼鏡"}]}],"t":"cimata"}
+,"cimil":{"h":[{"d":[{"f":"￹￺a nickname given by outsiders￻外號，綽號"}]}],"t":"cimil"}
+,"cinag":{"h":[{"d":[{"s":["`Cinag~"],"f":"￹￺the name of an Amis village￻花蓮縣壽豐鄉池南部落名"}]}],"t":"cinag"}
+,"cinamalay":{"h":[{"d":[{"s":["`kasolin~","`namal~"],"f":"￹￺a train￻火車"}]}],"t":"cinamalay"}
+,"cinas":{"h":[{"d":[{"f":"￹￺to rip * tear apart￻(布等)撕裂"}]}],"t":"cinas"}
+,"cinaw":{"h":[{"d":[{"s":["`misacinaw~"],"e":["￹`pa~`cinaw~ `to~ `kolog~￺to put a basket (as a muzzle) on the mouth of a water buffalo￻把籃子(製成牛的口罩式籃子，以防工作時牛吃農作物)套在牛嘴上"],"f":"￹￺basket that is rounded in shape￻(插秧時裝秧苗搬運用)半圓形竹籃"}]}],"t":"cinaw"}
+,"cinco":{"h":[{"d":[{"f":"￹￺pearls (from Amoy dialect)￻珍珠(引自閩南語)"}]}],"t":"cinco"}
+,"ciokagan":{"h":[{"d":[{"s":["`Ciokagan~"],"f":"￹￺name of an Amis village￻台東縣長濱鄉長光部落名"}]}],"t":"ciokagan"}
+,"cipa%27":{"h":[{"d":[{"s":["`kacipa'ay~"],"f":"￹￺branch or fork* as of a river or road￻叉路，溪或河之交流"}]}],"t":"cipa'"}
+,"cipat":{"h":[{"d":[{"s":["`kipat~"],"f":"￹￺to paste * stick to￻黏住，黏貼"}]}],"t":"cipat"}
+,"ciped":{"h":[{"d":[{"f":"￹￺a diaper￻尿布，廚布"},{"f":"￹￺scrub rag￻擦洗用布片"}]}],"t":"ciped"}
+,"cipodacay":{"h":[{"d":[{"s":["`podac~"],"f":"￹￺(something) has a covering / shell￻有皮的"}]}],"t":"cipodacay"}
+,"cipoh":{"h":[{"d":[{"s":["`fihon~","`micipoh~"],"f":"￹￺cosmetics * women's make up￻化粧品"}]}],"t":"cipoh"}
+,"cirakayan":{"h":[{"d":[{"f":"￹￺name of a person - ci Rakay￻人名"},{"f":"￹￺name of a village * where Rakay originated from￻花蓮縣鳳林鎮山興部落名 (由名 Rakay 者開拓而得名)"}]}],"t":"cirakayan"}
+,"cirep":{"h":[{"d":[{"s":["`'alic~"],"f":"￹￺a species of bird * a sparrow￻華南麻雀"}]}],"t":"cirep"}
+,"ciriciri":{"h":[{"d":[{"f":"￹￺a bird * White-eared Sibia￻鳥名，白耳畫眉"}]}],"t":"ciriciri"}
+,"cirid":{"h":[{"d":[{"e":["￹`Mocirid~ `ko~ `faloco'~ `nira~.￺He thinks differently from the rest / his thinking is wrong.￻他的想法和別人不一樣，他的思想偏頗，他的主張錯誤"],"f":"￹￺to diverge from the main road or path￻偏離(正道)，迷失"}]}],"t":"cirid"}
+,"ciriyahan":{"h":[{"d":[{"s":["`Ciriyahan~"],"f":"￹￺name of an Amis village * place where a person named Riyah originated￻花蓮縣鳳林鎮長橋部落名(由名叫 Riyah 者開拓而得名)"}]}],"t":"ciriyahan"}
+,"cirmesay":{"h":[{"d":[{"s":["`ma~`rmes~`ay~","`rmes~"],"f":"￹￺bloody￻有血的，流血的"}]}],"t":"cirmesay"}
+,"ciro%27":{"h":[{"d":[{"e":["￹`Mi~`ciro'~ `ko~ `to'em~.￺The cloud extends upward like a pillar.￻雲彩，像柱一樣扶搖直上，雲彩成一柱擎天","￹`pa~`ciro'~ `to~ `kamay~￺to raise a hand￻舉手"],"f":"￹￺a form that appears tall and extends upward￻舉起，高舉，上升，高昇"}]}],"t":"ciro'"}
+,"cirokohay":{"h":[{"d":[{"s":["`Cirokohay~"],"f":"￹￺name of an Amis village￻台東縣成功鎮芝田部落名"}]}],"t":"cirokohay"}
+,"cirot":{"h":[{"d":[{"f":"￹￺a species of bird * Rufous-backed Shrike￻棕背伯勞"}]}],"t":"cirot"}
+,"cisasla%27ananay":{"h":[{"d":[{"s":["`sla'~"],"f":"￹￺one who has the breath of life￻他還在呼吸，有生命氣息的人"}]}],"t":"cisasla'ananay"}
+,"citosiya":{"h":[{"d":[{"f":"￹￺a motorized vehicle with doors (from Japanese)￻汽車 (引自日語之自動車)"}]}],"t":"citosiya"}
+,"ciwa%27":{"h":[{"d":[{"s":["`tiwa'~","`ci'iwi~","`ciwi~","`cirid~"],"f":"￹￺a separate way, as to take a different road or to take a different view or attitude from the rest￻岔路，支路，走不同的路，採取與別人不同的見解與態度"}]}],"t":"ciwa'"}
+,"ciwadis":{"h":[{"d":[{"s":["`wadis~"],"f":"￹￺to have teeth￻有牙齒"}]}],"t":"ciwadis"}
+,"ciwcika":{"h":[{"d":[{"f":"￹￺the cross * wood frame on which Jesus was crucified (from Japanese)￻十字架(引自日語)"}]}],"t":"ciwcika"}
+,"ciwciw":{"h":[{"d":[{"f":"￹￺baby chick * baby bird￻小雞，雛雞，雛鳥"}]}],"t":"ciwciw"}
+,"ciwi":{"h":[{"d":[{"s":["`ci'iwi~","`ciwa'~","`cirid~"],"f":"￹￺to diverge from the main track￻支路，從主道分叉"}]}],"t":"ciwi"}
+,"ciwidian":{"h":[{"d":[{"f":"￹￺name of a village￻花蓮縣壽豐鄉水璉部落名"},{"f":"￹￺literally place where there are leeches￻字面上係指產有水蛭之地"}]}],"t":"ciwidian"}
+,"ciwig":{"h":[{"d":[{"f":"￹￺the name of a species of birds￻一種鳥的名稱"}]}],"t":"ciwig"}
+,"ciwkeg":{"h":[{"d":[{"s":["`cikeg~"],"f":"￹￺large earthen water container for storage (from Amoy dialect)￻水缸(引自閩南語)"}]}],"t":"ciwkeg"}
+,"ciwlo":{"h":[{"d":[{"f":"￹￺biblical term for elders * the church leaders (from Japanese)￻教會的長老(引自日語)"}]}],"t":"ciwlo"}
+,"ciwlokiw":{"h":[{"d":[{"f":"￹￺Presbyterian (from Japanese)￻長老教會(引自日語)"}]}],"t":"ciwlokiw"}
+,"ciyo%27":{"h":[{"d":[{"f":"￹￺the sound of drops of water￻石子或類似物質掉入水中的聲響，水滴掉落水中的聲音"}]}],"t":"ciyo'"}
+,"ciyor":{"h":[{"d":[{"f":"￹￺to follow a pattern marked on cloth or paper or wood and cut out￻順著劃線切割布料、紙張或木板的動作"}]}],"t":"ciyor"}
+,"cka":{"h":[{"d":[{"f":"￹￺thorns * stickers￻刺，荊棘"}]}],"t":"cka"}
+,"ckad":{"h":[{"d":[{"f":"￹￺to be awakened from sleep￻從睡夢中驚醒"}]}],"t":"ckad"}
+,"ckah":{"h":[{"d":[{"f":"￹￺a person virginity￻最初的性經驗"},{"s":["`ckad~"],"f":"￹￺the first time to experience a person or thing￻第一次的經驗"}]}],"t":"ckah"}
+,"ckel":{"h":[{"d":[{"f":"￹￺to bow the head * as when expressing respect￻點頭表示尊敬"},{"f":"￹￺to look down as at the ground￻低頭著地"},{"f":"￹￺to bowheads *of heavy rice heads￻低頭避雨"}]}],"t":"ckel"}
+,"ckem":{"h":[{"d":[{"e":["￹`ckeckem~ `~ `ko~ `adada~ `ako~.￺I have a sharp pain.￻我的病像針刺似地一陣陣痛"],"f":"￹￺sharp pain caused by either moving body or something sharp piercing skin￻刺痛，因活動或某種尖銳的東西刺穿皮膚的刺痛"}]}],"t":"ckem"}
+,"cker":{"h":[{"d":[{"s":["`sacker~"],"f":"￹￺[No English]￻[無漢語解釋]"}]}],"t":"cker"}
+,"ckid":{"h":[{"d":[{"s":["`mackid~"],"f":"￹￺[No English]￻[無漢語解釋]"}]}],"t":"ckid"}
+,"ckig":{"h":[{"d":[{"f":"￹￺Siganus puellus or Zebrasoma veliferum * a species of fish￻魚的一種名稱，臭肚仔"}]}],"t":"ckig"}
+,"ckil":{"h":[{"d":[{"e":["￹`Ma~`packil~ `no~ `Fagcalay~ `'Adigo~ `kako~.￺I am inspired by the Holy Spirit.￻我被聖靈感動","￹`Ma~`ckil~ `ko~ `cikawasay~.￺The medium is aroused by possession by a spirit.￻巫師被精靈激發","￹`Ma~`ckil~ `ko~ `wawa~.￺The child is suddenly awakened and so cries.￻小孩突然被驚嚇而哭起來"],"f":"￹￺to take off guard * to suddenly be moved upon￻突然受驚或被感動"}]}],"t":"ckil"}
+,"ckiw":{"h":[{"d":[{"f":"￹￺something stuck on or inside￻泛指黏附在上面或裏面的東西"},{"s":["`mickiw~"],"f":"￹￺sea snails found on rocks￻黏附在岩石上的海螺"}]}],"t":"ckiw"}
+,"ckok":{"h":[{"d":[{"f":"￹￺taken off guard or surprised￻驚懼，受驚，驚訝"},{"s":["`packok~"],"f":"￹￺to be alarmed￻警告，告誡"}]}],"t":"ckok"}
+,"ckor":{"h":[{"d":[{"s":["`pikcoran~"],"f":"￹￺to look down upon a scene from a high place￻從高處往下看，居高臨下，眺望，瞭望"}]}],"t":"ckor"}
+,"ckos":{"h":[{"d":[{"f":"￹￺bent over and broken as rice grain standing in the field that has not been harvested￻折垂的稻穗"},{"f":"￹￺to return * as to go back and get something￻離開某地後再折返取回遺忘的東西"},{"f":"￹￺a spool made of bamboo on which string is wound forweaving￻梭，織布用的器具"}]}],"t":"ckos"}
+,"ckroh":{"h":[{"d":[{"f":"￹￺to push literally￻字面上的推"},{"f":"￹￺to push figuratively￻喻意上的推"}]}],"t":"ckroh"}
+,"clahad":{"h":[{"d":[{"f":"￹￺an act of a medium to blow out water in ritual activity￻巫師在儀式上噴水的舉動"}]}],"t":"clahad"}
+,"clak":{"h":[{"d":[{"f":"￹￺to open up * bloom￻攤開，開花"}]}],"t":"clak"}
+,"clalono":{"h":[{"d":[{"f":"￹￺the name of a species of birds that belong to the duck family￻尖屋鴨，小水鴨，小鸊鷉"}]}],"t":"clalono"}
+,"cled":{"h":[{"d":[{"f":"￹￺a bundle of rice￻一束稻穗"}]}],"t":"cled"}
+,"clem":{"h":[{"d":[{"e":["￹`Mi~`clem~ `ko~ `cidal~.￺The sun is setting.￻日落，太陽下山","￹`mi~`clem~ `i~ `nanom~￺to dive into the water￻潛水","￹`clemanto~ `no~ `cidal~￺at sunset￻日落時分，黃昏","￹`Tahaclem~ `ko~ `tayal~ `ako~.￺My work continues to the end of the day.￻我(的工作)日落而息"],"f":"￹￺to sink into￻潛水"}]}],"t":"clem"}
+,"cli%27":{"h":[{"d":[{"f":"￹￺to scream￻大聲喊叫，大聲責備人"}]}],"t":"cli'"}
+,"clog":{"h":[{"d":[{"f":"￹￺a tree￻南洋杉"}]}],"t":"clog"}
+,"cmahad":{"h":[{"d":[{"f":"￹￺prosperous * prosperity￻增長，發展，擴大，繁榮"}]}],"t":"cmahad"}
+,"cmet":{"h":[{"d":[{"e":["￹`Pa~`cmet~ `cigra~ `a~ `ma~`foti'~.￺He took a nap.￻他稍躺一會兒"],"f":"￹￺an interval of sleep￻短暫歇息，小睡一會兒"}]}],"t":"cmet"}
+,"cna%27":{"h":[{"d":[{"s":["`pacna'~","`sacnacna'~"],"f":"￹￺to rest for a short period￻休息一會兒，短暫休息，暫時"}]}],"t":"cna'"}
+,"cno%27":{"h":[{"d":[{"s":["`pacno'~"],"f":"￹￺to dip oneself * to immerse in liquid￻沾入水中，浸入水中"}]}],"t":"cno'"}
+,"cnon":{"h":[{"d":[{"f":"￹￺fear from experience * thus refusing to approach or do something￻因噎廢食，從一次失敗的經驗而不敢再做同樣的事情"}]}],"t":"cnon"}
+,"co%27a%27ag":{"h":[{"d":[{"e":["￹`Ma~`co'a'ag~ `no~ `fali~ `ko~ `hikoki~ `niyam~.￺Our plane was facing into a head wind.￻我的飛機逆風而飛"],"f":"￹￺to face into the wind￻逆風而上"}]}],"t":"co'a'ag"}
+,"co%27af":{"h":[{"d":[{"f":"￹￺to swallow incorrectly * choking￻飲液體食物不暢而哽噎或悶塞"}]}],"t":"co'af"}
+,"co%27ay":{"h":[{"d":[{"s":["`sapaco'ay~"],"f":"￹￺to get even * with negative or positive meanings￻報答，報復(含肯定或否定的回報)"},{"f":"￹￺to retaliate￻復仇"}]}],"t":"co'ay"}
+,"co%27co":{"h":[{"d":[{"f":"￹￺to be closed in￻緊靠, 排擠"},{"s":["`mico'co~","`macaco'co~","`talico'co~"],"f":"￹￺to insist on approaching * be forward￻保持前進"}]}],"t":"co'co"}
+,"co%27ed":{"h":[{"d":[{"e":["￹`kasa~`co'ed~ `no~ `lotok~￺the various recesses of the mountain￻山與山溝成的深邃幽暗的地方"],"f":"￹￺an inconspicuous place * a back corner or room * the inner recesses of￻昏暗的地方，房間的角落，…的內部幽暗或隱密處"}]}],"t":"co'ed"}
+,"co%27ep":{"h":[{"d":[{"s":["`ci'ep~"],"f":"￹￺to sip up (water) * to drink by slurping at the source￻伏在水面直接用嘴啜飲"}]}],"t":"co'ep"}
+,"co%27ig":{"h":[{"d":[{"f":"￹￺a apecies of lake fish￻淡水魚的一種"}]}],"t":"co'ig"}
+,"co%27is":{"h":[{"d":[{"s":["`macaco'is~"],"e":["￹`Co'isen~ `konini~￺Turn this upside down.￻請你把這個顛倒"],"f":"￹￺upside down * reverse￻倒栽蔥，顛倒"}]}],"t":"co'is"}
+,"co%27koy":{"h":[{"d":[{"f":"￹￺to have head down * bowed￻垂頭"}]}],"t":"co'koy"}
+,"co%27nek":{"h":[{"d":[{"s":["`paco'nek~"],"f":"￹￺to force something in between two objects tightly joined￻在兩物件中硬插東西"},{"f":"￹￺to go aground * as of a ship￻擱淺(如船)"}]}],"t":"co'nek"}
+,"co%27og":{"h":[{"d":[{"s":["`cico'og~"],"f":"￹￺bud￻芽，嫩芽"}]}],"t":"co'og"}
+,"co%27os":{"h":[{"d":[{"f":"￹￺greedy about eating or consuming something that he did not work to get￻貪婪，好吃"}]}],"t":"co'os"}
+,"co%27rog":{"h":[{"d":[{"f":"￹￺to stand end on end * as firewood￻一捆捆柴火倒立排放儲藏"}]}],"t":"co'rog"}
+,"coaco%27":{"h":[{"d":[{"f":"￹￺to stir up water * rile * agitate￻攪動水"}]}],"t":"coaco'"}
+,"coca%27":{"h":[{"d":[{"f":"￹￺a foreign object in one's eye￻塵埃進到眼睛中"}]}],"t":"coca'"}
+,"coco":{"h":[{"d":[{"s":["`micoco~"],"f":"￹￺breast of a female * udder * teat￻乳房"}]}],"t":"coco"}
+,"cocok":{"h":[{"d":[{"e":["￹`Ma~`cocok~ `Ko~ `faloco'~ `ako~.￺I am convicted (from hearing).￻我的心被刺痛，聽到…的教訓我非常感動","￹`Pa~`cocok~`en~ `ko~ `'onoc~ `i~ `kadag~.￺Put the pole in the ring.￻請把棒子套(穿)進環中"],"f":"￹￺to stab * inject with a needle￻用針或尖銳的東西刺"}]}],"t":"cocok"}
+,"cocop":{"h":[{"d":[{"f":"￹￺to suck on something￻吸舐東西，吮吸"},{"f":"￹￺to kiss￻吻， 親嘴"},{"s":["`tnas~"],"f":"￹￺to dip into flavoring￻點浸在調味料中"}]}],"t":"cocop"}
+,"codad":{"h":[{"d":[{"s":["`tilid~","`micodad~"],"f":"￹￺book￻書"}]}],"t":"codad"}
+,"codah":{"h":[{"d":[{"f":"￹￺to be bold to the point of violence￻勇敢，勇猛"}]}],"t":"codah"}
+,"cofay":{"h":[{"d":[{"s":["`nokay~","`pa~`tiko~","`pacofay~"],"f":"￹￺to return￻折返，折回，歸還"}]}],"t":"cofay"}
+,"cofcof":{"h":[{"d":[{"s":["`cefcef~"],"f":"￹￺to force feed * to make eat￻強灌別人喝或吃東西"}]}],"t":"cofcof"}
+,"cofel":{"h":[{"d":[{"f":"￹￺knife or machete holder￻刀鞘"}]}],"t":"cofel"}
+,"coflis":{"h":[{"d":[{"s":["`macacoflis~"],"e":["￹`pa~`coflis~ `to~ `tikami~￺return a letter￻回信"],"f":"￹￺to return * receive back￻回(信)答謝，回禮，回敬"}]}],"t":"coflis"}
+,"cogacog":{"h":[{"d":[{"s":["`cogcog~","`mikicogacog~"],"f":"￹￺to come without invitation * no embarrassment in doing something￻不請自來(如宴會時)，做事不忸怩作態"}]}],"t":"cogacog"}
+,"cogaw":{"h":[{"d":[{"s":["`Cogaw~"],"f":"￹￺marks on the faces of neighboring tribal peoples * thus becoming a term for Taroko and Atayal peoples￻住在附近的部落在臉上都劃有記號因此被稱為太魯格族和泰雅族。"}]}],"t":"cogaw"}
+,"cogdis":{"h":[{"d":[{"f":"￹￺to bare teeth as a dog does￻露齒如狗"}]}],"t":"cogdis"}
+,"coged":{"h":[{"d":[{"e":["￹`pacoged~ `nira~ `ko~ `lalan~.￺He has blocked the road.￻他封鎖了道路"],"f":"￹￺to block * hinder * stop￻妨礙，阻擋，封鎖，停止"}]}],"t":"coged"}
+,"cohcoh":{"h":[{"d":[{"f":"￹￺to suck out from inside￻吮吸"},{"s":["`tagfol~"],"f":"￹￺bells￻手銅鈴"}]}],"t":"cohcoh"}
+,"cohel":{"h":[{"d":[{"f":"￹￺perspiration￻汗，流汗"},{"f":"￹￺body smell from notbathing￻因沒有洗而發自身體的臭味"}]}],"t":"cohel"}
+,"coho%27":{"h":[{"d":[{"f":"￹￺the back of the knee where leg bends￻膝蓋關節內彎部,股 脛相接內彎處"}]}],"t":"coho'"}
+,"cohog":{"h":[{"d":[{"f":"￹￺to go from place to place where the dead person used to spend his time￻造訪故人住過或去過的地方以示追思"}]}],"t":"cohog"}
+,"cokacok":{"h":[{"d":[{"f":"￹￺to ascend * go up hill￻向上走，向上爬山"}]}],"t":"cokacok"}
+,"cokap":{"h":[{"d":[{"s":["`cicokap~","`pacokap~"],"f":"￹￺shoes￻鞋子"}]}],"t":"cokap"}
+,"cokar":{"h":[{"d":[{"s":["`cokay~"],"f":"￹￺to kick * thresh feet * to pedal with feet￻用腳踢，用腳踩踏"}]}],"t":"cokar"}
+,"cokcok":{"h":[{"d":[{"f":"￹￺to lock￻鎖住，上鎖"}]}],"t":"cokcok"}
+,"cokep":{"h":[{"d":[{"f":"￹￺storage place for possessions or tools * Sometimes Amis made a lean-to next to the outside wall of their house for this purpose.￻阿美族的房子旁邊另蓋一個小房子當庫房，秘藏寶物的地方，寶庫"}]}],"t":"cokep"}
+,"coker":{"h":[{"d":[{"f":"￹￺to prop up * support * help * as the cross pole in the hitch of a wagon￻支持，支柱，幫助，協助；如十字形柱子是在繫住牛車的"}]}],"t":"coker"}
+,"cokis":{"h":[{"d":[{"f":"￹￺supporting bamboo used in building the roof of a house￻覆蓋茅草屋頂的支架"}]}],"t":"cokis"}
+,"cokiwat":{"h":[{"d":[{"s":["`sacokiwat~"],"f":"￹￺to get something out of reach with an instrument￻用竹竿助手長之不足以取東西"}]}],"t":"cokiwat"}
+,"cokoi":{"h":[{"d":[{"f":"￹￺a table (from Japanese)￻桌子(引自日語)"}]}],"t":"cokoi"}
+,"cokor":{"h":[{"d":[{"s":["`tanocokor~"],"f":"￹￺walking stick * cane￻拐杖, 手杖, 捧"}]}],"t":"cokor"}
+,"colal":{"h":[{"d":[{"f":"￹￺to appear after not being seen for a long time￻久違後突然出現"}]}],"t":"colal"}
+,"colcol":{"h":[{"d":[{"f":"￹￺a person sent with a message or task * to send with a message￻使喚別人做事"}]}],"t":"colcol"}
+,"coled":{"h":[{"d":[{"f":"￹￺to insert * push inside a slot or opening * put into a handbag or basket￻收某物入口袋或手提袋中"}]}],"t":"coled"}
+,"colek":{"h":[{"d":[{"f":"￹￺at once￻立刻，短暫…，暫時"}]}],"t":"colek"}
+,"coli":{"h":[{"d":[{"s":["`pacoli~","`macacoli~","`macacolicoli~"],"f":"￹￺return * retort￻回嘴，頂嘴，頂撞"}]}],"t":"coli"}
+,"colo%27":{"h":[{"d":[{"f":"￹￺to transport * to move from one place to another￻運送，把東西從一個地點搬到另一個地方"}]}],"t":"colo'"}
+,"colok":{"h":[{"d":[{"f":"￹￺to pierce * as with a spear￻用槍矛刺穿人或動物"},{"f":"￹￺to dig under and lift up as when transplanting plants￻移植草木時挖深根部以便連根移走"}]}],"t":"colok"}
+,"comcom":{"h":[{"d":[{"s":["`'iw~","`kicomcom~"],"f":"￹￺a dark narrow place enclosed in a mountain pass￻羊腸小徑，狹窄幽暗的地方"}]}],"t":"comcom"}
+,"comikay":{"h":[{"d":[{"s":["`cikay~"],"f":"￹￺to run as action￻跑步"}]}],"t":"comikay"}
+,"comod":{"h":[{"d":[{"s":["`micomod~","`picomodan~","`sacomod~"],"f":"￹￺to enter￻進入"}]}],"t":"comod"}
+,"conacon":{"h":[{"d":[{"f":"￹￺the rippling of water￻水被攪動貌"}]}],"t":"conacon"}
+,"conoh":{"h":[{"d":[{"e":["￹`pa~`conoh~ `to~ `raraw~￺not take responsibility for wrong doing￻把罪(過失)歸咎於別人","￹`Aka~ `paconoh~ `to~ `tayal~ `iso~ `i~ `takowanan~.￺Don't give me your work.￻不要把你的工作推卸給我"],"f":"￹￺to give to someone else the responsibility for * as from laziness￻把責任或工作推卸給別人"}]}],"t":"conoh"}
+,"copa":{"h":[{"d":[{"f":"￹￺to come up close to a person￻挨近別人"}]}],"t":"copa"}
+,"copcop":{"h":[{"d":[{"s":["`cepcep~"],"f":"￹￺to suck * as the activity of a mosquito to suck blood￻吸，咂，如蚊子之吸血"}]}],"t":"copcop"}
+,"coplak":{"h":[{"d":[{"e":["￹`ma~`coplak~`ay~ `ko~ `sowal~￺figuratively: speech is unacceptable￻在喻上: 所說的話無法接受"],"f":"￹￺astringent * a feeling in the mouth of puckering￻嘴有澀味(吃水草時)"}]}],"t":"coplak"}
+,"coplis":{"h":[{"d":[{"f":"￹￺to spray water out of the mouth as when dampening something￻當弄濕東西時用嘴巴噴水的舉動"},{"f":"￹￺animistic practiceinvolving driving out spirits￻萬物有靈信仰含酒噴出趕鬼的舉動"}]}],"t":"coplis"}
+,"copo":{"h":[{"d":[{"f":"￹￺an embankment (from Amoy dialect)￻堤防(引自閩南語)"},{"s":["`Copo~"],"f":"￹￺name of an Amis village located near an embankment￻座落堤防邊的阿美族部落"}]}],"t":"copo"}
+,"copras":{"h":[{"d":[{"f":"￹￺to feel good and firm in the mouth, as sweet potatoes cooked just right and not mushy￻味道佳酥，如地瓜煮後之味道，但不易嚥下"}]}],"t":"copras"}
+,"cora%27":{"h":[{"d":[{"f":"￹￺the bloom of grass￻花，花開的狀態"},{"s":["`pohog~","`waa'~","`macacora'~","`micora'~"],"f":"￹￺horns of an animal￻動物的角"},{"f":"￹￺a flower pinned as an ornament in the hair￻花插在髮上當首飾"}]}],"t":"cora'"}
+,"coracor":{"h":[{"d":[{"s":["`oror~"],"e":["￹`Pa~`coracor~`en~ `no~ `mi~`kowan~`ay~ `kami~ `a~ `pala~`sofitay~.￺The rulers forced us to join the army.￻政府徵召我們去當兵"],"f":"￹￺to force to do something￻催促，強迫做某事"}]}],"t":"coracor"}
+,"coraf":{"h":[{"d":[{"e":["￹`Mi~`coraf~`ay~ `ko~ `fali~.￺The wind is burning hot.￻風吹一陣熱風"],"f":"￹￺to burn￻燒，燃燒"}]}],"t":"coraf"}
+,"corah":{"h":[{"d":[{"e":["￹`Mi~`corah~ `i~ `namal~ `a~ `misa~`ga'~ `to~ `cokor~.￺Canes are shaped in fire.￻手杖是用火打燒成形的"],"f":"￹￺dried and shaped by fire * referring to an object￻油燈，火把"},{"s":["`dawdaw~"],"e":["￹`Ma~`corah~ `ko~ `loma'~.￺Fire spread to the house burning it up.￻火已燒盡整個房子"],"f":"￹￺fire spread to include house or trees or forest￻火蔓延燒盡房子或森林"}]}],"t":"corah"}
+,"coray":{"h":[{"d":[{"f":"￹￺to push dirt as a road grader does * as a pig does￻推土(推土機)，挖地(如豬)"}]}],"t":"coray"}
+,"corcor":{"h":[{"d":[{"f":"￹￺to push against * as the activity of a road grader￻推土，如推土機的活動"},{"s":["`sacorcor~"],"f":"￹￺to root around in the mud * as the activity of a pig￻挖掘泥土，如豬用鼻子掘翻泥土的舉動"}]}],"t":"corcor"}
+,"coroh":{"h":[{"d":[{"f":"￹￺to push away from oneself￻從某人身上卸下來"},{"f":"￹￺to relieve oneself of responsibility￻減輕某人的責任或負擔"}]}],"t":"coroh"}
+,"corok":{"h":[{"d":[{"s":["`macacorocorok~"],"e":["￹`mi~`corok~ `to~ `haccaccay~ `a~ `loma'~￺to go to each home￻挨家挨戶"],"f":"￹￺each in turn￻輪流, 輪番"}]}],"t":"corok"}
+,"coscos":{"h":[{"d":[{"f":"￹￺assembly line activity * as when people or objects come to a worker in fast succession￻接二連三的催促(討債)，接二連三的脅迫人做事"}]}],"t":"coscos"}
+,"cowa":{"h":[{"d":[{"s":["`icowa~","`naicowa~","`talacowa~","`hacowa~","`pakacowa~","`icowaay~"],"f":"￹￺where?￻那裏，那兒，何處"}]}],"t":"cowa"}
+,"cowaco%27":{"h":[{"d":[{"f":"￹￺to stir up water￻攪動水"}]}],"t":"cowaco'"}
+,"cowat":{"h":[{"d":[{"e":["￹`Mi~`cowat~ `ko~ `dateg~.￺The vegetables spread out as they grew.￻蔬菜會成長"],"f":"￹￺to spread out￻擴展"},{"f":"￹￺to take in new territory as to extend rule￻占領新的地區如擴張界線"}]}],"t":"cowat"}
+,"cowi%27":{"h":[{"d":[{"f":"￹￺a bird * Common Sandpiper, appears at sunset with its call￻磯鷸，草鷸之類，黃昏時才出現"}]}],"t":"cowi'"}
+,"coykeg":{"h":[{"d":[{"f":"￹￺a large water container (from Amoy dialect)￻水缸(引自閩南語)"}]}],"t":"coykeg"}
+,"coyoh":{"h":[{"d":[{"f":"￹￺original meaning was someone sent by the elders￻原意是某人受長者的指使當差"},{"f":"￹￺biblical usage - angels￻聖經的用法 - 天使"}]}],"t":"coyoh"}
+,"cpa%27":{"h":[{"d":[{"s":["`sger~","`'opic~"],"f":"￹￺wet * damp￻濕，弄濕，潮濕"}]}],"t":"cpa'"}
+,"cpapal":{"h":[{"d":[{"f":"￹￺ripped apart * of clothing￻扯裂，割裂(布或衣物)"}]}],"t":"cpapal"}
+,"cpet":{"h":[{"d":[{"f":"￹￺to squeese or wring out￻榨取(果汁)或扭乾(濕衣物)"}]}],"t":"cpet"}
+,"cpi%27":{"h":[{"d":[{"f":"￹￺hip * thigh￻大腿"}]}],"t":"cpi'"}
+,"cpo":{"h":[{"d":[{"e":["￹`mi~`cpo'~￺to remove the bark￻取榕樹皮切成碎片"],"f":"￹￺the bark of Indian Rubber Tree￻印度橡樹"}]}],"t":"cpo"}
+,"cpo%27":{"h":[{"d":[{"e":["￹`O~ `cpo'~ `no~ `kegkeg~ `konini~.￺This is the end of the ditch.￻這是水圳的末端"],"f":"￹￺the end of￻尾末(水流的末端)"},{"s":["`pacpo'an~"],"f":"￹￺the lowest place in a stream￻漁網之竹架放於河流最下游的地方"}]}],"t":"cpo'"}
+,"cra%27":{"h":[{"d":[{"s":["`sga~"],"f":"￹￺to be bored￻膩，厭膩，厭煩"},{"f":"￹￺to be tired as * when an invalid￻身體虛弱時的厭倦感"},{"f":"￹￺to dislike￻不喜歡，厭 惡"},{"f":"￹￺to be fed up with￻吃膩"}]}],"t":"cra'"}
+,"crar":{"h":[{"d":[{"s":["`prar~"],"f":"￹￺to landslide * cave in￻泥土，土牆，洞穴等崩坍"}]}],"t":"crar"}
+,"cred":{"h":[{"d":[{"s":["`slal~"],"f":"￹￺person in same age group￻同年齡階段的成員"}]}],"t":"cred"}
+,"crig":{"h":[{"d":[{"f":"￹￺a fence type dam to keep fish in an area so they will get into a trap * made of bamboo and string￻用竹片編製來圍捕魚類的用具，漁簾"}]}],"t":"crig"}
+,"crnoh":{"h":[{"d":[{"f":"￹￺for body hair or fur to stand on end￻毛骨悚然，毛髮直立"}]}],"t":"crnoh"}
+,"croh":{"h":[{"d":[{"f":"￹￺to add water￻加添水量"},{"f":"￹￺to suck out￻吸乾"},{"f":"￹￺the name of an Amis village￻春日部落名"}]}],"t":"croh"}
+,"cror":{"h":[{"d":[{"f":"￹￺to take the place of * of work * position of leadership or responsibility￻取代，取代某人的工作或領袖的地位，責任"}]}],"t":"cror"}
+,"cyofo":{"h":[{"d":[{"f":"￹￺inner tube (from Japanese)￻內胎(車輪的)(引自日語)"}]}],"t":"cyofo"}
+}
