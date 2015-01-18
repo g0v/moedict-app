@@ -1,4 +1,4 @@
-const DEBUGGING = off
+const DEBUGGING = (location.port >= 8000)
 const STANDALONE = window.STANDALONE || false
 
 LANG = STANDALONE || getPref(\lang) || (if document.URL is /twblg/ then \t else \a)
