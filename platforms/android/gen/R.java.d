@@ -1,4 +1,4 @@
-/Users/audreyt/w/moedict-webkit/app/platforms/android/gen/org/audreyt/dict/moe_c/R.java \
+/Users/audreyt/w/moedict-webkit/app/platforms/android/gen/org/audreyt/dict/moe_p/R.java \
  : /Users/audreyt/w/moedict-webkit/app/platforms/android/res/drawable/down.png \
 /Users/audreyt/w/moedict-webkit/app/platforms/android/res/drawable/icon.png \
 /Users/audreyt/w/moedict-webkit/app/platforms/android/res/drawable/info.png \

@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package org.audreyt.dict.moe_c;
+package org.audreyt.dict.moe_p;
 
 public final class R {
     public static final class attr {

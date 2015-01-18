@@ -17,7 +17,7 @@
        under the License.
  */
 
-package org.audreyt.dict.moe_c;
+package org.audreyt.dict.moe_p;
 
 import android.os.Bundle;
 import android.view.*;
