@@ -729,17 +729,17 @@ hruby[rightangle] ru[annotation]:before {
  */
 @font-face {
   font-family: cursive;
-  src: local("Kaiti SC"), local(STKaiti), local(BiauKai), local("標楷體"), local(DFKaiShu-SB-Estd-BF), local(Kaiti), local(DFKai-SB);
+  src: local("Kaiti SC"), local(STKaiti), local(BiauKai), local(DFKaiShu-SB-Estd-BF), local(Kaiti), local(DFKai-SB);
 }
 @font-face {
   unicode-range: U+4E00-9FFF, U+3400-4DB5, U+20000-2A6D6, U+2A700-2B734, U+2B740-2B81D, U+FA0E-FA0F, U+FA11, U+FA13-FA14, U+FA1F, U+FA21, U+FA23, U+FA24, U+FA27-FA29, U+3040-309F, U+30A0-30FF, U+3099-309E, U+FF66-FF9F, U+3007, U+31C0-31E3, U+2F00-2FD5, U+2E80-2EF3;
   font-family: 'Han Kaiti';
-  src: local("Kaiti SC"), local(STKaiti), local(BiauKai), local("標楷體"), local(DFKaiShu-SB-Estd-BF), local(Kaiti), local(DFKai-SB);
+  src: local("Kaiti SC"), local(STKaiti), local(BiauKai), local(DFKaiShu-SB-Estd-BF), local(Kaiti), local(DFKai-SB);
 }
 @font-face {
   unicode-range: U+4E00-9FFF, U+3400-4DB5, U+20000-2A6D6, U+2A700-2B734, U+2B740-2B81D, U+FA0E-FA0F, U+FA11, U+FA13-FA14, U+FA1F, U+FA21, U+FA23, U+FA24, U+FA27-FA29, U+3040-309F, U+30A0-30FF, U+3099-309E, U+FF66-FF9F, U+3007, U+31C0-31E3, U+2F00-2FD5, U+2E80-2EF3;
   font-family: 'Han Kaiti CNS';
-  src: local(BiauKai), local("標楷體"), local(DFKaiShu-SB-Estd-BF);
+  src: local(BiauKai), local(DFKaiShu-SB-Estd-BF);
 }
 @font-face {
   unicode-range: U+4E00-9FFF, U+3400-4DB5, U+20000-2A6D6, U+2A700-2B734, U+2B740-2B81D, U+FA0E-FA0F, U+FA11, U+FA13-FA14, U+FA1F, U+FA21, U+FA23, U+FA24, U+FA27-FA29, U+3040-309F, U+30A0-30FF, U+3099-309E, U+FF66-FF9F, U+3007, U+31C0-31E3, U+2F00-2FD5, U+2E80-2EF3;
@@ -1416,16 +1416,16 @@ article blockquote:lang(zh-Latn), article blockquote:lang(ja-Latn), article bloc
 article blockquote *:lang(zh-Latn),
 article blockquote *:lang(ja-Latn),
 article blockquote *:not(:lang(zh)):not(:lang(ja)) {
-  font-family: MOEDICT, "Fira Sans OT", Georgia, "Times New Roman", "TW-Kai-98_1", "教育部標準楷書", kai-pc, CMEXc1, "標楷體", Biaukai, MOEDICT-IOS-KAI, DFKaiShu-SB-Estd-BF, "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", cursive, serif, HanaMinA, HanaMinB, "HAN NOM A", "HAN NOM B", "Han Kaiti CNS", cursive, serif;
+  font-family: MOEDICT, "Fira Sans OT", Georgia, "Times New Roman", "TW-Kai-98_1", "教育部標準楷書", kai-pc, CMEXc1, Biaukai, MOEDICT-IOS-KAI, DFKaiShu-SB-Estd-BF, "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", cursive, serif, HanaMinA, HanaMinB, "HAN NOM A", "HAN NOM B", "Han Kaiti CNS", cursive, serif;
 }
 
 .result h1,
 .ui-tooltip h1, .bpmf, article blockquote:lang(zh), article blockquote:lang(zh-Hant) {
-  font-family: "Biaodian Pro Serif CNS", "Numeral LF Serif", MOEDICT, "Fira Sans OT", Georgia, "Times New Roman", "Zhuyin Kaiti", "TW-Kai-98_1", "教育部標準楷書", kai-pc, CMEXc1, "標楷體", Biaukai, MOEDICT-IOS-KAI, DFKaiShu-SB-Estd-BF, "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", cursive, serif, HanaMinA, HanaMinB, "HAN NOM A", "HAN NOM B", "Han Kaiti CNS", cursive, serif;
+  font-family: "Biaodian Pro Serif CNS", "Numeral LF Serif", MOEDICT, "Fira Sans OT", Georgia, "Times New Roman", "Zhuyin Kaiti", "TW-Kai-98_1", "教育部標準楷書", kai-pc, CMEXc1, Biaukai, MOEDICT-IOS-KAI, DFKaiShu-SB-Estd-BF, "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", cursive, serif, HanaMinA, HanaMinB, "HAN NOM A", "HAN NOM B", "Han Kaiti CNS", cursive, serif;
 }
 
 article blockquote:lang(zh-Hans), article blockquote:lang(zh-CN) {
-  font-family: "Biaodian Pro Serif GB", "Numeral LF Serif", MOEDICT, "Fira Sans OT", Georgia, "Times New Roman", "TW-Kai-98_1", "教育部標準楷書", kai-pc, CMEXc1, "標楷體", Biaukai, MOEDICT-IOS-KAI, DFKaiShu-SB-Estd-BF, "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", cursive, serif, HanaMinA, HanaMinB, "HAN NOM A", "HAN NOM B", "Han Kaiti GB", cursive, serif;
+  font-family: "Biaodian Pro Serif GB", "Numeral LF Serif", MOEDICT, "Fira Sans OT", Georgia, "Times New Roman", "TW-Kai-98_1", "教育部標準楷書", kai-pc, CMEXc1, Biaukai, MOEDICT-IOS-KAI, DFKaiShu-SB-Estd-BF, "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", cursive, serif, HanaMinA, HanaMinB, "HAN NOM A", "HAN NOM B", "Han Kaiti GB", cursive, serif;
 }
 
 article blockquote:lang(ja) {
@@ -1445,19 +1445,19 @@ var:not(:lang(zh)):not(:lang(ja)),
 var *:lang(zh-Latn),
 var *:lang(ja-Latn),
 var *:not(:lang(zh)):not(:lang(ja)) {
-  font-family: "Latin Italic Serif", MOEDICT, "Fira Sans OT", Georgia, "Times New Roman", "TW-Kai-98_1", "教育部標準楷書", kai-pc, CMEXc1, "標楷體", Biaukai, MOEDICT-IOS-KAI, DFKaiShu-SB-Estd-BF, "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", cursive, serif, HanaMinA, HanaMinB, "HAN NOM A", "HAN NOM B", "Han Kaiti CNS", cursive, serif;
+  font-family: "Latin Italic Serif", MOEDICT, "Fira Sans OT", Georgia, "Times New Roman", "TW-Kai-98_1", "教育部標準楷書", kai-pc, CMEXc1, Biaukai, MOEDICT-IOS-KAI, DFKaiShu-SB-Estd-BF, "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", cursive, serif, HanaMinA, HanaMinB, "HAN NOM A", "HAN NOM B", "Han Kaiti CNS", cursive, serif;
 }
 
 i:lang(zh), i:lang(zh-Hant),
 var:lang(zh),
 var:lang(zh-Hant) {
-  font-family: "Biaodian Pro Serif CNS", "Numeral LF Italic Serif", "Latin Italic Serif", MOEDICT, "Fira Sans OT", Georgia, "Times New Roman", "Zhuyin Kaiti", "TW-Kai-98_1", "教育部標準楷書", kai-pc, CMEXc1, "標楷體", Biaukai, MOEDICT-IOS-KAI, DFKaiShu-SB-Estd-BF, "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", cursive, serif, HanaMinA, HanaMinB, "HAN NOM A", "HAN NOM B", "Han Kaiti CNS", cursive, serif;
+  font-family: "Biaodian Pro Serif CNS", "Numeral LF Italic Serif", "Latin Italic Serif", MOEDICT, "Fira Sans OT", Georgia, "Times New Roman", "Zhuyin Kaiti", "TW-Kai-98_1", "教育部標準楷書", kai-pc, CMEXc1, Biaukai, MOEDICT-IOS-KAI, DFKaiShu-SB-Estd-BF, "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", cursive, serif, HanaMinA, HanaMinB, "HAN NOM A", "HAN NOM B", "Han Kaiti CNS", cursive, serif;
 }
 
 i:lang(zh-Hans), i:lang(zh-CN),
 var:lang(zh-Hans),
 var:lang(zh-CN) {
-  font-family: "Biaodian Pro Serif GB", "Numeral LF Italic Serif", "Latin Italic Serif", MOEDICT, "Fira Sans OT", Georgia, "Times New Roman", "TW-Kai-98_1", "教育部標準楷書", kai-pc, CMEXc1, "標楷體", Biaukai, MOEDICT-IOS-KAI, DFKaiShu-SB-Estd-BF, "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", cursive, serif, HanaMinA, HanaMinB, "HAN NOM A", "HAN NOM B", "Han Kaiti GB", cursive, serif;
+  font-family: "Biaodian Pro Serif GB", "Numeral LF Italic Serif", "Latin Italic Serif", MOEDICT, "Fira Sans OT", Georgia, "Times New Roman", "TW-Kai-98_1", "教育部標準楷書", kai-pc, CMEXc1, Biaukai, MOEDICT-IOS-KAI, DFKaiShu-SB-Estd-BF, "全字庫正楷體", "Kaiti TC", "楷體-繁", "文鼎ＰＬ新中楷", "cwText 楷書", cursive, serif, HanaMinA, HanaMinB, "HAN NOM A", "HAN NOM B", "Han Kaiti GB", cursive, serif;
 }
 
 i:lang(ja),
