@@ -8,4 +8,7 @@
     <preference name="HideKeyboardFormAccessoryBar" value="true"/>
     <content src="index.html" />
     <access origin="*" />
+    <feature name="App">
+       <param name="android-package" value="org.apache.cordova.App" />
+    </feature>
 </widget>

@@ -1,4 +1,4 @@
-const DEBUGGING = on
+const DEBUGGING = off
 const STANDALONE = window.STANDALONE || false
 
 LANG = STANDALONE || getPref(\lang) || (if document.URL is /twblg/ then \t else \a)
