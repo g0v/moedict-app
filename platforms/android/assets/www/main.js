@@ -97,7 +97,6 @@
       }
     }
   }
-  alert(HASHOF);
   function xrefOf(id, srcLang){
     var rv, parsed, i$, ref$, len$, chunk, ref1$, tgtLang, words, idx, part, x;
     srcLang == null && (srcLang = LANG);

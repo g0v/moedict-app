@@ -41,7 +41,6 @@ if isCordova
       delete INDEX[l]
       delete HASH-OF[l]
       $ -> $(".nav .#l").remove!
-alert HASH-OF
 
 # Return an object of all matched with {key: [words]}.
 function xref-of (id, src-lang=LANG)
