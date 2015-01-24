@@ -1,2 +1,2 @@
-{"Dikidiki":{"h":[{"d":[{"s":["`dikidiki~"],"f":"￹￺Refer to `dikidiki~￻詳見 `dikidiki~"}]}],"t":"Dikidiki"}
+{"Dikidiki":{"h":[{"d":[{"l":["`dikidiki~"],"f":"￹￺Refer to `dikidiki~￻詳見 `dikidiki~"}]}],"t":"Dikidiki"}
 }

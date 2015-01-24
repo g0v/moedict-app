@@ -1,117 +1,117 @@
 {"%27a%27adopen":{"h":[{"d":[{"f":"￹￺animal to be hunted￻受獵物"},{"f":"￹￺generic for any animal￻動物的總稱"}]}],"t":"'a'adopen"}
-,"%27a%27am":{"h":[{"d":[{"s":["`miki~`'a'am~"],"f":"￹￺soft watery rice￻稀飯、粥、米乳、米湯"}]}],"t":"'a'am"}
+,"%27a%27am":{"h":[{"d":[{"l":["`miki'a'am~"],"f":"￹￺soft watery rice￻稀飯、粥、米乳、米湯"}]}],"t":"'a'am"}
 ,"%27a%27olec":{"h":[{"d":[{"f":"￹￺large sea shell necklace￻大塊貝板項鍊"}]}],"t":"'a'olec"}
-,"%27aca":{"h":[{"d":[{"s":["`pi'acaan~","`kalali'acaan~","`pa'aca~","`mi'aca~"],"f":"￹￺price￻價錢、價格、代價"}]}],"t":"'aca"}
+,"%27aca":{"h":[{"d":[{"l":["`pi'acaan~","`kalali'acaan~","`pa'aca~","`mi'aca~"],"f":"￹￺price￻價錢、價格、代價"}]}],"t":"'aca"}
 ,"%27acam":{"h":[{"d":[{"f":"￹￺dry stalks useable for firewood￻乾燥的蘆葦幹用來助燃柴火"}]}],"t":"'acam"}
 ,"%27acaw":{"h":[{"d":[{"f":"￹￺to dip out water￻汲水、 搖水"}]}],"t":"'acaw"}
-,"%27acfel":{"h":[{"d":[{"s":["`ci'acfelay~"],"f":"￹￺smoke￻煙、蒸氣"}]}],"t":"'acfel"}
+,"%27acfel":{"h":[{"d":[{"l":["`ci'acfelay~"],"f":"￹￺smoke￻煙、蒸氣"}]}],"t":"'acfel"}
 ,"%27acicim":{"h":[{"d":[{"f":"￹￺sour * as of unripe fruit￻酸"}]}],"t":"'acicim"}
-,"%27acis":{"h":[{"d":[{"s":["`ma'acisay~"],"f":"￹￺dry￻乾燥、枯萎"}]}],"t":"'acis"}
+,"%27acis":{"h":[{"d":[{"l":["`ma'acisay~"],"f":"￹￺dry￻乾燥、枯萎"}]}],"t":"'acis"}
 ,"%27aciyos":{"h":[{"d":[{"f":"￹￺round spot in hair where hair parts * the crown of the head￻旋宮、 頭旋、髮旋"}]}],"t":"'aciyos"}
-,"%27acocol":{"h":[{"d":[{"s":["`'iger~"],"f":"￹￺something made with wood and with twisted string * a top to spin￻陀螺"}]}],"t":"'acocol"}
+,"%27acocol":{"h":[{"d":[{"l":["`'inger~"],"f":"￹￺something made with wood and with twisted string * a top to spin￻陀螺"}]}],"t":"'acocol"}
 ,"%27ad%27ad":{"h":[{"d":[{"f":"￹￺to dig around and stir up while looking for something￻翻(石 頭、東西等)翻箱倒櫃"}]}],"t":"'ad'ad"}
-,"%27ada":{"h":[{"d":[{"s":["`misa'ada~"],"f":"￹￺enemy￻敵人、仇人、仇敵"}]}],"t":"'ada"}
-,"%27adadogac":{"h":[{"d":[{"s":["`'ararogac~"],"f":"￹￺black beetle (Cerambyx cerdo)￻甲蟲"}]}],"t":"'adadogac"}
+,"%27ada":{"h":[{"d":[{"l":["`misa'ada~"],"f":"￹￺enemy￻敵人、仇人、仇敵"}]}],"t":"'ada"}
+,"%27adadongac":{"h":[{"d":[{"l":["`'ararongac~"],"f":"￹￺black beetle (Cerambyx cerdo)￻甲蟲"}]}],"t":"'adadongac"}
 ,"%27adapaw":{"h":[{"d":[{"f":"￹￺to lie in wait to kill (with misa-)￻埋伏"}]}],"t":"'adapaw"}
-,"%27adawag":{"h":[{"d":[{"f":"￹￺gateway￻門檻、門口"}]}],"t":"'adawag"}
-,"%27adcaw":{"h":[{"d":[{"s":["`'adicaw~"],"f":"￹￺marble￻大理石"}]}],"t":"'adcaw"}
-,"%27adepet":{"h":[{"d":[{"f":"￹￺to be tight * not share material things￻吝嗇"},{"s":["`idepet~"],"f":"￹￺to keep one's own counsel * deliberately not share￻密守、自己的計劃、不樂意分享"}]}],"t":"'adepet"}
-,"%27adi":{"h":[{"d":[{"s":["`'og'og~"],"f":"￹￺Refer to `'og'og~￻詳見 `'og'og~"}]}],"t":"'adi"}
-,"%27adicaw":{"h":[{"d":[{"s":["`'adcaw~"],"f":"￹￺Refer to `'adcaw~￻詳見 `'adcaw~"}]}],"t":"'adicaw"}
+,"%27adawang":{"h":[{"d":[{"f":"￹￺gateway￻門檻、門口"}]}],"t":"'adawang"}
+,"%27adcaw":{"h":[{"d":[{"l":["`'adicaw~"],"f":"￹￺marble￻大理石"}]}],"t":"'adcaw"}
+,"%27adepet":{"h":[{"d":[{"f":"￹￺to be tight * not share material things￻吝嗇"},{"l":["`idepet~"],"f":"￹￺to keep one's own counsel * deliberately not share￻密守、自己的計劃、不樂意分享"}]}],"t":"'adepet"}
+,"%27adi":{"h":[{"d":[{"l":["`'ong'ong~"],"f":"￹￺Refer to `'ong'ong~￻詳見 `'ong'ong~"}]}],"t":"'adi"}
+,"%27adicaw":{"h":[{"d":[{"l":["`'adcaw~"],"f":"￹￺Refer to `'adcaw~￻詳見 `'adcaw~"}]}],"t":"'adicaw"}
 ,"%27adidem":{"h":[{"d":[{"f":"￹￺mulberry tree * mulberries (the fruit)￻桑樹、桑葚"},{"f":"￹￺White Mulberry (Morus alba)￻桑樹"},{"f":"￹￺Aino Mulberry (Morus australis)￻小葉桑"}]}],"t":"'adidem"}
 ,"%27adif":{"h":[{"d":[{"f":"￹￺temporary fence￻暫用圍牆、臨時籬笆"},{"f":"￹￺wall in a building￻圍牆"}]}],"t":"'adif"}
-,"%27adig":{"h":[{"d":[{"s":["`pa'adig~","`miki'adig~","`piki'adigan~"],"f":"￹￺to protect * shield￻防護、保護物、遮蓋物"}]}],"t":"'adig"}
-,"%27adigal":{"h":[{"d":[{"f":"￹￺shiny * as polished wood￻光亮、光澤"},{"f":"￹￺clean hair￻洗髮"}]}],"t":"'adigal"}
-,"%27adigo":{"h":[{"d":[{"f":"￹￺shadow￻影子"},{"e":["￹`Fagcalay~ `'Adigo~￺Holy Spirit * coined expression for￻聖靈"],"f":"￹￺human soul or spirit￻人類的靈魂"}]}],"t":"'adigo"}
-,"%27adimaceg":{"h":[{"d":[{"s":["`rao'~"],"f":"￹￺a species of tree * Soap Nut Tree￻無患子"}]}],"t":"'adimaceg"}
-,"%27adipagpag":{"h":[{"d":[{"f":"￹￺tropical fish * generic term￻熱帶魚的總稱(鰈鶼)"},{"f":"￹￺butterfly￻蝴蝶"}]}],"t":"'adipagpag"}
-,"%27adipel":{"h":[{"d":[{"s":["`mi'adipel~"],"f":"￹￺fence￻圍牆、籬笆"}]}],"t":"'adipel"}
-,"%27adipig":{"h":[{"d":[{"f":"￹￺comb of a rooster or hen￻雞冠"}]}],"t":"'adipig"}
+,"%27adimaceng":{"h":[{"d":[{"l":["`rao'~"],"f":"￹￺a species of tree * Soap Nut Tree￻無患子"}]}],"t":"'adimaceng"}
+,"%27ading":{"h":[{"d":[{"l":["`pa'ading~","`miki'ading~","`piki'adingan~"],"f":"￹￺to protect * shield￻防護、保護物、遮蓋物"}]}],"t":"'ading"}
+,"%27adingal":{"h":[{"d":[{"f":"￹￺shiny * as polished wood￻光亮、光澤"},{"f":"￹￺clean hair￻洗髮"}]}],"t":"'adingal"}
+,"%27adingo":{"h":[{"d":[{"f":"￹￺shadow￻影子"},{"e":["￹`Fangcalay~ `'Adingo~￺Holy Spirit * coined expression for￻聖靈"],"f":"￹￺human soul or spirit￻人類的靈魂"}]}],"t":"'adingo"}
+,"%27adipangpang":{"h":[{"d":[{"f":"￹￺tropical fish * generic term￻熱帶魚的總稱(鰈鶼)"},{"f":"￹￺butterfly￻蝴蝶"}]}],"t":"'adipangpang"}
+,"%27adipel":{"h":[{"d":[{"l":["`mi'adipel~"],"f":"￹￺fence￻圍牆、籬笆"}]}],"t":"'adipel"}
+,"%27adiping":{"h":[{"d":[{"f":"￹￺comb of a rooster or hen￻雞冠"}]}],"t":"'adiping"}
 ,"%27adit":{"h":[{"d":[{"f":"￹￺a scab over a healing wound￻傷口上所結的硬皮(少許樹脂、油脂或分泌物凝結成硬塊皮)"}]}],"t":"'adit"}
 ,"%27adiyam":{"h":[{"d":[{"f":"￹￺ginger root￻生薑 (中部阿美語)"},{"f":"￹￺pepper * hot seasoning of￻小辣椒 (南部阿笑語)"}]}],"t":"'adiyam"}
 ,"%27adiyoc":{"h":[{"d":[{"f":"￹￺whirl wind￻旋風、龍捲風"}]}],"t":"'adiyoc"}
-,"%27adop":{"h":[{"d":[{"s":["`'a'adopen~"],"f":"￹￺to hunt for game￻狩獵"}]}],"t":"'adop"}
-,"%27adteg":{"h":[{"d":[{"f":"￹￺tree sap￻樹汁"},{"s":["`cica'~"],"f":"￹￺tobacco juice￻遺留在煙斗吸管內的菸鹼(尼古丁) (Kwangfu 光復語)"}]}],"t":"'adteg"}
+,"%27adop":{"h":[{"d":[{"l":["`'a'adopen~"],"f":"￹￺to hunt for game￻狩獵"}]}],"t":"'adop"}
+,"%27adteng":{"h":[{"d":[{"f":"￹￺tree sap￻樹汁"},{"l":["`cica'~"],"f":"￹￺tobacco juice￻遺留在煙斗吸管內的菸鹼(尼古丁) (Kwangfu 光復語)"}]}],"t":"'adteng"}
 ,"%27adtom":{"h":[{"d":[{"f":"￹￺a kind of grass￻草植類之一"}]}],"t":"'adtom"}
-,"%27afag":{"h":[{"d":[{"f":"￹￺to put arms on the shoulder of￻手臂搭置他人肩上(表示扶持行動不便的病人)"},{"s":["`salo'afag~","`misalo'afag~"],"f":"￹￺the spirit a medium receives when possessed￻受靈的媒介物"}]}],"t":"'afag"}
-,"%27afala":{"h":[{"d":[{"e":["￹`paki~`'afala~ `a~ `mi~`'orog~￺to carry on the shoulders￻扛在肩上"],"f":"￹￺shoulder￻肩膀"}]}],"t":"'afala"}
-,"%27afalag":{"h":[{"d":[{"f":"￹￺to put arms around something and lift it up to the level of one's head and carry￻以兩手臂的力量支撐置於肩上之未經捆綁的東西"}]}],"t":"'afalag"}
+,"%27afala":{"h":[{"d":[{"e":["￹`paki'afala~ `a~ `mi'orong~￺to carry on the shoulders￻扛在肩上"],"f":"￹￺shoulder￻肩膀"}]}],"t":"'afala"}
+,"%27afalang":{"h":[{"d":[{"f":"￹￺to put arms around something and lift it up to the level of one's head and carry￻以兩手臂的力量支撐置於肩上之未經捆綁的東西"}]}],"t":"'afalang"}
+,"%27afang":{"h":[{"d":[{"f":"￹￺to put arms on the shoulder of￻手臂搭置他人肩上(表示扶持行動不便的病人)"},{"l":["`salo'afang~","`misalo'afang~"],"f":"￹￺the spirit a medium receives when possessed￻受靈的媒介物"}]}],"t":"'afang"}
 ,"%27afar":{"h":[{"d":[{"f":"￹￺river or ocean shrimp￻蝦，草蝦，蝦的總稱"}]}],"t":"'afar"}
 ,"%27afas":{"h":[{"d":[{"f":"￹￺to grab * take away from￻搶奪，掠奪"}]}],"t":"'afas"}
 ,"%27afdo%27ay":{"h":[{"d":[{"f":"￹￺ceremonial clothing worn by the headman while reciting the genealogies of the clans￻首長穿儀式典禮的長服全面性的在氏族之前吟誦古代的程序"}]}],"t":"'afdo'ay"}
 ,"%27afel":{"h":[{"d":[{"f":"￹￺hot coals￻燒煤"},{"f":"￹￺coal￻煤炭"},{"f":"￹￺charcoal￻木炭"}]}],"t":"'afel"}
-,"%27afinog":{"h":[{"d":[{"f":"￹￺coconut￻椰子果"},{"f":"￹￺Cocos Palm￻可可椰子"},{"f":"￹￺Royal Palm tree￻大王椰子"},{"f":"￹￺Alexandria Palm￻椰子"}]}],"t":"'afinog"}
+,"%27afinong":{"h":[{"d":[{"f":"￹￺coconut￻椰子果"},{"f":"￹￺Cocos Palm￻可可椰子"},{"f":"￹￺Royal Palm tree￻大王椰子"},{"f":"￹￺Alexandria Palm￻椰子"}]}],"t":"'afinong"}
 ,"%27afo":{"h":[{"d":[{"f":"￹￺ashes￻灰，灰燼"},{"f":"￹￺fertilizer￻肥料(化學)"}]}],"t":"'afo"}
 ,"%27afofo":{"h":[{"d":[{"f":"￹￺to hold in arms￻抱起來，抱在懷裡"}]}],"t":"'afofo"}
 ,"%27afono":{"h":[{"d":[]}],"t":"'afono"}
 ,"%27afsaw":{"h":[{"d":[{"f":"￹￺to taste burnt￻品嘗如煙燻味"},{"f":"￹￺lukewarm￻微溫的，溫熱的，不冷不熱(不熱心的)"}]}],"t":"'afsaw"}
 ,"%27aftoy":{"h":[{"d":[{"f":"￹￺calf of the leg￻小腿肚"}]}],"t":"'aftoy"}
-,"%27agaget":{"h":[{"d":[{"f":"￹￺to curl hair￻使毛髮捲曲"},{"f":"￹￺curly￻捲曲的，捲縮的，有捲毛的"}]}],"t":"'agaget"}
-,"%27agcep":{"h":[{"d":[{"f":"￹￺the smell of burnt rice￻飯燒焦味"}]}],"t":"'agcep"}
-,"%27agdis":{"h":[{"d":[{"s":["`'aglis~"],"f":"￹￺Refer to `'aglis~￻詳見 `'aglis~"}]}],"t":"'agdis"}
-,"%27agdisay":{"h":[{"d":[{"f":"￹￺seaweed used for food￻可食海草"}]}],"t":"'agdisay"}
-,"%27agi":{"h":[{"d":[{"f":"￹￺fear arising in the heart when anticipating trouble￻忍懼感"}]}],"t":"'agi"}
-,"%27aglis":{"h":[{"d":[{"s":["`'agdis~"],"f":"￹￺strong smell of fish￻魚腥味的"}]}],"t":"'aglis"}
-,"%27agrer":{"h":[{"d":[{"e":["￹`'agrer~ `ko~ `sowal~￺words that hurt￻話語傷人，話中帶刺"],"f":"￹￺bitter with literal and figurative meanings￻苦，苦味，字面上及象徵意義上的苦"}]}],"t":"'agrer"}
-,"%27agsaw":{"h":[{"d":[{"f":"￹￺the smell of smoke * burnt smell￻煙燻味的"}]}],"t":"'agsaw"}
-,"%27agsit":{"h":[{"d":[{"f":"￹￺the stink of a skunk￻鼬鼠之臭味"},{"e":["￹`'agsit~`ay~ `a~ `koyo'~￺a skunk￻臭鼬鼠"],"f":"￹￺the smell of certain kinds of plants￻某種植物的臭味"}]}],"t":"'agsit"}
-,"%27agtol":{"h":[{"d":[{"s":["`'antol~","`'agtox~"],"f":"￹￺stink of something dead￻動物死屍的臭味，腐肉或傷口的臭味"}]}],"t":"'agtol"}
-,"%27agtox":{"h":[{"d":[{"s":["`'agtol~"],"f":"￹￺Refer to `'agtol~￻詳見 `'agtol~"}]}],"t":"'agtox"}
-,"%27ahac":{"h":[{"d":[{"s":["`'omac~","`'onac~"],"f":"￹￺to fade * to have color gone￻褪色，失去光澤"}]}],"t":"'ahac"}
-,"%27ahnag":{"h":[{"d":[{"s":["`'anegag~"],"f":"￹￺Refer to `'anegag~￻詳見 `'anegag~"}]}],"t":"'ahnag"}
-,"%27akawag":{"h":[{"d":[{"f":"￹￺tall￻高大(身材，體格)"},{"s":["`takaraw~"],"f":"￹￺high￻高"}]}],"t":"'akawag"}
+,"%27ahac":{"h":[{"d":[{"l":["`'omac~","`'onac~"],"f":"￹￺to fade * to have color gone￻褪色，失去光澤"}]}],"t":"'ahac"}
+,"%27ahnang":{"h":[{"d":[{"l":["`'anengang~"],"f":"￹￺Refer to `'anengang~￻詳見 `'anengang~"}]}],"t":"'ahnang"}
+,"%27akawang":{"h":[{"d":[{"f":"￹￺tall￻高大(身材，體格)"},{"l":["`takaraw~"],"f":"￹￺high￻高"}]}],"t":"'akawang"}
 ,"%27akaway":{"h":[{"d":[{"f":"￹￺stem of a plant￻植物的莖"}]}],"t":"'akaway"}
 ,"%27akik":{"h":[{"d":[{"f":"￹￺wound that was weeping but dried￻將癒的傷口"},{"f":"￹￺dried sap from a cut vegetation￻乾脂(草木汁)"},{"f":"￹￺dried up grass or vegetation￻草木枯萎"}]}],"t":"'akik"}
-,"%27akog":{"h":[{"d":[{"f":"￹￺crooked￻彎曲"},{"s":["`li'akog~"],"e":["￹`ma~`'akog~ `ko~ `sowal~￺false words * lies￻謊言，假話"],"f":"￹￺perverse￻心理不正的"}]}],"t":"'akog"}
-,"%27akonal":{"h":[{"d":[{"s":["`'anal~"],"f":"￹￺bald of the head￻禿頭"}]}],"t":"'akonal"}
-,"%27alagad":{"h":[{"d":[{"f":"￹￺a lump (of rice) held in the hand￻飯槽，端在掌上的食物"}]}],"t":"'alagad"}
+,"%27akonal":{"h":[{"d":[{"l":["`'anal~"],"f":"￹￺bald of the head￻禿頭"}]}],"t":"'akonal"}
+,"%27akong":{"h":[{"d":[{"f":"￹￺crooked￻彎曲"},{"l":["`mali'akong~"],"e":["￹`ma'akong~ `ko~ `sowal~￺false words * lies￻謊言，假話"],"f":"￹￺perverse￻心理不正的"}]}],"t":"'akong"}
+,"%27alangad":{"h":[{"d":[{"f":"￹￺a lump (of rice) held in the hand￻飯槽，端在掌上的食物"}]}],"t":"'alangad"}
 ,"%27alapit":{"h":[{"d":[{"f":"￹￺tweezers * thongs￻夾子，鉗具"},{"f":"￹￺chopsticks￻筷子"}]}],"t":"'alapit"}
-,"%27alcam":{"h":[{"d":[{"s":["`'acam~"],"f":"￹￺Refer to `'acam~￻詳見 `'acam~"}]}],"t":"'alcam"}
+,"%27alcam":{"h":[{"d":[{"l":["`'acam~"],"f":"￹￺Refer to `'acam~￻詳見 `'acam~"}]}],"t":"'alcam"}
 ,"%27alem":{"h":[{"d":[{"f":"￹￺ant-eater with long tongue * Manis tricupis￻穿山甲"}]}],"t":"'alem"}
-,"%27alet":{"h":[{"d":[{"s":["`sa'et~"],"f":"￹￺to stop * hinder￻阻止，遏止，妨礙，妨害，阻礙"}]}],"t":"'alet"}
+,"%27alet":{"h":[{"d":[{"l":["`sa'et~"],"f":"￹￺to stop * hinder￻阻止，遏止，妨礙，妨害，阻礙"}]}],"t":"'alet"}
 ,"%27ali":{"h":[{"d":[{"f":"￹￺brother or sister-in-law￻對兄弟姊妹之配偶之稱謂"}]}],"t":"'ali"}
-,"%27alic":{"h":[{"d":[{"s":["`cirep~"],"f":"￹￺a sparrow￻華南麻雀"},{"f":"￹￺a species of fish￻魚的一種"}]}],"t":"'alic"}
+,"%27alic":{"h":[{"d":[{"l":["`cirep~"],"f":"￹￺a sparrow￻華南麻雀"},{"f":"￹￺a species of fish￻魚的一種"}]}],"t":"'alic"}
 ,"%27alilis":{"h":[{"d":[{"f":"￹￺eagle * Serpent eagle￻大冠鷹"}]}],"t":"'alilis"}
-,"%27alimdas":{"h":[{"d":[{"s":["`'alogdas~"],"f":"￹￺Pytas korros, a snake￻花草蛇"}]}],"t":"'alimdas"}
+,"%27alimdas":{"h":[{"d":[{"l":["`'alongdas~"]},{"f":"￹￺Pytas korros, a snake￻花草蛇"}]}],"t":"'alimdas"}
 ,"%27alip":{"h":[{"d":[{"f":"￹￺sexual intercourse * of humans￻人類的性交，做愛"}]}],"t":"'alip"}
-,"%27alipaonay":{"h":[{"d":[{"s":["`'alopaynay~"],"f":"￹￺Refer to `'alopaynay~￻詳見 `'alopaynay~"}]}],"t":"'alipaonay"}
+,"%27alipaonay":{"h":[{"d":[{"l":["`'alopaynay~"],"f":"￹￺Refer to `'alopaynay~￻詳見 `'alopaynay~"}]}],"t":"'alipaonay"}
 ,"%27alitad":{"h":[{"d":[{"f":"￹￺lump of something like dough or mud or cooked nce or clods of soil￻泥土或飯糰的塊狀，凝固狀"}]}],"t":"'alitad"}
-,"%27aliwac":{"h":[{"d":[{"e":["￹`pa~`'aliwac~￺to take time off to do something￻暫時…短暫性的"],"f":"￹￺the pointed sharp end of bamboo￻竹竿的尖端"}]}],"t":"'aliwac"}
-,"%27aliwates":{"h":[{"d":[{"f":"￹￺boils￻沸騰"},{"s":["`'itkiw~","`kaliwates~"],"f":"￹￺festering sores with a core￻疔瘡，瘡癤"}]}],"t":"'aliwates"}
-,"%27alo":{"h":[{"d":[{"e":["￹`'alo~ `no~ `coco~￺woman's breast￻乳溝","￹`kasa~`'alo~`'alo~￺the humps of a mountain range￻峰巒相連狀"],"f":"￹￺river * stream * creek￻河，溪澗，小溪"}]}],"t":"'alo"}
-,"%27alofo":{"h":[{"d":[{"f":"￹￺a bag carried on the back￻背袋"},{"s":["`sapa'alofo~"],"f":"￹￺pocket￻口袋"}]}],"t":"'alofo"}
-,"%27alogdas":{"h":[{"d":[{"f":"￹￺large harmless edible snake * Mock Viper (Achalinus niger Maki)￻無毒可食之蟒蛇"},{"s":["`'alimdas~"],"f":"￹￺(Calamaria pavimentata formosana)￻南蛇，標蛇"}]}],"t":"'alogdas"}
+,"%27aliwac":{"h":[{"d":[{"e":["￹`pa'aliwac~￺to take time off to do something￻暫時…短暫性的"],"f":"￹￺the pointed sharp end of bamboo￻竹竿的尖端"}]}],"t":"'aliwac"}
+,"%27aliwates":{"h":[{"d":[{"f":"￹￺boils￻沸騰"},{"l":["`'itkiw~","`kaliwates~"],"f":"￹￺festering sores with a core￻疔瘡，瘡癤"}]}],"t":"'aliwates"}
+,"%27alo":{"h":[{"d":[{"e":["￹`'alo~ `no~ `coco~￺woman's breast￻乳溝","￹`kasa'alo'alo~￺the humps of a mountain range￻峰巒相連狀"],"f":"￹￺river * stream * creek￻河，溪澗，小溪"}]}],"t":"'alo"}
+,"%27alofo":{"h":[{"d":[{"f":"￹￺a bag carried on the back￻背袋"},{"l":["`sapa'alofo~"],"f":"￹￺pocket￻口袋"}]}],"t":"'alofo"}
 ,"%27alol":{"h":[{"d":[{"f":"￹￺to be carried away by water so that it is no longer seen￻流失，被水沖走"}]}],"t":"'alol"}
-,"%27alolil":{"h":[{"d":[{"f":"￹￺a bird * House Martin￻毛腳燕"},{"f":"￹￺Barn swallow￻家燕"},{"s":["`'aroril~"],"f":"￹￺Red-Rumped swallow￻赤腰燕"}]}],"t":"'alolil"}
-,"%27alolog":{"h":[{"d":[{"s":["`talolog~"],"f":"￹￺deep￻深的，深遠的"}]}],"t":"'alolog"}
+,"%27alolil":{"h":[{"d":[{"f":"￹￺a bird * House Martin￻毛腳燕"},{"f":"￹￺Barn swallow￻家燕"},{"l":["`'aroril~"],"f":"￹￺Red-Rumped swallow￻赤腰燕"}]}],"t":"'alolil"}
+,"%27alolong":{"h":[{"d":[{"l":["`talolong~"],"f":"￹￺deep￻深的，深遠的"}]}],"t":"'alolong"}
 ,"%27aloman":{"h":[{"d":[{"f":"￹￺many * of people and animals only￻許多…，很多…，眾多"}]}],"t":"'aloman"}
 ,"%27alomaylay":{"h":[{"d":[]}],"t":"'alomaylay"}
+,"%27alongdas":{"h":[{"d":[{"l":["`'alimdas~"]},{"f":"￹￺large harmless edible snake * Mock Viper (Achalinus niger Maki)￻無毒可食之蟒蛇"},{"f":"￹￺(Calamaria pavimentata formosana)￻南蛇，標蛇"}]}],"t":"'alongdas"}
 ,"%27alopal":{"h":[{"d":[{"f":"￹￺persimmon * tree and fruit￻柿子，柿子樹 (Diospyros kaki)"}]}],"t":"'alopal"}
-,"%27alopaynay":{"h":[{"d":[{"s":["`'alipaonay~"],"f":"￹￺long bright orange / green beetle-like insect that is pliable like wood￻螢火蟲"}]}],"t":"'alopaynay"}
+,"%27alopaynay":{"h":[{"d":[{"l":["`'alipaonay~"],"f":"￹￺long bright orange / green beetle-like insect that is pliable like wood￻螢火蟲"}]}],"t":"'alopaynay"}
 ,"%27alotoc":{"h":[{"d":[{"f":"￹￺edible snails from river or sea￻河中或海中的尖形螺"}]}],"t":"'alotoc"}
-,"%27alpad":{"h":[{"d":[{"s":["`tapakad~"],"f":"￹￺a smaller group belonging to a larger delegation of travelers walking￻成群結隊"}]}],"t":"'alpad"}
+,"%27alpad":{"h":[{"d":[{"l":["`tapakad~"],"f":"￹￺a smaller group belonging to a larger delegation of travelers walking￻成群結隊"}]}],"t":"'alpad"}
 ,"%27amis":{"h":[{"d":[{"f":"￹￺name of the Amis race￻阿美族之族名"},{"f":"￹￺north￻北，北方"}]}],"t":"'amis"}
 ,"%27amitir":{"h":[{"d":[{"f":"￹￺perverse * as the way a woman acts that makes her appear mannish￻風騷的，不矜持的，任性的，縱情的(指女性)"}]}],"t":"'amitir"}
 ,"%27amlas":{"h":[{"d":[{"f":"￹￺flirting * using speech and manners that are sexually suggestive￻輕浮，不莊重，風流"},{"f":"￹￺of the way one does an activity causing spoil * not careful￻輕慢，輕薄，粗魯"}]}],"t":"'amlas"}
-,"%27anal":{"h":[{"d":[{"s":["`'akonal~"],"f":"￹￺Refer to `'akonal~￻詳見 `'akonal~"}]}],"t":"'anal"}
-,"%27anapar":{"h":[{"d":[{"s":["`'arapar~"],"f":"￹￺Refer to `'arapar~￻詳見 `'arapar~"}]}],"t":"'anapar"}
-,"%27anegag":{"h":[{"d":[{"s":["`'ahnag~"],"f":"￹￺chair * stool￻椅子，凳子"}]}],"t":"'anegag"}
-,"%27anikak":{"h":[{"d":[{"s":["`'ankak~"],"f":"￹￺Refer to `'ankak~￻詳見 `'ankak~"}]}],"t":"'anikak"}
-,"%27anin":{"h":[{"d":[{"s":["`mala~`'anin~"],"f":"￹￺to play as dogs play￻扮演狗戲，裝扮成狗要寶"}]}],"t":"'anin"}
+,"%27anal":{"h":[{"d":[{"l":["`'akonal~"],"f":"￹￺Refer to `'akonal~￻詳見 `'akonal~"}]}],"t":"'anal"}
+,"%27anapar":{"h":[{"d":[{"l":["`'arapar~"],"f":"￹￺Refer to `'arapar~￻詳見 `'arapar~"}]}],"t":"'anapar"}
+,"%27anengang":{"h":[{"d":[{"l":["`'ahnang~"],"f":"￹￺chair * stool￻椅子，凳子"}]}],"t":"'anengang"}
+,"%27anganget":{"h":[{"d":[{"f":"￹￺to curl hair￻使毛髮捲曲"},{"f":"￹￺curly￻捲曲的，捲縮的，有捲毛的"}]}],"t":"'anganget"}
+,"%27angcep":{"h":[{"d":[{"f":"￹￺the smell of burnt rice￻飯燒焦味"}]}],"t":"'angcep"}
+,"%27angdis":{"h":[{"d":[{"l":["`'anglis~"],"f":"￹￺Refer to `'anglis~￻詳見 `'anglis~"}]}],"t":"'angdis"}
+,"%27angdisay":{"h":[{"d":[{"f":"￹￺seaweed used for food￻可食海草"}]}],"t":"'angdisay"}
+,"%27angi":{"h":[{"d":[{"f":"￹￺fear arising in the heart when anticipating trouble￻忍懼感"}]}],"t":"'angi"}
+,"%27anglis":{"h":[{"d":[{"l":["`'angdis~"],"f":"￹￺strong smell of fish￻魚腥味的"}]}],"t":"'anglis"}
+,"%27angrer":{"h":[{"d":[{"e":["￹`'angrer~ `ko~ `sowal~￺words that hurt￻話語傷人，話中帶刺"],"f":"￹￺bitter with literal and figurative meanings￻苦，苦味，字面上及象徵意義上的苦"}]}],"t":"'angrer"}
+,"%27angsaw":{"h":[{"d":[{"f":"￹￺the smell of smoke * burnt smell￻煙燻味的"}]}],"t":"'angsaw"}
+,"%27angsit":{"h":[{"d":[{"f":"￹￺the stink of a skunk￻鼬鼠之臭味"},{"e":["￹`'angsitay~ `a~ `koyo'~￺a skunk￻臭鼬鼠"],"f":"￹￺the smell of certain kinds of plants￻某種植物的臭味"}]}],"t":"'angsit"}
+,"%27angtol":{"h":[{"d":[{"l":["`'antol~","`'angtox~"],"f":"￹￺stink of something dead￻動物死屍的臭味，腐肉或傷口的臭味"}]}],"t":"'angtol"}
+,"%27angtox":{"h":[{"d":[{"l":["`'angtol~"],"f":"￹￺Refer to `'angtol~￻詳見 `'angtol~"}]}],"t":"'angtox"}
+,"%27anikak":{"h":[{"d":[{"l":["`'ankak~"],"f":"￹￺Refer to `'ankak~￻詳見 `'ankak~"}]}],"t":"'anikak"}
+,"%27anin":{"h":[{"d":[{"l":["`mala'anin~"],"f":"￹￺to play as dogs play￻扮演狗戲，裝扮成狗要寶"}]}],"t":"'anin"}
 ,"%27aninil":{"h":[{"d":[{"f":"￹￺to watch * pay special attention * be interested in￻看守，守衛，對某些事物特別注意，對某事有興趣"}]}],"t":"'aninil"}
-,"%27anip":{"h":[{"d":[{"s":["`'onip~","`mi'anip~"],"f":"￹￺rice seedlings freshly planted￻稻株"}]}],"t":"'anip"}
-,"%27ankak":{"h":[{"d":[{"s":["`'anikak~"],"f":"￹￺a crow * large black bird￻鴉"}]}],"t":"'ankak"}
-,"%27anof":{"h":[{"d":[{"s":["`ka'anofan~"],"f":"￹￺greed * desire * lust * usually related to one's livelihood￻貪婪，貪慾，熱望，貪圖"}]}],"t":"'anof"}
-,"%27anognogan":{"h":[{"d":[{"f":"￹￺the center cross beam of a house￻房屋的脊樑"}]}],"t":"'anognogan"}
-,"%27antipal":{"h":[{"d":[{"f":"￹￺Chinese Bulbul￻白頭翁"},{"s":["`'atipal~"],"f":"￹￺a bird￻一種鳥"}]}],"t":"'antipal"}
-,"%27antol":{"h":[{"d":[{"s":["`'agtol~"],"f":"￹￺Refer to `'agtol~￻詳見 `'agtol~"}]}],"t":"'antol"}
+,"%27anip":{"h":[{"d":[{"l":["`'onip~","`mi'anip~"],"f":"￹￺rice seedlings freshly planted￻稻株"}]}],"t":"'anip"}
+,"%27ankak":{"h":[{"d":[{"l":["`'anikak~"],"f":"￹￺a crow * large black bird￻鴉"}]}],"t":"'ankak"}
+,"%27anof":{"h":[{"d":[{"l":["`ka'anofan~"],"f":"￹￺greed * desire * lust * usually related to one's livelihood￻貪婪，貪慾，熱望，貪圖"}]}],"t":"'anof"}
+,"%27anongnongan":{"h":[{"d":[{"f":"￹￺the center cross beam of a house￻房屋的脊樑"}]}],"t":"'anongnongan"}
+,"%27antipal":{"h":[{"d":[{"f":"￹￺Chinese Bulbul￻白頭翁"},{"l":["`'atipal~"],"f":"￹￺a bird￻一種鳥"}]}],"t":"'antipal"}
+,"%27antol":{"h":[{"d":[{"l":["`'angtol~"],"f":"￹￺Refer to `'angtol~￻詳見 `'angtol~"}]}],"t":"'antol"}
 ,"%27aol":{"h":[{"d":[{"f":"￹￺the generic word for bamboo￻竹的總稱"}]}],"t":"'aol"}
 ,"%27aolecen":{"h":[{"d":[{"f":"￹￺Banded Krait * a poisonous snake￻毒蛇名"}]}],"t":"'aolecen"}
-,"%27ap%27ap":{"h":[{"d":[{"s":["`opopay~"],"f":"￹￺the name of a large frog￻俗稱田雞"}]}],"t":"'ap'ap"}
+,"%27ap%27ap":{"h":[{"d":[{"l":["`opopay~"],"f":"￹￺the name of a large frog￻俗稱田雞"}]}],"t":"'ap'ap"}
 ,"%27apac":{"h":[{"d":[{"f":"￹￺a trowel * a tool used by a carpenter to shave wood smooth￻鋤頭形削木刀"}]}],"t":"'apac"}
-,"%27apalo":{"h":[{"d":[{"s":["`'apaloay~"],"f":"￹￺Refer to `'apaloay~￻詳見 `'apaloay~"}]}],"t":"'apalo"}
-,"%27apaloay":{"h":[{"d":[{"s":["`'apalo~","`facidol~"],"f":"￹￺name of a tree￻波羅蜜"},{"f":"￹￺name of a village where many facidol grew￻花蓮縣壽豐鄉月眉部落之地名"}]}],"t":"'apaloay"}
-,"%27api":{"h":[{"d":[{"s":["`ma'apiay~"],"f":"￹￺twin￻孿生"}]}],"t":"'api"}
+,"%27apalo":{"h":[{"d":[{"l":["`'apaloay~"],"f":"￹￺Refer to `'apaloay~￻詳見 `'apaloay~"}]}],"t":"'apalo"}
+,"%27apaloay":{"h":[{"d":[{"l":["`'apalo~","`facidol~"],"f":"￹￺name of a tree￻波羅蜜"},{"f":"￹￺name of a village where many facidol grew￻花蓮縣壽豐鄉月眉部落之地名"}]}],"t":"'apaloay"}
+,"%27api":{"h":[{"d":[{"l":["`ma'apiay~"],"f":"￹￺twin￻孿生"}]}],"t":"'api"}
 ,"%27apilis":{"h":[{"d":[{"f":"￹￺a sheer drop off as a ledge on a mountainside￻山坡地，傾斜的坡地"}]}],"t":"'apilis"}
 ,"%27aplad":{"h":[{"d":[{"f":"￹￺a loaf (bread)￻一塊(如麵包土司)"}]}],"t":"'aplad"}
 ,"%27apocok":{"h":[{"d":[{"f":"￹￺the very top of a mountain￻山的尖頂，土堆尖形狀(如金字塔的尖端部份)"}]}],"t":"'apocok"}
@@ -119,33 +119,33 @@
 ,"%27aporaw":{"h":[{"d":[{"f":"￹￺hill-shaped ground￻山丘"},{"f":"￹￺to fill heaping full￻堆積成山丘狀"}]}],"t":"'aporaw"}
 ,"%27apsak":{"h":[{"d":[{"f":"￹￺not enough water used in mixture as rice cooked without enough water￻飯水分不足時，缺乏黏性"},{"f":"￹￺something breaks apart from not being mixed right￻東西因混合不當而互不相黏"}]}],"t":"'apsak"}
 ,"%27aramisit":{"h":[{"d":[{"f":"￹￺a vegetable that looks like parsley￻香菜"}]}],"t":"'aramisit"}
-,"%27arapar":{"h":[{"d":[{"s":["`'anapar~"],"f":"￹￺sparks from fire￻散發火星"}]}],"t":"'arapar"}
-,"%27ararogac":{"h":[{"d":[{"s":["`'adadogac~"],"f":"￹￺Refer to `'adadogac~￻詳見 `'adadogac~"}]}],"t":"'ararogac"}
-,"%27araw":{"h":[{"d":[{"s":["`arawhani~","`pi'arawan~","`paka'araw~"],"e":["￹`Pa~`'araw~`en~ `kami~ `toya~ `ni~`tatoy~`an~ `iso~.￺Show us what you are holding.￻請你把手上的東西顯示給我們看","￹`Pa~`'araw~ `cigra~ `to~ `dmak~ `nira~.￺He revealed what he was doing.￻他顯露他的作為(行為)","￹`saso'araw~ `kita~ `anini~.￺We get to see each other today.￻今天我們彼此相遇"],"f":"￹￺seen * visible￻看，視，窺"}]}],"t":"'araw"}
-,"%27arawhani":{"h":[{"d":[{"f":"￹￺instead * contrary to expectation￻事實上，看起來，其實"},{"s":["`'araw~"],"e":["￹`Tayra~ `kami~ `a~ `mi~`lood~ `cagra~`an~.  `'Arawhani~ `pa~`pata~`patay~ `~ `cagra~ `o~ `Taroko~.￺We went to fight them.  Instead they the Taroko were killing themselves.￻我們要去和他們打戰，卻見他們太魯閣族互相殘殺"],"f":"￹￺a grammatical connective indicating a reversal in the flow of events￻然而，基於此，相形之下，卻見…"}]}],"t":"'arawhani"}
+,"%27arapar":{"h":[{"d":[{"l":["`'anapar~"],"f":"￹￺sparks from fire￻散發火星"}]}],"t":"'arapar"}
+,"%27ararongac":{"h":[{"d":[{"l":["`'adadongac~"],"f":"￹￺Refer to `'adadongac~￻詳見 `'adadongac~"}]}],"t":"'ararongac"}
+,"%27araw":{"h":[{"d":[{"l":["`arawhani~","`pi'arawan~","`paka'araw~"],"e":["￹`Pa'arawen~ `kami~ `toya~ `nitatoyan~ `iso~.￺Show us what you are holding.￻請你把手上的東西顯示給我們看","￹`Pa'araw~ `cingra~ `to~ `dmak~ `nira~.￺He revealed what he was doing.￻他顯露他的作為(行為)","￹`Masaso'araw~ `kita~ `anini~.￺We get to see each other today.￻今天我們彼此相遇"],"f":"￹￺seen * visible￻看，視，窺"}]}],"t":"'araw"}
+,"%27arawhani":{"h":[{"d":[{"f":"￹￺instead * contrary to expectation￻事實上，看起來，其實"},{"l":["`'araw~"],"e":["￹`Tayra~ `kami~ `a~ `milood~ `cangraan~.  `'Arawhani~ `papatapatay~ `sa~ `cangra~ `o~ `Taroko~.￺We went to fight them.  Instead they the Taroko were killing themselves.￻我們要去和他們打戰，卻見他們太魯閣族互相殘殺"],"f":"￹￺a grammatical connective indicating a reversal in the flow of events￻然而，基於此，相形之下，卻見…"}]}],"t":"'arawhani"}
 ,"%27arawi":{"h":[{"d":[{"f":"￹￺a word expressing warning or need to be careful￻注意，小心，當心"},{"f":"￹￺an expression suggesting that something bad may happen￻勸告小心可能有不幸事件發生"}]}],"t":"'arawi"}
 ,"%27arawraw":{"h":[{"d":[{"f":"￹￺round in one dimension (flat) * circle-shaped￻圓的，圓形的"}]}],"t":"'arawraw"}
-,"%27ardet":{"h":[{"d":[{"s":["`ka'so~"],"f":"￹￺a good kind of taste * delicious￻香味十足的"}]}],"t":"'ardet"}
+,"%27ardet":{"h":[{"d":[{"l":["`ka'so~"],"f":"￹￺a good kind of taste * delicious￻香味十足的"}]}],"t":"'ardet"}
 ,"%27ardo":{"h":[{"d":[{"f":"￹￺swamp grass * used in making things￻蓆草(生長在水邊植物)"}]}],"t":"'ardo"}
-,"%27ari":{"h":[{"d":[{"s":["`kina'ari~"],"f":"￹￺break * referring to glass only￻破碎"}]}],"t":"'ari"}
+,"%27ari":{"h":[{"d":[{"l":["`kina'ari~"],"f":"￹￺break * referring to glass only￻破碎"}]}],"t":"'ari"}
 ,"%27arikaya":{"h":[{"d":[{"f":"￹￺a tall demon whose origin is in the trees * When he reveals himself to a person they become sick and die.￻高如樹般的鬼魂之鬼名"}]}],"t":"'arikaya"}
-,"%27ariray":{"h":[{"d":[{"s":["`padaka~"],"f":"￹￺corn￻玉米，玉蜀黍"}]}],"t":"'ariray"}
+,"%27ariray":{"h":[{"d":[{"l":["`padaka~"],"f":"￹￺corn￻玉米，玉蜀黍"}]}],"t":"'ariray"}
 ,"%27ariri":{"h":[{"d":[{"f":"￹￺granary * storeroom for grain of all kinds￻穀倉"}]}],"t":"'ariri"}
-,"%27arisaysay":{"h":[{"d":[{"s":["`'arosaysay~"],"f":"￹￺Refer to `'arosaysay~￻詳見 `'arosaysay~"}]}],"t":"'arisaysay"}
+,"%27arisaysay":{"h":[{"d":[{"l":["`'arosaysay~"],"f":"￹￺Refer to `'arosaysay~￻詳見 `'arosaysay~"}]}],"t":"'arisaysay"}
 ,"%27arnim":{"h":[{"d":[{"f":"￹￺the taste of something sour that is like liquor￻酸，有一點酸"}]}],"t":"'arnim"}
-,"%27aroril":{"h":[{"d":[{"s":["`'alolil~"],"f":"￹￺Refer to `'alolil~￻詳見 `'alolil~"}]}],"t":"'aroril"}
-,"%27arosaysay":{"h":[{"d":[{"s":["`'arisaysay~"],"f":"￹￺a festival cape draped over the shoulders and covered with spangles￻台東地區披肩形女舞裝"}]}],"t":"'arosaysay"}
-,"%27arsak":{"h":[{"d":[{"e":["￹`Ma~`'arsak~ `ko~ `hmay~.￺The rice is hard and under-cooked.￻白飯半生不熟","￹`Ma~`'arsak~ `ko~ `amoto~.￺The cement doesn't have enough water in the mixture.￻水泥無足夠的水，攪拌面乾裂"],"f":"￹￺to be dry from not having enough water in the mixture￻水分不足(乾燥)"}]}],"t":"'arsak"}
-,"%27arsig":{"h":[{"d":[{"s":["`'o'ol~"],"f":"￹￺dew￻露水，露珠"}]}],"t":"'arsig"}
-,"%27asad":{"h":[{"d":[{"s":["`safak~"],"f":"￹￺a kernel of grain￻舂米或碾米時未脫殼之穀粒"}]}],"t":"'asad"}
-,"%27asic":{"h":[{"d":[{"s":["`'acis~"],"f":"￹￺Refer to `'acis~￻詳見 `'acis~"}]}],"t":"'asic"}
-,"%27asilo":{"h":[{"d":[{"f":"￹￺lemon￻檸檬樹(果)"},{"f":"￹￺mami'- an orange tree and fruit￻柑橘"},{"s":["`'asiro~"],"f":"￹￺the name of an Amis village * Asiloay￻台東市豐年部落地名"}]}],"t":"'asilo"}
-,"%27asiro":{"h":[{"d":[{"f":"￹￺Lemon tree and its fruit￻檸檬"},{"s":["`'asilo~"],"f":"￹￺mami'- orange tree and fruit￻柑橘"}]}],"t":"'asiro"}
+,"%27aroril":{"h":[{"d":[{"l":["`'alolil~"],"f":"￹￺Refer to `'alolil~￻詳見 `'alolil~"}]}],"t":"'aroril"}
+,"%27arosaysay":{"h":[{"d":[{"l":["`'arisaysay~"],"f":"￹￺a festival cape draped over the shoulders and covered with spangles￻台東地區披肩形女舞裝"}]}],"t":"'arosaysay"}
+,"%27arsak":{"h":[{"d":[{"e":["￹`Ma'arsak~ `ko~ `hmay~.￺The rice is hard and under-cooked.￻白飯半生不熟","￹`Ma'arsak~ `ko~ `amoto~.￺The cement doesn't have enough water in the mixture.￻水泥無足夠的水，攪拌面乾裂"],"f":"￹￺to be dry from not having enough water in the mixture￻水分不足(乾燥)"}]}],"t":"'arsak"}
+,"%27arsing":{"h":[{"d":[{"l":["`'o'ol~"],"f":"￹￺dew￻露水，露珠"}]}],"t":"'arsing"}
+,"%27asad":{"h":[{"d":[{"l":["`safak~"],"f":"￹￺a kernel of grain￻舂米或碾米時未脫殼之穀粒"}]}],"t":"'asad"}
+,"%27asic":{"h":[{"d":[{"l":["`'acis~"],"f":"￹￺Refer to `'acis~￻詳見 `'acis~"}]}],"t":"'asic"}
+,"%27asilo":{"h":[{"d":[{"f":"￹￺lemon￻檸檬樹(果)"},{"f":"￹￺mami'- an orange tree and fruit￻柑橘"},{"l":["`'asiro~"],"f":"￹￺the name of an Amis village * Asiloay￻台東市豐年部落地名"}]}],"t":"'asilo"}
+,"%27asiro":{"h":[{"d":[{"f":"￹￺Lemon tree and its fruit￻檸檬"},{"l":["`'asilo~"],"f":"￹￺mami'- orange tree and fruit￻柑橘"}]}],"t":"'asiro"}
 ,"%27asisiw":{"h":[{"d":[{"f":"￹￺straw￻稻草"}]}],"t":"'asisiw"}
 ,"%27asolo":{"h":[{"d":[{"f":"￹￺a wood or stone pestle used to mill rice￻杵(阿美族固有的碾米用具)，石杵：製懦米糕舂擊用"}]}],"t":"'asolo"}
 ,"%27at%27at":{"h":[{"d":[{"f":"￹￺birth pains * to be in labor to deliver a baby￻臨盆時的陣痛，分娩，生產"}]}],"t":"'at'at"}
-,"%27atag":{"h":[{"d":[{"f":"￹￺remnant of burnt wood * charcoal￻木炭，燼炭"}]}],"t":"'atag"}
 ,"%27atal":{"h":[{"d":[{"f":"￹￺to scoop * method used to fill * to use hands or a paddle to fill￻盛，裝，斟，舀"}]}],"t":"'atal"}
+,"%27atang":{"h":[{"d":[{"f":"￹￺remnant of burnt wood * charcoal￻木炭，燼炭"}]}],"t":"'atang"}
 ,"%27atapa":{"h":[{"d":[{"f":"￹￺a species of fish￻一種特別的魚"}]}],"t":"'atapa"}
 ,"%27atay":{"h":[{"d":[{"f":"￹￺liver￻肝臟"}]}],"t":"'atay"}
 ,"%27atem":{"h":[{"d":[{"f":"￹￺pinched * caught between * referring to something large￻捏住，挾住"}]}],"t":"'atem"}
@@ -153,206 +153,206 @@
 ,"%27atim":{"h":[{"d":[{"f":"￹￺pinched * referring to something small￻捏住，挾住"}]}],"t":"'atim"}
 ,"%27atimela":{"h":[{"d":[{"f":"￹￺fleas￻跳蚤"}]}],"t":"'atimela"}
 ,"%27atip":{"h":[{"d":[{"f":"￹￺a weaver's bar￻織布棒，梭"}]}],"t":"'atip"}
-,"%27atipal":{"h":[{"d":[{"s":["`'anipal~","`'antipal~"],"f":"￹￺a bird * Chinese Bulbul￻白頭翁"}]}],"t":"'atipal"}
+,"%27atipal":{"h":[{"d":[{"l":["`'anipal~","`'antipal~"],"f":"￹￺a bird * Chinese Bulbul￻白頭翁"}]}],"t":"'atipal"}
 ,"%27atipil":{"h":[{"d":[{"f":"￹￺straight up and down * perpendicular￻扁平"},{"f":"￹￺flat on one side up and down as the back of the head of a baby￻嬰孩的頭扁平不正"}]}],"t":"'atipil"}
 ,"%27atipnoc":{"h":[{"d":[{"f":"￹￺carpenter ants (Mycmellon formicarius)￻螞蟻之一(黑色刺人蟻)"}]}],"t":"'atipnoc"}
 ,"%27atkak":{"h":[{"d":[{"e":["￹`'atkak~ `ko~ `faloco'~￺stubborn * resistant￻心硬，頑固，固執","￹`'atkak~ `ko~ `'aca~￺expensive￻價錢昂貴"],"f":"￹￺hard with literal and figurative meanings￻硬的(有知識，思想上的硬)"}]}],"t":"'atkak"}
-,"%27atol":{"h":[{"d":[{"s":["`ma'atolay~"],"e":["￹`'atol~ `a~ `kakoreg~￺edible plant * Climbing Fig￻可食植物蔓榕(越橘葉蔓榕)"],"f":"￹￺a dam made of rocks piled up￻用石頭築成的牆"}]}],"t":"'atol"}
+,"%27atol":{"h":[{"d":[{"l":["`ma'atolay~"],"e":["￹`'atol~ `a~ `kakoreng~￺edible plant * Climbing Fig￻可食植物蔓榕(越橘葉蔓榕)"],"f":"￹￺a dam made of rocks piled up￻用石頭築成的牆"}]}],"t":"'atol"}
 ,"%27atomo":{"h":[{"d":[{"e":["￹`'atomo~ `no~ `riyar~￺Olaunpi fig￻鵝巒榕(鵝巒鼻之無花果樹)"],"f":"￹￺a large earthen jar used by the Amis with a narrow neck and large round body￻陶瓷甕，陶製水壺(婦女頂於頭頂，搬運食水之器皿)"}]}],"t":"'atomo"}
 ,"%27atomoay":{"h":[{"d":[{"f":"￹￺a plant called Slenderleaf anneslea￻台灣安納土樹"}]}],"t":"'atomoay"}
-,"%27atoray":{"h":[{"d":[{"s":["`lonen~"],"f":"￹￺earthquake￻地震"}]}],"t":"'atoray"}
-,"%27atoto":{"h":[{"d":[{"s":["`wisig~"],"f":"￹￺Caffre Lily * a shade flower (Clivia Miniata) Spider Lily￻君子蘭，水仙"},{"f":"￹￺a grass with roots shaped like sweet potatoes￻喇叭花"}]}],"t":"'atoto"}
-,"%27aw%27aw":{"h":[{"d":[{"s":["`pa'aw'aw~"],"f":"￹￺to bark * the noise of a dog￻狗叫，狗吠"}]}],"t":"'aw'aw"}
+,"%27atoray":{"h":[{"d":[{"l":["`lonen~"],"f":"￹￺earthquake￻地震"}]}],"t":"'atoray"}
+,"%27atoto":{"h":[{"d":[{"l":["`ciwising~"],"f":"￹￺Caffre Lily * a shade flower (Clivia Miniata) Spider Lily￻君子蘭，水仙"},{"f":"￹￺a grass with roots shaped like sweet potatoes￻喇叭花"}]}],"t":"'atoto"}
+,"%27aw%27aw":{"h":[{"d":[{"l":["`pa'aw'aw~"],"f":"￹￺to bark * the noise of a dog￻狗叫，狗吠"}]}],"t":"'aw'aw"}
 ,"%27awa":{"h":[{"d":[{"f":"￹￺groin area￻兩腿分叉的部位"}]}],"t":"'awa"}
 ,"%27awas":{"h":[{"d":[{"f":"￹￺to step over￻跨步"}]}],"t":"'awas"}
-,"%27awmig":{"h":[{"d":[{"s":["`dawmi'~"],"f":"￹￺flexible * easily bends￻易彎曲的"}]}],"t":"'awmig"}
+,"%27awming":{"h":[{"d":[{"l":["`dawmi'~"],"f":"￹￺flexible * easily bends￻易彎曲的"}]}],"t":"'awming"}
 ,"%27ayam":{"h":[{"d":[{"f":"￹￺bird * birds￻飛禽之總稱"},{"f":"￹￺chicken￻雞"}]}],"t":"'ayam"}
-,"%27ayaw":{"h":[{"d":[{"f":"￹￺in front of ...￻之前"},{"s":["`i'ayaw~","`ka'ayaw~","`ki'ayaw~","`pa'ayaw~","`paki'ayaw~","`pasi'ayaw~","`pasasi'ayaw~","`patala'ayaw~","`si'ayawen~","`sa'ayaw~","`li'ayawen~","`sapa'ayaw~"],"f":"￹￺before￻之前"}]}],"t":"'ayaw"}
-,"%27ca":{"h":[{"d":[{"s":["`caay~"],"e":["￹`aka~ `ka~ `'ca~￺do by all means￻不得不，不得不","￹`caay~ `ka~ `'ca~￺definitely￻一定","￹`O~ `nika~`'ca~`an~ `pi~`dmak~ `ko~ `ga'ay~.￺It is best not to do it.￻最好不去做，不如不做。"],"f":"￹￺negative particle￻不是，不"}]}],"t":"'ca"}
+,"%27ayaw":{"h":[{"d":[{"f":"￹￺in front of ...￻之前"},{"l":["`i'ayaw~","`ka'ayaw~","`ki'ayaw~","`pa'ayaw~","`paki'ayaw~","`pasi'ayaw~","`pasasi'ayaw~","`patala'ayaw~","`si'ayawen~","`sa'ayaw~","`li'ayawen~","`sapa'ayaw~"],"f":"￹￺before￻之前"}]}],"t":"'ayaw"}
+,"%27ca":{"h":[{"d":[{"l":["`caay~"],"e":["￹`aka~ `ka~ `'ca~￺do by all means￻不得不，不得不","￹`caay~ `ka~ `'ca~￺definitely￻一定","￹`O~ `nika'caan~ `pidmak~ `ko~ `nga'ay~.￺It is best not to do it.￻最好不去做，不如不做。"],"f":"￹￺negative particle￻不是，不"}]}],"t":"'ca"}
 ,"%27cak":{"h":[{"d":[{"f":"￹￺ripe * edible￻成熟，可吃的"},{"f":"￹￺cooked done￻煮熟"}]}],"t":"'cak"}
 ,"%27ced":{"h":[{"d":[{"f":"￹￺black bumblebee￻寄生於竹竿內的黑蜂"}]}],"t":"'ced"}
-,"%27ceg":{"h":[{"d":[{"f":"￹￺to be blinded by light￻目眩，光線刺眼"}]}],"t":"'ceg"}
+,"%27ceng":{"h":[{"d":[{"f":"￹￺to be blinded by light￻目眩，光線刺眼"}]}],"t":"'ceng"}
 ,"%27cic":{"h":[{"d":[{"f":"￹￺to singe * burn hair or feathers￻毛髮被火燻焦"}]}],"t":"'cic"}
-,"%27ciw":{"h":[{"d":[{"s":["`sapa'ciw~","`rocwi~"],"f":"￹￺a swishing sound￻颼(鞭，翅膀等的聲音)"}]}],"t":"'ciw"}
-,"%27co":{"h":[{"d":[{"f":"￹￺an elephant (with light glottal sound)￻象(引自日語)"},{"e":["￹`Ma~`'co~ `no~ `'aol~ `ko~ `ni~`paloma~`an~ `a~ `losay~.￺The bamboo crowds out fruit trees that were planted.￻果樹被竹林擠掉"],"f":"￹￺to advance taking for oneself with the advance￻擠，推擠"}]}],"t":"'co"}
-,"%27daw":{"h":[{"d":[{"s":["`pa'daw~","`mi'daw~"],"f":"￹￺to fortune tell￻卜卦，算命，祭祀用之木具"}]}],"t":"'daw"}
-,"%27def":{"h":[{"d":[{"f":"￹￺to spread out over the whole area￻撒佈整個區域"},{"s":["`ldef~","`sa'def~"],"e":["￹`mi~`'def~ `to~ `loma'~￺to close the house up￻關閉門戶","￹`Mi~`'def~ `ko~ `simal~ `to~ `riyar~.￺The ocean has a large oil slick.￻浮油佈滿海面"],"f":"￹￺to close (heavy glottal stop)￻關閉"}]}],"t":"'def"}
-,"%27deg":{"h":[{"d":[{"s":["`ma'deg~","`'degan~","`dgan~","`pa'deg~"],"f":"￹￺only￻唯，只有，僅僅，獨一"}]}],"t":"'deg"}
-,"%27degan":{"h":[{"d":[{"s":["`dgan~"],"f":"￹￺only￻僅僅，唯一"}]}],"t":"'degan"}
+,"%27ciw":{"h":[{"d":[{"l":["`sapa'ciw~","`rocwi~"],"f":"￹￺a swishing sound￻颼(鞭，翅膀等的聲音)"}]}],"t":"'ciw"}
+,"%27co":{"h":[{"d":[{"f":"￹￺an elephant (with light glottal sound)￻象(引自日語)"},{"e":["￹`Ma'co~ `no~ `'aol~ `ko~ `nipalomaan~ `a~ `losay~.￺The bamboo crowds out fruit trees that were planted.￻果樹被竹林擠掉"],"f":"￹￺to advance taking for oneself with the advance￻擠，推擠"}]}],"t":"'co"}
+,"%27daw":{"h":[{"d":[{"l":["`pa'daw~","`mi'daw~"],"f":"￹￺to fortune tell￻卜卦，算命，祭祀用之木具"}]}],"t":"'daw"}
+,"%27def":{"h":[{"d":[{"f":"￹￺/ldef - to spread out over the whole area￻撒佈整個區域"},{"l":["`sa'def~"]}]}],"t":"'def"}
+,"%27deng":{"h":[{"d":[{"l":["`ma'deng~","`'dengan~","`dngan~","`pa'deng~"],"f":"￹￺only￻唯，只有，僅僅，獨一"}]}],"t":"'deng"}
+,"%27dengan":{"h":[{"d":[{"l":["`dngan~"],"f":"￹￺only￻僅僅，唯一"}]}],"t":"'dengan"}
 ,"%27des":{"h":[{"d":[{"f":"￹￺cruel￻嚴厲，殘酷，兇悍"}]}],"t":"'des"}
-,"%27did":{"h":[{"d":[{"s":["`'mi~"],"f":"￹￺Refer to `'mi~￻詳見 `'mi~"}]}],"t":"'did"}
-,"%27dil":{"h":[{"d":[{"s":["`ma'dilay~","`ci'dilay~"],"f":"￹￺glory * radiance￻光亮，閃耀"}]}],"t":"'dil"}
+,"%27did":{"h":[{"d":[{"l":["`'mi~"],"f":"￹￺Refer to `'mi~￻詳見 `'mi~"}]}],"t":"'did"}
+,"%27dil":{"h":[{"d":[{"l":["`ma'dilay~","`ci'dilay~"],"f":"￹￺glory * radiance￻光亮，閃耀"}]}],"t":"'dil"}
 ,"%27do":{"h":[{"d":[{"f":"￹￺rat￻老鼠"}]}],"t":"'do"}
-,"%27dog":{"h":[{"d":[{"f":"￹￺a pair of arm coverings attached together￻套袖(手臂套)筒袖"}]}],"t":"'dog"}
-,"%27dox":{"h":[{"d":[{"s":["`'dok~"],"f":"￹￺a plant called Rose Mallow * (Urena lobata) with berries￻種子"}]}],"t":"'dox"}
+,"%27dong":{"h":[{"d":[{"f":"￹￺a pair of arm coverings attached together￻套袖(手臂套)筒袖"}]}],"t":"'dong"}
+,"%27dox":{"h":[{"d":[{"l":["`'dok~"]},{"f":"￹￺a plant called Rose Mallow * (Urena lobata) with berries￻種子"}]}],"t":"'dox"}
 ,"%27em%27em":{"h":[{"d":[{"f":"￹￺to keep to oneself worry or trouble￻忍受痛苦或困難"}]}],"t":"'em'em"}
 ,"%27es%27es":{"h":[{"d":[{"f":"￹￺to whistle (with heavy glottal sound)￻吹口哨"},{"f":"￹￺to whittle (light glottal)￻削薄木料的輕聲"}]}],"t":"'es'es"}
-,"%27eses":{"h":[{"d":[{"s":["`'ses~"],"f":"￹￺Refer to `'ses~￻詳見 `'ses~"}]}],"t":"'eses"}
+,"%27eses":{"h":[{"d":[{"l":["`'ses~"],"f":"￹￺Refer to `'ses~￻詳見 `'ses~"}]}],"t":"'eses"}
 ,"%27etol":{"h":[{"d":[{"f":"￹￺sexual arousal * sexual passion￻激起性欲，慾火上昇"}]}],"t":"'etol"}
 ,"%27fa":{"h":[{"d":[{"f":"￹￺horse￻馬"}]}],"t":"'fa"}
-,"%27faw":{"h":[{"d":[{"e":["￹`Pa~`'faw~`en~ `ako~ `cigra~ `tonini~ `a~ `tayal~.￺I contracted out to him the work.￻我將這些工程給他承包"],"f":"￹￺to contract a job￻承包工"}]}],"t":"'faw"}
+,"%27faw":{"h":[{"d":[{"e":["￹`Pa'fawen~ `ako~ `cingra~ `tonini~ `a~ `tayal~.￺I contracted out to him the work.￻我將這些工程給他承包"],"f":"￹￺to contract a job￻承包工"}]}],"t":"'faw"}
 ,"%27fec":{"h":[{"d":[{"f":"￹￺to force oneself to stop speaking￻阻止他人說話"},{"f":"￹￺to tie head with a cloth band at the back of the neck (heavy glottal sound)￻用毛巾或布條綁頭"},{"f":"￹￺to exalt oneself * putting others down￻厚此薄彼"},{"f":"￹￺to forbid * not allow (light glottal sound)￻禁止，不許，不准"}]}],"t":"'fec"}
-,"%27feg":{"h":[{"d":[{"f":"￹￺to throw away￻拋棄，丟棄"}]}],"t":"'feg"}
-,"%27fer":{"h":[{"d":[{"s":["`mi~`'fer~","`ma'fer~"],"f":"￹￺to jump from one place to land at another * to leap￻從此地飛到彼岸，飛躍，跳躍"}]}],"t":"'fer"}
-,"%27fo":{"h":[{"d":[{"f":"￹￺overwhelmed by work * unable to handle something￻無法勝任，不能勝任，嫌工作或任務太多或太大"},{"s":["`'ilo~"],"f":"￹￺stigma from moral failure￻道德上的污點，犯法事件"},{"f":"￹￺just dessert￻點心"}]}],"t":"'fo"}
-,"%27fog":{"h":[{"d":[{"f":"￹￺name of an Amis village￻阿美族部落名之略稱，瑞源村落名"},{"f":"￹￺from sahfog * to have a gully￻窪地，深溝，峽谷"}]}],"t":"'fog"}
-,"%27ged":{"h":[{"d":[{"f":"￹￺a rack or flat object on which to set something as the base for carrying a jar on the head or a mat on which to set a hot kettle￻墊熱水壺或熱鍋的網架"}]}],"t":"'ged"}
-,"%27gid":{"h":[{"d":[{"e":["￹`O~ `ma~`'gid~`ay~ `a~ `kilag~ `konini~.￺This is an unhealthy tree.￻這是一棵不健康的樹，這是一棵被蛀壞的樹"],"f":"￹￺to be wormy and rotten￻腐壞，腐朽"}]}],"t":"'gid"}
-,"%27giw":{"h":[{"d":[{"s":["`adeses~"],"e":["￹`Awaay~ `ko~ `'giw~.￺Not a sound can be heard.￻一點聲音都沒有","￹`ma~`'giw~ `ko~ `giha'~￺high pitch of the voice￻聲音高而尖銳"],"f":"￹￺the sound of a living thing￻指有生命物的聲音"}]}],"t":"'giw"}
+,"%27feng":{"h":[{"d":[{"f":"￹￺to throw away￻拋棄，丟棄"}]}],"t":"'feng"}
+,"%27fer":{"h":[{"d":[{"l":["`mi'fer~","`ma'fer~"],"f":"￹￺to jump from one place to land at another * to leap￻從此地飛到彼岸，飛躍，跳躍"}]}],"t":"'fer"}
+,"%27fo":{"h":[{"d":[{"f":"￹￺overwhelmed by work * unable to handle something￻無法勝任，不能勝任，嫌工作或任務太多或太大"},{"l":["`'ilo~"]},{"f":"￹￺道德上的污點，犯法事件￻just dessert"}]}],"t":"'fo"}
+,"%27fong":{"h":[{"d":[{"f":"￹￺name of an Amis village￻阿美族部落名之略稱，瑞源村落名"},{"f":"￹￺from sahfog * to have a gully￻窪地，深溝，峽谷"}]}],"t":"'fong"}
 ,"%27i":{"h":[{"d":[{"f":"￹￺an untranslatable particle at the end of a dependent clause * as for that with a description or explanation following￻無從翻譯的詞類，用於主句之後，以描述或說明以下的事"}]}],"t":"'i"}
 ,"%27i%27ir":{"h":[{"d":[{"f":"￹￺to sit on the ground￻席地而坐。如狗糞便後，以屁股擦地的動作"}]}],"t":"'i'ir"}
-,"%27icag":{"h":[{"d":[{"f":"￹￺generic word for dry￻乾的總稱"}]}],"t":"'icag"}
-,"%27icel":{"h":[{"d":[{"e":["￹`ci~`'icel~ `ko~ `faloco'~￺courageous￻勇敢，勇猛，信心足","￹`pa~`'icel~`ay~ `a~ `sowal~￺words of encouragement￻鼓勵的話，勸勉的話，勉勵的話","￹`sa~`'icel~ `~ `kako~￺I strive￻我自我努力，我自勵自己，我策勵自己，我自我鞭策","￹`O~ `'icel~ `no~ `pi~`toor~ `nira~ `konini~.￺This is evidence of his spirituality / faith.￻這是他信心的力量","￹`Pa~`'icel~`en~ `cigra~ `to~ `sakacaaw~ `ka~ `tolo'~ `nira~.￺Exhort / encourage him so that he won't fail.￻希望鼓勵(勸告)他使他不致跌倒(墮落)"],"f":"￹￺strength * power￻力量，能力"}]}],"t":"'icel"}
-,"%27icep":{"h":[{"d":[{"s":["`mi'icep~","`masa'icep~"],"f":"￹￺Betel Palm tree or fruit￻檳榔樹"}]}],"t":"'icep"}
-,"%27id%27id":{"h":[{"d":[{"s":["`dohdoh~"],"f":"￹￺roasted * to roast * to barbecue￻烤，烘烤，烘倍"}]}],"t":"'id'id"}
-,"%27idepet":{"h":[{"d":[{"f":"￹￺to be tight * not share material things￻吝嗇，吝於分享東西"},{"s":["`'adepet~"],"f":"￹￺to not share feelings * keep own counsel￻不把自己的心得或感覺分享給別人，固守自己的計劃"}]}],"t":"'idepet"}
+,"%27icang":{"h":[{"d":[{"f":"￹￺generic word for dry￻乾的總稱"}]}],"t":"'icang"}
+,"%27icel":{"h":[{"d":[{"e":["￹`ci'icel~ `ko~ `faloco'~￺courageous￻勇敢，勇猛，信心足","￹`pa'icelay~ `a~ `sowal~￺words of encouragement￻鼓勵的話，勸勉的話，勉勵的話","￹`sa'icel~ `sa~ `kako~￺I strive￻我自我努力，我自勵自己，我策勵自己，我自我鞭策","￹`O~ `'icel~ `no~ `pitoor~ `nira~ `konini~.￺This is evidence of his spirituality / faith.￻這是他信心的力量","￹`Pa'icelen~ `cingra~ `to~ `sakacaaw~ `ka~ `tolo'~ `nira~.￺Exhort / encourage him so that he won't fail.￻希望鼓勵(勸告)他使他不致跌倒(墮落)"],"f":"￹￺strength * power￻力量，能力"}]}],"t":"'icel"}
+,"%27icep":{"h":[{"d":[{"l":["`mi'icep~","`masa'icep~"],"f":"￹￺Betel Palm tree or fruit￻檳榔樹"}]}],"t":"'icep"}
+,"%27id%27id":{"h":[{"d":[{"l":["`dohdoh~"],"f":"￹￺烤，烘烤，烘倍￻roasted * to roast * to barbecue"}]}],"t":"'id'id"}
+,"%27idepet":{"h":[{"d":[{"f":"￹￺to be tight * not share material things￻吝嗇，吝於分享東西"},{"l":["`'adepet~"],"f":"￹￺to not share feelings * keep own counsel￻不把自己的心得或感覺分享給別人，固守自己的計劃"}]}],"t":"'idepet"}
 ,"%27idi":{"h":[{"d":[{"f":"￹￺selfish * reluctant to share￻自私，吝嗇"},{"f":"￹￺embarrassed￻尷尬"}]}],"t":"'idi"}
-,"%27idoc":{"h":[{"d":[{"s":["`kotag~"],"f":"￹￺spear￻矛，槍，魚叉"}]}],"t":"'idoc"}
-,"%27ifcag":{"h":[{"d":[{"f":"￹￺to be stiff * limbs of body not move freely￻僵化，僵硬"}]}],"t":"'ifcag"}
-,"%27ifowas":{"h":[{"d":[{"f":"￹￺to scatter￻撒播，擴散，散落"},{"s":["`lifowas~"],"f":"￹￺to run over￻溢出"}]}],"t":"'ifowas"}
-,"%27iga%27ig":{"h":[{"d":[{"f":"￹￺to shake the head as in refusal￻搖頭表示不同意，不贊成，反對"}]}],"t":"'iga'ig"}
-,"%27iger":{"h":[{"d":[{"s":["`'acocol~"],"f":"￹￺to spin a top * a top￻陀螺"}]}],"t":"'iger"}
-,"%27ikay":{"h":[{"d":[{"e":["￹`ma~`sa'ika~`'ikayay~ `a~ `so'da~￺hail￻成塊的雪花，雹，霰"],"f":"￹￺lump shaped object￻成塊狀"}]}],"t":"'ikay"}
-,"%27ikes":{"h":[{"d":[{"e":["￹`ma~`'ikes~ `ko~ `faloco'~￺mature in attitude￻態度成熟，心智成熟","￹`ma~`'ikes~ `ko~ `tireg~￺to have a good healthy body￻身體(發育)成熟","￹`ma~`'ikes~ `ko~ `kilag~￺the tree is solid (good for building)￻樹長得很堅實"],"f":"￹￺hard * mature in the good sense￻硬，老，成熟"}]}],"t":"'ikes"}
+,"%27idoc":{"h":[{"d":[{"l":["`kotang~"],"f":"￹￺spear￻矛，槍，魚叉"}]}],"t":"'idoc"}
+,"%27ifcang":{"h":[{"d":[{"f":"￹￺to be stiff * limbs of body not move freely￻僵化，僵硬"}]}],"t":"'ifcang"}
+,"%27ifowas":{"h":[{"d":[{"f":"￹￺to scatter￻撒播，擴散，散落"},{"l":["`lifowas~"],"f":"￹￺to run over￻溢出"}]}],"t":"'ifowas"}
+,"%27ikay":{"h":[{"d":[{"e":["￹`masa'ika'ikayay~ `a~ `so'da~￺hail￻成塊的雪花，雹，霰"],"f":"￹￺lump shaped object￻成塊狀"}]}],"t":"'ikay"}
+,"%27ikes":{"h":[{"d":[{"e":["￹`ma'ikes~ `ko~ `faloco'~￺mature in attitude￻態度成熟，心智成熟","￹`ma'ikes~ `ko~ `tireng~￺to have a good healthy body￻身體(發育)成熟","￹`ma'ikes~ `ko~ `kilang~￺the tree is solid (good for building)￻樹長得很堅實"],"f":"￹￺hard * mature in the good sense￻硬，老，成熟"}]}],"t":"'ikes"}
 ,"%27ilo":{"h":[{"d":[{"f":"￹￺stigma from moral failur * just dessert￻罪過，罪譴"}]}],"t":"'ilo"}
-,"%27ilol":{"h":[{"d":[{"s":["`oron~"],"f":"￹￺to be lonesome to see someone or someplace￻想念，懷念，思念"}]}],"t":"'ilol"}
+,"%27ilol":{"h":[{"d":[{"l":["`oron~"],"f":"￹￺to be lonesome to see someone or someplace￻想念，懷念，思念"}]}],"t":"'ilol"}
 ,"%27ilos":{"h":[{"d":[{"f":"￹￺toilet paper * anything used for wiping￻擦屁股(排泄後)"}]}],"t":"'ilos"}
 ,"%27imac":{"h":[{"d":[{"f":"￹￺to cut and sharpen the end of a piece of wood like a pencil￻銳利，尖銳(指尖形之銳利)，削尖(如削鉛筆)"}]}],"t":"'imac"}
 ,"%27imced":{"h":[{"d":[{"f":"￹￺to be firm * of flesh including muscle or fruit like banana￻結實，堅固"}]}],"t":"'imced"}
-,"%27imec":{"h":[{"d":[{"s":["`'mec~"],"f":"￹￺Refer to `'mec~￻詳見 `'mec~"}]}],"t":"'imec"}
-,"%27imer":{"h":[{"d":[{"f":"￹￺to keep * take care of￻謹慎，節制自愛"},{"f":"￹￺to not waste￻節儉"},{"s":["`ma~`'imer~","`misa~`'imer~"],"e":["￹`ma~`'imer~ `to~ `tireg~￺have good morals and high standards￻有好及高的道德水準，潔身自愛","￹`ma~`'imer~ `to~ `sowal~￺keep commandments￻謹慎說話，講話小心謹慎，堅守誡命","￹`ma~`'imer~ `to~ `riko'~￺well groomed￻衣著整齊，愛惜衣物","￹`Misa~`'imer~ `ko~ `Farisay~ `a~ `tamdaw~ `to~ `dmak~ `~ `Yis~.￺The Pharisees watched (to find something wrong with) what Jesus did.￻法利賽人注目耶穌的行動"],"f":"￹￺(misa-) to keep watch￻小心看守"}]}],"t":"'imer"}
-,"%27inal":{"h":[{"d":[{"s":["`pa'inal~"],"f":"￹￺to desire something good that does not belong to you * � something seen￻渴慕不屬於自己的好東西"}]}],"t":"'inal"}
+,"%27imec":{"h":[{"d":[{"l":["`'mec~"],"f":"￹￺Refer to `'mec~￻詳見 `'mec~"}]}],"t":"'imec"}
+,"%27imer":{"h":[{"d":[{"f":"￹￺to keep * take care of￻謹慎，節制自愛"},{"f":"￹￺to not waste￻節儉"},{"l":["`ma'imer~","`misa'imer~"],"e":["￹`ma'imer~ `to~ `tireng~￺have good morals and high standards￻有好及高的道德水準，潔身自愛","￹`ma'imer~ `to~ `sowal~￺keep commandments￻謹慎說話，講話小心謹慎，堅守誡命","￹`ma'imer~ `to~ `riko'~￺well groomed￻衣著整齊，愛惜衣物","￹`Misa'imer~ `ko~ `Farisay~ `a~ `tamdaw~ `to~ `dmak~ `ni~ `Yis~.￺The Pharisees watched (to find something wrong with) what Jesus did.￻法利賽人注目耶穌的行動"],"f":"￹￺(misa-) to keep watch￻小心看守"}]}],"t":"'imer"}
+,"%27inal":{"h":[{"d":[{"l":["`pa'inal~"],"f":"￹￺to desire something good that does not belong to you * � something seen￻渴慕不屬於自己的好東西"}]}],"t":"'inal"}
 ,"%27inap":{"h":[{"d":[{"f":"￹￺jealousy * to be jealous￻嫉妒，妒忌"}]}],"t":"'inap"}
 ,"%27inaw":{"h":[{"d":[{"f":"￹￺soft as the fuzz on blossoms and stuffing of quilts￻柔軟如花的細毛和被窩的毛織原料"}]}],"t":"'inaw"}
 ,"%27inco":{"h":[{"d":[{"f":"￹￺tight fitting as shoes￻緊，如穿小鞋"},{"f":"￹￺tight of heart * not open to ideas￻心中齷齪不開朗"}]}],"t":"'inco"}
-,"%27inorog":{"h":[{"d":[{"e":["￹`'inorog~ `no~ `faloco'~￺heavy hearted * have a problem * trouble for which a person feels responsible￻心中包袱，有難題，使人感覺需負責的難關(困難)"],"f":"￹￺burden * literal or figurative￻重擔，包袱，荷物，負荷"}]}],"t":"'inorog"}
-,"%27intel":{"h":[{"d":[{"s":["`'intex~"],"f":"￹￺hatred * to hate￻憎恨，怨恨"}]}],"t":"'intel"}
-,"%27intex":{"h":[{"d":[{"s":["`'intel~"],"f":"￹￺Refer to `'intel~￻詳見 `'intel~"}]}],"t":"'intex"}
+,"%27inga%27ing":{"h":[{"d":[{"f":"￹￺to shake the head as in refusal￻搖頭表示不同意，不贊成，反對"}]}],"t":"'inga'ing"}
+,"%27inger":{"h":[{"d":[{"l":["`'acocol~"],"f":"￹￺to spin a top * a top￻陀螺"}]}],"t":"'inger"}
+,"%27inorong":{"h":[{"d":[{"e":["￹`'inorong~ `no~ `faloco'~￺heavy hearted * have a problem * trouble for which a person feels responsible￻心中包袱，有難題，使人感覺需負責的難關(困難)"],"f":"￹￺burden * literal or figurative￻重擔，包袱，荷物，負荷"}]}],"t":"'inorong"}
+,"%27intel":{"h":[{"d":[{"l":["`'intex~"],"f":"￹￺hatred * to hate￻憎恨，怨恨"}]}],"t":"'intel"}
+,"%27intex":{"h":[{"d":[{"l":["`'intel~"],"f":"￹￺Refer to `'intel~￻詳見 `'intel~"}]}],"t":"'intex"}
 ,"%27ipoc":{"h":[{"d":[{"f":"￹￺pyramid shaped * skinny at the top and wide at the bottom or wide at the top and skinny at the bottom￻由大而小，式微，金字塔形，由粗而尖"}]}],"t":"'ipoc"}
-,"%27iray":{"h":[{"d":[{"s":["`'res~"],"f":"￹￺Refer to `'res~￻詳見 `'res~"}]}],"t":"'iray"}
-,"%27irig":{"h":[{"d":[{"s":["`pawig~"],"f":"￹￺to have head bent to the side * as when a baby is asleep￻側頭"}]}],"t":"'irig"}
-,"%27is%27is":{"h":[{"d":[{"s":["`sa'is'is~"],"f":"￹￺to shave * referring to beard or hair￻剃，刮，理髮"}]}],"t":"'is'is"}
-,"%27isag":{"h":[{"d":[{"f":"￹￺not motivated * to lose interest * to be bored￻厭煩"}]}],"t":"'isag"}
-,"%27isal":{"h":[{"d":[{"s":["`pa'isal~"],"e":["￹`O~ `mala'isal~ `kamo~ `tatosa~ `toya~ `omah~.￺The two of you will share the field.￻你們將平分那塊地"],"f":"￹￺portion of community property￻分配，分享"}]}],"t":"'isal"}
-,"%27ised":{"h":[{"d":[{"s":["`'sid~","`maa'ised~"],"f":"￹￺to compete￻競爭，比賽"}]}],"t":"'ised"}
+,"%27iray":{"h":[{"d":[{"l":["`'res~"],"f":"￹￺Refer to `'res~￻詳見 `'res~"}]}],"t":"'iray"}
+,"%27iring":{"h":[{"d":[{"l":["`pawing~"]},{"f":"￹￺to have head bent to the side * as when a baby is asleep￻側頭"}]}],"t":"'iring"}
+,"%27is%27is":{"h":[{"d":[{"l":["`sa'is'is~"],"f":"￹￺to shave * referring to beard or hair￻剃，刮，理髮"}]}],"t":"'is'is"}
+,"%27isal":{"h":[{"d":[{"l":["`pa'isal~"],"e":["￹`O~ `mamala'isal~ `kamo~ `tatosa~ `toya~ `omah~.￺The two of you will share the field.￻你們將平分那塊地"],"f":"￹￺portion of community property￻分配，分享"}]}],"t":"'isal"}
+,"%27isang":{"h":[{"d":[{"f":"￹￺not motivated * to lose interest * to be bored￻厭煩"}]}],"t":"'isang"}
+,"%27ised":{"h":[{"d":[{"l":["`'sid~","`maa'ised~"],"f":"￹￺to compete￻競爭，比賽"}]}],"t":"'ised"}
 ,"%27iso":{"h":[{"d":[{"f":"￹￺whale￻鯨魚"}]}],"t":"'iso"}
 ,"%27it%27it":{"h":[{"d":[{"f":"￹￺to eat paper or cloth * activity of rats or cockroaches￻嚼齧紙張或衣物為老鼠或蟑螂的行動"},{"f":"￹￺to chew on as meat on a bone￻嚼咬骨頭上的肉"}]}],"t":"'it'it"}
 ,"%27itis":{"h":[{"d":[{"f":"￹￺a long bamboo pole￻長竹竿"}]}],"t":"'itis"}
-,"%27itkiw":{"h":[{"d":[{"s":["`'aliwates~"],"f":"￹￺Refer to `'aliwates~￻詳見 `'aliwates~"}]}],"t":"'itkiw"}
+,"%27itkiw":{"h":[{"d":[{"l":["`'aliwates~"],"f":"￹￺Refer to `'aliwates~￻詳見 `'aliwates~"}]}],"t":"'itkiw"}
 ,"%27iw%27iw":{"h":[{"d":[{"f":"￹￺hunger pangs￻空腹至極，餓得很厲害"}]}],"t":"'iw'iw"}
-,"%27iwal":{"h":[{"d":[{"s":["`'owal~"],"f":"￹￺to pry up or apart as with a crowbar￻撬開，撬動 ，用橇棍或鐵橇挪開東西(指沉重的石頭或木材)"}]}],"t":"'iwal"}
-,"%27iwas":{"h":[{"d":[{"s":["`sa'iwas~"],"f":"￹￺to row a boat￻划"}]}],"t":"'iwas"}
-,"%27iwil":{"h":[{"d":[{"f":"￹￺lonely * sad * remembering things of the past that bring mixed emotions￻孤單，寂寞，悲傷，憂愁，回憶過去的事情而產生複雜的情緒"},{"f":"￹￺feel left out * uncertain of where one belongs￻失落感(在異鄉)"},{"e":["￹`Ma~`'iwil~ `kako~ `toya~ `sowal~ `nira~.￺I don't like what he said.￻我對他那句話感到噁心"],"f":"￹￺to feel dislike￻厭惡感"}]}],"t":"'iwil"}
+,"%27iwal":{"h":[{"d":[{"l":["`'owal~"],"f":"￹￺to pry up or apart as with a crowbar￻撬開，撬動 ，用橇棍或鐵橇挪開東西(指沉重的石頭或木材)"}]}],"t":"'iwal"}
+,"%27iwas":{"h":[{"d":[{"l":["`sa'iwas~"],"f":"￹￺to row a boat￻划"}]}],"t":"'iwas"}
+,"%27iwil":{"h":[{"d":[{"f":"￹￺lonely * sad * remembering things of the past that bring mixed emotions￻孤單，寂寞，悲傷，憂愁，回憶過去的事情而產生複雜的情緒"},{"f":"￹￺feel left out * uncertain of where one belongs￻失落感(在異鄉)"},{"e":["￹`Ma'iwil~ `kako~ `toya~ `sowal~ `nira~.￺I don't like what he said.￻我對他那句話感到噁心"],"f":"￹￺to feel dislike￻厭惡感"}]}],"t":"'iwil"}
 ,"%27iyak":{"h":[{"d":[{"f":"￹￺to choke from eating or drinking￻哽塞因吃或喝而咽塞，因吃東西或飲水而噎住"}]}],"t":"'iyak"}
 ,"%27iyof":{"h":[{"d":[{"f":"￹￺to blow * as by the wind￻吹，風吹"}]}],"t":"'iyof"}
-,"%27iyot":{"h":[{"d":[{"f":"￹￺to cut a hole and scoop out a piece of￻鑽洞，鑽孔"},{"s":["`sa'iyot~","`'los~"],"f":"￹￺to swirl * referring to water￻漩渦"}]}],"t":"'iyot"}
-,"%27kak":{"h":[{"d":[{"s":["`ma'kak~"],"f":"￹￺to curse￻咒詛 ，休克"}]}],"t":"'kak"}
-,"%27ked":{"h":[{"d":[{"s":["`misa'ked~"],"f":"￹￺separate * form clique￻分離，組成派系，私黨"}]}],"t":"'ked"}
-,"%27kim":{"h":[{"d":[{"s":["`tada'kim~"],"f":"￹￺silver￻銀"}]}],"t":"'kim"}
-,"%27kog":{"h":[{"d":[{"f":"￹￺an owl￻領角鴞(貓頭鷹)"},{"f":"￹￺black as the burn on a pan or soot￻燒痕，鍋底或火爐灶上煙燻遺留的黑色粉末"}]}],"t":"'kog"}
-,"%27li%27":{"h":[{"d":[{"e":["￹`ccay~ `no~ `'li'~￺one hundred￻一百","￹`ccay~ `a~ `'li'~`an~￺one hundred￻一百"],"f":"￹￺a bundle of one hundred stems of grass, one hundred￻一百枝一束的茅草"},{"f":"￹￺grass used to root a house￻覆蓋屋頂用之茅草"}]}],"t":"'li'"}
+,"%27iyot":{"h":[{"d":[{"f":"￹￺to cut a hole and scoop out a piece of￻鑽洞，鑽孔"},{"l":["`sa'iyot~","`'los~"],"f":"￹￺to swirl * referring to water￻漩渦"}]}],"t":"'iyot"}
+,"%27kak":{"h":[{"d":[{"l":["`ma'kak~"],"f":"￹￺to curse￻咒詛 ，休克"}]}],"t":"'kak"}
+,"%27ked":{"h":[{"d":[{"l":["`misa'ked~"],"f":"￹￺separate * form clique￻分離，組成派系，私黨"}]}],"t":"'ked"}
+,"%27kim":{"h":[{"d":[{"l":["`tada'kim~"],"f":"￹￺silver￻銀"}]}],"t":"'kim"}
+,"%27kong":{"h":[{"d":[{"f":"￹￺an owl￻領角鴞(貓頭鷹)"},{"f":"￹￺black as the burn on a pan or soot￻燒痕，鍋底或火爐灶上煙燻遺留的黑色粉末"}]}],"t":"'kong"}
+,"%27li%27":{"h":[{"d":[{"e":["￹`ccay~ `no~ `'li'~￺one hundred￻一百","￹`ccay~ `a~ `'li'an~￺one hundred￻一百"],"f":"￹￺a bundle of one hundred stems of grass, one hundred￻一百枝一束的茅草"},{"f":"￹￺grass used to root a house￻覆蓋屋頂用之茅草"}]}],"t":"'li'"}
 ,"%27lo%27":{"h":[{"d":[{"f":"￹￺condition of being spoiled * not disciplined * of a child￻撒嬌"}]}],"t":"'lo'"}
-,"%27loc":{"h":[{"d":[{"e":["￹`Ma~`'loc~ `no~ `nanom~ `ko~ `fokloh~.￺The rocks are worn by the water.￻石頭被水磨滑(平)了"],"f":"￹￺to wear * to be worn away￻磨損"}]}],"t":"'loc"}
-,"%27los":{"h":[{"d":[{"s":["`'ros~"],"f":"￹￺Refer to `'ros~￻詳見 `'ros~"}]}],"t":"'los"}
+,"%27loc":{"h":[{"d":[{"e":["￹`Ma'loc~ `no~ `nanom~ `ko~ `fokloh~.￺The rocks are worn by the water.￻石頭被水磨滑(平)了"],"f":"￹￺to wear * to be worn away￻磨損"}]}],"t":"'loc"}
+,"%27los":{"h":[{"d":[{"l":["`'ros~"],"f":"￹￺Refer to `'ros~￻詳見 `'ros~"}]}],"t":"'los"}
 ,"%27mahay":{"h":[{"d":[{"f":"￹￺moo * the sound of a cow￻黃牛的叫聲"}]}],"t":"'mahay"}
 ,"%27mamosa":{"h":[{"d":[{"f":"￹￺the pupil of the eye￻瞳孔"}]}],"t":"'mamosa"}
-,"%27mec":{"h":[{"d":[{"s":["`'imec~"],"f":"￹￺to grab someone at the neck with hands to choke * strangle￻用兩手掐人脖子致死，勒死，掐死"}]}],"t":"'mec"}
+,"%27mec":{"h":[{"d":[{"l":["`'imec~"],"f":"￹￺to grab someone at the neck with hands to choke * strangle￻用兩手掐人脖子致死，勒死，掐死"}]}],"t":"'mec"}
 ,"%27mek":{"h":[{"d":[{"f":"￹￺to sink to the bottom in water￻沉落水底"}]}],"t":"'mek"}
 ,"%27met":{"h":[{"d":[{"f":"￹￺to hold back * control self￻控制，抑制"}]}],"t":"'met"}
-,"%27mi":{"h":[{"d":[{"s":["`'did~","`kato'mi~","`tada'mi~"],"f":"￹￺wheat￻小麥"}]}],"t":"'mi"}
-,"%27mic":{"h":[{"d":[{"s":["`sa'mic~"],"f":"￹￺pinch * grab hold of￻捏，捏住"}]}],"t":"'mic"}
-,"%27min":{"h":[{"d":[{"e":["￹`ma~`'min~ `a~ `makaen~￺everything is eaten￻全部吃光","￹`Tayra~ `kita~ `a~ `ma~`'min~.￺All of us will go.￻我們全部都要去","￹`Pa~`'min~ `han~ `cigra~ `a~ `pafli~.￺Give it all to him.￻全部給他"],"f":"￹￺complete * all * every one included￻全部，完全，整個，所有的"}]}],"t":"'min"}
+,"%27mi":{"h":[{"d":[{"l":["`'did~","`kato'mi~","`tada'mi~"],"f":"￹￺wheat￻小麥"}]}],"t":"'mi"}
+,"%27mic":{"h":[{"d":[{"l":["`sa'mic~"],"f":"￹￺pinch * grab hold of￻捏，捏住"}]}],"t":"'mic"}
+,"%27min":{"h":[{"d":[{"e":["￹`ma'min~ `a~ `makaen~￺everything is eaten￻全部吃光","￹`Tayra~ `kita~ `a~ `ma'min~.￺All of us will go.￻我們全部都要去","￹`Pa'min~ `han~ `cingra~ `a~ `pafli~.￺Give it all to him.￻全部給他"],"f":"￹￺complete * all * every one included￻全部，完全，整個，所有的"}]}],"t":"'min"}
 ,"%27mo":{"h":[{"d":[{"f":"￹￺new year's cake * made of sweet sticky rice￻年糕"}]}],"t":"'mo"}
 ,"%27moy":{"h":[{"d":[{"f":"￹￺Taiwan Ivy * a tree￻常春藤"},{"f":"￹￺Fairy Fig * edible fruit and tree￻天仙果"}]}],"t":"'moy"}
-,"%27nec":{"h":[{"d":[{"e":["￹`mi~`necnec~ `to~ `mata~￺to crush one's eye￻揉眼睛"],"f":"￹￺to crush￻揉"}]}],"t":"'nec"}
+,"%27nec":{"h":[{"d":[{"e":["￹`minecnec~ `to~ `mata~￺to crush one's eye￻揉眼睛"],"f":"￹￺to crush￻揉"}]}],"t":"'nec"}
 ,"%27nem":{"h":[{"d":[{"f":"￹￺six￻六，陸"}]}],"t":"'nem"}
 ,"%27nep":{"h":[{"d":[{"f":"￹￺content * familiar and contented with circumstances￻沉迷，吸住，迷住"}]}],"t":"'nep"}
-,"%27nip":{"h":[{"d":[{"f":"￹￺small turtle with pliable back￻烏龜，鱉"},{"s":["`rarokoh~"],"f":"￹￺a large sea turtle￻海龜"}]}],"t":"'nip"}
-,"%27noc":{"h":[{"d":[{"e":["￹`caay~ `ka~ `'noc~￺can't be swallowed￻吞不下，無法下嚥","￹`ma~`'noc~￺can be swallowed￻可以吞下去"],"f":"￹￺to swallow￻吞，嚥"}]}],"t":"'noc"}
-,"%27nor":{"h":[{"d":[{"s":["`'enor~","`tnol~","`pa'nor~"],"f":"￹￺anchor of a ship or boat￻錨"}]}],"t":"'nor"}
-,"%27o%27ol":{"h":[{"d":[{"f":"￹￺fog￻霧"},{"s":["`'arsig~"],"f":"￹￺dew * droplet of water from fog￻露珠"}]}],"t":"'o'ol"}
-,"%27ocil":{"h":[{"d":[{"e":["￹`Mi~`'ocil~ `ko~ `faloco'~ `ako~.￺In my heart I identify with (your) going.￻我的心順從你的決定，我心與你同住"],"f":"￹￺to insist on going along with as a child demanding to go with his mother￻堅持要同住如小孩強求與母親同住"}]}],"t":"'ocil"}
-,"%27odag":{"h":[{"d":[{"s":["`'odagen~"],"f":"￹￺sexual sin with the opposite sex whether with married or single person￻性騷擾(對異性)，通姦，姦淫"},{"s":["`apa~"],"f":"￹￺stupidity * no sense￻糊塗(對異性)"}]}],"t":"'odag"}
-,"%27odagen":{"h":[{"d":[{"f":"￹￺commit sexual sin against * rape￻犯通姦"}]}],"t":"'odagen"}
+,"%27nged":{"h":[{"d":[{"f":"￹￺a rack or flat object on which to set something as the base for carrying a jar on the head or a mat on which to set a hot kettle￻墊熱水壺或熱鍋的網架"}]}],"t":"'nged"}
+,"%27ngid":{"h":[{"d":[{"e":["￹`O~ `ma'ngiday~ `a~ `kilang~ `konini~.￺This is an unhealthy tree.￻這是一棵不健康的樹，這是一棵被蛀壞的樹"],"f":"￹￺to be wormy and rotten￻腐壞，腐朽"}]}],"t":"'ngid"}
+,"%27ngiw":{"h":[{"d":[{"l":["`adeses~"]},{"e":["￹`Awaay~ `ko~ `'ngiw~.￺Not a sound can be heard.￻一點聲音都沒有","￹`ma'ngiw~ `ko~ `ngiha'~￺high pitch of the voice￻聲音高而尖銳"],"f":"￹￺the sound of a living thing￻指有生命物的聲音"}]}],"t":"'ngiw"}
+,"%27nip":{"h":[{"d":[{"f":"￹￺small turtle with pliable back￻烏龜，鱉"},{"l":["`rarokoh~"],"f":"￹￺a large sea turtle￻海龜"}]}],"t":"'nip"}
+,"%27noc":{"h":[{"d":[{"e":["￹`caay~ `ka~ `'noc~￺can't be swallowed￻吞不下，無法下嚥","￹`ma'noc~￺can be swallowed￻可以吞下去"],"f":"￹￺to swallow￻吞，嚥"}]}],"t":"'noc"}
+,"%27nor":{"h":[{"d":[{"l":["`'enor~","`tnol~","`pa'nor~"],"f":"￹￺anchor of a ship or boat￻錨"}]}],"t":"'nor"}
+,"%27o%27ol":{"h":[{"d":[{"f":"￹￺fog￻霧"},{"l":["`'arsing~"],"f":"￹￺dew * droplet of water from fog￻露珠"}]}],"t":"'o'ol"}
+,"%27ocil":{"h":[{"d":[{"e":["￹`Mi'ocil~ `ko~ `faloco'~ `ako~.￺In my heart I identify with (your) going.￻我的心順從你的決定，我心與你同住"],"f":"￹￺to insist on going along with as a child demanding to go with his mother￻堅持要同住如小孩強求與母親同住"}]}],"t":"'ocil"}
 ,"%27odal":{"h":[{"d":[{"f":"￹￺honey bee￻蜜蜂"},{"f":"￹￺honey￻蜂蜜"}]}],"t":"'odal"}
+,"%27odang":{"h":[{"d":[{"l":["`'odangen~"],"f":"￹￺sexual sin with the opposite sex whether with married or single person￻性騷擾(對異性)，通姦，姦淫"},{"l":["`apa~"],"f":"￹￺stupidity * no sense￻糊塗(對異性)"}]}],"t":"'odang"}
+,"%27odangen":{"h":[{"d":[{"f":"￹￺commit sexual sin against * rape￻犯通姦"}]}],"t":"'odangen"}
 ,"%27odawis":{"h":[{"d":[{"f":"￹￺to cut off a bunch of betel nut from the tree￻把小刀綁在竹竿上採割檳榔果"}]}],"t":"'odawis"}
 ,"%27odidal":{"h":[{"d":[{"f":"￹￺a thorn tree￻火刺木(有刺的樹)"}]}],"t":"'odidal"}
-,"%27odot":{"h":[{"d":[{"s":["`mala'odo'odot~"],"f":"￹￺to wrestle with * to struggle against￻搏鬥，打架欺悔"}]}],"t":"'odot"}
+,"%27odot":{"h":[{"d":[{"l":["`mala'odo'odot~"],"f":"￹￺to wrestle with * to struggle against￻搏鬥，打架欺悔"}]}],"t":"'odot"}
 ,"%27ofad":{"h":[{"d":[{"f":"￹￺ten thousand￻萬，一萬"},{"f":"￹￺white hair￻白髮"}]}],"t":"'ofad"}
-,"%27ofcag":{"h":[{"d":[{"s":["`'ifcag~"],"f":"￹￺stiff *  not easy to move or bend￻僵硬(如屍體)不容易彎曲"}]}],"t":"'ofcag"}
-,"%27og%27og":{"h":[{"d":[{"s":["`'adi~"],"f":"￹￺burned food * as rice￻鍋巴，燒焦的鍋底飯皮"}]}],"t":"'og'og"}
-,"%27ogagil":{"h":[{"d":[{"f":"￹￺tissue between the joints * as the discs in the backbone￻軟骨"}]}],"t":"'ogagil"}
-,"%27ogcoy":{"h":[{"d":[{"f":"￹￺large rocks such as those on the beach￻巖石，岩石，磐石"}]}],"t":"'ogcoy"}
-,"%27ogto":{"h":[{"d":[{"f":"￹￺pipe for smoking￻煙斗"}]}],"t":"'ogto"}
+,"%27ofcang":{"h":[{"d":[{"l":["`'ifcang~"],"f":"￹￺stiff *  not easy to move or bend￻僵硬(如屍體)不容易彎曲"}]}],"t":"'ofcang"}
 ,"%27ok%27ok":{"h":[{"d":[{"f":"￹￺to swallow some liquid￻吞飲水或液體飲料"}]}],"t":"'ok'ok"}
-,"%27okak":{"h":[{"d":[{"s":["`ma'okakay~"],"f":"￹￺bone * bones￻骨，骨頭"}]}],"t":"'okak"}
+,"%27okak":{"h":[{"d":[{"l":["`ma'okakay~"],"f":"￹￺bone * bones￻骨，骨頭"}]}],"t":"'okak"}
 ,"%27okakay":{"h":[{"d":[{"f":"￹￺name of an Amis village￻花蓮縣光復鄉岡界部落名"}]}],"t":"'okakay"}
 ,"%27okem":{"h":[{"d":[{"f":"￹￺extremely dry * as the leaves of a plant￻乾而脆，如樹葉過份乾燥而脆碎"}]}],"t":"'okem"}
 ,"%27okot":{"h":[{"d":[{"f":"￹￺to huddle as when cold￻冷得縮成一團"}]}],"t":"'okot"}
 ,"%27olac":{"h":[{"d":[{"f":"￹￺to purify with fire￻用火煉，爐火純青"}]}],"t":"'olac"}
 ,"%27olalip":{"h":[{"d":[{"f":"￹￺name of an Amis village￻花蓮縣瑞穗鄉鶴岡部落名"}]}],"t":"'olalip"}
-,"%27olaw":{"h":[{"d":[{"f":"￹￺black￻黑，黑色"},{"s":["`ma'olaw~"],"f":"￹￺name of an Amis village￻花蓮縣瑞穗鄉北岡部落名"}]}],"t":"'olaw"}
-,"%27olic":{"h":[{"d":[{"s":["`pa'olic~","`ma'olicay~"],"f":"￹￺to chant￻吟唱"},{"f":"￹￺poetry￻詩詞，歌詞"},{"f":"￹￺psalms￻詩篇"}]}],"t":"'olic"}
-,"%27olid":{"h":[{"d":[{"s":["`holol~"],"e":["￹`pa~`'olid~`ay~ / `ma~`'olid~`ay~ `a~ `fo'is~￺a shooting star from a comet￻流星"],"f":"￹￺to visit around￻拜訪，造訪"},{"f":"￹￺to look for a mate * to date￻約會，談戀愛"}]}],"t":"'olid"}
-,"%27oliyat":{"h":[{"d":[{"s":["`'osiyat~"],"f":"￹￺to stretch out one's body and limbs￻雙腳大開平直的坐姿，四肢伸展狀"}]}],"t":"'oliyat"}
-,"%27olol":{"h":[{"d":[{"s":["`molamol~"],"f":"￹￺to suck until it is dissolved and swallowed￻含在口裡直到溶解"}]}],"t":"'olol"}
-,"%27omac":{"h":[{"d":[{"s":["`'ahac~"],"f":"￹￺Refer to `'ahac~￻詳見 `'ahac~"}]}],"t":"'omac"}
-,"%27omlig":{"h":[{"d":[{"f":"￹￺shiny * bright * receiving light and reflecting it￻閃閃發光，亮片閃爍"}]}],"t":"'omlig"}
-,"%27onac":{"h":[{"d":[{"s":["`'ahac~"],"f":"￹￺Refer to `'ahac~￻詳見 `'ahac~"}]}],"t":"'onac"}
+,"%27olaw":{"h":[{"d":[{"f":"￹￺black￻黑，黑色"},{"l":["`ma'olaw~"],"f":"￹￺name of an Amis village￻花蓮縣瑞穗鄉北岡部落名"}]}],"t":"'olaw"}
+,"%27olic":{"h":[{"d":[{"l":["`pa'olic~","`ma'olicay~"],"f":"￹￺to chant￻吟唱"},{"f":"￹￺poetry￻詩詞，歌詞"},{"f":"￹￺psalms￻詩篇"}]}],"t":"'olic"}
+,"%27olid":{"h":[{"d":[{"l":["`holol~"],"e":["￹`pa'oliday~ / `ma'oliday~ `a~ `fo'is~￺a shooting star from a comet￻流星"],"f":"￹￺to visit around￻拜訪，造訪"},{"f":"￹￺to look for a mate * to date￻約會，談戀愛"}]}],"t":"'olid"}
+,"%27oliyat":{"h":[{"d":[{"l":["`'osiyat~"],"f":"￹￺to stretch out one's body and limbs￻雙腳大開平直的坐姿，四肢伸展狀"}]}],"t":"'oliyat"}
+,"%27olol":{"h":[{"d":[{"l":["`molamol~"],"f":"￹￺to suck until it is dissolved and swallowed￻含在口裡直到溶解"}]}],"t":"'olol"}
+,"%27omac":{"h":[{"d":[{"l":["`'ahac~"],"f":"￹￺Refer to `'ahac~￻詳見 `'ahac~"}]}],"t":"'omac"}
+,"%27omling":{"h":[{"d":[{"f":"￹￺shiny * bright * receiving light and reflecting it￻閃閃發光，亮片閃爍"}]}],"t":"'omling"}
+,"%27onac":{"h":[{"d":[{"l":["`'ahac~"],"f":"￹￺Refer to `'ahac~￻詳見 `'ahac~"}]}],"t":"'onac"}
 ,"%27oner":{"h":[{"d":[{"f":"￹￺snake * serpent￻蛇"}]}],"t":"'oner"}
-,"%27onig":{"h":[{"d":[{"f":"￹￺dirt * soil of clothing or skin￻污垢，髒"}]}],"t":"'onig"}
-,"%27onip":{"h":[{"d":[{"s":["`'anip~"],"f":"￹￺Refer to `'anip~￻詳見 `'anip~"}]}],"t":"'onip"}
+,"%27ong%27ong":{"h":[{"d":[{"l":["`'adi~"],"f":"￹￺burned food * as rice￻鍋巴，燒焦的鍋底飯皮"}]}],"t":"'ong'ong"}
+,"%27ongangil":{"h":[{"d":[{"f":"￹￺tissue between the joints * as the discs in the backbone￻軟骨"}]}],"t":"'ongangil"}
+,"%27ongcoy":{"h":[{"d":[{"f":"￹￺large rocks such as those on the beach￻巖石，岩石，磐石"}]}],"t":"'ongcoy"}
+,"%27ongto":{"h":[{"d":[{"f":"￹￺pipe for smoking￻煙斗"}]}],"t":"'ongto"}
+,"%27oning":{"h":[{"d":[{"f":"￹￺dirt * soil of clothing or skin￻污垢，髒"}]}],"t":"'oning"}
+,"%27onip":{"h":[{"d":[{"l":["`'anip~"],"f":"￹￺Refer to `'anip~￻詳見 `'anip~"}]}],"t":"'onip"}
 ,"%27onoc":{"h":[{"d":[{"f":"￹￺a bamboo carrying pole￻扁擔，挑東西用的木棍或竹竿"}]}],"t":"'onoc"}
-,"%27opic":{"h":[{"d":[{"s":["`sger~","`cpa'~"],"f":"￹￺to wet * make wet * as from rain￻濕，弄濕"}]}],"t":"'opic"}
+,"%27opic":{"h":[{"d":[{"l":["`snger~","`cpa'~"],"f":"￹￺to wet * make wet * as from rain￻濕，弄濕"}]}],"t":"'opic"}
 ,"%27opir":{"h":[{"d":[{"f":"￹￺a braid of hair or of rope￻束髮，編髮，編繩"}]}],"t":"'opir"}
-,"%27orac":{"h":[{"d":[{"s":["`'roc~"],"f":"￹￺worn smooth * as wood￻磨滑，磨損"}]}],"t":"'orac"}
-,"%27orad":{"h":[{"d":[{"s":["`paka'orad~","`misa'orad~"],"f":"￹￺rain￻雨，下雨"}]}],"t":"'orad"}
+,"%27orac":{"h":[{"d":[{"l":["`'roc~"],"f":"￹￺worn smooth * as wood￻磨滑，磨損"}]}],"t":"'orac"}
+,"%27orad":{"h":[{"d":[{"l":["`paka'orad~","`misa'orad~"],"f":"￹￺rain￻雨，下雨"}]}],"t":"'orad"}
 ,"%27oret":{"h":[{"d":[{"f":"￹￺a necklace made of sea shells￻貝製的項鍊"}]}],"t":"'oret"}
-,"%27orip":{"h":[{"d":[{"s":["`ci'orip~","`ka'oripan~","`ma'oripay~","`pa'oripay~","`sapa'orip~"],"e":["￹`Pa~`'orip~`en~ `nira~ `kako~.￺1. He saved me. physically as from drowning. 2.spiritually￻1. 他救我，由肉體上如從溺水之險境中 2. 精神或屬靈上","￹`O~ `ma~`'araw~`ay~ `i~ `lo'orip~ `a~ `tinako~ `konini~.￺This illustration is seen in ordinary life.￻這事倒在日常生活中可以看到"],"f":"￹￺life￻生命，生涯"}]}],"t":"'orip"}
-,"%27oriyat":{"h":[{"d":[{"s":["`masaya~"],"f":"￹￺to stretch one's body as when awakening￻打哈欠，伸懶腰"}]}],"t":"'oriyat"}
-,"%27orog":{"h":[{"d":[{"s":["`a'orogen~"],"e":["￹`Ma~`'orog~ `nira~ `ko~ `rtegay~ `a~ `'inorog~.￺He carried a heavy load.￻他挑起了沉重的擔子，他運走(扛在肩上)了很沉重的荷物"],"f":"￹￺to carry on the shoulder￻扛肩"}]}],"t":"'orog"}
+,"%27orip":{"h":[{"d":[{"l":["`ci'orip~","`ka'oripan~","`ma'oripay~","`pa'oripay~","`sapa'orip~"],"e":["￹`Pa'oripen~ `nira~ `kako~.￺1. He saved me. physically as from drowning. 2.spiritually￻1. 他救我，由肉體上如從溺水之險境中 2. 精神或屬靈上","￹`O~ `ma'araway~ `i~ `kalo'orip~ `a~ `tinako~ `konini~.￺This illustration is seen in ordinary life.￻這事倒在日常生活中可以看到"],"f":"￹￺life￻生命，生涯"}]}],"t":"'orip"}
+,"%27oriyat":{"h":[{"d":[{"l":["`masaya~"],"f":"￹￺to stretch one's body as when awakening￻打哈欠，伸懶腰"}]}],"t":"'oriyat"}
+,"%27orong":{"h":[{"d":[{"l":["`a'orongen~"],"e":["￹`Ma'orong~ `nira~ `ko~ `kartengay~ `a~ `'inorong~.￺He carried a heavy load.￻他挑起了沉重的擔子，他運走(扛在肩上)了很沉重的荷物"],"f":"￹￺to carry on the shoulder￻扛肩"}]}],"t":"'orong"}
 ,"%27orsap":{"h":[{"d":[{"f":"￹￺lice such as that found on young chicks￻蝨，依附在家禽或鳥類上的寄生蟲"}]}],"t":"'orsap"}
 ,"%27osal":{"h":[{"d":[{"f":"￹￺a green leafy vegetable with tap root￻發自球根植物根部上的嫩芽，如蕃薯或馬鈴薯"}]}],"t":"'osal"}
 ,"%27osaw":{"h":[{"d":[{"f":"￹￺left over￻剩餘"},{"f":"￹￺left behind￻遺留"}]}],"t":"'osaw"}
-,"%27osget":{"h":[{"d":[{"s":["`gotfol~"],"f":"￹￺an expression of anger￻皺眉頭表示生氣"}]}],"t":"'osget"}
-,"%27osi":{"h":[{"d":[{"e":["￹`mi~`'osi~ `to~ `tilid~￺read￻閱讀或誦讀書本","￹`sa'osi~￺true * chosen￻數算，計算","￹`O~ `'osi~ `a~ `tamdaw~ `cigra~.￺He is true.￻他是正直的人，他是了不起的人物","￹`Ka~`'osi~`an~ `ko~ `dmak~ `nira~.￺What he does is despicable.￻他的作為令人討厭"],"f":"￹￺to strongly dislike * reject￻嫌惡，討厭，厭煩"}]}],"t":"'osi"}
-,"%27osiyat":{"h":[{"d":[{"s":["`'oliyat~"],"f":"￹￺Refer to `'oliyat~￻詳見 `'oliyat~"}]}],"t":"'osiyat"}
-,"%27ot%27ot":{"h":[{"d":[{"s":["`kapkap~"],"f":"￹￺to cultivate rice plants by hand￻農人用手或小鋤頭除草"},{"f":"￹￺to carve * engrave￻雕刻，雕塑"}]}],"t":"'ot'ot"}
-,"%27oteg":{"h":[{"d":[{"f":"￹￺trapped as by the snare on a fish hook (sa'oteg)￻助沉器(附繫於圓形魚網邊之鋁製沉器)"},{"f":"￹￺to be degraded * suffering humiliation from sin￻因過失而受貶降職務處分"},{"f":"￹￺to stay at home as when embarrassed or ill￻為免尷尬之事或因生病而留在家"}]}],"t":"'oteg"}
+,"%27osi":{"h":[{"d":[{"e":["￹`mi'osi~ `to~ `tilid~￺read￻閱讀或誦讀書本","￹`sa'osi~￺true * chosen￻數算，計算","￹`O~ `'osi~ `a~ `tamdaw~ `cingra~.￺He is true.￻他是正直的人，他是了不起的人物","￹`Ka'osian~ `ko~ `dmak~ `nira~.￺What he does is despicable.￻他的作為令人討厭"],"f":"￹￺to strongly dislike * reject￻嫌惡，討厭，厭煩"}]}],"t":"'osi"}
+,"%27osiyat":{"h":[{"d":[{"l":["`'oliyat~"],"f":"￹￺Refer to `'oliyat~￻詳見 `'oliyat~"}]}],"t":"'osiyat"}
+,"%27osnget":{"h":[{"d":[{"l":["`ngotfol~"],"f":"￹￺an expression of anger￻皺眉頭表示生氣"}]}],"t":"'osnget"}
+,"%27ot%27ot":{"h":[{"d":[{"l":["`kapkap~"],"f":"￹￺to cultivate rice plants by hand￻農人用手或小鋤頭除草"},{"f":"￹￺to carve * engrave￻雕刻，雕塑"}]}],"t":"'ot'ot"}
+,"%27oteng":{"h":[{"d":[{"f":"￹￺trapped as by the snare on a fish hook (sa'oteg)￻助沉器(附繫於圓形魚網邊之鋁製沉器)"},{"f":"￹￺to be degraded * suffering humiliation from sin￻因過失而受貶降職務處分"},{"f":"￹￺to stay at home as when embarrassed or ill￻為免尷尬之事或因生病而留在家"}]}],"t":"'oteng"}
 ,"%27otit":{"h":[{"d":[{"f":"￹￺to pervert * perform sexual acts that are against nature as homosexuality￻淫蕩，風騷，不矜持，不莊重，不端莊"}]}],"t":"'otit"}
 ,"%27otkok":{"h":[{"d":[{"f":"￹￺to huddle as when cold￻因寒冷而捲曲身子縮成一團"}]}],"t":"'otkok"}
 ,"%27otkoy":{"h":[{"d":[{"f":"￹￺to have head bowed from sickness￻因病而垂首"}]}],"t":"'otkoy"}
 ,"%27otoc":{"h":[{"d":[{"f":"￹￺pillar * marker as for a grave￻柱，樁，墳墓的標柱"}]}],"t":"'otoc"}
 ,"%27owac":{"h":[{"d":[{"f":"￹￺the cycle of beginning to end of something * as the cycle of the seasons in a year￻輪迴，周而復始的現象"}]}],"t":"'owac"}
-,"%27owag":{"h":[{"d":[{"f":"￹￺to howl * high pitched sound of a dog￻狗狂叫，怒吼"}]}],"t":"'owag"}
-,"%27owak":{"h":[{"d":[{"s":["`ta'owak~"],"f":"￹￺to drink from a glass or bottle￻從杯或瓶中一口喝乾"}]}],"t":"'owak"}
-,"%27owal":{"h":[{"d":[{"s":["`'iwal~"],"f":"￹￺to pry up or apart * as with a crowbar￻用鐵撬挪動沉重的東西"}]}],"t":"'owal"}
-,"%27oway":{"h":[{"d":[{"s":["`misi'oway~"],"f":"￹￺reeds made from a plant that grows in the mountains and the plant * used in tying together poles and furniture and baskets etc.￻籐，籐條 * 用來繫柱子，和製家俱和做簍筐等。"}]}],"t":"'oway"}
-,"%27pag":{"h":[{"d":[{"f":"￹￺bread (from Japanese)￻麵包 (引自日語)"}]}],"t":"'pag"}
+,"%27owak":{"h":[{"d":[{"l":["`ta'owak~"],"f":"￹￺to drink from a glass or bottle￻從杯或瓶中一口喝乾"}]}],"t":"'owak"}
+,"%27owal":{"h":[{"d":[{"l":["`'iwal~"],"f":"￹￺to pry up or apart * as with a crowbar￻用鐵撬挪動沉重的東西"}]}],"t":"'owal"}
+,"%27owang":{"h":[{"d":[{"f":"￹￺to howl * high pitched sound of a dog￻狗狂叫，怒吼"}]}],"t":"'owang"}
+,"%27oway":{"h":[{"d":[{"l":["`misi'oway~"],"f":"￹￺reeds made from a plant that grows in the mountains and the plant * used in tying together poles and furniture and baskets etc.￻籐，籐條 * 用來繫柱子，和製家俱和做簍筐等。"}]}],"t":"'oway"}
 ,"%27pah":{"h":[{"d":[{"f":"￹￺wine * intoxicating drink￻酒，酒精製品飲料"}]}],"t":"'pah"}
-,"%27pec":{"h":[{"d":[{"s":["`spen~"],"f":"￹￺to despise * look down upon * consider of little value￻瞧不起，奚落，輕視，輕蔑"}]}],"t":"'pec"}
+,"%27pang":{"h":[{"d":[{"f":"￹￺bread (from Japanese)￻麵包 (引自日語)"}]}],"t":"'pang"}
+,"%27pec":{"h":[{"d":[{"l":["`spen~"],"f":"￹￺to despise * look down upon * consider of little value￻瞧不起，奚落，輕視，輕蔑"}]}],"t":"'pec"}
 ,"%27pel":{"h":[{"d":[{"f":"￹￺biting gnats found in Hualien county￻黑蚊"}]}],"t":"'pel"}
-,"%27pi":{"h":[{"d":[{"f":"￹￺paralyzed * as a stroke victirp￻痲痺(如中風患者)"},{"e":["￹`sa'pi'pi~ `ko~ `riko'~ `nira~.￺Her skirt is pleated.￻她的裙子是打褶的"],"f":"￹￺to turn under * hem * tuck￻縫邊，褶紋"},{"f":"￹￺an animal hide * leather￻動物的皮革"}]}],"t":"'pi"}
-,"%27pip":{"h":[{"d":[{"s":["`tipolo~","`'apipen~"],"f":"￹￺to play a flute￻吹笛"}]}],"t":"'pip"}
-,"%27poc":{"h":[{"d":[{"s":["`po~"],"e":["￹`ci~`'poc~`ay~￺has value￻有用，有價值","￹`awa~`ay~ `ko~ `'poc~￺no use￻沒有用，沒有價值"],"f":"￹￺use * value￻用處，價值"}]}],"t":"'poc"}
+,"%27pi":{"h":[{"d":[{"f":"￹￺paralyzed * as a stroke victirp￻痲痺(如中風患者)"},{"e":["￹`Masa'pi'pi~ `ko~ `riko'~ `nira~.￺Her skirt is pleated.￻她的裙子是打褶的"],"f":"￹￺to turn under * hem * tuck￻縫邊，褶紋"},{"f":"￹￺an animal hide * leather￻動物的皮革"}]}],"t":"'pi"}
+,"%27pip":{"h":[{"d":[{"l":["`tipolo~","`'apipen~"],"f":"￹￺to play a flute￻吹笛"}]}],"t":"'pip"}
+,"%27poc":{"h":[{"d":[{"l":["`kapo~"],"e":["￹`ci'pocay~￺has value￻有用，有價值","￹`awaay~ `ko~ `'poc~￺no use￻沒有用，沒有價值"],"f":"￹￺use * value￻用處，價值"}]}],"t":"'poc"}
 ,"%27pod":{"h":[{"d":[{"f":"￹￺to come down * to descend￻下來，走下，降下，落下"}]}],"t":"'pod"}
-,"%27pog":{"h":[{"d":[{"s":["`ofag~"],"f":"￹￺a small hole￻孔，洞，穴"}]}],"t":"'pog"}
+,"%27pong":{"h":[{"d":[{"l":["`ofang~"],"f":"￹￺a small hole￻孔，洞，穴"}]}],"t":"'pong"}
 ,"%27rac":{"h":[{"d":[{"f":"￹￺to be washed by rain so soil is gone and stones appear￻經雨打後而土失石現的現象"}]}],"t":"'rac"}
-,"%27res":{"h":[{"d":[{"s":["`'iray~"],"f":"￹￺something used as adornment as jewelry or home decorations￻裝飾品"}]}],"t":"'res"}
+,"%27res":{"h":[{"d":[{"l":["`'iray~"],"f":"￹￺something used as adornment as jewelry or home decorations￻裝飾品"}]}],"t":"'res"}
 ,"%27ric":{"h":[{"d":[{"f":"￹￺wire￻鋼絲"}]}],"t":"'ric"}
-,"%27roc":{"h":[{"d":[{"s":["`'orac~"],"f":"￹￺worn smooth * as wood￻磨滑(如木頭)"}]}],"t":"'roc"}
-,"%27ros":{"h":[{"d":[{"f":"￹￺an undercurrent that pulls objects that come into it￻旋渦吞沒，沉沒東西"},{"s":["`'los~"],"f":"￹￺the Pacific current￻黑潮"}]}],"t":"'ros"}
-,"%27sam":{"h":[{"d":[{"e":["￹`'samento~ `kako~.￺I am upset / disturbed (by a situation).￻我已經提不起興趣了"],"f":"￹￺attitude of being tired of looking at something￻不耐煩，因疲倦而厭煩的態度"}]}],"t":"'sam"}
-,"%27ses":{"h":[{"d":[{"s":["`'eses~"],"e":["￹`Awaay~ `ko~ `paka~`'eses~`ay~ `a~ `somowal~ `graan~.￺No one is able to speak pointedly to him.￻沒有一個人敢當面指責他"],"f":"￹￺to the point * direct￻指出，指導"}]}],"t":"'ses"}
-,"%27sid":{"h":[{"d":[{"s":["`'ised~"],"f":"￹￺Refer to `'ised~￻詳見 `'ised~"}]}],"t":"'sid"}
-,"%27sig":{"h":[{"d":[{"f":"￹￺to sneeze￻打噴嚏"}]}],"t":"'sig"}
-,"%27tah":{"h":[{"d":[{"s":["`afih~"],"f":"￹￺chaff￻粗糠"}]}],"t":"'tah"}
-,"%27tan":{"h":[{"d":[{"s":["`mili'tan~"],"f":"￹￺profit * earnings from work￻利益，利潤"}]}],"t":"'tan"}
-,"%27teg":{"h":[{"d":[{"s":["`pi'tegan~"],"f":"￹￺dam used to stop water so it goes in another direction￻築堤使水改道"},{"f":"￹￺road block marking a detour￻柵路改道"},{"f":"￹￺floats on a net￻漁網之浮標"}]}],"t":"'teg"}
-,"%27tip":{"h":[{"d":[{"s":["`ka~`'tip~"],"e":["￹`sa~`'tip~￺to the west￻在西邊，西部","￹`pasa~`'tip~ `a~ `romakat~￺walk / travel to the west￻向西行走","￹`isa'tipay~ `a~ `tamdaw~￺people that live in the valley (from the east coast perspective)￻西部人(按東海岸的阿美族指住在東部縱谷平原的人)","￹`pasa~`'tip~ `a~ `tamdaw~￺people that live on the west coast￻西部人(指住在西海岸的人)"],"f":"￹￺west￻西，西方，西邊"}]}],"t":"'tip"}
+,"%27roc":{"h":[{"d":[{"l":["`'orac~"],"f":"￹￺worn smooth * as wood￻磨滑(如木頭)"}]}],"t":"'roc"}
+,"%27ros":{"h":[{"d":[{"f":"￹￺an undercurrent that pulls objects that come into it￻旋渦吞沒，沉沒東西"},{"l":["`'los~"],"f":"￹￺the Pacific current￻黑潮"}]}],"t":"'ros"}
+,"%27sam":{"h":[{"d":[{"e":["￹`Ma'samento~ `kako~.￺I am upset / disturbed (by a situation).￻我已經提不起興趣了"],"f":"￹￺attitude of being tired of looking at something￻不耐煩，因疲倦而厭煩的態度"}]}],"t":"'sam"}
+,"%27ses":{"h":[{"d":[{"f":"￹￺to the point * direct￻指出，指導"},{"f":"￹￺Awaay ko paka'esesay a somowal cigraan.￻No one is able to speak pointedly to him."},{"l":["`'eses~"]}]}],"t":"'ses"}
+,"%27sid":{"h":[{"d":[{"l":["`'ised~"],"f":"￹￺Refer to `'ised~￻詳見 `'ised~"}]}],"t":"'sid"}
+,"%27sing":{"h":[{"d":[{"f":"￹￺to sneeze￻打噴嚏"}]}],"t":"'sing"}
+,"%27tah":{"h":[{"d":[{"l":["`afih~"],"f":"￹￺chaff￻粗糠"}]}],"t":"'tah"}
+,"%27tan":{"h":[{"d":[{"l":["`mili'tan~"],"f":"￹￺profit * earnings from work￻利益，利潤"}]}],"t":"'tan"}
+,"%27teng":{"h":[{"d":[{"l":["`pi'tengan~"],"f":"￹￺dam used to stop water so it goes in another direction￻築堤使水改道"},{"f":"￹￺road block marking a detour￻柵路改道"},{"f":"￹￺floats on a net￻漁網之浮標"}]}],"t":"'teng"}
+,"%27tip":{"h":[{"d":[{"l":["`ka'tip~"],"e":["￹`sa'tip~￺to the west￻在西邊，西部","￹`pasa'tip~ `a~ `romakat~￺walk / travel to the west￻向西行走","￹`isa'tipay~ `a~ `tamdaw~￺people that live in the valley (from the east coast perspective)￻西部人(按東海岸的阿美族指住在東部縱谷平原的人)","￹`pasa'tip~ `a~ `tamdaw~￺people that live on the west coast￻西部人(指住在西海岸的人)"],"f":"￹￺west￻西，西方，西邊"}]}],"t":"'tip"}
 ,"%27tolan":{"h":[{"d":[{"f":"￹￺name of an Amis village￻台東縣東河鄉都蘭落部名"}]}],"t":"'tolan"}
 ,"%27tot":{"h":[{"d":[{"f":"￹￺to pass gas from bloating￻屁，響屁"}]}],"t":"'tot"}
-,"%27xiw":{"h":[{"d":[{"e":["￹`pa~`'xiw~￺to burn incense as in worship￻上香"],"f":"￹￺incense (from Amoy dialect)￻香(佛教供神用) (引自閩南語)"}]}],"t":"'xiw"}
-,"%27yak":{"h":[{"d":[{"f":"￹￺to choke from aspirating food or water￻因吃東西或飲水而噎住"},{"s":["`ma~`co'os~"],"f":"￹￺to eat food not belonging to him￻貪吃別人的東西，貪嘴"}]}],"t":"'yak"}
-,"%27yof":{"h":[{"d":[{"e":["￹`Caay~ `ko~ `ma'yof~ `koya~ `tamdaw~.￺That person will not change.￻那人的心意無法改變，他剛愎自用"],"f":"￹￺to change￻改變(心意)"}]}],"t":"'yof"}
+,"%27xiw":{"h":[{"d":[{"e":["￹`pa'xiw~￺to burn incense as in worship￻上香"],"f":"￹￺incense (from Amoy dialect)￻香(佛教供神用) (引自閩南語)"}]}],"t":"'xiw"}
+,"%27yak":{"h":[{"d":[{"f":"￹￺to choke from aspirating food or water￻因吃東西或飲水而噎住"},{"l":["`maco'os~"],"f":"￹￺to eat food not belonging to him￻貪吃別人的東西，貪嘴"}]}],"t":"'yak"}
+,"%27yof":{"h":[{"d":[{"e":["￹`Caay~ `ko~ `mama'yof~ `koya~ `tamdaw~.￺That person will not change.￻那人的心意無法改變，他剛愎自用"],"f":"￹￺to change￻改變(心意)"}]}],"t":"'yof"}
 }

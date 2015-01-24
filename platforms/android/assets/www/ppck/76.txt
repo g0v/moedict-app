@@ -1,4 +1,4 @@
-{"Lalominan":{"h":[{"d":[{"s":["`lomin~"],"f":"￹￺Refer to `lomin~￻詳見 `lomin~"}]}],"t":"Lalominan"}
-,"Laso%27ay":{"h":[{"d":[{"s":["`laso'ay~"],"f":"￹￺Refer to `laso'ay~￻詳見 `laso'ay~"}]}],"t":"Laso'ay"}
-,"Lgacay":{"h":[{"d":[{"s":["`Cilgacay~"],"f":"￹￺Refer to `Cilgacay~￻詳見 `Cilgacay~"}]}],"t":"Lgacay"}
+{"Lalominan":{"h":[{"d":[{"l":["`lomin~"],"f":"￹￺Refer to `lomin~￻詳見 `lomin~"}]}],"t":"Lalominan"}
+,"Laso%27ay":{"h":[{"d":[{"l":["`laso'ay~"],"f":"￹￺Refer to `laso'ay~￻詳見 `laso'ay~"}]}],"t":"Laso'ay"}
+,"Lngacay":{"h":[{"d":[{"l":["`Cilngacay~"],"f":"￹￺Refer to `Cilngacay~￻詳見 `Cilngacay~"}]}],"t":"Lngacay"}
 }

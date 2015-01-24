@@ -1,37 +1,37 @@
 {"ociya":{"h":[{"d":[{"f":"￹￺Tea Plant (Camellia sinensis) (from Japanese)￻茶 (引自日語)"}]}],"t":"ociya"}
-,"ocor":{"h":[{"d":[{"s":["`aocoren~"],"e":["￹`O~ `ni~`ocor~`an~ `no~ `was~ `~ `Yis~.￺Jesus was sent by God. (Jesus is the sent one.)￻耶穌是上帝所差遣的","￹`Ma~`ocor~ `no~ `was~ `~ `Yis~.￺Jesus was sent by God. (God is the actor and Jesus the recipient.)￻上帝派遣耶穌/耶穌被上帝差遣","￹`Ocoren~ `no~ `was~ `~ `Yis~.￺God sent Jesus. God acted upon Jesus in sending.￻上帝派遣耶穌","￹`Ocoren~ `ko~ `wawa~ `iso~.￺Send your child.￻請派你的孩子去","￹`O~ `nipi~`ocor~ `to~ `wawa~ `iso~ `ko~ `ga'ay~.￺You should send your son.￻最好是派你的孩子"],"f":"￹￺to send￻差遣"}]}],"t":"ocor"}
+,"ocor":{"h":[{"d":[{"l":["`aocoren~"],"e":["￹`O~ `niocoran~ `no~ `Kawas~ `ci~ `Yis~.￺Jesus was sent by God. (Jesus is the sent one.)￻耶穌是上帝所差遣的","￹`Maocor~ `no~ `Kawas~ `ci~ `Yis~.￺Jesus was sent by God. (God is the actor and Jesus the recipient.)￻上帝派遣耶穌/耶穌被上帝差遣","￹`Ocoren~ `no~ `Kawas~ `ci~ `Yis~.￺God sent Jesus. God acted upon Jesus in sending.￻上帝派遣耶穌","￹`Ocoren~ `ko~ `wawa~ `iso~.￺Send your child.￻請派你的孩子去","￹`O~ `nipiocor~ `to~ `wawa~ `iso~ `ko~ `nga'ay~.￺You should send your son.￻最好是派你的孩子"],"f":"￹￺to send￻差遣"}]}],"t":"ocor"}
 ,"odo%27":{"h":[{"d":[{"f":"￹￺amber * jade * precious stones￻翡翠，瑪瑙"}]}],"t":"odo'"}
-,"ofag":{"h":[{"d":[{"f":"￹￺a hole￻洞"}]}],"t":"ofag"}
-,"ogog":{"h":[{"d":[{"f":"￹￺to sob * cry audibly￻嗚咽，哭泣"}]}],"t":"ogog"}
-,"okag":{"h":[{"d":[{"f":"￹￺a bull * male cow￻公牛"},{"f":"￹￺male water buffalo￻公水牛"},{"f":"￹￺ram￻公羊"}]}],"t":"okag"}
+,"ofang":{"h":[{"d":[{"f":"￹￺a hole￻洞"}]}],"t":"ofang"}
+,"okang":{"h":[{"d":[{"f":"￹￺a bull * male cow￻公牛"},{"f":"￹￺male water buffalo￻公水牛"},{"f":"￹￺ram￻公羊"}]}],"t":"okang"}
 ,"okos":{"h":[{"d":[{"f":"￹￺to act like one knows when he does not￻炫耀，誇炫"}]}],"t":"okos"}
-,"olah":{"h":[{"d":[{"f":"￹￺to like￻喜歡"},{"s":["`kaolah~","`pakaolah~","`kaolahan~"],"f":"￹￺to love￻愛"}]}],"t":"olah"}
+,"olah":{"h":[{"d":[{"f":"￹￺to like￻喜歡"},{"l":["`kaolah~","`pakaolah~","`kaolahan~"],"f":"￹￺to love￻愛"}]}],"t":"olah"}
 ,"olat":{"h":[{"d":[{"f":"￹￺tendons￻筋腱"},{"f":"￹￺blood vessels￻血脈"}]}],"t":"olat"}
-,"olatek":{"h":[{"d":[{"e":["￹`Ma~`olatek~ `ko~ `pi~`sti'~ `nira~ `to~ `wawa~.￺He beat the child unmercifully.￻他鞭打孩子很過分"],"f":"￹￺to do too hard * to do something without restraint￻過量，超量，過份"}]}],"t":"olatek"}
+,"olatek":{"h":[{"d":[{"e":["￹`Maolatek~ `ko~ `pisti'~ `nira~ `to~ `wawa~.￺He beat the child unmercifully.￻他鞭打孩子很過分"],"f":"￹￺to do too hard * to do something without restraint￻過量，超量，過份"}]}],"t":"olatek"}
 ,"oles":{"h":[{"d":[{"f":"￹￺a wolf * wolves￻野狼"}]}],"t":"oles"}
-,"olif":{"h":[{"d":[{"f":"￹￺biblical term for olive tree (from Japanese)￻橄欖樹 (引自日語)"},{"s":["`katop~"],"f":"￹￺See the Amis word katop￻參閱阿美語文 katop"}]}],"t":"olif"}
+,"olif":{"h":[{"d":[{"f":"￹￺biblical term for olive tree (from Japanese)￻橄欖樹 (引自日語)"},{"l":["`katop~"],"f":"￹￺See the Amis word katop￻參閱阿美語文 katop"}]}],"t":"olif"}
 ,"olili":{"h":[{"d":[{"f":"￹￺a command to go or leave￻去吧！"}]}],"t":"olili"}
-,"omah":{"h":[{"d":[{"s":["`maomah~","`maomahay~","`kaliomahan~","`liomah~"],"e":["￹`Paka~`omah~`en~ `cigra~ `to~ `omah~ `ako~.￺Have him cultivate my fields.￻叫他耕種我的田地"],"f":"￹￺field * farm￻水田，田地"}]}],"t":"omah"}
+,"omah":{"h":[{"d":[{"l":["`maomah~","`maomahay~","`kaliomahan~","`liomah~"],"e":["￹`Pakaomahen~ `cingra~ `to~ `omah~ `ako~.￺Have him cultivate my fields.￻叫他耕種我的田地"],"f":"￹￺field * farm￻水田，田地"}]}],"t":"omah"}
 ,"omi":{"h":[{"d":[{"f":"￹￺Plum tree (Prunus mume) (from Japanese)￻烏梅 (引自日語)"},{"f":"￹￺Formosan Rhododendron￻梅花"}]}],"t":"omi"}
 ,"omi%27":{"h":[{"d":[{"f":"￹￺pliable * flexible￻柔軟的，易曲的，柔順的"},{"f":"￹￺to be withered￻凋謝，衰退"},{"e":["￹`maomi'~ `ko~ `faloco'~￺agreeable in spirit￻仁慈的心"],"f":"￹￺to have no strength￻沒有體力，軟弱無力"}]}],"t":"omi'"}
-,"ona":{"h":[{"d":[{"s":["`onini~"],"f":"￹￺this.  See Pronouns - Appendix 1.￻這是。參閱附錄Ⅰ代名詞"}]}],"t":"ona"}
-,"onaon":{"h":[{"d":[{"s":["`ma~`onaon~"],"f":"￹￺to be slow moving * of water￻水的流勢緩慢"}]}],"t":"onaon"}
-,"onih":{"h":[{"d":[{"s":["`fao~"],"f":"￹￺all insects and reptiles * a catagory for livingcreatures￻毛毛蟲"}]}],"t":"onih"}
-,"onini":{"h":[{"d":[{"s":["`ona~"],"f":"￹￺this.  See Pronouns - Appendix 1.￻這是。參閱附錄Ⅰ代名詞"}]}],"t":"onini"}
-,"onol":{"h":[{"d":[{"s":["`paonol~","`pakonira~"],"f":"￹￺[No English description]￻[無中文解釋]"}]}],"t":"onol"}
-,"oo%27":{"h":[{"d":[{"s":["`wa'ay~"],"f":"￹￺leg * legs￻脚，下肢"}]}],"t":"oo'"}
+,"ona":{"h":[{"d":[{"l":["`onini~"],"f":"￹￺this.  See Pronouns - Appendix 1.￻這是。參閱附錄Ⅰ代名詞"}]}],"t":"ona"}
+,"onaon":{"h":[{"d":[{"l":["`maonaon~"],"f":"￹￺to be slow moving * of water￻水的流勢緩慢"}]}],"t":"onaon"}
+,"ongong":{"h":[{"d":[{"f":"￹￺to sob * cry audibly￻嗚咽，哭泣"}]}],"t":"ongong"}
+,"onih":{"h":[{"d":[{"l":["`fao~"],"f":"￹￺all insects and reptiles * a catagory for livingcreatures￻毛毛蟲"}]}],"t":"onih"}
+,"onini":{"h":[{"d":[{"l":["`ona~"],"f":"￹￺this.  See Pronouns - Appendix 1.￻這是。參閱附錄Ⅰ代名詞"}]}],"t":"onini"}
+,"onol":{"h":[{"d":[{"l":["`paonol~","`pakonira~"],"f":"￹￺[No English description]￻[無中文解釋]"}]}],"t":"onol"}
+,"oo%27":{"h":[{"d":[{"l":["`wa'ay~"],"f":"￹￺leg * legs￻脚，下肢"}]}],"t":"oo'"}
 ,"opih":{"h":[{"d":[{"f":"￹￺feathers￻羽毛"}]}],"t":"opih"}
-,"opoh":{"h":[{"d":[{"s":["`dopoh~"],"e":["￹`Ma~`opoh~ `cigra~.￺He works fast and hard.￻他工作勤勞又迅速"],"f":"￹￺to be a fast hard worker￻迅速成為勤快的工作者"}]}],"t":"opoh"}
+,"opoh":{"h":[{"d":[{"l":["`dopoh~"],"e":["￹`Maopoh~ `cingra~.￺He works fast and hard.￻他工作勤勞又迅速"],"f":"￹￺to be a fast hard worker￻迅速成為勤快的工作者"}]}],"t":"opoh"}
 ,"opopay":{"h":[{"d":[{"f":"￹￺a species of frog * large frog￻大青蛙，俗稱田雞"}]}],"t":"opopay"}
-,"oraf":{"h":[{"d":[{"s":["`tlas~"],"f":"￹￺to do a task any way * not correctly * also refers to speech￻對工作不負責，不確實；也指隨便亂說話"}]}],"t":"oraf"}
-,"orasaka":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `ratoh~ `to~ `yniay~ `to~ `iloma'ay~ `ako~. `Orasaka~ `ma~`roray~ `kako~ `a~ `mi~`harateg~.￺There is no news from home so I am worried.￻我沒有得到家裡的消息所以我很難過(不安)"],"f":"￹￺a logical connective meaning so * therefore￻所以(連接詞)"}]}],"t":"orasaka"}
-,"orat":{"h":[{"d":[{"e":["￹`Ka~`orat~`an~ `ko~ `sowal~ `nira~.￺What he said is confusing.￻他說的話令人模稜兩可，他說的話令人摸不著邊兒"],"f":"￹￺to be confused * muddled * not clear in thinking￻混亂，迷糊"}]}],"t":"orat"}
+,"oraf":{"h":[{"d":[{"l":["`patlas~"],"f":"￹￺to do a task any way * not correctly * also refers to speech￻對工作不負責，不確實；也指隨便亂說話"}]}],"t":"oraf"}
+,"orasaka":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `ratoh~ `to~ `pakayniay~ `to~ `iloma'ay~ `ako~. `Orasaka~ `maroray~ `kako~ `a~ `miharateng~.￺There is no news from home so I am worried.￻我沒有得到家裡的消息所以我很難過(不安)"],"f":"￹￺a logical connective meaning so * therefore￻所以(連接詞)"}]}],"t":"orasaka"}
+,"orat":{"h":[{"d":[{"e":["￹`Kaoratan~ `ko~ `sowal~ `nira~.￺What he said is confusing.￻他說的話令人模稜兩可，他說的話令人摸不著邊兒"],"f":"￹￺to be confused * muddled * not clear in thinking￻混亂，迷糊"}]}],"t":"orat"}
 ,"oray":{"h":[{"d":[{"f":"￹￺a light-weight blanket￻毛毯"}]}],"t":"oray"}
-,"orira":{"h":[{"d":[{"s":["`ora~"],"f":"￹￺that. ora is a shortened form of orira.  See Pronouns - Appendix 1.￻那個 * ora 是 orira 的簡寫。參閱附錄Ⅰ代名詞"}]}],"t":"orira"}
-,"oror":{"h":[{"d":[{"s":["`paoror~","`pacoracor~"],"f":"￹￺[No English description]￻[無中文解釋]"}]}],"t":"oror"}
-,"osa":{"h":[{"d":[{"s":["`miosa~","`paosa~"],"f":"￹￺approach￻走近，接近，挨近"}]}],"t":"osa"}
+,"orira":{"h":[{"d":[{"l":["`ora~"],"f":"￹￺that. ora is a shortened form of orira.  See Pronouns - Appendix 1.￻那個 * ora 是 orira 的簡寫。參閱附錄Ⅰ代名詞"}]}],"t":"orira"}
+,"oror":{"h":[{"d":[{"l":["`paoror~","`pacoracor~"],"f":"￹￺[No English description]￻[無中文解釋]"}]}],"t":"oror"}
+,"osa":{"h":[{"d":[{"l":["`miosa~","`paosa~"],"f":"￹￺approach￻走近，接近，挨近"}]}],"t":"osa"}
 ,"osoy":{"h":[{"d":[{"f":"￹￺to be late * slow in arriving or doing something (from Japanese)￻遲緩的, 緩慢 (引自日語)"}]}],"t":"osoy"}
-,"ota%27":{"h":[{"d":[{"s":["`sakaota'an~"],"e":["￹`Ma~`ota'~ `kako~￺I vomited / I am vomiting.￻我嘔吐","￹`Ota'en~!￺Vomit (a command).￻吐出來！"],"f":"￹￺vomit￻嘔吐"}]}],"t":"ota'"}
+,"ota%27":{"h":[{"d":[{"l":["`sakaota'an~"],"e":["￹`Maota'~ `kako~￺I vomited / I am vomiting.￻我嘔吐","￹`Ota'en~!￺Vomit (a command).￻吐出來！"],"f":"￹￺vomit￻嘔吐"}]}],"t":"ota'"}
 ,"oy":{"h":[{"d":[{"f":"￹￺an exclamation meaning - \"it's me.\" * \"I'm here.\"￻呼喊之意"},{"f":"￹￺to catch the attention of a person by calling￻呼喊引某人的注意"}]}],"t":"oy"}
 ,"oya":{"h":[{"d":[{"f":"￹￺the * a definite particle￻那，定詞"},{"e":["￹`Oyananto~ `ko~ `dmak~ `nira~.￺He is doing the same thing / no change.￻還是那個樣子，他的工作依然不變"],"f":"￹￺See Grammar - Appendix 2.￻參閱附錄Ⅱ文法"}]}],"t":"oya"}
 }
