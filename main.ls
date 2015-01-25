@@ -4,6 +4,14 @@ const DEBUGGING = (!isCordova and !!window.cordova?require)
 const STANDALONE = window.STANDALONE || false
 
 {any, map} = require('prelude-ls')
+window.$ = window.jQuery = require \jquery
+
+React = require \react
+React.View = require \./view.ls
+Han = require \han-css
+
+unless window.PRERENDER_LANG
+  $ -> React.View.result = React.render React.View.Result!, $(\#result).0
 
 LANG = STANDALONE || window.PRERENDER_LANG || getPref(\lang) || (if document.URL is /twblg/ then \t else \a)
 MOE-ID = getPref(\prev-id) || {a: \萌 t: \發穎 h: \發芽 c: \萌}[LANG]
@@ -208,7 +216,7 @@ window.do-load = ->
     s.parentNode.insertBefore(gcse, s);
     poll-gsc = ->
       return setTimeout poll-gsc, 500ms unless $('.gsc-input').length
-      $('.gsc-input').attr \placeholder \全文檢索
+      $('.gsc-input').attr \placeholder \Search
       isQuery := no
     setTimeout poll-gsc, 500ms
 
@@ -568,6 +576,7 @@ window.do-load = ->
     .css \visibility \visible
       .find 'a[word-id]'
       .each !->
+        return if isCordova
         $it = $ @
         html = @.cloneNode().outerHTML
         ci = document.createTextNode $it.text!
@@ -624,6 +633,10 @@ window.do-load = ->
     $('#result a[href]:not(.xref)').tooltip {
       +disabled, tooltipClass: "prefer-pinyin-#{ true /* !!getPref \prefer-pinyin */ }", show: 100ms, hide: 100ms, items: \a,
       open: ->
+        id = $(@).attr \href .replace /^#['!:~]?/, ''
+        if entryHistory.length and entryHistory[*-1] == id
+          try $(@).tooltip \close
+          return
         Han $('.ui-tooltip-content')[0]
         .render-ruby!
         .subst-comb-liga-with-PUA!
