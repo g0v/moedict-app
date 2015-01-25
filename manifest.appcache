@@ -46,7 +46,7 @@ about.html
 favicon.ico
 
 # js files
-js/deps.js
+js/deps.js?4eddc2fa
 
 # optional deps
 js/howler.js
