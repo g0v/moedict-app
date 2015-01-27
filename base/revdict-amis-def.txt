@@ -1,0 +1,1 @@
+../../revdict-amis-def.txt

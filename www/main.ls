@@ -10,6 +10,7 @@ window.$ = window.jQuery = require \jquery
 React = require \react
 React.View = require \./view.ls
 Han = require \han-css
+window.React = React
 
 unless window.PRERENDER_LANG
   $ -> React.View.result = React.render React.View.Result!, $(\#result).0
@@ -585,6 +586,7 @@ window.do-load = ->
     .css \visibility \visible
       .find 'a[word-id]'
       .each !->
+        return if isCordova
         $it = $ @
         html = @.cloneNode().outerHTML
         ci = document.createTextNode $it.text!
@@ -776,6 +778,7 @@ function init-autocomplete
       return cb [] unless term.length
       return trs_lookup(term, cb) unless LANG isnt \t or term is /[^\u0000-\u00FF]/ or term is /[,;0-9]/
       return pinyin_lookup(term, cb) if LANG is \a and term is /^[a-zA-Z1-4 ]+$/
+      return han_amis_lookup(term, cb) if LANG is \p and term is /[^\u0000-\u00FF]/
       return cb ["→列出含有「#{term}」的詞"] if width-is-xs! and term isnt /[「」。，?.*_% ]/
       return do-lookup(term) if term is /^[@=]/
       term.=replace(/^→列出含有「/ '')
@@ -855,6 +858,28 @@ pinyin_lookup = (query,cb) !->
         cb(["無符合之詞"])
       else
         cb(x)
+
+# 由漢字查阿美語
+han_amis_lookup = (query,cb) !->
+  cmn_amis_def <- GET \revdict-amis-def.txt
+  cmn_amis_ex  <- GET \revdict-amis-ex.txt
+  x = []
+  terms = query.replace(/^\s+/,"").replace(/\s+$/,"")
+  lookup_in = (cmn) ~>
+    p = 0
+    loop
+      p = cmn.indexOf terms, p+1
+      break if p is -1 or x.length > 20        # 最多找 20 個
+      ae = cmn.lastIndexOf '\ufffb', p
+      ab = cmn.lastIndexOf '\ufffa', ae
+      title = cmn.slice(ab+1, ae).replace('g', 'ng')
+      x.push title if title not in x
+  lookup_in cmn_amis_def
+  lookup_in cmn_amis_ex
+  if x.length == 0
+    cb(["無符合之詞"])
+  else
+    cb(x)
 
 const SIMP-TRAD = window.SIMP-TRAD ? ''
 
