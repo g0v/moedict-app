@@ -3,8 +3,9 @@ all :: bin/MoeActivity-release.apk
 run = env LC_ALL=C ANDROID_HOME=/opt/adt/sdk
 
 bin/MoeActivity-release.apk ::
+	cp -av ../../www/ assets/
 	grep CordovaLib project.properties || (echo 'android.library.reference.1=CordovaLib' >> project.properties)
-	yes $(MOEDICT_PASSWORD) | $(run) ant release
+	$(run) ant release
 
 run ::
 	cd assets/www && node ../../static-here.js
