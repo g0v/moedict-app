@@ -1402,7 +1402,7 @@
         if (LANG === 'p' && /[^\u0000-\u00FF]/.exec(term)) {
           return han_amis_lookup(term, cb);
         }
-        if (widthIsXs() && !/[「」。，?.*_% ]/.test(term)) {
+        if (LANG !== 'p' && widthIsXs() && !/[「」。，?.*_% ]/.test(term)) {
           return cb(["→列出含有「" + term + "」的詞"]);
         }
         if (/^[@=]/.exec(term)) {

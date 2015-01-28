@@ -779,7 +779,7 @@ function init-autocomplete
       return trs_lookup(term, cb) unless LANG isnt \t or term is /[^\u0000-\u00FF]/ or term is /[,;0-9]/
       return pinyin_lookup(term, cb) if LANG is \a and term is /^[a-zA-Z1-4 ]+$/
       return han_amis_lookup(term, cb) if LANG is \p and term is /[^\u0000-\u00FF]/
-      return cb ["→列出含有「#{term}」的詞"] if width-is-xs! and term isnt /[「」。，?.*_% ]/
+      return cb ["→列出含有「#{term}」的詞"] if LANG isnt \p and width-is-xs! and term isnt /[「」。，?.*_% ]/
       return do-lookup(term) if term is /^[@=]/
       term.=replace(/^→列出含有「/ '')
       term.=replace(/」的詞$/ '')
