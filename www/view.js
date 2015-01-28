@@ -732,18 +732,11 @@
     }
   });
   Star = createClass({
-    getDefaultProps: function(){
-      return {
-        STARRED: (typeof window != 'undefined' && window !== null ? window.STARRED : void 8) || {}
-      };
-    },
     render: function(){
-      var ref$, CurrentId, STARRED, LANG;
-      ref$ = this.props, CurrentId = ref$.CurrentId, STARRED = ref$.STARRED, LANG = ref$.LANG;
-      if (STARRED[LANG] == null) {
-        return i({});
-      }
-      if (~STARRED[LANG].indexOf("\"" + CurrentId + "\"")) {
+      var ref$, CurrentId, LANG, STARRED;
+      ref$ = this.props, CurrentId = ref$.CurrentId, LANG = ref$.LANG;
+      STARRED = (typeof window != 'undefined' && window !== null ? window.STARRED : void 8) || {};
+      if (STARRED[LANG] && ~STARRED[LANG].indexOf("\"" + CurrentId + "\"")) {
         return i({
           className: "star iconic-color icon-star",
           title: '已加入記錄簿'
