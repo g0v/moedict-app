@@ -1,49 +1,49 @@
-{"wa":{"h":[{"d":[{"l":["`oa~"],"f":"￹￺a grammatical particle used in the south indicating a projected or future concept￻文法上的一個用詞指出一個計劃或未來的觀念"}]}],"t":"wa"}
-,"wa%27ay":{"h":[{"d":[{"l":["`o'o~"],"f":"￹￺leg * legs including the feet￻腳"}]}],"t":"wa'ay"}
+{"wa":{"h":[{"d":[{"s":["`oa~"],"f":"￹￺a grammatical particle used in the south indicating a projected or future concept￻文法上的一個用詞指出一個計劃或未來的觀念"}]}],"t":"wa"}
+,"wa%27ay":{"h":[{"d":[{"s":["`o'o~"],"f":"￹￺leg * legs including the feet￻腳"}]}],"t":"wa'ay"}
 ,"wa%27cik":{"h":[{"d":[{"f":"￹￺to separate from the rest * to lay aside and separate￻從其餘的部份分出來；拋開，挪開"},{"f":"￹￺to roughly brush aside￻很粗暴的推開，拋開"}]}],"t":"wa'cik"}
-,"waa%27":{"h":[{"d":[{"l":["`pohong~"],"f":"￹￺horns of an animal￻動物的角"}]}],"t":"waa'"}
-,"wacay":{"h":[{"d":[{"l":["`mawacacy~","`pawacay~"],"f":"￹￺evidence￻證據，證物"}]}],"t":"wacay"}
-,"waco":{"h":[{"d":[{"e":["￹`Matiya~ `o~ `waco~ `cangra~.￺They are like dogs.￻他們像狗 (指狗貪吃)"],"f":"￹￺dog * dogs￻狗"},{"e":["￹`Mapalawaco~ `nira~ `ko~ `'orip~ `ako~.￺He caused me to live a degraded life.￻他糟蹋了我的一生"],"f":"￹￺degraded￻虐待，侮辱"},{"l":["`palawaco~","`masawaco~"],"f":"￹￺biblical use - foreigners * a team of slander￻外邦人"}]}],"t":"waco"}
-,"wadihang":{"h":[{"d":[{"l":["`lodihang~"],"f":"￹￺to echo * an echo￻回音，共鳴"}]}],"t":"wadihang"}
-,"wadis":{"h":[{"d":[{"e":["￹`Aka~ `pawadisen~ `to~ `sasowalen~￺Speak tactfully.￻說話不要傷人"],"f":"￹￺tooth * teeth￻牙齒"},{"l":["`pawadis~","`ciwadis~"],"f":"￹￺the gears in machinery￻齒輪"}]}],"t":"wadis"}
-,"wadwad":{"h":[{"d":[{"l":["`'ad'ad~"],"f":"￹￺Refer to `'ad'ad~￻詳見 `'ad'ad~"}]}],"t":"wadwad"}
-,"waheng":{"h":[{"d":[{"f":"￹￺molar * molars * back teeth￻臼齒"}]}],"t":"waheng"}
-,"wakah":{"h":[{"d":[{"l":["`Wakah~","`maliwakah~","`malipakah~"],"f":"￹￺the name of the son of Kafid who was a sovereign governing spirit as understood by Amis in the area of Kiwit. They believe Wakah's relationship to Kafid is parallel to Christ's relationship to the Father.￻Kafid 之子的名字 Kafid 是統治靈界的元首※就如基督是天父上帝之子"}]}],"t":"wakah"}
-,"wakang":{"h":[{"d":[{"f":"￹￺to lie down for a few minutes￻暫時躺下"},{"l":["`ti'nang~"],"f":"￹￺to lie on one's back￻仰臥"},{"l":["`ska'~"],"f":"￹￺to lie unconscious￻昏倒，休克"}]}],"t":"wakang"}
-,"wakawak":{"h":[{"d":[{"f":"￹￺to walk with strides￻邁開大步走路"},{"e":["￹`Pawakawak~ `aka~ `haenen~ `kako~ `a~ `papinokay~.￺Don't send me home without anything.￻不要讓我空手回去"],"f":"￹￺to be empty handed * without possesions￻徒手 (空手) 來持任何東西"},{"l":["`wayway~"],"f":"￹￺the way the person acts * behaviour patterns￻一個人的行為模式"}]}],"t":"wakawak"}
-,"waklid":{"h":[{"d":[{"e":["￹`Mawaklid~ `no~ `tata'angay~ `a~ `fokloh~ `ko~ `talo'an~ `niyam~.￺Our hut was carried along with a large rock (that rolled).￻我們的工寮被巨石衝垮"],"f":"￹￺to carry along * as a result of motion that was initiated￻波及，禍及，累及"}]}],"t":"waklid"}
-,"wakong":{"h":[{"d":[{"f":"￹￺a bowl * serving dish (from Amoy dialect)￻大碗 (引自閩南語)"}]}],"t":"wakong"}
+,"waa%27":{"h":[{"d":[{"s":["`pohog~"],"f":"￹￺horns of an animal￻動物的角"}]}],"t":"waa'"}
+,"wacay":{"h":[{"d":[{"s":["`mawacacy~","`pawacay~"],"f":"￹￺evidence￻證據，證物"}]}],"t":"wacay"}
+,"waco":{"h":[{"d":[{"e":["￹`tiya~ `o~ `waco~ `cagra~.￺They are like dogs.￻他們像狗 (指狗貪吃)"],"f":"￹￺dog * dogs￻狗"},{"e":["￹`Ma~`palawaco~ `nira~ `ko~ `'orip~ `ako~.￺He caused me to live a degraded life.￻他糟蹋了我的一生"],"f":"￹￺degraded￻虐待，侮辱"},{"s":["`palawaco~","`sawaco~"],"f":"￹￺biblical use - foreigners * a team of slander￻外邦人"}]}],"t":"waco"}
+,"wadihag":{"h":[{"d":[{"s":["`lodihag~"],"f":"￹￺to echo * an echo￻回音，共鳴"}]}],"t":"wadihag"}
+,"wadis":{"h":[{"d":[{"e":["￹`Aka~ `pa~`wadis~`en~ `to~ `sa~`sowal~`en~￺Speak tactfully.￻說話不要傷人"],"f":"￹￺tooth * teeth￻牙齒"},{"s":["`pawadis~","`ciwadis~"],"f":"￹￺the gears in machinery￻齒輪"}]}],"t":"wadis"}
+,"wadwad":{"h":[{"d":[{"s":["`'ad'ad~"],"f":"￹￺Refer to `'ad'ad~￻詳見 `'ad'ad~"}]}],"t":"wadwad"}
+,"wagawag":{"h":[{"d":[{"f":"￹￺to attract attention by waving the hand￻揮手，以揮手引人注意"}]}],"t":"wagawag"}
+,"waheg":{"h":[{"d":[{"f":"￹￺molar * molars * back teeth￻臼齒"}]}],"t":"waheg"}
+,"wakag":{"h":[{"d":[{"f":"￹￺to lie down for a few minutes￻暫時躺下"},{"s":["`ti'nag~"],"f":"￹￺to lie on one's back￻仰臥"},{"s":["`ska'~"],"f":"￹￺to lie unconscious￻昏倒，休克"}]}],"t":"wakag"}
+,"wakah":{"h":[{"d":[{"s":["`Wakah~","`maliwakah~","`lipakah~"],"f":"￹￺the name of the son of Kafid who was a sovereign governing spirit as understood by Amis in the area of Kiwit. They believe Wakah's relationship to Kafid is parallel to Christ's relationship to the Father.￻Kafid 之子的名字 Kafid 是統治靈界的元首※就如基督是天父上帝之子"}]}],"t":"wakah"}
+,"wakawak":{"h":[{"d":[{"f":"￹￺to walk with strides￻邁開大步走路"},{"e":["￹`Pa~`wakawak~ `aka~ `haen~`en~ `kako~ `a~ `papi~`nokay~.￺Don't send me home without anything.￻不要讓我空手回去"],"f":"￹￺to be empty handed * without possesions￻徒手 (空手) 來持任何東西"},{"s":["`wayway~"],"f":"￹￺the way the person acts * behaviour patterns￻一個人的行為模式"}]}],"t":"wakawak"}
+,"waklid":{"h":[{"d":[{"e":["￹`Ma~`waklid~ `no~ `tata'ag~`ay~ `a~ `fokloh~ `ko~ `talo'an~ `niyam~.￺Our hut was carried along with a large rock (that rolled).￻我們的工寮被巨石衝垮"],"f":"￹￺to carry along * as a result of motion that was initiated￻波及，禍及，累及"}]}],"t":"waklid"}
+,"wakog":{"h":[{"d":[{"f":"￹￺a bowl * serving dish (from Amoy dialect)￻大碗 (引自閩南語)"}]}],"t":"wakog"}
 ,"wakwak":{"h":[{"d":[{"f":"￹￺White-breasted Water-hen * a bird￻白腹秧雞"}]}],"t":"wakwak"}
 ,"waladwad":{"h":[{"d":[{"f":"￹￺to be nauseated￻作嘔，惡心"}]}],"t":"waladwad"}
 ,"walay":{"h":[{"d":[{"f":"￹￺string￻細繩"},{"f":"￹￺noodles￻麵線，麵條"}]}],"t":"walay"}
-,"wali":{"h":[{"d":[{"e":["￹`I~ `kawali~ `no~ `loma'~ `niyam~ `ira~ `ko~ `kilang~.￺There is a tree east of our house.￻我們家東邊有一棵樹","￹`O~ `riyar~ `ko~ `sawalian~ `no~ `niyaro'~ `niyam~.￺The ocean is east of our town.￻我們村莊東邊是海"],"f":"￹￺east￻東方，東邊"}]}],"t":"wali"}
-,"walin":{"h":[{"d":[{"e":["￹`Mawalinto~ `koya~ `kolong~.￺The water buffalo rolled over (and died).￻那隻牛滾下來 (死了)","￹`Walinen~ `konini~ `a~ `fokloh~.￺Roll this stone over.￻把石頭翻掉"],"f":"￹￺to roll over￻滾翻"}]}],"t":"walin"}
+,"wali":{"h":[{"d":[{"e":["￹`I~ `kawali~ `no~ `loma'~ `niyam~ `ira~ `ko~ `kilag~.￺There is a tree east of our house.￻我們家東邊有一棵樹","￹`O~ `riyar~ `ko~ `sa~`wali~`an~ `no~ `niyaro'~ `niyam~.￺The ocean is east of our town.￻我們村莊東邊是海"],"f":"￹￺east￻東方，東邊"}]}],"t":"wali"}
+,"walin":{"h":[{"d":[{"e":["￹`Ma~`walin~`to~ `koya~ `kolog~.￺The water buffalo rolled over (and died).￻那隻牛滾下來 (死了)","￹`Walinen~ `konini~ `a~ `fokloh~.￺Roll this stone over.￻把石頭翻掉"],"f":"￹￺to roll over￻滾翻"}]}],"t":"walin"}
 ,"walwal":{"h":[{"d":[{"f":"￹￺a screen door￻紗窗，用木片或竹片製防柵"}]}],"t":"walwal"}
-,"wama":{"h":[{"d":[{"l":["`mama~"],"f":"￹￺father￻父親"},{"f":"￹￺the Father in heaven * God￻天父上帝"}]}],"t":"wama"}
-,"wanang":{"h":[{"d":[{"l":["`waray~"],"f":"￹￺to separate two parties that are quarreling￻拉開 爭吵的雙方"}]}],"t":"wanang"}
-,"waneng":{"h":[{"d":[{"l":["`'odax~"],"e":["￹`waneng~ `no~ `'odal~￺honey￻蜜糖"],"f":"￹￺sugar * sweets￻砂糖※糖果"}]}],"t":"waneng"}
-,"wangawang":{"h":[{"d":[{"f":"￹￺to attract attention by waving the hand￻揮手，以揮手引人注意"}]}],"t":"wangawang"}
+,"wama":{"h":[{"d":[{"s":["`mama~"],"f":"￹￺father￻父親"},{"f":"￹￺the Father in heaven * God￻天父上帝"}]}],"t":"wama"}
+,"wanag":{"h":[{"d":[{"s":["`waray~"],"f":"￹￺to separate two parties that are quarreling￻拉開 爭吵的雙方"}]}],"t":"wanag"}
+,"waneg":{"h":[{"d":[{"s":["`'odax~"],"e":["￹`waneg~ `no~ `'odal~￺honey￻蜜糖"],"f":"￹￺sugar * sweets￻砂糖※糖果"}]}],"t":"waneg"}
 ,"wanik":{"h":[{"d":[{"f":"￹￺to wave aside with hand￻移開，挪開"},{"f":"￹￺to exclude * reject * brush aside￻排除，拒絕"}]}],"t":"wanik"}
-,"wara":{"h":[{"d":[{"e":["￹`Wara~ `sa~ `ko~ `rakat~ `nira~.￺His walking was not straight but weaving.￻他走路左右搖擺","￹`Mawarawara~ `ko~ `rakat~ `no~ `malasangay~.￺Drunk people walk weaving.￻酒醉的人走路搖搖擺擺"],"f":"￹￺to weave along as one walks￻走路左右搖擺"}]}],"t":"wara"}
-,"warak":{"h":[{"d":[{"l":["`sawarak~"],"e":["￹`Mawarakto~ `kako~.￺I've been poisoned / I'm nauseated / suffering food poisoning.￻我中毒了","￹`Aka~ `piwarak~ `to~ `foting~.￺Don't poison the fish.￻不要毒魚"],"f":"￹￺to poison￻中毒"}]}],"t":"warak"}
-,"waray":{"h":[{"d":[{"l":["`wanang~"],"f":"￹￺to separate two parties that are quarreling￻拉開爭吵的雙方"}]}],"t":"waray"}
+,"wara":{"h":[{"d":[{"e":["￹`Wara~ `~ `ko~ `rakat~ `nira~.￺His walking was not straight but weaving.￻他走路左右搖擺","￹`Ma~`wara~`wara~ `ko~ `rakat~ `no~ `sagay~.￺Drunk people walk weaving.￻酒醉的人走路搖搖擺擺"],"f":"￹￺to weave along as one walks￻走路左右搖擺"}]}],"t":"wara"}
+,"warak":{"h":[{"d":[{"s":["`sawarak~"],"e":["￹`Ma~`warak~`to~ `kako~.￺I've been poisoned / I'm nauseated / suffering food poisoning.￻我中毒了","￹`Aka~ `pi~`warak~ `to~ `fotig~.￺Don't poison the fish.￻不要毒魚"],"f":"￹￺to poison￻中毒"}]}],"t":"warak"}
+,"waray":{"h":[{"d":[{"s":["`wanag~"],"f":"￹￺to separate two parties that are quarreling￻拉開爭吵的雙方"}]}],"t":"waray"}
 ,"warih":{"h":[{"d":[{"f":"￹￺to push aside objects * to move something out of the way￻移開，挪開"}]}],"t":"warih"}
 ,"warwar":{"h":[{"d":[{"e":["￹`Warwaren~ `nira~ `ko~ `cokoi~.￺He overturned the table.￻他把桌子推翻"],"f":"￹￺to overturn something large￻推翻，翻倒"}]}],"t":"warwar"}
-,"waswas":{"h":[{"d":[{"l":["`laklak~"],"f":"￹￺for objects to be scattered * as by wind or a child￻東西被吹的七零八落"}]}],"t":"waswas"}
+,"waswas":{"h":[{"d":[{"s":["`laklak~"],"f":"￹￺for objects to be scattered * as by wind or a child￻東西被吹的七零八落"}]}],"t":"waswas"}
 ,"wata":{"h":[{"d":[{"f":"￹￺an exclamation of admiration or amazement￻讚嘆或詫異的感嘆詞"}]}],"t":"wata"}
 ,"watawat":{"h":[{"d":[{"e":["￹`Watawaten~ `ko~ `hata~.￺Wave the flag.￻請揮動國旗"],"f":"￹￺to wave something back and forth￻把東西前後左右擺動"}]}],"t":"watawat"}
-,"wawa":{"h":[{"d":[{"f":"￹￺offspring￻子孫"},{"l":["`nisawawaan~","`pawawa~"],"f":"￹￺children￻孩子"}]}],"t":"wawa"}
-,"wayway":{"h":[{"d":[{"l":["`wakawak~"],"f":"￹￺the way one moves and carries himself * the impression he gives￻人的一舉一動，人的行為或作為※給人的印象"}]}],"t":"wayway"}
-,"widang":{"h":[{"d":[{"l":["`misawidang~"],"e":["￹`Malawidangay~ `kami~.￺We are friends.￻我們是朋友"],"f":"￹￺friend * a rather close acquaintance but not a close friend￻朋友，認識但不是親密的朋友"}]}],"t":"widang"}
-,"widawidan":{"h":[{"d":[{"l":["`minaro'an~"],"f":"￹￺rice heads * heads of grain￻稻穗"}]}],"t":"widawidan"}
-,"widi":{"h":[{"d":[{"f":"￹￺leeches￻水蛭"},{"l":["`toki~","`Ciwidian~"],"e":["￹`Pina~ `ko~ `widi~?￺What time is it?￻幾點鐘","￹`Tolo~ `ko~ `widi~.￺Three o'clock.￻三點鐘"],"f":"￹￺a clock * time￻時間"}]}],"t":"widi"}
-,"wihawih":{"h":[{"d":[{"l":["`pances~"],"f":"￹￺rubber of a ship￻船舵"},{"l":["`sawihawih~"],"f":"￹￺to move back and forth * as the large leaves of a banana tree￻前後擺動貌※如香蕉葉的搖動"}]}],"t":"wihawih"}
+,"wawa":{"h":[{"d":[{"f":"￹￺offspring￻子孫"},{"s":["`nisawawaan~","`pawawa~"],"f":"￹￺children￻孩子"}]}],"t":"wawa"}
+,"wayway":{"h":[{"d":[{"s":["`wakawak~"],"f":"￹￺the way one moves and carries himself * the impression he gives￻人的一舉一動，人的行為或作為※給人的印象"}]}],"t":"wayway"}
+,"widag":{"h":[{"d":[{"s":["`misawidag~"],"e":["￹`Mala~`widag~`ay~ `kami~.￺We are friends.￻我們是朋友"],"f":"￹￺friend * a rather close acquaintance but not a close friend￻朋友，認識但不是親密的朋友"}]}],"t":"widag"}
+,"widawidan":{"h":[{"d":[{"s":["`minaro'an~"],"f":"￹￺rice heads * heads of grain￻稻穗"}]}],"t":"widawidan"}
+,"widi":{"h":[{"d":[{"f":"￹￺leeches￻水蛭"},{"s":["`toki~","`Ciwidian~"],"e":["￹`na~ `ko~ `widi~?￺What time is it?￻幾點鐘","￹`Tolo~ `ko~ `widi~.￺Three o'clock.￻三點鐘"],"f":"￹￺a clock * time￻時間"}]}],"t":"widi"}
+,"wigawig":{"h":[{"d":[{"f":"￹￺to wag one's tail￻搖擺尾巴"}]}],"t":"wigawig"}
+,"wihawih":{"h":[{"d":[{"s":["`pances~"],"f":"￹￺rubber of a ship￻船舵"},{"s":["`sawihawih~"],"f":"￹￺to move back and forth * as the large leaves of a banana tree￻前後擺動貌※如香蕉葉的搖動"}]}],"t":"wihawih"}
 ,"wikol":{"h":[{"d":[{"f":"￹￺tail￻尾巴"}]}],"t":"wikol"}
 ,"wikwik":{"h":[{"d":[{"f":"￹￺to weave baskets￻編竹籃"}]}],"t":"wikwik"}
-,"wilet":{"h":[{"d":[{"f":"￹￺to twist something literally￻字面上指扭擰東西，扭搓"},{"e":["￹`Aka~ `piwilet~ `to~ `sowal~ `ako~.￺Don't change my words to another meaning￻不要歪曲我的意思"],"f":"￹￺to twist * turn around the meaning￻扭曲，歪曲意義"}]}],"t":"wilet"}
-,"wina":{"h":[{"d":[{"l":["`ina~","`palawina~","`palawinaan~","`tawinaan~","`misawina~"],"f":"￹￺mother￻母親"}]}],"t":"wina"}
-,"wingawing":{"h":[{"d":[{"f":"￹￺to wag one's tail￻搖擺尾巴"}]}],"t":"wingawing"}
+,"wilet":{"h":[{"d":[{"f":"￹￺to twist something literally￻字面上指扭擰東西，扭搓"},{"e":["￹`Aka~ `pi~`wilet~ `to~ `sowal~ `ako~.￺Don't change my words to another meaning￻不要歪曲我的意思"],"f":"￹￺to twist * turn around the meaning￻扭曲，歪曲意義"}]}],"t":"wilet"}
+,"wina":{"h":[{"d":[{"s":["`ina~","`palawina~","`palawinaan~","`tawinaan~","`misawina~"],"f":"￹￺mother￻母親"}]}],"t":"wina"}
 ,"wisawisan":{"h":[{"d":[{"f":"￹￺overhanging grass eaves of a roof￻屋緣邊所垂下的茅草"}]}],"t":"wisawisan"}
 ,"witawit":{"h":[{"d":[{"f":"￹￺to hold or carry something in a dangling fashion￻提， 拿東西"},{"f":"￹￺to take something along with￻帶點東西不要空手去"}]}],"t":"witawit"}
-,"wiyawi%27":{"h":[{"d":[{"f":"￹￺manipulate * put in place * bring into line with where it is supposed to be￻操作，帶到應放置的線上"},{"l":["`ngohangoh~"],"f":"￹￺to move something till it comes loose * to wiggle￻搖動東西使輕易拔起"}]}],"t":"wiyawi'"}
+,"wiyawi%27":{"h":[{"d":[{"f":"￹￺manipulate * put in place * bring into line with where it is supposed to be￻操作，帶到應放置的線上"},{"s":["`gohagoh~"],"f":"￹￺to move something till it comes loose * to wiggle￻搖動東西使輕易拔起"}]}],"t":"wiyawi'"}
 }

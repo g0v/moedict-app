@@ -1,176 +1,176 @@
-{"ha":{"h":[{"d":[{"f":"￹￺a gremmatical particle￻文法上的用詞"},{"f":"￹￺a thing used or planned to accomplish a task￻事情或計劃完成的任務"},{"f":"￹￺a thing or action to be done, a planned activity￻即將完成(成就)的事情或行動(已經計劃就緒的活動)"},{"l":["`malo~"],"f":"￹￺a prefix used in the south on many words￻南部阿美語許多詞禍之前加上此字首"}]}],"t":"ha"}
-,"haca":{"h":[{"d":[{"l":["`hca~"],"f":"￹￺again * repeated activity￻再一次，重覆的行動"}]}],"t":"haca"}
-,"haccayen":{"h":[{"d":[{"l":["`ccay~"],"f":"￹￺do (something) to each one￻一件一件做…"}]}],"t":"haccayen"}
-,"hacikay":{"h":[{"d":[{"l":["`cikay~"],"f":"￹￺high speed * fast￻跑步的速度快"}]}],"t":"hacikay"}
-,"haciriwan":{"h":[{"d":[{"f":"￹￺eight crossings￻橫行八次"},{"l":["`Faliyol~"],"f":"￹￺name of an Amis village where eight crossings are made to arrive￻八里灣(from Japanese 引自日語)"}]}],"t":"haciriwan"}
-,"hacok":{"h":[{"d":[{"l":["`hacol~"],"f":"￹￺to draw water from a source￻從水源汲水"}]}],"t":"hacok"}
-,"hacol":{"h":[{"d":[{"e":["￹`hacol~ `no~ `kolong~￺cow milk￻牛奶","￹`hacol~ `no~ `ina~￺mother's milk￻母奶"],"f":"￹￺milk from any mammal￻奶水，乳汁"},{"f":"￹￺nectar from a flower￻花蜜"},{"l":["`radom~","`hacok~"],"f":"￹￺to draw water from a well￻從水井中汲水"},{"f":"￹￺to dip water from any source￻從任何水源中汲取用水，挑水，提水，擔水"}]}],"t":"hacol"}
-,"hacowa":{"h":[{"d":[{"e":["￹`Hacowa~ `ko~ `'aca~?￺How much does it cost?￻價錢多少？","￹`Ano~ `hacowa~ `cingra~ `a~ `tayni~?￺When is he coming?￻他什麼時候來？","￹`Ihacowa~ `ira~?￺When did he come?￻他什麼時候到？","￹`Hacowa~ `ko~ `fana'~ `nira~?￺How much does he know?￻他會多少？他有多少能力?"],"f":"￹￺how much? how many?￻多少，幾個，何時"},{"l":["`cowa~","`hakowa~"],"f":"￹￺indefinite amount￻不明確的數目"}]}],"t":"hacowa"}
-,"hadang":{"h":[{"d":[{"l":["`sangil~"],"f":"￹￺to be disturbed by noise￻被吵雜的聲音打擾(煩惱，厭煩)"}]}],"t":"hadang"}
-,"hadfek":{"h":[{"d":[{"l":["`tkop~"],"f":"￹￺to be wiped out * die * as from war or plague * with literal and figurative meaning￻消滅，由於戰爭或天災導致多數人死亡，一家人，一隊軍人一船人等凡各種單位的人羣全部死亡無生還者均可以用此字表示；字面及隱喻之意義均有"}]}],"t":"hadfek"}
+{"ha":{"h":[{"d":[{"f":"￹￺a gremmatical particle￻文法上的用詞"},{"f":"￹￺a thing used or planned to accomplish a task￻事情或計劃完成的任務"},{"f":"￹￺a thing or action to be done, a planned activity￻即將完成(成就)的事情或行動(已經計劃就緒的活動)"},{"s":["`malo~"],"f":"￹￺a prefix used in the south on many words￻南部阿美語許多詞禍之前加上此字首"}]}],"t":"ha"}
+,"haca":{"h":[{"d":[{"s":["`hca~"],"f":"￹￺again * repeated activity￻再一次，重覆的行動"}]}],"t":"haca"}
+,"haccayen":{"h":[{"d":[{"s":["`ccay~"],"f":"￹￺do (something) to each one￻一件一件做…"}]}],"t":"haccayen"}
+,"hacikay":{"h":[{"d":[{"s":["`cikay~"],"f":"￹￺high speed * fast￻跑步的速度快"}]}],"t":"hacikay"}
+,"haciriwan":{"h":[{"d":[{"f":"￹￺eight crossings￻橫行八次"},{"s":["`Faliyol~"],"f":"￹￺name of an Amis village where eight crossings are made to arrive￻八里灣(from Japanese 引自日語)"}]}],"t":"haciriwan"}
+,"hacok":{"h":[{"d":[{"s":["`hacol~"],"f":"￹￺to draw water from a source￻從水源汲水"}]}],"t":"hacok"}
+,"hacol":{"h":[{"d":[{"e":["￹`hacol~ `no~ `kolog~￺cow milk￻牛奶","￹`hacol~ `no~ `ina~￺mother's milk￻母奶"],"f":"￹￺milk from any mammal￻奶水，乳汁"},{"f":"￹￺nectar from a flower￻花蜜"},{"s":["`radom~","`hacok~"],"f":"￹￺to draw water from a well￻從水井中汲水"},{"f":"￹￺to dip water from any source￻從任何水源中汲取用水，挑水，提水，擔水"}]}],"t":"hacol"}
+,"hacowa":{"h":[{"d":[{"e":["￹`Hacowa~ `ko~ `'aca~?￺How much does it cost?￻價錢多少？","￹`Ano~ `hacowa~ `cigra~ `a~ `tayni~?￺When is he coming?￻他什麼時候來？","￹`Ihacowa~ `ira~?￺When did he come?￻他什麼時候到？","￹`Hacowa~ `ko~ `fana'~ `nira~?￺How much does he know?￻他會多少？他有多少能力?"],"f":"￹￺how much? how many?￻多少，幾個，何時"},{"s":["`cowa~","`hakowa~"],"f":"￹￺indefinite amount￻不明確的數目"}]}],"t":"hacowa"}
+,"hadag":{"h":[{"d":[{"s":["`gil~"],"f":"￹￺to be disturbed by noise￻被吵雜的聲音打擾(煩惱，厭煩)"}]}],"t":"hadag"}
+,"hadfek":{"h":[{"d":[{"s":["`tkop~"],"f":"￹￺to be wiped out * die * as from war or plague * with literal and figurative meaning￻消滅，由於戰爭或天災導致多數人死亡，一家人，一隊軍人一船人等凡各種單位的人羣全部死亡無生還者均可以用此字表示；字面及隱喻之意義均有"}]}],"t":"hadfek"}
 ,"hadhad":{"h":[{"d":[{"f":"￹￺dry farm land * land not flooded with water￻旱地，旱田，陸地"}]}],"t":"hadhad"}
-,"hadidi":{"h":[{"d":[{"l":["`hadi'di~"],"f":"￹￺patient * forbearing in the face of trouble * able to go through hardship * to continue without giving up￻忍耐，耐心，耐力；忍耐到底，不輕易放棄"}]}],"t":"hadidi"}
+,"hadidi":{"h":[{"d":[{"s":["`hadi'di~"],"f":"￹￺patient * forbearing in the face of trouble * able to go through hardship * to continue without giving up￻忍耐，耐心，耐力；忍耐到底，不輕易放棄"}]}],"t":"hadidi"}
 ,"hadimel":{"h":[{"d":[{"f":"￹￺to fix up nice * as to work up the ground * as to arrange furnishings in the home * to take care of personal appearance￻安置妥當，如耕田工作就緒、家庭佈置精緻、個人外表修飾美觀大方等"}]}],"t":"hadimel"}
 ,"hadokhok":{"h":[{"d":[{"f":"￹￺to cry from mixed emotions of memories * as when seeing someone you have not seen for a long time￻從記憶的複雜情緒所引起的飲泣，如見到久未謀面的親友而喜極而泣"}]}],"t":"hadokhok"}
-,"haen":{"h":[{"d":[{"e":["￹`Haenen~ `ko~ `dmak~.￺Do it like this.￻你要這樣做","￹`Mahaen~ `ko~ `sowal~. `nira~.￺That is what he said.￻他是這樣說的","￹`O~ `tatiihay~ `a~ `tamdaw~ `'i~ `kinahated~ `hanto~ `ao~ `tatiihay~ `ko~ `dmak~.￺An evil person persists in not changing his ways (literally: always the same) .￻任由惡人做壞事"],"f":"￹￺such as this * like this￻就是如此，像這樣"}]}],"t":"haen"}
-,"hafay":{"h":[{"d":[{"f":"￹￺millet￻小米"},{"l":["`lamlo~","`pahafay~","`cihafayay~"],"f":"￹￺staple food *the regular diet of the Amis years ago￻主要食物，早年阿美族的主要食物"}]}],"t":"hafay"}
+,"haen":{"h":[{"d":[{"e":["￹`Haenen~ `ko~ `dmak~.￺Do it like this.￻你要這樣做","￹`Ma~`haen~ `ko~ `sowal~. `nira~.￺That is what he said.￻他是這樣說的","￹`O~ `tatiih~`ay~ `a~ `tamdaw~ `'i~ `kinahated~ `hanto~ `ao~ `tatiih~`ay~ `ko~ `dmak~.￺An evil person persists in not changing his ways (literally: always the same) .￻任由惡人做壞事"],"f":"￹￺such as this * like this￻就是如此，像這樣"}]}],"t":"haen"}
+,"hafay":{"h":[{"d":[{"f":"￹￺millet￻小米"},{"s":["`lamlo~","`pahafay~","`cihafayay~"],"f":"￹￺staple food *the regular diet of the Amis years ago￻主要食物，早年阿美族的主要食物"}]}],"t":"hafay"}
 ,"haflot":{"h":[{"d":[{"f":"￹￺to be carried along by * as the wind carries things￻冲進，推進；捲，纏東西"}]}],"t":"haflot"}
-,"hafotingay":{"h":[{"d":[{"f":"￹￺a tree￻燈稱花(樹名)"}]}],"t":"hafotingay"}
-,"haftoy":{"h":[{"d":[{"l":["`'aftoy~"],"f":"￹￺calf of the leg￻小腿"}]}],"t":"haftoy"}
-,"haherher":{"h":[{"d":[{"l":["`samoro~"]},{"f":"￹￺Milk Three * Common Yellow Stem-fig￻稜果榕"}]}],"t":"haherher"}
+,"hafotigay":{"h":[{"d":[{"f":"￹￺a tree￻燈稱花(樹名)"}]}],"t":"hafotigay"}
+,"haftoy":{"h":[{"d":[{"s":["`'aftoy~"],"f":"￹￺calf of the leg￻小腿"}]}],"t":"haftoy"}
+,"haherher":{"h":[{"d":[{"s":["`samoro~"],"f":"￹￺Milk Three * Common Yellow Stem-fig￻稜果榕"}]}],"t":"haherher"}
 ,"hahidaw":{"h":[{"d":[{"f":"￹￺a cape wrap around￻胸披"}]}],"t":"hahidaw"}
-,"hai":{"h":[{"d":[{"f":"￹￺yes * that is right￻是，對"},{"e":["￹`Mihai~ `cingra~ `to~ `sowal~ `ita~.￺He agreed to what we said.￻他贊成我們說的話"],"f":"￹￺to agree￻贊成"}]}],"t":"hai"}
+,"hai":{"h":[{"d":[{"f":"￹￺yes * that is right￻是，對"},{"e":["￹`Mi~`hai~ `cigra~ `to~ `sowal~ `ita~.￺He agreed to what we said.￻他贊成我們說的話"],"f":"￹￺to agree￻贊成"}]}],"t":"hai"}
 ,"hakap":{"h":[{"d":[{"f":"￹￺to touch lightly * intending to find out the identity of an object￻觸摸，輕撫(以確定物體)"}]}],"t":"hakap"}
-,"hakeno":{"h":[{"d":[{"l":["`hayken~"]},{"f":"￹￺a statement that you do not know￻不知道"},{"e":["￹`Mihakeno~ `ci~ `Pitiro~ `ci~ `Yisan~.￺Peter denied Jesus / was evasive about his relationship.￻彼得否認耶穌"],"f":"￹￺to ex press noncommitment * to be evasive￻表示不承諾，迴避的託辭"}]}],"t":"hakeno"}
-,"hakhak":{"h":[{"d":[{"l":["`misahakhak~"],"f":"￹￺milled rice from falinono * a kind of rice used to make glutinous rice bread or feast rice￻糯米飯"}]}],"t":"hakhak"}
-,"haki-":{"h":[{"d":[{"e":["￹`Hakianini~ `kita~ `a~ `malawidang~.￺We will start now being friends.￻就從現在即成朋友"],"f":"￹￺a grammatical prefix indicating a starting point￻即從之意"}]}],"t":"haki-"}
+,"hakeno":{"h":[{"d":[{"f":"￹￺a statement that you do not know￻不知道"},{"s":["`hayken~"],"e":["￹`Mi~`hakeno~ `~ `tiro~ `~ `Yisan~.￺Peter denied Jesus / was evasive about his relationship.￻彼得否認耶穌"],"f":"￹￺to ex press noncommitment * to be evasive￻表示不承諾，迴避的託辭"}]}],"t":"hakeno"}
+,"hakhak":{"h":[{"d":[{"s":["`misahakhak~"],"f":"￹￺milled rice from falinono * a kind of rice used to make glutinous rice bread or feast rice￻糯米飯"}]}],"t":"hakhak"}
+,"haki-":{"h":[{"d":[{"e":["￹`Hakianini~ `kita~ `a~ `mala~`widag~.￺We will start now being friends.￻就從現在即成朋友"],"f":"￹￺a grammatical prefix indicating a starting point￻即從之意"}]}],"t":"haki-"}
 ,"hakini":{"h":[{"d":[{"f":"￹￺verbal question mark * indicates that the speaker is asking himself not someone else￻口頭上的疑問句，是說話的人向自己反問的用語，不是問別人"}]}],"t":"hakini"}
 ,"hakira":{"h":[{"d":[{"f":"￹￺verbal question mark * uncertainty expressed about a third party with a strong probability that the statement can be taken at face value￻口頭上的疑問句，是說話者向別人反問的用語"}]}],"t":"hakira"}
-,"hakitinien":{"h":[{"d":[{"l":["`itini~"],"f":"￹￺start here￻從這兒開始"}]}],"t":"hakitinien"}
-,"hakitira":{"h":[{"d":[{"l":["`itira~"],"f":"￹￺place to start from * starting there￻起點，從那邊開始(工作進行活動、行動等)；從那兒開始"}]}],"t":"hakitira"}
+,"hakitinien":{"h":[{"d":[{"s":["`itini~"],"f":"￹￺start here￻從這兒開始"}]}],"t":"hakitinien"}
+,"hakitira":{"h":[{"d":[{"s":["`itira~"],"f":"￹￺place to start from * starting there￻起點，從那邊開始(工作進行活動、行動等)；從那兒開始"}]}],"t":"hakitira"}
 ,"hakiya":{"h":[{"d":[{"f":"￹￺verbal question mark * meaning is less than obvious * provoking thought￻口頭上的疑問句，意義不明顯，引發思想"}]}],"t":"hakiya"}
-,"haklong":{"h":[{"d":[{"l":["`mapahaklong~"],"e":["￹`Malahaklong~ `kami~ `tatosa~.￺The two of us went together.￻我們兩個同行，我們倆相伴而行","￹`Cihaklong~ `kako~.￺I have someone to go with me.￻我有夥伴同行"],"f":"￹￺to go along with (literally)￻字面上是同行的意思"},{"e":["￹`Haklongen~ `ko~ `sowal~ `no~ `mama~ `ato~ `ina~.￺Obey your parents.￻要順從父母親的話"],"f":"￹￺to comply with * obey￻順從，服從"}]}],"t":"haklong"}
-,"hako":{"h":[{"d":[{"l":["`masahakoay~"],"f":"￹￺box (from Japanese)￻盒子，箱子(引自日語)"}]}],"t":"hako"}
-,"hakowa":{"h":[{"d":[{"e":["￹`Ano~ `hakowa~ `aira~?￺When will he come?￻他何時到達？他將什麼時候到達？","￹`Ihakowa~ `a~ `mafana'~ `kiso~?￺When did you know?￻你何時知道的？","￹`Caay~ `ka~ `kakowa~ `ko~ `payso~ `ako~.￺I don't have much money.￻我沒有很多錢"],"f":"￹￺how much? how many?￻幾個，多少，何時"},{"l":["`hacowa~"],"f":"￹￺an undetermined amount￻不定數"}]}],"t":"hakowa"}
-,"hala":{"h":[{"d":[{"l":["`pahala~"],"f":"￹￺a fish trap for catching fish carried by the current￻用捕魚工具在某處堵住, 以等待魚游來, 捕捉之"}]}],"t":"hala"}
+,"haklog":{"h":[{"d":[{"s":["`mapahaklog~"],"e":["￹`Mala~`haklog~ `kami~ `tatosa~.￺The two of us went together.￻我們兩個同行，我們倆相伴而行","￹`Ci~`haklog~ `kako~.￺I have someone to go with me.￻我有夥伴同行"],"f":"￹￺to go along with (literally)￻字面上是同行的意思"},{"e":["￹`Haklogen~ `ko~ `sowal~ `no~ `mama~ `ato~ `ina~.￺Obey your parents.￻要順從父母親的話"],"f":"￹￺to comply with * obey￻順從，服從"}]}],"t":"haklog"}
+,"hako":{"h":[{"d":[{"s":["`masahakoay~"],"f":"￹￺box (from Japanese)￻盒子，箱子(引自日語)"}]}],"t":"hako"}
+,"hakowa":{"h":[{"d":[{"e":["￹`Ano~ `hakowa~ `aira~?￺When will he come?￻他何時到達？他將什麼時候到達？","￹`Ihakowa~ `a~ `ma~`fana'~ `kiso~?￺When did you know?￻你何時知道的？","￹`Caay~ `ka~ `kowa~ `ko~ `payso~ `ako~.￺I don't have much money.￻我沒有很多錢"],"f":"￹￺how much? how many?￻幾個，多少，何時"},{"s":["`hacowa~"],"f":"￹￺an undetermined amount￻不定數"}]}],"t":"hakowa"}
+,"hala":{"h":[{"d":[{"s":["`pahala~"],"f":"￹￺a fish trap for catching fish carried by the current￻用捕魚工具在某處堵住, 以等待魚游來, 捕捉之"}]}],"t":"hala"}
 ,"halafin":{"h":[{"d":[{"f":"￹￺a long time * long period of time￻很久，長期"}]}],"t":"halafin"}
-,"halaka":{"h":[{"d":[{"e":["￹`Misahalaka~ `kita~ `to~ `sakatayraaw~.￺We are making plans to go.￻我們準備去，我們計劃要去","￹`o~ `nisahalakaan~￺plans that have been made￻已經計劃好的"],"f":"￹￺plan * make plans￻準備，預備，計劃"}]}],"t":"halaka"}
-,"halama":{"h":[{"d":[{"l":["`holol~"],"f":"￹￺Refer to `holol~￻詳見 `holol~"}]}],"t":"halama"}
+,"halaka":{"h":[{"d":[{"e":["￹`Misa~`halaka~ `kita~ `to~ `saka~`tayra~`aw~.￺We are making plans to go.￻我們準備去，我們計劃要去","￹`o~ `ni~`sahalaka~`an~￺plans that have been made￻已經計劃好的"],"f":"￹￺plan * make plans￻準備，預備，計劃"}]}],"t":"halaka"}
+,"halama":{"h":[{"d":[{"s":["`holol~"],"f":"￹￺Refer to `holol~￻詳見 `holol~"}]}],"t":"halama"}
 ,"halamham":{"h":[{"d":[{"f":"￹￺suspense * deep expectancy that someone or something is about to arrive￻期待, 企盼, 對某人的到來或某些事情的來臨深切期待"}]}],"t":"halamham"}
-,"hales":{"h":[{"d":[{"l":["`hades~"],"f":"￹￺an expression of reminder * you should know￻是啊！就是這樣啊！豈不是？可不是嗎？"}]}],"t":"hales"}
-,"halhal":{"h":[{"d":[{"f":"￹￺to welcome guests￻迎客"},{"e":["￹`Halhalen~ `nangra~ `kami~ `a~ `misalafang~ `to~ `tolo~ `a~ `romi'ad~.￺They entertained us as guests for three days.￻他們以貴賓似待我們三天"],"f":"￹￺to entertain guests with a meal￻宴客，接風"},{"l":["`hamham~"],"e":["￹`Pacakaten~ `ko~ `fayang~ `a~ `pahalhal~ `to~ `fali~.￺Raise the sail for the wind to catch.￻豎起帆子任風吹襲"],"f":"￹￺to wait for * expecting some one to give you something￻等待，期待某人給你東西"}]}],"t":"halhal"}
-,"hali-":{"h":[{"d":[{"e":["￹`Haliina~ `kako~.￺I love my mother.￻我愛我的母親","￹`Hali'pah~ `cingra~.￺He is addicted to the bottle.￻他嗜酒，他耽溺於酒瓶中之物"],"f":"￹￺prefix indicating an attachment to something or some activity￻前置詞附於某些東西或某些活動字彙之前"}]}],"t":"hali-"}
-,"haliacangay":{"h":[{"d":[{"f":"￹￺one given to carousing and pleasure￻沉迷於宴樂的人"}]}],"t":"haliacangay"}
-,"haliina":{"h":[{"d":[{"l":["`ina~"],"f":"￹￺to be attached to one's mother￻孝順母親"}]}],"t":"haliina"}
+,"hales":{"h":[{"d":[{"s":["`hades~"],"f":"￹￺an expression of reminder * you should know￻是啊！就是這樣啊！豈不是？可不是嗎？"}]}],"t":"hales"}
+,"halhal":{"h":[{"d":[{"f":"￹￺to welcome guests￻迎客"},{"e":["￹`Halhalen~ `nagra~ `kami~ `a~ `misa~`lafag~ `to~ `tolo~ `a~ `romi'ad~.￺They entertained us as guests for three days.￻他們以貴賓似待我們三天"],"f":"￹￺to entertain guests with a meal￻宴客，接風"},{"s":["`hamham~"],"e":["￹`Pa~`cakat~`en~ `ko~ `fayag~ `a~ `pa~`halhal~ `to~ `fali~.￺Raise the sail for the wind to catch.￻豎起帆子任風吹襲"],"f":"￹￺to wait for * expecting some one to give you something￻等待，期待某人給你東西"}]}],"t":"halhal"}
+,"hali-":{"h":[{"d":[{"e":["￹`Hali~`ina~ `kako~.￺I love my mother.￻我愛我的母親","￹`Hali~`'pah~ `cigra~.￺He is addicted to the bottle.￻他嗜酒，他耽溺於酒瓶中之物"],"f":"￹￺prefix indicating an attachment to something or some activity￻前置詞附於某些東西或某些活動字彙之前"}]}],"t":"hali-"}
+,"haliacagay":{"h":[{"d":[{"f":"￹￺one given to carousing and pleasure￻沉迷於宴樂的人"}]}],"t":"haliacagay"}
+,"haliina":{"h":[{"d":[{"s":["`ina~"],"f":"￹￺to be attached to one's mother￻孝順母親"}]}],"t":"haliina"}
 ,"haliloya":{"h":[{"d":[{"f":"￹￺hallelujah * praise God￻哈利路亞"},{"f":"￹￺a greeting of Christians￻讚美主之意，基督徒的問候語"}]}],"t":"haliloya"}
-,"halimama":{"h":[{"d":[{"l":["`mama~"],"f":"￹￺to be attached to one's father￻親附於父親"}]}],"t":"halimama"}
-,"halo":{"h":[{"d":[{"e":["￹`Tayra~ `cangra~. `Halo~ `ako~ `a~ `tayra~.￺They went. I also went.￻他們去，連我也去"],"f":"￹￺including * a connective introducing another related to what has gone before￻連, 包括, 包含, 甚至"}]}],"t":"halo"}
+,"halimama":{"h":[{"d":[{"s":["`mama~"],"f":"￹￺to be attached to one's father￻親附於父親"}]}],"t":"halimama"}
+,"halo":{"h":[{"d":[{"e":["￹`Tayra~ `cagra~. `Halo~ `ako~ `a~ `tayra~.￺They went. I also went.￻他們去，連我也去"],"f":"￹￺including * a connective introducing another related to what has gone before￻連, 包括, 包含, 甚至"}]}],"t":"halo"}
 ,"halodot":{"h":[{"d":[{"f":"￹￺to have a bad birth causing the mother's death￻難產而死"}]}],"t":"halodot"}
 ,"halofaw":{"h":[{"d":[{"f":"￹￺celery￻芹菜，野芹菜"}]}],"t":"halofaw"}
 ,"haloya":{"h":[{"d":[{"f":"￹￺See halo.  The difference between halo and haloya is that the second points to a specific something that has previously been referred to￻參閱 halo 。連那個…包括那…包含那…"}]}],"t":"haloya"}
 ,"hamdac":{"h":[{"d":[{"f":"￹￺to concentrate on only one food * not eating any other food like rice￻只吃菜不吃飯"}]}],"t":"hamdac"}
-,"hamham":{"h":[{"d":[{"l":["`halhal~"],"f":"￹￺to welcome guests￻迎客"},{"f":"￹￺to wait for with expectancy￻期待"}]}],"t":"hamham"}
-,"hamon":{"h":[{"d":[{"l":["`mikihamon~"],"f":"￹￺to not be specific * to have no specific desire or request￻參與"}]}],"t":"hamon"}
+,"hamham":{"h":[{"d":[{"s":["`halhal~"],"f":"￹￺to welcome guests￻迎客"},{"f":"￹￺to wait for with expectancy￻期待"}]}],"t":"hamham"}
+,"hamon":{"h":[{"d":[{"s":["`mikihamon~"],"f":"￹￺to not be specific * to have no specific desire or request￻參與"}]}],"t":"hamon"}
 ,"hamotod":{"h":[{"d":[{"f":"￹￺to take something lying around * to shop-lift * to steal￻順手牽羊"}]}],"t":"hamotod"}
 ,"han":{"h":[{"d":[{"f":"￹￺an untranslatable grammatical particle suffix, with a response agent type force￻無法翻譯的文法尾詞"},{"f":"￹￺a verbal quotation mark, see Appendix 1.￻命人(使人)重覆別人說的話或歌詞，見附錄Ⅰ"}]}],"t":"han"}
-,"hana":{"h":[{"d":[{"e":["￹`cihanaay~ `a~ `mowa~￺Roselle * Jamaica Sorrel * rosella￻洛神葵"],"f":"￹￺flower (from Japanese)￻花(引自日語)"}]}],"t":"hana"}
-,"hanakliw":{"h":[{"d":[{"f":"￹￺China Grass * Ramie from which cloth is made￻青苧麻，能製作布料"},{"l":["`kliw~","`hingliw~"],"f":"￹￺a wild plant similar to kliw but not used for making cloth￻野生植物，類似青苧麻，但不用來做衣料"}]}],"t":"hanakliw"}
+,"hana":{"h":[{"d":[{"e":["￹`ci~`hana~`ay~ `a~ `mowa~￺Roselle * Jamaica Sorrel * rosella￻洛神葵"],"f":"￹￺flower (from Japanese)￻花(引自日語)"}]}],"t":"hana"}
+,"hanaghag":{"h":[{"d":[{"f":"￹￺pain * a burning feeling￻疼痛，辛辣之痛"}]}],"t":"hanaghag"}
+,"hanakliw":{"h":[{"d":[{"f":"￹￺China Grass * Ramie from which cloth is made￻青苧麻，能製作布料"},{"s":["`kliw~","`higliw~"],"f":"￹￺a wild plant similar to kliw but not used for making cloth￻野生植物，類似青苧麻，但不用來做衣料"}]}],"t":"hanakliw"}
 ,"hananay":{"h":[{"d":[{"f":"￹￺so called * belonging to that class.  See Appendix 1.￻所謂，所成…的人或事，參閱附錄I代名詞"}]}],"t":"hananay"}
-,"hananghang":{"h":[{"d":[{"f":"￹￺pain * a burning feeling￻疼痛，辛辣之痛"}]}],"t":"hananghang"}
-,"hanaw":{"h":[{"d":[{"l":["`salaw~"],"f":"￹￺that's the reason (referring to what had been said to verify)￻那就是理由(依據口頭上說過的話)"}]}],"t":"hanaw"}
-,"hanhan":{"h":[{"d":[{"l":["`sla'~","`pahanhan~"],"f":"￹￺breath￻氣息，呼吸"}]}],"t":"hanhan"}
+,"hanaw":{"h":[{"d":[{"s":["`law~"],"f":"￹￺that's the reason (referring to what had been said to verify)￻那就是理由(依據口頭上說過的話)"}]}],"t":"hanaw"}
+,"hanhan":{"h":[{"d":[{"s":["`sla'~","`pa~`hanhan~"],"f":"￹￺breath￻氣息，呼吸"}]}],"t":"hanhan"}
 ,"hanho":{"h":[{"d":[{"f":"￹￺indicates that the action performed on someone or something is a temporary provision for a situation￻暫時擱置"},{"f":"￹￺a suffix particle￻接尾辭"}]}],"t":"hanho"}
+,"hanighig":{"h":[{"d":[{"f":"￹￺the smell of stool * bowel movement￻糞便臭味不斷襲人，臭味不斷"}]}],"t":"hanighig"}
 ,"hanima":{"h":[{"d":[{"f":"￹￺says who? * doubt expressed￻誰說的？懷疑的表現"},{"f":"￹￺you can expect it to turn out like that * expression of correction￻活該，誰叫你… 你能期待它轉變成正確的表現法"},{"f":"￹￺refers to past mistake of the hearer that explains the present situation￻依據聽者過去的錯誤，說明現在的情境"}]}],"t":"hanima"}
-,"haninghing":{"h":[{"d":[{"f":"￹￺the smell of stool * bowel movement￻糞便臭味不斷襲人，臭味不斷"}]}],"t":"haninghing"}
 ,"hanto":{"h":[{"d":[{"f":"￹￺has the same force as han with a punctiliar force.  See han and Appendix 1.￻與 han 有相同的意義，與原來相同不要改變。參閱 han 和附錄Ⅰ"}]}],"t":"hanto"}
-,"haop":{"h":[{"d":[{"e":["￹`Haop~ `han~ `nira~ `ko~ `tokos~.￺He took over the whole mountainside (farming).￻他佔領了整個山頭","￹`Mihaopay~ `ko~ `pikowan~ `no~ `Kawas~.￺God rules over all / expresses Himself in all His charater.￻上帝掌管一切"],"f":"￹￺all inclusive * to include everything￻把所有的東西總括起來"}]}],"t":"haop"}
-,"hapinang":{"h":[{"d":[{"l":["`pahapinang~"],"e":["￹`Pakahapinang~ `to~ `faloco'~ `ita~ `ko~ `Kawas~.￺God is able to discern our hearts.￻上帝能鑑別我們的心思意念","￹`Mahapinang~ `ko~ `kter~ `nira~.￺His anger is evident.￻看得出他很生氣"],"f":"￹￺clear * evident * definite￻清楚，明白，清細"}]}],"t":"hapinang"}
-,"hapric":{"h":[{"d":[{"l":["`soprit~"],"f":"￹￺to strip off grain from the stalk￻從五穀的穗軸上下撥弄將榖料剝落下來"}]}],"t":"hapric"}
-,"hara":{"h":[{"d":[{"l":["`'ili~"],"f":"￹￺the name of a species of fish￻岩鰍(台東)"}]}],"t":"hara"}
+,"haop":{"h":[{"d":[{"e":["￹`Haop~ `han~ `nira~ `ko~ `tokos~.￺He took over the whole mountainside (farming).￻他佔領了整個山頭","￹`Mi~`haop~`ay~ `ko~ `pi~`kowan~ `no~ `was~.￺God rules over all / expresses Himself in all His charater.￻上帝掌管一切"],"f":"￹￺all inclusive * to include everything￻把所有的東西總括起來"}]}],"t":"haop"}
+,"hapinag":{"h":[{"d":[{"s":["`pahapinag~"],"e":["￹`Paka~`hapinag~ `to~ `faloco'~ `ita~ `ko~ `was~.￺God is able to discern our hearts.￻上帝能鑑別我們的心思意念","￹`Ma~`hapinag~ `ko~ `kter~ `nira~.￺His anger is evident.￻看得出他很生氣"],"f":"￹￺clear * evident * definite￻清楚，明白，清細"}]}],"t":"hapinag"}
+,"hapric":{"h":[{"d":[{"s":["`soprit~"],"f":"￹￺to strip off grain from the stalk￻從五穀的穗軸上下撥弄將榖料剝落下來"}]}],"t":"hapric"}
+,"hara":{"h":[{"d":[{"s":["`'ili~"],"f":"￹￺the name of a species of fish￻岩鰍(台東)"}]}],"t":"hara"}
 ,"harakat":{"h":[{"d":[{"f":"￹￺quickly * the way something moves or activity gets underway￻快，迅速"}]}],"t":"harakat"}
 ,"harara":{"h":[{"d":[{"f":"￹￺to continually beg for something without giving up￻慢慢的"}]}],"t":"harara"}
-,"harateng":{"h":[{"d":[{"l":["`simsim~","`misaharateratengho~"],"e":["￹`Maharateng~ `nira~ `ko~ `sowal~ `ako~.￺He remembered what I said.￻他想到我的話","￹`Haratengen~ `ko~ `sowal~ `nira~.￺Don't forget; remember what he said.￻他是要我考慮(思考)什麼，要記住他的話","￹`O~ `papiharateng~ `nira~ `takowanan~ `to~ `so'linay~ `a~ `dmak~ `konini~.￺What he is doing is making me consider what I really ought to do.￻他是要我考慮(思想)什麼是我該做的","￹`nao~ `harateng~ `ako~ `'i~￺what I had thought was...￻我原來的想法是…","￹`harateng~ `sa~ `kako~￺I then thought... (response)￻我一直想…"],"f":"￹￺thoughts * thinking * point of view￻想法，思想"}]}],"t":"harateng"}
-,"harawan":{"h":[{"d":[{"l":["`Harawan~"],"f":"￹￺name of an Amis village￻玉里鎮樂合部落名"}]}],"t":"harawan"}
-,"hardo":{"h":[{"d":[{"l":["`'ardo~"],"f":"￹￺swamp grass * reeds * has stalks used for poles￻生長在沼澤地方的植物，蓆草"}]}],"t":"hardo"}
-,"harek":{"h":[{"d":[{"f":"￹￺to be finished * completed￻完了，完畢"},{"l":["`hrek~"],"f":"￹￺after something is done￻事完之後"}]}],"t":"harek"}
-,"harengheng":{"h":[{"d":[{"f":"￹￺the sound of waves or the sound of approaching vehicles or plane￻波浪聲音，汽車擦身而過的聲音"}]}],"t":"harengheng"}
-,"hata":{"h":[{"d":[{"l":["`fayfay~"],"f":"￹￺flag (from Japanese)￻旗幟，國旗(引自日語)"}]}],"t":"hata"}
+,"harateg":{"h":[{"d":[{"s":["`simsim~","`misaharaterategho~"],"e":["￹`Ma~`harateg~ `nira~ `ko~ `sowal~ `ako~.￺He remembered what I said.￻他想到我的話","￹`Harategen~ `ko~ `sowal~ `nira~.￺Don't forget; remember what he said.￻他是要我考慮(思考)什麼，要記住他的話","￹`O~ `papi~`harateg~ `nira~ `takowanan~ `to~ `so'lin~`ay~ `a~ `dmak~ `konini~.￺What he is doing is making me consider what I really ought to do.￻他是要我考慮(思想)什麼是我該做的","￹`nao~ `harateg~ `ako~ `'i~￺what I had thought was...￻我原來的想法是…","￹`harateg~ `~ `kako~￺I then thought... (response)￻我一直想…"],"f":"￹￺thoughts * thinking * point of view￻想法，思想"}]}],"t":"harateg"}
+,"harawan":{"h":[{"d":[{"s":["`Harawan~"],"f":"￹￺name of an Amis village￻玉里鎮樂合部落名"}]}],"t":"harawan"}
+,"hardo":{"h":[{"d":[{"s":["`'ardo~"],"f":"￹￺swamp grass * reeds * has stalks used for poles￻生長在沼澤地方的植物，蓆草"}]}],"t":"hardo"}
+,"haregheg":{"h":[{"d":[{"f":"￹￺the sound of waves or the sound of approaching vehicles or plane￻波浪聲音，汽車擦身而過的聲音"}]}],"t":"haregheg"}
+,"harek":{"h":[{"d":[{"f":"￹￺to be finished * completed￻完了，完畢"},{"s":["`hrek~"],"f":"￹￺after something is done￻事完之後"}]}],"t":"harek"}
+,"hata":{"h":[{"d":[{"s":["`fayfay~"],"f":"￹￺flag (from Japanese)￻旗幟，國旗(引自日語)"}]}],"t":"hata"}
 ,"hatatad":{"h":[{"d":[{"f":"￹￺to start out to do by oneself with others joining later￻與眾不同"}]}],"t":"hatatad"}
-,"hater":{"h":[{"d":[{"f":"￹￺to be silent * not answer￻安靜，不出聲"},{"l":["`pahater~"],"f":"￹￺to save part of a thing for someone￻用東西來保護某人身體的一部分"}]}],"t":"hater"}
+,"hater":{"h":[{"d":[{"f":"￹￺to be silent * not answer￻安靜，不出聲"},{"s":["`pahater~"],"f":"￹￺to save part of a thing for someone￻用東西來保護某人身體的一部分"}]}],"t":"hater"}
 ,"haterter":{"h":[{"d":[{"f":"￹￺bumpy * as a washboard road￻跌倒，屁股著地的現象"}]}],"t":"haterter"}
-,"hatfo":{"h":[{"d":[{"l":["`hitfo~"],"f":"￹￺to leap * jump from above￻跳下去，跳進，衝進，衝擊"}]}],"t":"hatfo"}
-,"hatini":{"h":[{"d":[{"e":["￹`Hatinien~ `ko~ `dmak~.￺Do it like this (standard) .￻要這樣做(標準)","￹`To~ `hatiniay~ `'i~, `awaay~ `ko~ `nanom~ `niyam~.￺All this time we have had no water.￻長久以來(從不知的過去一直到現在) 我們都缺水"],"f":"￹￺like this * the norm * the way something is done￻像這樣，就是這樣，做事的標準或準則"},{"l":["`matini~"],"e":["￹`ano~ `hatini~ / `imatini~.￺right now * present time￻現在，此刻，這時","￹`To~ `hatiniay~ `a~ `halafin~ `'i~￺All this time...￻一直到現在"],"f":"￹￺time word with particles attached￻附加字首後變成時間副詞"}]}],"t":"hatini"}
-,"hatiped":{"h":[{"d":[{"l":["`hatipod~"],"f":"￹￺to include along with something else being taken￻被一起帶走"}]}],"t":"hatiped"}
-,"hatira":{"h":[{"d":[{"l":["`matira~"],"f":"￹￺like that * state￻像那樣(狀態)"},{"e":["￹`ano~ `hatira~ `'i~￺in that case￻如果是那樣的話","￹`Hatiraen~ `ko~ `dmak~.￺Do it like that.￻要那樣做"],"f":"￹￺that standard￻那個標準"}]}],"t":"hatira"}
-,"hatiya":{"h":[{"d":[{"l":["`mikihatiya~"],"e":["￹`Hatiyaen~ `onini~ `a~ `dmak~￺Do it like this (standard) .￻做的要像這一樣"],"f":"￹￺compared with * even as￻正如，比較…"}]}],"t":"hatiya"}
+,"hatfo":{"h":[{"d":[{"s":["`hitfo~"],"f":"￹￺to leap * jump from above￻跳下去，跳進，衝進，衝擊"}]}],"t":"hatfo"}
+,"hatini":{"h":[{"d":[{"e":["￹`Hatinien~ `ko~ `dmak~.￺Do it like this (standard) .￻要這樣做(標準)","￹`To~ `hatini~`ay~ `'i~, `awa~`ay~ `ko~ `nanom~ `niyam~.￺All this time we have had no water.￻長久以來(從不知的過去一直到現在) 我們都缺水"],"f":"￹￺like this * the norm * the way something is done￻像這樣，就是這樣，做事的標準或準則"},{"s":["`matini~"],"e":["￹`ano~ `hatini~ / `imatini~.￺right now * present time￻現在，此刻，這時","￹`To~ `hatini~`ay~ `a~ `halafin~ `'i~￺All this time...￻一直到現在"],"f":"￹￺time word with particles attached￻附加字首後變成時間副詞"}]}],"t":"hatini"}
+,"hatiped":{"h":[{"d":[{"s":["`hatipod~"],"f":"￹￺to include along with something else being taken￻被一起帶走"}]}],"t":"hatiped"}
+,"hatira":{"h":[{"d":[{"s":["`matira~"],"f":"￹￺like that * state￻像那樣(狀態)"},{"e":["￹`ano~ `hatira~ `'i~￺in that case￻如果是那樣的話","￹`Hatiraen~ `ko~ `dmak~.￺Do it like that.￻要那樣做"],"f":"￹￺that standard￻那個標準"}]}],"t":"hatira"}
+,"hatiya":{"h":[{"d":[{"s":["`mikihatiya~"],"e":["￹`Hatiyaen~ `onini~ `a~ `dmak~￺Do it like this (standard) .￻做的要像這一樣"],"f":"￹￺compared with * even as￻正如，比較…"}]}],"t":"hatiya"}
 ,"hato":{"h":[{"d":[{"f":"￹￺to be as￻就像…"},{"f":"￹￺to appear as￻顯得，好像"}]}],"t":"hato"}
-,"hatotoan":{"h":[{"d":[{"l":["`Hatotoan~"],"f":"￹￺name of an Amis village￻海端鄉"}]}],"t":"hatotoan"}
+,"hatotoan":{"h":[{"d":[{"s":["`Hatotoan~"],"f":"￹￺name of an Amis village￻海端鄉"}]}],"t":"hatotoan"}
 ,"haw":{"h":[{"d":[{"f":"￹￺question particle * meaning is \"Is that okey?\"￻可以嗎？"},{"f":"￹￺exhortative particle￻告誡的詞"}]}],"t":"haw"}
-,"hawad":{"h":[{"d":[{"l":["`malahawad~","`sawad~"],"f":"￹￺to give up * quit￻停止，放棄"}]}],"t":"hawad"}
-,"hawang":{"h":[{"d":[{"f":"￹￺to step over￻跨步"},{"l":["`'awas~"],"f":"￹￺to stand with legs apart￻大開雙腳而立"}]}],"t":"hawang"}
+,"hawad":{"h":[{"d":[{"s":["`malahawad~","`sawad~"],"f":"￹￺to give up * quit￻停止，放棄"}]}],"t":"hawad"}
+,"hawag":{"h":[{"d":[{"f":"￹￺to step over￻跨步"},{"s":["`'awas~"],"f":"￹￺to stand with legs apart￻大開雙腳而立"}]}],"t":"hawag"}
 ,"hawhaw":{"h":[{"d":[{"f":"￹￺to whisper￻低聲而語，耳語"}]}],"t":"hawhaw"}
 ,"hawikid":{"h":[{"d":[{"f":"￹￺something taken along with * to take along something￻順便和…等東西一起帶走"}]}],"t":"hawikid"}
 ,"hayda":{"h":[{"d":[{"e":["￹`Haydaenho~.￺Don't stop yet.￻請持續不要停止"],"f":"￹￺consent * agree * allow * permit￻答應，同意，許可"}]}],"t":"hayda"}
-,"hca":{"h":[{"d":[{"l":["`haca~"],"f":"￹￺again * repeated activity￻再來，重來，重覆的行動"}]}],"t":"hca"}
-,"hcek":{"h":[{"d":[{"l":["`pahcek~"],"f":"￹￺a beam * large pieces of wood * post * wooden pillar￻柱，樁；柱，木樁"}]}],"t":"hcek"}
-,"hcep":{"h":[{"d":[{"l":["`pahcep~"],"f":"￹￺to soak up into itself liquid￻吸，吮"}]}],"t":"hcep"}
-,"hci":{"h":[{"d":[{"f":"￹￺fruit￻果實"},{"l":["`milahci~"],"e":["￹`Malahciayto~ `ko~ `dmak~ `ako~.￺My work is accomplished.￻我的工作已經完成","￹`Pahcien~ `ko~ `sowal~.￺Clarify what (you) are saying.￻你說什麼要講清楚","￹`Cihciay~ `ko~ `dmak~ `nira~.￺What he did has fruit / is lasting.￻他的事業(事情、工作)已經有了成果","￹`Adihay~ `ko~ `hci~ `no~ `panay~.￺The rice is heavy with grain.￻稻子結穗纍纍"],"f":"￹￺result￻結果"}]}],"t":"hci"}
-,"hcra":{"h":[{"d":[{"l":["`hicra~","`pahcraan~","`kahcraan~"],"f":"￹￺come down and touch the ground with bottom of feet￻腳著落處，由上落下著地之處"}]}],"t":"hcra"}
+,"hca":{"h":[{"d":[{"s":["`haca~"],"f":"￹￺again * repeated activity￻再來，重來，重覆的行動"}]}],"t":"hca"}
+,"hcek":{"h":[{"d":[{"s":["`pahcek~"],"f":"￹￺a beam * large pieces of wood * post * wooden pillar￻柱，樁；柱，木樁"}]}],"t":"hcek"}
+,"hcep":{"h":[{"d":[{"s":["`pahcep~"],"f":"￹￺to soak up into itself liquid￻吸，吮"}]}],"t":"hcep"}
+,"hci":{"h":[{"d":[{"f":"￹￺fruit￻果實"},{"s":["`milahci~"],"e":["￹`hciayto~ `ko~ `dmak~ `ako~.￺My work is accomplished.￻我的工作已經完成","￹`Pa~`hci~`en~ `ko~ `sowal~.￺Clarify what (you) are saying.￻你說什麼要講清楚","￹`Ci~`hci~`ay~ `ko~ `dmak~ `nira~.￺What he did has fruit / is lasting.￻他的事業(事情、工作)已經有了成果","￹`Adihay~ `ko~ `hci~ `no~ `panay~.￺The rice is heavy with grain.￻稻子結穗纍纍"],"f":"￹￺result￻結果"}]}],"t":"hci"}
+,"hcra":{"h":[{"d":[{"s":["`hicra~","`pahcraan~","`kahcraan~"],"f":"￹￺come down and touch the ground with bottom of feet￻腳著落處，由上落下著地之處"}]}],"t":"hcra"}
 ,"hdot":{"h":[{"d":[{"f":"￹￺to slurp or suck in (water or air)￻啜食，發出聲音之一飲一啜"}]}],"t":"hdot"}
+,"hegheg":{"h":[{"d":[{"f":"￹￺rough * heavy sea * as during a typhoon￻颱風期間浪濤澎湃洶湧的響聲，洶湧的海浪聲"}]}],"t":"hegheg"}
 ,"hemhem":{"h":[{"d":[{"f":"￹￺to let cool off * as rice after it has cooked￻飯煮後留未熄之炭慢慢冷卻"},{"f":"￹￺to wrap something around a baby to keep him warm￻用包布或其他東西包暖嬰孩"}]}],"t":"hemhem"}
-,"hengheng":{"h":[{"d":[{"f":"￹￺rough * heavy sea * as during a typhoon￻颱風期間浪濤澎湃洶湧的響聲，洶湧的海浪聲"}]}],"t":"hengheng"}
-,"hfong":{"h":[{"d":[{"e":["￹`Masahfohfong~ `ko~ `'ongcoy~.￺The rock is hollowed out.￻岩石凹陷","￹`Mipanay~ `cangra~ `i~ `hfongay~ `a~ `omah~.￺They were harvesting in a valley.￻他們在低窪之田地收割"],"f":"￹￺hollowed out place￻凹陷之地，坊洞，地窪之地"},{"f":"￹￺ditch * trench￻壕溝，畦溝，戰壕"}]}],"t":"hfong"}
+,"hfog":{"h":[{"d":[{"e":["￹`sahfohfog~ `ko~ `'ogcoy~.￺The rock is hollowed out.￻岩石凹陷","￹`Mi~`panay~ `cagra~ `i~ `hfog~`ay~ `a~ `omah~.￺They were harvesting in a valley.￻他們在低窪之田地收割"],"f":"￹￺hollowed out place￻凹陷之地，坊洞，地窪之地"},{"f":"￹￺ditch * trench￻壕溝，畦溝，戰壕"}]}],"t":"hfog"}
+,"hger":{"h":[{"d":[{"f":"￹￺tiresome with reference to activity￻穿孔，關於令人厭倦的活動"}]}],"t":"hger"}
 ,"hicay":{"h":[{"d":[{"f":"￹￺a fish * Long-finned Herring￻鰳魚"}]}],"t":"hicay"}
 ,"hicep":{"h":[{"d":[{"f":"￹￺to slurp water￻吸水"}]}],"t":"hicep"}
 ,"hicoci":{"h":[{"d":[{"f":"￹￺deacon, deaconess, church treasurer (from Japanese)￻男執事、女執事、教會會計 (引自日語)"}]}],"t":"hicoci"}
-,"hicra":{"h":[{"d":[{"f":"￹￺place to put your feet or vehicle￻目的地,到達之地"},{"l":["`tfo~","`kahicraan~"],"f":"￹￺to arrive at￻到達"}]}],"t":"hicra"}
-,"hifang":{"h":[{"d":[{"f":"￹￺to take a long rest * vacation￻休息，假日"}]}],"t":"hifang"}
+,"hicra":{"h":[{"d":[{"f":"￹￺place to put your feet or vehicle￻目的地,到達之地"},{"s":["`tfo~","`kahicraan~"],"f":"￹￺to arrive at￻到達"}]}],"t":"hicra"}
+,"hifag":{"h":[{"d":[{"f":"￹￺to take a long rest * vacation￻休息，假日"}]}],"t":"hifag"}
+,"higat":{"h":[{"d":[{"s":["`sigat~"],"f":"￹￺to wipe off one's bottom left over stool from a bowel movement￻屁股未擦乾淨，肛門還留有微些糞便"}]}],"t":"higat"}
+,"highig":{"h":[{"d":[{"f":"￹￺food provided on wedding day for the bride's uncles and relatives￻結婚時為新娘的伯舅及親戚而準備的食物(菜餚)"}]}],"t":"highig"}
+,"higway":{"h":[{"d":[{"s":["`dihway~"],"f":"￹￺too large to fit * clothing￻衣服太大不合身"}]}],"t":"higway"}
 ,"hikoki":{"h":[{"d":[{"f":"￹￺airplane (from Japanese)￻飛機(引自日語)"}]}],"t":"hikoki"}
 ,"hima":{"h":[{"d":[{"f":"￹￺to straighten out a situation with words of conciliation or comfort￻安慰，緩和，用和解與安慰的話緩和(弄直，整頓，矯正) …情況"}]}],"t":"hima"}
-,"himaw":{"h":[{"d":[{"l":["`simaw~"],"f":"￹￺to watch * supervise￻監視，照顧，看"}]}],"t":"himaw"}
-,"himed":{"h":[{"d":[{"l":["`simed~"],"f":"￹￺to hide things￻隱藏，藏東西"}]}],"t":"himed"}
+,"himaw":{"h":[{"d":[{"s":["`simaw~"],"f":"￹￺to watch * supervise￻監視，照顧，看"}]}],"t":"himaw"}
+,"himed":{"h":[{"d":[{"s":["`simed~"],"f":"￹￺to hide things￻隱藏，藏東西"}]}],"t":"himed"}
 ,"himrac":{"h":[{"d":[{"f":"￹￺to thresh out completely￻意謂著再三探討後獲得結論之意"}]}],"t":"himrac"}
-,"hina-":{"h":[{"d":[{"l":["`kina~-"],"f":"￹￺prefix meaning many times￻常常 (用於字首)"}]}],"t":"hina-"}
+,"hina-":{"h":[{"d":[{"s":["`kina~-"],"f":"￹￺prefix meaning many times￻常常 (用於字首)"}]}],"t":"hina-"}
 ,"hinac":{"h":[{"d":[{"f":"￹￺to have no luck in getting something * like fishing / hunting / getting an in-law￻落空…沒有得到，沒有獵獲(抓魚，打獵或結親時)"}]}],"t":"hinac"}
+,"hinag":{"h":[{"d":[{"s":["`sinag~"],"f":"￹￺blade * of a knife or machete or ax￻刀，刃，刀口"}]}],"t":"hinag"}
 ,"hinalomay":{"h":[{"d":[{"f":"￹￺an edible vegetable￻一種可食的蔬菜葉"}]}],"t":"hinalomay"}
 ,"hinam":{"h":[{"d":[{"f":"￹￺to go to look at * to see about a situation￻堪察，察看，尋找"}]}],"t":"hinam"}
-,"hinang":{"h":[{"d":[{"l":["`sinang~"],"f":"￹￺blade * of a knife or machete or ax￻刀，刃，刀口"}]}],"t":"hinang"}
 ,"hinapec":{"h":[{"d":[{"f":"￹￺doubt * not believe in or trust￻猶豫，不信，懷疑，擔心，憂心忡忡"}]}],"t":"hinapec"}
 ,"hinasolay":{"h":[{"d":[{"f":"￹￺an edible leafy vegetable￻一種可食之蔬菜葉"}]}],"t":"hinasolay"}
 ,"hinefa":{"h":[{"d":[{"f":"￹￺to prostrate oneself flat on the stomach￻趴著，趴於地上伏睡，伏地"}]}],"t":"hinefa"}
-,"hingat":{"h":[{"d":[{"l":["`singat~"],"f":"￹￺to wipe off one's bottom left over stool from a bowel movement￻屁股未擦乾淨，肛門還留有微些糞便"}]}],"t":"hingat"}
-,"hinghing":{"h":[{"d":[{"f":"￹￺food provided on wedding day for the bride's uncles and relatives￻結婚時為新娘的伯舅及親戚而準備的食物(菜餚)"}]}],"t":"hinghing"}
-,"hingway":{"h":[{"d":[{"l":["`dihway~"],"f":"￹￺too large to fit * clothing￻衣服太大不合身"}]}],"t":"hingway"}
-,"hining":{"h":[{"d":[{"f":"￹￺to look secretly * peek￻偷看，窺視"},{"l":["`nengneng~"],"f":"￹￺negneg. to look (Kwangfu)￻看，注視 (光復語)"}]}],"t":"hining"}
+,"hinig":{"h":[{"d":[{"f":"￹￺to look secretly * peek￻偷看，窺視"},{"s":["`negneg~"],"f":"￹￺negneg. to look (Kwangfu)￻看，注視 (光復語)"}]}],"t":"hinig"}
 ,"hinokop":{"h":[{"d":[{"f":"￹￺to prostrate oneself with forehead against the ground￻俯伏在地，倒下的，平伏的，仆倒的"}]}],"t":"hinokop"}
 ,"hinom":{"h":[{"d":[{"f":"￹￺to comfort * encourage * console￻安慰，鼓勵，慰問"}]}],"t":"hinom"}
 ,"hirahir":{"h":[{"d":[{"f":"￹￺a plant called Hau (Hibiscus iaceus)￻黃槿"}]}],"t":"hirahir"}
 ,"hitay":{"h":[{"d":[{"f":"￹￺soldiers (from Japanese)￻軍人(引自日語)"}]}],"t":"hitay"}
 ,"hiterter":{"h":[{"d":[{"f":"￹￺to land on one's buttocks￻由上而下掉下來屁股先著地"}]}],"t":"hiterter"}
-,"hitfo":{"h":[{"d":[{"l":["`hatfo~"],"f":"￹￺to leap * jump from above￻由上跳下來"}]}],"t":"hitfo"}
+,"hitfo":{"h":[{"d":[{"s":["`hatfo~"],"f":"￹￺to leap * jump from above￻由上跳下來"}]}],"t":"hitfo"}
 ,"hitroc":{"h":[{"d":[{"f":"￹￺to jump across a gap￻跨越壕溝"}]}],"t":"hitroc"}
-,"hiwatid":{"h":[{"d":[{"l":["`siwatid~"],"e":["￹`Mihawitid~ `cingra~.￺He separated himeself.￻他使自己孤立，他離開獨居","￹`Mahawitid~ `cingra~.￺He was not included.￻他被孤立，他不被包含在裡面"],"f":"￹￺to separate from the rest￻分離，獨單的，離群索居"}]}],"t":"hiwatid"}
+,"hiwatid":{"h":[{"d":[{"s":["`siwatid~"],"e":["￹`hawitid~ `cigra~.￺He separated himeself.￻他使自己孤立，他離開獨居","￹`hawitid~ `cigra~.￺He was not included.￻他被孤立，他不被包含在裡面"],"f":"￹￺to separate from the rest￻分離，獨單的，離群索居"}]}],"t":"hiwatid"}
 ,"hiya":{"h":[{"d":[{"f":"￹￺what-you-call-it * term given to something you can't think of the name for￻這個，那個，說話時忘了所要提的事物以 hiya 做代詞"}]}],"t":"hiya"}
 ,"hkakan":{"h":[{"d":[{"f":"￹￺to stoop * squat￻蹲，彎腰"}]}],"t":"hkakan"}
-,"hkal":{"h":[{"d":[{"l":["`talahkal~","`patalahkal~"],"e":["￹`Ihkal~ `ko~ `sowal~ `nira~.￺What he said was very clear.￻他的話言簡意賅。"],"f":"￹￺earth￻外面，地球，世界"}]}],"t":"hkal"}
+,"hkal":{"h":[{"d":[{"s":["`talahkal~","`patalahkal~"],"e":["￹`Ihkal~ `ko~ `sowal~ `nira~.￺What he said was very clear.￻他的話言簡意賅。"],"f":"￹￺earth￻外面，地球，世界"}]}],"t":"hkal"}
 ,"hlip":{"h":[{"d":[{"f":"￹￺to suck in as with a straw￻吸，用吸管吸取。"}]}],"t":"hlip"}
-,"hlong":{"h":[{"d":[{"l":["`slong~"],"f":"￹￺to take off * of clothing or adornments or harness￻脫，卸裝，卸掉甲胄。"}]}],"t":"hlong"}
+,"hlog":{"h":[{"d":[{"s":["`slog~"],"f":"￹￺to take off * of clothing or adornments or harness￻脫，卸裝，卸掉甲胄。"}]}],"t":"hlog"}
 ,"hmay":{"h":[{"d":[{"f":"￹￺cooked rice￻飯"}]}],"t":"hmay"}
-,"hmek":{"h":[{"d":[{"l":["`pahmek~","`kahmekan~"],"f":"￹￺to admire￻高興, 讚美"},{"f":"￹￺be happy with￻快樂"}]}],"t":"hmek"}
+,"hmek":{"h":[{"d":[{"s":["`pahmek~","`kahmekan~"],"f":"￹￺to admire￻高興, 讚美"},{"f":"￹￺be happy with￻快樂"}]}],"t":"hmek"}
 ,"hmot":{"h":[{"d":[{"f":"￹￺rectum * bottom￻屁股，臀部"}]}],"t":"hmot"}
 ,"hna":{"h":[{"d":[{"f":"￹￺an untranslatable particle serving to draw attention to the hearer￻不可轉譯的前置詞引聽者注意之詞"}]}],"t":"hna"}
 ,"hnek":{"h":[{"d":[{"f":"￹￺very good￻好，很好"}]}],"t":"hnek"}
 ,"hnek%20a%20sra":{"h":[{"d":[{"f":"￹￺fertile soil￻肥沃之土地，上選地"}]}],"t":"hnek a sra"}
-,"hnger":{"h":[{"d":[{"f":"￹￺tiresome with reference to activity￻穿孔，關於令人厭倦的活動"}]}],"t":"hnger"}
 ,"hnot":{"h":[{"d":[{"f":"￹￺to be stuck * as in mud￻泥濘，泥沼"}]}],"t":"hnot"}
 ,"hodac":{"h":[{"d":[{"f":"￹￺to rub till it shines￻磨到發亮"}]}],"t":"hodac"}
-,"hodhod":{"h":[{"d":[{"l":["`dawdaw~"],"f":"￹￺to dry with fire￻烘烤，烘乾，烘燒"}]}],"t":"hodhod"}
-,"hodoc":{"h":[{"d":[{"l":["`sodoc~"],"f":"￹￺to pull out * draw * as a sword￻拔掉，拔出(刀、劍等)"}]}],"t":"hodoc"}
-,"hofoc":{"h":[{"d":[{"l":["`sofoc~","`kahofocan~"],"f":"￹￺to give birth￻生產"}]}],"t":"hofoc"}
-,"hoing":{"h":[{"d":[{"f":"￹￺court (from Japanese)￻法院 (引自日語)"}]}],"t":"hoing"}
-,"hoka%27":{"h":[{"d":[{"e":["￹`mihoka'~ `to~ `faloco'~￺to open the heart * become more open-minded￻把心放鬆，心情放鬆"],"f":"￹￺to loosen something that was tight * as a belt￻鬆掉, 弄鬆"}]}],"t":"hoka'"}
+,"hodhod":{"h":[{"d":[{"s":["`dawdaw~"],"f":"￹￺to dry with fire￻烘烤，烘乾，烘燒"}]}],"t":"hodhod"}
+,"hodoc":{"h":[{"d":[{"s":["`sodoc~"],"f":"￹￺to pull out * draw * as a sword￻拔掉，拔出(刀、劍等)"}]}],"t":"hodoc"}
+,"hofoc":{"h":[{"d":[{"s":["`sofoc~","`kahofocan~"],"f":"￹￺to give birth￻生產"}]}],"t":"hofoc"}
+,"hogko":{"h":[{"d":[{"f":"￹￺separator of chaff from grain (from Amoy dialect)￻風谷機 (引自閩南語)"}]}],"t":"hogko"}
+,"hogti":{"h":[{"d":[{"s":["`kalahogtian~"],"f":"￹￺king * ruler (from Amoy dialect)￻國王，皇帝 (引自閩南語)"}]}],"t":"hogti"}
+,"hoig":{"h":[{"d":[{"f":"￹￺court (from Japanese)￻法院 (引自日語)"}]}],"t":"hoig"}
+,"hoka%27":{"h":[{"d":[{"e":["￹`mi~`hoka'~ `to~ `faloco'~￺to open the heart * become more open-minded￻把心放鬆，心情放鬆"],"f":"￹￺to loosen something that was tight * as a belt￻鬆掉, 弄鬆"}]}],"t":"hoka'"}
 ,"hokap":{"h":[{"d":[{"f":"￹￺to use hand as a dish for food￻用手抓魚"}]}],"t":"hokap"}
 ,"hokhok":{"h":[{"d":[{"f":"￹￺to do something secretly * as to lie in wait or to secretly tell something￻隱秘做些事，正如埋伏或密告"}]}],"t":"hokhok"}
 ,"holak":{"h":[{"d":[{"f":"￹￺to loosen * as a tight belt￻鬆解皮帶"}]}],"t":"holak"}
-,"holam":{"h":[{"d":[{"l":["`Holam~","`Kaping~","`Kwaping~","`Mingkok~"],"f":"￹￺China * Chinese￻中國人，軍人，中華民國"}]}],"t":"holam"}
+,"holam":{"h":[{"d":[{"s":["`Holam~","`Kapig~","`Kwapig~","`Migkok~"],"f":"￹￺China * Chinese￻中國人，軍人，中華民國"}]}],"t":"holam"}
 ,"holaymay":{"h":[{"d":[{"f":"￹￺term for common kind of rice grain (from Japanese)￻蓬萊米 (引自日語)"}]}],"t":"holaymay"}
-,"holo":{"h":[{"d":[{"l":["`'a'am~"],"f":"￹￺soft watery cooked rice￻稀飯、粥"},{"l":["`hmay~"],"f":"￹￺ordinary cooked rice￻飯"}]}],"t":"holo"}
-,"holol":{"h":[{"d":[{"l":["`salama~","`halama~","`'olid~"],"f":"￹￺to go visiting * relaxing￻訪問, 拜訪 放鬆"}]}],"t":"holol"}
-,"homong":{"h":[{"d":[{"f":"￹￺to visit someone to encourage (from Japanese)￻訪問、探訪、拜訪 (引自日語)"},{"f":"￹￺seaweed￻海生植物"}]}],"t":"homong"}
+,"holo":{"h":[{"d":[{"s":["`'a'am~"],"f":"￹￺soft watery cooked rice￻稀飯、粥"},{"s":["`hmay~"],"f":"￹￺ordinary cooked rice￻飯"}]}],"t":"holo"}
+,"holol":{"h":[{"d":[{"s":["`salama~","`halama~","`'olid~"],"f":"￹￺to go visiting * relaxing￻訪問, 拜訪 放鬆"}]}],"t":"holol"}
+,"homog":{"h":[{"d":[{"f":"￹￺to visit someone to encourage (from Japanese)￻訪問、探訪、拜訪 (引自日語)"},{"f":"￹￺seaweed￻海生植物"}]}],"t":"homog"}
 ,"homox":{"h":[{"d":[{"f":"￹￺smooth￻柔軟, 光滑"}]}],"t":"homox"}
-,"hongko":{"h":[{"d":[{"f":"￹￺separator of chaff from grain (from Amoy dialect)￻風谷機 (引自閩南語)"}]}],"t":"hongko"}
-,"hongti":{"h":[{"d":[{"l":["`kalahongtian~"],"f":"￹￺king * ruler (from Amoy dialect)￻國王，皇帝 (引自閩南語)"}]}],"t":"hongti"}
-,"honi":{"h":[{"d":[{"l":["`soni~"],"f":"￹￺sound￻聲音"},{"e":["￹`ano~ `honi~￺in a moment (future)￻待會兒，等一下","￹`ihoni~￺a few moments ago￻剛才","￹`honihoni~￺frequently￻常常，屢次地"],"f":"￹￺imminent time * in a moment￻緊急的，一會兒"}]}],"t":"honi"}
-,"hopac":{"h":[{"d":[{"l":["`sopac~"],"f":"￹￺to rub skin with soap and cloth in washing￻皮膚擦乾淨"}]}],"t":"hopac"}
+,"honi":{"h":[{"d":[{"s":["`soni~"],"f":"￹￺sound￻聲音"},{"e":["￹`ano~ `honi~￺in a moment (future)￻待會兒，等一下","￹`ihoni~￺a few moments ago￻剛才","￹`honi~`honi~￺frequently￻常常，屢次地"],"f":"￹￺imminent time * in a moment￻緊急的，一會兒"}]}],"t":"honi"}
+,"hopac":{"h":[{"d":[{"s":["`sopac~"],"f":"￹￺to rub skin with soap and cloth in washing￻皮膚擦乾淨"}]}],"t":"hopac"}
 ,"hopor":{"h":[{"d":[{"f":"￹￺crumbly soft dirt￻粉碎、粉末"}]}],"t":"hopor"}
-,"horac":{"h":[{"d":[{"f":"￹￺empty * hollow￻中空的、空虛的"},{"e":["￹`Malahorac~ `ko~ `faloco'~ `nangra~.￺Their hearts became empty.￻他們的心,虛空了"],"f":"￹￺no meaning￻無意義的，無聊的"}]}],"t":"horac"}
-,"horiyac":{"h":[{"d":[{"l":["`tahoriyac~"],"f":"￹￺to be slick￻滑"}]}],"t":"horiyac"}
+,"horac":{"h":[{"d":[{"f":"￹￺empty * hollow￻中空的、空虛的"},{"e":["￹`Mala~`horac~ `ko~ `faloco'~ `nagra~.￺Their hearts became empty.￻他們的心,虛空了"],"f":"￹￺no meaning￻無意義的，無聊的"}]}],"t":"horac"}
+,"horiyac":{"h":[{"d":[{"s":["`tahoriyac~"],"f":"￹￺to be slick￻滑"}]}],"t":"horiyac"}
 ,"horiyoc":{"h":[{"d":[{"f":"￹￺crooked * winding * as the coast line￻龍捲風，彎彎曲曲的 (如東海岸)"}]}],"t":"horiyoc"}
 ,"hotiso":{"h":[{"d":[{"f":"￹￺name of a water flower * Common Water Hyacinth (Eichhornia crassipes). an aquatic floating plant that migrates with running water (from Japanese)￻布袋蓮，浮萍 (引自日語)"}]}],"t":"hotiso"}
 ,"howad":{"h":[{"d":[{"f":"￹￺clams￻九孔"},{"f":"￹￺to lift up￻抬高、弄高、弄翻"}]}],"t":"howad"}
-,"howak":{"h":[{"d":[{"l":["`maimai~"]},{"e":["￹`howak~ `no~ `riyar~￺Wigeon￻赤頸鳧，水鳧"],"f":"￹￺ducks￻鴨"}]}],"t":"howak"}
+,"howak":{"h":[{"d":[{"s":["`maimai~"],"e":["￹`howak~ `no~ `riyar~￺Wigeon￻赤頸鳧，水鳧"],"f":"￹￺ducks￻鴨"}]}],"t":"howak"}
 ,"hpik":{"h":[{"d":[{"f":"￹￺to fold wings * as a bird folds its wings￻翅膀，交翼，如鳥翅膀"}]}],"t":"hpik"}
-,"hpol":{"h":[{"d":[{"f":"￹￺to drop off￻落下，掉下"},{"l":["`spol~"],"e":["￹`Mahpolto~ `ko~ `raraw~ `nira~.￺His sins are forgiven.￻他的罪已被赦免"],"f":"￹￺to forgive￻赦免"}]}],"t":"hpol"}
-,"hrek":{"h":[{"d":[{"f":"￹￺to be finished * completed￻完畢，結束，完成"},{"e":["￹`hrek~ `no~ `lahok~￺after the noon meal￻午飯後…，午後，下午","￹`Mapahrekto~ `ko~ `tayal~ `nira~.￺His work is finished.￻他的工作已經做完了","￹`I~ `pahrekan~ `no~ `tayal~ `nira~￺after his work is finished (time when)￻當他的工作完成之後","￹`Mapahrekto~ `ko~ `kter~ `no~ `Kawas~ `to~ `raraw~.￺God has been satisfied concerning sin (implying adequacy of Jesus' work).￻上帝的憤怒已中止了 (意指耶穌的工作)"],"f":"￹￺after something is done￻某事完成之後"}]}],"t":"hrek"}
-,"htec":{"h":[{"d":[{"e":["￹`mahtec~ `ko~ `tireng~￺to become skinny after being fat￻身體變瘦"],"f":"￹￺to squeese out * press out * as juice from fruit￻壓榨，擠壓，如壓榨果汁"}]}],"t":"htec"}
+,"hpol":{"h":[{"d":[{"f":"￹￺to drop off￻落下，掉下"},{"s":["`spol~"],"e":["￹`Ma~`hpol~`to~ `ko~ `raraw~ `nira~.￺His sins are forgiven.￻他的罪已被赦免"],"f":"￹￺to forgive￻赦免"}]}],"t":"hpol"}
+,"hrek":{"h":[{"d":[{"f":"￹￺to be finished * completed￻完畢，結束，完成"},{"e":["￹`hrek~ `no~ `lahok~￺after the noon meal￻午飯後…，午後，下午","￹`pahrekto~ `ko~ `tayal~ `nira~.￺His work is finished.￻他的工作已經做完了","￹`I~ `pa~`hrek~`an~ `no~ `tayal~ `nira~￺after his work is finished (time when)￻當他的工作完成之後","￹`pahrekto~ `ko~ `kter~ `no~ `was~ `to~ `raraw~.￺God has been satisfied concerning sin (implying adequacy of Jesus' work).￻上帝的憤怒已中止了 (意指耶穌的工作)"],"f":"￹￺after something is done￻某事完成之後"}]}],"t":"hrek"}
+,"htec":{"h":[{"d":[{"e":["￹`ma~`htec~ `ko~ `tireg~￺to become skinny after being fat￻身體變瘦"],"f":"￹￺to squeese out * press out * as juice from fruit￻壓榨，擠壓，如壓榨果汁"}]}],"t":"htec"}
 }
