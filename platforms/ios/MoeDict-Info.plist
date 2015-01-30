@@ -34,15 +34,21 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>icon-small</string>
-				<string>icon-40</string>
-				<string>icon-50</string>
-				<string>icon-76</string>
-				<string>icon-60</string>
-				<string>icon</string>
-				<string>icon@2x</string>
-				<string>icon-72</string>
-				<string>icon-72@2x</string>
+                                <string>icon-40.png</string>
+                                <string>icon-40@2x.png</string>
+                                <string>icon-50.png</string>
+                                <string>icon-50@2x.png</string>
+                                <string>icon-60.png</string>
+                                <string>icon-60@2x.png</string>
+                                <string>icon-60@3x.png</string>
+                                <string>icon-72.png</string>
+                                <string>icon-72@2x.png</string>
+                                <string>icon-76.png</string>
+                                <string>icon-76@2x.png</string>
+                                <string>icon-small.png</string>
+                                <string>icon-small@2x.png</string>
+                                <string>icon.png</string>
+                                <string>icon@2x.png</string>
 			</array>
 			<key>UIPrerenderedIcon</key>
 			<false/>
