@@ -1,0 +1,15 @@
+{"Ta%27man%20%3D%3E%20ta%27man":{"h":[{"d":[]}],"t":"Ta'man => ta'man"}
+,"Takay":{"h":[{"d":[{"l":["`takay~"],"f":"￹￺Refer to `takay~￻詳見 `takay~"}]}],"t":"Takay"}
+,"Takofan":{"h":[{"d":[{"l":["`takofan~"],"f":"￹￺Refer to `takofan~￻詳見 `takofan~"}]}],"t":"Takofan"}
+,"Takoliyaw":{"h":[{"d":[{"l":["`takoliyaw~"],"f":"￹￺Refer to `takoliyaw~￻詳見 `takoliyaw~"}]}],"t":"Takoliyaw"}
+,"Takomi":{"h":[{"d":[{"l":["`takomi~"],"f":"￹￺Refer to `takomi~￻詳見 `takomi~"}]}],"t":"Takomi"}
+,"Taloko":{"h":[{"d":[{"l":["`taloko~"],"f":"￹￺Refer to `taloko~￻詳見 `taloko~"}]}],"t":"Taloko"}
+,"Tamayan":{"h":[{"d":[{"l":["`tamayan~"],"f":"￹￺Refer to `tamayan~￻詳見 `tamayan~"}]}],"t":"Tamayan"}
+,"Tapowaray":{"h":[{"d":[{"l":["`tapowaray~"],"f":"￹￺Refer to `tapowaray~￻詳見 `tapowaray~"}]}],"t":"Tapowaray"}
+,"Tipod":{"h":[{"d":[{"l":["`tipod~"],"f":"￹￺Refer to `tipod~￻詳見 `tipod~"}]}],"t":"Tipod"}
+,"Tkatka":{"h":[{"d":[{"l":["`tkatka~"],"f":"￹￺Refer to `tkatka~￻詳見 `tkatka~"}]}],"t":"Tkatka"}
+,"Tofotofo":{"h":[{"d":[{"l":["`tkatka~"],"f":"￹￺Refer to `tkatka~￻詳見 `tkatka~"}]}],"t":"Tofotofo"}
+,"Tolampo":{"h":[{"d":[{"l":["`tolampo~"],"f":"￹￺Refer to `tolampo~￻詳見 `tolampo~"}]}],"t":"Tolampo"}
+,"Tongalen%20ko%20tayal.":{"h":[{"d":[{"f":"￹￺Do more work.￻工作要增加，做更多的工作"}]}],"t":"Tongalen ko tayal."}
+,"Towapon":{"h":[{"d":[{"l":["`towapon~"],"f":"￹￺Refer to `towapon~￻詳見 `towapon~"}]}],"t":"Towapon"}
+}

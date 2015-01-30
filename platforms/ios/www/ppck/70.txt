@@ -1,0 +1,4 @@
+{"Fahol":{"h":[{"d":[{"l":["`fahol~"],"f":"￹￺Refer to `fahol~￻詳見 `fahol~"}]}],"t":"Fahol"}
+,"Falangaw":{"h":[{"d":[{"l":["`falangaw~"],"f":"￹￺Refer to `falangaw~￻詳見 `falangaw~"}]}],"t":"Falangaw"}
+,"Fangcalay%20%27Adingo":{"h":[{"d":[{"f":"￹￺Holy Spirit * coined expression for￻聖靈"}]}],"t":"Fangcalay 'Adingo"}
+}

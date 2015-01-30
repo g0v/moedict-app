@@ -1,0 +1,296 @@
+{"fa%27det":{"h":[{"d":[{"f":"￹￺hot￻熱的，燙的"}]}],"t":"fa'det"}
+,"fa%27i":{"h":[{"d":[{"f":"￹￺aunt￻螞蟻"}]}],"t":"fa'i"}
+,"fa%27inay":{"h":[{"d":[{"e":["￹`O~ `fa'inay~ `ako~ `konini~.￺This is my husband￻這是我的丈夫"],"f":"￹￺husband￻丈夫"}]}],"t":"fa'inay"}
+,"fa%27inayan":{"h":[{"d":[{"f":"￹￺male￻雄的，男的"},{"e":["￹`Safa'ina'inayanen~ `ko~ `faloco'~ `iso~.￺Be courageous.￻你必須勇敢"],"f":"￹￺man * men￻男人"}]}],"t":"fa'inayan"}
+,"fa%27loh":{"h":[{"d":[{"e":["￹`Safa'~ `lohen~ `ko~ `faloco'~ `iso~.￺Renew your heart / make changes in your attitude.￻你的心要改變 / 你的態度需要改變","￹`Fa'lohay~ `ko~ `loma'~ `ako~.￺I have a new home.￻我的房子是新的/ 我有新房子","￹`Masafa'loh~ `ko~ `faloco'~ `ako~.￺My attitude has changed for the better.￻我的態度改變得比較好一點"],"f":"￹￺new￻新的"}]}],"t":"fa'loh"}
+,"fa%27not":{"h":[{"d":[{"f":"￹￺to molt * lose feathers or hair or fur * as animals do after winter￻脫毛如動物(飛禽走獸)冬天過後脫毛換季現象"}]}],"t":"fa'not"}
+,"fa%27owic":{"h":[{"d":[{"f":"￹￺to release by gravity * to tip the scales * as when putting a heavy weight on one end of a tetter totter and a lighter one on the other end￻彈起來，如蹺蹺板的一端放置重的物體，另一端放輕的東西時彈起來的現象"}]}],"t":"fa'owic"}
+,"faca%27":{"h":[{"d":[{"f":"￹￺to wash clothes￻洗滌，洗濯衣物"}]}],"t":"faca'"}
+,"facacido%27":{"h":[{"d":[{"f":"￹￺a dragonfly￻蜻蜓"}]}],"t":"facacido'"}
+,"facacnal":{"h":[{"d":[{"f":"￹￺a wasp￻黃蜂，胡蜂"}]}],"t":"facacnal"}
+,"facal":{"h":[{"d":[{"f":"￹￺one terraced section of a rice field * one rice paddy￻梯田，隔間之意"},{"l":["`rawang~","`riwang~"],"f":"￹￺a room of a house￻房間"}]}],"t":"facal"}
+,"facfac":{"h":[{"d":[{"f":"￹￺to hit * strike * as a child or a water buffalo￻打，抽打，如用樹枝抽打小孩或水牛"}]}],"t":"facfac"}
+,"facidol":{"h":[{"d":[{"f":"￹￺a large tree with large leaves and fruit that is like vegetable when cooked * the fruit of Bread Fruit * Jack Fruit￻麵包樹，波羅蜜"}]}],"t":"facidol"}
+,"facikcikay":{"h":[{"d":[{"f":"￹￺a species of bird * Bush warbler￻鳥名，短翅樹鶯"}]}],"t":"facikcikay"}
+,"faco":{"h":[{"d":[{"f":"￹￺form * appearance￻形式，外觀"},{"l":["`lalko~","`misafaco~"],"f":"￹￺pattern￻模式， 模型，款式，樣本"}]}],"t":"faco"}
+,"fadadico%27":{"h":[{"d":[{"l":["`fadadayaw~"],"f":"￹￺winged water bugs that fly over the surface of the water (Anax parthenope julius)￻長有翅膀飛行在水面的水棲昆蟲，青蚨"}]}],"t":"fadadico'"}
+,"fadahong":{"h":[{"d":[{"f":"￹￺roof￻屋頂"}]}],"t":"fadahong"}
+,"fadal":{"h":[{"d":[{"f":"￹￺a thorny brier plant￻有刺蔓藤，荊棘"}]}],"t":"fadal"}
+,"fadangalan":{"h":[{"d":[{"f":"￹￺upper arm from elbow to shoulder￻手臂，從肘到肩膀之間"}]}],"t":"fadangalan"}
+,"fadat":{"h":[{"d":[{"f":"￹￺East wind * hot and gentle￻東風，熱而溫和"}]}],"t":"fadat"}
+,"fadi%27":{"h":[{"d":[{"f":"￹￺withered * with literal and symbolic meanings￻枯萎的，含有字面上和象徵性的意義"}]}],"t":"fadi'"}
+,"fadic":{"h":[{"d":[{"f":"￹￺the surface￻表面，外表，表皮"},{"l":["`mifadic~"],"e":["￹`O~ `fadic~ `aca~ `ko~ `ma'araway~￺Only the surface is evident￻只看到表皮而已"],"f":"￹￺superficial * as contrasted with a deeper view of something￻表面的，如同對事物深一層的思解相比較時的膚淺"}]}],"t":"fadic"}
+,"fadihang":{"h":[{"d":[{"l":["`wadihang~"],"f":"￹￺echo￻回音，反響"}]}],"t":"fadihang"}
+,"fadil":{"h":[{"d":[{"l":["`likid~"],"f":"￹￺carried away by a stream￻流木，被水沖走的木頭"}]}],"t":"fadil"}
+,"fadisaw":{"h":[{"d":[{"l":["`misafadisaw~"],"f":"￹￺hot water￻開水"}]}],"t":"fadisaw"}
+,"fadisoso%27":{"h":[{"d":[{"l":["`misafadisoso'~","`pisafadisoso'an~"],"e":["￹`fadisoso'~ `a~ `'pah~￺wine￻葡萄酒"],"f":"￹￺grapes * grape vines￻葡萄"}]}],"t":"fadisoso'"}
+,"fadito":{"h":[{"d":[{"f":"￹￺aluminum￻鋁"}]}],"t":"fadito"}
+,"fadoc":{"h":[{"d":[{"f":"￹￺survivors * people that come out of some catastrophe or war￻天災或戰爭中倖存者"}]}],"t":"fadoc"}
+,"fadokos":{"h":[{"d":[{"l":["`fadokoy~"],"f":"￹￺boiled sweet potatoes with sugar added * used for a snack￻蕃薯湯，地瓜湯"}]}],"t":"fadokos"}
+,"fadowac":{"h":[{"d":[{"f":"￹￺ribs￻肋骨"}]}],"t":"fadowac"}
+,"faes":{"h":[{"d":[{"l":["`toron~"],"f":"￹￺sticky rice bread made from beating cooked glutinous rice with a pestle and molding it.￻糯米糕"}]}],"t":"faes"}
+,"fafa":{"h":[{"d":[{"f":"￹￺to carry a baby tied on one's back￻把小孩揹在背上，揹負"},{"f":"￹￺to piggy back ride￻騎在背上"}]}],"t":"fafa"}
+,"fafa%27ed":{"h":[{"d":[{"l":["`faled~","`kafkang~","`pasifafa'ed~"],"e":["￹`o~ `ifafa'eday~￺the things that are above￻在上面的(東西)"],"f":"￹￺above￻上面，上方"}]}],"t":"fafa'ed"}
+,"fafac":{"h":[{"d":[{"f":"￹￺a section of bamboo * distance between two joints￻竹竿節與節之間的距離"}]}],"t":"fafac"}
+,"fafahi":{"h":[{"d":[{"e":["￹`Pafafahien~ `cingra~.￺Get him a wife.￻給他娶妻"],"f":"￹￺wife￻妻子，夫人，太太，內人，女人，雌性"}]}],"t":"fafahi"}
+,"fafahian":{"h":[{"d":[{"f":"￹￺female￻雌性"},{"l":["`masafafahiananay~"],"f":"￹￺woman * women￻女人"}]}],"t":"fafahian"}
+,"fafaod":{"h":[{"d":[{"l":["`fafayoh~"],"f":"￹￺an edible vegetation * Thadiantha punotata￻可食植物名，長赤"}]}],"t":"fafaod"}
+,"fafaw":{"h":[{"d":[{"l":["`pasafafaw~"],"f":"￹￺headwaters * source of a river￻水源, 上游"},{"f":"￹￺leaders with higher rank￻上級(領導階層)"},{"f":"￹￺older * seniors￻前輩"}]}],"t":"fafaw"}
+,"fafayoh":{"h":[{"d":[{"f":"￹￺a wooly many-legged worm￻毛毛蟲"}]}],"t":"fafayoh"}
+,"fafikfik":{"h":[{"d":[{"f":"￹￺gecko￻壁虎"}]}],"t":"fafikfik"}
+,"faflin":{"h":[{"d":[{"l":["`misafafaflin~"],"f":"￹￺to turn over when lying down￻翻身"}]}],"t":"faflin"}
+,"fafokod":{"h":[{"d":[{"l":["`riri'~"],"f":"￹￺large grasshopper￻大蚱蜢 (綠色大型蚱蜢)"},{"f":"￹￺name of an Amis village￻台東縣東河村之名"}]}],"t":"fafokod"}
+,"fafonget":{"h":[{"d":[{"f":"￹￺the generic for gnats￻蚊蚋"}]}],"t":"fafonget"}
+,"fafoy":{"h":[{"d":[{"l":["`misafafoy~","`fafoyan~"],"e":["￹`fafoy~ `no~ `lotok~￺wild boar￻山豬"],"f":"￹￺pig￻豬"},{"l":["`diyong~"],"f":"￹￺wild boar￻山豬"}]}],"t":"fafoy"}
+,"fafoyan":{"h":[{"d":[{"l":["`fafoy~"],"f":"￹￺pigpen￻豬欄"}]}],"t":"fafoyan"}
+,"faha":{"h":[{"d":[{"l":["`faha'~","`koec~"],"f":"￹￺to cough￻咳嗽"}]}],"t":"faha"}
+,"fahal":{"h":[{"d":[{"e":["￹`kafahalan~ `a~ `tamdaw~￺a stranger￻陌生人","￹`kafahalan~ `a~ `dmak~￺something that came up suddenly without notice * unexpected￻意料之外的事情","￹`Talifahal~ `sa~ `ira~ `cingra~.￺He appeared suddenly * i.e. he appeared from nowhere.￻他突然出來"],"f":"￹￺strange * unexpected￻突然的，出於意外的，料不到的"}]}],"t":"fahal"}
+,"fahfah":{"h":[{"d":[{"f":"￹￺to drive out * referring usually to evil spirits￻驅逐(惡靈)，巫師行為時的用語"}]}],"t":"fahfah"}
+,"fahka%27":{"h":[{"d":[{"e":["￹`kafahka'an~ `a~ `dmak~￺something amazing * biblical term for a miracle￻令人驚奇的事情，聖經上指神蹟","￹`paka'araw~ `kako~ `'i~, `safahka'~ `sa~ `kako~.￺When I saw it I was amazed.￻我看到了以後非常驚訝"],"f":"￹￺surprise * amazement￻驚訝，驚異"}]}],"t":"fahka'"}
+,"fahkol":{"h":[{"d":[{"f":"￹￺to flip over * throw off * as to be be thrown off a bike￻丢棄，遺棄"}]}],"t":"fahkol"}
+,"faho":{"h":[{"d":[{"l":["`siyam~"],"f":"￹￺grass used to make thin bed mats￻蓆草"}]}],"t":"faho"}
+,"fahol":{"h":[{"d":[{"l":["`Fahol~"],"f":"￹￺name of an Amis village￻阿美族的地名(馬虎村)光復部落名"}]}],"t":"fahol"}
+,"fail":{"h":[{"d":[{"l":["`fadi'~"],"f":"￹￺to wilt * wither￻枯萎，凋謝"}]}],"t":"fail"}
+,"fakar":{"h":[{"d":[{"f":"￹￺large round multi-purpose basket * there are several shapes of fakar￻大型多用途竹籃"}]}],"t":"fakar"}
+,"fakciw":{"h":[{"d":[{"l":["`ditek~"],"f":"￹￺to measure * a meter-length measure￻測量，量長度的尺具"}]}],"t":"fakciw"}
+,"fakec":{"h":[{"d":[{"l":["`faked~","`safakec~","`safaked~"],"f":"￹￺to put a belt on￻繫腰帶"}]}],"t":"fakec"}
+,"faked":{"h":[{"d":[{"l":["`fakec~"],"f":"￹￺Refer to `fakec~￻詳見 `fakec~"}]}],"t":"faked"}
+,"faki":{"h":[{"d":[{"l":["`fakifaki~"],"f":"￹￺uncle * the authority figure in the home for giving instructions￻叔叔，舅舅，祖父，對年長男人之通稱，能教訓家族的權威人物"}]}],"t":"faki"}
+,"fakifaki":{"h":[{"d":[{"l":["`faki~"],"f":"￹￺the older men who offer counsel￻叔叔，舅舅們，對在座參會的長者的敬稱與稱呼"}]}],"t":"fakifaki"}
+,"fakloh":{"h":[{"d":[{"l":["`fokloh~"],"f":"￹￺Refer to `fokloh~￻詳見 `fokloh~"}]}],"t":"fakloh"}
+,"fakong":{"h":[{"d":[{"f":"￹￺name of a herb used on broken bones￻治骨折用藥草，螫蟹花"},{"f":"￹￺name of an Amis village￻花蓮縣豐濱部落之名"}]}],"t":"fakong"}
+,"faktaw":{"h":[{"d":[{"f":"￹￺instrument used by lumbermen to mark trees(from Amoy dialect)￻木匠用來正曲直的墨線(引自閩南語)"}]}],"t":"faktaw"}
+,"fala%27":{"h":[{"d":[{"f":"￹￺lungs￻肺臟"}]}],"t":"fala'"}
+,"fala%27fa":{"h":[{"d":[{"l":["`alaf'af~"],"f":"￹￺lukewarm￻微熱的，微溫的 (水)"}]}],"t":"fala'fa"}
+,"falah":{"h":[{"d":[{"l":["`pifalahan~","`kinafalah~"],"e":["￹`Ana~: `a~ `mafalah~ `no~ `Kawas~ `kako~.￺What if God should reject me?￻哦，危險！上帝或許會遺棄我"],"f":"￹￺to reject * throw away with literal and figurative meanings￻拒絕，丟掉，含字面上與寓意上的丟棄與拋擲的意義"}]}],"t":"falah"}
+,"falahodik":{"h":[{"d":[{"f":"￹￺lizard (Eumeces latiscitatus)￻蜥蜴"}]}],"t":"falahodik"}
+,"falahta":{"h":[{"d":[{"f":"￹￺a kind of mushroom￻蕈的一種(香菇)"}]}],"t":"falahta"}
+,"falako":{"h":[{"d":[{"f":"￹￺hide * dried animal skin used for clothing or other purposes￻皮革，用來做衣服暖身或其他目的的獸皮"}]}],"t":"falako"}
+,"falalotong":{"h":[{"d":[{"l":["`flalotong~"],"f":"￹￺spider￻蜘蛛"}]}],"t":"falalotong"}
+,"falangaw":{"h":[{"d":[{"l":["`Falangaw~"],"f":"￹￺name of an Amis village￻台東市馬蘭部落之名"}]}],"t":"falangaw"}
+,"falangfay":{"h":[{"d":[{"f":"￹￺to have light increase more and more￻光線越來越強，亮光愈來愈大，光度增加"}]}],"t":"falangfay"}
+,"falat":{"h":[{"d":[{"f":"￹￺crossbeam in a house￻房子的橫樑，橫放的"},{"e":["￹`masafalatay~ `a~ `fali~￺wind blowing straight across from the east￻東西向吹的風，橫吹的風","￹`Pafalaten~ `nira~ `ko~ `loma'~.￺He put up the crossbeams of the house.￻把他橫掛置於房屋上"],"f":"￹￺horizontal * as opposed to vertical￻垂直的相對，即水平，橫的"}]}],"t":"falat"}
+,"falatfat":{"h":[{"d":[{"f":"￹￺to twinkle￻閃爍，光彩"},{"f":"￹￺to glitter * blinking lights￻燦爛，光輝"}]}],"t":"falatfat"}
+,"falawfawan":{"h":[{"d":[{"f":"￹￺north wind￻北風"}]}],"t":"falawfawan"}
+,"fali":{"h":[{"d":[{"e":["￹`O~ `fali~ `ko~ `sowal~ `nira~.￺His words are useless.￻他的話沒有用，他的話不中用","￹`Palafalifali~ `han~ `nira~ `ko~ `sowal~ `ako~.￺He put to the wind / He didn't listen to what I said.￻他把我的話當做耳邊風，他不重視我的話"],"f":"￹￺wind￻風"},{"e":["￹`Pafalien~ `ko~ `ciyofo~.￺Put air in the inner tube.￻把內胎充氣"],"f":"￹￺air￻空氣"}]}],"t":"fali"}
+,"falic":{"h":[{"d":[{"e":["￹`Mafafalic~ `kita~ `to~ `tayal~.￺Let's take turns working.￻讓我們互換工作(對調)","￹`Falicen~ `ko~ `riko'~ `iso~.￺Change your clothes.￻請你換衣服","￹`Falicen~ `ko~ `payso~ `iso~.￺Change your money.￻請去換你的錢, 去找(換)你的錢吧！"],"f":"￹￺to change￻更換，交換"},{"f":"￹￺to revise￻調換，倒轉"},{"e":["￹`Falicen~ `ko~ `faloco'~.￺Repent.￻要悔改，改變心意"],"f":"￹￺a biblical term for repentance￻聖經上當悔改講"},{"e":["￹`Falicen~ `a~ `misano'Amis~ `ko~ `sowal~.￺Translate into Amis.￻翻譯成阿美話"],"f":"￹￺to translate￻翻譯"}]}],"t":"falic"}
+,"falid":{"h":[{"d":[{"f":"￹￺to drift on to the beach * to come to the surface￻漂到沙灘上，被水沖上岸"}]}],"t":"falid"}
+,"falidas":{"h":[{"d":[{"f":"￹￺a tree￻山棕"}]}],"t":"falidas"}
+,"falihnaw":{"h":[{"d":[{"f":"￹￺fear * panic * as from standing on a precipice￻驚恐的感覺，懼高症，如臨深淵的恐懼感"}]}],"t":"falihnaw"}
+,"falinono":{"h":[{"d":[{"f":"￹￺a species of rice plant￻糯米，水稻的一種"}]}],"t":"falinono"}
+,"faliwfiw":{"h":[{"d":[{"l":["`lafiwfiway~","`farsi'~"],"f":"￹￺Woody Ramie * a tree￻大苧麻"},{"f":"￹￺the sound of a gentle breeze￻風發出的沙沙聲"}]}],"t":"faliwfiw"}
+,"faliyos":{"h":[{"d":[{"f":"￹￺typhoon * monsoon winds and rain￻颱風"}]}],"t":"faliyos"}
+,"falo":{"h":[{"d":[{"f":"￹￺eight￻八"},{"l":["`cifalo~"],"f":"￹￺seed of a flower or plant￻花草的種子"}]}],"t":"falo"}
+,"faloco%27":{"h":[{"d":[{"l":["`kacifaloco'an~","`pafaloco'an~","`misafaloco'~"],"e":["￹`o~ `nga'ayay~ `a~ `faloco'~ `iso~￺your conscience￻你的良心","￹`Adada~ `ko~ `faloco'~ `ako~.￺1. My feelings are hurt.  2. I have heart pain.￻1. 我的心受創傷 2. 我有心臟病","￹`Safa'inayen~ `ko~ `faloco'~ `iso~.￺Be brave.￻你要勇敢，你要像男子漢(對懦弱者鼓勵的話)","￹`'Atkak~ `ko~ `faloco'~ `nira~.￺His heart is stubborn * resistant.￻他的心很硬，他很固執，他很頑固"],"f":"￹￺literal physical heart￻字面上指生理上或肉體上的心臟"},{"e":["￹`Falicen~ `ko~ `faloco'~ `iso~.￺Change your attitude.￻改變你的態度"],"f":"￹￺attitudes￻態度"},{"f":"￹￺personality￻人格"},{"f":"￹￺soul￻靈魂"},{"f":"￹￺character￻性格"}]}],"t":"faloco'"}
+,"falod":{"h":[{"d":[{"l":["`safalod~"],"f":"￹￺to bind * a bundle￻捆綁"}]}],"t":"falod"}
+,"falohang":{"h":[{"d":[{"f":"￹￺chest * anatomy of the body￻胸部，胸膛"}]}],"t":"falohang"}
+,"falotoy":{"h":[{"d":[{"f":"￹￺fat on the belly * middle aged spread￻腹部肥胖一般中年 人的模樣"}]}],"t":"falotoy"}
+,"fana%27":{"h":[{"d":[{"l":["`pakafana'~","`pasifana'~","`sifana'~","`misafana'~","`sakafana'ananay~"],"e":["￹`Kafana'anto~ `ko~ `dmak~ `nira~.￺What he does is known.￻他的所作所為盡人皆知，他做的行為已經被人知道，東窗事發","￹`O~ `samafana'ay~ `cingra~.￺He is the one who knows the most.￻他最聰明，他最瞭解","￹`o~ `pasifana'ay~￺teachers￻教導者，老師，教練，指導者"],"f":"￹￺generic term for knowledge * including understanding what is heard￻知識之一般用語，智慧，知道，包括聽聞而知的知識"}]}],"t":"fana'"}
+,"fanani%27ol":{"h":[{"d":[{"f":"￹￺tadpole * offspring of a frog￻蝌蚪，青蛙的幼蟲"}]}],"t":"fanani'ol"}
+,"fanaw":{"h":[{"d":[{"e":["￹`Masafanaway~ `ko~ `nanom~.￺Water is collected into a large puddle or pond.￻水成為湖，水成澤國"],"f":"￹￺lake * pond￻湖，水池，池塘"},{"f":"￹￺to wash articles of any kind (not cloth)￻衣類外所有盛器的清洗行為"},{"f":"￹￺name of Amis village￻台東縣池上鄉地名"}]}],"t":"fanaw"}
+,"fanetfet":{"h":[{"d":[{"f":"￹￺to be bound by having on too many clothes * unable to move properly￻衣服穿太多而行動不方便"}]}],"t":"fanetfet"}
+,"fangad":{"h":[{"d":[{"f":"￹￺to uproot * dig out something large that is practically immoveable with literal and figurative meanings￻連根拔起，含字面上和喻意上的連根拔起"}]}],"t":"fangad"}
+,"fangafang":{"h":[{"d":[{"f":"￹￺have a lot to do * be busy * be disturbed * distracted in work￻忙，繁忙"},{"f":"￹￺disturbance￻瑣事纏身，被攪亂，被擾亂"}]}],"t":"fangafang"}
+,"fangas":{"h":[{"d":[{"f":"￹￺name of a species of tree * China tree (Chinaberry tree)￻樹名，苦楝(苦林樹)"}]}],"t":"fangas"}
+,"fangaw":{"h":[{"d":[{"l":["`mafangaw~"],"f":"￹￺a bedbug * flying insect￻臭蟲"}]}],"t":"fangaw"}
+,"fangcal":{"h":[{"d":[{"e":["￹`misafangcal~ `to~ `faloco'~￺to make changes in attitude￻清心，改變態度(往好的方面)，修身養性","￹`misafangcal~ `to~ `dmak~￺to do work very well￻把事情做好"],"f":"￹￺very good * fine￻好，佳，優"},{"l":["`kapah~"],"e":["￹`misafangcal~ `to~ `loma'~￺to fix up the home very nice￻整修房屋"],"f":"￹￺beautiful * very nice￻漂亮，美麗，優美"},{"e":["￹`O~ `nisafangcalan~ `no~ `Kawas~ `kita~.￺God cleansed * purified us.￻上帝潔淨我們","￹`Mapalafangcal~ `nira~ `kako~.￺He made me good.￻他把我當作好人"],"f":"￹￺biblical usage - holy￻在聖經上指神聖，聖潔等"}]}],"t":"fangcal"}
+,"fanges":{"h":[{"d":[{"f":"￹￺skin￻皮膚"}]}],"t":"fanges"}
+,"fangfang":{"h":[{"d":[{"f":"￹￺loose fitting * of clothing￻衣服寬緩不緊"}]}],"t":"fangfang"}
+,"fangkoy":{"h":[{"d":[{"f":"￹￺a box for storing clothes (from Amoy dialect)￻放衣服的箱子(引自閩南語)"}]}],"t":"fangkoy"}
+,"fangsis":{"h":[{"d":[{"l":["`sapafangsis~"],"f":"￹￺sweet * fragrant smelling￻馨香，馥郁"}]}],"t":"fangsis"}
+,"fangta":{"h":[{"d":[{"f":"￹￺mosquito net￻蚊帳"},{"f":"￹￺boat sail￻船帆"},{"f":"￹￺window screen￻紗窗"}]}],"t":"fangta"}
+,"fangto":{"h":[{"d":[{"f":"￹￺the smell of a wet dog￻發霉的味道，濕狗的臭味"}]}],"t":"fangto"}
+,"faniw":{"h":[{"d":[{"f":"￹￺mushrooms￻菇，草菇，蘑菇"}]}],"t":"faniw"}
+,"faniyot":{"h":[{"d":[{"f":"￹￺a tiny island left in the midle￻留在中間的小部份"},{"f":"￹￺as a splotch￻污痕，污漬"},{"f":"￹￺brush left behind￻未刷的部分"},{"f":"￹￺uncut grain in a field that is harvested￻割稻時留在田地中未割的一小部分"},{"f":"￹￺a spot missed when painting￻畫畫時未著色的一小點"}]}],"t":"faniyot"}
+,"fanoh":{"h":[{"d":[{"l":["`safanohan~","`cifanoh~"],"f":"￹￺fur of animals￻動物的毛"}]}],"t":"fanoh"}
+,"fanohong":{"h":[{"d":[{"f":"￹￺the smell of salted meat￻醃肉的香味"}]}],"t":"fanohong"}
+,"fanol":{"h":[{"d":[{"l":["`topi~"],"f":"￹￺dove * pigeon Ashy Wood Pigeon￻鴿子，灰林鴿"}]}],"t":"fanol"}
+,"fao":{"h":[{"d":[{"f":"￹￺generic term for all of living things￻蟲類的總稱"},{"f":"￹￺insects * worms￻昆蟲"}]}],"t":"fao"}
+,"farasi%27":{"h":[{"d":[{"f":"￹￺to sprinkle ritually￻用口噴洒之儀式"},{"l":["`farsi'~"],"f":"￹￺to fish when fish are flooded by heavy rains￻下大雨後促成洪水或水災"}]}],"t":"farasi'"}
+,"farasiw":{"h":[{"d":[{"f":"￹￺to cut grass along the edge of a field￻砍田埂上的草"}]}],"t":"farasiw"}
+,"farawafaw":{"h":[{"d":[{"l":["`kafarawfawan~","`pafantangan~","`kalalood~"],"f":"￹￺mild weather￻溫和的天氣"}]}],"t":"farawafaw"}
+,"fariw":{"h":[{"d":[{"f":"￹￺to cut brush * to make a clearing in the wilderness￻砍曠野的灌木或叢林(開墾的第一道工作)"}]}],"t":"fariw"}
+,"faroro":{"h":[{"d":[{"l":["`takoyodan~"],"f":"￹￺a back pack for carrying food gathered￻籐製的籃筐，背簍，放食物的簍筐"}]}],"t":"faroro"}
+,"farsi%27":{"h":[{"d":[{"f":"￹￺to sprinkle ritually￻用口噴水之意"},{"l":["`farasi'~"],"f":"￹￺to fish when fish are flooded by heavy rains￻下大雨導致洪水或水災"}]}],"t":"farsi'"}
+,"farsiw":{"h":[{"d":[{"f":"￹￺to throw a stick or something similar at someone or something￻擲東西，扔東西"}]}],"t":"farsiw"}
+,"fasal":{"h":[{"d":[{"f":"￹￺intestinal worms￻蛔蟲"}]}],"t":"fasal"}
+,"fasaw":{"h":[{"d":[{"e":["￹`Mafasaw~ `ko~ `hmay~.￺The rice is cold.￻冷飯，飯是冷的，飯已冷卻","￹`Mafasawto~ `ko~ `kter~ `ako~.￺My anger is cooled off.￻我的氣已消了","￹`Mafasawto~ `ko~ `faloco'~ `ako~ `to~ `saki~ `cingraan~.￺My heart has grown cool towards him.￻我對他已沒有指望了，我對他沒有信心了"],"f":"￹￺cooled off￻冷却"}]}],"t":"fasaw"}
+,"fasfas":{"h":[{"d":[{"f":"￹￺to splash water out of a container * to sprinkle￻灑水"}]}],"t":"fasfas"}
+,"fasiyaw":{"h":[{"d":[{"f":"￹￺to make a breeze * as a fast moving car￻車快速通過所引起的微風"},{"f":"￹￺kite￻風箏"}]}],"t":"fasiyaw"}
+,"fasolan":{"h":[{"d":[{"f":"￹￺a reed mat used to lay grain or other food on outdoors for drying￻藤製品用來晒穀子或其他物品，草蓆"}]}],"t":"fasolan"}
+,"fata%27an":{"h":[{"d":[{"f":"￹￺name of a tree￻樹名"},{"f":"￹￺lentils * fruit of the tree used to make bean curd￻黃豆，可以用來做豆 漿"},{"f":"￹￺name of an Amis clan and village￻花蓮縣光復部落名"}]}],"t":"fata'an"}
+,"fatac":{"h":[{"d":[{"f":"￹￺the distance between two joints * as of a bamboo or a section of a limb of the body￻節，段，竹節與節之間的距離，腳踝與膝蓋之間的距離"}]}],"t":"fatac"}
+,"fatad":{"h":[{"d":[{"f":"￹￺somewhere between starting point and destination￻中途"},{"f":"￹￺to stop before finishing￻半途而廢，一件事或工作尚未完成即停止"}]}],"t":"fatad"}
+,"fataongi%27":{"h":[{"d":[{"l":["`talonged~"],"f":"￹￺wood ears * edible lichens￻木耳"}]}],"t":"fataongi'"}
+,"fatel":{"h":[{"d":[{"l":["`fakec~","`safatel~"],"f":"￹￺to put on a belt￻手環"}]}],"t":"fatel"}
+,"fateng":{"h":[{"d":[{"l":["`calay~"],"f":"￹￺spider web￻蜘蛛網"}]}],"t":"fateng"}
+,"fater":{"h":[{"d":[{"f":"￹￺to be hindered * stopped￻妨害，阻礙"}]}],"t":"fater"}
+,"fati":{"h":[{"d":[{"f":"￹￺a ring worn on finger￻戒指磨破手指頭"}]}],"t":"fati"}
+,"fati%27ian":{"h":[{"d":[{"l":["`makofati'ian~"],"f":"￹￺the side of one's body￻身體的兩側(尤指胸腹的兩邊)"},{"f":"￹￺alongside of￻並肩"}]}],"t":"fati'ian"}
+,"fatis":{"h":[{"d":[{"l":["`mifatis~","`pafatis~"],"f":"￹￺meat caught in a trap￻陷阱的"}]}],"t":"fatis"}
+,"fawa":{"h":[{"d":[{"f":"￹￺to help someone lift a load￻協助別人抬舉重荷扛到肩上"},{"f":"￹￺to help someone carry a load of concern￻扶持某人分攤重担(包含身心兩面)"}]}],"t":"fawa"}
+,"fawah":{"h":[{"d":[{"l":["`fawahan~"],"f":"￹￺to open * make a way before￻開，開路"}]}],"t":"fawah"}
+,"fawahan":{"h":[{"d":[{"l":["`fawah~"],"f":"￹￺entrance way￻門，進出口"}]}],"t":"fawahan"}
+,"fawfaw":{"h":[{"d":[{"e":["￹`Mafawfaw~ `ko~ `pinaro~ `no~ `paliding~.￺The load in the cart bounced out.￻裝在車上的貨物，被震亂"],"f":"￹￺to bounce out￻疊好或裝好的東西經一番震動而蓬鬆零亂或經人為的攪動(如疊好的衣被等)而零亂"}]}],"t":"fawfaw"}
+,"fayafayalan":{"h":[{"d":[{"l":["`fayal~","`fayalan~"],"f":"￹￺abode of those who committed suicide￻自殺的人居住的地方"}]}],"t":"fayafayalan"}
+,"fayal":{"h":[{"d":[{"l":["`fayafayalan~"],"f":"￹￺species of a tree * Brown-petiolated Fig￻楬柄榕"}]}],"t":"fayal"}
+,"fayalan":{"h":[{"d":[{"l":["`fayafayalan~"],"f":"￹￺Refer to `fayafayalan~￻詳見 `fayafayalan~"}]}],"t":"fayalan"}
+,"fayang":{"h":[{"d":[{"f":"￹￺screen-netting￻紗網"},{"f":"￹￺cloth for a sail￻帆布"},{"f":"￹￺cloth used in winnowing￻用於篩子的紗布"}]}],"t":"fayang"}
+,"faydoh":{"h":[{"d":[{"f":"￹￺kidney beans￻大豆(國外引進)"}]}],"t":"faydoh"}
+,"fayfay":{"h":[{"d":[{"l":["`hata~"],"f":"￹￺flag￻旗"},{"f":"￹￺sail of a ship￻船帆"},{"f":"￹￺mosquito net (Hualien)￻紋帳(花蓮話)"},{"l":["`fayang~"],"f":"￹￺screen stood up to keep grain from being blown away by the wind while harvesting￻收割時用紗網以防止打穀時穀物跳出容器之外"}]}],"t":"fayfay"}
+,"fayo%27":{"h":[{"d":[{"f":"￹￺to feel hot or dizzy from having chewed betel nut￻嚼檳榔後面紅耳赤"}]}],"t":"fayo'"}
+,"fcacido%27":{"h":[{"d":[{"f":"￹￺dragonfly￻蜻蜓"}]}],"t":"fcacido'"}
+,"fcak":{"h":[{"d":[{"e":["￹`Mafcak~ `ko~ `sra~.￺The ground is cracked.￻地裂開"],"f":"￹￺cracked * as from the sun￻破裂，裂開(因陽光照射導致泥土龜裂的現象)"}]}],"t":"fcak"}
+,"fcek":{"h":[{"d":[{"f":"￹￺to have a side ache * as after running￻運動劇烈時身體之兩側感到疼痛如跑步後之感覺"}]}],"t":"fcek"}
+,"fcol":{"h":[{"d":[{"f":"￹￺full * satisfied from eating￻飽，足，滿足"}]}],"t":"fcol"}
+,"fded":{"h":[{"d":[{"f":"￹￺to have a head cold * stopped up nose￻鼻塞"}]}],"t":"fded"}
+,"fdi%27":{"h":[{"d":[{"f":"￹￺for skin to be cracked along the side of the foot * as in winter working outdoors bare foot￻龜裂，凍傷"}]}],"t":"fdi'"}
+,"fdoh":{"h":[{"d":[{"f":"￹￺vegetables or potatoes that are old and full of holes￻地瓜或白蘿蔔生長在地上太久而使老化成空心"},{"f":"￹￺the white substance in succulent tree trunks like papaya￻樹幹有白色物體的液汁很像木瓜"}]}],"t":"fdoh"}
+,"fdol":{"h":[{"d":[{"f":"￹￺endema * to have fluids retained in one's flesh causing swelling￻腫，水腫，分泌液滯留在人體中導致身體的腫脹"}]}],"t":"fdol"}
+,"fedfed":{"h":[{"d":[{"f":"￹￺to be bound with a lot of string wrapped around￻綁緊，繩糾結在一團"},{"f":"￹￺a ball of string with a hollow center￻以軸為中心把線綁成線團(線球)"},{"f":"￹￺to smoke out mosquitoes￻薰趕蚊子"}]}],"t":"fedfed"}
+,"fenfenan":{"h":[{"d":[{"f":"￹￺the top of the head where skull bone can be pierced￻腦殼，頭蓋骨，頭頂中心部份"}]}],"t":"fenfenan"}
+,"ficin":{"h":[{"d":[{"l":["`ficing~"],"f":"￹￺Refer to `ficing~￻詳見 `ficing~"}]}],"t":"ficin"}
+,"ficing":{"h":[{"d":[{"l":["`ficin~"]},{"f":"￹￺a measure of rice (from Amoy dialect)￻量米之單位(一台斤)(引自閩南語)"}]}],"t":"ficing"}
+,"fickot":{"h":[{"d":[{"f":"￹￺to cramp * double up with pain * have a spasm * convulse￻抽筋，痙攣"}]}],"t":"fickot"}
+,"fida%27olaw":{"h":[{"d":[{"l":["`kamaya~"],"f":"￹￺Wooly-flowered persimmon tree￻軟毛柿，花蓮阿美稱 (kamaya)"}]}],"t":"fida'olaw"}
+,"fida%27ong":{"h":[{"d":[{"f":"￹￺a broken neck￻斷掉的脖子"},{"f":"￹￺a whiplash injury￻因受鞭打而搖晃"}]}],"t":"fida'ong"}
+,"fidac":{"h":[{"d":[{"f":"￹￺clams￻蛤，蚌"}]}],"t":"fidac"}
+,"fidang":{"h":[{"d":[{"f":"￹￺a section * as a section of an orange￻柚子或橘子的一瓣"}]}],"t":"fidang"}
+,"fidaol":{"h":[{"d":[{"f":"￹￺cucumber * Cucumis Melo Linn￻花瓜，胡瓜"},{"f":"￹￺honey dew melon￻甜瓜，香瓜"}]}],"t":"fidaol"}
+,"fidas":{"h":[{"d":[{"l":["`fodas~"],"f":"￹￺skin cracked * as from being in cold water￻皮膚病，白癬"}]}],"t":"fidas"}
+,"fidic":{"h":[{"d":[{"f":"￹￺a small part * one third or less￻杉木"}]}],"t":"fidic"}
+,"fidngal":{"h":[{"d":[{"l":["`fahdil~"],"f":"￹￺evergreen tree * fir * cedar * spruce￻樅樹，杉木，常綠樹，針樅樹"}]}],"t":"fidngal"}
+,"fihahak":{"h":[{"d":[{"f":"￹￺to leaven * yeast activity￻發酵，酵母菌的活動"}]}],"t":"fihahak"}
+,"fiher":{"h":[{"d":[{"f":"￹￺wooden wagon wheel￻車輪"}]}],"t":"fiher"}
+,"fihfih":{"h":[{"d":[{"e":["￹`Fihfihen~ `nira~ `ko~ `riko'~ `nira~.￺He waved his garment.￻他搖擺他的衣服"],"f":"￹￺to wave an object￻搖擺，搖曳"}]}],"t":"fihfih"}
+,"fihid":{"h":[{"d":[{"f":"￹￺a gland behind the ear * subject to swelling￻甲狀腺，淋巴腺"}]}],"t":"fihid"}
+,"fihkac":{"h":[{"d":[{"l":["`sapifihkac~"],"f":"￹￺to snare birds￻以陷阱捕獲鳥"}]}],"t":"fihkac"}
+,"fikfik":{"h":[{"d":[{"f":"￹￺to shake off * shake out of as of clothing￻把手猛搖使…物搖落"}]}],"t":"fikfik"}
+,"fila%27":{"h":[{"d":[{"f":"￹￺a leaf used to wrap betel nut for chewing * species of a plant￻檳榔葉，植物的一種"}]}],"t":"fila'"}
+,"filalonan":{"h":[{"d":[{"f":"￹￺a small water container of pottery with a narrow neck￻窄頸盛水器"}]}],"t":"filalonan"}
+,"filfil":{"h":[{"d":[{"f":"￹￺lips￻嘴唇"}]}],"t":"filfil"}
+,"filo":{"h":[{"d":[{"e":["￹`Mafilo~ `iso~ `konini~ `haw~?￺Is this thing possible by you? i.e. Can you do it?￻你能做這件事嗎？","￹`Pakafilo~ `kiso~ `tonini~ `a~ `dmak~?￺Are you able to do this?￻這事你能做嗎？你能勝任這個工作嗎？"],"f":"￹￺to be able * possible￻能，可以，勝任"}]}],"t":"filo"}
+,"filowa":{"h":[{"d":[{"f":"￹￺a basket container for grain or peanuts￻貯放稻穀或花生的籃簍，籃筐"}]}],"t":"filowa"}
+,"finacadan":{"h":[{"d":[{"l":["`kasafinacadan~"],"e":["￹`roma~ `a~ `finacadan~￺biblical term for Gentiles￻別族，聖經以此詞指外邦人"],"f":"￹￺race * group of people with common ancestry and language￻種族，種類"}]}],"t":"finacadan"}
+,"finawlan":{"h":[{"d":[{"f":"￹￺a community of people￻羣眾，民眾"},{"e":["￹`finawlan~ `no~ `kawas~￺God's people * saints.￻上帝的子民，上帝的聖民，上帝的選民","￹`Misafinawlan~ `ko~ `Pangcah~.￺Amis people do things as a large group.￻阿美族組成一個民族"],"f":"￹￺a crowd * large group of people￻群眾，民眾"}]}],"t":"finawlan"}
+,"fioho":{"h":[{"d":[{"l":["`Fioho~"],"f":"￹￺name of an Amis village￻台東縣東河鄉苗浦部落名"}]}],"t":"fioho"}
+,"firang":{"h":[{"d":[{"l":["`kter~"],"f":"￹￺anger￻脾氣，生氣，怒火上升"}]}],"t":"firang"}
+,"firo":{"h":[{"d":[{"e":["￹`safirofiro~ `sa~￺to look for a way out of a situation￻看起來很緊張的狀態"],"f":"￹￺to feel trapped￻感覺能勝任"}]}],"t":"firo"}
+,"firo%27ok":{"h":[{"d":[{"f":"￹￺a goiter￻甲狀腺"}]}],"t":"firo'ok"}
+,"fisac":{"h":[{"d":[{"f":"￹￺first born * first child￻長子"}]}],"t":"fisac"}
+,"fita%27o%27":{"h":[{"d":[{"e":["￹`masafita'o'ay~ `a~ `nanom~￺a puddle of water￻水池，小池塘"],"f":"￹￺a very small pond or large puddle￻小池子，廢水池"}]}],"t":"fita'o'"}
+,"fita%27ol":{"h":[{"d":[{"f":"￹￺egg￻蛋，卵"}]}],"t":"fita'ol"}
+,"fitangila":{"h":[{"d":[{"f":"￹￺a poisonous insect that enters the ear￻專鑽耳朵的有毒的昆蟲"}]}],"t":"fitangila"}
+,"fitay":{"h":[{"d":[{"l":["`safitay~"],"f":"￹￺to winnow￻篩子，篩選"}]}],"t":"fitay"}
+,"fiteki":{"h":[{"d":[{"f":"￹￺to be filled from eating grass￻牛羊等吃草動物的飽腹狀"}]}],"t":"fiteki"}
+,"fitili%27":{"h":[{"d":[{"f":"￹￺streaks of lightning￻雷電，閃電"}]}],"t":"fitili'"}
+,"fiting":{"h":[{"d":[{"l":["`pafitingen~","`nisafitingan~"],"f":"￹￺earrings￻耳環"}]}],"t":"fiting"}
+,"fitlak":{"h":[{"d":[{"f":"￹￺to split open * as flowers beginning to bloom￻破開，分開，劈開"},{"f":"￹￺to crack open as an egg when a chick hatches￻孵化"}]}],"t":"fitlak"}
+,"fitlok":{"h":[{"d":[{"f":"￹￺to have a distended belly￻膨脹(腹部)"}]}],"t":"fitlok"}
+,"fitoka":{"h":[{"d":[{"f":"￹￺stomach * place where food is digested￻胃臟"}]}],"t":"fitoka"}
+,"fitokol":{"h":[{"d":[{"f":"￹￺dried and bent over though still alive * as a misshaped tree￻膨脹，發脹"}]}],"t":"fitokol"}
+,"fitonay":{"h":[{"d":[{"f":"￹￺a thorny species of bamboo￻棘竹"},{"f":"￹￺the largest bamboo poles used as supports for a house￻最大種竹常用來建築房屋"}]}],"t":"fitonay"}
+,"fitro":{"h":[{"d":[{"f":"￹￺a bloated stomach￻腹部發脹，發脹"}]}],"t":"fitro"}
+,"fiwa%27":{"h":[{"d":[{"l":["`piwa'~"],"f":"￹￺a tree and fruit called loquats (from Japanese)￻枇杷(引自日語)"}]}],"t":"fiwa'"}
+,"fiwfiw":{"h":[{"d":[{"f":"￹￺the shrill sound of wind￻風吹之聲"}]}],"t":"fiwfiw"}
+,"fiyac":{"h":[{"d":[{"f":"￹￺to stretch limbs * extend after being folded￻四肢舒伸，伸展四肢"}]}],"t":"fiyac"}
+,"fiyal":{"h":[{"d":[{"f":"￹￺to be exhausted * no more endurance￻疲憊的，手很酸，疲憊無力，厭煩(對工作)"}]}],"t":"fiyal"}
+,"fiyaw":{"h":[{"d":[{"e":["￹`Malafiyaway~ `kami~.￺We are neighbors.￻我們是鄰居"],"f":"￹￺neighbors￻鄰居，鄰人，隔壁鄰居"}]}],"t":"fiyaw"}
+,"fiyok":{"h":[{"d":[{"e":["￹`Mafiyok~ `no~ `fali~ `ko~ `kafong~ `ako~.￺The wind blew off my hat.￻我的帽子被風吹掉了"],"f":"￹￺to blow * of the wind￻風吹，風突然吹來，驟急風之吹勢"}]}],"t":"fiyok"}
+,"fker":{"h":[{"d":[{"f":"￹￺to cramp * as a leg or neck￻發麻似抽筋，手腳或頸部麻木"}]}],"t":"fker"}
+,"fkot":{"h":[{"d":[{"e":["￹`Mafkot~ `ko~ `tireng~ `nira~ `a~ `mitolon~.￺He is bent prostrate praying.￻他彎下身體禱告"],"f":"￹￺to bend one's body * as to hump over double￻彎，屈"}]}],"t":"fkot"}
+,"flac":{"h":[{"d":[{"l":["`piflacan~"],"f":"￹￺milled rice grain￻米"}]}],"t":"flac"}
+,"flalac":{"h":[{"d":[{"l":["`folalac~"],"f":"￹￺quartz * clear semi-transparent rock￻石英，水晶"}]}],"t":"flalac"}
+,"flaloda%27":{"h":[{"d":[{"l":["`kaloda'ay~"],"f":"￹￺a lizard * gecko￻蜥蜴，四腳蛇"}]}],"t":"flaloda'"}
+,"flalonan":{"h":[{"d":[{"l":["`ciwkeng~"],"f":"￹￺water storage vessel￻水缸"}]}],"t":"flalonan"}
+,"flalotong":{"h":[{"d":[{"l":["`falalotong~"],"f":"￹￺a spider￻蜘蛛"}]}],"t":"flalotong"}
+,"flat":{"h":[{"d":[{"f":"￹￺to flicker * light appearing and then disappearing * as of a lighted match￻閃光，亮光容然閃亮"}]}],"t":"flat"}
+,"flay":{"h":[{"d":[{"l":["`maflay~"],"f":"￹￺to fall aprt * crumble as an earthen jar poorly made￻硬塊粉碎，破碎"}]}],"t":"flay"}
+,"flih":{"h":[{"d":[{"e":["￹`Mafaflih~ `ko~ `tilid~.￺The writing is side by side / or on each side of the page.￻印得顛三倒四","￹`Nengnengen~ `ko~ `flih~ `noya~ `payci~.￺Look at the other side of that coin.￻請看硬幣的反面"],"f":"￹￺opposite side￻反面"},{"f":"￹￺to oppose * turn around what has been done or said￻相對的，相反"},{"f":"￹￺a page of a book￻書頁"}]}],"t":"flih"}
+,"flin":{"h":[{"d":[{"f":"￹￺to turn over * upside down￻倒翻(如車、船等翻倒的慘劇)"},{"f":"￹￺to change sides as when sleeping￻睡覺時翻身"},{"f":"￹￺to oppose an activity or message￻反對等種活動或訊息"}]}],"t":"flin"}
+,"flot":{"h":[{"d":[{"f":"￹￺to leave suddenly without permission * as when disliking a command￻突然離去，離開，離棄，未經同意(許可)下突然離開"}]}],"t":"flot"}
+,"fo%27das":{"h":[{"d":[{"f":"￹￺dry skin from cold weather￻寒冷季節皮膚乾燥而脫白皮現象"}]}],"t":"fo'das"}
+,"fo%27is":{"h":[{"d":[{"f":"￹￺stars￻星星"},{"f":"￹￺badage of honor￻軍人或警員之徽章"}]}],"t":"fo'is"}
+,"fo%27not":{"h":[{"d":[{"f":"￹￺to uproot * to remove from the ground￻拔掉，連根拔起，拔"}]}],"t":"fo'not"}
+,"fo%27ot":{"h":[{"d":[{"f":"￹￺to hold back * keep from doing something or going somewhere￻拖住，拉住不放，留住"}]}],"t":"fo'ot"}
+,"focacing":{"h":[{"d":[{"f":"￹￺a betel nut that is not fully developed￻指檳榔樹開花結果的形容詞"}]}],"t":"focacing"}
+,"focingkay":{"h":[{"d":[{"f":"￹￺women's group in the church (from Japanese)￻婦女會(引自日語)"}]}],"t":"focingkay"}
+,"focirak":{"h":[{"d":[{"f":"￹￺to split apart flesh that has been slit open using fingers or instruments￻用手或器具剝開來看如眼睛被沙子刺傷，把眼睛剝開來看"}]}],"t":"focirak"}
+,"focod":{"h":[{"d":[{"l":["`cifocoday~"],"f":"￹￺unwed mother￻未婚媽媽"},{"f":"￹￺illegitimate child￻私生子女"},{"f":"￹￺young betel nut before it is mature￻晚熟的檳榔"}]}],"t":"focod"}
+,"focol":{"h":[{"d":[{"f":"￹￺quiver * sheath for arrows￻箭筒(袋)，箭鞘"}]}],"t":"focol"}
+,"fodas":{"h":[{"d":[{"l":["`fidas~"],"f":"￹￺skin of legs cracked * as from standing in water￻皮膚病、白癬、腳皮因久浸水而破裂的現象"}]}],"t":"fodas"}
+,"fodawan":{"h":[{"d":[{"f":"￹￺copper * brass￻銅"},{"l":["`tada'kim~"],"e":["￹`misafodawanay~ `a~ `tamdaw~￺a coppersmith￻金匠"],"f":"￹￺gold￻黃金"}]}],"t":"fodawan"}
+,"fodfod":{"h":[{"d":[{"f":"￹￺the village as a whole packing to leave * community forced to flee￻紛爭，戰亂"},{"l":["`fodifod~"],"f":"￹￺everything is in a mess￻紛亂，混亂，亂七八糟"}]}],"t":"fodfod"}
+,"fodifod":{"h":[{"d":[{"l":["`fodfod~"],"f":"￹￺Refer to `fodfod~￻詳見 `fodfod~"}]}],"t":"fodifod"}
+,"fodingaw":{"h":[{"d":[{"l":["`mosingaw~"],"f":"￹￺pale color of skin as when sick or fearful￻臉色蒼白(因病或恐懼)"}]}],"t":"fodingaw"}
+,"fodo%27":{"h":[{"d":[{"e":["￹`fodo'~ `a~ `fo'is~￺a bright shining star or planet￻閃爍的行星"],"f":"￹￺a white quartz rock￻石英"},{"f":"￹￺figuratively - a heavy downpour of rain￻比喻雨水傾盆而降"}]}],"t":"fodo'"}
+,"fodos":{"h":[{"d":[{"f":"￹￺a tree called Roxburgh sumac￻鹽膚木"}]}],"t":"fodos"}
+,"fofo":{"h":[{"d":[{"l":["`rakar~"],"f":"￹￺a fish trap for catching fish and crabs in rivers￻捕魚籠，魚筐"},{"f":"￹￺grandchild / grand parent￻子孫，祖父之稱"}]}],"t":"fofo"}
+,"fohad":{"h":[{"d":[{"f":"￹￺to move * turn over something large￻驅散，挖開"},{"f":"￹￺for an animal that is sleeping to suddenly be aroused * he runs away￻動物睡覺或棲息突然被驚嚇而作鳥獸散開的現象"}]}],"t":"fohad"}
+,"fohafoh":{"h":[{"d":[{"f":"￹￺to chase away animals * as when chickens are eating drying rice￻驅逐(散)動物，如趕走正在吃米的雞"}]}],"t":"fohafoh"}
+,"fohang":{"h":[{"d":[{"f":"￹￺a large hole￻大洞"}]}],"t":"fohang"}
+,"fohat":{"h":[{"d":[{"e":["￹`Mafohat~ `ko~ `faloco'~ `ako~.￺My heart is open.￻心門開了"],"f":"￹￺to open * of smaller items￻開"},{"l":["`kafohatan~"],"f":"￹￺to uncover￻打開"}]}],"t":"fohat"}
+,"fohcacay":{"h":[{"d":[{"f":"￹￺Fingered Citron * a tree and its fruit￻佛手相(果樹名)"}]}],"t":"fohcacay"}
+,"fohcalay":{"h":[{"d":[{"f":"￹￺a species of fish * minnow-sized￻一種特別的魚"}]}],"t":"fohcalay"}
+,"fohci":{"h":[{"d":[{"f":"￹￺to shell out the insides of as a peanut￻剝皮, 去皮"},{"f":"￹￺to explain￻說明"}]}],"t":"fohci"}
+,"fohet":{"h":[{"d":[{"f":"￹￺a squirrel￻松鼠"}]}],"t":"fohet"}
+,"fohid":{"h":[{"d":[{"f":"￹￺a dried up betel nut￻已老的檳榔"}]}],"t":"fohid"}
+,"fohok":{"h":[{"d":[{"l":["`tikas~"],"f":"￹￺sterile soil￻不肥沃之地，常年種植而貧脊之地"}]}],"t":"fohok"}
+,"fokafok":{"h":[{"d":[{"f":"￹￺heavy choppy sea * no white caps￻波浪起伏的樣子"}]}],"t":"fokafok"}
+,"fokaw":{"h":[{"d":[{"l":["`siking~"],"f":"￹￺Common Tree Fern (Cyathe a lepifera) part of the top is edible.￻筆筒樹"}]}],"t":"fokaw"}
+,"fokes":{"h":[{"d":[{"f":"￹￺hair of the head￻頭髮"}]}],"t":"fokes"}
+,"fokil":{"h":[{"d":[{"f":"￹￺ignorance * be ignorant * not know￻不會，不知道"},{"l":["`kafokilan~","`misafokifokil~","`misatalifokil~"],"f":"￹￺not understand￻不瞭解"}]}],"t":"fokil"}
+,"fokloh":{"h":[{"d":[{"l":["`fakloh~"],"f":"￹￺stone * rock * smaller type￻石頭"}]}],"t":"fokloh"}
+,"fokong":{"h":[{"d":[{"f":"￹￺name of a species of fish￻一種特別的魚"}]}],"t":"fokong"}
+,"foksi":{"h":[{"d":[{"f":"￹￺pastor * ordained minister (from Japanese)￻牧師(引自日語)"}]}],"t":"foksi"}
+,"fola":{"h":[{"d":[{"f":"￹￺to be stupid * without native intelligence￻愚笨，無天賦才能"},{"f":"￹￺to be under par in intelligence￻不太聰明"},{"e":["￹`Misafola~ `to~ `fafahi~ `no~ `tao~ `cingra~.￺He committed a sexual act against the wife of another.￻他調戲別人的妻子"],"f":"￹￺to do something stupid￻做愚蠢的事，做傻事"}]}],"t":"fola"}
+,"folad":{"h":[{"d":[{"f":"￹￺moon￻月球"},{"e":["￹`Masafolad~ `ko~ `nika~ `awa~ `nira~.￺He has been gone a month.￻他已有一個月不在","￹`saka~ `ccay~ `a~ `folad~￺January￻一月，第一個月，元月","￹`saka~ `mo'tep~ `a~ `folad~￺October￻十月，第十個月"],"f":"￹￺month￻月"},{"f":"￹￺menstruation cycle￻月經"}]}],"t":"folad"}
+,"folalac":{"h":[{"d":[{"f":"￹￺a quartz type rock that can be seen through￻石英"}]}],"t":"folalac"}
+,"folang":{"h":[{"d":[{"e":["￹`Talafolang~ `sa~ `ko~ `ngoyos~ `nira~.￺He foamed at the mouth.￻形容講演者口沫橫飛"],"f":"￹￺foam￻泡沫"}]}],"t":"folang"}
+,"folaw":{"h":[{"d":[{"l":["`mifolaw~","`mapakafolaw~","`mafolaw~"],"f":"￹￺to fight * war against causing the community to leave￻戰爭，打仗"}]}],"t":"folaw"}
+,"foldi":{"h":[{"d":[{"f":"￹￺a tree￻台灣櫸"}]}],"t":"foldi"}
+,"foles":{"h":[{"d":[{"f":"￹￺a plant called Chinese toona * Chinese mahogany￻香樁"}]}],"t":"foles"}
+,"folfol":{"h":[{"d":[{"f":"￹￺to break into small pieces￻粉碎成小塊"},{"f":"￹￺to crumble￻破碎，分解"}]}],"t":"folfol"}
+,"folkok":{"h":[{"d":[{"l":["`folokok~"],"f":"￹￺to threaten * cause to be afraid￻恐懼，威脅"},{"f":"￹￺to frighten * take off guard￻嚇得失魂落魄"},{"f":"￹￺to suddenly be angry￻突然發怒"}]}],"t":"folkok"}
+,"folo%27":{"h":[{"d":[{"f":"￹￺a species of bamboo that makes very small poles￻箭竹，包籜天竹"}]}],"t":"folo'"}
+,"folod":{"h":[{"d":[{"f":"￹￺to do or go together￻一起走，一起工作"}]}],"t":"folod"}
+,"folokok":{"h":[{"d":[{"l":["`folkok~"],"f":"￹￺to threaten * cause to be afraid￻恐嚇，威脅"},{"f":"￹￺to frighten * take off guard￻驚嚇得失去鎮定"},{"f":"￹￺to scare a person￻嚇唬人"},{"f":"￹￺chickens fighting￻鬥雞"}]}],"t":"folokok"}
+,"folsak":{"h":[{"d":[{"f":"￹￺to sow * scatter seed￻撒佈，撒種，播種"}]}],"t":"folsak"}
+,"fonal":{"h":[{"d":[{"f":"￹￺to crumble￻弄碎，粉碎"},{"f":"￹￺to break down into powder or ash form￻揉混，捏拌"},{"f":"￹￺to knead￻揉混，搓"}]}],"t":"fonal"}
+,"fongfong":{"h":[{"d":[{"f":"￹￺to cover to protect as with burlap or straw or plastic￻蓋住，覆蓋(用雜草或樹葉)"}]}],"t":"fongfong"}
+,"fongoh":{"h":[{"d":[{"l":["`tangal~","`pakifongoh~","`milifongoh~"],"f":"￹￺head￻頭部"},{"e":["￹`O~ `cifongohay~ `cingra~.￺He is smart * intelligent.￻他是很聰明的人，他是有頭腦的人"],"f":"￹￺figurative meanings￻寓意如下"}]}],"t":"fongoh"}
+,"fonon":{"h":[{"d":[{"f":"￹￺watered terraced rice fields￻水田"}]}],"t":"fonon"}
+,"fonor":{"h":[{"d":[{"f":"￹￺the falling of dry twigs or leaves or fruit from a tree￻落果，落枝，落葉"}]}],"t":"fonor"}
+,"fonos":{"h":[{"d":[{"l":["`hawan~"],"f":"￹￺machete￻番刀，開山刀"}]}],"t":"fonos"}
+,"foraw":{"h":[{"d":[{"l":["`kalah~","`caroh~","`tamor~"],"f":"￹￺to be in a hurry￻緊急"}]}],"t":"foraw"}
+,"fori%27ak":{"h":[{"d":[{"l":["`fri'ak~"],"f":"￹￺epilepsy￻因病發燒而引起休克狀態，暈厥"}]}],"t":"fori'ak"}
+,"forifor":{"h":[{"d":[{"f":"￹￺violence * violent actions that cause people to scatter￻擾亂，因暴戾的行動致使人民四散跳竄"}]}],"t":"forifor"}
+,"forok":{"h":[{"d":[{"f":"￹￺rough surface of ground￻把週圍的地面弄成凹凸不平"}]}],"t":"forok"}
+,"forsenan":{"h":[{"d":[{"l":["`kasapalan~"],"e":["￹`Forsenan~ `ko~ `faloco'~ `no~ `tamdaw~.￺The people are unresponsive (to the message.)￻人心麻木，對所講的話毫無反應"],"f":"￹￺numb * tingling feeling as when circulation has been cut off￻麻木，失去知覺"}]}],"t":"forsenan"}
+,"fosok":{"h":[{"d":[{"f":"￹￺white material￻白布"}]}],"t":"fosok"}
+,"fosoki":{"h":[{"d":[{"f":"￹￺species of flower * Hibiscus syriacus￻木槿"},{"f":"￹￺South American Waxmallow (from Japanese)￻朱槿 (引自日語)"}]}],"t":"fosoki"}
+,"fotek":{"h":[{"d":[{"l":["`kcec~"],"f":"￹￺close eyes￻閉眼睛，合眼"}]}],"t":"fotek"}
+,"foteng":{"h":[{"d":[{"f":"￹￺to be dwarfed * not grow properly * as of crops￻侏儒，矮小，未充分成長(植物或五穀等)"},{"f":"￹￺to break easily * as old string￻脆弱(如舊繩)"}]}],"t":"foteng"}
+,"fotfot":{"h":[{"d":[{"f":"￹￺to pull up * as weeds￻拔草"}]}],"t":"fotfot"}
+,"foti%27":{"h":[{"d":[{"f":"￹￺to lie down￻躺下來"},{"l":["`kafoti'an~"],"e":["￹`Kafoti'~.￺Lie down. (could mean sleep)￻躺下來，睡覺 (請求或命令口吻均可用)","￹`Caay~ `ka~ `ala~ `ko~ `fafoti'en~.￺couldn't sleep￻睡不著覺","￹`Nawiro~ `fafoti'~ `sa~ `kiso~ `saw~?￺Why are you still sleeping?￻你為什麼一直睡覺？"],"f":"￹￺to sleep￻睡覺"}]}],"t":"foti'"}
+,"foting":{"h":[{"d":[{"l":["`mifoting~"],"f":"￹￺fish￻魚"}]}],"t":"foting"}
+,"foto":{"h":[{"d":[{"l":["`pafotoan~"],"f":"￹￺ewine made from reeds for attaching to￻纏繞蘆葦使附屬在上面"}]}],"t":"foto"}
+,"fotod":{"h":[{"d":[{"f":"￹￺Yami tribal person￻雅美族人"},{"f":"￹￺Orchid Island￻蘭嶼"}]}],"t":"fotod"}
+,"fotol":{"h":[{"d":[{"f":"￹￺testicles * male genital organ￻睪丸，陰囊"}]}],"t":"fotol"}
+,"fotos":{"h":[{"d":[{"f":"￹￺swollen * water retention in body tissues￻水腫，浮腫"}]}],"t":"fotos"}
+,"fowah":{"h":[{"d":[{"f":"￹￺to melt down metal for molding￻溶解金屬注入於模版中"},{"f":"￹￺to open a dam so water can rush through￻洩洪，放水，水閘打開"}]}],"t":"fowah"}
+,"fowak":{"h":[{"d":[{"f":"￹￺to bubble * gurgle * motion of water￻沸騰，水的活動現象，泉水從地下冒出來的現象"}]}],"t":"fowak"}
+,"fowas":{"h":[{"d":[{"l":["`marifowas~"],"f":"￹￺to spread out from one source in many directions￻散開，從一個地方向不同的方向分散"}]}],"t":"fowas"}
+,"foyol":{"h":[{"d":[{"f":"￹￺to push so it sits at an angle * to be about to fall￻推到角落而倒下"}]}],"t":"foyol"}
+,"fray":{"h":[{"d":[{"f":"￹￺to relax the tension * as a rope￻鬆弛，鬆掉，鬆解(如線索)"}]}],"t":"fray"}
+,"friw":{"h":[{"d":[{"f":"￹￺to begin to blow * of the wind￻風(吹，飛似地跑)"}]}],"t":"friw"}
+,"frot":{"h":[{"d":[{"f":"￹￺to leave stranded * leave behind￻難堪的離去，很為難地離開，未取得在場人們的諒解硬性離開"}]}],"t":"frot"}
+,"fsir":{"h":[{"d":[{"f":"￹￺gall bladder￻膽囊"}]}],"t":"fsir"}
+,"fso":{"h":[{"d":[{"f":"￹￺bloated * filled with air * refers to stomach, bread, balloon￻充氣而鼓，指胃、麵包、氣球、飛船"},{"l":["`cfo~"],"f":"￹￺bladder￻膀胱"}]}],"t":"fso"}
+,"fsoc":{"h":[{"d":[{"l":["`pafsoc~"],"f":"￹￺straight￻直直去"},{"f":"￹￺direct * no side track￻直行沒有旁路(沒有分支的路)"}]}],"t":"fsoc"}
+,"ftak":{"h":[{"d":[{"l":["`fcak~"],"f":"￹￺craked * dry * as of soil￻裂開，土面或地表龜裂(指水田無水灌溉經暴晒之後產生龜裂現象)"}]}],"t":"ftak"}
+,"ftas":{"h":[{"d":[{"f":"￹￺to burst open * blow up with insides coming out￻爆炸，爆破"},{"f":"￹￺to blow up￻爆裂(輪胎等)"}]}],"t":"ftas"}
+,"ftes":{"h":[{"d":[{"f":"￹￺to puncture * make small hole as the nose of a water buffalo￻穿孔穿洞(指豬耳，牛鼻等)"}]}],"t":"ftes"}
+,"ftik":{"h":[{"d":[{"f":"￹￺to wet fingers with wine and snap them to the gods￻阿美族喝酒第一杯用食指濺酒滴祭神明"},{"l":["`ftir~"],"f":"￹￺to pluck strings of a muscial instrument￻撥響樂器的線"}]}],"t":"ftik"}
+,"ftir":{"h":[{"d":[{"f":"￹￺to snap fingers * as when touching wine and snapping to the gods￻用食指濺彈酒滴祭祖先及神明"},{"l":["`ftik~"],"f":"￹￺to pluck at * as strings of a musical instrument￻撥響樂器的絲絃"}]}],"t":"ftir"}
+}

@@ -1,0 +1,423 @@
+2014-01-20 01:37:55.715 MoeDict[8138:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-20 01:37:55.735 MoeDict[8138:80b] Unlimited access to network resources
+2014-01-20 01:37:55.919 MoeDict[8138:80b] [CDVTimer][splashscreen] 48.533976ms
+2014-01-20 01:37:55.919 MoeDict[8138:80b] [CDVTimer][TotalPluginStartup] 48.929036ms
+2014-01-20 01:37:56.045 MoeDict[8138:80b] Resetting plugins due to page load.
+2014-01-20 01:37:56.280 MoeDict[8138:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-20 01:56:55.934 MoeDict[14024:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-20 01:56:55.940 MoeDict[14024:80b] Unlimited access to network resources
+2014-01-20 01:56:55.964 MoeDict[14024:80b] [CDVTimer][splashscreen] 6.524026ms
+2014-01-20 01:56:55.964 MoeDict[14024:80b] [CDVTimer][TotalPluginStartup] 6.910026ms
+2014-01-20 01:56:56.056 MoeDict[14024:80b] Resetting plugins due to page load.
+2014-01-20 01:56:56.180 MoeDict[14024:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-20 02:01:23.217 MoeDict[20009:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-20 02:01:23.227 MoeDict[20009:80b] Unlimited access to network resources
+2014-01-20 02:01:23.258 MoeDict[20009:80b] [CDVTimer][splashscreen] 9.492993ms
+2014-01-20 02:01:23.259 MoeDict[20009:80b] [CDVTimer][TotalPluginStartup] 9.970009ms
+2014-01-20 02:01:23.381 MoeDict[20009:80b] Resetting plugins due to page load.
+2014-01-20 02:01:23.541 MoeDict[20009:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-20 02:09:00.358 MoeDict[24540:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-20 02:09:00.363 MoeDict[24540:80b] Unlimited access to network resources
+2014-01-20 02:09:00.386 MoeDict[24540:80b] [CDVTimer][splashscreen] 7.088006ms
+2014-01-20 02:09:00.387 MoeDict[24540:80b] [CDVTimer][TotalPluginStartup] 7.455051ms
+2014-01-20 02:09:00.477 MoeDict[24540:80b] Resetting plugins due to page load.
+2014-01-20 02:09:00.603 MoeDict[24540:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 20 02:09:00 r.local MoeDict[24540] <Error>: FT_Open_Face failed: error 2.
+Jan 20 02:09:00 r.local MoeDict[24540] <Error>: FT_Open_Face failed: error 2.
+Jan 20 02:09:00 r.local MoeDict[24540] <Error>: FT_Open_Face failed: error 2.
+2014-01-21 03:24:26.685 MoeDict[6781:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-21 03:24:26.715 MoeDict[6781:80b] Unlimited access to network resources
+2014-01-21 03:24:26.944 MoeDict[6781:80b] [CDVTimer][splashscreen] 62.788010ms
+2014-01-21 03:24:26.944 MoeDict[6781:80b] [CDVTimer][TotalPluginStartup] 63.189983ms
+2014-01-21 03:24:27.056 MoeDict[6781:80b] Resetting plugins due to page load.
+2014-01-21 03:24:27.304 MoeDict[6781:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 21 03:24:27 r.local MoeDict[6781] <Error>: FT_Open_Face failed: error 2.
+Jan 21 03:24:27 r.local MoeDict[6781] <Error>: FT_Open_Face failed: error 2.
+Jan 21 03:24:27 r.local MoeDict[6781] <Error>: FT_Open_Face failed: error 2.
+2014-01-21 03:44:30.244 MoeDict[10895:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-21 03:44:30.250 MoeDict[10895:80b] Unlimited access to network resources
+2014-01-21 03:44:30.272 MoeDict[10895:80b] [CDVTimer][splashscreen] 6.485999ms
+2014-01-21 03:44:30.272 MoeDict[10895:80b] [CDVTimer][TotalPluginStartup] 6.915987ms
+2014-01-21 03:44:30.360 MoeDict[10895:80b] Resetting plugins due to page load.
+2014-01-21 03:44:30.473 MoeDict[10895:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 21 03:44:30 r.local MoeDict[10895] <Error>: FT_Open_Face failed: error 2.
+Jan 21 03:44:30 r.local MoeDict[10895] <Error>: FT_Open_Face failed: error 2.
+Jan 21 03:44:30 r.local MoeDict[10895] <Error>: FT_Open_Face failed: error 2.
+2014-01-21 03:44:52.555 MoeDict[10895:80b] Resetting plugins due to page load.
+2014-01-21 03:44:52.626 MoeDict[10895:80b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-01-21 03:46:22.671 MoeDict[10895:80b] Resetting plugins due to page load.
+2014-01-21 03:46:22.744 MoeDict[10895:80b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-01-21 04:09:40.561 MoeDict[16686:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-21 04:09:40.570 MoeDict[16686:80b] Unlimited access to network resources
+2014-01-21 04:09:40.594 MoeDict[16686:80b] [CDVTimer][splashscreen] 7.044017ms
+2014-01-21 04:09:40.594 MoeDict[16686:80b] [CDVTimer][TotalPluginStartup] 7.441998ms
+2014-01-21 04:09:40.691 MoeDict[16686:80b] Resetting plugins due to page load.
+2014-01-21 04:09:40.810 MoeDict[16686:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-21 04:26:46.145 MoeDict[16686:80b] THREAD WARNING: ['InAppBrowser'] took '248.472900' ms. Plugin should use a background thread.
+2014-01-21 04:34:03.707 MoeDict[21296:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-21 04:34:03.714 MoeDict[21296:80b] Unlimited access to network resources
+2014-01-21 04:34:03.737 MoeDict[21296:80b] [CDVTimer][splashscreen] 6.492972ms
+2014-01-21 04:34:03.738 MoeDict[21296:80b] [CDVTimer][TotalPluginStartup] 6.887972ms
+2014-01-21 04:34:03.850 MoeDict[21296:80b] Resetting plugins due to page load.
+2014-01-21 04:34:03.956 MoeDict[21296:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-21 04:35:06.667 MoeDict[21296:80b] THREAD WARNING: ['InAppBrowser'] took '171.958008' ms. Plugin should use a background thread.
+2014-01-21 04:36:22.194 MoeDict[25650:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-21 04:36:22.199 MoeDict[25650:80b] Unlimited access to network resources
+2014-01-21 04:36:22.222 MoeDict[25650:80b] [CDVTimer][splashscreen] 6.591976ms
+2014-01-21 04:36:22.223 MoeDict[25650:80b] [CDVTimer][TotalPluginStartup] 6.978035ms
+2014-01-21 04:36:22.319 MoeDict[25650:80b] Resetting plugins due to page load.
+2014-01-21 04:36:22.422 MoeDict[25650:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-21 04:45:38.436 MoeDict[25650:80b] THREAD WARNING: ['InAppBrowser'] took '168.509033' ms. Plugin should use a background thread.
+2014-01-21 04:45:47.660 MoeDict[25650:80b] Resetting plugins due to page load.
+2014-01-21 04:45:47.786 MoeDict[25650:80b] Failed to load webpage with error: The requested URL was not found on this server.
+Terminating in response to SpringBoard's termination.
+2014-01-21 05:04:20.548 MoeDict[29031:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-21 05:04:20.558 MoeDict[29031:80b] Unlimited access to network resources
+2014-01-21 05:04:20.582 MoeDict[29031:80b] [CDVTimer][splashscreen] 7.066011ms
+2014-01-21 05:04:20.582 MoeDict[29031:80b] [CDVTimer][TotalPluginStartup] 7.447958ms
+2014-01-21 05:04:20.618 MoeDict[29031:80b] Resetting plugins due to page load.
+2014-01-21 05:04:20.746 MoeDict[29031:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-21 05:11:11.929 MoeDict[31306:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-21 05:11:11.935 MoeDict[31306:80b] Unlimited access to network resources
+2014-01-21 05:11:11.957 MoeDict[31306:80b] [CDVTimer][splashscreen] 6.357968ms
+2014-01-21 05:11:11.957 MoeDict[31306:80b] [CDVTimer][TotalPluginStartup] 6.804049ms
+2014-01-21 05:11:12.038 MoeDict[31306:80b] Resetting plugins due to page load.
+2014-01-21 05:11:12.155 MoeDict[31306:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-01-21 05:18:36.213 MoeDict[36037:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-21 05:18:36.218 MoeDict[36037:80b] Unlimited access to network resources
+2014-01-21 05:18:36.241 MoeDict[36037:80b] [CDVTimer][splashscreen] 7.259965ms
+2014-01-21 05:18:36.241 MoeDict[36037:80b] [CDVTimer][TotalPluginStartup] 7.657051ms
+2014-01-21 05:18:36.326 MoeDict[36037:80b] Resetting plugins due to page load.
+2014-01-21 05:18:36.433 MoeDict[36037:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-21 05:18:53.413 MoeDict[36037:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-01-21 05:18:53.414 MoeDict[36037:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-01-21 05:18:53.414 MoeDict[36037:80b] Resetting plugins due to page load.
+2014-01-21 05:18:53.519 MoeDict[36037:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/about.html
+2014-01-21 05:19:10.299 MoeDict[36037:80b] Resetting plugins due to page load.
+2014-01-21 05:19:10.369 MoeDict[36037:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html#~%E6%97%A6
+2014-01-22 03:19:54.578 MoeDict[75778:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-22 03:19:54.599 MoeDict[75778:80b] Unlimited access to network resources
+2014-01-22 03:19:54.807 MoeDict[75778:80b] [CDVTimer][splashscreen] 42.593002ms
+2014-01-22 03:19:54.808 MoeDict[75778:80b] [CDVTimer][TotalPluginStartup] 42.975008ms
+2014-01-22 03:19:54.917 MoeDict[75778:80b] Resetting plugins due to page load.
+2014-01-22 03:19:55.170 MoeDict[75778:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-22 03:24:21.997 MoeDict[77897:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-22 03:24:22.008 MoeDict[77897:80b] Unlimited access to network resources
+2014-01-22 03:24:22.034 MoeDict[77897:80b] [CDVTimer][splashscreen] 7.486999ms
+2014-01-22 03:24:22.034 MoeDict[77897:80b] [CDVTimer][TotalPluginStartup] 7.876992ms
+2014-01-22 03:24:22.071 MoeDict[77897:80b] Resetting plugins due to page load.
+2014-01-22 03:24:22.245 MoeDict[77897:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-23 04:42:35.950 MoeDict[5029:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 04:42:36.079 MoeDict[5029:80b] Unlimited access to network resources
+2014-01-23 04:42:36.787 MoeDict[5029:80b] [CDVTimer][splashscreen] 49.515009ms
+2014-01-23 04:42:36.787 MoeDict[5029:80b] [CDVTimer][TotalPluginStartup] 49.903035ms
+2014-01-23 04:42:36.903 MoeDict[5029:80b] Resetting plugins due to page load.
+2014-01-23 04:42:37.156 MoeDict[5029:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-23 04:47:48.945 MoeDict[8099:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 04:47:48.950 MoeDict[8099:80b] Unlimited access to network resources
+2014-01-23 04:47:48.973 MoeDict[8099:80b] [CDVTimer][splashscreen] 6.924987ms
+2014-01-23 04:47:48.974 MoeDict[8099:80b] [CDVTimer][TotalPluginStartup] 7.789016ms
+2014-01-23 04:47:49.107 MoeDict[8099:80b] Resetting plugins due to page load.
+2014-01-23 04:47:49.223 MoeDict[8099:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-23 23:45:02.012 MoeDict[28101:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 23:45:02.033 MoeDict[28101:80b] Unlimited access to network resources
+2014-01-23 23:45:02.219 MoeDict[28101:80b] [CDVTimer][splashscreen] 49.143016ms
+2014-01-23 23:45:02.219 MoeDict[28101:80b] [CDVTimer][TotalPluginStartup] 49.513042ms
+2014-01-23 23:45:02.325 MoeDict[28101:80b] Resetting plugins due to page load.
+2014-01-23 23:45:02.573 MoeDict[28101:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-24 02:10:38.224 MoeDict[36511:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-24 02:10:38.255 MoeDict[36511:80b] Unlimited access to network resources
+2014-01-24 02:10:38.484 MoeDict[36511:80b] [CDVTimer][splashscreen] 55.938959ms
+2014-01-24 02:10:38.485 MoeDict[36511:80b] [CDVTimer][TotalPluginStartup] 56.347013ms
+2014-01-24 02:10:38.597 MoeDict[36511:80b] Resetting plugins due to page load.
+2014-01-24 02:10:38.933 MoeDict[36511:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-24 02:15:10.061 MoeDict[38738:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-24 02:15:10.086 MoeDict[38738:80b] Unlimited access to network resources
+2014-01-24 02:15:10.385 MoeDict[38738:80b] [CDVTimer][splashscreen] 41.566968ms
+2014-01-24 02:15:10.386 MoeDict[38738:80b] [CDVTimer][TotalPluginStartup] 42.010009ms
+2014-01-24 02:15:10.494 MoeDict[38738:80b] Resetting plugins due to page load.
+2014-01-24 02:15:10.876 MoeDict[38738:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-25 00:46:55.305 MoeDict[44408:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-25 00:46:55.327 MoeDict[44408:80b] Unlimited access to network resources
+2014-01-25 00:46:55.512 MoeDict[44408:80b] [CDVTimer][splashscreen] 47.630966ms
+2014-01-25 00:46:55.513 MoeDict[44408:80b] [CDVTimer][TotalPluginStartup] 48.045993ms
+2014-01-25 00:46:55.639 MoeDict[44408:80b] Resetting plugins due to page load.
+2014-01-25 00:46:55.876 MoeDict[44408:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-26 03:09:04.256 MoeDict[77017:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 03:09:04.275 MoeDict[77017:80b] Unlimited access to network resources
+2014-01-26 03:09:04.457 MoeDict[77017:80b] [CDVTimer][splashscreen] 46.232998ms
+2014-01-26 03:09:04.458 MoeDict[77017:80b] [CDVTimer][TotalPluginStartup] 46.770036ms
+2014-01-26 03:09:04.567 MoeDict[77017:80b] Resetting plugins due to page load.
+2014-01-26 03:09:04.802 MoeDict[77017:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 03:09:04 r.local MoeDict[77017] <Error>: FT_Open_Face failed: error 2.
+Jan 26 03:09:04 r.local MoeDict[77017] <Error>: FT_Open_Face failed: error 2.
+Jan 26 03:09:04 r.local MoeDict[77017] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 10:54:03.210 MoeDict[89519:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 10:54:03.228 MoeDict[89519:80b] Unlimited access to network resources
+2014-01-26 10:54:03.412 MoeDict[89519:80b] [CDVTimer][splashscreen] 46.467960ms
+2014-01-26 10:54:03.412 MoeDict[89519:80b] [CDVTimer][TotalPluginStartup] 46.850979ms
+2014-01-26 10:54:03.529 MoeDict[89519:80b] Resetting plugins due to page load.
+Jan 26 10:54:04 r.local MoeDict[89519] <Error>: FT_Open_Face failed: error 2.
+Jan 26 10:54:04 r.local MoeDict[89519] <Error>: FT_Open_Face failed: error 2.
+Jan 26 10:54:04 r.local MoeDict[89519] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 10:54:04.285 MoeDict[89519:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html#Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+2014-01-26 10:58:06.240 MoeDict[93635:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 10:58:06.246 MoeDict[93635:80b] Unlimited access to network resources
+2014-01-26 10:58:06.270 MoeDict[93635:80b] [CDVTimer][splashscreen] 8.274019ms
+2014-01-26 10:58:06.270 MoeDict[93635:80b] [CDVTimer][TotalPluginStartup] 8.709967ms
+2014-01-26 10:58:06.384 MoeDict[93635:80b] Resetting plugins due to page load.
+2014-01-26 10:58:06.502 MoeDict[93635:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 10:58:06 r.local MoeDict[93635] <Error>: FT_Open_Face failed: error 2.
+Jan 26 10:58:06 r.local MoeDict[93635] <Error>: FT_Open_Face failed: error 2.
+Jan 26 10:58:06 r.local MoeDict[93635] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 11:00:47.784 MoeDict[97537:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 11:00:47.790 MoeDict[97537:80b] Unlimited access to network resources
+2014-01-26 11:00:47.821 MoeDict[97537:80b] [CDVTimer][splashscreen] 8.651018ms
+2014-01-26 11:00:47.821 MoeDict[97537:80b] [CDVTimer][TotalPluginStartup] 9.073019ms
+2014-01-26 11:00:47.933 MoeDict[97537:80b] Resetting plugins due to page load.
+2014-01-26 11:00:48.053 MoeDict[97537:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 11:00:48 r.local MoeDict[97537] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:00:48 r.local MoeDict[97537] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:00:48 r.local MoeDict[97537] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 11:04:12.579 MoeDict[1767:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 11:04:12.585 MoeDict[1767:80b] Unlimited access to network resources
+2014-01-26 11:04:12.608 MoeDict[1767:80b] [CDVTimer][splashscreen] 6.484985ms
+2014-01-26 11:04:12.608 MoeDict[1767:80b] [CDVTimer][TotalPluginStartup] 7.016003ms
+2014-01-26 11:04:12.710 MoeDict[1767:80b] Resetting plugins due to page load.
+2014-01-26 11:04:12.835 MoeDict[1767:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 11:04:12 r.local MoeDict[1767] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:04:12 r.local MoeDict[1767] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:04:12 r.local MoeDict[1767] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 11:19:25.285 MoeDict[6258:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 11:19:25.291 MoeDict[6258:80b] Unlimited access to network resources
+2014-01-26 11:19:25.314 MoeDict[6258:80b] [CDVTimer][splashscreen] 7.673979ms
+2014-01-26 11:19:25.315 MoeDict[6258:80b] [CDVTimer][TotalPluginStartup] 8.174002ms
+2014-01-26 11:19:25.433 MoeDict[6258:80b] Resetting plugins due to page load.
+2014-01-26 11:19:25.545 MoeDict[6258:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 11:19:25 r.local MoeDict[6258] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:19:25 r.local MoeDict[6258] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:19:25 r.local MoeDict[6258] <Error>: FT_Open_Face failed: error 2.
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2014-01-26 11:19:34.965 MoeDict[6258:80b] setting movie path: 
+2014-01-26 11:19:37.252 MoeDict[6258:80b] setting movie path: http://a.moedict.tw/4995.mp3
+2014-01-26 11:19:37.266 MoeDict[6258:80b] setting movie path: 
+2014-01-26 11:19:37.268 MoeDict[6258:80b] setting movie path: http://a.moedict.tw/4995.mp3
+2014-01-26 11:19:37.783 MoeDict[6258:80b] Resetting plugins due to page load.
+2014-01-26 11:19:37.862 MoeDict[6258:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/about.html
+2014-01-26 11:19:46.591 MoeDict[6258:80b] Resetting plugins due to page load.
+2014-01-26 11:19:46.618 MoeDict[6258:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html#%20%E8%90%8C%E5%85%B8
+2014-01-26 11:22:05.867 MoeDict[10253:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 11:22:05.873 MoeDict[10253:80b] Unlimited access to network resources
+2014-01-26 11:22:05.896 MoeDict[10253:80b] [CDVTimer][splashscreen] 6.569028ms
+2014-01-26 11:22:05.897 MoeDict[10253:80b] [CDVTimer][TotalPluginStartup] 6.981969ms
+2014-01-26 11:22:06.060 MoeDict[10253:80b] Resetting plugins due to page load.
+2014-01-26 11:22:06.180 MoeDict[10253:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 11:22:06 r.local MoeDict[10253] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:22:06 r.local MoeDict[10253] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:22:06 r.local MoeDict[10253] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 11:27:05.463 MoeDict[14223:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 11:27:05.468 MoeDict[14223:80b] Unlimited access to network resources
+2014-01-26 11:27:05.491 MoeDict[14223:80b] [CDVTimer][splashscreen] 6.626010ms
+2014-01-26 11:27:05.491 MoeDict[14223:80b] [CDVTimer][TotalPluginStartup] 7.001996ms
+2014-01-26 11:27:05.599 MoeDict[14223:80b] Resetting plugins due to page load.
+2014-01-26 11:27:05.721 MoeDict[14223:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 11:27:05 r.local MoeDict[14223] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:27:05 r.local MoeDict[14223] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:27:05 r.local MoeDict[14223] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 11:29:24.501 MoeDict[18145:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 11:29:24.507 MoeDict[18145:80b] Unlimited access to network resources
+2014-01-26 11:29:24.530 MoeDict[18145:80b] [CDVTimer][splashscreen] 6.553054ms
+2014-01-26 11:29:24.530 MoeDict[18145:80b] [CDVTimer][TotalPluginStartup] 6.935000ms
+2014-01-26 11:29:24.633 MoeDict[18145:80b] Resetting plugins due to page load.
+2014-01-26 11:29:24.747 MoeDict[18145:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 11:29:24 r.local MoeDict[18145] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:29:24 r.local MoeDict[18145] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:29:24 r.local MoeDict[18145] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 11:30:47.624 MoeDict[22060:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 11:30:47.630 MoeDict[22060:80b] Unlimited access to network resources
+2014-01-26 11:30:47.652 MoeDict[22060:80b] [CDVTimer][splashscreen] 6.411016ms
+2014-01-26 11:30:47.652 MoeDict[22060:80b] [CDVTimer][TotalPluginStartup] 6.817997ms
+2014-01-26 11:30:47.750 MoeDict[22060:80b] Resetting plugins due to page load.
+2014-01-26 11:30:47.861 MoeDict[22060:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 11:30:47 r.local MoeDict[22060] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:30:47 r.local MoeDict[22060] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:30:47 r.local MoeDict[22060] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 11:32:44.880 MoeDict[25973:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 11:32:44.886 MoeDict[25973:80b] Unlimited access to network resources
+2014-01-26 11:32:44.910 MoeDict[25973:80b] [CDVTimer][splashscreen] 6.811976ms
+2014-01-26 11:32:44.910 MoeDict[25973:80b] [CDVTimer][TotalPluginStartup] 7.213056ms
+2014-01-26 11:32:45.009 MoeDict[25973:80b] Resetting plugins due to page load.
+2014-01-26 11:32:45.126 MoeDict[25973:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 11:32:45 r.local MoeDict[25973] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:32:45 r.local MoeDict[25973] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:32:45 r.local MoeDict[25973] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 11:35:30.654 MoeDict[29899:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 11:35:30.659 MoeDict[29899:80b] Unlimited access to network resources
+2014-01-26 11:35:30.682 MoeDict[29899:80b] [CDVTimer][splashscreen] 6.568015ms
+2014-01-26 11:35:30.682 MoeDict[29899:80b] [CDVTimer][TotalPluginStartup] 6.981015ms
+2014-01-26 11:35:30.768 MoeDict[29899:80b] Resetting plugins due to page load.
+2014-01-26 11:35:30.884 MoeDict[29899:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 11:35:30 r.local MoeDict[29899] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:35:30 r.local MoeDict[29899] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:35:30 r.local MoeDict[29899] <Error>: FT_Open_Face failed: error 2.
+Terminating in response to SpringBoard's termination.
+2014-01-26 11:37:26.868 MoeDict[33822:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 11:37:26.873 MoeDict[33822:80b] Unlimited access to network resources
+2014-01-26 11:37:26.895 MoeDict[33822:80b] [CDVTimer][splashscreen] 6.574035ms
+2014-01-26 11:37:26.896 MoeDict[33822:80b] [CDVTimer][TotalPluginStartup] 7.029951ms
+2014-01-26 11:37:26.997 MoeDict[33822:80b] Resetting plugins due to page load.
+2014-01-26 11:37:27.117 MoeDict[33822:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 11:37:27 r.local MoeDict[33822] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:37:27 r.local MoeDict[33822] <Error>: FT_Open_Face failed: error 2.
+Jan 26 11:37:27 r.local MoeDict[33822] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 19:17:58.573 MoeDict[14890:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 19:17:58.593 MoeDict[14890:80b] Unlimited access to network resources
+2014-01-26 19:17:58.775 MoeDict[14890:80b] [CDVTimer][splashscreen] 45.881987ms
+2014-01-26 19:17:58.776 MoeDict[14890:80b] [CDVTimer][TotalPluginStartup] 46.291947ms
+2014-01-26 19:17:58.885 MoeDict[14890:80b] Resetting plugins due to page load.
+2014-01-26 19:17:59.147 MoeDict[14890:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 19:17:59 r.local MoeDict[14890] <Error>: FT_Open_Face failed: error 2.
+Jan 26 19:17:59 r.local MoeDict[14890] <Error>: FT_Open_Face failed: error 2.
+Jan 26 19:17:59 r.local MoeDict[14890] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 19:18:14.322 MoeDict[14890:80b] THREAD WARNING: ['InAppBrowser'] took '179.009033' ms. Plugin should use a background thread.
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2014-01-26 19:19:08.707 MoeDict[14890:80b] setting movie path: 
+2014-01-26 19:19:10.637 MoeDict[14890:80b] setting movie path: http://a.moedict.tw/060200025.mp3
+2014-01-26 19:19:10.643 MoeDict[14890:80b] setting movie path: 
+2014-01-26 19:19:10.645 MoeDict[14890:80b] setting movie path: http://a.moedict.tw/060200025.mp3
+2014-01-26 19:22:53.961 MoeDict[18807:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 19:22:53.968 MoeDict[18807:80b] Unlimited access to network resources
+2014-01-26 19:22:53.990 MoeDict[18807:80b] [CDVTimer][splashscreen] 6.424963ms
+2014-01-26 19:22:53.991 MoeDict[18807:80b] [CDVTimer][TotalPluginStartup] 6.819010ms
+2014-01-26 19:22:54.106 MoeDict[18807:80b] Resetting plugins due to page load.
+2014-01-26 19:22:54.229 MoeDict[18807:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 19:22:54 r.local MoeDict[18807] <Error>: FT_Open_Face failed: error 2.
+Jan 26 19:22:54 r.local MoeDict[18807] <Error>: FT_Open_Face failed: error 2.
+Jan 26 19:22:54 r.local MoeDict[18807] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 19:22:59.582 MoeDict[18807:80b] THREAD WARNING: ['InAppBrowser'] took '169.187012' ms. Plugin should use a background thread.
+2014-01-26 20:05:49.338 MoeDict[29267:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 20:05:49.343 MoeDict[29267:80b] Unlimited access to network resources
+2014-01-26 20:05:49.367 MoeDict[29267:80b] [CDVTimer][splashscreen] 7.140994ms
+2014-01-26 20:05:49.368 MoeDict[29267:80b] [CDVTimer][TotalPluginStartup] 7.506013ms
+2014-01-26 20:05:49.478 MoeDict[29267:80b] Resetting plugins due to page load.
+2014-01-26 20:05:49.597 MoeDict[29267:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 20:05:49 r.local MoeDict[29267] <Error>: FT_Open_Face failed: error 2.
+Jan 26 20:05:49 r.local MoeDict[29267] <Error>: FT_Open_Face failed: error 2.
+Jan 26 20:05:49 r.local MoeDict[29267] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 20:12:22.806 MoeDict[29267:80b] THREAD WARNING: ['InAppBrowser'] took '196.912109' ms. Plugin should use a background thread.
+2014-01-26 20:18:57.423 MoeDict[33445:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 20:18:57.428 MoeDict[33445:80b] Unlimited access to network resources
+2014-01-26 20:18:57.452 MoeDict[33445:80b] [CDVTimer][splashscreen] 7.745981ms
+2014-01-26 20:18:57.452 MoeDict[33445:80b] [CDVTimer][TotalPluginStartup] 8.163989ms
+2014-01-26 20:18:57.535 MoeDict[33445:80b] Resetting plugins due to page load.
+2014-01-26 20:18:57.651 MoeDict[33445:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 20:18:57 r.local MoeDict[33445] <Error>: FT_Open_Face failed: error 2.
+Jan 26 20:18:57 r.local MoeDict[33445] <Error>: FT_Open_Face failed: error 2.
+Jan 26 20:18:57 r.local MoeDict[33445] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 20:20:49.983 MoeDict[37639:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 20:20:49.989 MoeDict[37639:80b] Unlimited access to network resources
+2014-01-26 20:20:50.013 MoeDict[37639:80b] [CDVTimer][splashscreen] 6.579995ms
+2014-01-26 20:20:50.013 MoeDict[37639:80b] [CDVTimer][TotalPluginStartup] 6.996989ms
+2014-01-26 20:20:50.114 MoeDict[37639:80b] Resetting plugins due to page load.
+2014-01-26 20:20:50.229 MoeDict[37639:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 20:20:50 r.local MoeDict[37639] <Error>: FT_Open_Face failed: error 2.
+Jan 26 20:20:50 r.local MoeDict[37639] <Error>: FT_Open_Face failed: error 2.
+Jan 26 20:20:50 r.local MoeDict[37639] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 20:21:34.010 MoeDict[37639:80b] THREAD WARNING: ['InAppBrowser'] took '181.040039' ms. Plugin should use a background thread.
+2014-01-26 20:22:37.436 MoeDict[41575:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 20:22:37.443 MoeDict[41575:80b] Unlimited access to network resources
+2014-01-26 20:22:37.466 MoeDict[41575:80b] [CDVTimer][splashscreen] 7.390022ms
+2014-01-26 20:22:37.467 MoeDict[41575:80b] [CDVTimer][TotalPluginStartup] 7.770002ms
+2014-01-26 20:22:37.571 MoeDict[41575:80b] Resetting plugins due to page load.
+2014-01-26 20:22:37.685 MoeDict[41575:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 20:22:37 r.local MoeDict[41575] <Error>: FT_Open_Face failed: error 2.
+Jan 26 20:22:37 r.local MoeDict[41575] <Error>: FT_Open_Face failed: error 2.
+Jan 26 20:22:37 r.local MoeDict[41575] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 20:22:49.759 MoeDict[41575:80b] THREAD WARNING: ['InAppBrowser'] took '185.892090' ms. Plugin should use a background thread.
+2014-01-26 20:23:54.419 MoeDict[45642:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 20:23:54.425 MoeDict[45642:80b] Unlimited access to network resources
+2014-01-26 20:23:54.448 MoeDict[45642:80b] [CDVTimer][splashscreen] 6.790996ms
+2014-01-26 20:23:54.448 MoeDict[45642:80b] [CDVTimer][TotalPluginStartup] 7.197976ms
+2014-01-26 20:23:54.561 MoeDict[45642:80b] Resetting plugins due to page load.
+2014-01-26 20:23:54.678 MoeDict[45642:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 20:23:54 r.local MoeDict[45642] <Error>: FT_Open_Face failed: error 2.
+Jan 26 20:23:54 r.local MoeDict[45642] <Error>: FT_Open_Face failed: error 2.
+Jan 26 20:23:54 r.local MoeDict[45642] <Error>: FT_Open_Face failed: error 2.
+Terminating in response to SpringBoard's termination.
+2014-01-26 20:26:35.271 MoeDict[49657:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 20:26:35.277 MoeDict[49657:80b] Unlimited access to network resources
+2014-01-26 20:26:35.299 MoeDict[49657:80b] [CDVTimer][splashscreen] 7.321954ms
+2014-01-26 20:26:35.299 MoeDict[49657:80b] [CDVTimer][TotalPluginStartup] 7.690012ms
+2014-01-26 20:26:35.415 MoeDict[49657:80b] Resetting plugins due to page load.
+2014-01-26 20:26:35.539 MoeDict[49657:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 26 20:26:35 r.local MoeDict[49657] <Error>: FT_Open_Face failed: error 2.
+Jan 26 20:26:35 r.local MoeDict[49657] <Error>: FT_Open_Face failed: error 2.
+Jan 26 20:26:35 r.local MoeDict[49657] <Error>: FT_Open_Face failed: error 2.
+2014-01-26 20:33:22.016 MoeDict[59231:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-26 20:33:22.023 MoeDict[59231:80b] Unlimited access to network resources
+2014-01-26 20:33:22.052 MoeDict[59231:80b] [CDVTimer][splashscreen] 8.096993ms
+2014-01-26 20:33:22.052 MoeDict[59231:80b] [CDVTimer][TotalPluginStartup] 8.578002ms
+2014-01-26 20:33:22.176 MoeDict[59231:80b] Resetting plugins due to page load.
+2014-01-26 20:33:22.335 MoeDict[59231:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-01-28 00:13:15.420 MoeDict[77768:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-28 00:13:15.442 MoeDict[77768:80b] Unlimited access to network resources
+2014-01-28 00:13:15.482 MoeDict[77768:80b] [CDVTimer][splashscreen] 20.610988ms
+2014-01-28 00:13:15.482 MoeDict[77768:80b] [CDVTimer][TotalPluginStartup] 21.016002ms
+2014-01-28 00:13:15.528 MoeDict[77768:80b] Resetting plugins due to page load.
+2014-01-28 00:13:15.776 MoeDict[77768:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 28 00:13:15 r.local MoeDict[77768] <Error>: FT_Open_Face failed: error 2.
+Jan 28 00:13:15 r.local MoeDict[77768] <Error>: FT_Open_Face failed: error 2.
+Jan 28 00:13:15 r.local MoeDict[77768] <Error>: FT_Open_Face failed: error 2.
+2014-01-28 02:58:10.704 MoeDict[83145:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-28 02:58:10.711 MoeDict[83145:80b] Unlimited access to network resources
+2014-01-28 02:58:10.734 MoeDict[83145:80b] [CDVTimer][splashscreen] 6.640971ms
+2014-01-28 02:58:10.735 MoeDict[83145:80b] [CDVTimer][TotalPluginStartup] 7.016957ms
+2014-01-28 02:58:10.847 MoeDict[83145:80b] Resetting plugins due to page load.
+2014-01-28 02:58:10.977 MoeDict[83145:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 28 02:58:10 r.local MoeDict[83145] <Error>: FT_Open_Face failed: error 2.
+Jan 28 02:58:10 r.local MoeDict[83145] <Error>: FT_Open_Face failed: error 2.
+Jan 28 02:58:10 r.local MoeDict[83145] <Error>: FT_Open_Face failed: error 2.
+Terminating in response to SpringBoard's termination.
+2014-01-28 03:07:06.400 MoeDict[88009:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-28 03:07:06.433 MoeDict[88009:80b] Unlimited access to network resources
+2014-01-28 03:07:06.608 MoeDict[88009:80b] [CDVTimer][splashscreen] 41.238010ms
+2014-01-28 03:07:06.608 MoeDict[88009:80b] [CDVTimer][TotalPluginStartup] 41.607022ms
+2014-01-28 03:07:06.793 MoeDict[88009:80b] Resetting plugins due to page load.
+2014-01-28 03:07:07.081 MoeDict[88009:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 28 03:07:07 r.local MoeDict[88009] <Error>: FT_Open_Face failed: error 2.
+Jan 28 03:07:07 r.local MoeDict[88009] <Error>: FT_Open_Face failed: error 2.
+Jan 28 03:07:07 r.local MoeDict[88009] <Error>: FT_Open_Face failed: error 2.
+2014-01-28 03:08:16.888 MoeDict[88009:3e03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-01-30 11:32:30.826 MoeDict[15151:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 11:32:30.848 MoeDict[15151:80b] Unlimited access to network resources
+2014-01-30 11:32:31.046 MoeDict[15151:80b] [CDVTimer][splashscreen] 50.260961ms
+2014-01-30 11:32:31.047 MoeDict[15151:80b] [CDVTimer][TotalPluginStartup] 50.665021ms
+2014-01-30 11:32:31.160 MoeDict[15151:80b] Resetting plugins due to page load.
+2014-01-30 11:32:31.420 MoeDict[15151:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/85874F33-9C60-4C86-A81C-9F74B9ACE008/MoeDict.app/www/index.html
+Jan 30 11:32:31 r.local MoeDict[15151] <Error>: FT_Open_Face failed: error 2.
+Jan 30 11:32:31 r.local MoeDict[15151] <Error>: FT_Open_Face failed: error 2.
+Jan 30 11:32:31 r.local MoeDict[15151] <Error>: FT_Open_Face failed: error 2.
+2014-01-30 21:05:30.971 MoeDict[2490:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-30 21:05:30.995 MoeDict[2490:80b] Unlimited access to network resources
+2014-01-30 21:05:31.176 MoeDict[2490:80b] [CDVTimer][splashscreen] 46.311021ms
+2014-01-30 21:05:31.177 MoeDict[2490:80b] [CDVTimer][TotalPluginStartup] 46.679974ms
+2014-01-30 21:05:31.293 MoeDict[2490:80b] Resetting plugins due to page load.
+2014-01-30 21:05:31.576 MoeDict[2490:80b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/F3219658-F0A2-4A37-987D-D203CBD88734/MoeDict.app/www/index.html
+2014-07-11 20:47:31.233 MoeDict[26897:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-11 20:47:31.241 MoeDict[26897:70b] Unlimited access to network resources
+2014-07-11 20:47:31.267 MoeDict[26897:70b] [CDVTimer][splashscreen] 12.959957ms
+2014-07-11 20:47:31.268 MoeDict[26897:70b] [CDVTimer][TotalPluginStartup] 13.306975ms
+2014-07-11 20:47:31.342 MoeDict[26897:70b] Resetting plugins due to page load.
+2014-07-11 20:47:31.606 MoeDict[26897:70b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/6C4515C7-65AE-4FAF-8462-E3E9C258A8C8/MoeDict.app/www/index.html
+2014-07-11 20:47:42.294 MoeDict[26897:70b] Resetting plugins due to page load.
+2014-07-11 20:47:42.351 MoeDict[26897:70b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/6C4515C7-65AE-4FAF-8462-E3E9C258A8C8/MoeDict.app/www/about.html
+2014-07-11 20:49:09.118 MoeDict[27816:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-11 20:49:09.134 MoeDict[27816:70b] Unlimited access to network resources
+2014-07-11 20:49:09.152 MoeDict[27816:70b] [CDVTimer][splashscreen] 5.154967ms
+2014-07-11 20:49:09.152 MoeDict[27816:70b] [CDVTimer][TotalPluginStartup] 5.456984ms
+2014-07-11 20:49:09.226 MoeDict[27816:70b] Resetting plugins due to page load.
+2014-07-11 20:49:09.321 MoeDict[27816:70b] Finished load of: file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/6C4515C7-65AE-4FAF-8462-E3E9C258A8C8/MoeDict.app/www/index.html
+2014-07-11 20:49:55.312 MoeDict[27816:70b] file:///Users/audreyt/Library/Application%20Support/iPhone%20Simulator/7.1/Library/Assets/com_apple_MobileAsset_Font/887acf65c8f8a60d91dad7ab1d7373ecf0962135.asset/AssetData/BiauKai.ttf

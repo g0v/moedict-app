@@ -1,0 +1,604 @@
+{"ka%27anofan":{"h":[{"d":[{"f":"￹￺object of desire or lust￻渴望得到的事物"}]}],"t":"ka'anofan"}
+,"ka%27ayaw":{"h":[{"d":[{"f":"￹￺in front of￻在…之前"}]}],"t":"ka'ayaw"}
+,"ka%27dah":{"h":[{"d":[{"l":["`kacdah~"],"f":"￹￺hot, peppery￻辣，辛辣，嚴酷刻薄的(指責時)"}]}],"t":"ka'dah"}
+,"ka%27ka%27":{"h":[{"d":[{"f":"￹￺to roar with laughter￻呵呵大笑"}]}],"t":"ka'ka'"}
+,"ka%27mahay":{"h":[{"d":[{"f":"￹￺oxen of Taiwan￻台灣黃牛"},{"f":"￹￺milk cows￻乳牛"}]}],"t":"ka'mahay"}
+,"ka%27mang":{"h":[{"d":[{"l":["`ka'mangay~"],"e":["￹`i~ `ka'manganho~￺during one's youth￻小時候，孩提時，年輕時"],"f":"￹￺young * childhood￻年輕，小孩"}]}],"t":"ka'mang"}
+,"ka%27mangay":{"h":[{"d":[{"l":["`ka'mang~"],"f":"￹￺children * youngster￻孩童，年輕人"}]}],"t":"ka'mangay"}
+,"ka%27med":{"h":[{"d":[{"l":["`ka'ped~"],"e":["￹`ka'med~ `ko~ `faloco'~￺responsive heart￻心軟，易感動"],"f":"￹￺soft * light￻輕軟"},{"e":["￹`misaka'med~ `to~ `dmak~￺do something the easy way￻以簡單的方法做事情","￹`ka'med~ `ko~ `'aca~￺cheap price￻價格便宜，廉價的"],"f":"￹￺easy to manage￻容易管理，操縱，掌握，控制"}]}],"t":"ka'med"}
+,"ka%27mi%27":{"h":[{"d":[{"l":["`ko'mi'~"],"e":["￹`ka'mi~ `ko~ `faloco'~￺responsive * agreeable * tender￻心軟，易感動，親切宜人的，和藹可親的"],"f":"￹￺flexible * moveable￻很軟，具伸縮性，可移動的"}]}],"t":"ka'mi'"}
+,"ka%27nih":{"h":[{"d":[{"f":"￹￺the urge to have a bowel movement￻內急(想排便)"}]}],"t":"ka'nih"}
+,"ka%27oripan":{"h":[{"d":[{"f":"￹￺source of livelihood￻生長之處，生計"}]}],"t":"ka'oripan"}
+,"ka%27ped":{"h":[{"d":[{"e":["￹`ka'ped~ `ko~ `sowal~￺to be soft-spoken￻說話很溫柔","￹`ka'ped~ `ko~ `kamaro'an~￺soft place to sit￻椅墊柔軟，座椅柔軟","￹`ka'ped~ `ko~ `sra~￺ground is easy to work￻泥土鬆軟易於翻鋤"],"f":"￹￺soft * light * with literal and abstract meanings￻柔軟，包含柔軟此字的寬大和抽象意義"}]}],"t":"ka'ped"}
+,"ka%27red":{"h":[{"d":[{"l":["`mika'red~"],"f":"￹￺hand-rolled string made from a plant￻打繩子, 拈線, 捻繩，結繩"}]}],"t":"ka'red"}
+,"ka%27so":{"h":[{"d":[{"l":["`'ardet~"],"f":"￹￺Refer to `'ardet~￻詳見 `'ardet~"}]}],"t":"ka'so"}
+,"ka%27so%27":{"h":[{"d":[{"e":["￹`sapaka'so'an~￺looks good tasting￻看起來好像很可口的樣子"],"f":"￹￺delicious * good tasting￻好吃，美味可口，味道佳美"}]}],"t":"ka'so'"}
+,"ka%27tohay":{"h":[{"d":[{"f":"￹￺a wine bottle￻酒瓶"}]}],"t":"ka'tohay"}
+,"kaacangan":{"h":[{"d":[{"f":"￹￺festival * day of .merry making￻結婚喜慶之日，大喜之日"}]}],"t":"kaacangan"}
+,"kaacekan":{"h":[{"d":[{"f":"￹￺something ritually unclean￻儀式上不潔淨的東西"},{"f":"￹￺filthy * dirty￻污穢，醜惡"}]}],"t":"kaacekan"}
+,"kacangalan":{"h":[{"d":[{"l":["`cangal~"],"f":"￹￺thing not meeting expectations￻未足部分，期望達到要求而未達的部份"}]}],"t":"kacangalan"}
+,"kacaw":{"h":[{"d":[{"l":["`pikacawan~"],"f":"￹￺to watch the village from the village tower￻守衛、戒備、監視"}]}],"t":"kacaw"}
+,"kacawas":{"h":[{"d":[{"l":["`sinar~"],"f":"￹￺watermelon￻西瓜"}]}],"t":"kacawas"}
+,"kacep":{"h":[{"d":[{"f":"￹￺to catch * as to catch a ball￻接球或丟過來的東西，抓飛過來的動物或東西"}]}],"t":"kacep"}
+,"kacica%27ay":{"h":[{"d":[{"f":"￹￺a tree * Para rubber Tree￻巴西橡皮樹"}]}],"t":"kacica'ay"}
+,"kacidalay":{"h":[{"d":[{"f":"￹￺an insect * praying mantis￻螳螂"}]}],"t":"kacidalay"}
+,"kacifaloco%27an":{"h":[{"d":[{"l":["`faloco'~"],"f":"￹￺object of affections￻心有獨寵，想要的東西"}]}],"t":"kacifaloco'an"}
+,"kacihrangan":{"h":[{"d":[{"f":"￹￺summertime￻夏天"}]}],"t":"kacihrangan"}
+,"kaciki":{"h":[{"d":[{"f":"￹￺Swordfish (Xiphias gladius) (from Japanese)￻旗魚 (引自日語)"}]}],"t":"kaciki"}
+,"kacipa%27ay":{"h":[{"d":[{"l":["`cipa'~"],"f":"￹￺ginger root￻生薑"}]}],"t":"kacipa'ay"}
+,"kaciw":{"h":[{"d":[{"f":"￹￺goose (from Japanese)￻鵝 (引自日語)"}]}],"t":"kaciw"}
+,"kacolah":{"h":[{"d":[{"f":"￹￺a garden hybird flower called Garden Glorybower (Clerdendron)￻珠寶蓮"}]}],"t":"kacolah"}
+,"kadac":{"h":[{"d":[{"f":"￹￺large square-shaped container made of reeds￻竹製籃"},{"f":"￹￺tubs used for transport of rice seedlings￻農人裝秧苗之藍(插秧時用)"}]}],"t":"kadac"}
+,"kadafo":{"h":[{"d":[{"l":["`'acawa~","`mikadafo~","`pikadafoan~"],"f":"￹￺an in-law￻媳婦，女婿"}]}],"t":"kadafo"}
+,"kadafowangay":{"h":[{"d":[{"l":["`tolatolaw~"],"f":"￹￺large white bird called Cattle Egret or Little Egret￻白鷺絲"}]}],"t":"kadafowangay"}
+,"kadamat":{"h":[{"d":[{"f":"￹￺membrane in the inner flesh￻薄膜"}]}],"t":"kadamat"}
+,"kadang":{"h":[{"d":[{"f":"￹￺bracelet￻手鐲"},{"l":["`pakadang~"],"f":"￹￺nose ring for water buffalo￻水牛鼻環"}]}],"t":"kadang"}
+,"kadawangay":{"h":[{"d":[{"f":"￹￺long-legged mosquito￻長腳蚊"},{"l":["`kadifowangay~"],"f":"￹￺name of a vegetable￻蔬菜名 (花蓮語)"}]}],"t":"kadawangay"}
+,"kadipohaw":{"h":[{"d":[{"l":["`maporahaw~","`mafodad~","`karipohaw~"]},{"f":"￹￺to have bad vision￻視覺模糊"}]}],"t":"kadipohaw"}
+,"kadit":{"h":[{"d":[{"l":["`'oning~"],"f":"￹￺dirt * dirty￻汙垢"},{"l":["`to'em~"],"f":"￹￺cloud￻烏雲，雲彩"}]}],"t":"kadit"}
+,"kadkad":{"h":[{"d":[{"f":"￹￺to literally search inside of for something.￻探究事情的內部"},{"f":"￹￺to investigate * to make a study￻研究，調查"},{"f":"￹￺to bring up the past￻翻舊帳，揭瘡疤，舊事重提"}]}],"t":"kadkad"}
+,"kado%27engay":{"h":[{"d":[{"l":["`kaongtoay~"],"f":"￹￺a bird called Common Kingfisher￻翠鳥 (俗名魚狗)"}]}],"t":"kado'engay"}
+,"kadodoc":{"h":[{"d":[{"f":"￹￺to keep feelings to oneself because he has no way to express himself￻順從別人，因而無從表達自己的意思"}]}],"t":"kadodoc"}
+,"kadofah":{"h":[{"d":[{"f":"￹￺sumptuous * more than adequate￻豐富的，華麗的，奢侈的"}]}],"t":"kadofah"}
+,"kadowangay":{"h":[{"d":[{"l":["`kadawangay~","`kadifowangay~"],"f":"￹￺the name of an edible wild vegetable￻蔬菜名，野菜"}]}],"t":"kadowangay"}
+,"kaen":{"h":[{"d":[{"l":["`kakaenen~","`pakaen~","`pasikaen~","`komaen~","`kakomaenan~","`pipakaenan~","`makaen~","`sapasikaen~","`milihiw~"],"f":"￹￺pertaining to food￻關於吃食物的字眼"}]}],"t":"kaen"}
+,"kafafang":{"h":[{"d":[{"l":["`kafang~"],"f":"￹￺coat * long outer garment￻外套，大衣"},{"f":"￹￺bed cover￻被套，床套"}]}],"t":"kafafang"}
+,"kafangasay":{"h":[{"d":[{"f":"￹￺a tree called Pistacia Chinenis Bunge.￻黃連木"}]}],"t":"kafangasay"}
+,"kafaniw":{"h":[{"d":[{"f":"￹￺a species of ants￻螞蟻的一種"}]}],"t":"kafaniw"}
+,"kafarawfawan":{"h":[{"d":[{"l":["`pafantangan~","`kalalood~"],"f":"￹￺autumn￻秋天"}]}],"t":"kafarawfawan"}
+,"kafay":{"h":[{"d":[{"f":"￹￺a tree called Fruit Fig-tree (Ficus superba), large and growing at lower elevation￻雀榕，生長在海岸地的樹"},{"l":["`ti'aw~"],"f":"￹￺Opposited-leaves fig￻對葉榕"}]}],"t":"kafay"}
+,"kafer":{"h":[{"d":[{"f":"￹￺trousers * pants￻褲子"},{"f":"￹￺in-side pants * under-pants￻內褲"}]}],"t":"kafer"}
+,"kafi":{"h":[{"d":[{"l":["`kohaw~"],"f":"￹￺Refer to `kohaw~￻詳見 `kohaw~"}]}],"t":"kafi"}
+,"kafid":{"h":[{"d":[{"f":"￹￺the name of an all sovereign god as known in Yuli-Reishwei area * suitable term for the Christian God--God the Father￻天父，玉里鎮瑞穗地區阿美族所敬拜的統治神明以此名稱稱基督教的上帝為--天父"}]}],"t":"kafid"}
+,"kafit":{"h":[{"d":[{"f":"￹￺attached to * stuck to￻黏住，貼住"},{"f":"￹￺to hang￻懸掛"},{"e":["￹`Makakafit~ `kita~ `aci~ `Yis~.￺We are related * have a relationship to Jesus.￻我們和耶穌相連"],"f":"￹￺related to￻連接，關連，相關"}]}],"t":"kafit"}
+,"kaflaw":{"h":[{"d":[{"l":["`afsa'~","`kafsa'~"],"f":"￹￺to be without taste￻沒味道，淡淡的"}]}],"t":"kaflaw"}
+,"kafohatan":{"h":[{"d":[{"l":["`fohat~"],"f":"￹￺an opening￻打開之處"}]}],"t":"kafohatan"}
+,"kafokilan":{"h":[{"d":[{"l":["`fokil~"],"f":"￹￺something not understood￻無法瞭解之處，不知道的地方"}]}],"t":"kafokilan"}
+,"kafong":{"h":[{"d":[{"l":["`pakafongen~","`sakafongen~"],"f":"￹￺hat * anything worn on the head￻帽子"}]}],"t":"kafong"}
+,"kafooy":{"h":[{"d":[{"l":["`'rafay~"],"f":"￹￺an earthen vessel used in old days for cooking rice or soup￻容器，器皿(壺、鉢)可用來煮飯和煎菜"}]}],"t":"kafooy"}
+,"kafos":{"h":[{"d":[{"f":"￹￺a species of fish￻特別的一種魚"}]}],"t":"kafos"}
+,"kafoti%27an":{"h":[{"d":[{"l":["`foti'~"],"f":"￹￺bed * place to sleep￻床，睡覺的地方"}]}],"t":"kafoti'an"}
+,"kafsa%27":{"h":[{"d":[{"l":["`afsa'~"],"e":["￹`kafsa'~ `ko~ `sowal~￺speech is not interesting￻說話無趣，索然無味"],"f":"￹￺tasteless * as something without salt￻無味，淡淡無味(未加鹽)，鹹味不足"}]}],"t":"kafsa'"}
+,"kafso":{"h":[{"d":[{"e":["￹`kafosay~ `a~ `knaw~￺the green tops of round onions * with hollowed out stalks￻洋蔥"],"f":"￹￺to be hollow * as the inside of a balloon￻中空的，空的"}]}],"t":"kafso"}
+,"kahcid":{"h":[{"d":[{"f":"￹￺salty * as sea water￻鹹"},{"f":"￹￺sweet (Hualien dialect)￻甜 (花蓮語)"}]}],"t":"kahcid"}
+,"kahciday":{"h":[{"d":[{"f":"￹￺something salty￻鹹的東西"},{"f":"￹￺name of an Amisvillage￻成功鎮和平部落名"}]}],"t":"kahciday"}
+,"kahcraan":{"h":[{"d":[{"l":["`hcra~"],"f":"￹￺the area in which one settles￻目的地，某人由某地到達而定居的地方"}]}],"t":"kahcraan"}
+,"kahdongay":{"h":[{"d":[{"l":["`papa'ongay~"],"f":"￹￺a vegetation growing in sandy soil * The Amis used to smoke the plant for insect repellant.￻生長在沙地上的植物(蘆筍)，阿美族用這種植物來燒成煙以驅走昆蟲"}]}],"t":"kahdongay"}
+,"kahi":{"h":[{"d":[{"l":["`makahi~"],"e":["￹`caay~ `ka~ `kahi~￺not agree￻不同意"],"f":"￹￺to agree￻同意，首肯"}]}],"t":"kahi"}
+,"kahicraan":{"h":[{"d":[{"l":["`hicra~"],"f":"￹￺place of arrival￻目的地，到達之處，落腳之處，定居的地方"}]}],"t":"kahicraan"}
+,"kahir":{"h":[{"d":[{"l":["`karih~"],"f":"￹￺to rake * spread * as when drying rice on the threshing floor￻耙；用耙子耙攏或耙散穀物(晒穀時)"}]}],"t":"kahir"}
+,"kahirahira":{"h":[{"d":[{"f":"￹￺all varieties * all kinds￻多樣，各色各樣"}]}],"t":"kahirahira"}
+,"kahmaw":{"h":[{"d":[{"l":["`palakahmaw~"],"e":["￹`Kahmaw~ `a~ `tngilen~ `ko~ `sowal~ `nira~.￺His words are easy to receive.￻話聽起來很容易了解","￹`Sakahmaw~ `sa~ `ko~ `faloco'~ `ako~.￺I respond by feeling light-hearted.￻心裏覺得很輕鬆"],"f":"￹￺light as opposed to heavy * literal and figurative meanings * easy￻輕，重的相反詞；容易(字面上及比喻上)，容易理解"}]}],"t":"kahmaw"}
+,"kahmekan":{"h":[{"d":[{"l":["`hmek~"],"f":"￹￺something that is admired￻值得讚賞"}]}],"t":"kahmekan"}
+,"kahmid":{"h":[{"d":[{"f":"￹￺the name of a large crab with hair on its body￻身上長毛的大螃蟹，大毛蟹"}]}],"t":"kahmid"}
+,"kahnanini":{"h":[{"d":[{"l":["`nahini~","`kanini~"],"f":"￹￺a request to come near￻請人或叫人靠近"}]}],"t":"kahnanini"}
+,"kahngang":{"h":[{"d":[{"f":"￹￺red￻紅色"}]}],"t":"kahngang"}
+,"kahofocan":{"h":[{"d":[{"l":["`hofoc~"],"f":"￹￺day of giving birth * birthday￻生日"}]}],"t":"kahofocan"}
+,"kahong":{"h":[{"d":[{"f":"￹￺the large shoulder bone￻肩骨"},{"f":"￹￺a rice paddle for dishing out rice (Kwangfu)￻割稻時穀谷用墊木 (光復)"},{"f":"￹￺instrument for threshing￻打穀工具"}]}],"t":"kahong"}
+,"kahot":{"h":[{"d":[{"e":["￹`mikahot~ `to~ `hmay~￺to eat rice with one's hands (the former life style of Amis)￻用手抓飯 (古時阿美族吃飯的習慣)"],"f":"￹￺to take in one's hands * a handful￻用手抓取，拿東西"}]}],"t":"kahot"}
+,"kahteng":{"h":[{"d":[{"f":"￹￺the smell of bowel movement￻糞便之臭味"}]}],"t":"kahteng"}
+,"kaimahan":{"h":[{"d":[{"l":["`imah~"],"f":"￹￺object of physical desire * especially the focus of sexual desire￻所喜歡的東西，渴慕的對象"}]}],"t":"kaimahan"}
+,"kaka":{"h":[{"d":[{"l":["`kaka~"],"e":["￹`cikakaan~ `ako~￺place where (my) brother is￻在我哥哥那兒"],"f":"￹￺older sibling (brother or sister)￻哥哥或姐姐"},{"l":["`malikaka~","`malkaka~","`ikakaay~","`palakaka~"],"f":"￹￺one more advanced than * in superior position￻長輩或兄長"}]}],"t":"kaka"}
+,"kakaenen":{"h":[{"d":[{"l":["`kaen~"],"f":"￹￺food * things to eat￻食物"}]}],"t":"kakaenen"}
+,"kakahad":{"h":[{"d":[{"l":["`dadahal~","`misakakahad~"],"f":"￹￺wide * expansive￻寬大，寬敞，廣闊"}]}],"t":"kakahad"}
+,"kakahong":{"h":[{"d":[{"l":["`kowaw~"],"f":"￹￺Flying Fish￻飛魚"}]}],"t":"kakahong"}
+,"kakalimlaan":{"h":[{"d":[{"f":"￹￺something of value * something important￻非常重要, 有價值的"},{"l":["`limla~"],"f":"￹￺something that should have been saved but was lost or wasted￻應該節省的東西，但已失去或浪費掉了"}]}],"t":"kakalimlaan"}
+,"kakarayan":{"h":[{"d":[{"f":"￹￺sky￻天空"},{"f":"￹￺biblical use - heaven￻聖經上的天堂, 天國"}]}],"t":"kakarayan"}
+,"kakawang":{"h":[{"d":[{"f":"￹￺to be exposed and naked￻裸體，赤膊，一絲不掛"}]}],"t":"kakawang"}
+,"kakawasan":{"h":[{"d":[{"l":["`Kakawasan~"],"f":"￹￺name of an Amis village￻台東石川部落名"}]}],"t":"kakawasan"}
+,"kakawit":{"h":[{"d":[{"l":["`kamit~"],"f":"￹￺a small sickle￻小鐮刀 (割稻用)"}]}],"t":"kakawit"}
+,"kakaya%27":{"h":[{"d":[{"l":["`ko'daw~","`ki'daw~","`raraya'~"],"f":"￹￺long￻長"}]}],"t":"kakaya'"}
+,"kakidec":{"h":[{"d":[{"l":["`lalidec~"],"f":"￹￺Chinese Fringe Tree (Chionanthus retusus)￻流蘇樹"}]}],"t":"kakidec"}
+,"kakiri%27an":{"h":[{"d":[{"l":["`kirikiri'~"],"f":"￹￺arnpit * under ones arm at the shoulder￻腋下，胳肢窩"}]}],"t":"kakiri'an"}
+,"kakitaan":{"h":[{"d":[{"f":"￹￺village leader￻頭目，鄉紳"},{"f":"￹￺someone who is rich and has prestige￻富裕人家，財主"},{"f":"￹￺biblical term for Judges￻聖經上審判官之字眼"}]}],"t":"kakitaan"}
+,"kakitiw":{"h":[{"d":[{"f":"￹￺Yellow Jackets (Polites gallicus * a kind of bee)￻黃蜂"}]}],"t":"kakitiw"}
+,"kakiw":{"h":[{"d":[{"f":"￹￺a stone used to sharpen a blade￻磨石，磨刀用小石"}]}],"t":"kakiw"}
+,"kakiwaci":{"h":[{"d":[{"f":"￹￺to be crossed in position but not at right angles￻十字形交叉，但交叉構成的四角不等於直角"}]}],"t":"kakiwaci"}
+,"kakloy":{"h":[{"d":[{"f":"￹￺the name of an insect that eats leaves * the cocoon stage of a butterfly￻毛毛蟲"}]}],"t":"kakloy"}
+,"kako":{"h":[{"d":[{"f":"￹￺I * the first person personal pronoun (see Appendix 1 - Pronouns)￻我，第一人稱代名詞，參閱附錄Ⅰ"}]}],"t":"kako"}
+,"kakohkoh":{"h":[{"d":[{"l":["`kakohkohay~"],"f":"￹￺Taiwan Cobra * a poisonous snake found on the plains (Trimeresurus monticola orientalis)￻眼鏡蛇"}]}],"t":"kakohkoh"}
+,"kakohkohay":{"h":[{"d":[{"l":["`kakohkoh~"],"f":"￹￺Taiwan Cobra * a poisonous snake found on the plains * has white marking * stands on end and flattens out its neck to strike￻眼鏡蛇，頸部有白色花紋，攻擊時頸部成扁平形狀"}]}],"t":"kakohkohay"}
+,"kakomaenan":{"h":[{"d":[{"l":["`kaen~"],"f":"￹￺table * dining area￻飯桌、餐桌(廳)，吃東西的地方(場所)"}]}],"t":"kakomaenan"}
+,"kakonah":{"h":[{"d":[{"f":"￹￺ants￻螞蟻"}]}],"t":"kakonah"}
+,"kakoreng":{"h":[{"d":[{"f":"￹￺edible plant * Climbing Fig (Fiscus vaccinioides)￻蔓榕 (越橘葉蔓榕)"}]}],"t":"kakoreng"}
+,"kakorengay":{"h":[{"d":[{"e":["￹`no~ `'ri~ `a~ `kakorengay~￺Fairy Fig tree (Fiscus formosana)￻羊乳榕 (台灣天仙果)"],"f":"￹￺See kakoreg￻參閱 kakoreg"}]}],"t":"kakorengay"}
+,"kakorot":{"h":[{"d":[{"l":["`sokoy~"],"f":"￹￺a vegetable called Bitter Cucumber * Balsam Pear￻苦瓜"}]}],"t":"kakorot"}
+,"kakot":{"h":[{"d":[{"l":["`hahac~"],"f":"￹￺large beans￻大豆"}]}],"t":"kakot"}
+,"kakowat":{"h":[{"d":[{"f":"￹￺the name of a worm that crawls by buckling up its body￻毒蛇名，皺身爬行，毛毛蟲"}]}],"t":"kakowat"}
+,"kakoy":{"h":[{"d":[{"f":"￹￺to lift * with one person doing the lifting with his hands￻抬舉"}]}],"t":"kakoy"}
+,"kakoyodan":{"h":[{"d":[{"l":["`koyod~","`takoyodan~"],"f":"￹￺a basket made of reeds as a backpack￻背簍 (袋)"}]}],"t":"kakoyodan"}
+,"kakoyol":{"h":[{"d":[{"f":"￹￺a large bean that is dried for eating￻大型豆類曬乾後始能吃"}]}],"t":"kakoyol"}
+,"kakreng":{"h":[{"d":[{"l":["`rohroh~"],"f":"￹￺thunder￻雷電"}]}],"t":"kakreng"}
+,"kakridan":{"h":[{"d":[{"l":["`krid~"],"f":"￹￺a leader￻領導者"}]}],"t":"kakridan"}
+,"kakrikridan":{"h":[{"d":[{"l":["`krid~"],"f":"￹￺the leaders￻元老，長老，領導群"}]}],"t":"kakrikridan"}
+,"kaktol":{"h":[{"d":[{"l":["`fangaw~"],"f":"￹￺a small hard backed beetle-like biting bug￻臭蟲 (日人稱南京蟲)"}]}],"t":"kaktol"}
+,"kala":{"h":[{"d":[{"e":["￹`Kala~ `nipila'pa~ `han~ `nangra~ `ko~ `nika~ `romakat~.￺They blew the trumpets as they walked.￻他們邊吹喇叭邊走路"],"f":"￹￺a grammatical particle indicating the doing of one activity along with another￻文法上表示指一起做另外一件事"}]}],"t":"kala"}
+,"kala%27ka%27":{"h":[{"d":[{"f":"￹￺rattling noise￻嘎嘎之吵鬧聲"}]}],"t":"kala'ka'"}
+,"kalafian":{"h":[{"d":[{"l":["`lafi~"],"f":"￹￺dinner time￻晚餐時間"}]}],"t":"kalafian"}
+,"kalah":{"h":[{"d":[{"l":["`tamol~","`foraw~"],"f":"￹￺to be in a hurry￻緊急"}]}],"t":"kalah"}
+,"kalaha%27ay":{"h":[{"d":[{"f":"￹￺a demon that lives in open fields who calls and when approached the person can't see anyone but gets sick from his influence￻惡魔在田中走動著，顯現時便叫人過去，接近後什麼也看不見，切被惡魔的邪靈附著而生病"}]}],"t":"kalaha'ay"}
+,"kalahcian":{"h":[{"d":[{"l":["`lahci~"],"f":"￹￺time when finished￻完成的時間"}]}],"t":"kalahcian"}
+,"kalahokan":{"h":[{"d":[{"l":["`lahok~"],"f":"￹￺lunch time￻午餐時間"}]}],"t":"kalahokan"}
+,"kalahongtian":{"h":[{"d":[{"l":["`hongti~"],"f":"￹￺time of the rule of a king￻封王之日"}]}],"t":"kalahongtian"}
+,"kalala":{"h":[{"d":[{"l":["`Kalala~"],"f":"￹￺the name of an Amis village￻加納納部落"}]}],"t":"kalala"}
+,"kalali%27acaan":{"h":[{"d":[{"f":"￹￺market￻買賣場所、交易場所、市場"}]}],"t":"kalali'acaan"}
+,"kalalicayan":{"h":[{"d":[{"l":["`licay~"],"f":"￹￺time to chat (two)￻討論時間"}]}],"t":"kalalicayan"}
+,"kalaliyang":{"h":[{"d":[{"l":["`liyang~"],"f":"￹￺to dispute with each other * a dispute￻與每人爭論駁斥，爭吵，抵抗"}]}],"t":"kalaliyang"}
+,"kalalood":{"h":[{"d":[{"l":["`lood~"],"f":"￹￺the battle (two sides implied)￻打仗"}]}],"t":"kalalood"}
+,"kalamkam":{"h":[{"d":[{"l":["`kaliki~"],"e":["￹`Kalamkamen~ `ko~ `dmak~.￺Do the activity quickly.￻動作要迅速敏捷"],"f":"￹￺soon * quickly￻迅速，立刻"}]}],"t":"kalamkam"}
+,"kalanangan":{"h":[{"d":[{"l":["`lanang~"],"f":"￹￺thing or person with whom one is annoyed￻煩透，事情或人使人感到困擾"}]}],"t":"kalanangan"}
+,"kalang":{"h":[{"d":[{"l":["`mikalang~"],"f":"￹￺crab￻螃蟹"}]}],"t":"kalang"}
+,"kalanga":{"h":[{"d":[{"f":"￹￺black on the bottom of a kettle or pan￻黑色底部可放置茶壺或圓鍋的三角架"},{"f":"￹￺to have rice stick to ones hands￻飯粒黏在手上"}]}],"t":"kalanga"}
+,"kalangaay":{"h":[{"d":[{"f":"￹￺edible water bug that sucks on fish (Nepa cinerea)￻吸吮魚的可食昆蟲"}]}],"t":"kalangaay"}
+,"kalangangan":{"h":[{"d":[{"f":"￹￺the boundary * boundaries￻界線，邊界，範疇"}]}],"t":"kalangangan"}
+,"kalapiyat":{"h":[{"d":[{"f":"￹￺lighting * in flash form￻閃電"}]}],"t":"kalapiyat"}
+,"kalas":{"h":[{"d":[{"f":"￹￺title for the oldest age group of men in the village * eighty years old or older￻在村落較長者之一群之名稱，在80歲以上之長者"}]}],"t":"kalas"}
+,"kalasal":{"h":[{"d":[{"f":"￹￺spaces between * as to plant rice sparsely￻稀鬆不密如種植水稻間隔稀鬆"},{"f":"￹￺loosely woven￻鬆弛地編制(如網或籃等)"}]}],"t":"kalasal"}
+,"kalat":{"h":[{"d":[{"f":"￹￺to bite literally￻咬(字面上的)"},{"f":"￹￺to be burned as by the sun￻陽光強烈"},{"e":["￹`Makalat~ `no~ `sapayo~ `ko~ `fanges~.￺Skin reacts to medication.￻吃藥引起皮膚過敏"],"f":"￹￺to have an allergic reaction￻過敏反應"},{"e":["￹`Mikalat~ `ko~ `sowal~ `nira~.￺His words inflict hurt.￻話中帶剌，……的話傷人"],"f":"￹￺to hurt￻傷害, 傷口疼痛"}]}],"t":"kalat"}
+,"kalatim":{"h":[{"d":[{"l":["`sait~","`sakalatim~"],"f":"￹￺to cut with scissors￻剪斷，剪裁"}]}],"t":"kalatim"}
+,"kalaw":{"h":[{"d":[{"f":"￹￺eyebrows￻眉毛"}]}],"t":"kalaw"}
+,"kalawal":{"h":[{"d":[{"l":["`lawal~"]},{"f":"￹￺a flying squirrel￻飛鼠"},{"l":["`koka~"],"f":"￹￺walking stilts￻高蹺"}]}],"t":"kalawal"}
+,"kaleng":{"h":[{"d":[{"f":"￹￺a deep voice￻深沈的聲音"}]}],"t":"kaleng"}
+,"kales":{"h":[{"d":[{"l":["`kadat~"],"e":["￹`mikalos~ `to~ `fokes~￺to comb hair￻梳頭髮"],"f":"￹￺a comb￻梳子"}]}],"t":"kales"}
+,"kali":{"h":[{"d":[{"l":["`kengkeng~","`mikali~"],"f":"￹￺channels for water in the fields * ditch￻水溝，灌溉用之水圳"}]}],"t":"kali"}
+,"kalic":{"h":[{"d":[{"f":"￹￺to climb￻爬"},{"l":["`dakaw~"],"f":"￹￺to board a vehicle or animal￻乘, 騎, 搭"}]}],"t":"kalic"}
+,"kalidkid":{"h":[{"d":[{"f":"￹￺the rapid flow of water￻水急，水的流勢湍急"}]}],"t":"kalidkid"}
+,"kalihnawan":{"h":[{"d":[{"l":["`lihnaw~"],"f":"￹￺the things that caused panic￻令人擔心之事，掛慮之事"}]}],"t":"kalihnawan"}
+,"kaliki%27":{"h":[{"d":[{"f":"￹￺sound of rocks moving￻石頭移動之聲音"}]}],"t":"kaliki'"}
+,"kalilafangan":{"h":[{"d":[{"l":["`lafang~"],"f":"￹￺living room * guest room￻客廳，客房"}]}],"t":"kalilafangan"}
+,"kalileng":{"h":[{"d":[{"l":["`karireng~"],"f":"￹￺a wheel￻輪子"}]}],"t":"kalileng"}
+,"kaliling":{"h":[{"d":[{"l":["`'iros~"],"f":"￹￺spoon * originally made from bamboo￻湯匙"}]}],"t":"kaliling"}
+,"kalim":{"h":[{"d":[{"f":"￹￺impatient * wanting something to happen￻期盼，企望"},{"e":["￹`makalim~ `ko~ `wadis~￺teeth hurt￻牙齒酸痛"],"f":"￹￺teeth hurt from eating something sour￻牙酸(吃酸類之食物引起牙齒酸痛)"}]}],"t":"kalim"}
+,"kalimaanay":{"h":[{"d":[{"l":["`maan~"],"f":"￹￺something of no value￻這東西沒有價值"}]}],"t":"kalimaanay"}
+,"kalimnaw":{"h":[{"d":[{"f":"￹￺a species of a tree with leaves that are edible￻葉子可食之灌木"}]}],"t":"kalimnaw"}
+,"kalingko":{"h":[{"d":[{"l":["`Kalingko~"],"f":"￹￺Hualien (from Japanese)￻花蓮 (引自日語)"}]}],"t":"kalingko"}
+,"kalingsesan":{"h":[{"d":[{"l":["`lingses~"],"f":"￹￺thing that is revulsive￻驚恐之事"}]}],"t":"kalingsesan"}
+,"kaliomahan":{"h":[{"d":[{"l":["`omah~"],"f":"￹￺a specific piece of farm land￻農忙時期"}]}],"t":"kaliomahan"}
+,"kalipahakan":{"h":[{"d":[{"f":"￹￺thing you are happy about￻令你喜悅之事，令你雀躍不已的事"},{"f":"￹￺biblical term for paradise * place of joy￻聖經中的伊甸園，樂園"}]}],"t":"kalipahakan"}
+,"kalipidaan":{"h":[{"d":[{"l":["`pida~"],"f":"￹￺pay day￻領薪之日，發餉之日"}]}],"t":"kalipidaan"}
+,"kalita%27angan":{"h":[{"d":[{"l":["`lita'ang~"],"f":"￹￺object of one's pride￻某人所引以為傲的"}]}],"t":"kalita'angan"}
+,"kalitang":{"h":[{"d":[{"f":"￹￺string beans * green beans￻長豆"},{"f":"￹￺a fish called Hairtail (Trichiurus haumela)￻魚名"}]}],"t":"kalitang"}
+,"kaliti":{"h":[{"d":[{"f":"￹￺a wagon wheel￻輪胎的模樣"},{"f":"￹￺a round portion of rice bread that has been beaten out of glutinous rice￻一塊 (肉或糯米糕等的計量單位)"}]}],"t":"kaliti"}
+,"kaliwates":{"h":[{"d":[{"f":"￹￺a sore erupting from inside * a boil￻痔，痔瘡"}]}],"t":"kaliwates"}
+,"kaliyah":{"h":[{"d":[{"f":"￹￺the name of a demon who is very tall and lifts people putting them in tall trees or on the mountain. He meets people anywhere and the person suddenly becomes ill or has fever.￻鬼名，牠身量高大，常拐舉人放在高樹或山上，人們遇到牠即生病或發高燒"}]}],"t":"kaliyah"}
+,"kaliyalaw":{"h":[{"d":[{"f":"￹￺yellow￻黃色"}]}],"t":"kaliyalaw"}
+,"kaliyawan":{"h":[{"d":[{"l":["`Kaliyawan~"],"f":"￹￺name of an Amis village and clan￻氏族名，花蓮縣機場西南邊之地名或部落名"}]}],"t":"kaliyawan"}
+,"kalmedan":{"h":[{"d":[{"l":["`lmed~"],"f":"￹￺time of blessing￻蒙福之日"}]}],"t":"kalmedan"}
+,"kalo":{"h":[{"d":[{"e":["￹`kalo~ `maamaan~ / `kali~ `maamaan~￺all things￻所有的事物","￹`kalo~ `tayal~￺ordinary work￻所有的工作，任何的工作，各種不同的工作"],"f":"￹￺a grammatical particle with the sense of 1. ordinary 2. all * every￻一般的；每一個，各自，全部"}]}],"t":"kalo"}
+,"kalo%27mi":{"h":[{"d":[{"f":"￹￺barley￻大麥"}]}],"t":"kalo'mi"}
+,"kalocoday":{"h":[{"d":[{"f":"￹￺Viburnum Iuzonicum. Rolfe￻瑪瑙果(紅子仔)"},{"l":["`kanocoray~"],"f":"￹￺Viburnum Iuzonicum Rolfe vari. oblongum￻卵葉莢蓮"}]}],"t":"kalocoday"}
+,"kalodi":{"h":[{"d":[{"f":"￹￺a species of fish called Chinese Catfish (Parasilurus asotus)￻鮎魚"}]}],"t":"kalodi"}
+,"kaloh":{"h":[{"d":[{"f":"￹￺a soft rock￻鬆軟之岩石"}]}],"t":"kaloh"}
+,"kalolo":{"h":[{"d":[{"l":["`mihtangal~"],"f":"￹￺to wash one's hair￻洗髮"}]}],"t":"kalolo"}
+,"kalona":{"h":[{"d":[{"f":"￹￺to make love in preparation for the sex act￻調戲，調情，挑逗"},{"f":"￹￺animals playing with each other￻動物彼此嬉戲的現象"}]}],"t":"kalona"}
+,"kalongkong":{"h":[{"d":[{"f":"￹￺boomerang * the echo of thunder￻隆隆聲，木頭相撞的響聲，雷聲的回響"},{"f":"￹￺a kind of hot pepper￻一種辣椒"}]}],"t":"kalongkong"}
+,"kalosa%27ay":{"h":[{"d":[{"f":"￹￺a nickname for a plant which bleeds easily￻一種植物折斷其葉會流出很多汁液而取名為 kalosa'ay"},{"f":"￹￺a kind of grass￻一種草植物"}]}],"t":"kalosa'ay"}
+,"kalotongan":{"h":[{"d":[{"f":"￹￺the place of monkeys￻猴羣棲息之處"},{"l":["`lotong~","`Kalotongan~"],"f":"￹￺the name of an Amis village￻阿美族光復鄉東富加禮洞部落名"}]}],"t":"kalotongan"}
+,"kalto":{"h":[{"d":[{"l":["`cafer~"],"f":"￹￺to stop along the way￻中途歇脚"},{"f":"￹￺implies inviting person to join￻順道邀請人參與"}]}],"t":"kalto"}
+,"kamaro%27an":{"h":[{"d":[{"f":"￹￺chair * stool * seat￻椅子，凳，蓆子"},{"l":["`maro'~"],"f":"￹￺dwelling place * place to stay￻居住的地方/暫住的地方"}]}],"t":"kamaro'an"}
+,"kamay":{"h":[{"d":[{"l":["`kayam~","`mikamay~","`takamayan~","`pakamay~"],"e":["￹`Tanokamay~ `han~ `nira~.￺He did it by hand.￻他徒手做"],"f":"￹￺hands * including the arm￻手 (包含手臂)"}]}],"t":"kamay"}
+,"kamaya":{"h":[{"d":[{"f":"￹￺a bush called Taiwan Ebony Velvet Apple (Diospyros discolor)￻毛柿"}]}],"t":"kamaya"}
+,"kamet":{"h":[{"d":[{"l":["`mamet~"],"f":"￹￺to grasp or grab when slipping * including using toes to grab on with￻抓握 (滑溜時) 包含用腳趾緊抓之動作"}]}],"t":"kamet"}
+,"kami":{"h":[{"d":[{"f":"￹￺us * we (excluding the hearer) See Appendix 1 - Pronouns￻我們 (聽者除外) 參閱附錄Ⅰ代名詞"}]}],"t":"kami"}
+,"kamid":{"h":[{"d":[{"f":"￹￺thin * threadbare * of cloth￻布料，破布，碎布"}]}],"t":"kamid"}
+,"kamit":{"h":[{"d":[{"l":["`kakawit~"],"f":"￹￺small sickle￻鐮刀"}]}],"t":"kamit"}
+,"kamkam":{"h":[{"d":[{"l":["`pili'~"],"f":"￹￺to separate chaff from harvested grain using hands to throw the chaff away￻檢視，從稻穀中用手檢視，丟棄粗糠"}]}],"t":"kamkam"}
+,"kamleng":{"h":[{"d":[{"f":"￹￺slick * slippery * as a trail￻光滑，滑溜溜"}]}],"t":"kamleng"}
+,"kamo":{"h":[{"d":[{"f":"￹￺you plural.  See Appendix 1 - Pronouns￻你們，參閱附錄I代名詞"}]}],"t":"kamo"}
+,"kamodo%27":{"h":[{"d":[{"f":"￹￺a tree * Formosan Sweet-leaf * pliable and doesn't split￻月桂灰木"}]}],"t":"kamodo'"}
+,"kamoko":{"h":[{"d":[{"f":"￹￺a command to stop moving￻命令安靜，不可亂動"}]}],"t":"kamoko"}
+,"kamoko%27":{"h":[{"d":[{"l":["`mamako'~","`misakamoko'~"],"f":"￹￺short in length￻短，短暫的，剎那"}]}],"t":"kamoko'"}
+,"kamonanawan":{"h":[{"d":[{"l":["`nanaw~"],"f":"￹￺wash pan * place to wash￻洗手台，面盆"}]}],"t":"kamonanawan"}
+,"kamoraw":{"h":[{"d":[{"f":"￹￺a tree * White bark fig * Weeping Fig (Fiscus benjamin)￻白榕"},{"f":"￹￺India Laurel Fig (Fiscus microcarpa)￻榕樹"},{"f":"￹￺known in some areas as pomelo tree￻有些地區被稱為柚類植物"}]}],"t":"kamoraw"}
+,"kamowang":{"h":[{"d":[{"f":"￹￺a tree called Gonostegia hirta￻糯米糰"}]}],"t":"kamowang"}
+,"kanakan":{"h":[{"d":[{"f":"￹￺to walk awkwardly with legs apart￻屁股或陰部生瘡，或有陰疾，走姿不正之模樣"}]}],"t":"kanakan"}
+,"kanalatip":{"h":[{"d":[{"f":"￹￺to the west￻往西"},{"f":"￹￺name of an Amis village￻嘉平部落名"}]}],"t":"kanalatip"}
+,"kanalong":{"h":[{"d":[{"l":["`Kanalong~"],"f":"￹￺name given by the Kaliyawan to an Amis village￻金崙村之名"}]}],"t":"kanalong"}
+,"kananel":{"h":[{"d":[{"f":"￹￺gums * flesh in the mouth￻齒齦，牙牀"}]}],"t":"kananel"}
+,"kananini":{"h":[{"d":[{"l":["`kahnanini~","`nahini~"]},{"f":"￹￺a request \"come here\" (close)￻請靠過來，挨近一點"}]}],"t":"kananini"}
+,"kanas":{"h":[{"d":[{"f":"￹￺a basket made of bamboo reeds￻小籃子 (竹製品)"},{"l":["`karihic~","`kapitan~","`kopid~"],"f":"￹￺a container for fish￻漁民裝魚之籃子"}]}],"t":"kanas"}
+,"kanasal":{"h":[{"d":[{"f":"￹￺loosely woven * of cloth or baskets￻籃子或布編製成稀鬆不密"},{"f":"￹￺to be nearly bald￻疏落，稀鬆"}]}],"t":"kanasal"}
+,"kanatal":{"h":[{"d":[{"f":"￹￺island￻陸地，島"},{"f":"￹￺country￻國家，國土，土地，地域，地區"}]}],"t":"kanatal"}
+,"kangalayan":{"h":[{"d":[{"l":["`ngalay~"],"f":"￹￺the thing wanted or desired￻所指望的東西，所企盼的東西"}]}],"t":"kangalayan"}
+,"kangcoh":{"h":[{"d":[{"f":"￹￺the smell of urine￻尿臭味"}]}],"t":"kangcoh"}
+,"kangdaw":{"h":[{"d":[{"f":"￹￺green￻綠"},{"f":"￹￺blue￻藍，蒼白"}]}],"t":"kangdaw"}
+,"kangdaway":{"h":[{"d":[{"f":"￹￺Bamboo Snake * green with red patterned tail￻紅尾青竹蛇"}]}],"t":"kangdaway"}
+,"kangic":{"h":[{"d":[{"f":"￹￺dragon￻龍"}]}],"t":"kangic"}
+,"kangkang":{"h":[{"d":[{"l":["`tafi~","`mikangkang~","`pikangkangan~"],"f":"￹￺a plow￻犁具"}]}],"t":"kangkang"}
+,"kangkofo":{"h":[{"d":[{"f":"￹￺nurse (from Japanese)￻護士(引自日語)"}]}],"t":"kangkofo"}
+,"kani%27ki":{"h":[{"d":[{"l":["`maniki~"],"f":"￹￺to detest looking at * as when the house is messed up￻因髒感到不適"}]}],"t":"kani'ki"}
+,"kanicaw":{"h":[{"d":[{"l":["`cinaw~"],"f":"￹￺a basket to hold rice plantings (seedlings)￻(插秧時裝秧苗搬運用) 半圓形竹籃，置秧苗筐"}]}],"t":"kanicaw"}
+,"kanifangar":{"h":[{"d":[{"l":["`Kanifangar~"],"f":"￹￺the name of an Amis village￻隆昌村之名"}]}],"t":"kanifangar"}
+,"kaniharan":{"h":[{"d":[{"l":["`nihar~"],"f":"￹￺dawn￻黎明，破曉時分"}]}],"t":"kaniharan"}
+,"kanikaran":{"h":[{"d":[{"l":["`nikar~"],"f":"￹￺the time of dawn (predawn by western standards)￻破曉時分"}]}],"t":"kanikaran"}
+,"kanikis":{"h":[{"d":[{"f":"￹￺a species of bird￻一種特別的鳥"},{"f":"￹￺a species of fish￻一種特別的魚"}]}],"t":"kanikis"}
+,"kanini":{"h":[{"d":[{"l":["`knanini~"],"f":"￹￺come here￻靠近些"}]}],"t":"kanini"}
+,"kanir":{"h":[{"d":[{"f":"￹￺to be eager to go￻渴望去"}]}],"t":"kanir"}
+,"kanocoray":{"h":[{"d":[{"l":["`kalocoday~"],"f":"￹￺Refer to `kalocoday~￻詳見 `kalocoday~"}]}],"t":"kanocoray"}
+,"kanoos":{"h":[{"d":[{"l":["`milikanoos~"],"f":"￹￺fingernails * toenails * claws￻指甲、腳趾甲、爪"}]}],"t":"kanoos"}
+,"kansiya":{"h":[{"d":[{"f":"￹￺to praise * offer thanksgiving (from Japanese)￻感恩, 讚美, 感謝 (引自日語)"}]}],"t":"kansiya"}
+,"kansiyasay":{"h":[{"d":[{"f":"￹￺harvest festival (from Japanese)￻感恩節 (引自日語)"}]}],"t":"kansiyasay"}
+,"kantiw":{"h":[{"d":[{"f":"￹￺a method of securing something￻一個堅固東西的方式"}]}],"t":"kantiw"}
+,"kaolah":{"h":[{"d":[{"l":["`olah~"],"e":["￹`Pakaolahen~ `cingra~ `to~ `nano~ `nika~ `lalok~ `nira~.￺Reward her for her diligence.￻因她的勤勉而獎賞她","￹`O~ `maan~ `ko~ `sapakaolah~ `ita~ `cingraan~?￺What shall we give her for a reward?￻我們以什麼酬謝她"],"f":"￹￺to receive attention * reward￻喜愛，酬報，獎金"}]}],"t":"kaolah"}
+,"kaolahan":{"h":[{"d":[{"l":["`olah~"],"e":["￹`Olahen~ `ko~ `wawa~ `iso~.￺Love your child.￻要愛你的孩子","￹`O~ `aolahen~ `a~ `wawa~ `cingra~.￺He is a loveable child.￻他是值得被愛的孩子","￹`He~ `is~ `a~ `child~ `that~ `must~ `be~ `loved~.￺他是必須要愛的孩子￻Maolah kako a tayra a misalamax.","￹`I~ `like~ `to~ `ngo~ (`there~) `and~ `relax~.￺我喜歡到那裡去玩￻Pakaolahen koya wawa."],"f":"￹￺someone or something loved￻喜歡的人或物"}]}],"t":"kaolahan"}
+,"kaongtoay":{"h":[{"d":[{"l":["`kado'engay~"],"f":"￹￺a bird called Common Kingfisher￻翠鳥 (俗名魚狗)"}]}],"t":"kaongtoay"}
+,"kaos":{"h":[{"d":[{"f":"￹￺string or strap attached to something for tying￻繫在東西上的 柄、繩、皮帶等"}]}],"t":"kaos"}
+,"kapa":{"h":[{"d":[{"f":"￹￺to lay hands upon￻在…上按手，張手觸摸"},{"f":"￹￺to ordain for the ministry￻傳教師封牧的按手禮"}]}],"t":"kapa"}
+,"kapacekan":{"h":[{"d":[{"l":["`pacek~","`mipacek~"],"f":"￹￺place where nail is placed￻被鐵釘刺的地方"}]}],"t":"kapacekan"}
+,"kapah":{"h":[{"d":[{"l":["`sakapahen~"],"e":["￹`makapahay~ `ko~ `riko'~￺clothes are pretty￻衣服漂亮"],"f":"￹￺beautiful * pretty￻漂亮美麗，風華絕代，標緻"},{"l":["`masakapahay~"],"f":"￹￺a young man / men￻青年人，年輕人"}]}],"t":"kapah"}
+,"kapal":{"h":[{"d":[{"l":["`pakikapal~"],"f":"￹￺palm of the hand￻手掌"}]}],"t":"kapal"}
+,"kapanayan":{"h":[{"d":[{"l":["`panay~"],"f":"￹￺the time of harvest￻割稻時期"}]}],"t":"kapanayan"}
+,"kapangiay":{"h":[{"d":[{"f":"￹￺a tree called Triumfetta bartramia￻刺蒴麻"}]}],"t":"kapangiay"}
+,"kapaysinan":{"h":[{"d":[{"l":["`paysin~"],"f":"￹￺an activity or object that is taboo￻有禁忌的事物"}]}],"t":"kapaysinan"}
+,"kapet":{"h":[{"d":[{"l":["`capet~"],"f":"￹￺to catch * as a ball￻接，抓，接球"}]}],"t":"kapet"}
+,"kapi":{"h":[{"d":[{"e":["￹`Cikapi~ `cingra~ `to~ `Holam~.￺He has a Chinese mistress.￻他有外省籍情婦"],"f":"￹￺concubine * mistress￻妾，姘婦，姘居"},{"e":["￹`Makakapi~ `ko~ `pilayap~ `nira~.￺He got a second gift to go with the first.￻他得雙份禮物，他二者兼得","￹`Makakapi~ `ko~ `pitatoy~ `nira~.￺He carried something in both hands (for balance).￻他二手各拿東西(為保持平衡)","￹`Makakapi~ `ko~ `codad~ `ita~ `a~ `tayra~ `i~ `kyokay~￺We carry companion books to church (Bible and hymnal) .￻我們併拿二本書上教堂(聖經和聖詩)"],"f":"￹￺partner * one like the other￻夥伴"}]}],"t":"kapi"}
+,"kaping":{"h":[{"d":[{"l":["`Holam~","`Mingkok~"]},{"f":"￹￺Chinese China￻外省人，大陸人，官兵，漢人"},{"f":"￹￺a large red bean￻大型紅豆"}]}],"t":"kaping"}
+,"kapitan":{"h":[{"d":[{"f":"￹￺a tree called Guapiles Balsa￻輕木 (白塞木)"},{"f":"￹￺Euphorbiaceae * Macaranga tanarius￻血桐"},{"l":["`karihic~"],"f":"￹￺a basket for holding shellfish made from bamboo and carried at the waist￻竹簍，綁在腰部以抓貝殼或魚的竹籃"}]}],"t":"kapitan"}
+,"kapkap":{"h":[{"d":[{"l":["`potapot~","`niwaniw~"],"f":"￹￺to weed rice plants in the flooded fields￻農人趁插秧未久，泥土軟黏之際用雙手攪土除草之動作"},{"f":"￹￺to reach out and feel with hands for something you cannot see * grope￻暗中摸索"}]}],"t":"kapkap"}
+,"kaponay":{"h":[{"d":[{"f":"￹￺a tree called Taiwan pittosporum￻台灣海桐"}]}],"t":"kaponay"}
+,"kaporawan":{"h":[{"d":[{"l":["`poraw~"],"f":"￹￺time for fruit to form as flower drops off￻結果時期"}]}],"t":"kaporawan"}
+,"kaporotay":{"h":[{"d":[{"f":"￹￺a plant used by Japanese to make cloth * Triumfetta bartramia￻刺蒴麻 (黃花虱母頭)"}]}],"t":"kaporotay"}
+,"kapot":{"h":[{"d":[{"l":["`mikapot~","`mapakapot~","`masakapotay~","`kasakapot~"],"f":"￹￺associate * colleague￻助手，同伴，同事，夥伴，儕輩"}]}],"t":"kapot"}
+,"kapowa":{"h":[{"d":[{"f":"￹￺a small earthen jar * pottery * used to store left over cooked food￻大陶碗，缽，用來儲存剩餘的東西"},{"f":"￹￺a small bamboo basket for serving refreshments￻用來備置茶點的小竹籃"}]}],"t":"kapowa"}
+,"kara":{"h":[{"d":[{"l":["`karot~","`sakara~"],"f":"￹￺to rake the muddy fields with a water buffalo￻耙，牛拖耙 (用於弄平或攪拌泥土)"}]}],"t":"kara"}
+,"kara%27ka%27":{"h":[{"d":[{"f":"￹￺the sound of a creaking wagon￻牛車之聲，軋軋之聲"}]}],"t":"kara'ka'"}
+,"kara-":{"h":[{"d":[{"e":["￹`O~ `karamangahay~ `a~ `tamdaw~ `cingra~.￺He is always lying.￻他總是說謊","￹`Karapaskaay~ `ko~ `faloco'~ `nira~￺He has a lot of inhibitions.￻他心中有很多的壓抑"],"f":"￹￺a prefix meaning to have the habit of * to continually ...￻字首之義，有…習性之意"}]}],"t":"kara-"}
+,"karacaciyaw":{"h":[{"d":[{"f":"￹￺talk a lot * be a big talker￻好講話，嘮叨"}]}],"t":"karacaciyaw"}
+,"karahay":{"h":[{"d":[{"l":["`kalahay~","`kiring~"],"f":"￹￺a woman's back shield made from bamboo used in the fields to protect from the sun￻婦女背上用遮陽之保護物，用竹片製成的"}]}],"t":"karahay"}
+,"karalawlaay":{"h":[{"d":[{"l":["`lawla~"],"f":"￹￺a joker * humorous person￻滑稽，幽默的人，喜歡開玩笑的人"}]}],"t":"karalawlaay"}
+,"karam":{"h":[{"d":[{"f":"￹￺small shells or other objects used as charms in spirit worship * these contain special powers called \"mana\"￻小玻 璃珠，用於咒數害人，附鬼魂的力量在東西上"}]}],"t":"karam"}
+,"karapanay":{"h":[{"d":[{"l":["`samado~","`salipanay~"],"f":"￹￺tares￻莠草，稗子，像稻子的一種草"}]}],"t":"karapanay"}
+,"kararem":{"h":[{"d":[{"f":"￹￺inferiors * people below in rank￻劣等的"},{"f":"￹￺younger age￻年輕人"},{"f":"￹￺down river from￻下游"}]}],"t":"kararem"}
+,"karat":{"h":[{"d":[{"e":["￹`cikaratay~ `a~ `'ongcoy~￺a rough boulder￻粗糙，被水侵蝕之圓石，嶙峋巖石"],"f":"￹￺rough uneven rock￻崎嶇不平，粗糙不平之岩石"}]}],"t":"karat"}
+,"karatayal":{"h":[{"d":[{"l":["`tayal~"],"f":"￹￺to work all the time￻很勤"}]}],"t":"karatayal"}
+,"karayan":{"h":[{"d":[{"f":"￹￺sky * mid-heaven￻天空，蒼天"}]}],"t":"karayan"}
+,"kari%27ang":{"h":[{"d":[{"f":"￹￺persecute * mistreat by word or act￻破壞，迫害，虐待 (用話或行動逼迫害人或物)"}]}],"t":"kari'ang"}
+,"karico%27co%27":{"h":[{"d":[{"l":["`kalimoco'~"],"f":"￹￺corner inside a room or enclosed place￻角落，房子的死角"}]}],"t":"karico'co'"}
+,"karifateng":{"h":[{"d":[{"f":"￹￺spider web￻蜘蛛網"}]}],"t":"karifateng"}
+,"karih":{"h":[{"d":[{"l":["`kahir~","`sakarih~"],"f":"￹￺to rake * as when ranking rice on the drying floor￻拿耙子耙攏東西 (如散晒在地板上的穀子)"}]}],"t":"karih"}
+,"karihic":{"h":[{"d":[{"l":["`kapitan~","`kanas~"]},{"f":"￹￺a basket for shellfish and snails etc. made of bamboo * small and carried on the waist￻裝魚蝦或海產的小籠 (小口提簍，口緣繫一根繩子) 形小而繫在腰間"}]}],"t":"karihic"}
+,"karihkih":{"h":[{"d":[{"f":"￹￺a rustling sound￻沙沙，颯颯之聲音"}]}],"t":"karihkih"}
+,"kariwkiway":{"h":[{"d":[{"f":"￹￺parasite sea life (Pagurus colidus)￻寄居蟹"}]}],"t":"kariwkiway"}
+,"karkar":{"h":[{"d":[{"l":["`korkor~"],"f":"￹￺generic word for digging in the soil￻挖土，掘土"}]}],"t":"karkar"}
+,"karo%27":{"h":[{"d":[{"l":["`kamoraw~"],"f":"￹￺pomelo tree and fruit￻柚子"}]}],"t":"karo'"}
+,"karong":{"h":[{"d":[{"l":["`mikarong~","`pakarongay~"],"f":"￹￺to carry a message￻傳消息，傳信息"}]}],"t":"karong"}
+,"karoniron":{"h":[{"d":[{"l":["`roniron~"],"f":"￹￺a thorny tree used for carving out a wooden rice steamer￻刺桐"}]}],"t":"karoniron"}
+,"karooday":{"h":[{"d":[{"l":["`karootay~"],"f":"￹￺the name of a snail￻蝸牛 (海螺)"}]}],"t":"karooday"}
+,"karootay":{"h":[{"d":[{"l":["`karooday~"],"f":"￹￺Refer to `karooday~￻詳見 `karooday~"}]}],"t":"karootay"}
+,"karop":{"h":[{"d":[{"l":["`sakarop~"],"f":"￹￺to gather with hands something into a shallow basket shaped like a dustpan￻收集東西 (五穀，沙泥，垃圾，紙屑等) 放入簸箕內"}]}],"t":"karop"}
+,"karoroan":{"h":[{"d":[{"l":["`Karoroan~"],"f":"￹￺the name of an Amis village￻台東加路蘭和花蓮磯崎地名"}]}],"t":"karoroan"}
+,"karot":{"h":[{"d":[{"f":"￹￺to rake the muddy fields with a water buffalo￻大，牛拖耙 (用於弄平或攪拌泥土以便播種或插秧)"},{"l":["`kara~"],"f":"￹￺to rake rubbish￻耙垃圾"}]}],"t":"karot"}
+,"karotod":{"h":[{"d":[{"f":"￹￺rough * referring to the surface of anything * as for example rough ground￻粗糙的，皮膚長一粒一粒的東西；粗糙的土地，地表起伏不平"}]}],"t":"karotod"}
+,"karototoyay":{"h":[{"d":[{"f":"￹￺a plant with edible leaves and roots used for medicine￻這植物可食其嫩葉且根莖可用來製成藥"}]}],"t":"karototoyay"}
+,"karteng":{"h":[{"d":[{"l":["`fa'ket~"],"e":["￹`Karteng~ `ko~ `faloco'~ `ako~.￺My heart is weighed down withtrouble.￻我的心很沉重","￹`Karteng~ `ko~ `tayal~ `nira~.￺He has to lift in his work.￻他的工作煩重"],"f":"￹￺heavy￻重"}]}],"t":"karteng"}
+,"kasadakan":{"h":[{"d":[{"f":"￹￺mouth * source￻口，來源"},{"l":["`sadak~"],"f":"￹￺exit * way out￻太平門，出口"}]}],"t":"kasadakan"}
+,"kasafinacadan":{"h":[{"d":[{"l":["`finacadan~"],"f":"￹￺all the races￻各族"}]}],"t":"kasafinacadan"}
+,"kasakapot":{"h":[{"d":[{"l":["`kapot~"],"f":"￹￺each group￻每一個團體"}]}],"t":"kasakapot"}
+,"kasakitakit":{"h":[{"d":[{"l":["`kitakit~"],"f":"￹￺all the nations￻各個國家"}]}],"t":"kasakitakit"}
+,"kasakolfolfo%27":{"h":[{"d":[{"l":["`kolfo'~"],"f":"￹￺all the folds of (something)￻摺疊之物之皺摺"}]}],"t":"kasakolfolfo'"}
+,"kasalaloma%27an":{"h":[{"d":[{"l":["`laloma'~"],"f":"￹￺all the families of a clan￻各家族，各氏族"}]}],"t":"kasalaloma'an"}
+,"kasamihcaan":{"h":[{"d":[{"f":"￹￺a large period of time * an age￻年代"},{"f":"￹￺each * all of the years￻各年"}]}],"t":"kasamihcaan"}
+,"kasaniyaro%27":{"h":[{"d":[{"l":["`niyaro'~"],"f":"￹￺all the villages * each and every village￻各地方，各部落，各村莊"}]}],"t":"kasaniyaro'"}
+,"kasaparan":{"h":[{"d":[{"e":["￹`kasaparan~ `ko~ `faloco'~￺heart is not responsive￻心灰意冷"],"f":"￹￺numbness or tingling as when circulation is cut off * literal and figurative meanings￻麻木，麻痺；包含字面上和寓意上的麻木"}]}],"t":"kasaparan"}
+,"kasarayray":{"h":[{"d":[{"l":["`rayray~"],"f":"￹￺the connection between each sequence￻順序的承續轉接"}]}],"t":"kasarayray"}
+,"kasaslal":{"h":[{"d":[{"l":["`slal~"],"f":"￹￺a term referring to the organizational relationship of men in an Amis village￻在阿美族村落裡有編製關係 (如分階級，名稱，年齡)"}]}],"t":"kasaslal"}
+,"kasi%27nawan":{"h":[{"d":[{"l":["`si'naw~"],"f":"￹￺winter time￻冬天"}]}],"t":"kasi'nawan"}
+,"kasid":{"h":[{"d":[{"l":["`cikacik~"],"f":"￹￺driftwood￻浮木"},{"f":"￹￺Pacific current￻黑潮"}]}],"t":"kasid"}
+,"kasimlangan":{"h":[{"d":[{"l":["`simlang~"],"f":"￹￺the thing that is embarrassing or shameful to the viewer￻令人感到難為情或可恥的事"}]}],"t":"kasimlangan"}
+,"kasmeran":{"h":[{"d":[{"l":["`smer~"],"f":"￹￺the object of one's hurt￻令人痛心，心傷的事或物"}]}],"t":"kasmeran"}
+,"kasofocan":{"h":[{"d":[{"l":["`sofoc~"],"f":"￹￺time of birth￻生日"}]}],"t":"kasofocan"}
+,"kasolin":{"h":[{"d":[{"l":["`cinamalay~"],"f":"￹￺Refer to `cinamalay~￻詳見 `cinamalay~"}]}],"t":"kasolin"}
+,"kasoy":{"h":[{"d":[{"l":["`mikasoy~"],"f":"￹￺firewood￻薪柴"}]}],"t":"kasoy"}
+,"katacomoli":{"h":[{"d":[{"l":["`coli'~","`toko~","`mikatacomoli~"],"f":"￹￺edible hardbacked garden snails (from Japanese)￻蝸牛 (引自日語)"}]}],"t":"katacomoli"}
+,"katakat":{"h":[{"d":[{"f":"￹￺to lift something heavy with hands by oneself￻用雙手及腰部力量抬舉或搬運沉重荷物 (抬的東西高度不超過胸部)"}]}],"t":"katakat"}
+,"katar":{"h":[{"d":[{"e":["￹`Makatar~ `koya~ `wawa~.￺That child is vandal.￻那孩子蠻橫霸道"],"f":"￹￺vandalism * to vandalize￻蠻橫"}]}],"t":"katar"}
+,"katawa":{"h":[{"d":[{"l":["`katawaay~"],"f":"￹￺castor oil plant * Castor Bean￻蓖麻，綠葉蓖林"}]}],"t":"katawa"}
+,"katayalan":{"h":[{"d":[{"l":["`tayal~"],"f":"￹￺place of work / factory / office / shop￻工作場所，公司，工地，工廠"}]}],"t":"katayalan"}
+,"kataynian":{"h":[{"d":[{"l":["`tayni~"],"f":"￹￺time of coming￻來的時間"}]}],"t":"kataynian"}
+,"kater":{"h":[{"d":[{"l":["`makater~"],"f":"￹￺caught * snagged * as cloth or string￻衣服或線卡住"}]}],"t":"kater"}
+,"kati":{"h":[{"d":[{"l":["`ati~"],"f":"￹￺a call to come with￻叫人過來"}]}],"t":"kati"}
+,"kato":{"h":[{"d":[{"l":["`akato~"],"f":"￹￺enough * stop * a command￻不用了, 夠了, 停止"}]}],"t":"kato"}
+,"kato%27mi":{"h":[{"d":[{"l":["`'mi~"],"f":"￹￺barley￻大麥"}]}],"t":"kato'mi"}
+,"katofil":{"h":[{"d":[{"l":["`filfil~"],"f":"￹￺lips￻嘴唇"}]}],"t":"katofil"}
+,"katohay":{"h":[{"d":[{"f":"￹￺a kind of liquor￻一種飲料"}]}],"t":"katohay"}
+,"katol":{"h":[{"d":[{"f":"￹￺hide￻生皮"},{"f":"￹￺leather￻皮革"}]}],"t":"katol"}
+,"katop":{"h":[{"d":[{"f":"￹￺Taiwan nato tree (from Japanese)￻大葉山欖 (引自日語)"}]}],"t":"katop"}
+,"kawakawas":{"h":[{"d":[{"l":["`kawas~"],"f":"￹￺governing spirits (plural)￻諸神"}]}],"t":"kawakawas"}
+,"kawal":{"h":[{"d":[{"f":"￹￺ladder￻梯子"},{"l":["`kayakay~"],"f":"￹￺bridge (used in Hualien dialect)￻橋 (花蓮語)"},{"f":"￹￺pole used to pull down something like betel nut￻撐竿"}]}],"t":"kawal"}
+,"kawala":{"h":[{"d":[{"f":"￹￺concrete tile used on roof (from Japnese)￻瓦片 (引自日語)"}]}],"t":"kawala"}
+,"kawali":{"h":[{"d":[{"f":"￹￺east￻東邊 (方)"}]}],"t":"kawali"}
+,"kawanan":{"h":[{"d":[{"f":"￹￺right * as opposed to left￻右邊"}]}],"t":"kawanan"}
+,"kawar":{"h":[{"d":[{"f":"￹￺a back-pack carrying frame￻用木頭製成，背或扛東西用具"}]}],"t":"kawar"}
+,"kawas":{"h":[{"d":[{"f":"￹￺Kawas - God￻上帝"},{"e":["￹`kalo~ `kawas~￺all the spirits￻每一種神明","￹`tatiihay~ `a~ `kawas~￺demons￻惡魔，惡靈","￹`midipotay~ `a~ `kawas~￺gods * spirits that protect￻守護神","￹`palakawakawasen~ `ako~ `ko~ `nika~ `somowal~.￺I spoke in riddles.￻我說似謎的話","￹`palakawas~ `to~ `fokloh~￺make the stone a god￻尊石頭為神"],"f":"￹￺gods * spirits * super-natural beings￻諸神，靈，超自然存在"},{"l":["`kawakawas~","`pakawasay~","`cikawasay~","`masikawasay~"],"f":"￹￺ghosts￻鬼魂"}]}],"t":"kawas"}
+,"kawat":{"h":[{"d":[{"f":"￹￺a hand-breadth measure￻手長度量"}]}],"t":"kawat"}
+,"kawih":{"h":[{"d":[{"f":"￹￺to wave the hand to call to someone￻揮手叫人過來"}]}],"t":"kawih"}
+,"kawil":{"h":[{"d":[{"f":"￹￺a handle for a hoe * spear * etc.￻鋤頭，矛"}]}],"t":"kawil"}
+,"kawili":{"h":[{"d":[{"e":["￹`masakawiliay~ `ko~ `dmak~￺to be out of step * awkward￻動作笨拙不敏捷"],"f":"￹￺left * as opposed to right￻左邊"}]}],"t":"kawili"}
+,"kawit":{"h":[{"d":[{"f":"￹￺to knit * crochet￻用鈎針織布"},{"f":"￹￺to make nets￻製網"}]}],"t":"kawit"}
+,"kawkaw":{"h":[{"d":[{"l":["`mamiya~"],"f":"￹￺sickle * long blade knife with curved handle￻鐮刀，長刀，彎月刀"}]}],"t":"kawkaw"}
+,"kawrira":{"h":[{"d":[{"l":["`nikawrira~"],"f":"￹￺but￻然而，可是"}]}],"t":"kawrira"}
+,"kayakay":{"h":[{"d":[{"l":["`kawal~","`pakaykay~"],"f":"￹￺bridge￻橋"},{"e":["￹`Mala~ `kayakay~ `cingra~ `palalitmoh~ `cangraan~.￺He became a middle-man to introduce them.￻他成為他們的媒人，他們相識是他作媒的","￹`pakayakay~ `cingra~ `to~ `sakanga'ay~ `nangra~ `a~ `tatosa~￺He mediated for their reconciliation.￻他做調停人使他們和好"],"f":"￹￺to mediate * be middleman￻媒人"},{"l":["`kalic~"],"f":"￹￺to climb up (as a tree)￻爬 (如爬樹)"}]}],"t":"kayakay"}
+,"kayap":{"h":[{"d":[{"f":"￹￺a man's apron worn in a tribal costume￻男人穿著之短裙，繡花圍裙"}]}],"t":"kayap"}
+,"kayat":{"h":[{"d":[{"e":["￹`Makakayat~ `cangra~ `a~ `romakat~.￺They held hands as they walked.￻他們互相拉手行走","￹`Kayaten~ `kako~.￺Lead me by the hand.￻請用手牽我"],"f":"￹￺to lead by hand￻牽，牽手"}]}],"t":"kayat"}
+,"kayhid":{"h":[{"d":[{"e":["￹`Makayhid~ `no~ `tao~ `cingra~.￺He is led astray by others.￻他被別人帶壞了"],"f":"￹￺to lead along a wrong path * to influence negatively￻誘拐人走歧途，誤導人作壞事"}]}],"t":"kayhid"}
+,"kaying":{"h":[{"d":[{"f":"￹￺young woman * girl in teens or early twenties who is unmarried￻小姐，妙齡少女，20出頭之未婚女性"}]}],"t":"kaying"}
+,"kayki":{"h":[{"d":[{"f":"￹￺to meet for discussion (from Japanese)￻會議 (引自日語)"}]}],"t":"kayki"}
+,"kayko":{"h":[{"d":[{"f":"￹￺silkworm (from Japanese)￻蠶 (引自日語)"}]}],"t":"kayko"}
+,"kaysing":{"h":[{"d":[{"l":["`pakaysingan~"],"f":"￹￺dish * dishes￻碗，碟子"}]}],"t":"kaysing"}
+,"kcec":{"h":[{"d":[{"l":["`fotek~"],"f":"￹￺to close eyes￻閉眼睛"}]}],"t":"kcec"}
+,"kced":{"h":[{"d":[{"f":"￹￺to shrink￻萎縮，縮短"},{"f":"￹￺to return to normal￻膨脹東西恢復正常謂"}]}],"t":"kced"}
+,"kcor":{"h":[{"d":[{"l":["`pikcoran~"],"f":"￹￺to look down from above￻眺望，居高臨下"}]}],"t":"kcor"}
+,"kdal":{"h":[{"d":[{"f":"￹￺drought￻乾旱"},{"l":["`makdalay~"],"f":"￹￺famine￻飢荒"}]}],"t":"kdal"}
+,"kdec":{"h":[{"d":[{"f":"￹￺tight * tied or fixed so that it cannot move￻緊密"}]}],"t":"kdec"}
+,"kdof":{"h":[{"d":[{"f":"￹￺to be rounded out in shape￻窟窿"}]}],"t":"kdof"}
+,"kelkel":{"h":[{"d":[{"f":"￹￺a heart response from anger or being provoked or fear * causing a person to shake￻恐懼的發抖"}]}],"t":"kelkel"}
+,"kemkem":{"h":[{"d":[{"f":"￹￺to chew something hard￻用力咀嚼東西"}]}],"t":"kemkem"}
+,"kengkeng":{"h":[{"d":[{"l":["`kali~","`ci'ci~"],"f":"￹￺a ditch * gutter￻水溝"}]}],"t":"kengkeng"}
+,"kenken":{"h":[{"d":[{"f":"￹￺the muscle activity of the sex act￻雄性交配時臀部前後搖擺的動作"}]}],"t":"kenken"}
+,"keskes":{"h":[{"d":[{"l":["`pakeskes~"],"f":"￹￺[No English]￻[無中文解釋]"}]}],"t":"keskes"}
+,"ketket":{"h":[{"d":[{"l":["`kakoy~"],"f":"￹￺to carry by oneself￻拾起來，被人拾起"},{"e":["￹`O~ `miketketay~ `cingra~ `to~ `semsem~.￺He is experiencing suffering.￻他經歷過苦難"],"f":"￹￺to experience￻抓住，經歷"}]}],"t":"ketket"}
+,"kfing":{"h":[{"d":[{"l":["`makfing~"],"f":"￹￺measles￻麻疹"},{"f":"￹￺rash￻紅疹"}]}],"t":"kfing"}
+,"kfoh":{"h":[{"d":[{"l":["`kfo'~"],"f":"￹￺to immerse * submerge in water￻掉入水中"}]}],"t":"kfoh"}
+,"kfong":{"h":[{"d":[{"f":"￹￺to fall into a deep hole * as a trap or well￻掉入洞中 (makfog)"}]}],"t":"kfong"}
+,"ki%27a%27am":{"h":[{"d":[{"e":["￹`o~ `miki'a'amay~￺a beggar￻乞討者，乞丐"],"f":"￹￺to beg for a living * From 'a'am.￻討飯"}]}],"t":"ki'a'am"}
+,"ki%27aot":{"h":[{"d":[{"f":"￹￺to arrive first and receive ahead of others￻超越別人"}]}],"t":"ki'aot"}
+,"ki%27ayaw":{"h":[{"d":[{"f":"￹￺to get ahead of in position￻超前，超越，迎頭趕上"}]}],"t":"ki'ayaw"}
+,"ki%27caw":{"h":[{"d":[{"l":["`ki'ciw~","`ti'ciw~"],"f":"￹￺to start a song followed by a chorus singing a refrain (similar to a round)￻起音，主音，主理領唱者"}]}],"t":"ki'caw"}
+,"ki%27ciw":{"h":[{"d":[{"l":["`ki'caw~","`ti'ciw~"],"f":"￹￺to start a song followed by a chorus singing a refrain (similar to a round)￻起唱者，大會行帶唱的"}]}],"t":"ki'ciw"}
+,"ki%27mel":{"h":[{"d":[{"e":["￹`Ki'mel~ `ko~ `faloco'~ `nira~.￺He is strong in heart / courageous.￻他有勇氣的膽量","￹`Ki'mel~ `cingra~ `a~ `matayal~.￺He works with endurance.￻他工作很賣力"],"f":"￹￺courageous * strong with literal and spiritual dimensions￻有勇氣，力氣"}]}],"t":"ki'mel"}
+,"ki%27tec":{"h":[{"d":[{"l":["`li'tec~"],"f":"￹￺cold * literally and figuratively￻冷；對事物冷漠"}]}],"t":"ki'tec"}
+,"kiawkiaw":{"h":[{"d":[{"f":"￹￺pullet * young chicken￻小母雞，獵人用之帽子"}]}],"t":"kiawkiaw"}
+,"kicapos":{"h":[{"d":[{"f":"￹￺to leave out * to be left behind￻省略，忽略"}]}],"t":"kicapos"}
+,"kickic":{"h":[{"d":[{"f":"￹￺to cut flesh off the bones￻割傷"},{"f":"￹￺to expose the roots of sweet potatoes for the purpose of fertilizing￻暴晒蕃薯之菜根以做為肥料"},{"f":"￹￺a woven reed helmet hat worn by hunters￻獵人戴盔帽用蘆葦草編織成的"}]}],"t":"kickic"}
+,"kicocom":{"h":[{"d":[{"f":"￹￺to shelter or hide near a standing wall or other tall object￻倚賴，隱藏"}]}],"t":"kicocom"}
+,"kicofi":{"h":[{"d":[{"l":["`Kicofi~"],"f":"￹￺name of an Amis village￻花蓮月眉村部落名"}]}],"t":"kicofi"}
+,"kicomcom":{"h":[{"d":[{"f":"￹￺diagonal￻對角線，斜路"},{"l":["`comcom~"],"f":"￹￺to get into an enclosed place￻到幽暗(山的深邃處)的地方躲藏"}]}],"t":"kicomcom"}
+,"kicon":{"h":[{"d":[{"l":["`kengkeng~"],"f":"￹￺ditch * place where water or sewage runs￻水溝"}]}],"t":"kicon"}
+,"kida":{"h":[{"d":[{"f":"￹￺custard-apple * fruit and tree￻釋迦"}]}],"t":"kida"}
+,"kidafes":{"h":[{"d":[{"l":["`kiyafes~"],"f":"￹￺Refer to `kiyafes~￻詳見 `kiyafes~"}]}],"t":"kidafes"}
+,"kidat":{"h":[{"d":[{"f":"￹￺literally to pull out the roots by pulling on the runners * as a vine that sends out runners￻蔓藤類，蔓延，延生"},{"f":"￹￺to include the other along with￻包含其他的東西，用在一起"},{"f":"￹￺figuratively - to dig into and bring out the significance￻離題"},{"f":"￹￺to digress in speaking￻離開主題，扯到枝節"}]}],"t":"kidat"}
+,"kidfet":{"h":[{"d":[{"f":"￹￺closely arranged with no spaces in between, as in planting vegetables.  * in making strong cloth￻編排得很密合；種菜的間隔很密；編織的布很密而不容易破損"}]}],"t":"kidfet"}
+,"kidkid":{"h":[{"d":[{"f":"￹￺to drag something from one place to another￻拖，拉，扯"}]}],"t":"kidkid"}
+,"kido":{"h":[{"d":[{"l":["`pakido~"],"e":["￹`Tatiih~ `ko~ `kido~ `noya~ `tamdaw~.￺That person's character is not up to standard.￻那人形像與德性不好"],"f":"￹￺something found and claimed for oneself￻鑄造，形像"}]}],"t":"kido"}
+,"kifsiw":{"h":[{"d":[{"f":"￹￺kettle for boiling water￻開水壺"}]}],"t":"kifsiw"}
+,"kiftol":{"h":[{"d":[{"f":"￹￺thick * as opposed to thin￻厚"}]}],"t":"kiftol"}
+,"kihakih":{"h":[{"d":[{"f":"￹￺to wiggle * move with purpose to loosen * as fruit from a tree￻輕輕搖擺"}]}],"t":"kihakih"}
+,"kihar":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `kihar~ `ako~.￺I have no involvement with ...￻和我無關，我沒有責任","￹`Mikihar~ `kako~ `toya~ `dmak~.￺I related to (became involved) in that affair.￻我牽涉到此事物"],"f":"￹￺relate to * relationship￻關聯，關係"}]}],"t":"kihar"}
+,"kihcod":{"h":[{"d":[{"f":"￹￺completely taken * as a thief taking all the money not leaving any behind￻徹底，如小偷拿走所有的財務不留痕跡"}]}],"t":"kihcod"}
+,"kika":{"h":[{"d":[{"f":"￹￺identity card￻身份證"},{"f":"￹￺citizenship￻公民身分，權利，戶籍"}]}],"t":"kika"}
+,"kikaka":{"h":[{"d":[{"l":["`kaka~"],"f":"￹￺superior to.  See kaka.￻優於 (參閱 kaka)"}]}],"t":"kikaka"}
+,"kikay":{"h":[{"d":[{"l":["`mikikay~"],"f":"￹￺machine￻機器"},{"f":"￹￺the mechanics of something * literally or figuratively (from Japanese)￻機械 (引自日語)"}]}],"t":"kikay"}
+,"kilac":{"h":[{"d":[{"l":["`lilam~","`mikilac~","`misakilac~","`pakilac~"],"f":"￹￺portion of the whole of something￻分配，分擔"}]}],"t":"kilac"}
+,"kilang":{"h":[{"d":[{"l":["`misakilang~","`mikilang~"],"f":"￹￺tree * wood￻樹，木頭"}]}],"t":"kilang"}
+,"kilawa":{"h":[{"d":[{"l":["`lofic~"],"f":"￹￺to glean fallen grain or other harvested food￻拾落穗"}]}],"t":"kilawa"}
+,"kilif":{"h":[{"d":[{"f":"￹￺to be evasive * not to tell the truth by silence or evasiveness￻守密不張揚，規避，推託，閃爍其詞"}]}],"t":"kilif"}
+,"kilim":{"h":[{"d":[{"l":["`misakilikilim~"],"e":["￹`makilim~ `ako~￺I found￻我找到了","￹`Kilimen~.￺Look for (it).￻去尋找"],"f":"￹￺to look for * search for￻尋找, 尋覓"}]}],"t":"kilim"}
+,"kilomot":{"h":[{"d":[{"f":"￹￺as a group of five or more to rush upon someone with the intent of hurting￻包圍，圍攻，圍剿"}]}],"t":"kilomot"}
+,"kimad":{"h":[{"d":[{"l":["`pakimad~"],"e":["￹`makimaday~ / `karakimaday~ `a~ `tamdaw~￺a person who is good with words * a story teller￻善於言詞，口齒伶俐者，說書者"],"f":"￹￺story * narrative￻故事，敘事"}]}],"t":"kimad"}
+,"kimadac":{"h":[{"d":[{"f":"￹￺to be smooth with reference to something solid￻滑溜，圓滑，平滑，流暢"}]}],"t":"kimadac"}
+,"kimced":{"h":[{"d":[{"l":["`komced~","`kohced~"],"f":"￹￺fully developed * of grain or fruit or the flesh of an animal￻發達，堅硬，結實"}]}],"t":"kimced"}
+,"kimit":{"h":[{"d":[{"f":"￹￺to cut into pieces * as to use a string to divide rice bread by hand￻切成碎片，用手捏揉"}]}],"t":"kimit"}
+,"kimolmol":{"h":[{"d":[{"l":["`kimolo~","`kimo'od~","`limo'od~"],"f":"￹￺to be round in shape * as an orange￻圓形狀，似橘子"}]}],"t":"kimolmol"}
+,"kimolo":{"h":[{"d":[{"l":["`kimolmol~"],"f":"￹￺Refer to `kimolmol~￻詳見 `kimolmol~"}]}],"t":"kimolo"}
+,"kimood":{"h":[{"d":[{"e":["￹`nisakimoodan~ `a~ `mimo'ong~￺roasted whole￻整體，整個的烘烤"],"f":"￹￺the whole carcass of an animal * not cut up￻整體，整個的，未分割的"}]}],"t":"kimood"}
+,"kimor":{"h":[{"d":[{"l":["`misakimokimor~"],"f":"￹￺to be frustrated and under pressure￻受挫，緊張狀態"}]}],"t":"kimor"}
+,"kimpi%27":{"h":[{"d":[{"f":"￹￺squared off on the sides* not thick in shape* thin￻四方形，扁平"}]}],"t":"kimpi'"}
+,"kimto":{"h":[{"d":[{"l":["`timool~","`kitmol~"],"f":"￹￺fully developed * of grain￻成熟的，發達的"}]}],"t":"kimto"}
+,"kimtor":{"h":[{"d":[{"f":"￹￺a bamboo tree￻利果竹"}]}],"t":"kimtor"}
+,"kina%27ari":{"h":[{"d":[{"l":["`'ari~"],"f":"￹￺small pieces that are broken￻碎片"}]}],"t":"kina'ari"}
+,"kina-":{"h":[{"d":[{"l":["`kinapina~","`kinapina~"],"e":["￹`kina~ `tolo~￺three times￻三次"],"f":"￹￺prefix number of times￻字首 -- 次數，若干"},{"f":"￹￺do to one-self￻對自己做"}]}],"t":"kina-"}
+,"kinaccay":{"h":[{"d":[{"l":["`ccay~"],"f":"￹￺one time￻一次"}]}],"t":"kinaccay"}
+,"kinacikcik":{"h":[{"d":[{"l":["`cikcik~"],"f":"￹￺many tiny pieces￻切片，碎片"}]}],"t":"kinacikcik"}
+,"kinafalah":{"h":[{"d":[{"l":["`falah~"],"f":"￹￺to give oneself completely to a task (See falah)￻犧牲，捨己；為…冒生命的危險，犧牲 (參閱 falah)"}]}],"t":"kinafalah"}
+,"kinakrit":{"h":[{"d":[{"l":["`krit~"],"f":"￹￺the pieces that have been cut off￻碎片，片塊"}]}],"t":"kinakrit"}
+,"kinalfoh":{"h":[{"d":[{"f":"￹￺to be consumed with anger and do something rash￻自討沒趣，輕率行事"},{"f":"￹￺to commit suicide￻自毀，自殺"}]}],"t":"kinalfoh"}
+,"kinamo%27tepto":{"h":[{"d":[{"l":["`mo'tep~"],"f":"￹￺to do ten times￻作十次"}]}],"t":"kinamo'tepto"}
+,"kinapatay":{"h":[{"d":[{"f":"￹￺to kill oneself￻自殺"}]}],"t":"kinapatay"}
+,"kinapina":{"h":[{"d":[{"f":"￹￺how many times?￻若干次"}]}],"t":"kinapina"}
+,"kinaprar":{"h":[{"d":[{"l":["`prar~"],"f":"￹￺ruins of something￻倒塌的土方"}]}],"t":"kinaprar"}
+,"kinayra":{"h":[{"d":[{"l":["`knayra~"],"f":"￹￺crops * yield from farm work￻收穫，收成"}]}],"t":"kinayra"}
+,"kincac":{"h":[{"d":[{"l":["`imeng~","`kincal~","`tayring~"],"f":"￹￺policeman (from Amoy dialect)￻警察，警員 (引自閩南語)"}]}],"t":"kincac"}
+,"kincay":{"h":[{"d":[{"f":"￹￺celery (from Amoy dialect)￻芹菜 (引自閩南語)"}]}],"t":"kincay"}
+,"kinco":{"h":[{"d":[{"l":["`hinco~"],"e":["￹`Kinco~ `ko~ `fawahan~.￺The doorway is narrow.￻門口很窄","￹`Kinco~ `ko~ `faloco'~ `ako~.￺I am embarrassed / have no courage.￻我感到困窘，困惑，沒有勇氣"],"f":"￹￺tight * as of clothing￻緊密的，緊的(用於衣服)，窄的"}]}],"t":"kinco"}
+,"kingking":{"h":[{"d":[{"f":"￹￺dragon-eye fruit and tree￻龍眼菓，樹"},{"l":["`mikingking~","`takingkingan~"],"f":"￹￺bells￻鈴，鐘"},{"l":["`pakingking~"],"f":"￹￺offering￻奉獻"},{"f":"￹￺tin can (from Japanese)￻罐頭 (引自日語)"}]}],"t":"kingking"}
+,"kingkiw":{"h":[{"d":[{"f":"￹￺to study * research * search out (from Japanese)￻研習，探究，溯源 (引自日語)"}]}],"t":"kingkiw"}
+,"kingko":{"h":[{"d":[{"f":"￹￺bank (from Japanese)￻銀行 (引自日語)"}]}],"t":"kingko"}
+,"kini":{"h":[{"d":[{"l":["`hakini~"],"f":"￹￺to ask oneself * a question￻問某人之語氣，如此，如此嗎？"}]}],"t":"kini"}
+,"kinih":{"h":[{"d":[{"l":["`makinihay~"],"e":["￹`misakakinih~ `to~ `dmak~￺to be unfair * show partiality￻做事不公正，對事有偏袒，偏頗","￹`makakinih~ `ko~ `pitli~￺not the same amount put or given￻放置不平均","￹`matokinih~ `ko~ `rakat~￺unbalanced walk￻走路偏斜，走路重心不穩"],"f":"￹￺to lay aside from the rest￻偏見"}]}],"t":"kinih"}
+,"kipang":{"h":[{"d":[{"l":["`kiping~"],"f":"￹￺short jacket in men's or women's tribal costume￻古代土著之服飾"}]}],"t":"kipang"}
+,"kipat":{"h":[{"d":[{"l":["`cipat~","`mikipat~","`mapakipat~","`pakipat~","`sakipat~"],"f":"￹￺to stick on something * glue * paste￻黏住，膠著，糊成一團"}]}],"t":"kipat"}
+,"kira":{"h":[{"d":[{"f":"￹￺exclamation of agreement with another's view￻同意他人觀點之語氣 (叫聲)"}]}],"t":"kira"}
+,"kiradom":{"h":[{"d":[{"f":"￹￺material * cloth￻布料"}]}],"t":"kiradom"}
+,"kirami":{"h":[{"d":[{"l":["`nikawrira~"],"f":"￹￺but￻然而，但是"}]}],"t":"kirami"}
+,"kiric":{"h":[{"d":[{"l":["`kric~"],"e":["￹`Mikiric~ / `mikric~ `ko~ `nanom~ `to~ `sra~.￺The water swept away the earth.￻流水沖刷泥土","￹`Makiric~ / `makickic~ `no~ `nanom~ `ko~ `pala~.￺The field was swept by the water.￻田園被水沖刷"],"f":"￹￺to drag along * sweep along with * as the activity of water￻拉，扯，橫掃，沖走"}]}],"t":"kiric"}
+,"kirikiri%27":{"h":[{"d":[{"f":"￹￺to tickle a person￻搔癢別人"}]}],"t":"kirikiri'"}
+,"kiring":{"h":[{"d":[{"l":["`karahay~"],"f":"￹￺a back shield worn by women to work in the fields * made of grass tips￻婦女做農事時置於背部之遮陽物"}]}],"t":"kiring"}
+,"kiro":{"h":[{"d":[{"e":["￹`Sakiroen~ `ko~ `dateng~ `a~ `miparo~ `i~ `koreng~.￺Salt the vegetables and store them in a large earthen vessel.￻醃蔬菜而後貯於陶器裏"],"f":"￹￺cabbage or other vegetable that has been salted and stored in brine￻醃包心菜或其他蔬菜"}]}],"t":"kiro"}
+,"kirofim":{"h":[{"d":[{"f":"￹￺cherubim * a borrowed biblical term￻基路伯 (摘自聖經)"}]}],"t":"kirofim"}
+,"kiskis":{"h":[{"d":[{"f":"￹￺to scrape off surface * strip￻刮去(表面)，剝掉"}]}],"t":"kiskis"}
+,"kiso":{"h":[{"d":[{"f":"￹￺you (singular) See Appendix 1 - Pronouns.￻你，參閱附錄I代名詞"}]}],"t":"kiso"}
+,"kita":{"h":[{"d":[{"f":"￹￺we * us (including the hearer) See Appendix 1 - Pronouns.￻我們(包括聽者)，參閱附錄I代名詞"}]}],"t":"kita"}
+,"kitad":{"h":[{"d":[{"f":"￹￺makitad. no water * as vegetables boiled dry * a dried up pond or field￻缺水；蔬菜因水分蒸發而凋萎；田或水池乾涸"}]}],"t":"kitad"}
+,"kitakit":{"h":[{"d":[{"l":["`kasakitakit~"],"f":"￹￺country * nation including its land and people￻國家，包括它的土地和人民"}]}],"t":"kitakit"}
+,"kitang":{"h":[{"d":[{"f":"￹￺a large bottle for storing wine￻大酒瓶"},{"f":"￹￺a three-wheeled cart (from Amoy dialect)￻三輪車 (引自閩南語)"}]}],"t":"kitang"}
+,"kiteng":{"h":[{"d":[{"f":"￹￺a species of river fish Etrumeus micropus.￻一種河流中特別的魚"}]}],"t":"kiteng"}
+,"kiting":{"h":[{"d":[{"l":["`malakiting~"],"f":"￹￺to lead with a rope￻牽，引"}]}],"t":"kiting"}
+,"kitkit":{"h":[{"d":[{"f":"￹￺to pick at * pick off * peel off￻鑿，撬開，剝掉，刮"}]}],"t":"kitkit"}
+,"kitoh":{"h":[{"d":[{"f":"￹￺to repeat something one has heard￻複述"}]}],"t":"kitoh"}
+,"kiwakiw":{"h":[{"d":[{"f":"￹￺to stir up * mix up * as food or liquid￻攪動，攪拌 (食物或液體)"}]}],"t":"kiwakiw"}
+,"kiwalet":{"h":[{"d":[{"f":"￹￺double-stranded * twisted kinky * coiled￻絞，扭絞，搓合，糾結，纏結，盤繞"}]}],"t":"kiwalet"}
+,"kiwat":{"h":[{"d":[{"l":["`sokiwat~"],"f":"￹￺to use an instrument to grab hold of or get something out of reach￻攫取，抓取"}]}],"t":"kiwat"}
+,"kiwit":{"h":[{"d":[{"l":["`Kiwit~"],"f":"￹￺the name of an Amis village￻花蓮奇美部落之名"}]}],"t":"kiwit"}
+,"kiwkiw":{"h":[{"d":[{"f":"￹￺to get something out of a small opening * or something stuck in a container￻在小口處挖取物，扎，戮穿"}]}],"t":"kiwkiw"}
+,"kiya":{"h":[{"d":[{"l":["`hakiya~"],"f":"￹￺a question particle￻是嗎？是如此嗎？"}]}],"t":"kiya"}
+,"kiyafes":{"h":[{"d":[{"l":["`kidafes~"],"f":"￹￺guava * the tree and fruit￻石榴 (樹)"}]}],"t":"kiyafes"}
+,"kiyaing":{"h":[{"d":[{"f":"￹￺a tree called Mangrove (Rhizophoracee)￻系樹"}]}],"t":"kiyaing"}
+,"kiyaki%27":{"h":[{"d":[{"f":"￹￺to rattle * as when an object is inside a container and shaken￻嘎嘎聲"}]}],"t":"kiyaki'"}
+,"kiyaling":{"h":[{"d":[{"l":["`Kiyaling~"],"f":"￹￺the name of an Amis village (from Amoy dialect)￻花蓮麒麟之部落名 (引自閩南語)"}]}],"t":"kiyaling"}
+,"kiyam":{"h":[{"d":[{"l":["`tadah~"],"f":"￹￺debt (from Amoy dialect)￻債務 (引自閩南語)"}]}],"t":"kiyam"}
+,"kiyami":{"h":[{"d":[{"f":"￹￺a particle drawing attention to the hearer reminding him of his common knowledge with the speaker￻那樣不是嗎？⋯是嗎? (尾音)"}]}],"t":"kiyami"}
+,"kiyangkiyang":{"h":[{"d":[{"f":"￹￺word used to describe confusion of noise that is unintelligible (from Amoy dialect)￻此字用來描述混雜之吵閙聲 (引自閩南語)"}]}],"t":"kiyangkiyang"}
+,"kiyko":{"h":[{"d":[{"l":["`Kiyko~"],"f":"￹￺name of an Amis village￻花蓮溪口村部落名"}]}],"t":"kiyko"}
+,"kiyo":{"h":[{"d":[{"f":"￹￺eggplant * a vegetable￻茄菜"}]}],"t":"kiyo"}
+,"kiyot":{"h":[{"d":[{"f":"￹￺to dig out * scratch off something small like a spot of dirt￻挖出，鑿出，刪除，像刪除小斑點的東西"}]}],"t":"kiyot"}
+,"klac":{"h":[{"d":[{"f":"￹￺to chip at * cut out * as wood or a rotten spot in fruit￻削，切"}]}],"t":"klac"}
+,"klalaci":{"h":[{"d":[{"f":"￹￺a flowering shrub called Bleeding Heart Glorybower (Clerdendron thomsonae)￻龍吐珠"}]}],"t":"klalaci"}
+,"klap":{"h":[{"d":[{"l":["`saklap~"],"f":"￹￺to scoop out * dig out rice seedlings￻剷除，鏟出"}]}],"t":"klap"}
+,"kleng":{"h":[{"d":[{"l":["`misakleng~","`tahakleng~"],"f":"￹￺a man-hole￻出入孔，迴避孔"}]}],"t":"kleng"}
+,"klet":{"h":[{"d":[{"f":"￹￺to use a sickle to cut off twine￻割，收割大麻的過程"}]}],"t":"klet"}
+,"kli%27":{"h":[{"d":[{"f":"￹￺the sound of clinking or a creaking sound￻金屬物品掉落之聲響"},{"f":"￹￺the sounds of a thief￻小偷偷東西的聲響"}]}],"t":"kli'"}
+,"kling":{"h":[{"d":[{"f":"￹￺the sound of a bell or phone or clock￻鈴聲，電話聲，鐘聲"},{"f":"￹￺to fry or roast in a pan￻煎，炸，烘焙"}]}],"t":"kling"}
+,"kliw":{"h":[{"d":[{"f":"￹￺thread, the plant from which string or thread is made * China Grass￻線 (亞麻)"},{"l":["`hanakliw~"],"f":"￹￺Ramie (Boehmeria frutescens)￻青苧麻"}]}],"t":"kliw"}
+,"klong":{"h":[{"d":[{"f":"￹￺a resounding noise as to hear a door being closed￻開，關門之碰聲"},{"f":"￹￺a man-hole￻出入孔"}]}],"t":"klong"}
+,"kltan":{"h":[{"d":[{"f":"￹￺lower back below the waist and to the sides￻腰部"}]}],"t":"kltan"}
+,"kma":{"h":[{"d":[{"f":"￹￺slow￻緩慢，如牛拖車"},{"f":"￹￺to be numb with cold * as an ox pulling a cart￻因冷而麻木"}]}],"t":"kma"}
+,"kmi":{"h":[{"d":[{"f":"￹￺pain in the chest experienced while breathing￻呼吸引致胸部之疼痛，肺炎"}]}],"t":"kmi"}
+,"kmo":{"h":[{"d":[{"f":"￹￺on target * squarely on the mark￻目標，鵠的"},{"e":["￹`Pakmo~ `han~ `nira~ `ko~ `falohang~ `ako~.￺He hit me squarely in the chest.￻他直接地擊打我的胸部","￹`Makmo~ `ko~ `tamdaw~.￺A man fell from above.￻人由上而掉落"],"f":"￹￺to fall from a high place￻從高處掉落"}]}],"t":"kmo"}
+,"kmod":{"h":[{"d":[{"l":["`pakakmoday~"],"f":"￹￺the inside of anything￻內部"}]}],"t":"kmod"}
+,"knanini":{"h":[{"d":[{"l":["`kanini~"],"f":"￹￺come here￻挨近點，靠近些"}]}],"t":"knanini"}
+,"knaw":{"h":[{"d":[{"f":"￹￺generic for all kinds of onions and leeks￻蒜頭，大蒜，洋蔥，韮菜"}]}],"t":"knaw"}
+,"knayra":{"h":[{"d":[{"l":["`kinayra~"],"f":"￹￺crops * yield from farm work￻收穫，收成"}]}],"t":"knayra"}
+,"kni%27":{"h":[{"d":[{"f":"￹￺eye gouged out￻眨眼"},{"l":["`fotek~"],"f":"￹￺eyes closed￻閉目"}]}],"t":"kni'"}
+,"ko":{"h":[{"d":[{"f":"￹￺See Appendix 1 - Connective Grammatical Markers.￻參閱附錄I，連接詞"}]}],"t":"ko"}
+,"ko%27ko":{"h":[{"d":[{"l":["`lpel~"],"f":"￹￺chase away￻驅趕"}]}],"t":"ko'ko"}
+,"ko%27mi":{"h":[{"d":[{"l":["`ka'mi~"],"e":["￹`ko'mi~ `ko~ `faloco'~￺responsive * agreeable * tenderhearted￻易感動的，心腸軟的，富同情心的"],"f":"￹￺flexible * moveable￻柔順的，馴良的，柔韌的"}]}],"t":"ko'mi"}
+,"ko%27mih":{"h":[{"d":[{"e":["￹`ko'mih~ `ko~ `faloco'~￺agreeable￻可親的，愉快的心情"],"f":"￹￺soft * as a chair cushion or bed￻柔軟的，如椅墊，床墊"}]}],"t":"ko'mih"}
+,"ko%27ngel":{"h":[{"d":[{"e":["￹`ko'ngelay~ `ko~ `fanges~￺skin is youthful￻皮膚白皙細嫩","￹`ko'ngel~ `ko~ `faloco'~￺easily influenced￻心軟，心智不成熟","￹`ko'ngel~ `ko~ `titi~￺meat is tender￻肉很嫩，很軟"],"f":"￹￺tender with literal and figurative meanings￻柔軟，嫩的，脆弱的"}]}],"t":"ko'ngel"}
+,"ko%27san":{"h":[{"d":[{"e":["￹`Ko'san~ `ko~ `'odal~.￺Honey is sweet.￻蜂蜜很甜","￹`Ko'san~ `ko~ `sowal~ `nira~.￺He is using flirting speech / persuasive speech (as of a salesman).￻他的話甘如蜜，他的話具煽動力，說服力(如同一個推銷員)"],"f":"￹￺sweet￻甜"}]}],"t":"ko'san"}
+,"ko%27sit":{"h":[{"d":[{"e":["￹`ko'sit~ `ko~ `faloco'~￺stubborn * resistant￻他的心頑固","￹`ko'sit~ `a~ `tdalen~￺(it) is hard to untie / get loose￻難以解開"],"f":"￹￺difficult to manipulate￻堅靱，堅硬"}]}],"t":"ko'sit"}
+,"ko%27teng":{"h":[{"d":[{"f":"￹￺something that stretches easily without breaking * as rice bread￻黏黏的，如糯米糕"}]}],"t":"ko'teng"}
+,"kodait":{"h":[{"d":[{"f":"￹￺endurance * enduring * hardy￻堅韌，耐力夠"}]}],"t":"kodait"}
+,"kodasing":{"h":[{"d":[{"f":"￹￺peanuts￻落花生，土豆"}]}],"t":"kodasing"}
+,"kodfet":{"h":[{"d":[{"e":["￹`Kodfet~ `ko~ `capox~.￺The rice plantings are growing thick.￻秧苗長的很密集"],"f":"￹￺to grow thick￻密集，濃密"}]}],"t":"kodfet"}
+,"kodic":{"h":[{"d":[{"f":"￹￺mange * skin disease￻皮膚病，癬"},{"f":"￹￺name of an Amis village￻豐浜鄉戶敷部落名"}]}],"t":"kodic"}
+,"kodos":{"h":[{"d":[{"f":"￹￺emaciated * lean * skinny￻瘦削，憔悴，皮包骨的"}]}],"t":"kodos"}
+,"kodpi%27":{"h":[{"d":[{"l":["`kidpi'~"],"f":"￹￺small through the stomach from front to back * slender￻苗條的，弱不經風的"}]}],"t":"kodpi'"}
+,"kofaw":{"h":[{"d":[{"l":["`dmi'~"],"f":"￹￺kitchen￻廚房"}]}],"t":"kofaw"}
+,"kofel":{"h":[{"d":[{"l":["`kolfo'~"],"f":"￹￺wrinkled skin of an older person￻皺紋"}]}],"t":"kofel"}
+,"kofing":{"h":[{"d":[{"f":"￹￺thermos bottle (from Japanese)￻熱水瓶 (引自日語)"}]}],"t":"kofing"}
+,"kofit":{"h":[{"d":[{"l":["`misakofit~","`sakofit~"],"e":["￹`pakakofit~ `to~ `sowal~￺to agree together on something￻意見統一"],"f":"￹￺button￻鈕釦"}]}],"t":"kofit"}
+,"kofo":{"h":[{"d":[{"f":"￹￺hectare * 471 acres or 10000 square meters * a measure of land￻公頃 (面積單位)"}]}],"t":"kofo"}
+,"kofoc":{"h":[{"d":[{"f":"￹￺a bottle￻瓶子"}]}],"t":"kofoc"}
+,"kohakoh":{"h":[{"d":[{"f":"￹￺to be loose￻搖晃，鬆弛"}]}],"t":"kohakoh"}
+,"kohaw":{"h":[{"d":[{"l":["`misakohaw~","`kafi~"],"f":"￹￺soup * broth￻湯，羹湯"}]}],"t":"kohaw"}
+,"kohcal":{"h":[{"d":[{"f":"￹￺white￻白，白色"},{"f":"￹￺light * as the color of Caucasian skin￻皮白皙如外國人"}]}],"t":"kohcal"}
+,"kohced":{"h":[{"d":[{"f":"￹￺to be firm * hard in flesh with no fat￻肌肉結實"}]}],"t":"kohced"}
+,"kohkohan":{"h":[{"d":[{"f":"￹￺wilderness￻荒地，曠野"}]}],"t":"kohkohan"}
+,"kohnac":{"h":[{"d":[{"l":["`rohnac~","`madihmih~"],"e":["￹`Sakohnac~ `sa~ `kono~ `mako~ `a~ `fanges~.￺My skin is now smooth and bald.￻我的皮膚細膩圓滑"],"f":"￹￺condition of skin * to not have body hair￻光滑"}]}],"t":"kohnac"}
+,"kohpic":{"h":[{"d":[{"f":"￹￺thin * as opposed to thick￻細薄"}]}],"t":"kohpic"}
+,"kohting":{"h":[{"d":[{"f":"￹￺black￻黑 (色)"}]}],"t":"kohting"}
+,"koicaw":{"h":[{"d":[{"l":["`'ifcang~"],"f":"￹￺stiff * not move easily￻僵硬，不易彎曲的"}]}],"t":"koicaw"}
+,"kokang":{"h":[{"d":[{"f":"￹￺a musical instrument￻音樂儀器，木琴"}]}],"t":"kokang"}
+,"koki%27":{"h":[{"d":[{"f":"￹￺fear * to be afraid￻懼怕"}]}],"t":"koki'"}
+,"kokih":{"h":[{"d":[{"f":"￹￺a tree called Fiscus gibbosa￻白肉榕"}]}],"t":"kokih"}
+,"kokoa":{"h":[{"d":[{"f":"￹￺peek-a-boo￻小孩嘻戲時之用語"}]}],"t":"kokoa"}
+,"kokofang":{"h":[{"d":[{"f":"￹￺blackboard (from Japanese)￻黑板 (引自日語)"}]}],"t":"kokofang"}
+,"kokong":{"h":[{"d":[{"f":"￹￺bandits * robbers￻海盜，土匪"}]}],"t":"kokong"}
+,"kokoy":{"h":[{"d":[{"l":["`komiyot~"],"f":"￹￺edible vegetable call Chayote Christophine￻佛手瓜 (香木緣瓜)"}]}],"t":"kokoy"}
+,"koladot":{"h":[{"d":[{"l":["`Koladot~"],"f":"￹￺name of an Amis village￻長浜鄉樟原村部落名"}]}],"t":"koladot"}
+,"kolah":{"h":[{"d":[{"l":["`korah~"],"f":"￹￺tan color￻褐色"},{"f":"￹￺a type of liquor made from rice￻糯米酒"},{"f":"￹￺woven cloth of long ago￻古代阿美族麻製衣物"}]}],"t":"kolah"}
+,"kolamet":{"h":[{"d":[{"f":"￹￺to grab on to the flesh with hand￻用五指抓取"}]}],"t":"kolamet"}
+,"kolang":{"h":[{"d":[{"f":"￹￺a type of Chinese cabbage￻青菜，芥菜"}]}],"t":"kolang"}
+,"kolas":{"h":[{"d":[{"f":"￹￺to prune the rice plants throwing away unfruitful stems￻除草或減除密集的五穀"},{"f":"￹￺the name of a person￻人名"}]}],"t":"kolas"}
+,"kolced":{"h":[{"d":[{"f":"￹￺hard * of muscles that have been hardened by exercise￻結實"}]}],"t":"kolced"}
+,"kolfo%27":{"h":[{"d":[{"l":["`kofel~","`kasakolfolfo'~"],"f":"￹￺to wrinkle * leave in folds￻皺紋"}]}],"t":"kolfo'"}
+,"koli":{"h":[{"d":[{"l":["`misakoli~","`malakoli~","`palakoli~"],"f":"￹￺laborer * slave￻佣人，奴僕"}]}],"t":"koli"}
+,"koliciw":{"h":[{"d":[{"f":"￹￺bicycle￻脚踏車"}]}],"t":"koliciw"}
+,"kolit":{"h":[{"d":[{"f":"￹￺thin * under-weight￻輕，瘦"},{"f":"￹￺dirt on one's face￻臉上的污垢"}]}],"t":"kolit"}
+,"koliya%27":{"h":[{"d":[{"f":"￹￺a type of orchid called Yellow Dendrobium or Taiwan Red Dendrobium. Grows on trees * used in native religion for making rain.￻古代阿美人在祭神祈雨時，到深山取koliya做為陪祭用。"}]}],"t":"koliya'"}
+,"koliyol":{"h":[{"d":[{"e":["￹`mikoliyol~ `to~ `sasowalen~￺to not speak to the point￻說話拐彎抹角"],"f":"￹￺to go around the long way to get someplace * devious route￻迴繞，迂迴而行，循環"},{"l":["`koniyol~"],"f":"￹￺to steal away without being seen￻悄悄地溜開，躲開"}]}],"t":"koliyol"}
+,"kolmi":{"h":[{"d":[{"f":"￹￺to be irregularly bulged in shape * as a ball without enough air in it￻樹皮等不規則的皺紋，如球內無足夠氣之萎縮狀"}]}],"t":"kolmi"}
+,"kolomi":{"h":[{"d":[{"f":"￹￺to bend * dent￻使之彎曲，屈服，凹痕"}]}],"t":"kolomi"}
+,"kolong":{"h":[{"d":[{"l":["`pakolongan~"],"f":"￹￺water buffalo￻水牛"}]}],"t":"kolong"}
+,"komaen":{"h":[{"d":[{"l":["`kaen~"],"f":"￹￺to eat￻吃"}]}],"t":"komaen"}
+,"komaing":{"h":[{"d":[{"f":"￹￺soft * pliable￻柔軟，柔順，易彎曲的"},{"e":["￹`Adada~ `kako~ `saka~, `komaing~ `ko~ `tireng~ `ako~.￺I am sick so my body has no strength.￻我因病，故此身體纖弱無力"],"f":"￹￺to have no strength￻軟弱無力"}]}],"t":"komaing"}
+,"komes":{"h":[{"d":[{"f":"￹￺pubic hair found in the groin area￻陰毛"}]}],"t":"komes"}
+,"komi%27ot":{"h":[{"d":[{"l":["`komiyot~"],"f":"￹￺name of vegetable that looks like squash and climbs * Chayote * Christophine￻佛手瓜 (香木緣瓜)"}]}],"t":"komi'ot"}
+,"komikili":{"h":[{"d":[{"f":"￹￺to be horrible to look at * horrifying from the observer's point of view￻噁心，令人毛骨悚然"},{"l":["`lingses~"],"f":"￹￺the nervous motion of a child as when he is urinating￻當小孩撒尿結束後會有毛骨悚然的感覺"}]}],"t":"komikili"}
+,"komimit":{"h":[{"d":[{"f":"￹￺to pinch and twist flesh￻捏"}]}],"t":"komimit"}
+,"komiyot":{"h":[{"d":[{"l":["`komi'ot~"],"f":"￹￺an edible vegetation called Chayote * Christophine￻香木緣瓜"}]}],"t":"komiyot"}
+,"komo":{"h":[{"d":[{"f":"￹￺rubber (from Japanese)￻橡皮膠 (引自日語)"}]}],"t":"komo"}
+,"komo%27ko":{"h":[{"d":[{"f":"￹￺the sound of bubbling water that is boiling￻滾開之水所起之氣泡所發之聲音"}]}],"t":"komo'ko"}
+,"komod":{"h":[{"d":[{"f":"￹￺to manage or rule over all * as the responsibility of an emperor￻統御或統領全地，如同皇帝之全責"},{"f":"￹￺to make plans for a religious event like the harvest festival￻為宗教事件如慶豐收(感恩節)所統籌之計劃"}]}],"t":"komod"}
+,"komong":{"h":[{"d":[{"f":"￹￺mayor * leader of the village (from Japanese)￻市長，顧問，部落之領袖 (引自日語)"}]}],"t":"komong"}
+,"kona":{"h":[{"d":[{"l":["`konini~"],"f":"￹￺this.  See Appendix 1 Pronouns.￻這個，參閱附錄I代名詞"}]}],"t":"kona"}
+,"konac":{"h":[{"d":[{"e":["￹`makonac~ `ko~ `fanoh~￺fur is gone from skin￻毛已被拔了","￹`mikonac~ `to~ `'ayam~￺to pluck the chicken feathers￻拔雞毛"],"f":"￹￺the condition of skin after all fur or feathers are removed * bald￻拔毛"}]}],"t":"konac"}
+,"konai%27i":{"h":[{"d":[{"f":"￹￺soft * damp and pliable * as the consistency of a vegetable￻軟的，如柔嫩的蔬菜"}]}],"t":"konai'i"}
+,"konayat":{"h":[{"d":[{"f":"￹￺to stretch out * as rubber or an accordion￻伸展，延伸，像橡皮或手風琴"}]}],"t":"konayat"}
+,"konga":{"h":[{"d":[{"l":["`fonga~"],"f":"￹￺sweet potato￻蕃薯，地瓜，甘薯"}]}],"t":"konga"}
+,"kongkong":{"h":[{"d":[{"l":["`pikongkongan~"],"f":"￹￺to knock at the door to knock on a drum￻敲門"},{"f":"￹￺to be hollow inside (makogkog)￻中空"}]}],"t":"kongkong"}
+,"konini":{"h":[{"d":[{"l":["`kona~"],"f":"￹￺this.  See Appendix 1 Pronouns￻這個；參閱附錄I代名詞"}]}],"t":"konini"}
+,"konis":{"h":[{"d":[{"f":"￹￺line￻線"},{"l":["`misakonis~","`makonis~","`pakonis~"],"f":"￹￺mark￻記號"}]}],"t":"konis"}
+,"koniyol":{"h":[{"d":[{"l":["`koniyor~","`koliyol~"],"e":["￹`mikoniyol~ `to~ `sasowalen~￺not speak to the point￻說話拐彎抹角的，閃爍其詞"],"f":"￹￺to go around * the long way to get someplace * take a devious route with literal and figurative meanings * to be stealthy￻繞行，迂迴；蜿蜒迂迴的；偷偷的，秘秘的"}]}],"t":"koniyol"}
+,"konkon":{"h":[{"d":[{"f":"￹￺to fall￻掉落"},{"f":"￹￺to land in a ditch￻陷入水溝"},{"f":"￹￺be in an accident￻車禍跌倒"}]}],"t":"konkon"}
+,"konoc":{"h":[{"d":[{"f":"￹￺to pull out hair or feathers￻拔毛"},{"l":["`konac~"],"f":"￹￺to molt (makonoc)￻脫毛，換毛"}]}],"t":"konoc"}
+,"konoy":{"h":[{"d":[{"f":"￹￺a wooden barrel made of slats with iron bands￻用木頭做的木桶中間用鐵箍的圓木桶"}]}],"t":"konoy"}
+,"kool":{"h":[{"d":[{"f":"￹￺to swell * to turn black and blue as when bitten by an insect￻當被昆蟲咬到即轉為黑紫發青狀，腫脹，膨脹"}]}],"t":"kool"}
+,"kopang":{"h":[{"d":[{"f":"￹￺cloth used for tents or shelters￻帆布"},{"f":"￹￺heavy material used to cover grain￻蓋穀子用之帆布"},{"f":"￹￺dry tobacco leaves to besmoked￻乾煙草葉"}]}],"t":"kopang"}
+,"kopid":{"h":[{"d":[{"f":"￹￺large woven basket with lid made of reeds * used to store cooked rice to take to the fields￻用籐製作之籃子，到田間裝米飯用籐製飯盒"},{"l":["`karihic~","`kapitan~","`kanas~"],"f":"￹￺container for fish￻竹簍 (置魚)"},{"f":"￹￺lid covering of reeds for food container (rafay / lafay) taken to fields￻以籐或竹製帶到田間蓋東西用"}]}],"t":"kopid"}
+,"kopit":{"h":[{"d":[{"l":["`fotek~"],"f":"￹￺eyes closed￻閉眼"},{"f":"￹￺thread unraveling frome a seam￻運製破裂衣物"}]}],"t":"kopit"}
+,"kora":{"h":[{"d":[{"l":["`korira~"],"f":"￹￺that.  See Appendix 1 Pronouns.￻那個，參閱附錄I代名詞"}]}],"t":"kora"}
+,"korac":{"h":[{"d":[{"f":"￹￺ritually clean￻聖潔"},{"f":"￹￺pure￻純正，潔淨"}]}],"t":"korac"}
+,"korah":{"h":[{"d":[{"l":["`kolah~"],"f":"￹￺tan color￻褐色"},{"l":["`mahad~"],"f":"￹￺woven cloth used in early days made into a simple man's garment￻節單長上衣，男用長外衣"}]}],"t":"korah"}
+,"korahot":{"h":[{"d":[{"f":"￹￺to use nails or claws to scratch on wood or in the soil￻抓取，攫取"}]}],"t":"korahot"}
+,"koraro":{"h":[{"d":[{"f":"￹￺to have a hangover from drinking alcohol￻次日還有酒意"}]}],"t":"koraro"}
+,"korawit":{"h":[{"d":[{"f":"￹￺to grasp or pull in with a hook￻用有長柄之鈎子取物"}]}],"t":"korawit"}
+,"koreng":{"h":[{"d":[{"f":"￹￺large earthen vessel for salted meat or water or wine￻用來醃肉之大陶器器皿或放水或酒，陶器水壺"}]}],"t":"koreng"}
+,"korih":{"h":[{"d":[{"f":"￹￺to cover over as a grave￻掩埋"},{"f":"￹￺to use hands to search in grass or fur￻撿，拾"},{"f":"￹￺to scratch in the dirt as chickens do￻刮，削"},{"f":"￹￺to rake￻收集"}]}],"t":"korih"}
+,"korira":{"h":[{"d":[{"l":["`kora~"]},{"f":"￹￺that.  See Appendix 1 Pronouns.￻那個，參閱附錄I代名詞"}]}],"t":"korira"}
+,"korkor":{"h":[{"d":[{"l":["`karkar~"],"f":"￹￺to dig in the soil￻挖，挖掘"}]}],"t":"korkor"}
+,"koror":{"h":[{"d":[{"l":["`pakoror~"],"f":"￹￺the back * part of the body￻背部"}]}],"t":"koror"}
+,"kosiya":{"h":[{"d":[{"f":"￹￺a tree (from Amoy dialect) Konish Tanoak (Pasania konishii)￻油葉柯 (引自閩南語)"},{"f":"￹￺aluminum￻鋁罐"}]}],"t":"kosiya"}
+,"koskos":{"h":[{"d":[{"f":"￹￺to scratch one's body￻抓癢，搔"}]}],"t":"koskos"}
+,"kosoy":{"h":[{"d":[{"l":["`misakosoy~"],"f":"￹￺citronella * grown in the Amis tribal area￻香茅草，香木緣，生長於阿美族部落裏"}]}],"t":"kosoy"}
+,"kotang":{"h":[{"d":[{"l":["`'idoc~"],"f":"￹￺spear for spearing fish￻槍，矛，魚槍"}]}],"t":"kotang"}
+,"kotay":{"h":[{"d":[{"l":["`mipakotay~"],"f":"￹￺to take the place of another (from Japanese)￻替身，替換，遞補，取代 (引自日語)"}]}],"t":"kotay"}
+,"kotem":{"h":[{"d":[{"f":"￹￺to be dark and glowering with black clouds￻天色漸暗，烏雲密佈"}]}],"t":"kotem"}
+,"koti%27":{"h":[{"d":[{"f":"￹￺an expression addressed to someone meaning \"It serves you right.\"￻活該"}]}],"t":"koti'"}
+,"kotkot":{"h":[{"d":[{"f":"￹￺to use metal to scrape￻使用金屬物去刮取"}]}],"t":"kotkot"}
+,"koto":{"h":[{"d":[{"f":"￹￺louse * lice￻蝨子"},{"f":"￹￺a plant (Euphorbiaceae humifusa)￻地錦 (鵝鑾鼻大戟)"}]}],"t":"koto"}
+,"kotod":{"h":[{"d":[{"f":"￹￺to follow along after as when curious￻跟蹤"}]}],"t":"kotod"}
+,"kotong":{"h":[{"d":[{"f":"￹￺Wood Oil Tree (Aleurites)￻梧桐樹，千年樹"}]}],"t":"kotong"}
+,"kowa%27":{"h":[{"d":[{"l":["`Cikowa'ay~"],"e":["￹`kowa'~ `no~ `lotol~￺Taiwan Diplofatsia * a plant￻八角金鑑，台灣山中製紙之木瓜","￹`sasoken~ `a~ `kowa'~ / `paccosen~ `a~ `kowa'~ / `cco~.￺Pith Paper Plant￻？髓，蓪草"],"f":"￹￺papaya * fruit and tree￻木瓜"}]}],"t":"kowa'"}
+,"kowad":{"h":[{"d":[{"l":["`howad~"],"f":"￹￺to lift something up * as for example to lift heavy rock￻頂攀磐石或重物如舉起岩石的舉動"},{"l":["`paoror~","`paco'acor~"],"f":"￹￺to pressure someone to do something wrong￻逼迫某人做不法的事"}]}],"t":"kowad"}
+,"kowako%27":{"h":[{"d":[{"f":"￹￺to have liquid come out of a container from beingshaken * from motion￻搖動，擺動裝在容器內的液體"}]}],"t":"kowako'"}
+,"kowan":{"h":[{"d":[{"l":["`sakowan~","`nikowanan~"],"f":"￹￺to rule￻管理，駕馭"}]}],"t":"kowan"}
+,"kowang":{"h":[{"d":[{"f":"￹￺a gun * to shoot a gun￻槍，開槍"}]}],"t":"kowang"}
+,"kowat":{"h":[{"d":[{"e":["￹`ccay~ `a~ `kowat~￺a length of four strides￻四大步的長度","￹`tosa~ `a~ `kasakowat~￺a half acre￻半英畝 (2023.4 平方公尺)"],"f":"￹￺to measure by long strides￻以大步測量，測量長距離"}]}],"t":"kowat"}
+,"kowaw":{"h":[{"d":[{"l":["`kakahong~"]},{"f":"￹￺a species of fish called Flying Fish (Cypse lurus poecilopterus) * a fish used by Yami in tribal worship￻飛魚，雅美族祭禮之魚"},{"f":"￹￺eagle￻鷹"}]}],"t":"kowaw"}
+,"kowawi":{"h":[{"d":[{"f":"￹￺lychee * a fruit￻荔枝水果"},{"f":"￹￺(Pometia pinnata Forst. Char. Gen.)￻台東龍眼"}]}],"t":"kowawi"}
+,"kowit":{"h":[{"d":[{"f":"￹￺to lift up and carry a filled sack￻抬，扛，起"}]}],"t":"kowit"}
+,"koya":{"h":[{"d":[{"f":"￹￺the * that * See Appendix 1 - Connective Crammatical Paricles￻那個。參閱附錄I連接詞"}]}],"t":"koya"}
+,"koyasi":{"h":[{"d":[{"f":"￹￺fertilizer (from Japanese)￻施肥，肥料 (引自日語)"}]}],"t":"koyasi"}
+,"koyo":{"h":[{"d":[{"e":["￹`'angsitay~ `a~ `koyo~￺a skunk￻臭鼬"],"f":"￹￺a small animal * a mammal￻一個小動物哺乳動物"}]}],"t":"koyo"}
+,"koyod":{"h":[{"d":[{"l":["`kakoyodan~"],"f":"￹￺to carry on one's back￻揹負於背上"}]}],"t":"koyod"}
+,"kpa":{"h":[{"d":[{"e":["￹`Sakpakpa~ `sa~ `cingra~ `to~ `romi'ad~ `a~ `matiya~ `ito'manay~.￺He walks in daytime like he was feeling his way in the dark with his feet.￻他白天走路如在夜間不良於行"],"f":"￹￺the sound of foot steps￻腳步聲"}]}],"t":"kpa"}
+,"kpid":{"h":[{"d":[{"l":["`kanas~"],"f":"￹￺a container￻容器，竹製容器"}]}],"t":"kpid"}
+,"kpit":{"h":[{"d":[{"l":["`kopit~","`fotek~"],"f":"￹￺to close eyes￻閉目"}]}],"t":"kpit"}
+,"kra":{"h":[{"d":[{"l":["`tama~"],"f":"￹￺found * to find￻發現，拾獲，找到"}]}],"t":"kra"}
+,"krah":{"h":[{"d":[{"f":"￹￺to dry up￻乾旱，乾涸"},{"f":"￹￺ocean tide out￻水退潮"}]}],"t":"krah"}
+,"krem":{"h":[{"d":[{"e":["￹`Mikrem~ `ko~ `cidal~.￺The sun is setting.￻太陽沈沒","￹`Makahkrekrem~ `ko~ `romi'ad~.￺The day is growing dark.￻天將暗下來，夜幕低垂 (西陽下)"],"f":"￹￺to sink * referring to the sun￻下沈 (指夕陽西沈)"}]}],"t":"krem"}
+,"kreng":{"h":[{"d":[{"e":["￹`Makakreng~ `ko~ `romi'ad~.￺It is thundering.￻天雷雨交加"],"f":"￹￺thunder￻雷電"},{"f":"￹￺a plant * Small-leaved Disty lium￻小葉紋母樹"}]}],"t":"kreng"}
+,"kric":{"h":[{"d":[{"l":["`kiric~"],"f":"￹￺the movement of swift water to move things￻沖刷，水沖走東西的流勢"}]}],"t":"kric"}
+,"krid":{"h":[{"d":[{"l":["`kakridan~","`kakrikridan~"],"e":["￹`Makrid~ `nira~ `kako~.￺He led me.￻他引領我","￹`O~ `mikriday~ `cingra~.￺He is leading.￻他是領導者, 他是領袖","￹`Kriden~ `kako~.￺Lead me.￻請引領我"],"f":"￹￺generic word for lead * guide￻引導，引領"}]}],"t":"krid"}
+,"krih":{"h":[{"d":[{"f":"￹￺to be all gone * none left behind * of people or things￻全部片甲不留(人或東西)"},{"f":"￹￺to all be present * no one missing￻全部出席"},{"l":["`tatood~"],"f":"￹￺the sound of scraping￻刮，擦聲"}]}],"t":"krih"}
+,"kris":{"h":[{"d":[{"e":["￹`Makakris~ `ko~ `citosiya~.￺The cars scraped each other.￻車子互相擦撞撞"],"f":"￹￺to scrape * scratch￻刮, 削"},{"l":["`tking~"],"f":"￹￺matches￻火柴"}]}],"t":"kris"}
+,"krismas":{"h":[{"d":[{"f":"￹￺Christmas (from Japanese)￻聖誕節 (引自日語)"}]}],"t":"krismas"}
+,"kristo":{"h":[{"d":[{"e":["￹`misakristo~￺to practice the Christian faith￻信奉基督教"],"f":"￹￺Christ￻耶穌基督"}]}],"t":"kristo"}
+,"kristokiw":{"h":[{"d":[{"f":"￹￺Christianity * the Christian church or religion (from Japanese)￻基督教 (引自日語"}]}],"t":"kristokiw"}
+,"krit":{"h":[{"d":[{"f":"￹￺to cut off a small portion of the end of something￻切，割成小片"},{"l":["`pakrit~","`kinakrit~"],"e":["￹`krit~ `a~ `lisin~￺the ritual of circumcision￻行割禮之儀式"],"f":"￹￺biblical meaning to circumcise￻聖經意指行割禮"}]}],"t":"krit"}
+,"kro":{"h":[{"d":[{"e":["￹`Misakro~ / `makro~ `kita~.￺Let's dance￻讓我們跳舞"],"f":"￹￺to dance * dance￻跳舞"},{"f":"￹￺to jump with gladness￻歡躍"},{"f":"￹￺to dance in the heart with excitment instead of literally￻內心雀躍不已"}]}],"t":"kro"}
+,"kro%27":{"h":[{"d":[{"f":"￹￺a sound made in the throat when swallowing￻喉嚨吞嚥東西的聲音，吞食所發出的聲音"}]}],"t":"kro'"}
+,"krong":{"h":[{"d":[{"l":["`klong~"],"f":"￹￺to make a banging or rumbling sound￻各種撞擊聲"}]}],"t":"krong"}
+,"kros":{"h":[{"d":[{"f":"￹￺for the throat to be irritated when swallowing￻吞食時, 引發喉嚨疼痛"}]}],"t":"kros"}
+,"ksem":{"h":[{"d":[{"f":"￹￺regret * sorrow over something that has happened￻悔恨，憂傷，喪氣，洩氣，羞愧"}]}],"t":"ksem"}
+,"ktem":{"h":[{"d":[{"f":"￹￺to be stubborn or angry or in a hurry as expressed in the set of the teeth and mounth￻咬牙切齒狀"},{"f":"￹￺to bite an object with teeth￻咬，啃"}]}],"t":"ktem"}
+,"kter":{"h":[{"d":[{"l":["`firang~","`po'i~","`inget~"],"e":["￹`Kakteren~ `nira~ `kako~.￺He rebuked me.￻他譴責非難我，他責備我","￹`Makter~ `cingra~.￺He is angry.￻他在生氣"],"f":"￹￺anger￻生氣，憤怒"}]}],"t":"kter"}
+,"ktil":{"h":[{"d":[{"f":"￹￺to pinch with fingernails￻捏 (用指甲)"}]}],"t":"ktil"}
+,"kting":{"h":[{"d":[{"e":["￹`Mikting~ `ko~ `talod~ `i~ `riko'~ `ako~.￺Grass stuck to my clothes.￻草黏貼在我的衣服上","￹`Makting~ `ko~ `riko'~ `ako~ `i~ `pacek~ `no~ `'anengang~.￺My clothes got caught on a nail in the chair.￻我衣服被椅子的釘子鈎住","￹`paktingen~ `ko~ `kolong~.￺Stake the water buffalo.￻拴住水牛，繫好黃牛"],"f":"￹￺to stick to * snag￻貼住，黏住"}]}],"t":"kting"}
+,"kton":{"h":[{"d":[{"e":["￹`mikton~ `to~ `sowal~￺to make a promise￻發誓，立下誓言，下斷語結論","￹`maktonto~ `ko~ `sowal~￺the promise * decision is made￻立好承諾，約定約定","￹`makakton~ `to~ `sowal~￺an agreement between two parties￻互相約定承諾"],"f":"￹￺to cut something long with literal and figurative meanings￻切斷，決定，割斷 (含有字面上或隱喻上的意義)"}]}],"t":"kton"}
+,"ktos":{"h":[{"d":[{"f":"￹￺to pick grain￻摘取穀物"}]}],"t":"ktos"}
+,"kwaming":{"h":[{"d":[{"f":"￹￺flexible * pliable￻柔軟，柔軔"},{"l":["`komaing~"],"f":"￹￺no strength￻柔弱無力"}]}],"t":"kwaming"}
+,"kwaping":{"h":[{"d":[{"l":["`Kwaping~","`holam~"],"f":"￹￺Chinese * China (from Amoy dialect)￻外省人，軍人，官兵 (引自閩南語)"}]}],"t":"kwaping"}
+,"kyokay":{"h":[{"d":[{"f":"￹￺church (from Japanese)￻教會 (引自日語)"}]}],"t":"kyokay"}
+}
