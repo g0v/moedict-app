@@ -1,3 +1,4 @@
 project.properties
 *.keystore
 *.xcuserstate
+.DS_Store

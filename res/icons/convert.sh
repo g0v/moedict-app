@@ -22,3 +22,4 @@ convert my-hires-icon.png[0] -resize 114 ios/icon@2x.png
 convert my-hires-icon.png[0] -resize 120 ios/icon-60@2x.png
 convert my-hires-icon.png[0] -resize 144 ios/icon-72@2x.png
 convert my-hires-icon.png[0] -resize 152 ios/icon-76@2x.png
+convert my-hires-icon.png[0] -resize 180 ios/icon-60@3x.png
