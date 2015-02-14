@@ -1,22 +1,34 @@
 window.isCordova = isCordova = document.URL isnt /^https?:/
+window.isMoedictDesktop = isMoedictDesktop = true if window.moedictDesktop
 const DEBUGGING = (!isCordova and !!window.cordova?require)
 const STANDALONE = window.STANDALONE || false
 
-{any, map} = require('prelude-ls')
+{any, map, unique} = require('prelude-ls')
+window.$ = window.jQuery = require \jquery
+
+React = require \react
+React.View = require \./view.ls
+Han = require \han-css
+window.React = React
+
+unless window.PRERENDER_LANG
+  $ -> React.View.result = React.render React.View.Result!, $(\#result).0
 
 LANG = STANDALONE || window.PRERENDER_LANG || getPref(\lang) || (if document.URL is /twblg/ then \t else \a)
 MOE-ID = getPref(\prev-id) || {a: \萌 t: \發穎 h: \發芽 c: \萌}[LANG]
 $ ->
   $('body').addClass("lang-#LANG")
-  React.renderComponent React.View.Links!, $(\#links).0
-  React.renderComponent React.View.UserPref!, $(\#user-pref).0
-  React.renderComponent React.View.Nav({STANDALONE}), $(\#nav).0, ->
+  React.render React.View.Links!, $(\#links).0
+  React.render React.View.UserPref!, $(\#user-pref).0
+  React.render React.View.Nav({STANDALONE}), $(\#nav).0, ->
     $('.lang-active').text $(".lang-option.#LANG:first").text!
     if navigator.userAgent is /MSIE|Trident/
       $('form[id=lookback]').remove!
     else
       $('form[id=lookback]').attr \accept-charset \big5
-      $('form[id=lookback] input[id=cond]').val "^#{window.PRERENDER_ID}$" if window.PRERENDER_ID
+      if window.PRERENDER_ID
+        $('form[id=lookback] input[id=cond]').val "^#{window.PRERENDER_ID}$"
+        $('#query').val window.PRERENDER_ID
 
 const XREF-LABEL-OF = {a: \華, t: \閩, h: \客, c: \陸, ca: \臺}
 const TITLE-OF = {a: '', t: \臺語, h: \客語, c: \兩岸}
@@ -205,7 +217,7 @@ window.do-load = ->
     s.parentNode.insertBefore(gcse, s);
     poll-gsc = ->
       return setTimeout poll-gsc, 500ms unless $('.gsc-input').length
-      $('.gsc-input').attr \placeholder \全文檢索
+      $('.gsc-input').attr \placeholder \Search
       isQuery := no
     setTimeout poll-gsc, 500ms
 
@@ -353,7 +365,7 @@ window.do-load = ->
         if $('.dropdown.open').length
           $ \.navbar .css \position \fixed
           $ \.dropdown.open .removeClass \open
-        val -= /.*\#/ if val
+        val -= /[^#]*\#/ if val
         val ||= $(@).text!
         window.grok-val val
         return false
@@ -373,6 +385,8 @@ window.do-load = ->
 
   window.grok-val = grok-val = (val) ->
     stop-audio!
+    val -= /[\\"]/g
+    val = val.replace /`(.+)~$/ '$1'
     return if val is /</ or val is /^\s+$/ or val is /index.html/
     if val in <[ '=諺語 !=諺語 :=諺語 ]> and not width-is-xs!
       <- setTimeout _, 500ms
@@ -427,7 +441,9 @@ window.do-load = ->
 
   prevId = prevVal = window.PRERENDER_ID
   window.press-lang = (lang='', id='') ->
+    id -= /#/g
     return if STANDALONE
+    return if lang is LANG and !id
     prevId := null
     prevVal := null
     if HASH-OF.c
@@ -439,7 +455,11 @@ window.do-load = ->
     $('iframe').fadeIn \fast
     $('.lang-active').text $(".lang-option.#LANG:first").text!
     setPref \lang LANG
+    for {lang, words} in (React.View.result.props.xrefs || []) | lang is LANG
+      id ||= words.0
+    id ||= LRU[LANG]?replace(/[\\\n][\d\D]*/, '')
     id ||= {a: \萌 t: \發穎 h: \發芽 c: \萌}[LANG]
+    id -= /[\\"~`]/g
     unless isCordova
       GET "#LANG/xref.json" (-> XREF[LANG] = it), \text
       GET "#LANG/index.json" (-> INDEX[LANG] = it), \text
@@ -537,32 +557,42 @@ window.do-load = ->
       callLater set-pinyin-bindings
 
   window.bind-html-actions = bind-html-actions = ->
+    $result = $ \#result
+    $h1 = $result.find \h1
+    $tooltip = $ '.ui-tooltip'
     $('#strokes').fadeOut(\fast -> $('#strokes').html(''); window.scroll-to 0 0) if $('svg, canvas').length and not $('body').hasClass('autodraw')
     do
-      $('.ui-tooltip').remove!
+      $tooltip.remove!
       <- setTimeout _, 125ms
-      $('.ui-tooltip').remove!
+      $tooltip.remove!
       <- setTimeout _, 125ms
-      $('.ui-tooltip').remove!
+      $tooltip.remove!
 
-    $ \#result .ruby!
-    _pua!
-    $ '#result h1' .css \visibility \visible
+    <- React.render React.View.UserPref!, $(\#user-pref).0
+
+    Han($result.0).render-ruby!.subst-comb-liga-with-PUA!
+
     window.scroll-to 0 0
-
-    $('#result h1 rb[word]') .each ->
-      _h = HASH-OF[LANG]
-      _i = $ @ .attr 'word-order'
-      _ci = $ @ .attr 'word'
-      $ @ .wrap $('<a/>').attr({
-        'word-order': _i
-        'href': _h + _ci
-      })
-      .on 'mouseover' ->
-        _i = $ this .attr 'word-order'
-        $('#result h1 a[word-order=' + _i + ']').addClass \hovered
-      .on 'mouseout' ->
-        $('#result h1 a') .removeClass \hovered
+    $h1
+    .css \visibility \visible
+      .find 'a[word-id]'
+      .each !->
+        return if isCordova
+        $it = $ @
+        html = @.cloneNode().outerHTML
+        ci = document.createTextNode $it.text!
+        $it
+          .closest \ru
+          .wrap html 
+          .end!
+        .replace-with ci
+      .end!
+    .on \mouseover, 'a[word-id]' !->
+      $it = $ @
+      i = $it.attr \word-id
+      $it.parents \h1 .find 'a[word-id=' + i + ']' .addClass \hovered
+    .on \mouseout, 'a.hovered' !->
+      $h1.find \a .removeClass \hovered
 
     $('#result .part-of-speech a').attr \href, null
     set-pinyin-bindings!
@@ -586,6 +616,7 @@ window.do-load = ->
       setPref "starred-#LANG" STARRED[LANG]
 
     $ '.results .stroke' .on vclick, ->
+      $('#historical-scripts').fadeIn!
       return ($('#strokes').fadeOut \fast -> $('#strokes').html(''); window.scroll-to 0 0) if $('svg, canvas').length
       window.scroll-to 0 0
       strokeWords($('h1:first').data(\title) - /[（(].*/) # Strip the english part and draw the strokes
@@ -603,8 +634,13 @@ window.do-load = ->
     $('#result a[href]:not(.xref)').tooltip {
       +disabled, tooltipClass: "prefer-pinyin-#{ true /* !!getPref \prefer-pinyin */ }", show: 100ms, hide: 100ms, items: \a,
       open: ->
-        $('.ui-tooltip-content h1').ruby!
-        _pua!
+        id = $(@).attr \href .replace /^#['!:~]?/, ''
+        if entryHistory.length and entryHistory[*-1] == id
+          try $(@).tooltip \close
+          return
+        Han $('.ui-tooltip-content')[0]
+        .render-ruby!
+        .subst-comb-liga-with-PUA!
       content: (cb) ->
         id = $(@).attr \href .replace /^#['!:~]?/, ''
         callLater ->
@@ -623,35 +659,6 @@ window.do-load = ->
             try $(@).tooltip \open
         out: -> try $(@).tooltip \close
 
-    function _pua
-      $('hruby rb[annotation]').each ->
-        a = $ @ .attr \annotation
-
-        if isDroidGap or isChrome
-          a .= replace /([aeiou])\u030d/g (m, v) ->
-            return      if v is \a then \\uDB80\uDC61
-                   else if v is \e then \\uDB80\uDC65
-                   else if v is \i then \\uDB80\uDC69
-                   else if v is \o then \\uDB80\uDC6F
-                   else if v is \u then \\uDB80\uDC75
-        else
-          a .= replace /i\u030d/g \\uDB80\uDC69
-
-        if a is /(<span[^<]*<\/span>)/
-          $(RegExp.$1).appendTo $(\<span/> class: \specific_to).appendTo $(@).parents('h1')
-        $ @ .attr \annotation, a - /<span[^<]*<\/span>/g
-
-      $('hruby rb[diao]').each ->
-        d = $ @ .attr \diao
-        d .= replace /([\u31B4-\u31B7])[\u0358|\u030d]/g (m, j) ->
-          return      if j is \\u31B4 then \\uDB8C\uDDB4
-                 else if j is \\u31B5 then \\uDB8C\uDDB5
-                 else if j is \\u31B6 then \\uDB8C\uDDB6
-                 else if j is \\u31B7 then \\uDB8C\uDDB7
-        $ @ .attr \diao, d
-
-      React.renderComponent React.View.UserPref!, $(\#user-pref).0
-
   fill-json = (part, id, cb) ->
     part = React.View.decodeLangPart LANG, part
     reactProps = null
@@ -662,9 +669,9 @@ window.do-load = ->
     else
       xrefs = [ { lang, words } for lang, words of xref-of id | words.length ]
       reactProps = { id, xrefs, LANG, type: \term, H: HASH-OF[LANG] } <<< $.parseJSON part
-    return cb React.renderComponentToString React.View.Result(reactProps) if cb
+    return cb React.renderToString React.View.Result(reactProps) if cb
     return React.View.result?replaceProps reactProps, bind-html-actions if React.View.result
-    React.View.result = React.renderComponent React.View.Result(reactProps), $(\#result).0, bind-html-actions
+    React.View.result = React.render React.View.Result(reactProps), $(\#result).0, bind-html-actions
 
   fill-bucket = (id, bucket, cb) ->
     raw <- GET "p#{LANG}ck/#bucket.txt"
@@ -678,7 +685,7 @@ window.do-load = ->
     fill-json part, id, cb
 
   if isCordova
-    for lang of HASH-OF => let lang
+    for let lang of HASH-OF
       GET "#lang/xref.json", (-> XREF[lang] = it; init! if lang is LANG), \text
       p1 <- GET "#lang/index.1.json", _, \text
       p2 <- GET "#lang/index.2.json", _, \text
@@ -693,7 +700,7 @@ window.do-load = ->
   unless STANDALONE
     GET "t/variants.json", (-> XREF.tv = {t: it}), \text
 
-  for lang of HASH-OF | lang isnt \h => let lang
+  for let lang of HASH-OF | lang isnt \h
     return if STANDALONE and lang isnt STANDALONE
     GET "#lang/=.json", (->
       $ul = render-taxonomy lang, $.parseJSON it
@@ -760,6 +767,7 @@ function init-autocomplete
       $('iframe').fadeOut \fast
       return cb [] unless term.length
       return trs_lookup(term, cb) unless LANG isnt \t or term is /[^\u0000-\u00FF]/ or term is /[,;0-9]/
+      return pinyin_lookup(term, cb) if LANG is \a and term is /^[a-zA-Z1-4 ]+$/
       return cb ["→列出含有「#{term}」的詞"] if width-is-xs! and term isnt /[「」。，?.*_% ]/
       return do-lookup(term) if term is /^[@=]/
       term.=replace(/^→列出含有「/ '')
@@ -816,13 +824,34 @@ PUA2UNI = {
 trs_lookup = (term,cb) ->
   data <- GET "https://www.moedict.tw/lookup/trs/#{term}"
   data.=replace /[⿰⿸⿺](?:𧾷|.)./g -> PUA2UNI[it]
-  cb( data / '|' )
+  cb( unique(data / '|') )
 
+pinyin_lookup = (query,cb) !->
+  res = []
+  terms = query.replace(/^\s+/,"").replace(/\s+$/,"").replace(/\s+/, " ").split(/ /)
+  for term in terms
+    data <- GET "lookup/pinyin/#{term}.json"
+    res.push( $.parseJSON(data) )
+    if res.length == terms.length
+      seen = {}
+      for titles in res
+        for t in titles
+          if !seen[t]?
+            seen[t] = 0
+          seen[t]++
+      x=[]
+      for t of seen
+        if (seen[t] == terms.length)
+          x.push(t)
+      if x.length == 0
+        cb(["無符合之詞"])
+      else
+        cb(x)
 
 const SIMP-TRAD = window.SIMP-TRAD ? ''
 
 function b2g (str='')
-  return str unless LANG in <[ a c ]> and str isnt /^@/
+  return str.replace(/台([北中南東灣語])/g '臺$1') unless LANG in <[ a c ]> and str isnt /^@/
   rv = ''
   for char in (str / '')
     idx = SIMP-TRAD.index-of(char)
@@ -834,7 +863,7 @@ function can-play-mp3
   a = document.createElement \audio
   CACHED.can-play-mp3 = !!(a.canPlayType?('audio/mpeg;') - /^no$/)
 
-function can-play-ogg
+window.can-play-ogg = function can-play-ogg
   return CACHED.can-play-ogg if CACHED.can-play-ogg?
   a = document.createElement \audio
   CACHED.can-play-ogg = !!(a.canPlayType?('audio/ogg; codecs="vorbis"') - /^no$/)
@@ -908,10 +937,9 @@ $ ->
       color = "black"
       pathAttrs = { stroke: color, "stroke-width": 0, "stroke-linecap": "round", "fill": color }
       delay = 350ms
-      for outline in doc.getElementsByTagName 'Outline' => let
-        setTimeout (->
-          drawOutline(paper,outline,pathAttrs)
-        ), timeout += delay
+      for let outline in doc.getElementsByTagName 'Outline'
+        <- setTimeout _, timeout += delay
+        drawOutline(paper,outline,pathAttrs)
       cb (timeout + delay)
 
   window.strokeWords = (words) ->
