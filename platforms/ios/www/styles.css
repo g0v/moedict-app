@@ -9003,3 +9003,4 @@ body.cordova #gcse > span .gsc-results-wrapper-overlay {
 
 body {
   font-size: 14pt; }
+body.cordova.ios iframe { display: none !important }
