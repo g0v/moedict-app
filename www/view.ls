@@ -127,7 +127,7 @@ Links = createClass do
       span {}, nbsp, \萌典
     div { className: \share, style: { float: \right, marginTop: \-10px, marginRight: \5px, marginBottom: \15px } },
       ...for { id, icon, label, background, href } in share-buttons
-        a { id: "share-#id", className: "btn btn-default small", title: "#label 分享", style: { background, color: \white }, 'data-href': href, target: \_blank },
+        a { id: "share-#id", className: "btn btn-default small not-ios", title: "#label 分享", style: { background, color: \white }, 'data-href': href, target: \_blank },
           i { className: \icon-share } nbsp
           i { className: "icon-#icon" }
 
@@ -551,7 +551,7 @@ function convert-pinyin-t (yin, isBody=true)
     yin2.=replace(/\u0300(\w*[ \u2011]a(?:[ -\u2011]|\u0300](?![-\w\u2011])))/g '$1')        # 2 -> 1
     return yin2
   # POJ Rules from: https://lukhnos.org/blog/zh/archives/472/
-  return yin.replace(/oo/g, 'o\u0358')
+  return yin.replace(/o([^.!?,\w\s\u2011]*)o/g, 'o$1\u0358')
             .replace(/ts/g, 'ch')
             .replace(/u([^\w\s]*)a/g, 'o$1a')
             .replace(/u([^\w\s]*)e/g, 'o$1e')
@@ -604,7 +604,7 @@ function convert-pinyin (yin, isBody)
   if yin is /^[^eēéěè].*r/
     r = 'r'
     yin -= /r$/
-  yin = PinYinMap[system - /^HanYu-/][yin] || yin
+  yin = PinYinMap[system - /^HanYu-/][yin - /\u200b/g] || yin
   match yin
   | /a/   => yin.=replace /a/ "aāáǎàa"[tone]
   | /o/   => yin.=replace /o/ "oōóǒòo"[tone]
