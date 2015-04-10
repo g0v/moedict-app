@@ -18,9 +18,9 @@ LANG = STANDALONE || window.PRERENDER_LANG || getPref(\lang) || (if document.URL
 MOE-ID = getPref(\prev-id) || {a: \萌 t: \發穎 h: \發芽 c: \萌}[LANG]
 $ ->
   $('body').addClass("lang-#LANG")
-  React.render React.View.Links!, $(\#links).0
-  React.render React.View.UserPref!, $(\#user-pref).0
-  React.render React.View.Nav({STANDALONE}), $(\#nav).0, ->
+  React.render React.createElement(React.View.Links), $(\#links).0
+  React.render React.createElement(React.View.UserPref), $(\#user-pref).0
+  React.render React.createElement(React.View.Nav, {STANDALONE}), $(\#nav).0, ->
     $('.lang-active').text $(".lang-option.#LANG:first").text!
     if navigator.userAgent is /MSIE|Trident/
       $('form[id=lookback]').remove!
@@ -455,7 +455,7 @@ window.do-load = ->
     $('iframe').fadeIn \fast
     $('.lang-active').text $(".lang-option.#LANG:first").text!
     setPref \lang LANG
-    for {lang, words} in (React.View.result.props.xrefs || []) | lang is LANG
+    for {lang, words} in (React.View.result?props.xrefs || []) | lang is LANG
       id ||= words.0
     id ||= LRU[LANG]?replace(/[\\\n][\d\D]*/, '')
     id ||= {a: \萌 t: \發穎 h: \發芽 c: \萌}[LANG]
@@ -568,7 +568,7 @@ window.do-load = ->
       <- setTimeout _, 125ms
       $tooltip.remove!
 
-    <- React.render React.View.UserPref!, $(\#user-pref).0
+    <- React.render React.createElement(React.View.UserPref), $(\#user-pref).0
 
     Han($result.0).render-ruby!.subst-comb-liga-with-PUA!
 
@@ -634,7 +634,7 @@ window.do-load = ->
     $('#result a[href]:not(.xref)').tooltip {
       +disabled, tooltipClass: "prefer-pinyin-#{ true /* !!getPref \prefer-pinyin */ }", show: 100ms, hide: 100ms, items: \a,
       open: ->
-        id = $(@).attr \href .replace /^#['!:~]?/, ''
+        id = $(@).attr \href .replace /^(\.\/)?#?['!:~]?/, ''
         if entryHistory.length and entryHistory[*-1] == id
           try $(@).tooltip \close
           return
@@ -642,7 +642,7 @@ window.do-load = ->
         .render-ruby!
         .subst-comb-liga-with-PUA!
       content: (cb) ->
-        id = $(@).attr \href .replace /^#['!:~]?/, ''
+        id = $(@).attr \href .replace /^(\.\/)?#?['!:~]?/, ''
         callLater ->
           if htmlCache[LANG][id]
             cb htmlCache[LANG][id]
@@ -715,7 +715,7 @@ function render-taxonomy (lang, taxonomy)
   for taxo in (if taxonomy instanceof Array then taxonomy else [taxonomy])
     if typeof taxo is \string
       $ul.append $(\<li/> role: \presentation).append $(
-        \<a/> class: "lang-option #lang" href: "#{ HASH-OF[lang] }=#taxo"
+        \<a/> class: "lang-option #lang" href: "./#{ HASH-OF[lang] }=#taxo"
       ).text(taxo)
     else for label, submenu of taxo
       $ul.append $(\<li/> class: \dropdown-submenu).append(
