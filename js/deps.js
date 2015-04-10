@@ -4053,9 +4053,9 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	var Links, Nav, UserPref, React, isMoedictDesktop, $body, ref$, p, i, a, b, form, h1, div, main, span, br, h3, h4, button, label, table, nav, tr, td, th, input, hr, meta, ul, ol, li, ruby, small, any, map, createClass, withProperties, divInline, h1Name, cjk, rCjkOne, rCjkG, nbsp, CurrentId, Result, Term, Translations, HASHOF, XREFLABELOF, XRefs, Star, Heteronym, decorateRuby, DTTones, DTTonesSandhi, DefinitionList, Definition, CJKRADICALS, RadicalGlyph, RadicalTable, List, httpMap, http, untag, groupBy, Consonants, Vowels, Tones, re, C, V, keyMap, decodeLangPart, PinYinMap, slice$ = [].slice, replace$ = ''.replace, join$ = [].join, split$ = ''.split;
-	Links = __webpack_require__(15);
-	Nav = __webpack_require__(16);
-	UserPref = __webpack_require__(17);
+	Links = __webpack_require__(17);
+	Nav = __webpack_require__(18);
+	UserPref = __webpack_require__(19);
 	React = __webpack_require__(13);
 	if ((typeof window != 'undefined' && window !== null) && window.moedictDesktop) {
 	  window.isMoedictDesktop = isMoedictDesktop = true;
@@ -4203,7 +4203,7 @@
 	      return results$;
 	      function fn$(key, val){
 	        var text, this$ = this;
-	        text = untag((join$.call(translation[key], ', ')).replace(/, CL:.*/g, '').replace(/\|(?:<\/?a[^>*]>|[^[,.(])+/g, ''));
+	        text = replace$.call(untag(join$.call(translation[key], ', ')), /, CL:.*/g, '').replace(/\|[^[,.()]+/g, '');
 	        return div({
 	          key: key,
 	          className: 'xref-line'
@@ -5881,7 +5881,7 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	
-	module.exports = __webpack_require__( 19 )
+	module.exports = __webpack_require__( 15 )
 
 
 
@@ -15100,7 +15100,7 @@
 /* 13 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports = __webpack_require__(18);
+	module.exports = __webpack_require__(16);
 
 
 /***/ },
@@ -15288,802 +15288,6 @@
 
 /***/ },
 /* 15 */
-/***/ function(module, exports, __webpack_require__) {
-
-	"use strict";
-
-	var _interopRequireWildcard = function (obj) { return obj && obj.__esModule ? obj : { "default": obj }; };
-
-	var _classCallCheck = function (instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } };
-
-	var _createClass = (function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
-
-	var _inherits = function (subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) subClass.__proto__ = superClass; };
-
-	Object.defineProperty(exports, "__esModule", {
-	    value: true
-	});
-
-	var _React = __webpack_require__(13);
-
-	var _React2 = _interopRequireWildcard(_React);
-
-	var shareButtons = [{ id: "f", icon: "facebook", label: "Facebook", background: "#3B579D", href: "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.moedict.tw%2F" }, { id: "t", icon: "twitter", label: "Twitter", background: "#00ACED", href: "https://twitter.com/share?text=__TEXT__&url=https%3A%2F%2Fwww.moedict.tw%2F" }, { id: "g", icon: "google-plus", label: "Google+", background: "#D95C5C", href: "https://plus.google.com/share?url=https%3A%2F%2Fwww.moedict.tw%2F" }];
-
-	var Links = (function (_React$Component) {
-	    function Links() {
-	        _classCallCheck(this, Links);
-
-	        if (_React$Component != null) {
-	            _React$Component.apply(this, arguments);
-	        }
-	    }
-
-	    _inherits(Links, _React$Component);
-
-	    _createClass(Links, [{
-	        key: "render",
-	        value: function render() {
-	            return _React2["default"].createElement(
-	                "div",
-	                null,
-	                _React2["default"].createElement(
-	                    "a",
-	                    { title: "關於本站", href: "#",
-	                        className: "visible-xs pull-left ebas btn btn-default",
-	                        style: { float: "left", marginTop: "-10px",
-	                            marginLeft: "5px", marginBottom: "5px" },
-	                        onClick: function () {
-	                            return window.pressAbout;
-	                        } },
-	                    _React2["default"].createElement(
-	                        "span",
-	                        { className: "iconic-circle" },
-	                        _React2["default"].createElement("i", { className: "icon-info" })
-	                    ),
-	                    _React2["default"].createElement(
-	                        "span",
-	                        null,
-	                        " 萌典"
-	                    )
-	                ),
-	                _React2["default"].createElement(
-	                    "div",
-	                    { className: "share", style: {
-	                            float: "right", marginTop: "-10px",
-	                            marginRight: "5px", marginBottom: "15px"
-	                        } },
-	                    shareButtons.map(function (_ref) {
-	                        var id = _ref.id;
-	                        var icon = _ref.icon;
-	                        var label = _ref.label;
-	                        var background = _ref.background;
-	                        var href = _ref.href;
-	                        return _React2["default"].createElement(
-	                            "a",
-	                            { key: id, id: "share-" + id, className: "btn btn-default small not-ios",
-	                                title: "" + label + " 分享", style: { background: background, color: "white" },
-	                                "data-href": href, target: "_blank" },
-	                            _React2["default"].createElement(
-	                                "i",
-	                                { className: "icon-share" },
-	                                " "
-	                            ),
-	                            _React2["default"].createElement("i", { className: "icon-" + icon })
-	                        );
-	                    })
-	                )
-	            );
-	        }
-	    }]);
-
-	    return Links;
-	})(_React2["default"].Component);
-
-	exports["default"] = Links;
-	module.exports = exports["default"];
-
-/***/ },
-/* 16 */
-/***/ function(module, exports, __webpack_require__) {
-
-	"use strict";
-
-	var _interopRequireWildcard = function (obj) { return obj && obj.__esModule ? obj : { "default": obj }; };
-
-	var _classCallCheck = function (instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } };
-
-	var _createClass = (function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
-
-	var _inherits = function (subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) subClass.__proto__ = superClass; };
-
-	Object.defineProperty(exports, "__esModule", {
-	    value: true
-	});
-
-	var _React = __webpack_require__(13);
-
-	var _React2 = _interopRequireWildcard(_React);
-
-	var Nav = (function (_React$Component) {
-	    function Nav() {
-	        _classCallCheck(this, Nav);
-
-	        if (_React$Component != null) {
-	            _React$Component.apply(this, arguments);
-	        }
-	    }
-
-	    _inherits(Nav, _React$Component);
-
-	    _createClass(Nav, [{
-	        key: "render",
-	        value: function render() {
-	            return _React2["default"].createElement(
-	                "nav",
-	                { className: "navbar navbar-inverse navbar-fixed-top", role: "navigation" },
-	                _React2["default"].createElement(
-	                    "div",
-	                    { className: "navbar-header" },
-	                    _React2["default"].createElement(
-	                        "a",
-	                        { className: "navbar-brand brand ebas", href: "./" },
-	                        "萌典"
-	                    )
-	                ),
-	                _React2["default"].createElement(
-	                    "ul",
-	                    { className: "nav navbar-nav" },
-	                    _React2["default"].createElement(
-	                        "li",
-	                        { className: "dropdown" },
-	                        _React2["default"].createElement(
-	                            "a",
-	                            { className: "dropdown-toggle", href: "#", "data-toggle": "dropdown" },
-	                            _React2["default"].createElement(
-	                                "i",
-	                                { className: "icon-book" },
-	                                " "
-	                            ),
-	                            _React2["default"].createElement(
-	                                "span",
-	                                { className: "lang-active", style: {
-	                                        margin: 0, padding: 0
-	                                    }, itemProp: "articleSection" },
-	                                "國語辭典"
-	                            ),
-	                            _React2["default"].createElement("b", { className: "caret" })
-	                        ),
-	                        _React2["default"].createElement(DropDown, { STANDALONE: this.props.STANDALONE })
-	                    ),
-	                    _React2["default"].createElement(
-	                        "li",
-	                        { id: "btn-starred", title: "字詞紀錄簿" },
-	                        _React2["default"].createElement(
-	                            "a",
-	                            { href: "#=*", style: { paddingLeft: "5px", paddingRight: "5px" } },
-	                            _React2["default"].createElement("i", { className: "icon-bookmark-empty" })
-	                        )
-	                    ),
-	                    _React2["default"].createElement(
-	                        "li",
-	                        { id: "btn-pref", title: "偏好設定" },
-	                        _React2["default"].createElement(
-	                            "a",
-	                            { href: "#=*", style: { paddingLeft: "5px", paddingRight: "5px" } },
-	                            _React2["default"].createElement("i", { className: "icon-cogs" })
-	                        )
-	                    ),
-	                    window.isMoedictDesktop && _React2["default"].createElement(
-	                        "li",
-	                        { id: "btn-moedict-desktop-addons" },
-	                        _React2["default"].createElement(
-	                            "a",
-	                            { href: "https://racklin.github.io/moedict-desktop/addon.html", style: {
-	                                    paddingLeft: "5px", paddingRight: "5px"
-	                                }, alt: "下載擴充套件" },
-	                            _React2["default"].createElement("i", { className: "icon-download-alt" })
-	                        )
-	                    ),
-	                    _React2["default"].createElement(
-	                        "li",
-	                        null,
-	                        _React2["default"].createElement(
-	                            "form",
-	                            { id: "lookback", className: "back",
-	                                target: "_blank", acceptCharset: "big5",
-	                                action: "http://dict.revised.moe.edu.tw/cgi-bin/newDict/dict.sh", style: { display: "none", margin: 0, padding: 0 } },
-	                            _React2["default"].createElement("input", { type: "hidden", name: "idx", value: "dict.idx" }),
-	                            _React2["default"].createElement("input", { type: "hidden", name: "fld", value: "1" }),
-	                            _React2["default"].createElement("input", { type: "hidden", name: "imgFont", value: "1" }),
-	                            _React2["default"].createElement("input", { type: "hidden", name: "cat", value: "" }),
-	                            _React2["default"].createElement("input", { id: "cond", type: "hidden", name: "cond", value: "^萌$" }),
-	                            _React2["default"].createElement("input", { className: "iconic-circle", type: "submit", value: "反", title: "反查來源（教育部國語辭典）", style: { fontFamily: "EBAS", marginTop: "12px", borderRadius: "20px", border: "0px" } })
-	                        )
-	                    ),
-	                    _React2["default"].createElement(
-	                        "li",
-	                        { className: "resize-btn app-only", style: {
-	                                position: "absolute", top: "2px", left: "8em", padding: "3px"
-	                            } },
-	                        _React2["default"].createElement(
-	                            "a",
-	                            { style: { paddingLeft: "5px", paddingRight: "5px", marginRight: "30px" }, href: "#", onClick: function () {
-	                                    return window.adjustFontSize(-1);
-	                                } },
-	                            _React2["default"].createElement("i", { className: "icon-resize-small" })
-	                        )
-	                    ),
-	                    _React2["default"].createElement(
-	                        "li",
-	                        { className: "resize-btn app-only", style: {
-	                                position: "absolute", top: "2px", left: "8em", padding: "3px",
-	                                marginLeft: "30px"
-	                            } },
-	                        _React2["default"].createElement(
-	                            "a",
-	                            { style: { paddingLeft: "5px", paddingRight: "5px" }, href: "#", onClick: function () {
-	                                    return window.adjustFontSize(+1);
-	                                } },
-	                            _React2["default"].createElement("i", { className: "icon-resize-small" })
-	                        )
-	                    )
-	                ),
-	                _React2["default"].createElement(
-	                    "ul",
-	                    { className: "nav pull-right hidden-xs" },
-	                    _React2["default"].createElement(
-	                        "li",
-	                        null,
-	                        _React2["default"].createElement(
-	                            "a",
-	                            { href: "about.html", title: "關於本站", onClick: function () {
-	                                    return window.pressAbout();
-	                                } },
-	                            _React2["default"].createElement(
-	                                "span",
-	                                { className: "iconic-circle" },
-	                                _React2["default"].createElement("i", { className: "icon-info" })
-	                            )
-	                        )
-	                    )
-	                ),
-	                _React2["default"].createElement(
-	                    "ul",
-	                    { className: "nav pull-right hidden-xs" },
-	                    _React2["default"].createElement(
-	                        "li",
-	                        { className: "web-inline-only", style: { display: "inline-block" } },
-	                        _React2["default"].createElement(
-	                            "a",
-	                            { href: "https://racklin.github.io/moedict-desktop/download.html", target: "_blank", title: "桌面版下載（可離線使用）", style: { color: "#ccc" } },
-	                            _React2["default"].createElement("i", { className: "icon-download-alt" })
-	                        )
-	                    ),
-	                    _React2["default"].createElement(
-	                        "li",
-	                        { className: "web-inline-only", style: { display: "inline-block" } },
-	                        _React2["default"].createElement(
-	                            "a",
-	                            { href: "https://play.google.com/store/apps/details?id=org.audreyt.dict.moe", target: "_blank", title: "Google Play 下載", style: { color: "#ccc" } },
-	                            _React2["default"].createElement("i", { className: "icon-android" })
-	                        )
-	                    ),
-	                    _React2["default"].createElement(
-	                        "li",
-	                        { className: "web-inline-only", style: { display: "inline-block" } },
-	                        _React2["default"].createElement(
-	                            "a",
-	                            { href: "https://itunes.apple.com/tw/app/meng-dian/id599429224", target: "_blank", title: "App Store 下載", style: { color: "#ccc" } },
-	                            _React2["default"].createElement("i", { className: "icon-apple" })
-	                        )
-	                    )
-	                )
-	            );
-	        }
-	    }]);
-
-	    return Nav;
-	})(_React2["default"].Component);
-
-	exports["default"] = Nav;
-
-	var DropDown = (function (_React$Component2) {
-	    function DropDown() {
-	        _classCallCheck(this, DropDown);
-
-	        if (_React$Component2 != null) {
-	            _React$Component2.apply(this, arguments);
-	        }
-	    }
-
-	    _inherits(DropDown, _React$Component2);
-
-	    _createClass(DropDown, [{
-	        key: "render",
-	        value: function render() {
-	            return _React2["default"].createElement(
-	                "ul",
-	                { className: "dropdown-menu", role: "navigation" },
-	                this.props.STANDALONE !== "c" && [_React2["default"].createElement(
-	                    MenuItem,
-	                    { key: "##", lang: "a", href: "##" },
-	                    "國語辭典"
-	                ), _React2["default"].createElement(Taxonomy, { key: "#=", lang: "a" }), _React2["default"].createElement(
-	                    MenuItem,
-	                    { key: "#@", lang: "a", href: "#@" },
-	                    "…部首表"
-	                ), _React2["default"].createElement(
-	                    MenuItem,
-	                    { key: "#!", lang: "t", href: "#!" },
-	                    "臺灣閩南語"
-	                ), _React2["default"].createElement(Taxonomy, { key: "#!=", lang: "t" }), _React2["default"].createElement(
-	                    MenuItem,
-	                    { key: "#!=諺語", lang: "t", href: "#!=諺語" },
-	                    "…諺語"
-	                ), _React2["default"].createElement(
-	                    MenuItem,
-	                    { key: "#:", lang: "h", href: "#:" },
-	                    "臺灣客家語"
-	                ), _React2["default"].createElement(
-	                    MenuItem,
-	                    { key: "#:=諺語", lang: "h", href: "#:=諺語" },
-	                    "…諺語"
-	                )],
-	                _React2["default"].createElement(
-	                    MenuItem,
-	                    { key: "#~", lang: "c", href: "#~" },
-	                    "兩岸詞典"
-	                ),
-	                _React2["default"].createElement(Taxonomy, { key: "#~=", lang: "c" }),
-	                _React2["default"].createElement(
-	                    MenuItem,
-	                    { key: "#~@", lang: "c", href: "#~@" },
-	                    "…部首表"
-	                )
-	            );
-	        }
-	    }]);
-
-	    return DropDown;
-	})(_React2["default"].Component);
-
-	var Taxonomy = (function (_React$Component3) {
-	    function Taxonomy() {
-	        _classCallCheck(this, Taxonomy);
-
-	        if (_React$Component3 != null) {
-	            _React$Component3.apply(this, arguments);
-	        }
-	    }
-
-	    _inherits(Taxonomy, _React$Component3);
-
-	    _createClass(Taxonomy, [{
-	        key: "render",
-	        value: function render() {
-	            var lang = this.props.lang;
-
-	            return _React2["default"].createElement(
-	                "li",
-	                { className: "dropdown-submenu" },
-	                _React2["default"].createElement(
-	                    "a",
-	                    { className: lang + " taxonomy" },
-	                    "…分類索引"
-	                )
-	            );
-	        }
-	    }]);
-
-	    return Taxonomy;
-	})(_React2["default"].Component);
-
-	var MenuItem = (function (_React$Component4) {
-	    function MenuItem() {
-	        _classCallCheck(this, MenuItem);
-
-	        if (_React$Component4 != null) {
-	            _React$Component4.apply(this, arguments);
-	        }
-	    }
-
-	    _inherits(MenuItem, _React$Component4);
-
-	    _createClass(MenuItem, [{
-	        key: "render",
-	        value: function render() {
-	            var _props = this.props;
-	            var lang = _props.lang;
-	            var href = _props.href;
-	            var children = _props.children;
-
-	            var role = children[0] === "…" && "menuitem";
-	            return _React2["default"].createElement(
-	                "li",
-	                { role: "presentation" },
-	                _React2["default"].createElement(
-	                    "a",
-	                    { className: lang + " lang-option " + (role && "" + lang + "-idiom"),
-	                        role: role, href: href },
-	                    children
-	                )
-	            );
-	        }
-	    }]);
-
-	    return MenuItem;
-	})(_React2["default"].Component);
-
-	module.exports = exports["default"];
-
-/***/ },
-/* 17 */
-/***/ function(module, exports, __webpack_require__) {
-
-	'use strict';
-
-	var _interopRequireWildcard = function (obj) { return obj && obj.__esModule ? obj : { 'default': obj }; };
-
-	var _get = function get(object, property, receiver) { var desc = Object.getOwnPropertyDescriptor(object, property); if (desc === undefined) { var parent = Object.getPrototypeOf(object); if (parent === null) { return undefined; } else { return get(parent, property, receiver); } } else if ('value' in desc) { return desc.value; } else { var getter = desc.get; if (getter === undefined) { return undefined; } return getter.call(receiver); } };
-
-	var _classCallCheck = function (instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError('Cannot call a class as a function'); } };
-
-	var _createClass = (function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ('value' in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
-
-	var _inherits = function (subClass, superClass) { if (typeof superClass !== 'function' && superClass !== null) { throw new TypeError('Super expression must either be null or a function, not ' + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) subClass.__proto__ = superClass; };
-
-	Object.defineProperty(exports, '__esModule', {
-	    value: true
-	});
-
-	var _React = __webpack_require__(13);
-
-	var _React2 = _interopRequireWildcard(_React);
-
-	var window = typeof self === 'undefined' ? { $: function $() {} } : self.window;
-	var $body = window.$('body') || { hasClass: function hasClass() {} };
-	var localStorage = window.localStorage || { getItem: function getItem() {}, setItem: function setItem() {} };
-
-	var UserPref = (function (_React$Component) {
-	    function UserPref() {
-	        _classCallCheck(this, UserPref);
-
-	        if (_React$Component != null) {
-	            _React$Component.apply(this, arguments);
-	        }
-	    }
-
-	    _inherits(UserPref, _React$Component);
-
-	    _createClass(UserPref, [{
-	        key: 'render',
-	        value: function render() {
-	            var _props = this.props;
-	            var phonetics = _props.phonetics;
-	            var simptrad = _props.simptrad;
-	            var pinyin_a = _props.pinyin_a;
-	            var pinyin_t = _props.pinyin_t;
-
-	            return _React2['default'].createElement(
-	                'div',
-	                null,
-	                _React2['default'].createElement(
-	                    'h4',
-	                    null,
-	                    '偏好設定'
-	                ),
-	                _React2['default'].createElement(
-	                    'button',
-	                    { className: 'close btn-close', type: 'button', 'aria-hidden': true },
-	                    '×'
-	                ),
-	                _React2['default'].createElement(
-	                    'ul',
-	                    null,
-	                    $body.hasClass('lang-a') && _React2['default'].createElement(PrefList, { pref: { pinyin_a: pinyin_a }, label: '羅馬拼音顯示方式', items: {
-	                            'HanYu-TongYong': '漢語華通共同顯示',
-	                            HanYu: '漢語拼音',
-	                            TongYong: '華通拼音',
-	                            WadeGiles: '威妥瑪式',
-	                            GuoYin: '注音二式'
-	                        } }),
-	                    $body.hasClass('lang-t') && _React2['default'].createElement(PrefList, { pref: { pinyin_t: pinyin_t }, label: '羅馬拼音顯示方式', items: {
-	                            'TL-DT': '臺羅臺通共同顯示',
-	                            TL: '臺羅拼音',
-	                            DT: '臺通拼音',
-	                            POJ: '白話字'
-	                        } }),
-	                    _React2['default'].createElement(PrefList, { pref: { phonetics: phonetics }, label: '條目音標顯示方式', items: {
-	                            rightangle: '注音拼音共同顯示',
-	                            bopomofo: '注音符號',
-	                            pinyin: '羅馬拼音',
-	                            '-': '',
-	                            none: '關閉'
-	                        } })
-	                ),
-	                _React2['default'].createElement(
-	                    'button',
-	                    { className: 'btn btn-primary btn-block btn-close', type: 'button' },
-	                    '關閉'
-	                )
-	            );
-	        }
-	    }], [{
-	        key: 'defaultProps',
-	        enumerable: true,
-	        value: {
-	            simptrad: localStorage.getItem('simptrad'),
-	            phonetics: localStorage.getItem('phonetics'),
-	            pinyin_a: localStorage.getItem('pinyin_a') || 'HanYu',
-	            pinyin_t: localStorage.getItem('pinyin_t') || 'TL'
-	        }
-	    }]);
-
-	    return UserPref;
-	})(_React2['default'].Component);
-
-	exports['default'] = UserPref;
-
-	var PrefList = (function (_React$Component2) {
-	    function PrefList(props) {
-	        _classCallCheck(this, PrefList);
-
-	        _get(Object.getPrototypeOf(PrefList.prototype), 'constructor', this).call(this, props);
-	        var key = Object.keys(props.pref)[0];
-	        var selected = props.pref[key];
-	        this.state = { key: key, selected: selected };
-	    }
-
-	    _inherits(PrefList, _React$Component2);
-
-	    _createClass(PrefList, [{
-	        key: 'componentDidMount',
-	        value: function componentDidMount() {
-	            this.phoneticsChanged();
-	        }
-	    }, {
-	        key: 'componentDidUpdate',
-	        value: function componentDidUpdate() {
-	            this.phoneticsChanged();
-	        }
-	    }, {
-	        key: 'pinyin_aChanged',
-	        value: function pinyin_aChanged() {
-	            location.reload();
-	        }
-	    }, {
-	        key: 'pinyin_tChanged',
-	        value: function pinyin_tChanged() {
-	            location.reload();
-	        }
-	    }, {
-	        key: 'phoneticsChanged',
-	        value: function phoneticsChanged() {
-	            $body.attr('data-ruby-pref', ({
-	                rightangle: 'both', bopomofo: 'zhuyin',
-	                pinyin: 'pinyin', none: 'none'
-	            })[this.state.selected]);
-	        }
-	    }, {
-	        key: 'render',
-	        value: function render() {
-	            var _this5 = this;
-
-	            var _props2 = this.props;
-	            var label = _props2.label;
-	            var items = _props2.items;
-
-	            var vals = Object.keys(items);
-	            var _state = this.state;
-	            var key = _state.key;
-	            var selected = _state.selected;
-
-	            selected = selected || vals[0];
-	            return _React2['default'].createElement(
-	                'li',
-	                { className: 'btn-group' },
-	                _React2['default'].createElement(
-	                    'label',
-	                    null,
-	                    label
-	                ),
-	                _React2['default'].createElement(
-	                    'button',
-	                    { className: 'btn btn-default btn-sm dropdown-toggle', type: 'button', 'data-toggle': 'dropdown' },
-	                    vals.map(function (val) {
-	                        return val === selected && items[val];
-	                    }),
-	                    ' ',
-	                    _React2['default'].createElement('span', { className: 'caret' })
-	                ),
-	                _React2['default'].createElement(
-	                    'ul',
-	                    { className: 'dropdown-menu' },
-	                    vals.map(function (val) {
-	                        return val[0] === '-' ? _React2['default'].createElement('li', { key: val, className: 'divider', role: 'presentation' }) : _React2['default'].createElement(
-	                            'li',
-	                            { key: val },
-	                            _React2['default'].createElement(
-	                                'a',
-	                                { style: { cursor: 'pointer' },
-	                                    className: val === selected && 'active',
-	                                    onClick: function () {
-	                                        localStorage.setItem(key, val);
-	                                        _this5.setState({ selected: val });
-	                                        _this5[key + 'Changed']();
-	                                    } },
-	                                items[val]
-	                            )
-	                        );
-	                    })
-	                )
-	            );
-	        }
-	    }]);
-
-	    return PrefList;
-	})(_React2['default'].Component);
-
-	module.exports = exports['default'];
-
-/***/ },
-/* 18 */
-/***/ function(module, exports, __webpack_require__) {
-
-	/* WEBPACK VAR INJECTION */(function(process) {/**
-	 * Copyright 2013-2015, Facebook, Inc.
-	 * All rights reserved.
-	 *
-	 * This source code is licensed under the BSD-style license found in the
-	 * LICENSE file in the root directory of this source tree. An additional grant
-	 * of patent rights can be found in the PATENTS file in the same directory.
-	 *
-	 * @providesModule React
-	 */
-
-	/* globals __REACT_DEVTOOLS_GLOBAL_HOOK__*/
-
-	'use strict';
-
-	var EventPluginUtils = __webpack_require__(25);
-	var ReactChildren = __webpack_require__(26);
-	var ReactComponent = __webpack_require__(27);
-	var ReactClass = __webpack_require__(28);
-	var ReactContext = __webpack_require__(29);
-	var ReactCurrentOwner = __webpack_require__(30);
-	var ReactElement = __webpack_require__(31);
-	var ReactElementValidator = __webpack_require__(32);
-	var ReactDOM = __webpack_require__(33);
-	var ReactDOMTextComponent = __webpack_require__(34);
-	var ReactDefaultInjection = __webpack_require__(35);
-	var ReactInstanceHandles = __webpack_require__(36);
-	var ReactMount = __webpack_require__(37);
-	var ReactPerf = __webpack_require__(38);
-	var ReactPropTypes = __webpack_require__(39);
-	var ReactReconciler = __webpack_require__(40);
-	var ReactServerRendering = __webpack_require__(41);
-
-	var assign = __webpack_require__(42);
-	var findDOMNode = __webpack_require__(43);
-	var onlyChild = __webpack_require__(44);
-
-	ReactDefaultInjection.inject();
-
-	var createElement = ReactElement.createElement;
-	var createFactory = ReactElement.createFactory;
-	var cloneElement = ReactElement.cloneElement;
-
-	if ("production" !== process.env.NODE_ENV) {
-	  createElement = ReactElementValidator.createElement;
-	  createFactory = ReactElementValidator.createFactory;
-	  cloneElement = ReactElementValidator.cloneElement;
-	}
-
-	var render = ReactPerf.measure('React', 'render', ReactMount.render);
-
-	var React = {
-	  Children: {
-	    map: ReactChildren.map,
-	    forEach: ReactChildren.forEach,
-	    count: ReactChildren.count,
-	    only: onlyChild
-	  },
-	  Component: ReactComponent,
-	  DOM: ReactDOM,
-	  PropTypes: ReactPropTypes,
-	  initializeTouchEvents: function(shouldUseTouch) {
-	    EventPluginUtils.useTouchEvents = shouldUseTouch;
-	  },
-	  createClass: ReactClass.createClass,
-	  createElement: createElement,
-	  cloneElement: cloneElement,
-	  createFactory: createFactory,
-	  createMixin: function(mixin) {
-	    // Currently a noop. Will be used to validate and trace mixins.
-	    return mixin;
-	  },
-	  constructAndRenderComponent: ReactMount.constructAndRenderComponent,
-	  constructAndRenderComponentByID: ReactMount.constructAndRenderComponentByID,
-	  findDOMNode: findDOMNode,
-	  render: render,
-	  renderToString: ReactServerRendering.renderToString,
-	  renderToStaticMarkup: ReactServerRendering.renderToStaticMarkup,
-	  unmountComponentAtNode: ReactMount.unmountComponentAtNode,
-	  isValidElement: ReactElement.isValidElement,
-	  withContext: ReactContext.withContext,
-
-	  // Hook for JSX spread, don't use this for anything else.
-	  __spread: assign
-	};
-
-	// Inject the runtime into a devtools global hook regardless of browser.
-	// Allows for debugging when the hook is injected on the page.
-	if (
-	  typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== 'undefined' &&
-	  typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.inject === 'function') {
-	  __REACT_DEVTOOLS_GLOBAL_HOOK__.inject({
-	    CurrentOwner: ReactCurrentOwner,
-	    InstanceHandles: ReactInstanceHandles,
-	    Mount: ReactMount,
-	    Reconciler: ReactReconciler,
-	    TextComponent: ReactDOMTextComponent
-	  });
-	}
-
-	if ("production" !== process.env.NODE_ENV) {
-	  var ExecutionEnvironment = __webpack_require__(45);
-	  if (ExecutionEnvironment.canUseDOM && window.top === window.self) {
-
-	    // If we're in Chrome, look for the devtools marker and provide a download
-	    // link if not installed.
-	    if (navigator.userAgent.indexOf('Chrome') > -1) {
-	      if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ === 'undefined') {
-	        console.debug(
-	          'Download the React DevTools for a better development experience: ' +
-	          'http://fb.me/react-devtools'
-	        );
-	      }
-	    }
-
-	    var expectedFeatures = [
-	      // shims
-	      Array.isArray,
-	      Array.prototype.every,
-	      Array.prototype.forEach,
-	      Array.prototype.indexOf,
-	      Array.prototype.map,
-	      Date.now,
-	      Function.prototype.bind,
-	      Object.keys,
-	      String.prototype.split,
-	      String.prototype.trim,
-
-	      // shams
-	      Object.create,
-	      Object.freeze
-	    ];
-
-	    for (var i = 0; i < expectedFeatures.length; i++) {
-	      if (!expectedFeatures[i]) {
-	        console.error(
-	          'One or more ES5 shim/shams expected by React are not available: ' +
-	          'http://fb.me/react-warning-polyfills'
-	        );
-	        break;
-	      }
-	    }
-	  }
-	}
-
-	React.version = '0.13.1';
-
-	module.exports = React;
-
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(46)))
-
-/***/ },
-/* 19 */
 /***/ function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_RESULT__;/*!
@@ -18452,6 +17656,802 @@
 
 
 /***/ },
+/* 16 */
+/***/ function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function(process) {/**
+	 * Copyright 2013-2015, Facebook, Inc.
+	 * All rights reserved.
+	 *
+	 * This source code is licensed under the BSD-style license found in the
+	 * LICENSE file in the root directory of this source tree. An additional grant
+	 * of patent rights can be found in the PATENTS file in the same directory.
+	 *
+	 * @providesModule React
+	 */
+
+	/* globals __REACT_DEVTOOLS_GLOBAL_HOOK__*/
+
+	'use strict';
+
+	var EventPluginUtils = __webpack_require__(25);
+	var ReactChildren = __webpack_require__(26);
+	var ReactComponent = __webpack_require__(27);
+	var ReactClass = __webpack_require__(28);
+	var ReactContext = __webpack_require__(29);
+	var ReactCurrentOwner = __webpack_require__(30);
+	var ReactElement = __webpack_require__(31);
+	var ReactElementValidator = __webpack_require__(32);
+	var ReactDOM = __webpack_require__(33);
+	var ReactDOMTextComponent = __webpack_require__(34);
+	var ReactDefaultInjection = __webpack_require__(35);
+	var ReactInstanceHandles = __webpack_require__(36);
+	var ReactMount = __webpack_require__(37);
+	var ReactPerf = __webpack_require__(38);
+	var ReactPropTypes = __webpack_require__(39);
+	var ReactReconciler = __webpack_require__(40);
+	var ReactServerRendering = __webpack_require__(41);
+
+	var assign = __webpack_require__(42);
+	var findDOMNode = __webpack_require__(43);
+	var onlyChild = __webpack_require__(44);
+
+	ReactDefaultInjection.inject();
+
+	var createElement = ReactElement.createElement;
+	var createFactory = ReactElement.createFactory;
+	var cloneElement = ReactElement.cloneElement;
+
+	if ("production" !== process.env.NODE_ENV) {
+	  createElement = ReactElementValidator.createElement;
+	  createFactory = ReactElementValidator.createFactory;
+	  cloneElement = ReactElementValidator.cloneElement;
+	}
+
+	var render = ReactPerf.measure('React', 'render', ReactMount.render);
+
+	var React = {
+	  Children: {
+	    map: ReactChildren.map,
+	    forEach: ReactChildren.forEach,
+	    count: ReactChildren.count,
+	    only: onlyChild
+	  },
+	  Component: ReactComponent,
+	  DOM: ReactDOM,
+	  PropTypes: ReactPropTypes,
+	  initializeTouchEvents: function(shouldUseTouch) {
+	    EventPluginUtils.useTouchEvents = shouldUseTouch;
+	  },
+	  createClass: ReactClass.createClass,
+	  createElement: createElement,
+	  cloneElement: cloneElement,
+	  createFactory: createFactory,
+	  createMixin: function(mixin) {
+	    // Currently a noop. Will be used to validate and trace mixins.
+	    return mixin;
+	  },
+	  constructAndRenderComponent: ReactMount.constructAndRenderComponent,
+	  constructAndRenderComponentByID: ReactMount.constructAndRenderComponentByID,
+	  findDOMNode: findDOMNode,
+	  render: render,
+	  renderToString: ReactServerRendering.renderToString,
+	  renderToStaticMarkup: ReactServerRendering.renderToStaticMarkup,
+	  unmountComponentAtNode: ReactMount.unmountComponentAtNode,
+	  isValidElement: ReactElement.isValidElement,
+	  withContext: ReactContext.withContext,
+
+	  // Hook for JSX spread, don't use this for anything else.
+	  __spread: assign
+	};
+
+	// Inject the runtime into a devtools global hook regardless of browser.
+	// Allows for debugging when the hook is injected on the page.
+	if (
+	  typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== 'undefined' &&
+	  typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.inject === 'function') {
+	  __REACT_DEVTOOLS_GLOBAL_HOOK__.inject({
+	    CurrentOwner: ReactCurrentOwner,
+	    InstanceHandles: ReactInstanceHandles,
+	    Mount: ReactMount,
+	    Reconciler: ReactReconciler,
+	    TextComponent: ReactDOMTextComponent
+	  });
+	}
+
+	if ("production" !== process.env.NODE_ENV) {
+	  var ExecutionEnvironment = __webpack_require__(45);
+	  if (ExecutionEnvironment.canUseDOM && window.top === window.self) {
+
+	    // If we're in Chrome, look for the devtools marker and provide a download
+	    // link if not installed.
+	    if (navigator.userAgent.indexOf('Chrome') > -1) {
+	      if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ === 'undefined') {
+	        console.debug(
+	          'Download the React DevTools for a better development experience: ' +
+	          'http://fb.me/react-devtools'
+	        );
+	      }
+	    }
+
+	    var expectedFeatures = [
+	      // shims
+	      Array.isArray,
+	      Array.prototype.every,
+	      Array.prototype.forEach,
+	      Array.prototype.indexOf,
+	      Array.prototype.map,
+	      Date.now,
+	      Function.prototype.bind,
+	      Object.keys,
+	      String.prototype.split,
+	      String.prototype.trim,
+
+	      // shams
+	      Object.create,
+	      Object.freeze
+	    ];
+
+	    for (var i = 0; i < expectedFeatures.length; i++) {
+	      if (!expectedFeatures[i]) {
+	        console.error(
+	          'One or more ES5 shim/shams expected by React are not available: ' +
+	          'http://fb.me/react-warning-polyfills'
+	        );
+	        break;
+	      }
+	    }
+	  }
+	}
+
+	React.version = '0.13.1';
+
+	module.exports = React;
+
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(46)))
+
+/***/ },
+/* 17 */
+/***/ function(module, exports, __webpack_require__) {
+
+	"use strict";
+
+	var _interopRequireWildcard = function (obj) { return obj && obj.__esModule ? obj : { "default": obj }; };
+
+	var _classCallCheck = function (instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } };
+
+	var _createClass = (function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
+
+	var _inherits = function (subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) subClass.__proto__ = superClass; };
+
+	Object.defineProperty(exports, "__esModule", {
+	    value: true
+	});
+
+	var _React = __webpack_require__(13);
+
+	var _React2 = _interopRequireWildcard(_React);
+
+	var shareButtons = [{ id: "f", icon: "facebook", label: "Facebook", background: "#3B579D", href: "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.moedict.tw%2F" }, { id: "t", icon: "twitter", label: "Twitter", background: "#00ACED", href: "https://twitter.com/share?text=__TEXT__&url=https%3A%2F%2Fwww.moedict.tw%2F" }, { id: "g", icon: "google-plus", label: "Google+", background: "#D95C5C", href: "https://plus.google.com/share?url=https%3A%2F%2Fwww.moedict.tw%2F" }];
+
+	var Links = (function (_React$Component) {
+	    function Links() {
+	        _classCallCheck(this, Links);
+
+	        if (_React$Component != null) {
+	            _React$Component.apply(this, arguments);
+	        }
+	    }
+
+	    _inherits(Links, _React$Component);
+
+	    _createClass(Links, [{
+	        key: "render",
+	        value: function render() {
+	            return _React2["default"].createElement(
+	                "div",
+	                null,
+	                _React2["default"].createElement(
+	                    "a",
+	                    { title: "關於本站", href: "#",
+	                        className: "visible-xs pull-left ebas btn btn-default",
+	                        style: { float: "left", marginTop: "-10px",
+	                            marginLeft: "5px", marginBottom: "5px" },
+	                        onClick: function () {
+	                            return window.pressAbout;
+	                        } },
+	                    _React2["default"].createElement(
+	                        "span",
+	                        { className: "iconic-circle" },
+	                        _React2["default"].createElement("i", { className: "icon-info" })
+	                    ),
+	                    _React2["default"].createElement(
+	                        "span",
+	                        null,
+	                        " 萌典"
+	                    )
+	                ),
+	                _React2["default"].createElement(
+	                    "div",
+	                    { className: "share", style: {
+	                            float: "right", marginTop: "-10px",
+	                            marginRight: "5px", marginBottom: "15px"
+	                        } },
+	                    shareButtons.map(function (_ref) {
+	                        var id = _ref.id;
+	                        var icon = _ref.icon;
+	                        var label = _ref.label;
+	                        var background = _ref.background;
+	                        var href = _ref.href;
+	                        return _React2["default"].createElement(
+	                            "a",
+	                            { key: id, id: "share-" + id, className: "btn btn-default small not-ios",
+	                                title: "" + label + " 分享", style: { background: background, color: "white" },
+	                                "data-href": href, target: "_blank" },
+	                            _React2["default"].createElement(
+	                                "i",
+	                                { className: "icon-share" },
+	                                " "
+	                            ),
+	                            _React2["default"].createElement("i", { className: "icon-" + icon })
+	                        );
+	                    })
+	                )
+	            );
+	        }
+	    }]);
+
+	    return Links;
+	})(_React2["default"].Component);
+
+	exports["default"] = Links;
+	module.exports = exports["default"];
+
+/***/ },
+/* 18 */
+/***/ function(module, exports, __webpack_require__) {
+
+	"use strict";
+
+	var _interopRequireWildcard = function (obj) { return obj && obj.__esModule ? obj : { "default": obj }; };
+
+	var _classCallCheck = function (instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } };
+
+	var _createClass = (function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
+
+	var _inherits = function (subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) subClass.__proto__ = superClass; };
+
+	Object.defineProperty(exports, "__esModule", {
+	    value: true
+	});
+
+	var _React = __webpack_require__(13);
+
+	var _React2 = _interopRequireWildcard(_React);
+
+	var Nav = (function (_React$Component) {
+	    function Nav() {
+	        _classCallCheck(this, Nav);
+
+	        if (_React$Component != null) {
+	            _React$Component.apply(this, arguments);
+	        }
+	    }
+
+	    _inherits(Nav, _React$Component);
+
+	    _createClass(Nav, [{
+	        key: "render",
+	        value: function render() {
+	            return _React2["default"].createElement(
+	                "nav",
+	                { className: "navbar navbar-inverse navbar-fixed-top", role: "navigation" },
+	                _React2["default"].createElement(
+	                    "div",
+	                    { className: "navbar-header" },
+	                    _React2["default"].createElement(
+	                        "a",
+	                        { className: "navbar-brand brand ebas", href: "./" },
+	                        "萌典"
+	                    )
+	                ),
+	                _React2["default"].createElement(
+	                    "ul",
+	                    { className: "nav navbar-nav" },
+	                    _React2["default"].createElement(
+	                        "li",
+	                        { className: "dropdown" },
+	                        _React2["default"].createElement(
+	                            "a",
+	                            { className: "dropdown-toggle", href: "#", "data-toggle": "dropdown" },
+	                            _React2["default"].createElement(
+	                                "i",
+	                                { className: "icon-book" },
+	                                " "
+	                            ),
+	                            _React2["default"].createElement(
+	                                "span",
+	                                { className: "lang-active", style: {
+	                                        margin: 0, padding: 0
+	                                    }, itemProp: "articleSection" },
+	                                "國語辭典"
+	                            ),
+	                            _React2["default"].createElement("b", { className: "caret" })
+	                        ),
+	                        _React2["default"].createElement(DropDown, { STANDALONE: this.props.STANDALONE })
+	                    ),
+	                    _React2["default"].createElement(
+	                        "li",
+	                        { id: "btn-starred", title: "字詞紀錄簿" },
+	                        _React2["default"].createElement(
+	                            "a",
+	                            { href: "#=*", style: { paddingLeft: "5px", paddingRight: "5px" } },
+	                            _React2["default"].createElement("i", { className: "icon-bookmark-empty" })
+	                        )
+	                    ),
+	                    _React2["default"].createElement(
+	                        "li",
+	                        { id: "btn-pref", title: "偏好設定" },
+	                        _React2["default"].createElement(
+	                            "a",
+	                            { href: "#=*", style: { paddingLeft: "5px", paddingRight: "5px" } },
+	                            _React2["default"].createElement("i", { className: "icon-cogs" })
+	                        )
+	                    ),
+	                    window.isMoedictDesktop && _React2["default"].createElement(
+	                        "li",
+	                        { id: "btn-moedict-desktop-addons" },
+	                        _React2["default"].createElement(
+	                            "a",
+	                            { href: "https://racklin.github.io/moedict-desktop/addon.html", style: {
+	                                    paddingLeft: "5px", paddingRight: "5px"
+	                                }, alt: "下載擴充套件" },
+	                            _React2["default"].createElement("i", { className: "icon-download-alt" })
+	                        )
+	                    ),
+	                    _React2["default"].createElement(
+	                        "li",
+	                        null,
+	                        _React2["default"].createElement(
+	                            "form",
+	                            { id: "lookback", className: "back",
+	                                target: "_blank", acceptCharset: "big5",
+	                                action: "http://dict.revised.moe.edu.tw/cgi-bin/newDict/dict.sh", style: { display: "none", margin: 0, padding: 0 } },
+	                            _React2["default"].createElement("input", { type: "hidden", name: "idx", value: "dict.idx" }),
+	                            _React2["default"].createElement("input", { type: "hidden", name: "fld", value: "1" }),
+	                            _React2["default"].createElement("input", { type: "hidden", name: "imgFont", value: "1" }),
+	                            _React2["default"].createElement("input", { type: "hidden", name: "cat", value: "" }),
+	                            _React2["default"].createElement("input", { id: "cond", type: "hidden", name: "cond", value: "^萌$" }),
+	                            _React2["default"].createElement("input", { className: "iconic-circle", type: "submit", value: "反", title: "反查來源（教育部國語辭典）", style: { fontFamily: "EBAS", marginTop: "12px", borderRadius: "20px", border: "0px" } })
+	                        )
+	                    ),
+	                    _React2["default"].createElement(
+	                        "li",
+	                        { className: "resize-btn app-only", style: {
+	                                position: "absolute", top: "2px", left: "8em", padding: "3px"
+	                            } },
+	                        _React2["default"].createElement(
+	                            "a",
+	                            { style: { paddingLeft: "5px", paddingRight: "5px", marginRight: "30px" }, href: "#", onClick: function () {
+	                                    return window.adjustFontSize(-1);
+	                                } },
+	                            _React2["default"].createElement("i", { className: "icon-resize-small" })
+	                        )
+	                    ),
+	                    _React2["default"].createElement(
+	                        "li",
+	                        { className: "resize-btn app-only", style: {
+	                                position: "absolute", top: "2px", left: "8em", padding: "3px",
+	                                marginLeft: "30px"
+	                            } },
+	                        _React2["default"].createElement(
+	                            "a",
+	                            { style: { paddingLeft: "5px", paddingRight: "5px" }, href: "#", onClick: function () {
+	                                    return window.adjustFontSize(+1);
+	                                } },
+	                            _React2["default"].createElement("i", { className: "icon-resize-small" })
+	                        )
+	                    )
+	                ),
+	                _React2["default"].createElement(
+	                    "ul",
+	                    { className: "nav pull-right hidden-xs" },
+	                    _React2["default"].createElement(
+	                        "li",
+	                        null,
+	                        _React2["default"].createElement(
+	                            "a",
+	                            { href: "about.html", title: "關於本站", onClick: function () {
+	                                    return window.pressAbout();
+	                                } },
+	                            _React2["default"].createElement(
+	                                "span",
+	                                { className: "iconic-circle" },
+	                                _React2["default"].createElement("i", { className: "icon-info" })
+	                            )
+	                        )
+	                    )
+	                ),
+	                _React2["default"].createElement(
+	                    "ul",
+	                    { className: "nav pull-right hidden-xs" },
+	                    _React2["default"].createElement(
+	                        "li",
+	                        { className: "web-inline-only", style: { display: "inline-block" } },
+	                        _React2["default"].createElement(
+	                            "a",
+	                            { href: "https://racklin.github.io/moedict-desktop/download.html", target: "_blank", title: "桌面版下載（可離線使用）", style: { color: "#ccc" } },
+	                            _React2["default"].createElement("i", { className: "icon-download-alt" })
+	                        )
+	                    ),
+	                    _React2["default"].createElement(
+	                        "li",
+	                        { className: "web-inline-only", style: { display: "inline-block" } },
+	                        _React2["default"].createElement(
+	                            "a",
+	                            { href: "https://play.google.com/store/apps/details?id=org.audreyt.dict.moe", target: "_blank", title: "Google Play 下載", style: { color: "#ccc" } },
+	                            _React2["default"].createElement("i", { className: "icon-android" })
+	                        )
+	                    ),
+	                    _React2["default"].createElement(
+	                        "li",
+	                        { className: "web-inline-only", style: { display: "inline-block" } },
+	                        _React2["default"].createElement(
+	                            "a",
+	                            { href: "https://itunes.apple.com/tw/app/meng-dian/id599429224", target: "_blank", title: "App Store 下載", style: { color: "#ccc" } },
+	                            _React2["default"].createElement("i", { className: "icon-apple" })
+	                        )
+	                    )
+	                )
+	            );
+	        }
+	    }]);
+
+	    return Nav;
+	})(_React2["default"].Component);
+
+	exports["default"] = Nav;
+
+	var DropDown = (function (_React$Component2) {
+	    function DropDown() {
+	        _classCallCheck(this, DropDown);
+
+	        if (_React$Component2 != null) {
+	            _React$Component2.apply(this, arguments);
+	        }
+	    }
+
+	    _inherits(DropDown, _React$Component2);
+
+	    _createClass(DropDown, [{
+	        key: "render",
+	        value: function render() {
+	            return _React2["default"].createElement(
+	                "ul",
+	                { className: "dropdown-menu", role: "navigation" },
+	                this.props.STANDALONE !== "c" && [_React2["default"].createElement(
+	                    MenuItem,
+	                    { key: "##", lang: "a", href: "##" },
+	                    "國語辭典"
+	                ), _React2["default"].createElement(Taxonomy, { key: "#=", lang: "a" }), _React2["default"].createElement(
+	                    MenuItem,
+	                    { key: "#@", lang: "a", href: "#@" },
+	                    "…部首表"
+	                ), _React2["default"].createElement(
+	                    MenuItem,
+	                    { key: "#!", lang: "t", href: "#!" },
+	                    "臺灣閩南語"
+	                ), _React2["default"].createElement(Taxonomy, { key: "#!=", lang: "t" }), _React2["default"].createElement(
+	                    MenuItem,
+	                    { key: "#!=諺語", lang: "t", href: "#!=諺語" },
+	                    "…諺語"
+	                ), _React2["default"].createElement(
+	                    MenuItem,
+	                    { key: "#:", lang: "h", href: "#:" },
+	                    "臺灣客家語"
+	                ), _React2["default"].createElement(
+	                    MenuItem,
+	                    { key: "#:=諺語", lang: "h", href: "#:=諺語" },
+	                    "…諺語"
+	                )],
+	                _React2["default"].createElement(
+	                    MenuItem,
+	                    { key: "#~", lang: "c", href: "#~" },
+	                    "兩岸詞典"
+	                ),
+	                _React2["default"].createElement(Taxonomy, { key: "#~=", lang: "c" }),
+	                _React2["default"].createElement(
+	                    MenuItem,
+	                    { key: "#~@", lang: "c", href: "#~@" },
+	                    "…部首表"
+	                )
+	            );
+	        }
+	    }]);
+
+	    return DropDown;
+	})(_React2["default"].Component);
+
+	var Taxonomy = (function (_React$Component3) {
+	    function Taxonomy() {
+	        _classCallCheck(this, Taxonomy);
+
+	        if (_React$Component3 != null) {
+	            _React$Component3.apply(this, arguments);
+	        }
+	    }
+
+	    _inherits(Taxonomy, _React$Component3);
+
+	    _createClass(Taxonomy, [{
+	        key: "render",
+	        value: function render() {
+	            var lang = this.props.lang;
+
+	            return _React2["default"].createElement(
+	                "li",
+	                { className: "dropdown-submenu" },
+	                _React2["default"].createElement(
+	                    "a",
+	                    { className: lang + " taxonomy" },
+	                    "…分類索引"
+	                )
+	            );
+	        }
+	    }]);
+
+	    return Taxonomy;
+	})(_React2["default"].Component);
+
+	var MenuItem = (function (_React$Component4) {
+	    function MenuItem() {
+	        _classCallCheck(this, MenuItem);
+
+	        if (_React$Component4 != null) {
+	            _React$Component4.apply(this, arguments);
+	        }
+	    }
+
+	    _inherits(MenuItem, _React$Component4);
+
+	    _createClass(MenuItem, [{
+	        key: "render",
+	        value: function render() {
+	            var _props = this.props;
+	            var lang = _props.lang;
+	            var href = _props.href;
+	            var children = _props.children;
+
+	            var role = children[0] === "…" && "menuitem";
+	            return _React2["default"].createElement(
+	                "li",
+	                { role: "presentation" },
+	                _React2["default"].createElement(
+	                    "a",
+	                    { className: lang + " lang-option " + (role && "" + lang + "-idiom"),
+	                        role: role, href: href },
+	                    children
+	                )
+	            );
+	        }
+	    }]);
+
+	    return MenuItem;
+	})(_React2["default"].Component);
+
+	module.exports = exports["default"];
+
+/***/ },
+/* 19 */
+/***/ function(module, exports, __webpack_require__) {
+
+	'use strict';
+
+	var _interopRequireWildcard = function (obj) { return obj && obj.__esModule ? obj : { 'default': obj }; };
+
+	var _get = function get(object, property, receiver) { var desc = Object.getOwnPropertyDescriptor(object, property); if (desc === undefined) { var parent = Object.getPrototypeOf(object); if (parent === null) { return undefined; } else { return get(parent, property, receiver); } } else if ('value' in desc) { return desc.value; } else { var getter = desc.get; if (getter === undefined) { return undefined; } return getter.call(receiver); } };
+
+	var _classCallCheck = function (instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError('Cannot call a class as a function'); } };
+
+	var _createClass = (function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ('value' in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
+
+	var _inherits = function (subClass, superClass) { if (typeof superClass !== 'function' && superClass !== null) { throw new TypeError('Super expression must either be null or a function, not ' + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) subClass.__proto__ = superClass; };
+
+	Object.defineProperty(exports, '__esModule', {
+	    value: true
+	});
+
+	var _React = __webpack_require__(13);
+
+	var _React2 = _interopRequireWildcard(_React);
+
+	var window = typeof self === 'undefined' ? { $: function $() {} } : self.window;
+	var $body = window.$('body') || { hasClass: function hasClass() {} };
+	var localStorage = window.localStorage || { getItem: function getItem() {}, setItem: function setItem() {} };
+
+	var UserPref = (function (_React$Component) {
+	    function UserPref() {
+	        _classCallCheck(this, UserPref);
+
+	        if (_React$Component != null) {
+	            _React$Component.apply(this, arguments);
+	        }
+	    }
+
+	    _inherits(UserPref, _React$Component);
+
+	    _createClass(UserPref, [{
+	        key: 'render',
+	        value: function render() {
+	            var _props = this.props;
+	            var phonetics = _props.phonetics;
+	            var simptrad = _props.simptrad;
+	            var pinyin_a = _props.pinyin_a;
+	            var pinyin_t = _props.pinyin_t;
+
+	            return _React2['default'].createElement(
+	                'div',
+	                null,
+	                _React2['default'].createElement(
+	                    'h4',
+	                    null,
+	                    '偏好設定'
+	                ),
+	                _React2['default'].createElement(
+	                    'button',
+	                    { className: 'close btn-close', type: 'button', 'aria-hidden': true },
+	                    '×'
+	                ),
+	                _React2['default'].createElement(
+	                    'ul',
+	                    null,
+	                    $body.hasClass('lang-a') && _React2['default'].createElement(PrefList, { pref: { pinyin_a: pinyin_a }, label: '羅馬拼音顯示方式', items: {
+	                            'HanYu-TongYong': '漢語華通共同顯示',
+	                            HanYu: '漢語拼音',
+	                            TongYong: '華通拼音',
+	                            WadeGiles: '威妥瑪式',
+	                            GuoYin: '注音二式'
+	                        } }),
+	                    $body.hasClass('lang-t') && _React2['default'].createElement(PrefList, { pref: { pinyin_t: pinyin_t }, label: '羅馬拼音顯示方式', items: {
+	                            'TL-DT': '臺羅臺通共同顯示',
+	                            TL: '臺羅拼音',
+	                            DT: '臺通拼音',
+	                            POJ: '白話字'
+	                        } }),
+	                    _React2['default'].createElement(PrefList, { pref: { phonetics: phonetics }, label: '條目音標顯示方式', items: {
+	                            rightangle: '注音拼音共同顯示',
+	                            bopomofo: '注音符號',
+	                            pinyin: '羅馬拼音',
+	                            '-': '',
+	                            none: '關閉'
+	                        } })
+	                ),
+	                _React2['default'].createElement(
+	                    'button',
+	                    { className: 'btn btn-primary btn-block btn-close', type: 'button' },
+	                    '關閉'
+	                )
+	            );
+	        }
+	    }], [{
+	        key: 'defaultProps',
+	        enumerable: true,
+	        value: {
+	            simptrad: localStorage.getItem('simptrad'),
+	            phonetics: localStorage.getItem('phonetics'),
+	            pinyin_a: localStorage.getItem('pinyin_a') || 'HanYu',
+	            pinyin_t: localStorage.getItem('pinyin_t') || 'TL'
+	        }
+	    }]);
+
+	    return UserPref;
+	})(_React2['default'].Component);
+
+	exports['default'] = UserPref;
+
+	var PrefList = (function (_React$Component2) {
+	    function PrefList(props) {
+	        _classCallCheck(this, PrefList);
+
+	        _get(Object.getPrototypeOf(PrefList.prototype), 'constructor', this).call(this, props);
+	        var key = Object.keys(props.pref)[0];
+	        var selected = props.pref[key];
+	        this.state = { key: key, selected: selected };
+	    }
+
+	    _inherits(PrefList, _React$Component2);
+
+	    _createClass(PrefList, [{
+	        key: 'componentDidMount',
+	        value: function componentDidMount() {
+	            this.phoneticsChanged();
+	        }
+	    }, {
+	        key: 'componentDidUpdate',
+	        value: function componentDidUpdate() {
+	            this.phoneticsChanged();
+	        }
+	    }, {
+	        key: 'pinyin_aChanged',
+	        value: function pinyin_aChanged() {
+	            location.reload();
+	        }
+	    }, {
+	        key: 'pinyin_tChanged',
+	        value: function pinyin_tChanged() {
+	            location.reload();
+	        }
+	    }, {
+	        key: 'phoneticsChanged',
+	        value: function phoneticsChanged() {
+	            $body.attr('data-ruby-pref', ({
+	                rightangle: 'both', bopomofo: 'zhuyin',
+	                pinyin: 'pinyin', none: 'none'
+	            })[this.state.selected]);
+	        }
+	    }, {
+	        key: 'render',
+	        value: function render() {
+	            var _this5 = this;
+
+	            var _props2 = this.props;
+	            var label = _props2.label;
+	            var items = _props2.items;
+
+	            var vals = Object.keys(items);
+	            var _state = this.state;
+	            var key = _state.key;
+	            var selected = _state.selected;
+
+	            selected = selected || vals[0];
+	            return _React2['default'].createElement(
+	                'li',
+	                { className: 'btn-group' },
+	                _React2['default'].createElement(
+	                    'label',
+	                    null,
+	                    label
+	                ),
+	                _React2['default'].createElement(
+	                    'button',
+	                    { className: 'btn btn-default btn-sm dropdown-toggle', type: 'button', 'data-toggle': 'dropdown' },
+	                    vals.map(function (val) {
+	                        return val === selected && items[val];
+	                    }),
+	                    ' ',
+	                    _React2['default'].createElement('span', { className: 'caret' })
+	                ),
+	                _React2['default'].createElement(
+	                    'ul',
+	                    { className: 'dropdown-menu' },
+	                    vals.map(function (val) {
+	                        return val[0] === '-' ? _React2['default'].createElement('li', { key: val, className: 'divider', role: 'presentation' }) : _React2['default'].createElement(
+	                            'li',
+	                            { key: val },
+	                            _React2['default'].createElement(
+	                                'a',
+	                                { style: { cursor: 'pointer' },
+	                                    className: val === selected && 'active',
+	                                    onClick: function () {
+	                                        localStorage.setItem(key, val);
+	                                        _this5.setState({ selected: val });
+	                                        _this5[key + 'Changed']();
+	                                    } },
+	                                items[val]
+	                            )
+	                        );
+	                    })
+	                )
+	            );
+	        }
+	    }]);
+
+	    return PrefList;
+	})(_React2['default'].Component);
+
+	module.exports = exports['default'];
+
+/***/ },
 /* 20 */
 /***/ function(module, exports, __webpack_require__) {
 
@@ -19591,9 +19591,9 @@
 
 	'use strict';
 
-	var EventConstants = __webpack_require__(51);
+	var EventConstants = __webpack_require__(47);
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * Injected dependencies:
@@ -19815,11 +19815,11 @@
 
 	'use strict';
 
-	var PooledClass = __webpack_require__(47);
-	var ReactFragment = __webpack_require__(48);
+	var PooledClass = __webpack_require__(49);
+	var ReactFragment = __webpack_require__(50);
 
-	var traverseAllChildren = __webpack_require__(49);
-	var warning = __webpack_require__(50);
+	var traverseAllChildren = __webpack_require__(51);
+	var warning = __webpack_require__(52);
 
 	var twoArgumentPooler = PooledClass.twoArgumentPooler;
 	var threeArgumentPooler = PooledClass.threeArgumentPooler;
@@ -19973,8 +19973,8 @@
 
 	var ReactUpdateQueue = __webpack_require__(53);
 
-	var invariant = __webpack_require__(52);
-	var warning = __webpack_require__(50);
+	var invariant = __webpack_require__(48);
+	var warning = __webpack_require__(52);
 
 	/**
 	 * Base class helpers for the updating state of a component.
@@ -20121,10 +20121,10 @@
 	var ReactUpdateQueue = __webpack_require__(53);
 
 	var assign = __webpack_require__(42);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 	var keyMirror = __webpack_require__(59);
 	var keyOf = __webpack_require__(60);
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	var MIXINS_KEY = keyOf({mixins: null});
 
@@ -21061,7 +21061,7 @@
 
 	var assign = __webpack_require__(42);
 	var emptyObject = __webpack_require__(61);
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	var didWarn = false;
 
@@ -21182,7 +21182,7 @@
 	var ReactCurrentOwner = __webpack_require__(30);
 
 	var assign = __webpack_require__(42);
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	var RESERVED_PROPS = {
 	  key: true,
@@ -21497,15 +21497,15 @@
 	'use strict';
 
 	var ReactElement = __webpack_require__(31);
-	var ReactFragment = __webpack_require__(48);
+	var ReactFragment = __webpack_require__(50);
 	var ReactPropTypeLocations = __webpack_require__(57);
 	var ReactPropTypeLocationNames = __webpack_require__(58);
 	var ReactCurrentOwner = __webpack_require__(30);
 	var ReactNativeComponent = __webpack_require__(62);
 
 	var getIteratorFn = __webpack_require__(63);
-	var invariant = __webpack_require__(52);
-	var warning = __webpack_require__(50);
+	var invariant = __webpack_require__(48);
+	var warning = __webpack_require__(52);
 
 	function getDeclarationErrorAddendum() {
 	  if (ReactCurrentOwner.current) {
@@ -22424,7 +22424,7 @@
 
 	var ReactRootIndex = __webpack_require__(96);
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	var SEPARATOR = '.';
 	var SEPARATOR_LENGTH = SEPARATOR.length;
@@ -22778,10 +22778,10 @@
 	var containsNode = __webpack_require__(102);
 	var getReactRootElementInContainer = __webpack_require__(103);
 	var instantiateReactComponent = __webpack_require__(104);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 	var setInnerHTML = __webpack_require__(105);
 	var shouldUpdateReactComponent = __webpack_require__(106);
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	var SEPARATOR = ReactInstanceHandles.SEPARATOR;
 
@@ -23762,7 +23762,7 @@
 	'use strict';
 
 	var ReactElement = __webpack_require__(31);
-	var ReactFragment = __webpack_require__(48);
+	var ReactFragment = __webpack_require__(50);
 	var ReactPropTypeLocationNames = __webpack_require__(58);
 
 	var emptyFunction = __webpack_require__(107);
@@ -24249,7 +24249,7 @@
 
 	var emptyObject = __webpack_require__(61);
 	var instantiateReactComponent = __webpack_require__(104);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * @param {ReactElement} element
@@ -24384,9 +24384,9 @@
 	var ReactInstanceMap = __webpack_require__(55);
 	var ReactMount = __webpack_require__(37);
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 	var isNode = __webpack_require__(110);
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	/**
 	 * Returns the DOM node rendered by this element.
@@ -24456,7 +24456,7 @@
 
 	var ReactElement = __webpack_require__(31);
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * Returns the first child in a collection of children and verifies that there
@@ -24597,6 +24597,142 @@
 /* 47 */
 /***/ function(module, exports, __webpack_require__) {
 
+	/**
+	 * Copyright 2013-2015, Facebook, Inc.
+	 * All rights reserved.
+	 *
+	 * This source code is licensed under the BSD-style license found in the
+	 * LICENSE file in the root directory of this source tree. An additional grant
+	 * of patent rights can be found in the PATENTS file in the same directory.
+	 *
+	 * @providesModule EventConstants
+	 */
+
+	'use strict';
+
+	var keyMirror = __webpack_require__(59);
+
+	var PropagationPhases = keyMirror({bubbled: null, captured: null});
+
+	/**
+	 * Types of raw signals from the browser caught at the top level.
+	 */
+	var topLevelTypes = keyMirror({
+	  topBlur: null,
+	  topChange: null,
+	  topClick: null,
+	  topCompositionEnd: null,
+	  topCompositionStart: null,
+	  topCompositionUpdate: null,
+	  topContextMenu: null,
+	  topCopy: null,
+	  topCut: null,
+	  topDoubleClick: null,
+	  topDrag: null,
+	  topDragEnd: null,
+	  topDragEnter: null,
+	  topDragExit: null,
+	  topDragLeave: null,
+	  topDragOver: null,
+	  topDragStart: null,
+	  topDrop: null,
+	  topError: null,
+	  topFocus: null,
+	  topInput: null,
+	  topKeyDown: null,
+	  topKeyPress: null,
+	  topKeyUp: null,
+	  topLoad: null,
+	  topMouseDown: null,
+	  topMouseMove: null,
+	  topMouseOut: null,
+	  topMouseOver: null,
+	  topMouseUp: null,
+	  topPaste: null,
+	  topReset: null,
+	  topScroll: null,
+	  topSelectionChange: null,
+	  topSubmit: null,
+	  topTextInput: null,
+	  topTouchCancel: null,
+	  topTouchEnd: null,
+	  topTouchMove: null,
+	  topTouchStart: null,
+	  topWheel: null
+	});
+
+	var EventConstants = {
+	  topLevelTypes: topLevelTypes,
+	  PropagationPhases: PropagationPhases
+	};
+
+	module.exports = EventConstants;
+
+
+/***/ },
+/* 48 */
+/***/ function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function(process) {/**
+	 * Copyright 2013-2015, Facebook, Inc.
+	 * All rights reserved.
+	 *
+	 * This source code is licensed under the BSD-style license found in the
+	 * LICENSE file in the root directory of this source tree. An additional grant
+	 * of patent rights can be found in the PATENTS file in the same directory.
+	 *
+	 * @providesModule invariant
+	 */
+
+	"use strict";
+
+	/**
+	 * Use invariant() to assert state which your program assumes to be true.
+	 *
+	 * Provide sprintf-style format (only %s is supported) and arguments
+	 * to provide information about what broke and what you were
+	 * expecting.
+	 *
+	 * The invariant message will be stripped in production, but the invariant
+	 * will remain to ensure logic does not differ in production.
+	 */
+
+	var invariant = function(condition, format, a, b, c, d, e, f) {
+	  if ("production" !== process.env.NODE_ENV) {
+	    if (format === undefined) {
+	      throw new Error('invariant requires an error message argument');
+	    }
+	  }
+
+	  if (!condition) {
+	    var error;
+	    if (format === undefined) {
+	      error = new Error(
+	        'Minified exception occurred; use the non-minified dev environment ' +
+	        'for the full error message and additional helpful warnings.'
+	      );
+	    } else {
+	      var args = [a, b, c, d, e, f];
+	      var argIndex = 0;
+	      error = new Error(
+	        'Invariant Violation: ' +
+	        format.replace(/%s/g, function() { return args[argIndex++]; })
+	      );
+	    }
+
+	    error.framesToPop = 1; // we don't care about invariant's own frame
+	    throw error;
+	  }
+	};
+
+	module.exports = invariant;
+
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(46)))
+
+/***/ },
+/* 49 */
+/***/ function(module, exports, __webpack_require__) {
+
 	/* WEBPACK VAR INJECTION */(function(process) {/**
 	 * Copyright 2013-2015, Facebook, Inc.
 	 * All rights reserved.
@@ -24610,7 +24746,7 @@
 
 	'use strict';
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * Static poolers. Several custom versions for each potential number of
@@ -24713,7 +24849,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(46)))
 
 /***/ },
-/* 48 */
+/* 50 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(process) {/**
@@ -24731,7 +24867,7 @@
 
 	var ReactElement = __webpack_require__(31);
 
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	/**
 	 * We used to allow keyed objects to serve as a collection of ReactElements,
@@ -24901,7 +25037,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(46)))
 
 /***/ },
-/* 49 */
+/* 51 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(process) {/**
@@ -24918,12 +25054,12 @@
 	'use strict';
 
 	var ReactElement = __webpack_require__(31);
-	var ReactFragment = __webpack_require__(48);
+	var ReactFragment = __webpack_require__(50);
 	var ReactInstanceHandles = __webpack_require__(36);
 
 	var getIteratorFn = __webpack_require__(63);
-	var invariant = __webpack_require__(52);
-	var warning = __webpack_require__(50);
+	var invariant = __webpack_require__(48);
+	var warning = __webpack_require__(52);
 
 	var SEPARATOR = ReactInstanceHandles.SEPARATOR;
 	var SUBSEPARATOR = ':';
@@ -25157,7 +25293,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(46)))
 
 /***/ },
-/* 50 */
+/* 52 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(process) {/**
@@ -25223,142 +25359,6 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(46)))
 
 /***/ },
-/* 51 */
-/***/ function(module, exports, __webpack_require__) {
-
-	/**
-	 * Copyright 2013-2015, Facebook, Inc.
-	 * All rights reserved.
-	 *
-	 * This source code is licensed under the BSD-style license found in the
-	 * LICENSE file in the root directory of this source tree. An additional grant
-	 * of patent rights can be found in the PATENTS file in the same directory.
-	 *
-	 * @providesModule EventConstants
-	 */
-
-	'use strict';
-
-	var keyMirror = __webpack_require__(59);
-
-	var PropagationPhases = keyMirror({bubbled: null, captured: null});
-
-	/**
-	 * Types of raw signals from the browser caught at the top level.
-	 */
-	var topLevelTypes = keyMirror({
-	  topBlur: null,
-	  topChange: null,
-	  topClick: null,
-	  topCompositionEnd: null,
-	  topCompositionStart: null,
-	  topCompositionUpdate: null,
-	  topContextMenu: null,
-	  topCopy: null,
-	  topCut: null,
-	  topDoubleClick: null,
-	  topDrag: null,
-	  topDragEnd: null,
-	  topDragEnter: null,
-	  topDragExit: null,
-	  topDragLeave: null,
-	  topDragOver: null,
-	  topDragStart: null,
-	  topDrop: null,
-	  topError: null,
-	  topFocus: null,
-	  topInput: null,
-	  topKeyDown: null,
-	  topKeyPress: null,
-	  topKeyUp: null,
-	  topLoad: null,
-	  topMouseDown: null,
-	  topMouseMove: null,
-	  topMouseOut: null,
-	  topMouseOver: null,
-	  topMouseUp: null,
-	  topPaste: null,
-	  topReset: null,
-	  topScroll: null,
-	  topSelectionChange: null,
-	  topSubmit: null,
-	  topTextInput: null,
-	  topTouchCancel: null,
-	  topTouchEnd: null,
-	  topTouchMove: null,
-	  topTouchStart: null,
-	  topWheel: null
-	});
-
-	var EventConstants = {
-	  topLevelTypes: topLevelTypes,
-	  PropagationPhases: PropagationPhases
-	};
-
-	module.exports = EventConstants;
-
-
-/***/ },
-/* 52 */
-/***/ function(module, exports, __webpack_require__) {
-
-	/* WEBPACK VAR INJECTION */(function(process) {/**
-	 * Copyright 2013-2015, Facebook, Inc.
-	 * All rights reserved.
-	 *
-	 * This source code is licensed under the BSD-style license found in the
-	 * LICENSE file in the root directory of this source tree. An additional grant
-	 * of patent rights can be found in the PATENTS file in the same directory.
-	 *
-	 * @providesModule invariant
-	 */
-
-	"use strict";
-
-	/**
-	 * Use invariant() to assert state which your program assumes to be true.
-	 *
-	 * Provide sprintf-style format (only %s is supported) and arguments
-	 * to provide information about what broke and what you were
-	 * expecting.
-	 *
-	 * The invariant message will be stripped in production, but the invariant
-	 * will remain to ensure logic does not differ in production.
-	 */
-
-	var invariant = function(condition, format, a, b, c, d, e, f) {
-	  if ("production" !== process.env.NODE_ENV) {
-	    if (format === undefined) {
-	      throw new Error('invariant requires an error message argument');
-	    }
-	  }
-
-	  if (!condition) {
-	    var error;
-	    if (format === undefined) {
-	      error = new Error(
-	        'Minified exception occurred; use the non-minified dev environment ' +
-	        'for the full error message and additional helpful warnings.'
-	      );
-	    } else {
-	      var args = [a, b, c, d, e, f];
-	      var argIndex = 0;
-	      error = new Error(
-	        'Invariant Violation: ' +
-	        format.replace(/%s/g, function() { return args[argIndex++]; })
-	      );
-	    }
-
-	    error.framesToPop = 1; // we don't care about invariant's own frame
-	    throw error;
-	  }
-	};
-
-	module.exports = invariant;
-
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(46)))
-
-/***/ },
 /* 53 */
 /***/ function(module, exports, __webpack_require__) {
 
@@ -25382,8 +25382,8 @@
 	var ReactUpdates = __webpack_require__(101);
 
 	var assign = __webpack_require__(42);
-	var invariant = __webpack_require__(52);
-	var warning = __webpack_require__(50);
+	var invariant = __webpack_require__(48);
+	var warning = __webpack_require__(52);
 
 	function enqueueUpdate(internalInstance) {
 	  if (internalInstance !== ReactLifeCycle.currentlyMountingInstance) {
@@ -25867,7 +25867,7 @@
 
 	'use strict';
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * Constructs an enumeration with keys equal to their value.
@@ -25992,7 +25992,7 @@
 	'use strict';
 
 	var assign = __webpack_require__(42);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	var autoGenerateWrapperClass = null;
 	var genericComponentClass = null;
@@ -26210,7 +26210,7 @@
 	var DOMProperty = __webpack_require__(97);
 
 	var quoteAttributeValueForBrowser = __webpack_require__(111);
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	function shouldIgnoreValue(name, value) {
 	  return value == null ||
@@ -26467,10 +26467,10 @@
 
 	var assign = __webpack_require__(42);
 	var escapeTextContentForBrowser = __webpack_require__(68);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 	var isEventSupported = __webpack_require__(114);
 	var keyOf = __webpack_require__(60);
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	var deleteListener = ReactBrowserEventEmitter.deleteListener;
 	var listenTo = ReactBrowserEventEmitter.listenTo;
@@ -27006,7 +27006,7 @@
 
 	'use strict';
 
-	var EventConstants = __webpack_require__(51);
+	var EventConstants = __webpack_require__(47);
 	var EventPropagators = __webpack_require__(115);
 	var ExecutionEnvironment = __webpack_require__(45);
 	var FallbackCompositionState = __webpack_require__(116);
@@ -27504,7 +27504,7 @@
 
 	'use strict';
 
-	var EventConstants = __webpack_require__(51);
+	var EventConstants = __webpack_require__(47);
 	var EventPluginHub = __webpack_require__(119);
 	var EventPropagators = __webpack_require__(115);
 	var ExecutionEnvironment = __webpack_require__(45);
@@ -27963,7 +27963,7 @@
 
 	'use strict';
 
-	var EventConstants = __webpack_require__(51);
+	var EventConstants = __webpack_require__(47);
 	var EventPropagators = __webpack_require__(115);
 	var SyntheticMouseEvent = __webpack_require__(122);
 
@@ -28316,7 +28316,7 @@
 
 	'use strict';
 
-	var EventConstants = __webpack_require__(51);
+	var EventConstants = __webpack_require__(47);
 
 	var emptyFunction = __webpack_require__(107);
 
@@ -28557,7 +28557,7 @@
 
 	'use strict';
 
-	var EventConstants = __webpack_require__(51);
+	var EventConstants = __webpack_require__(47);
 	var LocalEventTrapMixin = __webpack_require__(125);
 	var ReactBrowserComponentMixin = __webpack_require__(76);
 	var ReactClass = __webpack_require__(28);
@@ -28610,7 +28610,7 @@
 
 	'use strict';
 
-	var EventConstants = __webpack_require__(51);
+	var EventConstants = __webpack_require__(47);
 	var LocalEventTrapMixin = __webpack_require__(125);
 	var ReactBrowserComponentMixin = __webpack_require__(76);
 	var ReactClass = __webpack_require__(28);
@@ -28669,7 +28669,7 @@
 	var ReactMount = __webpack_require__(37);
 	var ReactPerf = __webpack_require__(38);
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 	var setInnerHTML = __webpack_require__(105);
 
 	/**
@@ -28831,7 +28831,7 @@
 
 	'use strict';
 
-	var EventConstants = __webpack_require__(51);
+	var EventConstants = __webpack_require__(47);
 	var LocalEventTrapMixin = __webpack_require__(125);
 	var ReactBrowserComponentMixin = __webpack_require__(76);
 	var ReactClass = __webpack_require__(28);
@@ -28890,7 +28890,7 @@
 	var ReactUpdates = __webpack_require__(101);
 
 	var assign = __webpack_require__(42);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	var input = ReactElement.createFactory('input');
 
@@ -29064,7 +29064,7 @@
 	var ReactClass = __webpack_require__(28);
 	var ReactElement = __webpack_require__(31);
 
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	var option = ReactElement.createFactory('option');
 
@@ -29306,9 +29306,9 @@
 	var ReactUpdates = __webpack_require__(101);
 
 	var assign = __webpack_require__(42);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	var textarea = ReactElement.createFactory('textarea');
 
@@ -29443,7 +29443,7 @@
 
 	var EventListener = __webpack_require__(128);
 	var ExecutionEnvironment = __webpack_require__(45);
-	var PooledClass = __webpack_require__(47);
+	var PooledClass = __webpack_require__(49);
 	var ReactInstanceHandles = __webpack_require__(36);
 	var ReactMount = __webpack_require__(37);
 	var ReactUpdates = __webpack_require__(101);
@@ -29675,7 +29675,7 @@
 	'use strict';
 
 	var CallbackQueue = __webpack_require__(132);
-	var PooledClass = __webpack_require__(47);
+	var PooledClass = __webpack_require__(49);
 	var ReactBrowserEventEmitter = __webpack_require__(98);
 	var ReactInputSelection = __webpack_require__(133);
 	var ReactPutListenerQueue = __webpack_require__(134);
@@ -29853,7 +29853,7 @@
 
 	'use strict';
 
-	var EventConstants = __webpack_require__(51);
+	var EventConstants = __webpack_require__(47);
 	var EventPropagators = __webpack_require__(115);
 	var ReactInputSelection = __webpack_require__(133);
 	var SyntheticEvent = __webpack_require__(120);
@@ -30087,7 +30087,7 @@
 
 	'use strict';
 
-	var EventConstants = __webpack_require__(51);
+	var EventConstants = __webpack_require__(47);
 	var EventPluginUtils = __webpack_require__(25);
 	var EventPropagators = __webpack_require__(115);
 	var SyntheticClipboardEvent = __webpack_require__(137);
@@ -30102,9 +30102,9 @@
 
 	var getEventCharCode = __webpack_require__(144);
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 	var keyOf = __webpack_require__(60);
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	var topLevelTypes = EventConstants.topLevelTypes;
 
@@ -30619,7 +30619,7 @@
 	var ReactClass = __webpack_require__(28);
 	var ReactElement = __webpack_require__(31);
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * Create a component that will throw an exception when unmounted.
@@ -30987,7 +30987,7 @@
 
 	'use strict';
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	function checkMask(value, bitmask) {
 	  return (value & bitmask) === bitmask;
@@ -31287,7 +31287,7 @@
 
 	'use strict';
 
-	var EventConstants = __webpack_require__(51);
+	var EventConstants = __webpack_require__(47);
 	var EventPluginHub = __webpack_require__(119);
 	var EventPluginRegistry = __webpack_require__(147);
 	var ReactEventEmitterMixin = __webpack_require__(148);
@@ -31646,7 +31646,7 @@
 	var ReactElement = __webpack_require__(31);
 	var ReactInstanceMap = __webpack_require__(55);
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	var component;
 	// This registry keeps track of the React IDs of the components that rendered to
@@ -31794,15 +31794,15 @@
 	'use strict';
 
 	var CallbackQueue = __webpack_require__(132);
-	var PooledClass = __webpack_require__(47);
+	var PooledClass = __webpack_require__(49);
 	var ReactCurrentOwner = __webpack_require__(30);
 	var ReactPerf = __webpack_require__(38);
 	var ReactReconciler = __webpack_require__(40);
 	var Transaction = __webpack_require__(123);
 
 	var assign = __webpack_require__(42);
-	var invariant = __webpack_require__(52);
-	var warning = __webpack_require__(50);
+	var invariant = __webpack_require__(48);
+	var warning = __webpack_require__(52);
 
 	var dirtyComponents = [];
 	var asapCallbackQueue = CallbackQueue.getPooled();
@@ -32171,8 +32171,8 @@
 	var ReactNativeComponent = __webpack_require__(62);
 
 	var assign = __webpack_require__(42);
-	var invariant = __webpack_require__(52);
-	var warning = __webpack_require__(50);
+	var invariant = __webpack_require__(48);
+	var warning = __webpack_require__(52);
 
 	// To avoid a cyclic dependency, we create the final class in this module
 	var ReactCompositeComponentWrapper = function() { };
@@ -32399,7 +32399,7 @@
 
 	'use strict';
 
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	/**
 	 * Given a `prevElement` and `nextElement`, determines if the existing
@@ -32619,7 +32619,7 @@
 
 	'use strict';
 
-	var PooledClass = __webpack_require__(47);
+	var PooledClass = __webpack_require__(49);
 	var CallbackQueue = __webpack_require__(132);
 	var ReactPutListenerQueue = __webpack_require__(134);
 	var Transaction = __webpack_require__(123);
@@ -32806,7 +32806,7 @@
 	var dangerousStyleValue = __webpack_require__(156);
 	var hyphenateStyleName = __webpack_require__(157);
 	var memoizeStringOnly = __webpack_require__(158);
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	var processStyleName = memoizeStringOnly(function(styleName) {
 	  return hyphenateStyleName(styleName);
@@ -33486,7 +33486,7 @@
 
 	'use strict';
 
-	var EventConstants = __webpack_require__(51);
+	var EventConstants = __webpack_require__(47);
 	var EventPluginHub = __webpack_require__(119);
 
 	var accumulateInto = __webpack_require__(161);
@@ -33632,7 +33632,7 @@
 
 	'use strict';
 
-	var PooledClass = __webpack_require__(47);
+	var PooledClass = __webpack_require__(49);
 
 	var assign = __webpack_require__(42);
 	var getTextContentAccessor = __webpack_require__(163);
@@ -33830,7 +33830,7 @@
 
 	var accumulateInto = __webpack_require__(161);
 	var forEachAccumulated = __webpack_require__(162);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * Internal store for event listeners
@@ -34107,7 +34107,7 @@
 
 	'use strict';
 
-	var PooledClass = __webpack_require__(47);
+	var PooledClass = __webpack_require__(49);
 
 	var assign = __webpack_require__(42);
 	var emptyFunction = __webpack_require__(107);
@@ -34408,7 +34408,7 @@
 
 	'use strict';
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * `Transaction` creates a black box that is able to wrap any method such that
@@ -34687,7 +34687,7 @@
 
 	var accumulateInto = __webpack_require__(161);
 	var forEachAccumulated = __webpack_require__(162);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	function remove(event) {
 	  event.remove();
@@ -34748,7 +34748,7 @@
 	var ReactMultiChildUpdateTypes = __webpack_require__(159);
 
 	var setTextContent = __webpack_require__(167);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * Inserts `childNode` as a child of `parentNode` at the `index`.
@@ -34887,7 +34887,7 @@
 
 	var ReactPropTypes = __webpack_require__(39);
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	var hasReadOnlyValue = {
 	  'button': true,
@@ -35215,7 +35215,7 @@
 
 	'use strict';
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	var injected = false;
 
@@ -35279,10 +35279,10 @@
 
 	'use strict';
 
-	var PooledClass = __webpack_require__(47);
+	var PooledClass = __webpack_require__(49);
 
 	var assign = __webpack_require__(42);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * A specialized pseudo-event module to help keep track of components waiting to
@@ -35521,7 +35521,7 @@
 
 	'use strict';
 
-	var PooledClass = __webpack_require__(47);
+	var PooledClass = __webpack_require__(49);
 	var ReactBrowserEventEmitter = __webpack_require__(98);
 
 	var assign = __webpack_require__(42);
@@ -36370,7 +36370,7 @@
 
 	'use strict';
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * Injectable ordering of event plugins.
@@ -36822,9 +36822,9 @@
 
 	var assign = __webpack_require__(42);
 	var emptyObject = __webpack_require__(61);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 	var shouldUpdateReactComponent = __webpack_require__(106);
-	var warning = __webpack_require__(50);
+	var warning = __webpack_require__(52);
 
 	function getDeclarationErrorAddendum(component) {
 	  var owner = component._currentElement._owner || null;
@@ -37699,7 +37699,7 @@
 
 	'use strict';
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * ReactOwners are capable of storing references to owned components.
@@ -38297,7 +38297,7 @@
 
 	'use strict';
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 *
@@ -38534,7 +38534,7 @@
 	var createNodesFromMarkup = __webpack_require__(174);
 	var emptyFunction = __webpack_require__(107);
 	var getMarkupWrap = __webpack_require__(175);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	var OPEN_TAG_NAME_EXP = /^(<[^ \/>]+)/;
 	var RESULT_INDEX_ATTR = 'data-danger-index';
@@ -39193,8 +39193,8 @@
 
 	'use strict';
 
-	var traverseAllChildren = __webpack_require__(49);
-	var warning = __webpack_require__(50);
+	var traverseAllChildren = __webpack_require__(51);
+	var warning = __webpack_require__(52);
 
 	/**
 	 * @param {function} traverseContext Context passed through traversal.
@@ -39259,7 +39259,7 @@
 
 	var createArrayFromMixed = __webpack_require__(177);
 	var getMarkupWrap = __webpack_require__(175);
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * Dummy container used to render all markup.
@@ -39347,7 +39347,7 @@
 
 	var ExecutionEnvironment = __webpack_require__(45);
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * Dummy container used to detect which wraps are necessary.
@@ -39635,7 +39635,7 @@
 	 * @typechecks
 	 */
 
-	var invariant = __webpack_require__(52);
+	var invariant = __webpack_require__(48);
 
 	/**
 	 * Convert array-like objects to arrays.
