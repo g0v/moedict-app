@@ -18,9 +18,9 @@ LANG = STANDALONE || window.PRERENDER_LANG || getPref(\lang) || (if document.URL
 MOE-ID = getPref(\prev-id) || {a: \萌 t: \發穎 h: \發芽 c: \萌}[LANG]
 $ ->
   $('body').addClass("lang-#LANG")
-  React.render React.View.Links!, $(\#links).0
-  React.render React.View.UserPref!, $(\#user-pref).0
-  React.render React.View.Nav({STANDALONE}), $(\#nav).0, ->
+  React.render React.createElement(React.View.Links), $(\#links).0
+  React.render React.createElement(React.View.UserPref), $(\#user-pref).0
+  React.render React.createElement(React.View.Nav, {STANDALONE}), $(\#nav).0, ->
     $('.lang-active').text $(".lang-option.#LANG:first").text!
     if navigator.userAgent is /MSIE|Trident/
       $('form[id=lookback]').remove!
@@ -52,7 +52,7 @@ if location.search is /\?_escaped_fragment_=(.+)/
 isDroidGap = isCordova and location.href is /android_asset/
 isDeviceReady = not isCordova
 isCordova = true if DEBUGGING
-isMobile = isCordova or \ontouchstart of window or \onmsgesturechange in window
+isMobile = isCordova or \ontouchstart of window or \onmsgesturechange of window
 isApp = true if isCordova or try window.locationbar?visible is false
 isWebKit = navigator.userAgent is /WebKit/
 isGecko = navigator.userAgent is /\bGecko\/\b/
@@ -455,7 +455,7 @@ window.do-load = ->
     $('iframe').fadeIn \fast
     $('.lang-active').text $(".lang-option.#LANG:first").text!
     setPref \lang LANG
-    for {lang, words} in (React.View.result.props.xrefs || []) | lang is LANG
+    for {lang, words} in (React.View.result?props.xrefs || []) | lang is LANG
       id ||= words.0
     id ||= LRU[LANG]?replace(/[\\\n][\d\D]*/, '')
     id ||= {a: \萌 t: \發穎 h: \發芽 c: \萌}[LANG]
@@ -568,7 +568,7 @@ window.do-load = ->
       <- setTimeout _, 125ms
       $tooltip.remove!
 
-    <- React.render React.View.UserPref!, $(\#user-pref).0
+    <- React.render React.createElement(React.View.UserPref), $(\#user-pref).0
 
     Han($result.0).render-ruby!.subst-comb-liga-with-PUA!
 
@@ -634,7 +634,7 @@ window.do-load = ->
     $('#result a[href]:not(.xref)').tooltip {
       +disabled, tooltipClass: "prefer-pinyin-#{ true /* !!getPref \prefer-pinyin */ }", show: 100ms, hide: 100ms, items: \a,
       open: ->
-        id = $(@).attr \href .replace /^#['!:~]?/, ''
+        id = $(@).attr \href .replace /^(\.\/)?#?['!:~]?/, ''
         if entryHistory.length and entryHistory[*-1] == id
           try $(@).tooltip \close
           return
@@ -642,7 +642,7 @@ window.do-load = ->
         .render-ruby!
         .subst-comb-liga-with-PUA!
       content: (cb) ->
-        id = $(@).attr \href .replace /^#['!:~]?/, ''
+        id = $(@).attr \href .replace /^(\.\/)?#?['!:~]?/, ''
         callLater ->
           if htmlCache[LANG][id]
             cb htmlCache[LANG][id]
@@ -715,7 +715,7 @@ function render-taxonomy (lang, taxonomy)
   for taxo in (if taxonomy instanceof Array then taxonomy else [taxonomy])
     if typeof taxo is \string
       $ul.append $(\<li/> role: \presentation).append $(
-        \<a/> class: "lang-option #lang" href: "#{ HASH-OF[lang] }=#taxo"
+        \<a/> class: "lang-option #lang" href: "./#{ HASH-OF[lang] }=#taxo"
       ).text(taxo)
     else for label, submenu of taxo
       $ul.append $(\<li/> class: \dropdown-submenu).append(
@@ -815,7 +815,7 @@ function init-autocomplete
       #return cb ((results.join(',') - /"/g) / ',')
 
 PUA2UNI = {
-  \⿰𧾷百 : \󾜅
+  \⿰𧾷百 : \𬦰
   \⿸疒哥 : \󿗧
   \⿰亻恩 : \󿌇
   \⿰虫念 : \󿑂
@@ -828,8 +828,9 @@ trs_lookup = (term,cb) ->
 
 pinyin_lookup = (query,cb) !->
   res = []
-  terms = query.replace(/((?:a(?:ir|n[gr]|[inor])|b(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:ir|n(?:gr|[gr])|[inr])|i(?:a(?:nr|or|[nor])|er|ng|[enr])|or|ur|[aiou])|c(?:a(?:ir|n[gr]|or|[inor])|e(?:ngr?|[nr])|h(?:a(?:ngr?|or|[inor])|e(?:n(?:gr|[gr])|[nr])|ir|o(?:ngr?|u)|u(?:a(?:ir|n(?:gr|[gr])|[inr])|or|[ainor])|[aeiu])|ir|o(?:ngr?|ur|u)|u(?:a(?:nr|[nr])|er|nr|or|[ino])|[aeiu])|d(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:ngr?|[inr])|i(?:a(?:nr|or|[nor])|er|ngr?|ur|[eru])|o(?:ngr?|ur|u)|u(?:a(?:nr|[nr])|er|ir|nr|or|[inor])|[aeiu])|e(?:ng|[nr])|f(?:a(?:n(?:gr|[gr])|[nr])|e(?:n(?:gr|[gr])|[inr])|ou|ur|[aou])|g(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:n(?:gr|[gr])|[inr])|o(?:ngr?|ur|u)|u(?:a(?:ir|n(?:gr|[gr])|[inr])|er|ir|nr|or|[ainor])|[aeu])|h(?:a(?:ir|n[gr]|or|[inor])|e(?:ir|ngr?|[inr])|o(?:ng|ur|u)|u(?:a(?:ir|n(?:gr|[gr])|[inr])|er|ir|nr|or|[ainor])|[aeu])|j(?:i(?:a(?:n[gr]|or|[nor])|er|n(?:gr|[gr])|ong|ur|[aenru])|u(?:a(?:nr|[nr])|er|[enr])|[iu])|k(?:a(?:ir|n[gr]|[inor])|e(?:ngr?|[nr])|o(?:ngr?|ur|u)|u(?:a(?:ir|n[gr]|[inr])|er|nr|[ainor])|[aeu])|l(?:a(?:n(?:gr|[gr])|or|[inor])|e(?:ngr?|[ir])|i(?:a(?:n(?:gr|[gr])|or|[nor])|er|ngr?|ur|[aenru])|o(?:ngr?|ur|u)|u(?:a(?:nr|[nr])|er|nr|or|[enor])|[aeiou])|m(?:a(?:n[gr]|or|[inor])|e(?:ir|n(?:gr|[gr])|[inr])|i(?:a(?:nr|or|[nor])|er|ngr?|[enru])|o[ru]|ur|[aeiou])|n(?:a(?:ngr?|or|[inor])|e(?:ng|[in])|i(?:a(?:n(?:gr|[gr])|or|[nor])|ng|ur|[enu])|o(?:ngr?|u)|u(?:a(?:nr|[nr])|er|[enor])|[aeiu])|ou|p(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:ir|n(?:gr|[gr])|[inr])|i(?:a(?:nr|or|[nor])|er|ng|[aenr])|o[ru]|ur|[aiou])|q(?:i(?:a(?:n(?:gr|[gr])|or|[nor])|er|n(?:gr|[gr])|ongr?|ur|[aenru])|u(?:a(?:nr|[nr])|er|[enr])|[iu])|r(?:a(?:ngr?|[no])|e(?:n[gr]|[nr])|ir|o(?:ng|ur|u)|u(?:a(?:nr|[nr])|[ino])|[eiu])|s(?:a(?:n(?:gr|[gr])|[inor])|e(?:ngr?|[inr])|h(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:n(?:gr|[gr])|[inr])|ir|our?|u(?:a(?:ngr?|[in])|er|ir|nr|or|[ainor])|[aeiu])|ir|o(?:ng|u)|u(?:an|er|ir|[ino])|[aeiu])|t(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:ngr?|r)|i(?:a(?:nr|or|[nor])|er|ngr?|[er])|o(?:ngr?|ur|u)|u(?:a(?:nr|[nr])|er|ir|[inor])|[aeiu])|w(?:a(?:n(?:gr|[gr])|[inr])|e(?:ir|n[gr]|[inr])|or|ur|[aou])|x(?:i(?:a(?:n(?:gr|[gr])|or|[nor])|er|n(?:gr|[gr])|ong|ur|[aenru])|u(?:a(?:nr|[nr])|er|nr|[enr])|[iu])|y(?:a(?:n(?:gr|[gr])|or|[inor])|er|i(?:n(?:gr|[gr])|[nr])|o(?:ng|ur|u)|u(?:a(?:nr|[nr])|er|[enr])|[aeiou])|z(?:a(?:ng|or|[inor])|e(?:ngr?|[inr])|h(?:a(?:n(?:gr|[gr])|or|[inor])|e(?:n(?:gr|[gr])|[inr])|ir|o(?:ngr?|ur|u)|u(?:a(?:n(?:gr|[gr])|[inr])|er|ir|nr|or|[ainor])|[aeiu])|ir|o(?:ngr?|u)|u(?:a(?:nr|[nr])|er|ir|or|[inor])|[aeiu])|[aeoq]))/g, '$1 ').replace(/^\s+/,"").replace(/\s+$/,"").split(/[\s']+/)
   pinyin_type = localStorage?getItem("pinyin_#{LANG}") || \HanYu
+  query = query.replace(/((?:a(?:ir|n[gr]|[inor])|b(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:ir|n(?:gr|[gr])|[inr])|i(?:a(?:nr|or|[nor])|er|ng|[enr])|or|ur|[aiou])|c(?:a(?:ir|n[gr]|or|[inor])|e(?:ngr?|[nr])|h(?:a(?:ngr?|or|[inor])|e(?:n(?:gr|[gr])|[nr])|ir|o(?:ngr?|u)|u(?:a(?:ir|n(?:gr|[gr])|[inr])|or|[ainor])|[aeiu])|ir|o(?:ngr?|ur|u)|u(?:a(?:nr|[nr])|er|nr|or|[ino])|[aeiu])|d(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:ngr?|[inr])|i(?:a(?:nr|or|[nor])|er|ngr?|ur|[eru])|o(?:ngr?|ur|u)|u(?:a(?:nr|[nr])|er|ir|nr|or|[inor])|[aeiu])|e(?:ng|[nr])|f(?:a(?:n(?:gr|[gr])|[nr])|e(?:n(?:gr|[gr])|[inr])|ou|ur|[aou])|g(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:n(?:gr|[gr])|[inr])|o(?:ngr?|ur|u)|u(?:a(?:ir|n(?:gr|[gr])|[inr])|er|ir|nr|or|[ainor])|[aeu])|h(?:a(?:ir|n[gr]|or|[inor])|e(?:ir|ngr?|[inr])|o(?:ng|ur|u)|u(?:a(?:ir|n(?:gr|[gr])|[inr])|er|ir|nr|or|[ainor])|[aeu])|j(?:i(?:a(?:n[gr]|or|[nor])|er|n(?:gr|[gr])|ong|ur|[aenru])|u(?:a(?:nr|[nr])|er|[enr])|[iu])|k(?:a(?:ir|n[gr]|[inor])|e(?:ngr?|[nr])|o(?:ngr?|ur|u)|u(?:a(?:ir|n[gr]|[inr])|er|nr|[ainor])|[aeu])|l(?:a(?:n(?:gr|[gr])|or|[inor])|e(?:ngr?|[ir])|i(?:a(?:n(?:gr|[gr])|or|[nor])|er|ngr?|ur|[aenru])|o(?:ngr?|ur|u)|u(?:a(?:nr|[nr])|er|nr|or|[enor])|[aeiou])|m(?:a(?:n[gr]|or|[inor])|e(?:ir|n(?:gr|[gr])|[inr])|i(?:a(?:nr|or|[nor])|er|ngr?|[enru])|o[ru]|ur|[aeiou])|n(?:a(?:ngr?|or|[inor])|e(?:ng|[in])|i(?:a(?:n(?:gr|[gr])|or|[nor])|ng|ur|[enu])|o(?:ngr?|u)|u(?:a(?:nr|[nr])|er|[enor])|[aeiu])|ou|p(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:ir|n(?:gr|[gr])|[inr])|i(?:a(?:nr|or|[nor])|er|ng|[aenr])|o[ru]|ur|[aiou])|q(?:i(?:a(?:n(?:gr|[gr])|or|[nor])|er|n(?:gr|[gr])|ongr?|ur|[aenru])|u(?:a(?:nr|[nr])|er|[enr])|[iu])|r(?:a(?:ngr?|[no])|e(?:n[gr]|[nr])|ir|o(?:ng|ur|u)|u(?:a(?:nr|[nr])|[ino])|[eiu])|s(?:a(?:n(?:gr|[gr])|[inor])|e(?:ngr?|[inr])|h(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:n(?:gr|[gr])|[inr])|ir|our?|u(?:a(?:ngr?|[in])|er|ir|nr|or|[ainor])|[aeiu])|ir|o(?:ng|u)|u(?:an|er|ir|[ino])|[aeiu])|t(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:ngr?|r)|i(?:a(?:nr|or|[nor])|er|ngr?|[er])|o(?:ngr?|ur|u)|u(?:a(?:nr|[nr])|er|ir|[inor])|[aeiu])|w(?:a(?:n(?:gr|[gr])|[inr])|e(?:ir|n[gr]|[inr])|or|ur|[aou])|x(?:i(?:a(?:n(?:gr|[gr])|or|[nor])|er|n(?:gr|[gr])|ong|ur|[aenru])|u(?:a(?:nr|[nr])|er|nr|[enr])|[iu])|y(?:a(?:n(?:gr|[gr])|or|[inor])|er|i(?:n(?:gr|[gr])|[nr])|o(?:ng|ur|u)|u(?:a(?:nr|[nr])|er|[enr])|[aeiou])|z(?:a(?:ng|or|[inor])|e(?:ngr?|[inr])|h(?:a(?:n(?:gr|[gr])|or|[inor])|e(?:n(?:gr|[gr])|[inr])|ir|o(?:ngr?|ur|u)|u(?:a(?:n(?:gr|[gr])|[inr])|er|ir|nr|or|[ainor])|[aeiu])|ir|o(?:ngr?|u)|u(?:a(?:nr|[nr])|er|ir|or|[inor])|[aeiu])|[aeoq]))/g, '$1 ') if LANG in <[ a c ]> and pinyin_type is \HanYu
+  terms = query.replace(/^\s+/,"").replace(/\s+$/,"").split(/[\s']+/)
   for term in terms
     data <- GET "lookup/pinyin/#{LANG}/#{pinyin_type}/#{term}.json"
     res.push( $.parseJSON(data) )
