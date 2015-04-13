@@ -2,7 +2,11 @@ require! <[
   ./scripts/Links.jsx
   ./scripts/Nav.jsx
   ./scripts/UserPref.jsx
+  ./scripts/RightAngle.ls
 ]>
+
+# Use the ./ prefix only for the web, not Cordova
+const DotSlash = if !(document?) or document?URL is /^https?:/ then "./" else ""
 
 React = require('react')
 window.isMoedictDesktop = isMoedictDesktop = true if window?moedictDesktop
@@ -40,7 +44,7 @@ Term = createClass do
   render: ->
     { LANG, H=HASH-OF[LANG], title, english, heteronyms, radical, translation, non_radical_stroke_count: nrs-count, stroke_count: s-count, pinyin: py, xrefs } = @props
     H -= /^#/
-    H = "./##H"
+    H = "#DotSlash##H"
     CurrentId := @props.id # Used in h()
     a-stroke = a { className: 'iconic-circle stroke icon-pencil', title: \筆順動畫, style: { color: \white } }
     $char = if radical
@@ -85,11 +89,10 @@ XRefs = createClass do
   render: ->
     { LANG, xrefs } = @props
     div { className: \xrefs }, ...for { lang, words } in xrefs
-      H = "./#{ HASH-OF[lang] }"
+      H = "#DotSlash#{ HASH-OF[lang] }"
       div { key: lang, className: \xref-line },
-        span { className: 'xref part-of-speech' },
+        span { className: 'xref part-of-speech' style: marginRight: \5px },
           XREF-LABEL-OF["#LANG#lang"] || XREF-LABEL-OF[lang]
-        nbsp
         span { className: 'xref', itemProp: \citation },
           ...intersperse \、, for word in words
             word -= /[`~]/g
@@ -128,7 +131,7 @@ Heteronym = createClass do
     t = untag h title
     { ruby: title-ruby, youyin, b-alt, p-alt, cn-specific, bopomofo, pinyin } = decorate-ruby @props unless LANG is \h
     list = [ if title-ruby
-      ruby { className: "rightangle", dangerouslySetInnerHTML: { __html: h title-ruby } }
+      RightAngle { html: h title-ruby }
     else
       span { dangerouslySetInnerHTML: { __html: title } }
     ]
@@ -444,9 +447,8 @@ function decorate-nyms (props)
   list = []
   for key, val of { synonyms: \似, antonyms: \反, variants: \異 } | props[key]
     list ++= span { key, className: key },
-      span { className: \part-of-speech }, val
-      nbsp
-      ...intersperse \、, for __html in props[key] / \,
+      span { className: \part-of-speech style: marginRight: \5px }, val
+      ...intersperse \、, for __html in props[key] / /,+/
         span { dangerouslySetInnerHTML: { __html } }
   return list
 
@@ -496,7 +498,7 @@ RadicalTable = createClass do
     else
       rows = JSON.parse terms
     list = []
-    H = "./#H"
+    H = "#DotSlash#H"
     for chars, strokes in rows | chars?length
       chs = []
       for ch in chars
@@ -512,7 +514,7 @@ List = createClass do
     {terms, id, H, LRU} = @props
     return div {} unless terms
     H -= /^#/
-    H = "./##H"
+    H = "#DotSlash##H"
     id -= /^[@=]/
     terms -= /^[^"]*/
     list = [ h1-name {}, id ]
@@ -656,10 +658,10 @@ decodeLangPart = (LANG-OR-H, part='') ->
     part.=replace /"`辨~\u20DE&nbsp`似~\u20DE"[^}]*},{"f":"([^（]+)[^"]*"/ '"辨\u20DE 似\u20DE $1"'
   part.=replace /"`(.)~\u20DE"[^}]*},{"f":"([^（]+)[^"]*"/g '"$1\u20DE $2"'
   part.=replace /"([hbpdcnftrelsaqETAVCDS_=])":/g (, k) -> keyMap[k] + \:
-  H = "./#{ HASH-OF[LANG-OR-H] || LANG-OR-H }"
-  part.=replace /([「【『（《])`([^~]+)~([。，、；：？！─…．·－」』》〉]+)/g (, pre, word, post) -> "<span class='punct'>#pre<a href=\\\"#H#word\\\">#word</a>#post</span>"
-  part.=replace /([「【『（《])`([^~]+)~/g (, pre, word) -> "<span class='punct'>#pre<a href=\\\"#H#word\\\">#word</a></span>"
-  part.=replace /`([^~]+)~([。，、；：？！─…．·－」』》〉]+)/g (, word, post) -> "<span class='punct'><a href=\\\"#H#word\\\">#word</a>#post</span>"
+  H = "#DotSlash#{ HASH-OF[LANG-OR-H] || LANG-OR-H }"
+  part.=replace /([「【『（《])`([^~]+)~([。，、；：？！─…．·－」』》〉]+)/g (, pre, word, post) -> "<span class=\\\"punct\\\">#pre<a href=\\\"#H#word\\\">#word</a>#post</span>"
+  part.=replace /([「【『（《])`([^~]+)~/g (, pre, word) -> "<span class=\\\"punct\\\">#pre<a href=\\\"#H#word\\\">#word</a></span>"
+  part.=replace /`([^~]+)~([。，、；：？！─…．·－」』》〉]+)/g (, word, post) -> "<span class=\\\"punct\\\"><a href=\\\"#H#word\\\">#word</a>#post</span>"
   part.=replace /`([^~]+)~/g (, word) -> "<a href=\\\"#H#word\\\">#word</a>"
   part.=replace /([)）])/g "$1\u200B"
   return part
