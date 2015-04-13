@@ -8,7 +8,6 @@ window.$ = window.jQuery = require \jquery
 
 React = require \react
 React.View = require \./view.ls
-Han = require \han-css
 window.React = React
 
 unless window.PRERENDER_LANG
@@ -89,7 +88,7 @@ function xref-of (id, src-lang=LANG, tgt-lang-only)
       part = words.slice(idx + id.length + 4);
       idx = part.indexOf \"
       part.=slice 0 idx
-      [ x || id for x in part / \, ]
+      [ x || id for x in part / /,+/ ]
     return rv[tgt-lang] if tgt-lang-only
   return rv
 
@@ -570,8 +569,6 @@ window.do-load = ->
 
     <- React.render React.createElement(React.View.UserPref), $(\#user-pref).0
 
-    Han($result.0).render-ruby!.subst-comb-liga-with-PUA!
-
     window.scroll-to 0 0
     $h1
     .css \visibility \visible
@@ -638,9 +635,6 @@ window.do-load = ->
         if entryHistory.length and entryHistory[*-1] == id
           try $(@).tooltip \close
           return
-        Han $('.ui-tooltip-content')[0]
-        .render-ruby!
-        .subst-comb-liga-with-PUA!
       content: (cb) ->
         id = $(@).attr \href .replace /^(\.\/)?#?['!:~]?/, ''
         callLater ->
@@ -850,7 +844,7 @@ pinyin_lookup = (query,cb) !->
       else
         cb(x)
 
-const SIMP-TRAD = window.SIMP-TRAD ? ''
+const SIMP-TRAD = require('./js/simp-trad.js')
 
 function b2g (str='')
   return str.replace(/台([北中南東灣語])/g '臺$1') unless LANG in <[ a c ]> and str isnt /^@/

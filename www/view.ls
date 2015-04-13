@@ -2,10 +2,11 @@ require! <[
   ./scripts/Links.jsx
   ./scripts/Nav.jsx
   ./scripts/UserPref.jsx
+  ./scripts/RightAngle.ls
 ]>
 
 # Use the ./ prefix only for the web, not Cordova
-const DotSlash = if document.URL is /^https?:/ then "./" else ""
+const DotSlash = if !(document?) or document?URL is /^https?:/ then "./" else ""
 
 React = require('react')
 window.isMoedictDesktop = isMoedictDesktop = true if window?moedictDesktop
@@ -90,9 +91,8 @@ XRefs = createClass do
     div { className: \xrefs }, ...for { lang, words } in xrefs
       H = "#DotSlash#{ HASH-OF[lang] }"
       div { key: lang, className: \xref-line },
-        span { className: 'xref part-of-speech' },
+        span { className: 'xref part-of-speech' style: marginRight: \5px },
           XREF-LABEL-OF["#LANG#lang"] || XREF-LABEL-OF[lang]
-        nbsp
         span { className: 'xref', itemProp: \citation },
           ...intersperse \、, for word in words
             word -= /[`~]/g
@@ -131,7 +131,7 @@ Heteronym = createClass do
     t = untag h title
     { ruby: title-ruby, youyin, b-alt, p-alt, cn-specific, bopomofo, pinyin } = decorate-ruby @props unless LANG is \h
     list = [ if title-ruby
-      ruby { className: "rightangle", dangerouslySetInnerHTML: { __html: h title-ruby } }
+      RightAngle { html: h title-ruby }
     else
       span { dangerouslySetInnerHTML: { __html: title } }
     ]
@@ -447,9 +447,8 @@ function decorate-nyms (props)
   list = []
   for key, val of { synonyms: \似, antonyms: \反, variants: \異 } | props[key]
     list ++= span { key, className: key },
-      span { className: \part-of-speech }, val
-      nbsp
-      ...intersperse \、, for __html in props[key] / \,
+      span { className: \part-of-speech style: marginRight: \5px }, val
+      ...intersperse \、, for __html in props[key] / /,+/
         span { dangerouslySetInnerHTML: { __html } }
   return list
 
@@ -660,9 +659,9 @@ decodeLangPart = (LANG-OR-H, part='') ->
   part.=replace /"`(.)~\u20DE"[^}]*},{"f":"([^（]+)[^"]*"/g '"$1\u20DE $2"'
   part.=replace /"([hbpdcnftrelsaqETAVCDS_=])":/g (, k) -> keyMap[k] + \:
   H = "#DotSlash#{ HASH-OF[LANG-OR-H] || LANG-OR-H }"
-  part.=replace /([「【『（《])`([^~]+)~([。，、；：？！─…．·－」』》〉]+)/g (, pre, word, post) -> "<span class='punct'>#pre<a href=\\\"#H#word\\\">#word</a>#post</span>"
-  part.=replace /([「【『（《])`([^~]+)~/g (, pre, word) -> "<span class='punct'>#pre<a href=\\\"#H#word\\\">#word</a></span>"
-  part.=replace /`([^~]+)~([。，、；：？！─…．·－」』》〉]+)/g (, word, post) -> "<span class='punct'><a href=\\\"#H#word\\\">#word</a>#post</span>"
+  part.=replace /([「【『（《])`([^~]+)~([。，、；：？！─…．·－」』》〉]+)/g (, pre, word, post) -> "<span class=\\\"punct\\\">#pre<a href=\\\"#H#word\\\">#word</a>#post</span>"
+  part.=replace /([「【『（《])`([^~]+)~/g (, pre, word) -> "<span class=\\\"punct\\\">#pre<a href=\\\"#H#word\\\">#word</a></span>"
+  part.=replace /`([^~]+)~([。，、；：？！─…．·－」』》〉]+)/g (, word, post) -> "<span class=\\\"punct\\\"><a href=\\\"#H#word\\\">#word</a>#post</span>"
   part.=replace /`([^~]+)~/g (, word) -> "<a href=\\\"#H#word\\\">#word</a>"
   part.=replace /([)）])/g "$1\u200B"
   return part
