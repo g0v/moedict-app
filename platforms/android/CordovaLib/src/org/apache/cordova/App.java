@@ -32,10 +32,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.telephony.TelephonyManager;
-<<<<<<< HEAD
-=======
 import android.view.KeyEvent;
->>>>>>> master
 
 import java.util.HashMap;
 
@@ -44,10 +41,6 @@ import java.util.HashMap;
  */
 public class App extends CordovaPlugin {
 
-<<<<<<< HEAD
-    protected static final String TAG = "CordovaApp";
-    private BroadcastReceiver telephonyReceiver;
-=======
     public static final String PLUGIN_NAME = "App";
     protected static final String TAG = "CordovaApp";
     private BroadcastReceiver telephonyReceiver;
@@ -61,30 +54,16 @@ public class App extends CordovaPlugin {
     public void fireJavascriptEvent(String action) {
         sendEventMessage(action);
     }
->>>>>>> master
 
     /**
      * Sets the context of the Command. This can then be used to do things like
      * get file paths associated with the Activity.
-<<<<<<< HEAD
-     *
-     * @param cordova The context of the main Activity.
-     * @param webView The CordovaWebView Cordova is running in.
-     */
-    public void initialize(CordovaInterface cordova, CordovaWebView webView) {
-        super.initialize(cordova, webView);
-        this.initTelephonyReceiver();
-    }
-
-
-=======
      */
     @Override
     public void pluginInitialize() {
         this.initTelephonyReceiver();
     }
 
->>>>>>> master
     /**
      * Executes the request and returns PluginResult.
      *
@@ -251,11 +230,7 @@ public class App extends CordovaPlugin {
      */
     public void overrideBackbutton(boolean override) {
         LOG.i("App", "WARNING: Back Button Default Behavior will be overridden.  The backbutton event will be fired!");
-<<<<<<< HEAD
-        webView.bindButton(override);
-=======
         webView.setButtonPlumbedToJs(KeyEvent.KEYCODE_BACK, override);
->>>>>>> master
     }
 
     /**
@@ -267,16 +242,12 @@ public class App extends CordovaPlugin {
      */
     public void overrideButton(String button, boolean override) {
         LOG.i("App", "WARNING: Volume Button Default Behavior will be overridden.  The volume event will be fired!");
-<<<<<<< HEAD
-        webView.bindButton(button, override);
-=======
         if (button.equals("volumeup")) {
             webView.setButtonPlumbedToJs(KeyEvent.KEYCODE_VOLUME_UP, override);
         }
         else if (button.equals("volumedown")) {
             webView.setButtonPlumbedToJs(KeyEvent.KEYCODE_VOLUME_DOWN, override);
         }
->>>>>>> master
     }
 
     /**
@@ -307,8 +278,6 @@ public class App extends CordovaPlugin {
         //final CordovaInterface mycordova = this.cordova;
         this.telephonyReceiver = new BroadcastReceiver() {
 
-<<<<<<< HEAD
-=======
 
     /**
      * Listen for telephony events: RINGING, OFFHOOK and IDLE
@@ -321,7 +290,6 @@ public class App extends CordovaPlugin {
         //final CordovaInterface mycordova = this.cordova;
         this.telephonyReceiver = new BroadcastReceiver() {
 
->>>>>>> master
             @Override
             public void onReceive(Context context, Intent intent) {
 
@@ -347,9 +315,6 @@ public class App extends CordovaPlugin {
         };
 
         // Register the receiver
-<<<<<<< HEAD
-        this.cordova.getActivity().registerReceiver(this.telephonyReceiver, intentFilter);
-=======
         webView.getContext().registerReceiver(this.telephonyReceiver, intentFilter);
     }
 
@@ -365,7 +330,6 @@ public class App extends CordovaPlugin {
         if (messageChannel != null) {
             messageChannel.sendPluginResult(pluginResult);
         }
->>>>>>> master
     }
 
     /*
@@ -374,10 +338,6 @@ public class App extends CordovaPlugin {
      */
     public void onDestroy()
     {
-<<<<<<< HEAD
-        this.cordova.getActivity().unregisterReceiver(this.telephonyReceiver);
-=======
         webView.getContext().unregisterReceiver(this.telephonyReceiver);
->>>>>>> master
     }
 }

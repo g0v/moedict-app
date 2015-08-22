@@ -22,10 +22,7 @@
 //
 
 #import <Foundation/Foundation.h>
-<<<<<<< HEAD
-=======
 #import "CDVAvailabilityDeprecated.h"
->>>>>>> master
 
 void *CDVNewBase64Decode(
     const char* inputBuffer,
@@ -40,16 +37,11 @@ char *CDVNewBase64Encode(
 
 @interface NSData (CDVBase64)
 
-<<<<<<< HEAD
-+ (NSData*)dataFromBase64String:(NSString*)aString;
-- (NSString*)base64EncodedString;
-=======
 + (NSData*)dataFromBase64String:(NSString*)aString CDV_DEPRECATED(3.8 .0, "Use cdv_dataFromBase64String");
 
 - (NSString*)base64EncodedString CDV_DEPRECATED(3.8 .0, "Use [NSData cdv_base64EncodedString]");
 
 + (NSData*)cdv_dataFromBase64String:(NSString*)aString;
 - (NSString*)cdv_base64EncodedString;
->>>>>>> master
 
 @end

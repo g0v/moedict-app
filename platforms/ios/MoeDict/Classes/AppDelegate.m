@@ -19,11 +19,7 @@
 
 //
 //  AppDelegate.m
-<<<<<<< HEAD
-//  HelloCordova
-=======
 //  __PROJECT_NAME__
->>>>>>> master
 //
 //  Created by ___FULLUSERNAME___ on ___DATE___.
 //  Copyright ___ORGANIZATIONNAME___ ___YEAR___. All rights reserved.
@@ -96,22 +92,13 @@
 }
 
 // this happens while we are running ( in the background, or from within our own app )
-<<<<<<< HEAD
-// only valid if HelloCordova-Info.plist specifies a protocol to handle
-=======
 // only valid if __PROJECT_NAME__-Info.plist specifies a protocol to handle
->>>>>>> master
 - (BOOL)application:(UIApplication*)application openURL:(NSURL*)url sourceApplication:(NSString*)sourceApplication annotation:(id)annotation
 {
     if (!url) {
         return NO;
     }
 
-<<<<<<< HEAD
-    [self.viewController processOpenUrl:url];
-
-=======
->>>>>>> master
     // all plugins will get the notification, and their handlers will be called
     [[NSNotificationCenter defaultCenter] postNotification:[NSNotification notificationWithName:CDVPluginHandleOpenURLNotification object:url]];
 
@@ -126,26 +113,6 @@
     [[NSNotificationCenter defaultCenter] postNotificationName:CDVLocalNotification object:notification];
 }
 
-<<<<<<< HEAD
-- (void)                                 application:(UIApplication*)application
-    didRegisterForRemoteNotificationsWithDeviceToken:(NSData*)deviceToken
-{
-    // re-post ( broadcast )
-    NSString* token = [[[[deviceToken description]
-        stringByReplacingOccurrencesOfString:@"<" withString:@""]
-        stringByReplacingOccurrencesOfString:@">" withString:@""]
-        stringByReplacingOccurrencesOfString:@" " withString:@""];
-
-    [[NSNotificationCenter defaultCenter] postNotificationName:CDVRemoteNotification object:token];
-}
-
-- (void)                                 application:(UIApplication*)application
-    didFailToRegisterForRemoteNotificationsWithError:(NSError*)error
-{
-    // re-post ( broadcast )
-    [[NSNotificationCenter defaultCenter] postNotificationName:CDVRemoteNotificationError object:error];
-}
-=======
 #ifndef DISABLE_PUSH_NOTIFICATIONS
 
     - (void)                                 application:(UIApplication*)application
@@ -167,7 +134,6 @@
         [[NSNotificationCenter defaultCenter] postNotificationName:CDVRemoteNotificationError object:error];
     }
 #endif
->>>>>>> master
 
 - (NSUInteger)application:(UIApplication*)application supportedInterfaceOrientationsForWindow:(UIWindow*)window
 {

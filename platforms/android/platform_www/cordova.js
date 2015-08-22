@@ -1,9 +1,5 @@
 // Platform: android
-<<<<<<< HEAD
-// 3.5.0
-=======
 // 24ab6855470f2dc0662624b597c98585e56a1666
->>>>>>> master
 /*
  Licensed to the Apache Software Foundation (ASF) under one
  or more contributor license agreements.  See the NOTICE file
@@ -23,11 +19,7 @@
  under the License.
 */
 ;(function() {
-<<<<<<< HEAD
-var CORDOVA_JS_BUILD_LABEL = '3.5.0';
-=======
 var PLATFORM_VERSION_BUILD_LABEL = '3.7.1';
->>>>>>> master
 // file: src/scripts/require.js
 
 /*jshint -W079 */
@@ -948,21 +940,7 @@ function androidExec(success, fail, service, action, args) {
         androidExec.setJsToNativeBridgeMode(jsToNativeModes.JS_OBJECT);
         return;
     } else {
-<<<<<<< HEAD
-        var messages = nativeApiProvider.get().exec(service, action, callbackId, argsJson);
-        // If argsJson was received by Java as null, try again with the PROMPT bridge mode.
-        // This happens in rare circumstances, such as when certain Unicode characters are passed over the bridge on a Galaxy S2.  See CB-2666.
-        if (jsToNativeBridgeMode == jsToNativeModes.JS_OBJECT && messages === "@Null arguments.") {
-            androidExec.setJsToNativeBridgeMode(jsToNativeModes.PROMPT);
-            androidExec(success, fail, service, action, args);
-            androidExec.setJsToNativeBridgeMode(jsToNativeModes.JS_OBJECT);
-            return;
-        } else {
-            androidExec.processMessages(messages, true);
-        }
-=======
         androidExec.processMessages(messages, true);
->>>>>>> master
     }
 }
 
@@ -1316,10 +1294,7 @@ define("cordova/init_b", function(require, exports, module) {
 var channel = require('cordova/channel');
 var cordova = require('cordova');
 var platform = require('cordova/platform');
-<<<<<<< HEAD
-=======
 var utils = require('cordova/utils');
->>>>>>> master
 
 var platformInitChannelsArray = [channel.onDOMContentLoaded, channel.onNativeReady];
 
@@ -1355,8 +1330,6 @@ function replaceNavigator(origNavigator) {
             if (typeof origNavigator[key] == 'function') {
                 newNavigator[key] = origNavigator[key].bind(origNavigator);
             }
-<<<<<<< HEAD
-=======
             else {
                 (function(k) {
                     utils.defineGetterSetter(newNavigator,key,function() {
@@ -1364,7 +1337,6 @@ function replaceNavigator(origNavigator) {
                     });
                 })(key);
             }
->>>>>>> master
         }
     }
     return newNavigator;
@@ -1412,11 +1384,6 @@ platform.bootstrap && platform.bootstrap();
  * Create all cordova objects once native side is ready.
  */
 channel.join(function() {
-<<<<<<< HEAD
-    
-=======
-
->>>>>>> master
     platform.initialize && platform.initialize();
 
     // Fire event to notify that all objects are created

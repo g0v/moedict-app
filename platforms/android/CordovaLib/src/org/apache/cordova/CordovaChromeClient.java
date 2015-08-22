@@ -127,11 +127,7 @@ public class CordovaChromeClient extends WebChromeClient {
                     return true;
             }
         });
-<<<<<<< HEAD
-        dlg.show();
-=======
         lastHandledDialog = dlg.show();
->>>>>>> master
         return true;
     }
 
@@ -180,11 +176,7 @@ public class CordovaChromeClient extends WebChromeClient {
                     return true;
             }
         });
-<<<<<<< HEAD
-        dlg.show();
-=======
         lastHandledDialog = dlg.show();
->>>>>>> master
         return true;
     }
 
@@ -228,11 +220,7 @@ public class CordovaChromeClient extends WebChromeClient {
                             res.cancel();
                         }
                     });
-<<<<<<< HEAD
-            dlg.show();
-=======
             lastHandledDialog = dlg.show();
->>>>>>> master
         }
         return true;
     }

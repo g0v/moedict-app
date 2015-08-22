@@ -69,11 +69,7 @@ import android.widget.LinearLayout;
  *         super.onCreate(savedInstanceState);
  *         super.init();
  *         // Load your application
-<<<<<<< HEAD
- *         super.loadUrl(Config.getStartUrl());
-=======
  *         loadUrl(launchUrl);
->>>>>>> master
  *       }
  *     }
  * </pre>
@@ -923,28 +919,6 @@ public class CordovaActivity extends Activity implements CordovaInterface {
     public Object onMessage(String id, Object data) {
         if (!"onScrollChanged".equals(id)) {
             LOG.d(TAG, "onMessage(" + id + "," + data + ")");
-<<<<<<< HEAD
-        }
-
-        if ("splashscreen".equals(id)) {
-            if ("hide".equals(data.toString())) {
-                this.removeSplashScreen();
-            }
-            else {
-                // If the splash dialog is showing don't try to show it again
-                if (this.splashDialog == null || !this.splashDialog.isShowing()) {
-                    this.splashscreen = this.getIntegerProperty("SplashScreen", 0);
-                    this.showSplashScreen(this.splashscreenTime);
-                }
-            }
-        }
-        else if ("spinner".equals(id)) {
-            if ("stop".equals(data.toString())) {
-                this.spinnerStop();
-                this.appView.setVisibility(View.VISIBLE);
-            }
-=======
->>>>>>> master
         }
 
         if ("onReceivedError".equals(id)) {

@@ -114,14 +114,6 @@ static NSString *stripFragment(NSString* url)
     return self;
 }
 
-<<<<<<< HEAD
-- (BOOL)request:(NSURLRequest*)newRequest isFragmentIdentifierToRequest:(NSURLRequest*)originalRequest
-{
-    return [self request:newRequest isEqualToRequestAfterStrippingFragments:originalRequest];
-}
-
-=======
->>>>>>> master
 - (BOOL)request:(NSURLRequest*)newRequest isEqualToRequestAfterStrippingFragments:(NSURLRequest*)originalRequest
 {
     if (originalRequest.URL && newRequest.URL) {

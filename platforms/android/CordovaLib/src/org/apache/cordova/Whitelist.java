@@ -120,11 +120,7 @@ public class Whitelist {
                     whiteList = null;
                 }
                 else { // specific access
-<<<<<<< HEAD
-                    Pattern parts = Pattern.compile("^((\\*|[A-Za-z-]+)://)?(\\*|((\\*\\.)?[^*/:]+))?(:(\\d+))?(/.*)?");
-=======
                     Pattern parts = Pattern.compile("^((\\*|[A-Za-z-]+):(//)?)?(\\*|((\\*\\.)?[^*/:]+))?(:(\\d+))?(/.*)?");
->>>>>>> master
                     Matcher m = parts.matcher(origin);
                     if (m.matches()) {
                         String scheme = m.group(2);

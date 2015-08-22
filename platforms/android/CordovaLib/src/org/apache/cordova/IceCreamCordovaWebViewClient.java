@@ -76,14 +76,11 @@ public class IceCreamCordovaWebViewClient extends CordovaWebViewClient {
         }
     }
 
-<<<<<<< HEAD
-=======
     private boolean isUrlHarmful(String url) {
         return ((url.startsWith("http:") || url.startsWith("https:")) && !appView.getWhitelist().isUrlWhiteListed(url))
             || url.contains("app_webview");
     }
 
->>>>>>> master
     private static boolean needsKitKatContentUrlFix(Uri uri) {
         return android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.KITKAT && "content".equals(uri.getScheme());
     }

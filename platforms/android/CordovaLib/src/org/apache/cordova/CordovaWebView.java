@@ -62,11 +62,7 @@ import android.widget.FrameLayout;
 public class CordovaWebView extends WebView {
 
     public static final String TAG = "CordovaWebView";
-<<<<<<< HEAD
-    public static final String CORDOVA_VERSION = "3.5.0";
-=======
     public static final String CORDOVA_VERSION = "3.7.1";
->>>>>>> master
 
     private HashSet<Integer> boundKeyCodes = new HashSet<Integer>();
 
@@ -315,23 +311,14 @@ public class CordovaWebView extends WebView {
 	}
 
     private void exposeJsInterface() {
-<<<<<<< HEAD
-        int SDK_INT = Build.VERSION.SDK_INT;
-        if ((SDK_INT < Build.VERSION_CODES.JELLY_BEAN_MR1)) {
-=======
         if ((Build.VERSION.SDK_INT < Build.VERSION_CODES.JELLY_BEAN_MR1)) {
->>>>>>> master
             Log.i(TAG, "Disabled addJavascriptInterface() bridge since Android version is old.");
             // Bug being that Java Strings do not get converted to JS strings automatically.
             // This isn't hard to work-around on the JS side, but it's easier to just
             // use the prompt bridge instead.
             return;            
         } 
-<<<<<<< HEAD
-        this.addJavascriptInterface(exposedJsApi, "_cordovaNative");
-=======
         this.addJavascriptInterface(new ExposedJsApi(bridge), "_cordovaNative");
->>>>>>> master
     }
 
     @Override
@@ -405,11 +392,6 @@ public class CordovaWebView extends WebView {
     public void loadUrlIntoView(final String url, boolean recreatePlugins) {
         LOG.d(TAG, ">>> loadUrl(" + url + ")");
 
-<<<<<<< HEAD
-        if (recreatePlugins) {
-            this.url = url;
-            this.pluginManager.init();
-=======
         initIfNecessary();
 
         if (recreatePlugins) {
@@ -418,7 +400,6 @@ public class CordovaWebView extends WebView {
                 this.pluginManager.init();
             }
             this.loadedUrl = url;
->>>>>>> master
         }
 
         // Create a timeout timer for loadUrl
@@ -625,24 +606,6 @@ public class CordovaWebView extends WebView {
             cordova.getActivity().startActivity(intent);
         } catch (android.content.ActivityNotFoundException e) {
             LOG.e(TAG, "Error loading url " + url, e);
-<<<<<<< HEAD
-        }
-    }
-
-    /**
-     * Check configuration parameters from Config.
-     * Approved list of URLs that can be loaded into Cordova
-     *      <access origin="http://server regexp" subdomains="true" />
-     * Log level: ERROR, WARN, INFO, DEBUG, VERBOSE (default=ERROR)
-     *      <log level="DEBUG" />
-     */
-    private void loadConfiguration() {
- 
-        if ("true".equals(this.getProperty("Fullscreen", "false"))) {
-            this.cordova.getActivity().getWindow().clearFlags(WindowManager.LayoutParams.FLAG_FORCE_NOT_FULLSCREEN);
-            this.cordova.getActivity().getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
-=======
->>>>>>> master
         }
     }
 
@@ -729,15 +692,6 @@ public class CordovaWebView extends WebView {
                         return true;
                     }
                     // If not, then invoke default behavior
-<<<<<<< HEAD
-                    else {
-                        //this.activityState = ACTIVITY_EXITING;
-                    	//return false;
-                    	// If they hit back button when app is initializing, app should exit instead of hang until initialization (CB2-458)
-                    	this.cordova.getActivity().finish();
-                    }
-=======
->>>>>>> master
                 }
             }
         }

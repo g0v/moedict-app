@@ -18,21 +18,6 @@
  */
 
 #import <Foundation/Foundation.h>
-<<<<<<< HEAD
-
-@interface NSDictionary (org_apache_cordova_NSDictionary_Extension)
-
-- (bool)existsValue:(NSString*)expectedValue forKey:(NSString*)key;
-- (NSInteger)integerValueForKey:(NSString*)key defaultValue:(NSInteger)defaultValue withRange:(NSRange)range;
-- (NSInteger)integerValueForKey:(NSString*)key defaultValue:(NSInteger)defaultValue;
-- (BOOL)typeValueForKey:(NSString*)key isArray:(BOOL*)bArray isNull:(BOOL*)bNull isNumber:(BOOL*)bNumber isString:(BOOL*)bString;
-- (BOOL)valueForKeyIsArray:(NSString*)key;
-- (BOOL)valueForKeyIsNull:(NSString*)key;
-- (BOOL)valueForKeyIsString:(NSString*)key;
-- (BOOL)valueForKeyIsNumber:(NSString*)key;
-
-- (NSDictionary*)dictionaryWithLowercaseKeys;
-=======
 #import "CDVAvailabilityDeprecated.h"
 
 @interface NSDictionary (org_apache_cordova_NSDictionary_Extension)
@@ -54,6 +39,5 @@
 - (BOOL)valueForKeyIsNumber:(NSString*)key CDV_DEPRECATED(3.8 .0, "API is slated for removal in 4.0.0");
 
 - (NSDictionary*)dictionaryWithLowercaseKeys CDV_DEPRECATED(3.8 .0, "API is slated for removal in 4.0.0");
->>>>>>> master
 
 @end

@@ -193,13 +193,8 @@ public class CordovaWebViewClient extends WebViewClient {
     @Override
     public void onPageFinished(WebView view, String url) {
         super.onPageFinished(view, url);
-<<<<<<< HEAD
-        // Ignore excessive calls.
-        if (!isCurrentlyLoading) {
-=======
         // Ignore excessive calls, if url is not about:blank (CB-8317).
         if (!isCurrentlyLoading && !url.startsWith("about:")) {
->>>>>>> master
             return;
         }
         isCurrentlyLoading = false;
