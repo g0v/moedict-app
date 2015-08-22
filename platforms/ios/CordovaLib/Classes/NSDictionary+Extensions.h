@@ -18,6 +18,7 @@
  */
 
 #import <Foundation/Foundation.h>
+<<<<<<< HEAD
 
 @interface NSDictionary (org_apache_cordova_NSDictionary_Extension)
 
@@ -31,5 +32,28 @@
 - (BOOL)valueForKeyIsNumber:(NSString*)key;
 
 - (NSDictionary*)dictionaryWithLowercaseKeys;
+=======
+#import "CDVAvailabilityDeprecated.h"
+
+@interface NSDictionary (org_apache_cordova_NSDictionary_Extension)
+
+- (bool)existsValue:(NSString*)expectedValue forKey:(NSString*)key CDV_DEPRECATED(3.8 .0, "API is slated for removal in 4.0.0");
+
+- (NSInteger)integerValueForKey:(NSString*)key defaultValue:(NSInteger)defaultValue withRange:(NSRange)range CDV_DEPRECATED(3.8 .0, "API is slated for removal in 4.0.0");
+
+- (NSInteger)integerValueForKey:(NSString*)key defaultValue:(NSInteger)defaultValue CDV_DEPRECATED(3.8 .0, "API is slated for removal in 4.0.0");
+
+- (BOOL)typeValueForKey:(NSString*)key isArray:(BOOL*)bArray isNull:(BOOL*)bNull isNumber:(BOOL*)bNumber isString:(BOOL*)bString CDV_DEPRECATED(3.8 .0, "API is slated for removal in 4.0.0");
+
+- (BOOL)valueForKeyIsArray:(NSString*)key CDV_DEPRECATED(3.8 .0, "API is slated for removal in 4.0.0");
+
+- (BOOL)valueForKeyIsNull:(NSString*)key CDV_DEPRECATED(3.8 .0, "API is slated for removal in 4.0.0");
+
+- (BOOL)valueForKeyIsString:(NSString*)key CDV_DEPRECATED(3.8 .0, "API is slated for removal in 4.0.0");
+
+- (BOOL)valueForKeyIsNumber:(NSString*)key CDV_DEPRECATED(3.8 .0, "API is slated for removal in 4.0.0");
+
+- (NSDictionary*)dictionaryWithLowercaseKeys CDV_DEPRECATED(3.8 .0, "API is slated for removal in 4.0.0");
+>>>>>>> master
 
 @end

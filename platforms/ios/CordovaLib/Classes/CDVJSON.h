@@ -17,6 +17,7 @@
  under the License.
  */
 
+<<<<<<< HEAD
 @interface NSArray (CDVJSONSerializing)
 - (NSString*)JSONString;
 @end
@@ -28,4 +29,23 @@
 @interface NSString (CDVJSONSerializing)
 - (id)JSONObject;
 - (id)JSONFragment;
+=======
+#import "CDVAvailabilityDeprecated.h"
+
+@interface NSArray (CDVJSONSerializing)
+- (NSString*)JSONString CDV_DEPRECATED(3.8 .0, "Use NSJSONSerialization instead.");
+
+@end
+
+@interface NSDictionary (CDVJSONSerializing)
+- (NSString*)JSONString CDV_DEPRECATED(3.8 .0, "Use NSJSONSerialization instead.");
+
+@end
+
+@interface NSString (CDVJSONSerializing)
+- (id)JSONObject CDV_DEPRECATED(3.8 .0, "Use NSJSONSerialization instead.");
+
+- (id)JSONFragment CDV_DEPRECATED(3.8 .0, "Use NSJSONSerialization instead.");
+
+>>>>>>> master
 @end

@@ -7807,6 +7807,11 @@ body.lang-h #query-box {
 body.lang-h #gcse .lang-h-only {
   position: static !important;
   margin-top: 0 !important; }
+<<<<<<< HEAD
+=======
+body.lang-h #btn-pref {
+  display: none !important; }
+>>>>>>> master
 body.lang-h h1 {
   border-bottom: 0;
   margin: .25em 0 .25em; }
@@ -7831,6 +7836,7 @@ body.lang-t #gcse .lang-t-only {
   position: static !important;
   margin-top: 0 !important; }
 
+<<<<<<< HEAD
 body.lang-p .nav-bg {
   background-color: #a00; }
 body.lang-p .iconic-circle {
@@ -7843,6 +7849,8 @@ body.lang-p #gcse .lang-p-only {
   position: static !important;
   margin-top: 0 !important; }
 
+=======
+>>>>>>> master
 body.lang-a .nav-bg {
   background-color: #100; }
 body.lang-a .iconic-circle {
@@ -8055,7 +8063,12 @@ input.query {
     height: 65px;
     bottom: auto !important;
     padding: 15px;
+<<<<<<< HEAD
     padding-bottom: 3px; } }
+=======
+    padding-bottom: 3px;
+    z-index: 10 !important; } }
+>>>>>>> master
 
 .ui-widget, .ui-widget button, .ui-widget input, .ui-widget select, .ui-widget textarea {
   font-family: inherit !important; }
@@ -8096,6 +8109,11 @@ body.overflow-scrolling-false .ui-autocomplete {
     max-height: 80% !important; } }
 
 @media only screen and (max-width: 767px) {
+<<<<<<< HEAD
+=======
+  .icon-book {
+    display: none !important; }
+>>>>>>> master
   ul.ui-autocomplete {
     top: 100px !important;
     height: auto !important;
@@ -8245,16 +8263,43 @@ img.back {
 .web-only {
   display: none !important; }
 
+<<<<<<< HEAD
+=======
+.ios .not-ios {
+  display: none !important; }
+
+.not-ios {
+  display: inline-block !important; }
+
+>>>>>>> master
 .web .web-only {
   display: block !important; }
 
 .app #opening {
   display: none !important; }
 
+<<<<<<< HEAD
 @media only screen and (max-width: 767px) {
   #btn-pref {
     display: none; } }
 
+=======
+body.ios > iframe {
+  display: none !important; }
+
+@media only screen and (max-width: 360px) {
+  #btn-pref {
+    display: none; } }
+
+@media only screen and (max-width: 767px) {
+  #btn-pref {
+    left: 130px !important;
+    right: auto !important;
+    top: 5px !important;
+    display: block;
+    position: absolute; } }
+
+>>>>>>> master
 #user-pref label {
   width: 100% !important;
   margin-top: 20px !important; }
@@ -8872,6 +8917,7 @@ a.stroke-char {
   padding: 2px;
   line-height: 1; }
 
+<<<<<<< HEAD
 body.lang-p .example {
   font-size: 100%;
   display: inline-block;
@@ -8887,6 +8933,8 @@ body.lang-p .example {
 body.lang-p .ui-tooltip .example {
   display: none; }
 
+=======
+>>>>>>> master
 #timeline iframe {
   height: 100% !important;
   border-radius: 8px;
@@ -9003,5 +9051,8 @@ body.cordova #gcse > span .gsc-results-wrapper-overlay {
 
 body {
   font-size: 14pt; }
+<<<<<<< HEAD
 
 div.share { display: none }
+=======
+>>>>>>> master

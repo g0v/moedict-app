@@ -74,7 +74,11 @@ var httpCb = function (req, res) {
       filename = path.join(process.cwd(), uri);
   };
 
+<<<<<<< HEAD
   path.exists(filename, function (exists) {
+=======
+  fs.exists(filename, function (exists) {
+>>>>>>> master
     if (!exists || /manifest.appcache/.test(filename)) {
       httpRespond(res, 404, "Page Not Found!\n");
       return;

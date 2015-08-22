@@ -1,15 +1,14 @@
-window.isCordova = isCordova = document.URL isnt /^https?:/ and document.URL isnt /^http:\/\/localhost/
+window.isCordova = isCordova = document.URL isnt /^https?:/
 window.isMoedictDesktop = isMoedictDesktop = true if window.moedictDesktop
 window.STANDALONE = \p	# 阿美語方敏英
 const DEBUGGING = (!isCordova and !!window.cordova?require)
 const STANDALONE = window.STANDALONE || false
 
-{any, map} = require('prelude-ls')
+{any, map, unique} = require('prelude-ls')
 window.$ = window.jQuery = require \jquery
 
 React = require \react
 React.View = require \./view.ls
-Han = require \han-css
 window.React = React
 
 unless window.PRERENDER_LANG
@@ -19,9 +18,9 @@ LANG = STANDALONE || window.PRERENDER_LANG || getPref(\lang) || (if document.URL
 MOE-ID = getPref(\prev-id) || {a: \萌 t: \發穎 h: \發芽 c: \萌 p: \ci'im }[LANG]
 $ ->
   $('body').addClass("lang-#LANG")
-  React.render React.View.Links!, $(\#links).0
-  React.render React.View.UserPref!, $(\#user-pref).0
-  React.render React.View.Nav({STANDALONE}), $(\#nav).0, ->
+  React.render React.createElement(React.View.Links), $(\#links).0
+  React.render React.createElement(React.View.UserPref), $(\#user-pref).0
+  React.render React.createElement(React.View.Nav, {STANDALONE}), $(\#nav).0, ->
     $('.lang-active').text $(".lang-option.#LANG:first").text!
     if navigator.userAgent is /MSIE|Trident/
       $('form[id=lookback]').remove!
@@ -53,7 +52,7 @@ if location.search is /\?_escaped_fragment_=(.+)/
 isDroidGap = isCordova and location.href is /android_asset/
 isDeviceReady = not isCordova
 isCordova = true if DEBUGGING
-isMobile = isCordova or \ontouchstart of window or \onmsgesturechange in window
+isMobile = isCordova or \ontouchstart of window or \onmsgesturechange of window
 isApp = true if isCordova or try window.locationbar?visible is false
 isWebKit = navigator.userAgent is /WebKit/
 isGecko = navigator.userAgent is /\bGecko\/\b/
@@ -91,7 +90,7 @@ function xref-of (id, src-lang=LANG, tgt-lang-only)
       part = words.slice(idx + id.length + 4);
       idx = part.indexOf \"
       part.=slice 0 idx
-      [ x || id for x in part / \, ]
+      [ x || id for x in part / /,+/ ]
     return rv[tgt-lang] if tgt-lang-only
   return rv
 
@@ -463,7 +462,7 @@ window.do-load = ->
     $('iframe').fadeIn \fast
     $('.lang-active').text $(".lang-option.#LANG:first").text!
     setPref \lang LANG
-    for {lang, words} in (React.View.result.props.xrefs || []) | lang is LANG
+    for {lang, words} in (React.View.result?props.xrefs || []) | lang is LANG
       id ||= words.0
     id ||= LRU[LANG]?replace(/[\\\n][\d\D]*/, '')
     id ||= {a: \萌 t: \發穎 h: \發芽 c: \萌 p: \ci'im }[LANG]
@@ -577,9 +576,7 @@ window.do-load = ->
       <- setTimeout _, 125ms
       $tooltip.remove!
 
-    <- React.render React.View.UserPref!, $(\#user-pref).0
-
-    Han($result.0).render-ruby!.subst-comb-liga-with-PUA!
+    <- React.render React.createElement(React.View.UserPref), $(\#user-pref).0
 
     window.scroll-to 0 0
     $h1
@@ -643,15 +640,12 @@ window.do-load = ->
     $('#result a[href]:not(.xref)').tooltip {
       +disabled, tooltipClass: "prefer-pinyin-#{ true /* !!getPref \prefer-pinyin */ }", show: 100ms, hide: 100ms, items: \a,
       open: ->
-        id = $(@).attr \href .replace /^#['!:~]?/, ''
+        id = $(@).attr \href .replace /^(\.\/)?#?['!:~]?/, ''
         if entryHistory.length and entryHistory[*-1] == id
           try $(@).tooltip \close
           return
-        Han $('.ui-tooltip-content')[0]
-        .render-ruby!
-        .subst-comb-liga-with-PUA!
       content: (cb) ->
-        id = $(@).attr \href .replace /^#['!:~;]?/, ''
+        id = $(@).attr \href .replace /^(\.\/)?#?['!:~;]?/, ''
         id = id.toLowerCase! if LANG is \p
         callLater ->
           if htmlCache[LANG][id]
@@ -725,7 +719,7 @@ function render-taxonomy (lang, taxonomy)
   for taxo in (if taxonomy instanceof Array then taxonomy else [taxonomy])
     if typeof taxo is \string
       $ul.append $(\<li/> role: \presentation).append $(
-        \<a/> class: "lang-option #lang" href: "#{ HASH-OF[lang] }=#taxo"
+        \<a/> class: "lang-option #lang" href: "./#{ HASH-OF[lang] }=#taxo"
       ).text(taxo)
     else for label, submenu of taxo
       $ul.append $(\<li/> class: \dropdown-submenu).append(
@@ -777,7 +771,7 @@ function init-autocomplete
       $('iframe').fadeOut \fast
       return cb [] unless term.length
       return trs_lookup(term, cb) unless LANG isnt \t or term is /[^\u0000-\u00FF]/ or term is /[,;0-9]/
-      return pinyin_lookup(term, cb) if LANG is \a and term is /^[a-zA-Z1-4 ]+$/
+      return pinyin_lookup(term, cb) if LANG is \a and term is /^[a-zA-Z1-4 ']+$/
       return han_amis_lookup(term, cb) if LANG is \p and term is /[^\u0000-\u00FF]/
       return cb ["→列出含有「#{term}」的詞"] if LANG isnt \p and width-is-xs! and term isnt /[「」。，?.*_% ]/
       return do-lookup(term) if term is /^[@=]/
@@ -826,7 +820,7 @@ function init-autocomplete
       #return cb ((results.join(',') - /"/g) / ',')
 
 PUA2UNI = {
-  \⿰𧾷百 : \󾜅
+  \⿰𧾷百 : \𬦰
   \⿸疒哥 : \󿗧
   \⿰亻恩 : \󿌇
   \⿰虫念 : \󿑂
@@ -835,13 +829,15 @@ PUA2UNI = {
 trs_lookup = (term,cb) ->
   data <- GET "https://www.moedict.tw/lookup/trs/#{term}"
   data.=replace /[⿰⿸⿺](?:𧾷|.)./g -> PUA2UNI[it]
-  cb( data / '|' )
+  cb( unique(data / '|') )
 
 pinyin_lookup = (query,cb) !->
   res = []
-  terms = query.replace(/^\s+/,"").replace(/\s+$/,"").replace(/\s+/, " ").split(/ /)
+  pinyin_type = localStorage?getItem("pinyin_#{LANG}") || \HanYu
+  query = query.replace(/((?:a(?:ir|n[gr]|[inor])|b(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:ir|n(?:gr|[gr])|[inr])|i(?:a(?:nr|or|[nor])|er|ng|[enr])|or|ur|[aiou])|c(?:a(?:ir|n[gr]|or|[inor])|e(?:ngr?|[nr])|h(?:a(?:ngr?|or|[inor])|e(?:n(?:gr|[gr])|[nr])|ir|o(?:ngr?|u)|u(?:a(?:ir|n(?:gr|[gr])|[inr])|or|[ainor])|[aeiu])|ir|o(?:ngr?|ur|u)|u(?:a(?:nr|[nr])|er|nr|or|[ino])|[aeiu])|d(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:ngr?|[inr])|i(?:a(?:nr|or|[nor])|er|ngr?|ur|[eru])|o(?:ngr?|ur|u)|u(?:a(?:nr|[nr])|er|ir|nr|or|[inor])|[aeiu])|e(?:ng|[nr])|f(?:a(?:n(?:gr|[gr])|[nr])|e(?:n(?:gr|[gr])|[inr])|ou|ur|[aou])|g(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:n(?:gr|[gr])|[inr])|o(?:ngr?|ur|u)|u(?:a(?:ir|n(?:gr|[gr])|[inr])|er|ir|nr|or|[ainor])|[aeu])|h(?:a(?:ir|n[gr]|or|[inor])|e(?:ir|ngr?|[inr])|o(?:ng|ur|u)|u(?:a(?:ir|n(?:gr|[gr])|[inr])|er|ir|nr|or|[ainor])|[aeu])|j(?:i(?:a(?:n[gr]|or|[nor])|er|n(?:gr|[gr])|ong|ur|[aenru])|u(?:a(?:nr|[nr])|er|[enr])|[iu])|k(?:a(?:ir|n[gr]|[inor])|e(?:ngr?|[nr])|o(?:ngr?|ur|u)|u(?:a(?:ir|n[gr]|[inr])|er|nr|[ainor])|[aeu])|l(?:a(?:n(?:gr|[gr])|or|[inor])|e(?:ngr?|[ir])|i(?:a(?:n(?:gr|[gr])|or|[nor])|er|ngr?|ur|[aenru])|o(?:ngr?|ur|u)|u(?:a(?:nr|[nr])|er|nr|or|[enor])|[aeiou])|m(?:a(?:n[gr]|or|[inor])|e(?:ir|n(?:gr|[gr])|[inr])|i(?:a(?:nr|or|[nor])|er|ngr?|[enru])|o[ru]|ur|[aeiou])|n(?:a(?:ngr?|or|[inor])|e(?:ng|[in])|i(?:a(?:n(?:gr|[gr])|or|[nor])|ng|ur|[enu])|o(?:ngr?|u)|u(?:a(?:nr|[nr])|er|[enor])|[aeiu])|ou|p(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:ir|n(?:gr|[gr])|[inr])|i(?:a(?:nr|or|[nor])|er|ng|[aenr])|o[ru]|ur|[aiou])|q(?:i(?:a(?:n(?:gr|[gr])|or|[nor])|er|n(?:gr|[gr])|ongr?|ur|[aenru])|u(?:a(?:nr|[nr])|er|[enr])|[iu])|r(?:a(?:ngr?|[no])|e(?:n[gr]|[nr])|ir|o(?:ng|ur|u)|u(?:a(?:nr|[nr])|[ino])|[eiu])|s(?:a(?:n(?:gr|[gr])|[inor])|e(?:ngr?|[inr])|h(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:n(?:gr|[gr])|[inr])|ir|our?|u(?:a(?:ngr?|[in])|er|ir|nr|or|[ainor])|[aeiu])|ir|o(?:ng|u)|u(?:an|er|ir|[ino])|[aeiu])|t(?:a(?:ir|n(?:gr|[gr])|or|[inor])|e(?:ngr?|r)|i(?:a(?:nr|or|[nor])|er|ngr?|[er])|o(?:ngr?|ur|u)|u(?:a(?:nr|[nr])|er|ir|[inor])|[aeiu])|w(?:a(?:n(?:gr|[gr])|[inr])|e(?:ir|n[gr]|[inr])|or|ur|[aou])|x(?:i(?:a(?:n(?:gr|[gr])|or|[nor])|er|n(?:gr|[gr])|ong|ur|[aenru])|u(?:a(?:nr|[nr])|er|nr|[enr])|[iu])|y(?:a(?:n(?:gr|[gr])|or|[inor])|er|i(?:n(?:gr|[gr])|[nr])|o(?:ng|ur|u)|u(?:a(?:nr|[nr])|er|[enr])|[aeiou])|z(?:a(?:ng|or|[inor])|e(?:ngr?|[inr])|h(?:a(?:n(?:gr|[gr])|or|[inor])|e(?:n(?:gr|[gr])|[inr])|ir|o(?:ngr?|ur|u)|u(?:a(?:n(?:gr|[gr])|[inr])|er|ir|nr|or|[ainor])|[aeiu])|ir|o(?:ngr?|u)|u(?:a(?:nr|[nr])|er|ir|or|[inor])|[aeiu])|[aeoq]))/g, '$1 ') if LANG in <[ a c ]> and pinyin_type is \HanYu
+  terms = query.replace(/^\s+/,"").replace(/\s+$/,"").split(/[\s']+/)
   for term in terms
-    data <- GET "lookup/pinyin/#{term}.json"
+    data <- GET "lookup/pinyin/#{LANG}/#{pinyin_type}/#{term}.json"
     res.push( $.parseJSON(data) )
     if res.length == terms.length
       seen = {}
@@ -881,7 +877,7 @@ han_amis_lookup = (query,cb) !->
   else
     cb(x)
 
-const SIMP-TRAD = window.SIMP-TRAD ? ''
+const SIMP-TRAD = require('./js/simp-trad.js')
 
 function b2g (str='')
   return str.toLowerCase! if LANG is \p
@@ -897,7 +893,7 @@ function can-play-mp3
   a = document.createElement \audio
   CACHED.can-play-mp3 = !!(a.canPlayType?('audio/mpeg;') - /^no$/)
 
-function can-play-ogg
+window.can-play-ogg = function can-play-ogg
   return CACHED.can-play-ogg if CACHED.can-play-ogg?
   a = document.createElement \audio
   CACHED.can-play-ogg = !!(a.canPlayType?('audio/ogg; codecs="vorbis"') - /^no$/)

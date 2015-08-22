@@ -19,40 +19,30 @@
 
 package org.apache.cordova;
 
-import java.io.IOException;
-
-import java.util.Locale;
-
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
-import org.apache.cordova.LOG;
-
-import org.xmlpull.v1.XmlPullParserException;
+import java.util.List;
 
 import android.app.Activity;
-
-import android.content.res.XmlResourceParser;
-import android.graphics.Color;
-
 import android.util.Log;
 
+@Deprecated // Use Whitelist, CordovaPrefences, etc. directly.
 public class Config {
+    private static final String TAG = "Config";
 
-    public static final String TAG = "Config";
+    static ConfigXmlParser parser;
 
-    private Whitelist whitelist = new Whitelist();
-    private String startUrl;
-
-    private static Config self = null;
+    private Config() {
+    }
 
     public static void init(Activity action) {
-        //Just re-initialize this! Seriously, we lose this all the time
-        self = new Config(action);
+        parser = new ConfigXmlParser();
+        parser.parse(action);
+        parser.getPreferences().setPreferencesBundle(action.getIntent().getExtras());
+        parser.getPreferences().copyIntoIntentExtras(action);
     }
 
     // Intended to be used for testing only; creates an empty configuration.
     public static void init() {
+<<<<<<< HEAD
         if (self == null) {
             self = new Config();
         }
@@ -193,9 +183,13 @@ public class Config {
             } catch (IOException e) {
                 e.printStackTrace();
             }
+=======
+        if (parser == null) {
+            parser = new ConfigXmlParser();
+>>>>>>> master
         }
     }
-
+    
     /**
      * Add entry to approved list of URLs (whitelist)
      *
@@ -203,11 +197,15 @@ public class Config {
      * @param subdomains    T=include all subdomains under origin
      */
     public static void addWhiteListEntry(String origin, boolean subdomains) {
+<<<<<<< HEAD
         if (self == null) {
+=======
+        if (parser == null) {
+>>>>>>> master
             Log.e(TAG, "Config was not initialised. Did you forget to Config.init(this)?");
             return;
         }
-        self.whitelist.addWhiteListEntry(origin, subdomains);
+        parser.getInternalWhitelist().addWhiteListEntry(origin, subdomains);
     }
 
     /**
@@ -217,17 +215,59 @@ public class Config {
      * @return true if whitelisted
      */
     public static boolean isUrlWhiteListed(String url) {
+<<<<<<< HEAD
         if (self == null) {
+=======
+        if (parser == null) {
+>>>>>>> master
             Log.e(TAG, "Config was not initialised. Did you forget to Config.init(this)?");
             return false;
         }
-        return self.whitelist.isUrlWhiteListed(url);
+        return parser.getInternalWhitelist().isUrlWhiteListed(url);
+    }
+
+    /**
+     * Determine if URL is in approved list of URLs to launch external applications.
+     *
+     * @param url
+     * @return true if whitelisted
+     */
+    public static boolean isUrlExternallyWhiteListed(String url) {
+        if (parser == null) {
+            Log.e(TAG, "Config was not initialised. Did you forget to Config.init(this)?");
+            return false;
+        }
+        return parser.getExternalWhitelist().isUrlWhiteListed(url);
     }
 
     public static String getStartUrl() {
-        if (self == null || self.startUrl == null) {
+        if (parser == null) {
             return "file:///android_asset/www/index.html";
         }
-        return self.startUrl;
+        return parser.getLaunchUrl();
+    }
+
+    public static String getErrorUrl() {
+        return parser.getPreferences().getString("errorurl", null);
+    }
+
+    public static Whitelist getWhitelist() {
+        return parser.getInternalWhitelist();
+    }
+
+    public static Whitelist getExternalWhitelist() {
+        return parser.getExternalWhitelist();
+    }
+
+    public static List<PluginEntry> getPluginEntries() {
+        return parser.getPluginEntries();
+    }
+    
+    public static CordovaPreferences getPreferences() {
+        return parser.getPreferences();
+    }
+
+    public static boolean isInitialized() {
+        return parser != null;
     }
 }

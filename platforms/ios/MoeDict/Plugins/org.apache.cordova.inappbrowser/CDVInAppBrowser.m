@@ -20,7 +20,10 @@
 #import "CDVInAppBrowser.h"
 #import <Cordova/CDVPluginResult.h>
 #import <Cordova/CDVUserAgentUtil.h>
+<<<<<<< HEAD
 #import <Cordova/CDVJSON.h>
+=======
+>>>>>>> master
 
 #define    kInAppBrowserTargetSelf @"_self"
 #define    kInAppBrowserTargetSystem @"_system"
@@ -265,7 +268,12 @@
     }
 
     if (jsWrapper != nil) {
+<<<<<<< HEAD
         NSString* sourceArrayString = [@[source] JSONString];
+=======
+        NSData* jsonData = [NSJSONSerialization dataWithJSONObject:@[source] options:0 error:nil];
+        NSString* sourceArrayString = [[NSString alloc] initWithData:jsonData encoding:NSUTF8StringEncoding];
+>>>>>>> master
         if (sourceArrayString) {
             NSString* sourceString = [sourceArrayString substringWithRange:NSMakeRange(1, [sourceArrayString length] - 2)];
             NSString* jsToInject = [NSString stringWithFormat:jsWrapper, sourceString];

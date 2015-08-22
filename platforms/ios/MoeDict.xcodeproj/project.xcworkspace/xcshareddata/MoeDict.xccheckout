@@ -7,26 +7,39 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>B2335A5E-2E25-412C-9F3F-BBF1B333EAE1</string>
 	<key>IDESourceControlProjectName</key>
+<<<<<<< HEAD
 	<string>MoeDict</string>
+=======
+	<string>project</string>
+>>>>>>> master
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>6996C0A2B70399BA3B467D6651BF9242BA8BC68C</key>
 		<string>github.com:audreyt/moedict-webkit.git</string>
 		<key>6FA687066E2EE42948714D24E02374C6C91DBD0C</key>
 		<string>github.com:g0v/moedict-app.git</string>
+<<<<<<< HEAD
 		<key>EF73424E-B69E-4BB6-8050-752B07915F03</key>
 		<string>ssh://github.com/audreyt/moedict-webkit.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>platforms/ios/MoeDict.xcodeproj</string>
+=======
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/MoeDict.xcodeproj/project.xcworkspace</string>
+>>>>>>> master
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>6996C0A2B70399BA3B467D6651BF9242BA8BC68C</key>
 		<string>../../../../..</string>
 		<key>6FA687066E2EE42948714D24E02374C6C91DBD0C</key>
 		<string>../../../..</string>
+<<<<<<< HEAD
 		<key>EF73424E-B69E-4BB6-8050-752B07915F03</key>
 		<string>../../../../../moedict-webkit</string>
+=======
+>>>>>>> master
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>github.com:g0v/moedict-app.git</string>
@@ -48,6 +61,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< HEAD
 			<string>6996C0A2B70399BA3B467D6651BF9242BA8BC68C</string>
 			<key>IDESourceControlWCCName</key>
 			<string></string>
@@ -56,10 +70,13 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+=======
+>>>>>>> master
 			<string>6FA687066E2EE42948714D24E02374C6C91DBD0C</string>
 			<key>IDESourceControlWCCName</key>
 			<string>app</string>
 		</dict>
+<<<<<<< HEAD
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
@@ -68,6 +85,8 @@
 			<key>IDESourceControlWCCName</key>
 			<string>moedict-webkit</string>
 		</dict>
+=======
+>>>>>>> master
 	</array>
 </dict>
 </plist>

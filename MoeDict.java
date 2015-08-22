@@ -32,7 +32,12 @@ public class MoeDict extends CordovaActivity
         super.init();
         // Set by <content src="index.html" /> in config.xml
         super.setIntegerProperty("splashscreen", R.drawable.splash);
-        super.loadUrl(Config.getStartUrl(), 2500);
+        if (android.os.Build.VERSION.RELEASE.startsWith("2.")) {
+            super.loadUrl("file:///android_asset/www/index.no-react.html", 2500);
+        }
+        else {
+            super.loadUrl(Config.getStartUrl(), 2500);
+        }
         //super.loadUrl("file:///android_asset/www/index.html")
     }
 

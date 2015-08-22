@@ -1,5 +1,9 @@
 // Platform: ios
+<<<<<<< HEAD
 // 91157c2e1bf3eb098c7e2ab31404e895ccb0df2a
+=======
+// fc4db9145934bd0053161cbf9ffc0caf83b770c6
+>>>>>>> master
 /*
  Licensed to the Apache Software Foundation (ASF) under one
  or more contributor license agreements.  See the NOTICE file
@@ -19,7 +23,11 @@
  under the License.
 */
 ;(function() {
+<<<<<<< HEAD
 var PLATFORM_VERSION_BUILD_LABEL = '3.7.0';
+=======
+var PLATFORM_VERSION_BUILD_LABEL = '3.8.0';
+>>>>>>> master
 // file: src/scripts/require.js
 
 /*jshint -W079 */
@@ -284,10 +292,23 @@ var cordova = {
             if (callback) {
                 if (isSuccess && status == cordova.callbackStatus.OK) {
                     callback.success && callback.success.apply(null, args);
+<<<<<<< HEAD
                 } else {
                     callback.fail && callback.fail.apply(null, args);
                 }
 
+=======
+                } else if (!isSuccess) {
+                    callback.fail && callback.fail.apply(null, args);
+                }
+                /*
+                else
+                    Note, this case is intentionally not caught.
+                    this can happen if isSuccess is true, but callbackStatus is NO_RESULT
+                    which is used to remove a callback from the list without calling the callbacks
+                    typically keepCallback is false in this case
+                */
+>>>>>>> master
                 // Clear callback if not expecting any more results
                 if (!keepCallback) {
                     delete cordova.callbacks[callbackId];
@@ -464,9 +485,20 @@ function each(objects, func, context) {
 
 function clobber(obj, key, value) {
     exports.replaceHookForTesting(obj, key);
+<<<<<<< HEAD
     obj[key] = value;
     // Getters can only be overridden by getters.
     if (obj[key] !== value) {
+=======
+    var needsProperty = false;
+    try {
+        obj[key] = value;
+    } catch (e) {
+        needsProperty = true;
+    }
+    // Getters can only be overridden by getters.
+    if (needsProperty || obj[key] !== value) {
+>>>>>>> master
         utils.defineGetter(obj, key, function() {
             return value;
         });
@@ -581,7 +613,10 @@ var utils = require('cordova/utils'),
  * onDeviceReady*              User event fired to indicate that Cordova is ready
  * onResume                    User event fired to indicate a start/resume lifecycle event
  * onPause                     User event fired to indicate a pause lifecycle event
+<<<<<<< HEAD
  * onDestroy*                  Internal event fired when app is being destroyed (User should use window.onunload event, not this one).
+=======
+>>>>>>> master
  *
  * The events marked with an * are sticky. Once they have fired, they will stay in the fired state.
  * All listeners that subscribe after the event is fired will be executed right away.
@@ -793,9 +828,12 @@ channel.create('onResume');
 // Event to indicate a pause lifecycle event
 channel.create('onPause');
 
+<<<<<<< HEAD
 // Event to indicate a destroy lifecycle event
 channel.createSticky('onDestroy');
 
+=======
+>>>>>>> master
 // Channels that must fire before "deviceready" is fired.
 channel.waitForInitialization('onCordovaReady');
 channel.waitForInitialization('onDOMContentLoaded');
@@ -821,6 +859,7 @@ var cordova = require('cordova'),
     // IFRAME_NAV is the fastest.
     // IFRAME_HASH could be made to enable synchronous bridge calls if we wanted this feature.
     jsToNativeModes = {
+<<<<<<< HEAD
         IFRAME_NAV: 0,
         XHR_NO_PAYLOAD: 1,
         XHR_WITH_PAYLOAD: 2,
@@ -829,6 +868,16 @@ var cordova = require('cordova'),
         // Bundling the payload turns out to be slower. Probably since it has to be URI encoded / decoded.
         IFRAME_HASH_WITH_PAYLOAD: 5,
         WK_WEBVIEW_BINDING: 6
+=======
+        IFRAME_NAV: 0, // Default. Uses a new iframe for each poke.
+        // XHR bridge appears to be flaky sometimes: CB-3900, CB-3359, CB-5457, CB-4970, CB-4998, CB-5134
+        XHR_NO_PAYLOAD: 1, // About the same speed as IFRAME_NAV. Performance not about the same as IFRAME_NAV, but more variable.
+        XHR_WITH_PAYLOAD: 2, // Flakey, and not as performant
+        XHR_OPTIONAL_PAYLOAD: 3, // Flakey, and not as performant
+        IFRAME_HASH_NO_PAYLOAD: 4, // Not fully baked. A bit faster than IFRAME_NAV, but risks jank since poke happens synchronously.
+        IFRAME_HASH_WITH_PAYLOAD: 5, // Slower than no payload. Maybe since it has to be URI encoded / decoded.
+        WK_WEBVIEW_BINDING: 6 // Only way that works for WKWebView :)
+>>>>>>> master
     },
     bridgeMode,
     execIframe,
@@ -838,6 +887,7 @@ var cordova = require('cordova'),
     requestCount = 0,
     vcHeaderValue = null,
     commandQueue = [], // Contains pending JS->Native messages.
+<<<<<<< HEAD
     isInContextOfEvalJs = 0;
 
 function createExecIframe(src, unloadListener) {
@@ -858,6 +908,10 @@ function createHashIframe() {
     ret.contentWindow.history.replaceState(null, null, 'file:///#');
     return ret;
 }
+=======
+    isInContextOfEvalJs = 0,
+    failSafeTimerId = 0;
+>>>>>>> master
 
 function shouldBundleCommandJson() {
     if (bridgeMode === jsToNativeModes.XHR_WITH_PAYLOAD) {
@@ -990,6 +1044,7 @@ function iOSExec() {
         // Also, if there is already a command in the queue, then we've already
         // poked the native side, so there is no reason to do so again.
         if (!isInContextOfEvalJs && commandQueue.length == 1) {
+<<<<<<< HEAD
             switch (bridgeMode) {
             case jsToNativeModes.XHR_NO_PAYLOAD:
             case jsToNativeModes.XHR_WITH_PAYLOAD:
@@ -999,10 +1054,28 @@ function iOSExec() {
             default: // iframe-based.
                 pokeNativeViaIframe();
             }
+=======
+            pokeNative();
+>>>>>>> master
         }
     }
 }
 
+<<<<<<< HEAD
+=======
+function pokeNative() {
+    switch (bridgeMode) {
+    case jsToNativeModes.XHR_NO_PAYLOAD:
+    case jsToNativeModes.XHR_WITH_PAYLOAD:
+    case jsToNativeModes.XHR_OPTIONAL_PAYLOAD:
+        pokeNativeViaXhr();
+        break;
+    default: // iframe-based.
+        pokeNativeViaIframe();
+    }
+}
+
+>>>>>>> master
 function pokeNativeViaXhr() {
     // This prevents sending an XHR when there is already one being sent.
     // This should happen only in rare circumstances (refer to unit tests).
@@ -1026,11 +1099,14 @@ function pokeNativeViaXhr() {
     execXhr.send(null);
 }
 
+<<<<<<< HEAD
 function onIframeUnload() {
     execIframe = null;
     setTimeout(pokeNativeViaIframe, 0);
 }
 
+=======
+>>>>>>> master
 function pokeNativeViaIframe() {
     // CB-5488 - Don't attempt to create iframe before document.body is available.
     if (!document.body) {
@@ -1039,10 +1115,19 @@ function pokeNativeViaIframe() {
     }
     if (bridgeMode === jsToNativeModes.IFRAME_HASH_NO_PAYLOAD || bridgeMode === jsToNativeModes.IFRAME_HASH_WITH_PAYLOAD) {
         // TODO: This bridge mode doesn't properly support being removed from the DOM (CB-7735)
+<<<<<<< HEAD
         execHashIframe = execHashIframe || createHashIframe();
         // Check if they've removed it from the DOM, and put it back if so.
         if (!execHashIframe.contentWindow) {
             execHashIframe = createHashIframe();
+=======
+        if (!execHashIframe) {
+            execHashIframe = document.createElement('iframe');
+            execHashIframe.style.display = 'none';
+            document.body.appendChild(execHashIframe);
+            // Hash changes don't work on about:blank, so switch it to file:///.
+            execHashIframe.contentWindow.history.replaceState(null, null, 'file:///#');
+>>>>>>> master
         }
         // The delegate method is called only when the hash changes, so toggle it back and forth.
         hashToggle = hashToggle ^ 3;
@@ -1054,6 +1139,7 @@ function pokeNativeViaIframe() {
     } else {
         // Check if they've removed it from the DOM, and put it back if so.
         if (execIframe && execIframe.contentWindow) {
+<<<<<<< HEAD
             // Listen for unload, since it can happen (CB-7735) that the iframe gets
             // removed from the DOM before it gets a chance to poke the native side.
             execIframe.contentWindow.onunload = onIframeUnload;
@@ -1061,6 +1147,27 @@ function pokeNativeViaIframe() {
         } else {
             execIframe = createExecIframe('gap://ready', onIframeUnload);
         }
+=======
+            execIframe.contentWindow.location = 'gap://ready';
+        } else {
+            execIframe = document.createElement('iframe');
+            execIframe.style.display = 'none';
+            execIframe.src = 'gap://ready';
+            document.body.appendChild(execIframe);
+        }
+        // Use a timer to protect against iframe being unloaded during the poke (CB-7735).
+        // This makes the bridge ~ 7% slower, but works around the poke getting lost
+        // when the iframe is removed from the DOM.
+        // An onunload listener could be used in the case where the iframe has just been
+        // created, but since unload events fire only once, it doesn't work in the normal
+        // case of iframe reuse (where unload will have already fired due to the attempted
+        // navigation of the page).
+        failSafeTimerId = setTimeout(function() {
+            if (commandQueue.length) {
+                pokeNative();
+            }
+        }, 50); // Making this > 0 improves performance (marginally) in the normal case (where it doesn't fire).
+>>>>>>> master
     }
 }
 
@@ -1071,7 +1178,13 @@ iOSExec.setJsToNativeBridgeMode = function(mode) {
     // can trigger browser bugs.
     // https://issues.apache.org/jira/browse/CB-593
     if (execIframe) {
+<<<<<<< HEAD
         execIframe.parentNode.removeChild(execIframe);
+=======
+        if (execIframe.parentNode) {
+            execIframe.parentNode.removeChild(execIframe);
+        }
+>>>>>>> master
         execIframe = null;
     }
     bridgeMode = mode;
@@ -1079,8 +1192,14 @@ iOSExec.setJsToNativeBridgeMode = function(mode) {
 
 iOSExec.nativeFetchMessages = function() {
     // Stop listing for window detatch once native side confirms poke.
+<<<<<<< HEAD
     if (execIframe && execIframe.contentWindow) {
         execIframe.contentWindow.onunload = null;
+=======
+    if (failSafeTimerId) {
+        clearTimeout(failSafeTimerId);
+        failSafeTimerId = 0;
+>>>>>>> master
     }
     // Each entry in commandQueue is a JSON string already.
     if (!commandQueue.length) {
@@ -1184,7 +1303,11 @@ function replaceNavigator(origNavigator) {
         for (var key in origNavigator) {
             if (typeof origNavigator[key] == 'function') {
                 newNavigator[key] = origNavigator[key].bind(origNavigator);
+<<<<<<< HEAD
             } 
+=======
+            }
+>>>>>>> master
             else {
                 (function(k) {
                     utils.defineGetterSetter(newNavigator,key,function() {
@@ -1312,7 +1435,11 @@ function replaceNavigator(origNavigator) {
         for (var key in origNavigator) {
             if (typeof origNavigator[key] == 'function') {
                 newNavigator[key] = origNavigator[key].bind(origNavigator);
+<<<<<<< HEAD
             } 
+=======
+            }
+>>>>>>> master
             else {
                 (function(k) {
                     utils.defineGetterSetter(newNavigator,key,function() {
@@ -1367,7 +1494,11 @@ platform.bootstrap && platform.bootstrap();
  * Create all cordova objects once native side is ready.
  */
 channel.join(function() {
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> master
     platform.initialize && platform.initialize();
 
     // Fire event to notify that all objects are created

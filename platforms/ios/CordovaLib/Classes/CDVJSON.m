@@ -17,13 +17,18 @@
  under the License.
  */
 
+<<<<<<< HEAD
 #import "CDVJSON.h"
 #import <Foundation/NSJSONSerialization.h>
+=======
+#import "CDVJSON_private.h"
+>>>>>>> master
 
 @implementation NSArray (CDVJSONSerializing)
 
 - (NSString*)JSONString
 {
+<<<<<<< HEAD
     NSError* error = nil;
     NSData* jsonData = [NSJSONSerialization dataWithJSONObject:self
                                                        options:NSJSONWritingPrettyPrinted
@@ -35,6 +40,9 @@
     } else {
         return [[NSString alloc] initWithData:jsonData encoding:NSUTF8StringEncoding];
     }
+=======
+    return [self cdv_JSONString];
+>>>>>>> master
 }
 
 @end
@@ -43,6 +51,7 @@
 
 - (NSString*)JSONString
 {
+<<<<<<< HEAD
     NSError* error = nil;
     NSData* jsonData = [NSJSONSerialization dataWithJSONObject:self
                                                        options:NSJSONWritingPrettyPrinted
@@ -54,6 +63,9 @@
     } else {
         return [[NSString alloc] initWithData:jsonData encoding:NSUTF8StringEncoding];
     }
+=======
+    return [self cdv_JSONString];
+>>>>>>> master
 }
 
 @end
@@ -62,6 +74,7 @@
 
 - (id)JSONObject
 {
+<<<<<<< HEAD
     NSError* error = nil;
     id object = [NSJSONSerialization JSONObjectWithData:[self dataUsingEncoding:NSUTF8StringEncoding]
                                                 options:NSJSONReadingMutableContainers
@@ -72,10 +85,14 @@
     }
 
     return object;
+=======
+    return [self cdv_JSONObject];
+>>>>>>> master
 }
 
 - (id)JSONFragment
 {
+<<<<<<< HEAD
     NSError* error = nil;
     id object = [NSJSONSerialization JSONObjectWithData:[self dataUsingEncoding:NSUTF8StringEncoding]
                                                 options:NSJSONReadingAllowFragments
@@ -86,6 +103,9 @@
     }
 
     return object;
+=======
+    return [self cdv_JSONFragment];
+>>>>>>> master
 }
 
 @end

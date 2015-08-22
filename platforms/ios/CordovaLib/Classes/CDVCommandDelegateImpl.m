@@ -18,7 +18,11 @@
  */
 
 #import "CDVCommandDelegateImpl.h"
+<<<<<<< HEAD
 #import "CDVJSON.h"
+=======
+#import "CDVJSON_private.h"
+>>>>>>> master
 #import "CDVCommandQueue.h"
 #import "CDVPluginResult.h"
 #import "CDVViewController.h"
@@ -31,7 +35,11 @@
     if (self != nil) {
         _viewController = viewController;
         _commandQueue = _viewController.commandQueue;
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> master
         NSError* err = nil;
         _callbackIdPattern = [NSRegularExpression regularExpressionWithPattern:@"[^A-Za-z0-9._-]" options:0 error:&err];
         if (err != nil) {
@@ -104,8 +112,12 @@
 
 - (BOOL)isValidCallbackId:(NSString*)callbackId
 {
+<<<<<<< HEAD
     
     if (callbackId == nil || _callbackIdPattern == nil) {
+=======
+    if ((callbackId == nil) || (_callbackIdPattern == nil)) {
+>>>>>>> master
         return NO;
     }
 
