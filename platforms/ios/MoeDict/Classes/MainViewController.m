@@ -19,11 +19,7 @@
 
 //
 //  MainViewController.h
-<<<<<<< HEAD
-//  HelloCordova
-=======
 //  __PROJECT_NAME__
->>>>>>> master
 //
 //  Created by ___FULLUSERNAME___ on ___DATE___.
 //  Copyright ___ORGANIZATIONNAME___ ___YEAR___. All rights reserved.
