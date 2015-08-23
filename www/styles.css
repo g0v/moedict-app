@@ -7807,6 +7807,8 @@ body.lang-h #query-box {
 body.lang-h #gcse .lang-h-only {
   position: static !important;
   margin-top: 0 !important; }
+body.lang-h #btn-pref {
+  display: none !important; }
 body.lang-h h1 {
   border-bottom: 0;
   margin: .25em 0 .25em; }
@@ -7828,18 +7830,6 @@ body.lang-t .iconic-color {
 body.lang-t #query-box {
   background-color: #FBEFEF; }
 body.lang-t #gcse .lang-t-only {
-  position: static !important;
-  margin-top: 0 !important; }
-
-body.lang-p .nav-bg {
-  background-color: #a00; }
-body.lang-p .iconic-circle {
-  background: #a44; }
-body.lang-p .iconic-color {
-  color: #a44; }
-body.lang-p #query-box {
-  background-color: #FBCCCC; }
-body.lang-p #gcse .lang-p-only {
   position: static !important;
   margin-top: 0 !important; }
 
@@ -8055,7 +8045,8 @@ input.query {
     height: 65px;
     bottom: auto !important;
     padding: 15px;
-    padding-bottom: 3px; } }
+    padding-bottom: 3px;
+    z-index: 10 !important; } }
 
 .ui-widget, .ui-widget button, .ui-widget input, .ui-widget select, .ui-widget textarea {
   font-family: inherit !important; }
@@ -8096,6 +8087,8 @@ body.overflow-scrolling-false .ui-autocomplete {
     max-height: 80% !important; } }
 
 @media only screen and (max-width: 767px) {
+  .icon-book {
+    display: none !important; }
   ul.ui-autocomplete {
     top: 100px !important;
     height: auto !important;
@@ -8245,15 +8238,32 @@ img.back {
 .web-only {
   display: none !important; }
 
+.ios .not-ios {
+  display: none !important; }
+
+.not-ios {
+  display: inline-block !important; }
+
 .web .web-only {
   display: block !important; }
 
 .app #opening {
   display: none !important; }
 
-@media only screen and (max-width: 767px) {
+body.ios > iframe {
+  display: none !important; }
+
+@media only screen and (max-width: 360px) {
   #btn-pref {
     display: none; } }
+
+@media only screen and (max-width: 767px) {
+  #btn-pref {
+    left: 130px !important;
+    right: auto !important;
+    top: 5px !important;
+    display: block;
+    position: absolute; } }
 
 #user-pref label {
   width: 100% !important;
@@ -8871,21 +8881,6 @@ a.stroke-char {
   border-radius: 4px;
   padding: 2px;
   line-height: 1; }
-
-body.lang-p .example {
-  font-size: 100%;
-  display: inline-block;
-  clear: both;
-  width: auto;
-  border: 1px solid #ddd;
-  padding: 3px;
-  background: #eee;
-  margin-right: 10px;
-  margin-bottom: 2px;
-  vertical-align: top; }
-
-body.lang-p .ui-tooltip .example {
-  display: none; }
 
 #timeline iframe {
   height: 100% !important;
