@@ -265,18 +265,6 @@ public class App extends CordovaPlugin {
     public void exitApp() {
         this.webView.postMessage("exit", null);
     }
-    
-
-    /**
-     * Listen for telephony events: RINGING, OFFHOOK and IDLE
-     * Send these events to all plugins using
-     *      CordovaActivity.onMessage("telephone", "ringing" | "offhook" | "idle")
-     */
-    private void initTelephonyReceiver() {
-        IntentFilter intentFilter = new IntentFilter();
-        intentFilter.addAction(TelephonyManager.ACTION_PHONE_STATE_CHANGED);
-        //final CordovaInterface mycordova = this.cordova;
-        this.telephonyReceiver = new BroadcastReceiver() {
 
 
     /**
