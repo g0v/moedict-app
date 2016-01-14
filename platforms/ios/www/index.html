@@ -14,7 +14,7 @@
     <meta name="description" content="共收錄十六萬筆國語、兩萬筆臺語、一萬四千筆客語條目，每個字詞都可以輕按連到說明，並提供 Android 及 iOS 離線 App。來源為教育部「重編國語辭典修訂本」、「臺灣閩南語常用詞辭典」、「臺灣客家語常用詞辭典」，辭典本文的著作權仍為教育部所有。">
   </head>
   <body id="moedict" onhashchange="grokHash()" itemscope itemtype="http://schema.org/ScholarlyArticle" class="main">
-      <script>window.STANDALONE='p';</script><noscript>
+    <noscript>
       <center style="position: absolute; width: 95%">
         <main>
           <dl>
@@ -30,9 +30,19 @@
     <nav role="navigation" class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-header"><a href="./" class="navbar-brand brand ebas">萌典</a></div>
       <ul class="nav navbar-nav">
-        <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="icon-book">&nbsp;</i><span style="margin: 0; padding: 0;" itemprop="articleSection" class="lang-active">阿美語</span><b class="caret"></b></a>
+        <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="icon-book">&nbsp;</i><span style="margin: 0; padding: 0;" itemprop="articleSection" class="lang-active">國語辭典</span><b class="caret"></b></a>
           <ul role="navigation" class="dropdown-menu">
-            <li role="presentation"><a role="menuitem" href="#;" class="lang-option p">阿美語</a></li>
+            <li role="presentation"><a role="menuitem" href="##" class="lang-option a">國語辭典</a></li>
+            <li class="dropdown-submenu"><a href="#" class="a taxonomy">…分類索引</a></li>
+            <li role="presentation"><a href="#@" class="lang-option a a-idiom">…部首表</a></li>
+            <li role="presentation"><a role="menuitem" href="#!" class="lang-option t">臺灣閩南語</a></li>
+            <li class="dropdown-submenu"><a href="#" class="t taxonomy">…分類索引</a></li>
+            <li role="presentation"><a href="#!=諺語" class="lang-option t t-idiom">…諺語</a></li>
+            <li role="presentation"><a role="menuitem" href="#:" class="lang-option h">臺灣客家語</a></li>
+            <li role="presentation"><a href="#:=諺語" class="lang-option h h-idiom">…諺語</a></li>
+            <li role="presentation"><a role="menuitem" href="#~" class="lang-option c">兩岸詞典</a></li>
+            <li role="presentation"><a role="menuitem" href="#;" class="lang-option p">方敏英阿漢</a></li>
+            <li role="presentation"><a role="menuitem" href="#|" class="lang-option m">潘世光阿法</a></li>
           </ul>
         </li>
         <li id="btn-starred"><a title="字詞紀錄簿" href="#=*"><i class="icon-bookmark-empty"></i></a></li>
@@ -53,7 +63,7 @@
         <li style="position: absolute; top: 2px; left: 8em; padding: 3px; margin-left: 30px;" class="resize-btn app-only"><a style="padding-left: 5px; padding-right: 5px" onclick="adjustFontSize(1); return false"><i class="icon-resize-full"></i></a></li>
       </ul>
       <ul class="nav pull-right hidden-xs">
-        <li><a href="about.html" onclick="pressAbout(); return false" title="關於本站"><span class="iconic-circle"><i class="icon-info"></i></span></a></li>
+        <li><a href="about.html" target="_blank" title="關於本站"><span class="iconic-circle"><i class="icon-info"></i></span></a></li>
       </ul>
       <ul class="nav pull-right hidden-xs">
         <li style="display: inline-block" class="web-inline-only"><a href="https://twitter.com/moedict" target="_blank" title="萌典 Twitter" style="color: #ccc"><i class="icon-twitter-sign"></i></a></li>
@@ -129,6 +139,6 @@
     --><a href="#" onclick="pressBack(); return false" class="back-box app-only"><i style="color: #6B0000" class="icon-chevron-left"></i></a><a href="#" onclick="pressErase(); return false" class="erase-box mobile-only"><i style="color: #c0c0c0" title="清除搜尋框" class="icon-remove-sign"></i></a>
     <div id="moe" style="display: none"></div><!--[if gt IE 8]><!-->
     <script src="cordova.js" data-cfasync="true" charset="utf-8"></script>
-    <script src="js/deps.js?4eddc2fa" charset="utf-8"></script><!--<![endif]-->
+    <script src="js/deps.js" charset="utf-8"></script><!--<![endif]-->
   </body>
 </html>

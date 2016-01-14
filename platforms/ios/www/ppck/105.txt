@@ -1,57 +1,55 @@
 {"i":{"h":[{"d":[{"f":"￹￺a grammatical particle indicating place or time past￻地點，過去的時間"}]}],"t":"i"}
 ,"i%27ayaw":{"h":[{"d":[{"f":"￹￺before * past time￻面前，過去，昔日"}]}],"t":"i'ayaw"}
-,"i%27ic":{"h":[{"d":[{"f":"￹￺a white vegetation growing on trees * a kind of mushroom￻寄生於木頭上的香菇、蕈類"}]}],"t":"i'ic"}
-,"icila":{"h":[{"d":[{"l":["`icilaayho~","`cila~"],"f":"￹￺recent past time * the intervening time being marked by lengthened vowel￻昨天，前幾天，近幾天前"}]}],"t":"icila"}
-,"icilaayho":{"h":[{"d":[{"l":["`icila~"],"f":"￹￺recently * not long ago￻不久前，最近地"}]}],"t":"icilaayho"}
-,"icowa":{"h":[{"d":[{"l":["`icowaay~","`icowacowa~","`cowa~"],"f":"￹￺where?￻在哪裏？在哪兒？在何處？"}]}],"t":"icowa"}
-,"icowaay":{"h":[{"d":[{"l":["`icowa~","`cowa~"],"f":"￹￺which one?￻那一個？那一件？那一樁(事)？"}]}],"t":"icowaay"}
-,"icowacowa":{"h":[{"d":[{"f":"￹￺everywhere￻到處"},{"l":["`icowa~"],"f":"￹￺wherever￻任何地方"}]}],"t":"icowacowa"}
-,"idang":{"h":[{"d":[{"l":["`widang~","`idangaw~"],"f":"￹￺friend * someone with whom one is acquainted * a very ordinary relationship for a long period of time * not an in depth relationship * However one's spouse can be referred to as a friend.￻朋友彼此認識、熟悉，長久的普通朋友；不是親密的關係，關係不密切；配偶也以朋友相稱"}]}],"t":"idang"}
-,"idangaw":{"h":[{"d":[{"l":["`idang~"],"f":"￹￺word used to address friend￻朋友啊"}]}],"t":"idangaw"}
-,"idek":{"h":[{"d":[{"e":["￹`tilo~ / `tarakar~ `ni~ `Idek~.￺rainbow￻彩虹"],"f":"￹￺[No English]￻[無中文解釋]"}]}],"t":"idek"}
-,"ifnek":{"h":[{"d":[{"f":"￹￺one who works hard by nature without being told what to do￻努力工作從不間斷，勤勉，勤奮"}]}],"t":"ifnek"}
-,"ihakowa":{"h":[{"d":[{"l":["`ihacowa~"],"f":"￹￺when? (past time)￻何時，甚麼時候 (過去式)"}]}],"t":"ihakowa"}
-,"ihoni":{"h":[{"d":[{"l":["`isoni~"],"f":"￹￺a little bit ago * just a moment ago￻剛才，方才"}]}],"t":"ihoni"}
-,"iikor":{"h":[{"d":[{"f":"￹￺in position of being behind￻在後面，以後，將來"},{"l":["`ikor~"],"e":["￹`o~ `iikoray~￺those who come afterwards￻後面的，後到的，遲到的"],"f":"￹￺afterwards￻後來，以後"}]}],"t":"iikor"}
-,"ikakaay":{"h":[{"d":[{"f":"￹￺superior to￻超越勝過"},{"l":["`kaka~"],"f":"￹￺older than￻較長，較大"}]}],"t":"ikakaay"}
+,"icila":{"h":[{"d":[{"s":["`icilaayho~","`cila~"],"f":"￹￺recent past time * the intervening time being marked by lengthened vowel￻昨天，前幾天，近幾天前"}]}],"t":"icila"}
+,"icilaayho":{"h":[{"d":[{"s":["`icila~"],"f":"￹￺recently * not long ago (also i cilaay ho)￻不久前，最近地 (或寫作 i cilaay ho)"}]}],"t":"icilaayho"}
+,"icowa":{"h":[{"d":[{"s":["`icowaay~","`icowacowa~","`cowa~"],"f":"￹￺where? (also i cowa)￻在哪裏？在哪兒？在何處？ (或寫作 i cowa)"}]}],"t":"icowa"}
+,"icowaay":{"h":[{"d":[{"s":["`icowa~","`cowa~"],"f":"￹￺which one? (also i cowaay)￻那一個？那一件？那一樁(事)？ (或寫作 i cowaay)"}]}],"t":"icowaay"}
+,"icowacowa":{"h":[{"d":[{"f":"￹￺everywhere (also icowacowa)￻到處 (或寫作 i cowacowa)"},{"s":["`icowa~"],"f":"￹￺wherever￻任何地方"}]}],"t":"icowacowa"}
+,"idang":{"h":[{"d":[{"s":["`widang~","`idangaw~"],"f":"￹￺friend * someone with whom one is acquainted * a very ordinary relationship for a long period of time * not an in depth relationship * However one's spouse can be referred to as a friend.￻朋友彼此認識、熟悉，長久的普通朋友；不是親密的關係，關係不密切；配偶也以朋友相稱"}]}],"t":"idang"}
+,"idangaw":{"h":[{"d":[{"s":["`idang~"],"f":"￹￺word used to address friend￻朋友啊"}]}],"t":"idangaw"}
+,"idek":{"h":[{"d":[{"e":["￹`tilo~ / `tarakar~ `~ `Idek~.￺rainbow￻彩虹"],"f":"￹￺[No English]￻[無中文解釋]"}]}],"t":"idek"}
+,"ifenek":{"h":[{"d":[{"f":"￹￺one who works hard by nature without being told what to do￻努力工作從不間斷，勤勉，勤奮"}]}],"t":"ifenek"}
+,"ihakowa":{"h":[{"d":[{"s":["`ihacowa~","`hakowa~"],"f":"￹￺when? (past time) (also i hakowa)￻何時，甚麼時候 (過去式) (或寫作 i hakowa)"}]}],"t":"ihakowa"}
+,"ihoni":{"h":[{"d":[{"s":["`isoni~","`honi~"],"f":"￹￺a little bit ago * just a moment ago￻剛才，方才"}]}],"t":"ihoni"}
+,"iikor":{"h":[{"d":[{"f":"￹￺in position of being behind￻在後面，以後，將來"},{"s":["`ikor~"],"e":["￹`o~ `i~ `ikor~`ay~￺those who come afterwards￻後面的，後到的，遲到的"],"f":"￹￺afterwards￻後來，以後"}]}],"t":"iikor"}
+,"ikakaay":{"h":[{"d":[{"f":"￹￺superior to (also i kakaay)￻超越勝過 (或寫作 i kakaay)"},{"s":["`kaka~"],"f":"￹￺older than￻較長，較大"}]}],"t":"ikakaay"}
 ,"iki":{"h":[{"d":[{"f":"￹￺an exclamation marker expressing a reaction to something either good or bad￻感嘆詞，對看來無法勝任，但却達成某種程度的讚嘆詞"}]}],"t":"iki"}
-,"ikor":{"h":[{"d":[{"l":["`naikoran~","`naniaykor~","`talarikor~","`iikor~"],"f":"￹￺after * behind￻之後，以後"}]}],"t":"ikor"}
-,"ilang":{"h":[{"d":[{"l":["`tailangan~"],"f":"￹￺to mill out rice by grinding￻推磨稻穀成粗米，再磨成粉"}]}],"t":"ilang"}
-,"ilisin":{"h":[{"d":[{"l":["`likoda~","`lisin~"],"f":"￹￺harvest festival￻豐收祭典，豐年之節慶"}]}],"t":"ilisin"}
+,"ikor":{"h":[{"d":[{"s":["`naikoran~","`naniaikor~","`talarikor~","`iikor~"],"f":"￹￺after * behind￻之後，以後"}]}],"t":"ikor"}
+,"ilang":{"h":[{"d":[{"s":["`tailangan~"],"f":"￹￺to mill out rice by grinding￻推磨稻穀成粗米，再磨成粉"}]}],"t":"ilang"}
+,"ilisin":{"h":[{"d":[{"s":["`likoda~","`lisin~"],"f":"￹￺harvest festival￻豐收祭典，豐年之節慶"}]}],"t":"ilisin"}
 ,"iloh":{"h":[{"d":[{"f":"￹￺to set on fire￻焚燒，點燃(大火)，燒毀"}]}],"t":"iloh"}
-,"imah":{"h":[{"d":[{"l":["`kaimahan~"],"f":"￹￺to want * desire which is normal and natural￻喜歡，羨慕，渴慕，熱切希望"}]}],"t":"imah"}
-,"imatini":{"h":[{"d":[{"l":["`hatini~","`iromatini~"],"f":"￹￺right now￻現在，此刻"}]}],"t":"imatini"}
-,"imeng":{"h":[{"d":[{"l":["`tayring~"],"e":["￹`Imengen~ `cingra~.￺Guard / keep him in prison.￻監禁，守衛"],"f":"￹￺policeman (from Amoy dialect)￻警察，派出所，衙門 (引自閩南語)"}]}],"t":"imeng"}
-,"imowa":{"h":[{"d":[{"l":["`mowa~"],"f":"￹￺fiber from a plant for making rope (from Amoy dialect)￻可用來製繩子的，大麻，假黃麻 (引自閩南語)"}]}],"t":"imowa"}
+,"imah":{"h":[{"d":[{"s":["`kaimahan~"],"f":"￹￺to want * desire which is normal and natural￻喜歡，羨慕，渴慕，熱切希望"}]}],"t":"imah"}
+,"imatini":{"h":[{"d":[{"s":["`hatini~","`iromatini~","`matini~"],"f":"￹￺right now (also i matini)￻現在，此刻 (或寫作 i matini)"}]}],"t":"imatini"}
+,"imeng":{"h":[{"d":[{"s":["`tayring~"],"e":["￹`Imengen~ `cingra~.￺Guard / keep him in prison.￻監禁，守衛"],"f":"￹￺policeman (from Amoy dialect)￻警察，派出所，衙門 (引自閩南語)"}]}],"t":"imeng"}
+,"imowa":{"h":[{"d":[{"s":["`mowa~"],"f":"￹￺fiber from a plant for making rope (from Amoy dialect)￻可用來製繩子的，大麻，假黃麻 (引自閩南語)"}]}],"t":"imowa"}
 ,"impi":{"h":[{"d":[{"f":"￹￺shovel (from Amoy dialect)￻圓鍬 (引自閩南語)"}]}],"t":"impi"}
-,"ina":{"h":[{"d":[{"l":["`wina~","`haliina~","`malininaay~","`maloina~","`misawina~","`tawinaan~"],"e":["￹`Panokayen~ `cingra~ `ciinaan~ `iso~.￺Send him home to your mother.￻送他到您母親家"],"f":"￹￺mother￻母親"}]}],"t":"ina"}
-,"inacila":{"h":[{"d":[{"f":"￹￺recent past time * yesterday * with lengthened vowel (inaci:la) may point back several days￻不久前，昨天，前些日子"}]}],"t":"inacila"}
-,"inafaran":{"h":[{"d":[{"l":["`Inafaran~"],"f":"￹￺the name of an Amis village￻臺東縣嘉豐村稻葉部落名"}]}],"t":"inafaran"}
+,"ina":{"h":[{"d":[{"s":["`wina~","`haliina~","`malininaay~","`maloina~","`misawina~","`tawinaan~"],"e":["￹`Pa~`nokay~`en~ `cingra~ `ci~`ina~`an~ `iso~.￺Send him home to your mother.￻送他到您母親家"],"f":"￹￺mother￻母親"}]}],"t":"ina"}
+,"inacila":{"h":[{"d":[{"s":["`nacila~"],"f":"￹￺recent past time * yesterday * with lengthened vowel (inaci:la) may point back several days￻不久前，昨天，前些日子 (或寫作 i nacila)"}]}],"t":"inacila"}
+,"inafaran":{"h":[{"d":[{"s":["`Inafaran~"],"f":"￹￺the name of an Amis village￻臺東縣嘉豐村稻葉部落名"}]}],"t":"inafaran"}
 ,"inaneng":{"h":[{"d":[{"f":"￹￺to work hard * be diligent￻很認真，很勤勞，勤勉，勝任，適任"}]}],"t":"inaneng"}
 ,"inapil":{"h":[{"d":[{"f":"￹￺the sash worn by men in native costume￻古代男性腰帶"}]}],"t":"inapil"}
 ,"incay":{"h":[{"d":[{"f":"￹￺spinach (from Amoy dialect)￻空心菜 (引自閩南語)"}]}],"t":"incay"}
 ,"ingid":{"h":[{"d":[{"e":["￹`o~ `iingiday~ `nira~￺the one along side of him￻他旁邊的，他的鄰居，他的鄰座"],"f":"￹￺next to * along side of * near￻旁邊、接近、靠近"}]}],"t":"ingid"}
-,"ingki":{"h":[{"d":[{"f":"￹￺ink (from Japanese and English)￻墨汁 (引自日文及英文)"}]}],"t":"ingki"}
+,"ingki":{"h":[{"d":[{"f":"￹￺ink (from Japanized English)￻墨汁 (引自日文化的英文)"}]}],"t":"ingki"}
 ,"ingpic":{"h":[{"d":[{"f":"￹￺pencil (from Japanese)￻鉛筆 (引自日語)"}]}],"t":"ingpic"}
 ,"ini":{"h":[{"d":[{"f":"￹￺here * near at hand * referring to something or someone nearby￻這兒，此地；指某東西，只靠近某人的東西"}]}],"t":"ini"}
-,"ining":{"h":[{"d":[{"l":["`Ining~"],"f":"￹￺name of an Amis village￻台東市康樂部落名"}]}],"t":"ining"}
-,"ino%27":{"h":[{"d":[{"l":["`ngingoy~","`liloc~","`paino'~","`mapaino'~"],"f":"￹￺to bathe￻沐浴，洗澡"}]}],"t":"ino'"}
-,"ira":{"h":[{"d":[{"l":["`sakaira~"],"e":["￹`ira~ `sato~￺to be at this point￻到了以後，屆時"],"f":"￹￺there is * existing￻存在"},{"l":["`aira~"],"f":"￹￺to be present￻出現"},{"l":["`misairaira~"],"f":"￹￺to have￻有"}]}],"t":"ira"}
-,"iray":{"h":[{"d":[{"f":"￹￺ornamental￻裝飾"},{"l":["`'res~","`mairay~"],"f":"￹￺to boast, show off￻誇示，炫耀"}]}],"t":"iray"}
-,"iro":{"h":[{"d":[{"e":["￹`Nisamaanan~ `iro~ `tomangic~ `cingra~?￺What brought on his crying?￻他為何哭？"],"f":"￹￺a connective with some of the force of \"why\"￻為何的連接語"}]}],"t":"iro"}
-,"iromatini":{"h":[{"d":[{"l":["`imatini~"],"f":"￹￺Refer to `imatini~￻詳見 `imatini~"}]}],"t":"iromatini"}
+,"ining":{"h":[{"d":[{"s":["`Ining~"],"f":"￹￺name of an Amis village￻台東市康樂部落名"}]}],"t":"ining"}
+,"ino%27":{"h":[{"d":[{"s":["`ngingoy~","`liloc~","`paino'~","`mapaino'~"],"f":"￹￺to bathe￻沐浴，洗澡"}]}],"t":"ino'"}
+,"ira":{"h":[{"d":[{"s":["`sakaira~"],"e":["￹`ira~ `sato~￺to be at this point￻到了以後，屆時"],"f":"￹￺there is * existing￻存在"},{"s":["`aira~"],"f":"￹￺to be present￻出現"},{"s":["`misairaira~"],"f":"￹￺to have￻有"}]}],"t":"ira"}
+,"iro":{"h":[{"d":[{"e":["￹`samaanan~ `iro~ `tomangic~ `cingra~?￺What brought on his crying?￻他為何哭？"],"f":"￹￺a connective with some of the force of \"why\"￻為何的連接語"}]}],"t":"iro"}
+,"iromatini":{"h":[{"d":[{"s":["`imatini~"],"f":"￹￺Refer to `imatini~￻詳見 `imatini~"}]}],"t":"iromatini"}
 ,"isaw":{"h":[{"d":[{"f":"￹￺to not feel like eating in the morning￻沒有胃口(尤指早餐)"}]}],"t":"isaw"}
 ,"isi%27":{"h":[{"d":[{"f":"￹￺urine * to urinate￻尿"}]}],"t":"isi'"}
-,"ising":{"h":[{"d":[{"l":["`paising~","`paisingan~"],"f":"￹￺doctor * medical personnel including nurses (from Amoy dialect)￻醫生，醫師 (引自閩南語)"}]}],"t":"ising"}
+,"ising":{"h":[{"d":[{"s":["`paising~","`paisingan~"],"f":"￹￺doctor * medical personnel including nurses (from Amoy dialect)￻醫生，醫師 (引自閩南語)"}]}],"t":"ising"}
 ,"iso":{"h":[{"d":[{"f":"￹￺you * your (singular) * a pronoun￻你(的)(單數)；代名詞"}]}],"t":"iso"}
 ,"ita":{"h":[{"d":[{"f":"￹￺us * we * including both the speaker and hearer * a pronoun￻我們(包括說者與聽者)；代名詞"}]}],"t":"ita"}
-,"itini":{"h":[{"d":[{"l":["`itinien~","`hakitinien~"],"f":"￹￺here * place pronoun￻這裡，這兒；地方代名詞"}]}],"t":"itini"}
-,"itinien":{"h":[{"d":[{"l":["`itini~"],"e":["￹`Itinienho~.￺Put it here for awhile.￻暫時擱在這兒"],"f":"￹￺put (it) here.￻放在這裡，置於此地"}]}],"t":"itinien"}
-,"itira":{"h":[{"d":[{"l":["`mikitira~","`pakitiraen~","`itiraaw~","`hakitira~"],"e":["￹`Itiraen~.￺Put (it) there.￻置於那裏"],"f":"￹￺there * place pronoun￻在那兒；地方代名詞"}]}],"t":"itira"}
-,"itiraaw":{"h":[{"d":[{"l":["`itira~"],"f":"￹￺refers to a position away from the speaker * the distance being indicated by the length of the vowel.￻指示這與說話者離一段距離，其確實距離是依據母音的長度而定。"}]}],"t":"itiraaw"}
-,"itiya":{"h":[{"d":[{"l":["`itiyaho~","`itiyato~"],"e":["￹`o~ `itiyaayho~ `a~ `tamdaw~￺the people of a former time￻早期的人，古代的人, 以前的人","￹`nanitiya~ `aca~￺from then on (not just recently)￻從以前就…，當時就⋯"],"f":"￹￺then * at that point in time￻當時，那時，彼時"}]}],"t":"itiya"}
-,"itiyaho":{"h":[{"d":[{"l":["`itiya~"],"f":"￹￺a long time ago￻從前"}]}],"t":"itiyaho"}
-,"itiyato":{"h":[{"d":[{"l":["`itiya~"],"f":"￹￺at that point (a change comes)￻就在那時(變化，改變，變遷，臨到)"}]}],"t":"itiyato"}
-,"iwatan":{"h":[{"d":[{"l":["`Iwatan~","`Manowan~"],"f":"￹￺Bunin tribe￻排灣族"}]}],"t":"iwatan"}
-,"iyo":{"h":[{"d":[{"f":"￹￺an exclamation meaning disgust to draw attention to the hearer￻驚嘆的意義"}]}],"t":"iyo"}
+,"itini":{"h":[{"d":[{"s":["`itinien~","`hakitinien~"],"f":"￹￺here * place pronoun (also i tini)￻這裡，這兒；地方代名詞 (或寫作 i tini)"}]}],"t":"itini"}
+,"itinien":{"h":[{"d":[{"s":["`itini~"],"e":["￹`Itinienho~.￺Put it here for awhile.￻暫時擱在這兒"],"f":"￹￺put (it) here. (also i tinien)￻放在這裡，置於此地 (或寫作 i tinien)"}]}],"t":"itinien"}
+,"itira":{"h":[{"d":[{"s":["`mikitira~","`pakitiraen~","`itiraaw~","`hakitira~"],"e":["￹`I~ `tiraen~.￺Put (it) there.￻置於那裏"],"f":"￹￺there * place pronoun (also i tira)￻在那兒；地方代名詞 (或寫作 i tira)"}]}],"t":"itira"}
+,"itiraaw":{"h":[{"d":[{"s":["`itira~"],"f":"￹￺refers to a position away from the speaker * the distance being indicated by the length of the vowel. (also i tiraaw)￻指示這與說話者離一段距離，其確實距離是依據母音的長度而定。(或寫作 i tiraaw)"}]}],"t":"itiraaw"}
+,"itiya":{"h":[{"d":[{"s":["`itiyaho~","`itiyato~"],"e":["￹`o~ `i~ `tiyaay~ `ho~ `a~ `tamdaw~￺the people of a former time￻早期的人，古代的人, 以前的人","￹`tiya~ `aca~￺from then on (not just recently)￻從以前就…，當時就⋯"],"f":"￹￺then * at that point in time (also i tiya)￻當時，那時，彼時 (或寫作 i tiya)"}]}],"t":"itiya"}
+,"itiyaho":{"h":[{"d":[{"s":["`itiya~"],"f":"￹￺a long time ago (also i tiya ho)￻從前 (或寫作 i tiya ho)"}]}],"t":"itiyaho"}
+,"itiyato":{"h":[{"d":[{"s":["`itiya~"],"f":"￹￺at that point (a change comes) (also i tiya to)￻就在那時(變化，改變，變遷，臨到) (或寫作 i tiya to)"}]}],"t":"itiyato"}
+,"iwatan":{"h":[{"d":[{"s":["`Iwatan~","`Manowan~"],"f":"￹￺Bunin tribe￻排灣族"}]}],"t":"iwatan"}
+,"iyo":{"h":[{"d":[{"f":"￹￺an exclamation meaning disgust to draw attention to the hearer￻驚嘆的意義"},{"e":["￹`iyo~ `no~ `fitoka~￺medicine for stomach￻胃藥(引自閩南語)"],"f":"￹￺medicine￻藥"}]}],"t":"iyo"}
 }

@@ -1,526 +1,522 @@
 {"pa%27aca":{"h":[{"d":[{"f":"￹￺sell￻售、賣、付款、銷售"}]}],"t":"pa'aca"}
 ,"pa%27ading":{"h":[{"d":[{"f":"￹￺defend￻保護、掩護"}]}],"t":"pa'ading"}
-,"pa%27anifong":{"h":[{"d":[{"l":["`Pa'anifong~"],"f":"￹￺name of an Amis village￻台東興昌，阿美族部落"}]}],"t":"pa'anifong"}
+,"pa%27anifong":{"h":[{"d":[{"s":["`'anifong~"],"f":"￹￺name of an Amis village￻台東興昌，阿美族部落"}]}],"t":"pa'anifong"}
 ,"pa%27aw%27aw":{"h":[{"d":[{"f":"￹￺to give money to a witch doctor￻巫醫的酬金"}]}],"t":"pa'aw'aw"}
 ,"pa%27ayaw":{"h":[{"d":[{"f":"￹￺concern for * take interest in and help￻替別人做…，幫助別人…"}]}],"t":"pa'ayaw"}
-,"pa%27cas":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `pa'casan~ `no~ `faloco'~ `ako~.￺I feel there is no way to resolve (this situation). / i.e. no open door.￻我的心實在無法下定決心"],"f":"￹￺with negative * meaning to seek a temporary solution￻用以否定語句意指尋找暫時的決定"}]}],"t":"pa'cas"}
-,"pa%27daw":{"h":[{"d":[{"f":"￹￺to call a fortune teller￻請人問卜，請人算命"}]}],"t":"pa'daw"}
-,"pa%27deng":{"h":[{"d":[{"f":"￹￺to do only so much * not overdo * including the idea of being content with what you have￻僅做範圍內或限制內的工作或責任"}]}],"t":"pa'deng"}
-,"pa%27el":{"h":[{"d":[{"e":["￹`Mapa'el~ `no~ `folad~ `cingra~.￺He was moonstruck￻他被月亮著迷"],"f":"￹￺to influence the feelings of￻影響對某事的感覺"},{"e":["￹`Mapa'el~ `no~ `sapayo~ `cingra~ `saka~ `mafoti'to~ `cingra~.￺He was anesthetized so he went to sleep.￻他被藥麻醉，所以他一直在睡著"],"f":"￹￺to make feel sleepy￻令人感覺昏昏欲睡"}]}],"t":"pa'el"}
-,"pa%27ilasen":{"h":[{"d":[{"l":["`Pa'ilasen~"],"f":"￹￺the name of an Amis village￻花蓮縣瑞穗鄉富源部落名"}]}],"t":"pa'ilasen"}
-,"pa%27inal":{"h":[{"d":[{"l":["`'inal~"],"f":"￹￺to show but not give * to cause to desire￻眩耀，使別人羨慕"}]}],"t":"pa'inal"}
-,"pa%27isal":{"h":[{"d":[{"l":["`'isal~"],"f":"￹￺to portion out to￻分給，分出"}]}],"t":"pa'isal"}
-,"pa%27kel":{"h":[{"d":[{"f":"￹￺literally to put down or hold so that something doesn't move or blow away￻字面上指壓住或握住東西,使其不能動彈或被風吹走"},{"e":["￹`Mapa'kel~ `noya~ `tamdaw~ `kako~.￺I am controlled by that person.￻我被那個人控制得毫無自由"],"f":"￹￺figuratively to control and restrain freedom￻比喻用於控制和限制自由"}]}],"t":"pa'kel"}
-,"pa%27nan":{"h":[{"d":[{"f":"￹￺the floor of a room￻地板"},{"l":["`paenan~"],"f":"￹￺the entrance way into a building (North Amis)￻建築物的大門 (北方阿美語)"}]}],"t":"pa'nan"}
-,"pa%27no":{"h":[{"d":[{"f":"￹￺the seed inside of a fruit￻核子，種子"},{"f":"￹￺the egg from an ovary￻卵巢"},{"f":"￹￺sperm￻精液"},{"f":"￹￺clitoris￻陰蒂，核"},{"f":"￹￺Adam's apple￻喉結"}]}],"t":"pa'no"}
-,"pa%27nor":{"h":[{"d":[{"l":["`'nor~"],"f":"￹￺to cast anchor￻拋錨"}]}],"t":"pa'nor"}
-,"pa%27olic":{"h":[{"d":[{"l":["`'olic~"],"f":"￹￺to chant to someone or about someone￻為某人吟唱"}]}],"t":"pa'olic"}
+,"pa%27edaw":{"h":[{"d":[{"f":"￹￺to call a fortune teller￻請人問卜，請人算命"}]}],"t":"pa'edaw"}
+,"pa%27eno":{"h":[{"d":[{"f":"￹￺the seed inside of a fruit￻核子，種子"},{"f":"￹￺the egg from an ovary￻卵巢"},{"f":"￹￺sperm￻精液"},{"f":"￹￺clitoris￻陰蒂，核"},{"f":"￹￺Adam's apple￻喉結"}]}],"t":"pa'eno"}
+,"pa%27enor":{"h":[{"d":[{"s":["`'enor~"],"f":"￹￺to cast anchor￻拋錨"}]}],"t":"pa'enor"}
+,"pa%27ilasen":{"h":[{"d":[{"s":["`'ilasen~"],"f":"￹￺the name of an Amis village￻花蓮縣瑞穗鄉富源部落名"}]}],"t":"pa'ilasen"}
+,"pa%27inal":{"h":[{"d":[{"s":["`'inal~"],"f":"￹￺to show but not give * to cause to desire￻眩耀，使別人羨慕"}]}],"t":"pa'inal"}
+,"pa%27isal":{"h":[{"d":[{"s":["`'isal~"],"f":"￹￺to portion out to￻分給，分出"}]}],"t":"pa'isal"}
+,"pa%27kel":{"h":[{"d":[{"f":"￹￺literally to put down or hold so that something doesn't move or blow away￻字面上指壓住或握住東西,使其不能動彈或被風吹走"},{"e":["￹`Ma~`pa'kel~ `noya~ `tamdaw~ `kako~.￺I am controlled by that person.￻我被那個人控制得毫無自由"],"f":"￹￺figuratively to control and restrain freedom￻比喻用於控制和限制自由"}]}],"t":"pa'kel"}
+,"pa%27olic":{"h":[{"d":[{"s":["`'olic~"],"f":"￹￺to chant to someone or about someone￻為某人吟唱"}]}],"t":"pa'olic"}
 ,"pa%27oripay":{"h":[{"d":[{"f":"￹￺provider￻賜生命者"},{"f":"￹￺rescuer * deliverer * saviour￻拯救者"}]}],"t":"pa'oripay"}
-,"pa%27pa":{"h":[{"d":[{"f":"￹￺to clap hands￻鼓掌，拍手"},{"l":["`pi'pi~","`pakpak~"],"f":"￹￺to hit onthe shoulder as a friendly gesture￻拍別人的肩膀表示友愛的態度"}]}],"t":"pa'pa"}
 ,"pa%27pa%27":{"h":[{"d":[{"f":"￹￺to chew * the action of jaws and teeth in chewing￻咀嚼，顎部與牙齒的動作"},{"f":"￹￺a dipper for measuring rice￻量米的杓子"},{"f":"￹￺a gourd used as a water container￻用來當作裝水的葫蘆"}]}],"t":"pa'pa'"}
-,"pa%27tang":{"h":[{"d":[{"f":"￹￺a bucket￻水桶"},{"f":"￹￺made from wood and of various types￻各式各樣木製的水桶"}]}],"t":"pa'tang"}
+,"pa%5Epa":{"h":[{"d":[{"f":"￹￺to clap hands￻鼓掌，拍手"},{"s":["`~^`~","`pakpak~"],"f":"￹￺to hit onthe shoulder as a friendly gesture￻拍別人的肩膀表示友愛的態度"}]}],"t":"pa^pa"}
 ,"paadada":{"h":[{"d":[{"f":"￹￺to make (someone) sick￻使人生病"}]}],"t":"paadada"}
-,"paca%27dong":{"h":[{"d":[{"f":"￹￺to provide clothing or covering￻給予，穿上或蓋上"},{"f":"￹￺to drop yoke on the neck of (an ox)￻將軛套上牛頸"},{"l":["`ca'dong~"],"f":"￹￺to put an ornament on someone￻將裝飾品給某人帶上"}]}],"t":"paca'dong"}
-,"paca%27lay":{"h":[{"d":[{"f":"￹￺to drape over the shoulder￻披戴在肩上"}]}],"t":"paca'lay"}
-,"paca%27of":{"h":[{"d":[{"l":["`ca'of~"],"f":"￹￺to give an answer￻給一回答"}]}],"t":"paca'of"}
-,"pacafay":{"h":[{"d":[{"l":["`cafay~"],"f":"￹￺to be a companion * to go with￻陪伴，陪同"}]}],"t":"pacafay"}
-,"pacahfak":{"h":[{"d":[{"f":"￹￺to spread out something to lay on as a cloth or coat￻攤開衣物披掛在某物上擊打"},{"f":"￹￺to spread out for a cover￻攤開東西以覆蓋"},{"f":"￹￺to take someone through an area that has no path￻帶人橫闖沒有路的地方"}]}],"t":"pacahfak"}
-,"pacahfay":{"h":[{"d":[{"l":["`cahfay~"],"f":"￹￺to drape￻披開"}]}],"t":"pacahfay"}
+,"paca%27edong":{"h":[{"d":[{"f":"￹￺to provide clothing or covering￻給予，穿上或蓋上"},{"f":"￹￺to drop yoke on the neck of (an ox)￻將軛套上牛頸"},{"s":["`ca'edong~"],"f":"￹￺to put an ornament on someone￻將裝飾品給某人帶上"}]}],"t":"paca'edong"}
+,"paca%27elay":{"h":[{"d":[{"f":"￹￺to drape over the shoulder￻披戴在肩上"}]}],"t":"paca'elay"}
+,"paca%27of":{"h":[{"d":[{"s":["`ca'of~"],"f":"￹￺to give an answer￻給一回答"}]}],"t":"paca'of"}
+,"pacafay":{"h":[{"d":[{"s":["`cafay~"],"f":"￹￺to be a companion * to go with￻陪伴，陪同"}]}],"t":"pacafay"}
+,"pacahefak":{"h":[{"d":[{"f":"￹￺to spread out something to lay on as a cloth or coat￻攤開衣物披掛在某物上擊打"},{"f":"￹￺to spread out for a cover￻攤開東西以覆蓋"},{"f":"￹￺to take someone through an area that has no path￻帶人橫闖沒有路的地方"}]}],"t":"pacahefak"}
+,"pacahefay":{"h":[{"d":[{"s":["`cahefay~"],"f":"￹￺to drape￻披開"}]}],"t":"pacahefay"}
 ,"pacakat":{"h":[{"d":[{"f":"￹￺to elevate￻提昇"},{"f":"￹￺to give a higher position￻賜以高官(高位)給予升官"},{"f":"￹￺to offer up￻供祭"}]}],"t":"pacakat"}
-,"pacakay":{"h":[{"d":[{"l":["`cakay~","`paliwal~"],"f":"￹￺to sell￻出賣，出售，銷售"}]}],"t":"pacakay"}
-,"pacako":{"h":[{"d":[{"l":["`paca'of~"],"f":"￹￺to answer * reply￻回答，答覆"}]}],"t":"pacako"}
-,"pacalay":{"h":[{"d":[{"f":"￹￺to stretch out rope and attach to something￻拉線， 裝線 (為某種需要與目的)"},{"l":["`calay~"],"f":"￹￺to harness a water buffalo￻牛具 (農具) 的背負帶或拉繩"}]}],"t":"pacalay"}
-,"pacaliw":{"h":[{"d":[{"l":["`caliw~"],"f":"￹￺loan￻貸借，貸出，借給"}]}],"t":"pacaliw"}
-,"pacamol":{"h":[{"d":[{"l":["`camol~"],"f":"￹￺to add something to￻把…加諸於，…混合"}]}],"t":"pacamol"}
-,"pacangaw":{"h":[{"d":[{"l":["`cangaw~"],"f":"￹￺to put a necklace on someone￻給予某人戴上項鍊"}]}],"t":"pacangaw"}
-,"pacanglal":{"h":[{"d":[{"l":["`canglal~"],"f":"￹￺to heat leftover food￻蒸熟殘飯或食物"}]}],"t":"pacanglal"}
-,"pacarcar":{"h":[{"d":[{"e":["￹`Pacarcarho~ `ko~ `harateng~ `ako~ `anini~.￺I am in a state of flux in my thinking.￻我臨時思潮汹湧"],"f":"￹￺to be in a temporary state￻居於暫時狀態中"},{"e":["￹`O~ `mipacarcaray~ `kako~ `a~ `maro'~ `itini~.￺I am staying here temporarily.￻我暫時在這裡逗留"],"f":"￹￺with regard to staying￻暫時逗留"},{"e":["￹`Pacarcarho~ `kako~ `a~ `mafoti'~.￺I am going to sleep a few minutes.￻我暫時睡一下(一會兒)"],"f":"￹￺sleeping￻躺臥休息"},{"f":"￹￺thinking￻思想"}]}],"t":"pacarcar"}
-,"pacek":{"h":[{"d":[{"l":["`mipacek~","`kapacekan~"],"f":"￹￺a nail * nails￻鐵釘，釘子"}]}],"t":"pacek"}
-,"pacfa":{"h":[{"d":[{"f":"￹￺to make up a story￻隨便亂講"},{"f":"￹￺to do something incorrectly getting another into trouble￻說假話"},{"l":["`patras~"],"e":["￹`Aka~ `pacfa~ `to~ `sowal~.￺Don't talk off the top of your head / make up a story.￻不要隨便說話","￹`Pacfa~ `ko~ `dmak~ `nira~.￺He did the thing altogether incorrectly leaving trouble behind him.￻胡作非為"],"f":"￹￺to not tell the truth￻做不正當的事情，使別人遇到困難"}]}],"t":"pacfa"}
-,"paci%27ci":{"h":[{"d":[{"e":["￹`Aka~ `paci'cien~ `ko~ `faloco'~ `ako~.￺Don't force me (my heart).￻不要勉強我的心意","￹`Paci'ci~ `sa~ `cingra~ `a~ `tayra~.￺He went against reason.￻他硬著要去"],"f":"￹￺to force * insist on doing though not suitable or reasonable￻勉強堅持去做不適當或沒理性的事"}]}],"t":"paci'ci"}
-,"paci%27em":{"h":[{"d":[{"l":["`ci'em~"],"f":"￹￺to point with chin￻用下巴指出"}]}],"t":"paci'em"}
-,"paci%27eng":{"h":[{"d":[{"l":["`kaci'eng~"],"f":"￹￺cheek * part of the face￻面頰"}]}],"t":"paci'eng"}
-,"pacidal":{"h":[{"d":[{"l":["`cidal~"],"f":"￹￺to put out in the sun￻曝晒"}]}],"t":"pacidal"}
-,"pacilah":{"h":[{"d":[{"l":["`cilah~"],"f":"￹￺to salt or add salt￻放鹽"}]}],"t":"pacilah"}
+,"pacakay":{"h":[{"d":[{"s":["`cakay~","`pa~`liwal~"],"f":"￹￺to sell￻出賣，出售，銷售"}]}],"t":"pacakay"}
+,"pacako":{"h":[{"d":[{"s":["`paca'of~"],"f":"￹￺to answer * reply￻回答，答覆"}]}],"t":"pacako"}
+,"pacalay":{"h":[{"d":[{"f":"￹￺to stretch out rope and attach to something￻拉線， 裝線 (為某種需要與目的)"},{"s":["`calay~"],"f":"￹￺to harness a water buffalo￻牛具 (農具) 的背負帶或拉繩"}]}],"t":"pacalay"}
+,"pacaliw":{"h":[{"d":[{"s":["`caliw~"],"f":"￹￺loan￻貸借，貸出，借給"}]}],"t":"pacaliw"}
+,"pacamol":{"h":[{"d":[{"s":["`camol~"],"f":"￹￺to add something to￻把…加諸於，…混合"}]}],"t":"pacamol"}
+,"pacangaw":{"h":[{"d":[{"s":["`cangaw~"],"f":"￹￺to put a necklace on someone￻給予某人戴上項鍊"}]}],"t":"pacangaw"}
+,"pacanglal":{"h":[{"d":[{"s":["`canglal~"],"f":"￹￺to heat leftover food￻蒸熟殘飯或食物"}]}],"t":"pacanglal"}
+,"pacarcar":{"h":[{"d":[{"e":["￹`Pa~`carcar~`ho~ `ko~ `harateng~ `ako~ `anini~.￺I am in a state of flux in my thinking.￻我臨時思潮汹湧"],"f":"￹￺to be in a temporary state￻居於暫時狀態中"},{"e":["￹`O~ `mi~`pacarcar~`ay~ `kako~ `a~ `maro'~ `itini~.￺I am staying here temporarily.￻我暫時在這裡逗留"],"f":"￹￺with regard to staying￻暫時逗留"},{"e":["￹`Pa~`carcar~`ho~ `kako~ `a~ `ma~`foti'~.￺I am going to sleep a few minutes.￻我暫時睡一下(一會兒)"],"f":"￹￺sleeping￻躺臥休息"},{"f":"￹￺thinking￻思想"}]}],"t":"pacarcar"}
+,"pacefa":{"h":[{"d":[{"f":"￹￺to make up a story￻隨便亂講"},{"f":"￹￺to do something incorrectly getting another into trouble￻說假話"},{"s":["`tras~"],"e":["￹`Aka~ `pacefa~ `to~ `sowal~.￺Don't talk off the top of your head / make up a story.￻不要隨便說話","￹`cefa~ `ko~ `demak~ `nira~.￺He did the thing altogether incorrectly leaving trouble behind him.￻胡作非為"],"f":"￹￺to not tell the truth￻做不正當的事情，使別人遇到困難"}]}],"t":"pacefa"}
+,"pacek":{"h":[{"d":[{"s":["`mipacek~","`kapacekan~"],"f":"￹￺a nail * nails￻鐵釘，釘子"}]}],"t":"pacek"}
+,"pacekil":{"h":[{"d":[{"e":["￹`Ma~`pacekil~ `no~ `'afang~ `nira~ `koya~ `cikawasay~.￺The medium was visited upon by his spiritual power (spirit).￻魔靈附在某人身上"],"f":"￹￺to come upon in visitation￻來訪"},{"e":["￹`Ma~`pacekil~ `no~ `Fangcalay~ `'Adingo~ `ko~ `mi~`tilid~`ay~ `to~ `Fangcalay~ `a~ `Codad~.￺The writers of the Bible were inspired by the Holy Spirit.￻聖經的著者被聖靈所默示"],"f":"￹￺to move upon * inspire￻鼓舞，激勵，感動"}]}],"t":"pacekil"}
+,"pacekis":{"h":[{"d":[{"f":"￹￺tusks of an animal￻動物的尖牙，獠牙"},{"f":"￹￺the claw above the foot on a chicken￻公雞的腳爪"},{"s":["`ra'it~"],"e":["￹`pacekis~ `no~ `wadis~￺eye teeth￻門牙，犬齒，獠牙"],"f":"￹￺eye teeth￻犬齒"}]}],"t":"pacekis"}
+,"pacekok":{"h":[{"d":[{"f":"￹￺to cause someone to be taken totally unawares￻嚇人，在別人毫無警戒的狀態下突然作出令人驚嚇的舉動"}]}],"t":"pacekok"}
+,"pacena%27":{"h":[{"d":[{"s":["`cena'~"],"f":"￹￺to take a short break￻歇一會兒"}]}],"t":"pacena'"}
+,"paceno%27":{"h":[{"d":[{"s":["`ceno'~"],"f":"￹￺to dip or immerse something in liquid￻把東西弄濕或浸入水中"}]}],"t":"paceno'"}
+,"pacepo%27an":{"h":[{"d":[{"s":["`cepo'~"],"f":"￹￺a frame on which is attached a fish dam * a place where fish gather to be caught in traps￻捕漁時之漁網竹架，漁網竹架放置在河流之最下游，使被捕之魚滙集在一起"}]}],"t":"pacepo'an"}
+,"pacerem":{"h":[{"d":[{"s":["`ma~`ratar~"],"f":"￹￺early * referring to morning only￻很早，起得早"}]}],"t":"pacerem"}
+,"paci%27em":{"h":[{"d":[{"s":["`ci'em~"],"f":"￹￺to point with chin￻用下巴指出"}]}],"t":"paci'em"}
+,"paci%27eng":{"h":[{"d":[{"s":["`ci'eng~"],"f":"￹￺cheek * part of the face￻面頰"}]}],"t":"paci'eng"}
+,"paci%5Eci":{"h":[{"d":[{"e":["￹`Aka~ `ci~^`en~ `ko~ `faloco'~ `ako~.￺Don't force me (my heart).￻不要勉強我的心意","￹`ci~^`~ `~ `cingra~ `a~ `tayra~.￺He went against reason.￻他硬著要去"],"f":"￹￺to force * insist on doing though not suitable or reasonable￻勉強堅持去做不適當或沒理性的事"}]}],"t":"paci^ci"}
+,"pacidal":{"h":[{"d":[{"s":["`cidal~"],"f":"￹￺to put out in the sun￻曝晒"}]}],"t":"pacidal"}
+,"pacilah":{"h":[{"d":[{"s":["`cilah~"],"f":"￹￺to salt or add salt￻放鹽"}]}],"t":"pacilah"}
 ,"pacilit":{"h":[{"d":[{"f":"￹￺a species of birds including the Pied Wagtail and Gray Wagtail￻白[春鳥]鴿，灰[春鳥]鴿"}]}],"t":"pacilit"}
-,"pacing":{"h":[{"d":[{"l":["`pacingko~"],"f":"￹￺a rubber slingshot or sword gun for shooting fish (from Japanese)￻魚槍，彈弓 (引自日語)"}]}],"t":"pacing"}
-,"pacingko":{"h":[{"d":[{"l":["`pacing~"],"f":"￹￺a rubber sling or sword gun for shooting fish￻彈弓，魚槍"}]}],"t":"pacingko"}
-,"packil":{"h":[{"d":[{"e":["￹`Mapackil~ `no~ `'afang~ `nira~ `koya~ `cikawasay~.￺The medium was visited upon by his spiritual power (spirit).￻魔靈附在某人身上"],"f":"￹￺to come upon in visitation￻來訪"},{"e":["￹`Mapackil~ `no~ `Fangcalay~ `'~ `Adingo~ `ko~ `mitiliday~ `to~ `Fangcalay~ `a~ `Codad~.￺The writers of the Bible were inspired by the Holy Spirit.￻聖經的著者被聖靈所默示"],"f":"￹￺to move upon * inspire￻鼓舞，激勵，感動"}]}],"t":"packil"}
-,"packis":{"h":[{"d":[{"f":"￹￺tusks of an animal￻動物的尖牙，獠牙"},{"f":"￹￺the claw above the foot on a chicken￻公雞的腳爪"},{"l":["`ra'it~"],"e":["￹`packis~ `no~ `wadis~￺eye teeth￻門牙，犬齒，獠牙"],"f":"￹￺eye teeth￻犬齒"}]}],"t":"packis"}
-,"packok":{"h":[{"d":[{"f":"￹￺to cause someone to be taken totally unawares￻嚇人，在別人毫無警戒的狀態下突然作出令人驚嚇的舉動"}]}],"t":"packok"}
-,"pacna%27":{"h":[{"d":[{"l":["`cna'~"],"f":"￹￺to take a short break￻歇一會兒"}]}],"t":"pacna'"}
-,"pacno%27":{"h":[{"d":[{"l":["`cno'~"],"f":"￹￺to dip or immerse something in liquid￻把東西弄濕或浸入水中"}]}],"t":"pacno'"}
-,"paco%27nek":{"h":[{"d":[{"l":["`co'nek~"],"f":"￹￺to put inside￻插入，插枝"}]}],"t":"paco'nek"}
-,"pacofay":{"h":[{"d":[{"f":"￹￺to return something￻歸還東西"},{"f":"￹￺pacofay to sowal￻to give an answer"},{"l":["`cofay~"]}]}],"t":"pacofay"}
+,"pacing":{"h":[{"d":[{"s":["`pacingko~"],"f":"￹￺a rubber slingshot or sword gun for shooting fish (from Japanese)￻魚槍，彈弓 (引自日語)"}]}],"t":"pacing"}
+,"pacingko":{"h":[{"d":[{"s":["`pacing~"],"f":"￹￺a rubber sling or sword gun for shooting fish￻彈弓，魚槍"}]}],"t":"pacingko"}
+,"pacoenek":{"h":[{"d":[{"s":["`coenek~"],"f":"￹￺to put inside￻插入，插枝"}]}],"t":"pacoenek"}
+,"pacofay":{"h":[{"d":[{"s":["`cofay~"],"e":["￹`pacofay~ `to~ `sowal~￺to give an answer￻回答某人的話，答腔"],"f":"￹￺to return something￻歸還東西"}]}],"t":"pacofay"}
 ,"pacofcof":{"h":[{"d":[{"f":"￹￺to force a person to drink wine or eat something￻硬灌，硬塞 (酒類或食物)"}]}],"t":"pacofcof"}
 ,"pacok":{"h":[{"d":[{"f":"￹￺to slaughter * to kill with a knife or sword￻用刀或劍宰殺，刺殺"}]}],"t":"pacok"}
-,"pacokap":{"h":[{"d":[{"l":["`cokap~"],"f":"￹￺to put shoes on someone￻給某人穿鞋"}]}],"t":"pacokap"}
-,"pacoli":{"h":[{"d":[{"l":["`coli~"],"f":"￹￺to oppose * rebel￻抵抗，頂撞，回嘴"}]}],"t":"pacoli"}
-,"pacoracor":{"h":[{"d":[{"l":["`paoror~"],"f":"￹￺Refer to `paoror~￻詳見 `paoror~"}]}],"t":"pacoracor"}
-,"pacpac":{"h":[{"d":[{"f":"￹￺to beat hard * to thresh out￻用力鞭打, 打穀"},{"l":["`papeng~"],"f":"￹￺to hit with twigs￻用細枝擊打"}]}],"t":"pacpac"}
-,"pacpo%27an":{"h":[{"d":[{"l":["`cpo'~"],"f":"￹￺a frame on which is attached a fish dam * a place where fish gather to be caught in traps￻捕漁時之漁網竹架，漁網竹架放置在河流之最下游，使被捕之魚滙集在一起"}]}],"t":"pacpo'an"}
-,"pacrem":{"h":[{"d":[{"l":["`maratar~"],"f":"￹￺early * referring to morning only￻很早，起得早"}]}],"t":"pacrem"}
+,"pacokap":{"h":[{"d":[{"s":["`cokap~"],"f":"￹￺to put shoes on someone￻給某人穿鞋"}]}],"t":"pacokap"}
+,"pacoli":{"h":[{"d":[{"s":["`coli~"],"f":"￹￺to oppose * rebel￻抵抗，頂撞，回嘴"}]}],"t":"pacoli"}
+,"pacoracor":{"h":[{"d":[{"s":["`paoror~"],"f":"￹￺Refer to `paoror~￻詳見 `paoror~"}]}],"t":"pacoracor"}
+,"pacpac":{"h":[{"d":[{"f":"￹￺to beat hard * to thresh out￻用力鞭打, 打穀"},{"s":["`papeng~"],"f":"￹￺to hit with twigs￻用細枝擊打"}]}],"t":"pacpac"}
 ,"pada%27ciay":{"h":[{"d":[{"f":"￹￺a plant called Elatostema edule Rob.￻闊葉樓梯草"}]}],"t":"pada'ciay"}
-,"padadoki":{"h":[{"d":[{"l":["`padadoki~"],"f":"￹￺bat * a mammal￻蝙蝠"}]}],"t":"padadoki"}
-,"padafongan":{"h":[{"d":[{"l":["`dafong~"],"f":"￹￺treasure chest * closet￻寶箱(匣)，金庫"}]}],"t":"padafongan"}
-,"padahaw":{"h":[{"d":[{"f":"￹￺upper part of the leg￻陰部雙邊的大腹部分"}]}],"t":"padahaw"}
+,"padadoki":{"h":[{"d":[{"s":["`padadoki~"],"f":"￹￺bat * a mammal￻蝙蝠"}]}],"t":"padadoki"}
+,"padafongan":{"h":[{"d":[{"s":["`dafong~"],"f":"￹￺treasure chest * closet￻寶箱(匣)，金庫"}]}],"t":"padafongan"}
+,"padahaw":{"h":[{"d":[{"f":"￹￺upper part of the leg￻陰部雙邊的大腿部分"}]}],"t":"padahaw"}
 ,"padahof":{"h":[{"d":[{"f":"￹￺to give or send a present without expecting return￻援助金，贊助金"}]}],"t":"padahof"}
-,"padaka":{"h":[{"d":[{"e":["￹`Tayni~ `ko~ `Padaka~ `i~ `Taiwang~ `a~ `mipatnak~.￺Foreigners came to Taiwan to spread the gospel.￻外國人到台灣傳道"],"f":"￹￺a white foreigner * a foreign country￻外國人，外國"},{"l":["`Padaka~","`Amilika~"],"f":"￹￺an American * America￻美國人"},{"l":["`'ariray~"],"f":"￹￺corn￻玉米"}]}],"t":"padaka"}
+,"padaka":{"h":[{"d":[{"e":["￹`Tayni~ `ko~ `padaka~ `i~ `Taywan~ `a~ `pa~`tenak~.￺Foreigners came to Taiwan to spread the gospel.￻外國人到台灣傳道"],"f":"￹￺a white foreigner * a foreign country￻外國人，外國"},{"s":["`daka~","`Amilika~"],"f":"￹￺an American * America￻美國人"},{"s":["`'ariray~"],"f":"￹￺corn￻玉米"}]}],"t":"padaka"}
 ,"padal":{"h":[{"d":[{"f":"￹￺walls of a building￻牆壁"}]}],"t":"padal"}
-,"padang":{"h":[{"d":[{"e":["￹`o~ `mipadangay~￺a helper * assistant in a task￻幫忙的人，某種任務上的助手或助理","￹`Ira~ `haw~ `ko~ `papadangen~ `ako~?￺Is there anything I can do to help?￻有我需要幫忙的嗎？","￹`Mamaan~ `mapapadang~ `kita~ `to~ `tayal~.￺How about us helping each other with the work?￻我們可否相互幫忙？","￹`Mapapadapadang~ `kita~ `a~ `mickroh~.￺Let's all help push.￻讓我們用心協力來推"],"f":"￹￺to help * assist￻幫忙"}]}],"t":"padang"}
-,"padangan":{"h":[{"d":[{"l":["`kakonoyan~"],"f":"￹￺a reed back pack￻藤製的背籃"}]}],"t":"padangan"}
-,"padawdawan":{"h":[{"d":[{"l":["`dawdaw~"],"f":"￹￺lamp stand￻燭台，燈台"}]}],"t":"padawdawan"}
-,"padek":{"h":[{"d":[{"l":["`misapadek~"],"f":"￹￺a step-child or step-parent￻前夫妻之子女或繼父母"}]}],"t":"padek"}
-,"padeng":{"h":[{"d":[{"e":["￹`Padengen~ `ko~ `namal~.￺Put the fire out.￻把火熄滅"],"f":"￹￺to put out * literally to extinguish a fire￻熄滅"},{"f":"￹￺to turn off￻關燈"},{"f":"￹￺to neagate (words)￻打消別人的話"}]}],"t":"padeng"}
-,"pades":{"h":[{"d":[{"e":["￹`Cipadesay~ `kako~.￺I am having trials.￻我有苦難，我有很多挫折","￹`Mapades~ `kako~.￺I am (in a state) of trouble.￻我很痛苦","￹`kapadesan~ `a~ `romi'ad~￺time of trouble￻受難期間或日子","￹`O~ `mipadesay~ `kiso~ `takowanan~.￺You are causing me to go through trial.￻你帶給我麻煩"],"f":"￹￺trials * a wide generic word covering trouble * suffering * difficulties in the world of the spirit as well as physical￻涵蓋精神和肉體上的痛苦，苦難與困難"}]}],"t":"pades"}
+,"padang":{"h":[{"d":[{"e":["￹`o~ `mi~`padang~`ay~￺a helper * assistant in a task￻幫忙的人，某種任務上的助手或助理","￹`Ira~ `haw~ `ko~ `pa~`padang~`en~ `ako~?￺Is there anything I can do to help?￻有我需要幫忙的嗎？","￹`Ma~`maan~ `ma~`pa~`padang~ `kita~ `to~ `tayal~.￺How about us helping each other with the work?￻我們可否相互幫忙？","￹`Ma~`papada~`padang~ `kita~ `a~ `mi~`cokeroh~.￺Let's all help push.￻讓我們用心協力來推"],"f":"￹￺to help * assist￻幫忙"}]}],"t":"padang"}
+,"padawdawan":{"h":[{"d":[{"s":["`dawdaw~"],"f":"￹￺lamp stand￻燭台，燈台"}]}],"t":"padawdawan"}
+,"padek":{"h":[{"d":[{"s":["`misapadek~"],"f":"￹￺a step-child or step-parent￻前夫妻之子女或繼父母"}]}],"t":"padek"}
+,"padeng":{"h":[{"d":[{"e":["￹`dengen~ `ko~ `namal~.￺Put the fire out.￻把火熄滅"],"f":"￹￺to put out * literally to extinguish a fire￻熄滅"},{"f":"￹￺to turn off￻關燈"},{"f":"￹￺to neagate (words)￻打消別人的話"}]}],"t":"padeng"}
+,"pades":{"h":[{"d":[{"e":["￹`Ci~`pades~`ay~ `kako~.￺I am having trials.￻我有苦難，我有很多挫折","￹`Ma~`pades~ `kako~.￺I am (in a state) of trouble.￻我很痛苦","￹`ka~`pades~`an~ `a~ `romi'ad~￺time of trouble￻受難期間或日子","￹`O~ `mi~`pades~`ay~ `kiso~ `i~ `takowanan~.￺You are causing me to go through trial.￻你帶給我麻煩"],"f":"￹￺trials * a wide generic word covering trouble * suffering * difficulties in the world of the spirit as well as physical￻涵蓋精神和肉體上的痛苦，苦難與困難"}]}],"t":"pades"}
+,"padeteng":{"h":[{"d":[{"e":["￹`deteng~ `~ `cingra~ `a~ `mi~`takaw~.￺He deliberately stole.￻他專程有意地偷取東西","￹`deteng~ `~ `ko~ `was~ `a~ `mi~`ocor~ `~ `Yis~ `Kristoan~.￺God deliberately sent Jesus Christ.￻上帝專蓄意差遣耶穌基督"],"f":"￹￺to deliberately do something when it may seem unreason-able * with positive or negative connotations￻專程，故意，有意的舉動看起來似乎毫無理由，蘊含肯定或否定的涵意"}]}],"t":"padeteng"}
 ,"padiwawa":{"h":[{"d":[{"f":"￹￺a funnel-shaped container used in fishing￻漏斗形的木製品用來捕捉魚的"}]}],"t":"padiwawa"}
 ,"padiyac":{"h":[{"d":[{"f":"￹￺a type of soil that is rocky￻峭壁"}]}],"t":"padiyac"}
 ,"padiyaw":{"h":[{"d":[{"f":"￹￺a square tin can￻四方形鐵罐"}]}],"t":"padiyaw"}
-,"padoka%27":{"h":[{"d":[{"l":["`doka'~"],"f":"￹￺to wound￻打傷"}]}],"t":"padoka'"}
+,"padoka%27":{"h":[{"d":[{"s":["`doka'~"],"f":"￹￺to wound￻打傷"}]}],"t":"padoka'"}
 ,"padongipong":{"h":[{"d":[{"f":"￹￺a large bush * Common Melastoma and White-flower Melastoma￻野牡丹 (山石榴) 白花野牡丹"}]}],"t":"padongipong"}
 ,"padopil":{"h":[{"d":[{"f":"￹￺to make stick to * as to cause to cling to skin or paper etc.￻黏貼，如黏貼東西在皮膚上或紙張上"}]}],"t":"padopil"}
-,"padteng":{"h":[{"d":[{"e":["￹`Padteng~ `sa~ `cingra~ `a~ `mitakaw~.￺He deliberately stole.￻他專程有意地偷取東西","￹`Padteng~ `sa~ `ko~ `Kawas~ `a~ `miocor~ `ci~ `Yis~ `Kristoan~.￺God deliberately sent Jesus Christ.￻上帝專蓄意差遣耶穌基督"],"f":"￹￺to deliberately do something when it may seem unreason-able * with positive or negative connotations￻專程，故意，有意的舉動看起來似乎毫無理由，蘊含肯定或否定的涵意"}]}],"t":"padteng"}
+,"paecas":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `ecasan~ `no~ `faloco'~ `ako~.￺I feel there is no way to resolve (this situation). / i.e. no open door.￻我的心實在無法下定決心"],"f":"￹￺with negative * meaning to seek a temporary solution￻用以否定語句意指尋找暫時的決定"}]}],"t":"paecas"}
+,"paedangan":{"h":[{"d":[{"s":["`ka~`konoy~`an~"],"f":"￹￺a reed back pack￻藤製的背籃"}]}],"t":"paedangan"}
+,"paedeng":{"h":[{"d":[{"f":"￹￺to do only so much * not overdo * including the idea of being content with what you have￻僅做範圍內或限制內的工作或責任"}]}],"t":"paedeng"}
+,"pael":{"h":[{"d":[{"e":["￹`Ma~`pael~ `no~ `folad~ `cingra~.￺He was moonstruck￻他被月亮著迷"],"f":"￹￺to influence the feelings of￻影響對某事的感覺"},{"e":["￹`Ma~`pael~ `no~ `sapaiyo~ `cingra~ `saka~ `ma~`foti'~`to~ `cingra~.￺He was anesthetized so he went to sleep.￻他被藥麻醉，所以他一直在睡著"],"f":"￹￺to make feel sleepy￻令人感覺昏昏欲睡"}]}],"t":"pael"}
 ,"paen":{"h":[{"d":[{"f":"￹￺an edible wild vegetation * bitter￻可看之野生植物有苦味"}]}],"t":"paen"}
-,"pafaloco%27an":{"h":[{"d":[{"l":["`faloco'~"],"f":"￹￺hope * thing that brings hope￻希望"}]}],"t":"pafaloco'an"}
-,"pafantangan":{"h":[{"d":[{"l":["`kafarawfawan~"],"f":"￹￺Refer to `kafarawfawan~￻詳見 `kafarawfawan~"}]}],"t":"pafantangan"}
-,"pafatis":{"h":[{"d":[{"l":["`fatis~"],"f":"￹￺to share meat caught￻分享獵得的肉或山珍海味給別人"}]}],"t":"pafatis"}
-,"pafitingen":{"h":[{"d":[{"l":["`fiting~"],"f":"￹￺put earrings in / on someone￻讓某人掛耳環"}]}],"t":"pafitingen"}
-,"pafli":{"h":[{"d":[{"e":["￹`Paflien~ `kami~ `to~ `riko'~.￺Give me some clothes.￻請分衣服給我們","￹`o~ `pafliay~￺the ones who give￻施捨者，贈予者，給予的人","￹`O~ `sapafli~ `nira~ `konini~.￺This is his gift.￻這是他的贈品","￹`Papipaflien~ `nira~ `kako~ `to~ `riko'~.￺Make him give me some clothes.￻託他人把衣服拿給我","￹`O~ `halipafliay~ `cingra~.￺He is a generous giver.￻他是很慷慨的人"],"f":"￹￺to give￻給予，贈給"}]}],"t":"pafli"}
-,"pafotoan":{"h":[{"d":[{"l":["`foto~"],"f":"￹￺place for attaching twine￻纏繞附屬物的地方"}]}],"t":"pafotoan"}
-,"pafsoc":{"h":[{"d":[{"e":["￹`Pafsoc~ `ko~ `rakat~ `nira~.￺He went straight ahead / did not stop along the way.￻他直接去了，不作任何停留"],"f":"￹￺straight ahead * directly ahead * without distraction￻直接，直達，直直走"},{"l":["`fsoc~"],"f":"￹￺to go straight ahead without making turns￻直直走"}]}],"t":"pafsoc"}
-,"pahafay":{"h":[{"d":[{"l":["`hafay~"],"f":"￹￺to provide food for￻贍養別人，為…提供食物，為…事奉"}]}],"t":"pahafay"}
-,"pahala":{"h":[{"d":[{"l":["`patada~"],"e":["￹`Pahalaen~ `ko~ `para'~ `iso~ `ta~ `sti'en~ `ako~ `kiso~.￺Get your bottom ready for a spanking.￻預備好，我要打你的屁股"],"f":"￹￺to direct hands or whatever to receive￻擋住，頂住"}]}],"t":"pahala"}
+,"paenan":{"h":[{"d":[{"f":"￹￺the floor of a room￻地板"},{"f":"￹￺the entrance way into a building (North Amis)￻建築物的大門 (北方阿美語)"}]}],"t":"paenan"}
+,"paetang":{"h":[{"d":[{"f":"￹￺a bucket￻水桶"},{"f":"￹￺made from wood and of various types￻各式各樣木製的水桶"}]}],"t":"paetang"}
+,"pafaloco%27an":{"h":[{"d":[{"s":["`faloco'~"],"f":"￹￺hope * thing that brings hope￻希望"}]}],"t":"pafaloco'an"}
+,"pafantangan":{"h":[{"d":[{"s":["`kafarawfawan~"],"f":"￹￺Refer to `kafarawfawan~￻詳見 `kafarawfawan~"}]}],"t":"pafantangan"}
+,"pafatis":{"h":[{"d":[{"s":["`fatis~"],"f":"￹￺to share meat caught￻分享獵得的肉或山珍海味給別人"}]}],"t":"pafatis"}
+,"pafelacan":{"h":[{"d":[{"s":["`felac~"],"f":"￹￺a basket for rice that has been milled￻貯放米的籃筐"}]}],"t":"pafelacan"}
+,"pafeli":{"h":[{"d":[{"e":["￹`felien~ `kami~ `to~ `riko'~.￺Give me some clothes.￻請分衣服給我們","￹`o~ `feliay~￺the ones who give￻施捨者，贈予者，給予的人","￹`O~ `feli~ `nira~ `konini~.￺This is his gift.￻這是他的贈品","￹`Pa~`pafeli~`en~ `nira~ `kako~ `to~ `riko'~.￺Make him give me some clothes.￻託他人把衣服拿給我","￹`O~ `hali~`pafeli~`ay~ `cingra~.￺He is a generous giver.￻他是很慷慨的人"],"f":"￹￺to give￻給予，贈給"}]}],"t":"pafeli"}
+,"pafesoc":{"h":[{"d":[{"e":["￹`Pa~`fesoc~ `ko~ `rakat~ `nira~.￺He went straight ahead / did not stop along the way.￻他直接去了，不作任何停留"],"f":"￹￺straight ahead * directly ahead * without distraction￻直接，直達，直直走"},{"s":["`fesoc~"],"f":"￹￺to go straight ahead without making turns￻直直走"}]}],"t":"pafesoc"}
+,"pafitingen":{"h":[{"d":[{"s":["`fiting~"],"f":"￹￺put earrings in / on someone￻讓某人掛耳環"}]}],"t":"pafitingen"}
+,"pafotoan":{"h":[{"d":[{"s":["`foto~"],"f":"￹￺place for attaching twine￻纏繞附屬物的地方"}]}],"t":"pafotoan"}
+,"pahafay":{"h":[{"d":[{"s":["`hafay~"],"f":"￹￺to provide food for￻贍養別人，為…提供食物，為…事奉"}]}],"t":"pahafay"}
+,"pahala":{"h":[{"d":[{"s":["`patada~"],"e":["￹`Pa~`hala~`en~ `ko~ `para'~ `iso~ `ta~ `seti'~`en~ `ako~ `kiso~.￺Get your bottom ready for a spanking.￻預備好，我要打你的屁股"],"f":"￹￺to direct hands or whatever to receive￻擋住，頂住"}]}],"t":"pahala"}
 ,"pahapinang":{"h":[{"d":[{"f":"￹￺to make clear * confirm￻弄清楚，肯定，確定，證實"},{"f":"￹￺to decide￻決定"}]}],"t":"pahapinang"}
 ,"paharawan":{"h":[{"d":[{"f":"￹￺a bird * migrates through Taiwan in the fall￻紫嘯鶇，在台灣暫時停留棲息而後再繼續飛行"}]}],"t":"paharawan"}
 ,"pahater":{"h":[{"d":[{"f":"￹￺to not respond negatively * to let a person do something mean without getting even￻放任，任憑"}]}],"t":"pahater"}
-,"pahcek":{"h":[{"d":[{"l":["`hcek~"],"f":"￹￺put stakes of wood in the ground as when staking claims￻立柱，立樁"}]}],"t":"pahcek"}
-,"pahcep":{"h":[{"d":[{"l":["`hcep~"],"f":"￹￺to use something to soak up liquid￻用某東西吸飲液體"}]}],"t":"pahcep"}
-,"pahcraan":{"h":[{"d":[{"l":["`hcra~"],"f":"￹￺place one comes to settle down and stay * referring to a town or village￻落腳之地，定居之地，指城市或鄉村"}]}],"t":"pahcraan"}
+,"pahecek":{"h":[{"d":[{"s":["`hecek~"],"f":"￹￺put stakes of wood in the ground as when staking claims￻立柱，立樁"}]}],"t":"pahecek"}
+,"pahecep":{"h":[{"d":[{"s":["`hecep~","`hicep~"],"f":"￹￺to use something to soak up liquid￻用某東西吸飲液體"}]}],"t":"pahecep"}
+,"pahemek":{"h":[{"d":[{"s":["`hemek~"],"f":"￹￺to praise * cause to be admired * to honor￻讚美，讚揚"}]}],"t":"pahemek"}
 ,"paheng":{"h":[{"d":[{"f":"￹￺to have head feel aching and confused*ears ring￻有頭暈的感覺 (耳鳴)"}]}],"t":"paheng"}
+,"pahiceraan":{"h":[{"d":[{"s":["`hicera~"],"f":"￹￺place one comes to settle down and stay * referring to a town or village￻落腳之地，定居之地，指城市或鄉村"}]}],"t":"pahiceraan"}
 ,"pahko":{"h":[{"d":[{"e":["￹`pahko~ `no~ `lotok~￺wild fern *Taiwan China Fern￻山上的過貓菜"],"f":"￹￺a type of fern that is edible￻過貓菜，蕨類植物"}]}],"t":"pahko"}
-,"pahmek":{"h":[{"d":[{"l":["`hmek~"],"f":"￹￺to praise * cause to be admired * to honor￻讚美，讚揚"}]}],"t":"pahmek"}
 ,"pahoting":{"h":[{"d":[{"f":"￹￺to tend a flock (of sheep) * to be a shepherd￻照顧一羣(羊)，牧者"}]}],"t":"pahoting"}
-,"paikor":{"h":[{"d":[{"l":["`parikor~"],"e":["￹`paikor~ `to~ `sowal~￺give a farewell message￻臨終前說遺言","￹`paikor~ `to~ `dmak~￺to do something for the last time￻做最後的事情，臨行前或臨終前做最後交代","￹`paikor~ `a~ `pakaen~￺to give a farewell meal to (someone who is leaving)￻給予餞行(對要離開的人)"],"f":"￹￺to do something for the last time￻臨走前或臨終時，交代事情，留言，遺言"}]}],"t":"paikor"}
-,"paini":{"h":[{"d":[{"l":["`sapaini~"],"f":"￹￺to give * place * provide for a situation or need￻給予，地方或場地，提供一種情況或需要"}]}],"t":"paini"}
+,"paikor":{"h":[{"d":[{"s":["`parikor~"],"e":["￹`paikor~ `to~ `sowal~￺give a farewell message￻臨終前說遺言","￹`paikor~ `to~ `demak~￺to do something for the last time￻做最後的事情，臨行前或臨終前做最後交代","￹`paikor~ `a~ `pakaen~￺to give a farewell meal to (someone who is leaving)￻給予餞行(對要離開的人)"],"f":"￹￺to do something for the last time￻臨走前或臨終時，交代事情，留言，遺言"}]}],"t":"paikor"}
+,"paini":{"h":[{"d":[{"s":["`sapaini~"],"f":"￹￺to give * place * provide for a situation or need￻給予，地方或場地，提供一種情況或需要"}]}],"t":"paini"}
 ,"paino%27":{"h":[{"d":[{"f":"￹￺to give a bath￻給⋯洗澡"},{"f":"￹￺to baptize￻施洗(基督教儀式)"}]}],"t":"paino'"}
-,"paising":{"h":[{"d":[{"f":"￹￺to go to the doctor￻給醫生看病"},{"l":["`ising~"],"f":"￹￺to give medical care (from the doctor's perspective)￻給予醫藥治療"}]}],"t":"paising"}
-,"paisingan":{"h":[{"d":[{"l":["`ising~"],"f":"￹￺hospital * clinic￻醫院，診所"}]}],"t":"paisingan"}
-,"paka%27araw":{"h":[{"d":[{"f":"￹￺to experience seeing￻看見"},{"l":["`'araw~"],"f":"￹￺ability to see￻視覺能力"}]}],"t":"paka'araw"}
-,"paka%27orad":{"h":[{"d":[{"l":["`'orad~"],"f":"￹￺to make it rain￻乞雨"}]}],"t":"paka'orad"}
-,"pakacowa":{"h":[{"d":[{"l":["`cowa~"],"f":"￹￺how? which way?￻怎樣？走那一條路？"}]}],"t":"pakacowa"}
-,"pakadang":{"h":[{"d":[{"l":["`kadang~"],"f":"￹￺put a nose ring in￻裝鼻環"}]}],"t":"pakadang"}
-,"pakaen":{"h":[{"d":[{"l":["`kaen~"],"f":"￹￺to feed * give food￻餵養，飼養"}]}],"t":"pakaen"}
-,"pakafana%27":{"h":[{"d":[{"l":["`fana'~"],"f":"￹￺report * give information￻報導"}]}],"t":"pakafana'"}
-,"pakafongen":{"h":[{"d":[{"l":["`kafong~"],"f":"￹￺to put a hat on someone￻給人戴帽子"}]}],"t":"pakafongen"}
+,"paising":{"h":[{"d":[{"f":"￹￺to go to the doctor￻給醫生看病"},{"s":["`ising~"],"f":"￹￺to give medical care (from the doctor's perspective)￻給予醫藥治療"}]}],"t":"paising"}
+,"paisingan":{"h":[{"d":[{"s":["`ising~"],"f":"￹￺hospital * clinic￻醫院，診所"}]}],"t":"paisingan"}
+,"paitemek":{"h":[{"d":[{"s":["`yniyah~"],"f":"￹￺to each do his own way * do his own thing * individually￻各做各的，自掃門前雪"}]}],"t":"paitemek"}
+,"paiyo":{"h":[{"d":[{"s":["`sapaiyo~"],"e":["￹`mi~`paiyo~ `to~ `panay~￺to spray the rice fields with insecticide￻水稻噴灑農藥","￹`mi~`paiyo~ `to~ `adada~`ay~￺1. take sick person to the doctor  2. give medicine to / treat the sick person￻1. 帶病人給醫生看  2. 給病人吃藥/或治療病人"],"f":"￹￺to apply medicine or insecticide￻治療"}]}],"t":"paiyo"}
+,"paka%27araw":{"h":[{"d":[{"f":"￹￺to experience seeing￻看見"},{"s":["`'araw~"],"f":"￹￺ability to see￻視覺能力"}]}],"t":"paka'araw"}
+,"paka%27orad":{"h":[{"d":[{"s":["`'orad~"],"f":"￹￺to make it rain￻乞雨"}]}],"t":"paka'orad"}
+,"pakacowa":{"h":[{"d":[{"s":["`cowa~"],"f":"￹￺how? which way?￻怎樣？走那一條路？"}]}],"t":"pakacowa"}
+,"pakadang":{"h":[{"d":[{"s":["`kadang~"],"f":"￹￺put a nose ring in￻裝鼻環"}]}],"t":"pakadang"}
+,"pakaen":{"h":[{"d":[{"s":["`kaen~"],"f":"￹￺to feed * give food￻餵養，飼養"}]}],"t":"pakaen"}
+,"pakafana%27":{"h":[{"d":[{"s":["`fana'~"],"f":"￹￺report * give information￻報導"}]}],"t":"pakafana'"}
+,"pakafongen":{"h":[{"d":[{"s":["`kafong~"],"f":"￹￺to put a hat on someone￻給人戴帽子"}]}],"t":"pakafongen"}
 ,"pakah":{"h":[{"d":[{"f":"￹￺hip bone￻臀部"}]}],"t":"pakah"}
-,"pakakmoday":{"h":[{"d":[{"e":["￹`pakakmoday~ `ko~ `sowal~￺words have a hidden meaning￻話中深藏玄機，話中有話，話中有很深的含意"],"f":"￹￺mysterious * not easily understood￻最深處，不可思議的，神秘的"}]}],"t":"pakakmoday"}
-,"pakalowid":{"h":[{"d":[{"l":["`lowid~"],"f":"￹￺able to conquer￻能夠征服，得勝"}]}],"t":"pakalowid"}
-,"pakamaro%27":{"h":[{"d":[{"l":["`maro'~"],"f":"￹￺cause to sit or stay￻請別人坐下或停留"}]}],"t":"pakamaro'"}
-,"pakamay":{"h":[{"d":[{"l":["`kamay~"],"f":"￹￺to stretch out or raise one's hand￻伸手，舉手，援助"}]}],"t":"pakamay"}
-,"pakaolah":{"h":[{"d":[{"l":["`olah~"],"f":"￹￺reward￻報酬，獎金"}]}],"t":"pakaolah"}
-,"pakapsi%27":{"h":[{"d":[{"l":["`pakatiihay~","`pakatiih~"],"f":"￹￺to abort * naturally￻早產，流產，難產，小產，含自然流產"}]}],"t":"pakapsi'"}
-,"pakara%27ac":{"h":[{"d":[{"l":["`Pakara'ac~"],"f":"￹￺name of an Amis village￻台東縣長濱鄉竹湖部落名"}]}],"t":"pakara'ac"}
+,"pakakemoday":{"h":[{"d":[{"e":["￹`pakakemoday~ `ko~ `sowal~￺words have a hidden meaning￻話中深藏玄機，話中有話，話中有很深的含意"],"f":"￹￺mysterious * not easily understood￻最深處，不可思議的，神秘的"}]}],"t":"pakakemoday"}
+,"pakalowid":{"h":[{"d":[{"s":["`lowid~"],"f":"￹￺able to conquer￻能夠征服，得勝"}]}],"t":"pakalowid"}
+,"pakamaro%27":{"h":[{"d":[{"s":["`maro'~"],"f":"￹￺cause to sit or stay￻請別人坐下或停留"}]}],"t":"pakamaro'"}
+,"pakamay":{"h":[{"d":[{"s":["`kamay~"],"f":"￹￺to stretch out or raise one's hand￻伸手，舉手，援助"}]}],"t":"pakamay"}
+,"pakaolah":{"h":[{"d":[{"s":["`olah~"],"f":"￹￺reward￻報酬，獎金"}]}],"t":"pakaolah"}
+,"pakapesi%27":{"h":[{"d":[{"s":["`tiihay~","`pakatiih~"],"f":"￹￺to abort * naturally￻早產，流產，難產，小產，含自然流產"}]}],"t":"pakapesi'"}
+,"pakara%27ac":{"h":[{"d":[{"s":["`ra'ac~"],"f":"￹￺name of an Amis village￻台東縣長濱鄉竹湖部落名"}]}],"t":"pakara'ac"}
 ,"pakarongay":{"h":[{"d":[{"f":"￹￺a messenger * a young person in the divison of responsibilities of the village￻報信者；在年齡階級中，階級最低的一級，其行動完全聽命於年長者的命令"}]}],"t":"pakarongay"}
-,"pakatiih":{"h":[{"d":[{"e":["￹`Pakatiihan~ `ko~ `hofoc~.￺She aborted naturally.￻她自然流產"],"f":"￹￺to abort spontaneously * to lose a child by aborting.￻自然流產，以墮胎人工流產"},{"l":["`pakapsi'~"],"f":"￹￺to dream you aborted￻夢見你小產"}]}],"t":"pakatiih"}
-,"pakawasay":{"h":[{"d":[{"l":["`kawas~"],"f":"￹￺a ghost that reveals himself￻鬼魂顯現"}]}],"t":"pakawasay"}
-,"pakaykay":{"h":[{"d":[{"l":["`kayakay~"],"f":"￹￺to make a bridge (literally)￻建橋"}]}],"t":"pakaykay"}
-,"pakayni":{"h":[{"d":[{"e":["￹`Pakayni~ `kita~ `a~ `romakat~.￺We go this way.￻我們經由這條路走","￹`Pakayni~ `i~ `patay~ `nira~ `a~ `mahpol~ `ko~ `raraw~.￺Through His deathsins are forgiven.￻藉著 (通過) 他的死，使我們的罪得赦免","￹`Pakaynien~ `toya~ `tamdaw~ `ko~ `pipasowal~.￺Use (as an instrument) that man to speak (to someone).￻透過那個人，來說這件事"],"f":"￹￺through * by way of￻經過，通過，經由，當作，作為，藉著"},{"e":["￹`Awaay~ `ko~ `sowal~ `nira~ `to~ `pakayniay~ `tonini~ `a~ `dmak~.￺He didn't say anything about this matter.￻他沒有交待有關這件事情"],"f":"￹￺concerning * with reference to￻關於，參照如下"}]}],"t":"pakayni"}
-,"pakayra":{"h":[{"d":[{"e":["￹`O~ `fa'lohay~ `a~ `pakayraan~ `konini~.￺1. This is a new method.  2. This is a new religion.￻1. 這是新辦法  2. 這是新的宗教"],"f":"￹￺by that means￻通過那個手段"},{"e":["￹`Pakayra~ `kita~ `a~ `romakat~.￺Let's walk that way.￻我們從那一條路走","￹`Pakayra~ `tora~ `dmak~ `a~ `masalof~ `cingra~.￺Through that event he was corrected.￻通過那件事，使他回心轉意 (改正)","￹`Awaay~ `ko~ `pakayraan~ `ita~.￺We have no way (to accomplish a plan).￻我們沒有辦法 (完成計劃)","￹`Pakayraw~ `kita~ `a~ `romakat~.￺Let's go that way (pointing in a certain direction).￻我們從那邊走 (指出某種方向)"],"f":"￹￺through that way￻藉著那個方法"},{"f":"￹￺concerning￻關於"}]}],"t":"pakayra"}
-,"pakayraan":{"h":[{"d":[{"f":"￹￺method * way￻方法，道路"},{"l":["`pakayra~"],"f":"￹￺religion.  See pakayra￻宗教，信仰。參閱 pakayra"}]}],"t":"pakayraan"}
-,"pakaysingan":{"h":[{"d":[{"l":["`kaysing~"],"f":"￹￺dish cupboard￻櫥櫃"}]}],"t":"pakaysingan"}
-,"pakeskes":{"h":[{"d":[{"l":["`keskes~"],"f":"￹￺to speak without control or purity￻說話流利，純正"}]}],"t":"pakeskes"}
+,"pakatiih":{"h":[{"d":[{"e":["￹`tiihan~ `ko~ `hofoc~.￺She aborted naturally.￻她自然流產"],"f":"￹￺to abort spontaneously * to lose a child by aborting.￻自然流產，以墮胎人工流產"},{"s":["`pakapesi'~"],"f":"￹￺to dream you aborted￻夢見你小產"}]}],"t":"pakatiih"}
+,"pakawasay":{"h":[{"d":[{"s":["`kawas~"],"f":"￹￺a ghost that reveals himself￻鬼魂顯現"}]}],"t":"pakawasay"}
+,"pakayakay":{"h":[{"d":[{"s":["`kayakay~"],"f":"￹￺to make a bridge (literally)￻建橋"}]}],"t":"pakayakay"}
+,"pakayni":{"h":[{"d":[{"e":["￹`yni~ `kita~ `a~ `romakat~.￺We go this way.￻我們經由這條路走","￹`yni~ `i~ `patay~ `nira~ `a~ `ma~`hepol~ `ko~ `raraw~.￺Through His deathsins are forgiven.￻藉著 (通過) 他的死，使我們的罪得赦免","￹`ynien~ `toya~ `tamdaw~ `ko~ `pasowal~.￺Use (as an instrument) that man to speak (to someone).￻透過那個人，來說這件事"],"f":"￹￺through * by way of￻經過，通過，經由，當作，作為，藉著"},{"e":["￹`Awaay~ `ko~ `sowal~ `nira~ `to~ `yniay~ `tonini~ `a~ `demak~.￺He didn't say anything about this matter.￻他沒有交待有關這件事情"],"f":"￹￺concerning * with reference to￻關於，參照如下"}]}],"t":"pakayni"}
+,"pakayra":{"h":[{"d":[{"e":["￹`O~ `fa~^`lohay~ `a~ `pakayraan~ `konini~.￺1. This is a new method.  2. This is a new religion.￻1. 這是新辦法  2. 這是新的宗教"],"f":"￹￺by that means￻通過那個手段"},{"e":["￹`yra~ `kita~ `a~ `romakat~.￺Let's walk that way.￻我們從那一條路走","￹`yra~ `tora~ `demak~ `a~ `ma~`salof~ `cingra~.￺Through that event he was corrected.￻通過那件事，使他回心轉意 (改正)","￹`Awaay~ `ko~ `pakayraan~ `ita~.￺We have no way (to accomplish a plan).￻我們沒有辦法 (完成計劃)","￹`yraw~ `kita~ `a~ `romakat~.￺Let's go that way (pointing in a certain direction).￻我們從那邊走 (指出某種方向)"],"f":"￹￺through that way￻藉著那個方法"},{"f":"￹￺concerning￻關於"}]}],"t":"pakayra"}
+,"pakayraan":{"h":[{"d":[{"f":"￹￺method * way￻方法，道路"},{"s":["`pakayra~"],"f":"￹￺religion.  See pakayra￻宗教，信仰。參閱 pakayra"}]}],"t":"pakayraan"}
+,"pakaysingan":{"h":[{"d":[{"s":["`kaysing~"],"f":"￹￺dish cupboard￻櫥櫃"}]}],"t":"pakaysingan"}
+,"pakerit":{"h":[{"d":[{"s":["`kerit~"],"f":"￹￺to have someone cut￻切割分享給別人"}]}],"t":"pakerit"}
+,"pakeskes":{"h":[{"d":[{"s":["`keskes~"],"f":"￹￺to speak without control or purity￻說話流利，純正"}]}],"t":"pakeskes"}
+,"paketing":{"h":[{"d":[{"s":["`paseteng~"],"f":"￹￺to stake out an animal tying it up￻栓住，把動物繫住"}]}],"t":"paketing"}
 ,"paki%27ayaw":{"h":[{"d":[{"f":"￹￺to put ahead of￻承讓，讓先"}]}],"t":"paki'ayaw"}
-,"pakido":{"h":[{"d":[{"l":["`patdo~"],"e":["￹`pakido~ `a~ `somowal~￺to speak discourteously * without thought of courtesy￻說不禮貌的話"],"f":"￹￺to do something in a way that is contrary to rules or guidelines￻做某種與規則或指導原則相反的事情"},{"l":["`kido~"],"f":"￹￺to exaggerate * misrepresent￻誇張，詐稱"}]}],"t":"pakido"}
-,"pakifongoh":{"h":[{"d":[{"f":"￹￺to put on one's head to carry￻把東西用頭頂搬運"},{"l":["`fongoh~"],"f":"￹￺to put in one's head / memorize￻存放於腦筋裡 - 記憶"}]}],"t":"pakifongoh"}
+,"pakido":{"h":[{"d":[{"s":["`patedo~"],"e":["￹`pakido~ `a~ `somowal~￺to speak discourteously * without thought of courtesy￻說不禮貌的話"],"f":"￹￺to do something in a way that is contrary to rules or guidelines￻做某種與規則或指導原則相反的事情"},{"s":["`kido~"],"f":"￹￺to exaggerate * misrepresent￻誇張，詐稱"}]}],"t":"pakido"}
+,"pakifongoh":{"h":[{"d":[{"f":"￹￺to put on one's head to carry￻把東西用頭頂搬運"},{"s":["`fongoh~"],"f":"￹￺to put in one's head / memorize￻存放於腦筋裡 - 記憶"}]}],"t":"pakifongoh"}
 ,"pakih":{"h":[{"d":[{"f":"￹￺ankle * ankles￻踝骨，腳踝"}]}],"t":"pakih"}
-,"pakikapal":{"h":[{"d":[{"l":["`kapal~"],"f":"￹￺to place in hand￻放於手掌上"}]}],"t":"pakikapal"}
-,"pakilac":{"h":[{"d":[{"l":["`kilac~"],"f":"￹￺to portion out￻分發"}]}],"t":"pakilac"}
-,"pakimad":{"h":[{"d":[{"l":["`paplo~"],"f":"￹￺to tell a story￻說書，講古"},{"f":"￹￺to preach￻說教，講道"}]}],"t":"pakimad"}
-,"pakimahod":{"h":[{"d":[{"l":["`mahod~"],"f":"￹￺to cook in wooden rice cooker￻蒸米"}]}],"t":"pakimahod"}
-,"pakinali":{"h":[{"d":[{"l":["`pintek~"],"e":["￹`Pakinali~ `ko~ `sowal~ `nira~.￺He exaggerated.￻他講的很過分，說話非常誇張"],"f":"￹￺to go too far * exaggerate * to overdo￻超過，過份，誇大"}]}],"t":"pakinali"}
-,"pakingking":{"h":[{"d":[{"l":["`kingking~"],"f":"￹￺to give an offering￻奉獻"},{"f":"￹￺to make a phone call￻打電話"}]}],"t":"pakingking"}
-,"pakipat":{"h":[{"d":[{"l":["`kipat~"],"f":"￹￺to apply glue to * stick closed￻使之黏住"}]}],"t":"pakipat"}
-,"pakitiraen":{"h":[{"d":[{"l":["`itira~"],"f":"￹￺place there temporarily￻暫時擱置在那兒"}]}],"t":"pakitiraen"}
+,"pakikapal":{"h":[{"d":[{"s":["`kapal~"],"f":"￹￺to place in hand￻放於手掌上"}]}],"t":"pakikapal"}
+,"pakilac":{"h":[{"d":[{"s":["`kilac~"],"f":"￹￺to portion out￻分發"}]}],"t":"pakilac"}
+,"pakimad":{"h":[{"d":[{"s":["`plo~"],"f":"￹￺to tell a story￻說書，講古"},{"f":"￹￺to preach￻說教，講道"}]}],"t":"pakimad"}
+,"pakimahod":{"h":[{"d":[{"s":["`mahod~"],"f":"￹￺to cook in wooden rice cooker￻蒸米"}]}],"t":"pakimahod"}
+,"pakinali":{"h":[{"d":[{"s":["`ntek~"],"e":["￹`nali~ `ko~ `sowal~ `nira~.￺He exaggerated.￻他講的很過分，說話非常誇張"],"f":"￹￺to go too far * exaggerate * to overdo￻超過，過份，誇大"}]}],"t":"pakinali"}
+,"pakingking":{"h":[{"d":[{"s":["`kingking~"],"f":"￹￺to give an offering￻奉獻"},{"f":"￹￺to make a phone call￻打電話"}]}],"t":"pakingking"}
+,"pakipat":{"h":[{"d":[{"s":["`kipat~"],"f":"￹￺to apply glue to * stick closed￻使之黏住"}]}],"t":"pakipat"}
+,"pakitiraen":{"h":[{"d":[{"s":["`itira~"],"f":"￹￺place there temporarily￻暫時擱置在那兒"}]}],"t":"pakitiraen"}
 ,"pakiyaw":{"h":[{"d":[{"f":"￹￺to gamble * using cards or other means (from Amoy dialect)￻賭博，用撲克牌或其他 (引自閩南語)"}]}],"t":"pakiyaw"}
-,"pakociko":{"h":[{"d":[{"l":["`tatla'an~","`linpac~"],"f":"￹￺firecrackers￻爆竹，鞭砲"}]}],"t":"pakociko"}
-,"pakokot":{"h":[{"d":[{"e":["￹`O~ `papakokoten~ `ko~ `dmak~ `noya~ `tamdaw~.￺An accusation must be made against the acts of that person.￻那個人的行為勢必應該被控告","￹`Aka~ `pacfa~ `a~ `pakokot~ `to~ `dmak~ `no~ `singsi~.￺Don't accuse without clear evidence the acts of a teacher.￻沒有證據不要隨便告發老師的行為"],"f":"￹￺to accuse * to make a charge against * with reference to actions￻控訴，控告，打小報告，誹謗，說壞話"}]}],"t":"pakokot"}
-,"pakolongan":{"h":[{"d":[{"l":["`kolong~"],"f":"￹￺place for water buffalo to sleep￻牛棚"}]}],"t":"pakolongan"}
-,"pakongaw":{"h":[{"d":[{"f":"￹￺a strong word for giving without expecting return * especially to give to someone in need￻有強烈意味的援助，不計回報"},{"l":["`padahof~"],"f":"￹￺to change someone's message with intent to mislead the hearer￻改變企圖，誤導聽者的消息"}]}],"t":"pakongaw"}
-,"pakonira":{"h":[{"d":[{"e":["￹`Pakonira~ `aka~ `haenen~ `ko~ `wawa~ `a~ `papisalama~.￺Don't let children / a child go play without supervision.￻不要放任小孩子玩耍","￹`Tada~ `mapakoniraay~ `ko~ `dmak~ `nira~.￺He is too much on his own / without accountability.￻他的行為太任性了"],"f":"￹￺to leave on ones own * to let go * assuming no responsibility for but giving freedom to￻任意，讓，放縱；不負責任意給予充分的自由"},{"l":["`paonol~"],"f":"￹￺let do by oneself * not interfere with * not be involved in￻讓某人任意去做，任其隨心所慾去作，不干涉"}]}],"t":"pakonira"}
-,"pakonis":{"h":[{"d":[{"l":["`konis~"],"f":"￹￺to put a mark on￻做記號"}]}],"t":"pakonis"}
-,"pakoror":{"h":[{"d":[{"l":["`koror~"],"f":"￹￺the braiding together of reeds for the edging of a basket￻修篩子邊緣的修緣法"}]}],"t":"pakoror"}
-,"pakoyoc":{"h":[{"d":[{"l":["`pakosiya~","`sapakoyocay~"],"f":"￹￺poor * destitute￻貧窮的，無依無靠的"},{"f":"￹￺orphan * without parents￻孤兒"}]}],"t":"pakoyoc"}
-,"pakpak":{"h":[{"d":[{"l":["`pa'pa~"],"f":"￹￺to clap hands￻拍手"},{"f":"￹￺to hit with the hand￻用手拍人"},{"f":"￹￺to blow smoke from a cigarette or pipe￻吹烟"},{"f":"￹￺to habitually do something￻習慣的做某事"}]}],"t":"pakpak"}
-,"pakrit":{"h":[{"d":[{"l":["`krit~"],"f":"￹￺to have someone cut￻切割分享給別人"}]}],"t":"pakrit"}
-,"pakting":{"h":[{"d":[{"l":["`pasteng~"],"f":"￹￺to stake out an animal tying it up￻栓住，把動物繫住"}]}],"t":"pakting"}
-,"pala":{"h":[{"d":[{"f":"￹￺territory * district￻田地"},{"l":["`talapala~"],"f":"￹￺field (Kwangfu * Hualien)￻田地 (花蓮光復語)"}]}],"t":"pala"}
-,"palada%27":{"h":[{"d":[{"l":["`lada'~"],"f":"￹￺to share something you have￻施捨分享給別人"}]}],"t":"palada'"}
+,"pakokot":{"h":[{"d":[{"e":["￹`O~ `pa~`pakokot~`en~ `ko~ `demak~ `noya~ `tamdaw~.￺An accusation must be made against the acts of that person.￻那個人的行為勢必應該被控告","￹`Aka~ `pacefa~ `a~ `pakokot~ `to~ `demak~ `no~ `singsi~.￺Don't accuse without clear evidence the acts of a teacher.￻沒有證據不要隨便告發老師的行為"],"f":"￹￺to accuse * to make a charge against * with reference to actions￻控訴，控告，打小報告，誹謗，說壞話"}]}],"t":"pakokot"}
+,"pakolongan":{"h":[{"d":[{"s":["`kolong~"],"f":"￹￺place for water buffalo to sleep￻牛棚"}]}],"t":"pakolongan"}
+,"pakongaw":{"h":[{"d":[{"f":"￹￺a strong word for giving without expecting return * especially to give to someone in need￻有強烈意味的援助，不計回報"},{"s":["`padahof~"],"f":"￹￺to change someone's message with intent to mislead the hearer￻改變企圖，誤導聽者的消息"}]}],"t":"pakongaw"}
+,"pakonira":{"h":[{"d":[{"e":["￹`Pako~`nira~ `aka~ `haen~`en~ `ko~ `wawa~ `a~ `papi~`salama~.￺Don't let children / a child go play without supervision.￻不要放任小孩子玩耍","￹`Tada~ `ma~`pakonira~`ay~ `ko~ `demak~ `nira~.￺He is too much on his own / without accountability.￻他的行為太任性了"],"f":"￹￺to leave on ones own * to let go * assuming no responsibility for but giving freedom to￻任意，讓，放縱；不負責任意給予充分的自由"},{"s":["`paonol~"],"f":"￹￺let do by oneself * not interfere with * not be involved in￻讓某人任意去做，任其隨心所慾去作，不干涉"}]}],"t":"pakonira"}
+,"pakonis":{"h":[{"d":[{"s":["`konis~"],"f":"￹￺to put a mark on￻做記號"}]}],"t":"pakonis"}
+,"pakoror":{"h":[{"d":[{"s":["`koror~"],"f":"￹￺the braiding together of reeds for the edging of a basket￻修篩子邊緣的修緣法"}]}],"t":"pakoror"}
+,"pakoyoc":{"h":[{"d":[{"s":["`siya~","`sapakoyocay~"],"f":"￹￺poor * destitute￻貧窮的，無依無靠的"},{"f":"￹￺orphan * without parents￻孤兒"}]}],"t":"pakoyoc"}
+,"pakpak":{"h":[{"d":[{"s":["`~^`~"],"f":"￹￺to clap hands￻拍手"},{"f":"￹￺to hit with the hand￻用手拍人"},{"f":"￹￺to blow smoke from a cigarette or pipe￻吹烟"},{"f":"￹￺to habitually do something￻習慣的做某事"}]}],"t":"pakpak"}
+,"pakuciku":{"h":[{"d":[{"s":["`tatla'an~","`linpac~"],"f":"￹￺firecrackers (from Japanese)￻爆竹，鞭砲 (引自日語)"}]}],"t":"pakuciku"}
+,"pala":{"h":[{"d":[{"f":"￹￺territory * district￻田地"},{"s":["`talapala~"],"f":"￹￺field (Kwangfu * Hualien)￻田地 (花蓮光復語)"}]}],"t":"pala"}
+,"palada%27":{"h":[{"d":[{"s":["`lada'~"],"f":"￹￺to share something you have￻施捨分享給別人"}]}],"t":"palada'"}
 ,"palahaden":{"h":[{"d":[{"f":"￹￺to feed / provide for growth￻培育，培養"}]}],"t":"palahaden"}
-,"palakahmaw":{"h":[{"d":[{"l":["`kahmaw~"],"f":"￹￺to take lightly something that should be considered seriously￻視重為輕，將嚴重的事情看成輕而易舉的事，不在乎，看輕"}]}],"t":"palakahmaw"}
-,"palakaka":{"h":[{"d":[{"l":["`kaka~"],"f":"￹￺make to be greater than￻把…為優，尊…為優"}]}],"t":"palakaka"}
-,"palakec":{"h":[{"d":[{"l":["`lakec~"],"f":"￹￺to help someone wade through water￻幫助別人涉水而過"}]}],"t":"palakec"}
-,"palaklaw":{"h":[{"d":[{"l":["`laklaw~"],"f":"￹￺to lighten the way for others￻為別人照明其路，為別人提燈"}]}],"t":"palaklaw"}
-,"palakoli":{"h":[{"d":[{"l":["`koli~"],"f":"￹￺to make a slave of￻把人當苦工"}]}],"t":"palakoli"}
-,"palal":{"h":[{"d":[{"f":"￹￺to awaken * literally from sleep￻指從睡夢中驚醒過來"},{"e":["￹`Aninito~ `a~ `mapalal~ `ko~ `faloco'~ `iso~.￺At last you have come aware concerning ...￻你今天終於醒悟過來","￹`Palalen~ `cingra~.￺Awaken him.￻叫醒他","￹`Matalipa'lalto~ `kako~.￺1. I was awakened suddenly.  2. I suddenly realized.￻1. 我忽然驚醒了  2. 我突然覺悟了"],"f":"￹￺to become aware * alert concerning￻醒悟"}]}],"t":"palal"}
+,"palakahemaw":{"h":[{"d":[{"s":["`kahemaw~"],"f":"￹￺to take lightly something that should be considered seriously￻視重為輕，將嚴重的事情看成輕而易舉的事，不在乎，看輕"}]}],"t":"palakahemaw"}
+,"palakaka":{"h":[{"d":[{"s":["`kaka~"],"f":"￹￺make to be greater than￻把…為優，尊…為優"}]}],"t":"palakaka"}
+,"palakec":{"h":[{"d":[{"s":["`lakec~"],"f":"￹￺to help someone wade through water￻幫助別人涉水而過"}]}],"t":"palakec"}
+,"palakelaw":{"h":[{"d":[{"s":["`lakelaw~"],"f":"￹￺to lighten the way for others￻為別人照明其路，為別人提燈"}]}],"t":"palakelaw"}
+,"palakoli":{"h":[{"d":[{"s":["`koli~"],"f":"￹￺to make a slave of￻把人當苦工"}]}],"t":"palakoli"}
+,"palal":{"h":[{"d":[{"f":"￹￺to awaken * literally from sleep￻指從睡夢中驚醒過來"},{"e":["￹`Anini~ `to~ `a~ `ma~`palal~ `ko~ `faloco'~ `iso~.￺At last you have come aware concerning ...￻你今天終於醒悟過來","￹`len~ `cingra~.￺Awaken him.￻叫醒他","￹`Ma~`talipa'elal~ `to~ `kako~.￺1. I was awakened suddenly.  2. I suddenly realized.￻1. 我忽然驚醒了  2. 我突然覺悟了"],"f":"￹￺to become aware * alert concerning￻醒悟"}]}],"t":"palal"}
 ,"palalaw":{"h":[{"d":[{"f":"￹￺a bird * Formosan Whistling Thrush￻紫嘯鶇"}]}],"t":"palalaw"}
-,"palamitan":{"h":[{"d":[{"l":["`lamit~"],"f":"￹￺place to take root.￻根基，基礎，根基地，發根之部位"}]}],"t":"palamitan"}
-,"palamlam":{"h":[{"d":[{"l":["`lamlam~"],"f":"￹￺to make into a mixture * mixing items together as different kinds of books￻混合在一起，把不同的食料混合"}]}],"t":"palamlam"}
-,"palamo":{"h":[{"d":[{"l":["`lamo~"],"f":"￹￺to breed￻使交配"}]}],"t":"palamo"}
-,"palamo%27celay":{"h":[{"d":[{"f":"￹￺the one who makes straight￻把某人當作正直的人"},{"l":["`mo'cel~"],"f":"￹￺the one who justifies (biblical term)￻被認為正當的人"}]}],"t":"palamo'celay"}
+,"palamitan":{"h":[{"d":[{"s":["`lamit~"],"f":"￹￺place to take root.￻根基，基礎，根基地，發根之部位"}]}],"t":"palamitan"}
+,"palamlam":{"h":[{"d":[{"s":["`lamlam~"],"f":"￹￺to make into a mixture * mixing items together as different kinds of books￻混合在一起，把不同的食料混合"}]}],"t":"palamlam"}
+,"palamo":{"h":[{"d":[{"s":["`lamo~"],"f":"￹￺to breed￻使交配"}]}],"t":"palamo"}
+,"palamo%5Ecelay":{"h":[{"d":[{"f":"￹￺the one who makes straight￻把某人當作正直的人"},{"s":["`mo~^`cel~"],"f":"￹￺the one who justifies (biblical term)￻被認為正當的人"}]}],"t":"palamo^celay"}
 ,"palang":{"h":[{"d":[{"f":"￹￺a crow * a raven￻烏鴉"}]}],"t":"palang"}
 ,"palanotireng":{"h":[{"d":[{"f":"￹￺to take for oneself something that didn't belong to him￻佔為己有"}]}],"t":"palanotireng"}
-,"palawaco":{"h":[{"d":[{"l":["`masawaco~"],"f":"￹￺to degrade￻誣衊，虐待，侮辱"}]}],"t":"palawaco"}
-,"palawina":{"h":[{"d":[{"l":["`wina~"],"f":"￹￺to seek someone for comfort and encouragement￻找一位能安慰與鼓勵的人"}]}],"t":"palawina"}
-,"palawinaan":{"h":[{"d":[{"l":["`wina~"],"f":"￹￺someone on whom to be dependent￻可依賴的人"}]}],"t":"palawinaan"}
-,"palayapay":{"h":[{"d":[{"l":["`Palayapay~"],"f":"￹￺an Amis village￻台東縣鹿野村"}]}],"t":"palayapay"}
-,"palfod":{"h":[{"d":[{"f":"￹￺to rush to finish a task￻趕工"}]}],"t":"palfod"}
-,"pali%27ayaw":{"h":[{"d":[{"e":["￹`Pali'ayaw~ `cingra~ `a~ `pasowal~ `to~ `nika~ `o~ `aira~ `ci~ `Kristo~.￺He prophesied of Christ's coming.￻他預言基督的降臨"],"f":"￹￺to do or make preparations before the time￻時間未到以前預先準備"}]}],"t":"pali'ayaw"}
-,"paliding":{"h":[{"d":[{"e":["￹`Pakapaliding~ `cingra~ `a~ `tayra~.￺He went by vehicle / cart.￻他坐車前往","￹`Pakapalidingen~ `konini~ `a~ `si'lac~.￺Take this gravel away in a vehicle / cart.￻把這些砂礫用車子載運"],"f":"￹￺a vehicle * such as a wagon or cart * generic term￻牛車的總稱"}]}],"t":"paliding"}
-,"palifet":{"h":[{"d":[{"f":"￹￺to put to the test￻考驗"},{"l":["`lifet~"],"f":"￹￺to give oneself fully with total exertion￻全力以赴"}]}],"t":"palifet"}
-,"palifon":{"h":[{"d":[{"l":["`lifon~"],"f":"￹￺to pay wages￻付薪資"}]}],"t":"palifon"}
-,"palimangta%27":{"h":[{"d":[{"e":["￹`o~ `palimangta'~ `hananay~ `a~ `milifanges~￺someone who is skinned alive￻活生生地把它剝皮","￹`palimangta'~ `a~ `somowal~￺to speak very bluntly with no tact￻說話直截了當，不經思考就直接說"],"f":"￹￺From magta' (raw * not cooked) * to suddenly be struck down*killed while in perfect health￻突然死亡，死於非命，英年早逝 (身體非常良好的情形下車禍死亡)"}]}],"t":"palimangta'"}
-,"palimek":{"h":[{"d":[{"l":["`limek~"],"f":"￹￺to enable someone to hide￻使之躲藏"}]}],"t":"palimek"}
-,"palimlim":{"h":[{"d":[{"e":["￹`pa'araw~ `sanay~￺to do something openly￻炫耀，讓別人羨慕"],"f":"￹￺to do something openly￻炫耀，讓別人羨慕"}]}],"t":"palimlim"}
-,"palimo%27ot":{"h":[{"d":[{"l":["`limo'ot~"],"f":"￹￺to give commands￻訓勉，勉勵，勗勉"}]}],"t":"palimo'ot"}
-,"palinekneken":{"h":[{"d":[{"l":["`neknek~"],"f":"￹￺to make water settle￻使之沉澱"}]}],"t":"palinekneken"}
-,"palit":{"h":[{"d":[{"l":["`sapalit~"],"e":["￹`Mapalit~ `ko~ `faloco'~ `ako~.￺My heart is ensnared.￻我的心被束縛 (捆住)"],"f":"￹￺to be tied * ensnared, with literal and figurative meanings￻被捆住，約束，被逮捕，被判坐牢；包涵字面上和比喻上的涵義"}]}],"t":"palit"}
-,"palita":{"h":[{"d":[{"l":["`polita~"],"e":["￹`Misapalitalita~ `kako~ `anini~.￺I am searching out the matter / investigating now.￻我正在探查事情的情況","￹`Palitaenho~.￺Keep taking a look into the situation.￻先看清楚，先弄清楚"],"f":"￹￺to discern * to look and see the true situation￻辨認，指認，認清，判斷，弄清楚真正情況"}]}],"t":"palita"}
-,"paliw":{"h":[{"d":[{"e":["￹`O~ `paliw~ `ako~ `cingra~ `a~ `mipanay~.￺He is my partner in harvesting the grain.￻他是我們割稻的夥伴","￹`Mapapaliw~ `kita~ `a~ `mipanay~.￺Let's take turns helping in each others' fields harvesting (no wages given but reciprocal labor).￻我們以輪流的方式相互幫忙割稻"],"f":"￹￺to help each other with field work￻輪流相互幫忙田裡的工作"}]}],"t":"paliw"}
-,"paliyoken":{"h":[{"d":[{"l":["`pi'ayaw~"],"f":"￹￺a festival apron worn by men￻流蘇前裙，男的佩裙"}]}],"t":"paliyoken"}
+,"palawaco":{"h":[{"d":[{"s":["`sawaco~"],"f":"￹￺to degrade￻誣衊，虐待，侮辱"}]}],"t":"palawaco"}
+,"palawina":{"h":[{"d":[{"s":["`wina~"],"f":"￹￺to seek someone for comfort and encouragement￻找一位能安慰與鼓勵的人"}]}],"t":"palawina"}
+,"palawinaan":{"h":[{"d":[{"s":["`wina~"],"f":"￹￺someone on whom to be dependent￻可依賴的人"}]}],"t":"palawinaan"}
+,"palayapay":{"h":[{"d":[{"s":["`yapay~"],"f":"￹￺an Amis village￻台東縣鹿野村"}]}],"t":"palayapay"}
+,"palefod":{"h":[{"d":[{"f":"￹￺to rush to finish a task￻趕工"}]}],"t":"palefod"}
+,"pali%27ayaw":{"h":[{"d":[{"e":["￹`Pa~`li'ay~`aw~ `cingra~ `a~ `pa~`sowal~ `to~ `nika~ `o~ `aira~ `~ `Kristo~.￺He prophesied of Christ's coming.￻他預言基督的降臨"],"f":"￹￺to do or make preparations before the time￻時間未到以前預先準備"}]}],"t":"pali'ayaw"}
+,"paliding":{"h":[{"d":[{"e":["￹`Paka~`paliding~ `cingra~ `a~ `tayra~.￺He went by vehicle / cart.￻他坐車前往","￹`Paka~`paliding~`en~ `konini~ `a~ `si'elac~.￺Take this gravel away in a vehicle / cart.￻把這些砂礫用車子載運"],"f":"￹￺a vehicle * such as a wagon or cart * generic term￻牛車的總稱"}]}],"t":"paliding"}
+,"palifet":{"h":[{"d":[{"f":"￹￺to put to the test￻考驗"},{"s":["`lifet~"],"f":"￹￺to give oneself fully with total exertion￻全力以赴"}]}],"t":"palifet"}
+,"palifon":{"h":[{"d":[{"s":["`lifon~"],"f":"￹￺to pay wages￻付薪資"}]}],"t":"palifon"}
+,"palimangta%27":{"h":[{"d":[{"e":["￹`o~ `palimangta'~ `hananay~ `a~ `lifanges~￺someone who is skinned alive￻活生生地把它剝皮","￹`palimangta'~ `a~ `somowal~￺to speak very bluntly with no tact￻說話直截了當，不經思考就直接說"],"f":"￹￺From magta' (raw * not cooked) * to suddenly be struck down*killed while in perfect health￻突然死亡，死於非命，英年早逝 (身體非常良好的情形下車禍死亡)"}]}],"t":"palimangta'"}
+,"palimek":{"h":[{"d":[{"s":["`limek~"],"f":"￹￺to enable someone to hide￻使之躲藏"}]}],"t":"palimek"}
+,"palimlim":{"h":[{"d":[{"e":["￹`pa~`'araw~ `sanay~￺to do something openly￻炫耀，讓別人羨慕"],"f":"￹￺to do something openly￻炫耀，讓別人羨慕"}]}],"t":"palimlim"}
+,"palimo%27ot":{"h":[{"d":[{"s":["`limo'ot~"],"f":"￹￺to give commands￻訓勉，勉勵，勗勉"}]}],"t":"palimo'ot"}
+,"palinekneken":{"h":[{"d":[{"s":["`neknek~"],"f":"￹￺to make water settle￻使之沉澱"}]}],"t":"palinekneken"}
+,"palit":{"h":[{"d":[{"s":["`sapalit~"],"e":["￹`Ma~`palit~ `ko~ `faloco'~ `ako~.￺My heart is ensnared.￻我的心被束縛 (捆住)"],"f":"￹￺to be tied * ensnared, with literal and figurative meanings￻被捆住，約束，被逮捕，被判坐牢；包涵字面上和比喻上的涵義"}]}],"t":"palit"}
+,"palita":{"h":[{"d":[{"s":["`polita~"],"e":["￹`Misa~`palita~`lita~ `kako~ `anini~.￺I am searching out the matter / investigating now.￻我正在探查事情的情況","￹`litaen~ `ho~.￺Keep taking a look into the situation.￻先看清楚，先弄清楚"],"f":"￹￺to discern * to look and see the true situation￻辨認，指認，認清，判斷，弄清楚真正情況"}]}],"t":"palita"}
+,"paliw":{"h":[{"d":[{"e":["￹`O~ `paliw~ `ako~ `cingra~ `a~ `mi~`panay~.￺He is my partner in harvesting the grain.￻他是我們割稻的夥伴","￹`Ma~`pa~`paliw~ `kita~ `a~ `mi~`panay~.￺Let's take turns helping in each others' fields harvesting (no wages given but reciprocal labor).￻我們以輪流的方式相互幫忙割稻"],"f":"￹￺to help each other with field work￻輪流相互幫忙田裡的工作"}]}],"t":"paliw"}
+,"paliyoken":{"h":[{"d":[{"s":["`pi'ayaw~"],"f":"￹￺a festival apron worn by men￻流蘇前裙，男的佩裙"}]}],"t":"paliyoken"}
 ,"palo":{"h":[{"d":[{"f":"￹￺to hit with something large or flatsurfaced or with the hand￻用比較大或表面扁平的東西或用手打"}]}],"t":"palo"}
-,"palofaan":{"h":[{"d":[{"l":["`lofa~"],"f":"￹￺fenced in area for donkey or shed￻驢柵"}]}],"t":"palofaan"}
+,"palofaan":{"h":[{"d":[{"s":["`lofa~"],"f":"￹￺fenced in area for donkey or shed￻驢柵"}]}],"t":"palofaan"}
 ,"palokapok":{"h":[{"d":[{"f":"￹￺grass floating on a pond or lake￻浮萍，布袋蓮"}]}],"t":"palokapok"}
-,"palolol":{"h":[{"d":[{"e":["￹`Mapalolol~ `ko~ `nika~ `nga'ay~ `ita~.￺Our relationship has been restored.￻我們和好如初","￹`Mapalololto~ `ko~ `matastasay~ `a~ `paliding~.￺The vehicle has been restored * remade.￻車子已修復"],"f":"￹￺to restore something to its original condition￻事情恢復有原來的狀態"}]}],"t":"palolol"}
-,"paloma":{"h":[{"d":[{"l":["`pipalomaan~","`sapaloma~","`mapaloma~"],"f":"￹￺to plant growing things such as crops or flowers￻種植"}]}],"t":"paloma"}
-,"paloma%27":{"h":[{"d":[{"l":["`loma'~"],"f":"￹￺to give a house or land for a house to someone￻蓋房子，割地建房子"}]}],"t":"paloma'"}
-,"palonanay":{"h":[{"d":[{"l":["`lonan~"],"f":"￹￺sailors￻水手，船員"}]}],"t":"palonanay"}
-,"palosayan":{"h":[{"d":[{"l":["`losay~"],"f":"￹￺an orchard￻果園"}]}],"t":"palosayan"}
-,"pamalataw":{"h":[{"d":[{"l":["`malataw~"],"f":"￹￺to go through a religious ritual as when cleansing soldiers who have been through war.  There is disagreement in different parts of the tribe as to who goes to malataw -- good people or criminals * hunters * soldiers * or other people involved in killing.￻經戰亂而回之士兵，都經一個宗教的潔淨儀式。在各族中，有不同的掌權神明，為善男信女或犯罪之人，獵人，士兵， 或殺人者有各不同的宗教儀式"}]}],"t":"pamalataw"}
-,"pamatang":{"h":[{"d":[{"l":["`matang~"],"f":"￹￺to go into virgin territory and start from scratch * to colonize￻開墾或拓殖新地"}]}],"t":"pamatang"}
-,"pamceng":{"h":[{"d":[{"f":"￹￺to stare￻凝視，瞪視，目不轉睛"}]}],"t":"pamceng"}
-,"pamingming":{"h":[{"d":[{"f":"￹￺to call a medium to do ritual over a sick person￻邀請巫師驅逐死人靈魂或驅逐致病邪靈的儀式"},{"l":["`mingming~"],"f":"￹￺to pay a medium￻給巫師代價酬勞"}]}],"t":"pamingming"}
+,"palolol":{"h":[{"d":[{"e":["￹`Ma~`palolol~ `ko~ `nika~ `nga'ay~ `ita~.￺Our relationship has been restored.￻我們和好如初","￹`Ma~`palolol~ `to~ `ko~ `ma~`tastas~`ay~ `a~ `paliding~.￺The vehicle has been restored * remade.￻車子已修復"],"f":"￹￺to restore something to its original condition￻事情恢復有原來的狀態"}]}],"t":"palolol"}
+,"paloma":{"h":[{"d":[{"s":["`pipalomaan~","`sapaloma~","`mapaloma~"],"f":"￹￺to plant growing things such as crops or flowers￻種植"}]}],"t":"paloma"}
+,"paloma%27":{"h":[{"d":[{"s":["`loma'~"],"f":"￹￺to give a house or land for a house to someone￻蓋房子，割地建房子"}]}],"t":"paloma'"}
+,"palonanay":{"h":[{"d":[{"s":["`lonan~"],"f":"￹￺sailors￻水手，船員"}]}],"t":"palonanay"}
+,"palosayan":{"h":[{"d":[{"s":["`losay~"],"f":"￹￺an orchard￻果園"}]}],"t":"palosayan"}
+,"pamalataw":{"h":[{"d":[{"s":["`malataw~"],"f":"￹￺to go through a religious ritual as when cleansing soldiers who have been through war.  There is disagreement in different parts of the tribe as to who goes to malataw -- good people or criminals * hunters * soldiers * or other people involved in killing.￻經戰亂而回之士兵，都經一個宗教的潔淨儀式。在各族中，有不同的掌權神明，為善男信女或犯罪之人，獵人，士兵， 或殺人者有各不同的宗教儀式"}]}],"t":"pamalataw"}
+,"pamatang":{"h":[{"d":[{"s":["`matang~"],"f":"￹￺to go into virgin territory and start from scratch * to colonize￻開墾或拓殖新地"}]}],"t":"pamatang"}
+,"pameceng":{"h":[{"d":[{"f":"￹￺to stare￻凝視，瞪視，目不轉睛"}]}],"t":"pameceng"}
+,"pamingming":{"h":[{"d":[{"f":"￹￺to call a medium to do ritual over a sick person￻邀請巫師驅逐死人靈魂或驅逐致病邪靈的儀式"},{"s":["`mingming~"],"f":"￹￺to pay a medium￻給巫師代價酬勞"}]}],"t":"pamingming"}
 ,"pamotek":{"h":[{"d":[{"f":"￹￺to stare * gaze intently￻瞪眼注視，瞪大眼睛"}]}],"t":"pamotek"}
-,"pana%27":{"h":[{"d":[{"l":["`sapana'~","`mipana'~","`papana'en~"],"e":["￹`sapipana'~ `a~ `tilo~￺a bow snare￻弓插機"],"f":"￹￺a bow for shooting arrows￻弓箭"}]}],"t":"pana'"}
+,"pana%27":{"h":[{"d":[{"s":["`sapana'~","`mipana'~","`papana'en~"],"e":["￹`sapi~`pana'~ `a~ `tilo~￺a bow snare￻弓插機"],"f":"￹￺a bow for shooting arrows￻弓箭"}]}],"t":"pana'"}
 ,"panahal":{"h":[{"d":[{"f":"￹￺a piece of ground with nothing growing on it but short grass￻平坦無物，只長短草的一塊地"}]}],"t":"panahal"}
-,"panay":{"h":[{"d":[{"f":"￹￺rice * the harvested grain￻稻子"},{"f":"￹￺Panay, name for a woman￻Panay, 女人的名字"},{"l":["`pipanayan~","`kapanayan~"],"f":"￹￺generic word for grain￻稻的總稱"}]}],"t":"panay"}
+,"panay":{"h":[{"d":[{"f":"￹￺rice * the harvested grain￻稻子"},{"f":"￹￺Panay, name for a woman￻Panay, 女人的名字"},{"s":["`pipanayan~","`kapanayan~"],"f":"￹￺generic word for grain￻稻的總稱"}]}],"t":"panay"}
 ,"pances":{"h":[{"d":[{"f":"￹￺the rudder of a ship￻舵"}]}],"t":"pances"}
 ,"panco":{"h":[{"d":[{"f":"￹￺underpants (from Japanese and English)￻內褲 (引自日語和英語)"}]}],"t":"panco"}
 ,"panga":{"h":[{"d":[{"f":"￹￺penis * male sexual organ￻陰莖，男人的生殖器"}]}],"t":"panga"}
-,"pangala%27en":{"h":[{"d":[{"l":["`ngala'~"],"f":"￹￺to make a space to let through￻使有間隙，設置間隙以便通過"}]}],"t":"pangala'en"}
-,"pangcah":{"h":[{"d":[{"f":"￹￺the name the Amis give themselves￻阿美族人自稱"},{"l":["`Pangcah~"],"f":"￹￺in some areas it can refer to all tribal peoples￻在某些地方以此字涵蓋所有的山地同胞"}]}],"t":"pangcah"}
-,"pangiwngiw":{"h":[{"d":[{"l":["`ngiwngiw~"],"f":"￹￺to talk about (someone) behind his back￻說別人的壞話，挑撥是非，挑撥離間"}]}],"t":"pangiwngiw"}
-,"pangkiw":{"h":[{"d":[{"e":["￹`Ccay~ `ko~ `toki~ `ira~ `ko~ `pangkiw~ `ira~ `cingra~ `a~ `tayni~.￺He came at one thirty (literally one and a half).￻他一點半到達這裡"],"f":"￹￺half￻一半"}]}],"t":"pangkiw"}
+,"pangala%27en":{"h":[{"d":[{"s":["`ngala'~"],"f":"￹￺to make a space to let through￻使有間隙，設置間隙以便通過"}]}],"t":"pangala'en"}
+,"pangcah":{"h":[{"d":[{"f":"￹￺the name the Amis give themselves￻阿美族人自稱"},{"s":["`ngcah~"],"f":"￹￺in some areas it can refer to all tribal peoples￻在某些地方以此字涵蓋所有的山地同胞"}]}],"t":"pangcah"}
+,"pangiwngiw":{"h":[{"d":[{"s":["`ngiwngiw~"],"f":"￹￺to talk about (someone) behind his back￻說別人的壞話，挑撥是非，挑撥離間"}]}],"t":"pangiwngiw"}
+,"pangkiw":{"h":[{"d":[{"e":["￹`Cecay~ `ko~ `toki~ `ira~ `ko~ `pangkiw~ `ira~ `cingra~ `a~ `tayni~.￺He came at one thirty (literally one and a half).￻他一點半到達這裡"],"f":"￹￺half￻一半"}]}],"t":"pangkiw"}
 ,"pangloy":{"h":[{"d":[{"f":"￹￺a leafy vegetable (from Amoy dialect)￻萵苣植物 (引自閩南語)"}]}],"t":"pangloy"}
-,"pangpang":{"h":[{"d":[{"l":["`pangpangan~"],"f":"￹￺eaves on a building￻屋簷"},{"f":"￹￺Double flower gardenia￻重瓣黃梔"}]}],"t":"pangpang"}
-,"pangpangan":{"h":[{"d":[{"f":"￹￺the eaves of a building￻屋簷"},{"l":["`pangpang~"],"f":"￹￺a porch* a covered entrance to a building￻引自大門有屋頂覆蓋的走廊"}]}],"t":"pangpangan"}
-,"pangta":{"h":[{"d":[{"e":["￹`Matalaw~ `cangra~ `to~ `katalapangtaan~ `no~ `lonan~.￺They were afraid of the ship running into shallows.￻他們很害怕船會擱淺"],"f":"￹￺shallow * with literal and figurative meanings￻淺的，不深的，兼有字面上和比喻上的涵義"}]}],"t":"pangta"}
+,"pangpang":{"h":[{"d":[{"s":["`pangpangan~"],"f":"￹￺eaves on a building￻屋簷"},{"f":"￹￺Double flower gardenia￻重瓣黃梔"}]}],"t":"pangpang"}
+,"pangpangan":{"h":[{"d":[{"f":"￹￺the eaves of a building￻屋簷"},{"s":["`pangpang~"],"f":"￹￺a porch* a covered entrance to a building￻引自大門有屋頂覆蓋的走廊"}]}],"t":"pangpangan"}
+,"pangta":{"h":[{"d":[{"e":["￹`Ma~`talaw~ `cangra~ `to~ `talapangtaan~ `no~ `lonan~.￺They were afraid of the ship running into shallows.￻他們很害怕船會擱淺"],"f":"￹￺shallow * with literal and figurative meanings￻淺的，不深的，兼有字面上和比喻上的涵義"}]}],"t":"pangta"}
 ,"paniis":{"h":[{"d":[{"f":"￹￺hair that grows above and beside the ears￻雙鬢的部分，臉旁靠耳際的部位"}]}],"t":"paniis"}
-,"paniyaro%27an":{"h":[{"d":[{"l":["`niyaro'~"],"f":"￹￺a place to establish a village when the group moves￻部落的所在地，部落的位置"}]}],"t":"paniyaro'an"}
-,"panonor":{"h":[{"d":[{"l":["`nornor~"],"f":"￹￺to immediately do what can be done as available￻立即做隨手漸次所能夠作的事情"}]}],"t":"panonor"}
-,"paongongan":{"h":[{"d":[{"l":["`Paongongan~"],"f":"￹￺name of an Amis village￻台東成功鎮八翁翁部落名"}]}],"t":"paongongan"}
-,"paonol":{"h":[{"d":[{"l":["`onol~"],"f":"￹￺let do by oneself * not interfere with * not be involved in￻讓某人任意去做，任其隨心所慾去作，不干涉"}]}],"t":"paonol"}
-,"paoror":{"h":[{"d":[{"l":["`pacoracor~"],"f":"￹￺to stir up * arouse people to do something evil￻促使，唆使別人做不正當的事"}]}],"t":"paoror"}
-,"paosa":{"h":[{"d":[{"l":["`osa~"],"f":"￹￺to take food to someone as to workers in a field￻將飯盆送給在田裡工作者"}]}],"t":"paosa"}
-,"papa%27ong":{"h":[{"d":[{"l":["`'alolil~"],"f":"￹￺a bird * House Martin￻燕子"},{"f":"￹￺Red rumped Swallow￻紅尾燕"},{"f":"￹￺House Swift and White throated Spinetail Swift￻褐雨燕"},{"l":["`'apapong~"],"f":"￹￺asparagus￻蘆筍"}]}],"t":"papa'ong"}
-,"papah":{"h":[{"d":[{"e":["￹`cipapahay~ `a~ `dateng~￺leafy vegetable￻有葉的蔬菜"],"f":"￹￺leaf * leaves￻葉子"}]}],"t":"papah"}
-,"papana%27en":{"h":[{"d":[{"f":"￹￺the scoreboad￻箭靶"},{"l":["`pana'~"],"f":"￹￺thing to be shot with arrows￻目標"}]}],"t":"papana'en"}
-,"papaycian":{"h":[{"d":[{"l":["`payci~"],"f":"￹￺coin purse￻錢袋，錢包"}]}],"t":"papaycian"}
-,"papaysoan":{"h":[{"d":[{"l":["`payso~"],"f":"￹￺money bag * purse￻錢袋，錢包"}]}],"t":"papaysoan"}
-,"papeng":{"h":[{"d":[{"l":["`pacpac~"],"f":"￹￺to beat out * thresh out￻打稻具"}]}],"t":"papeng"}
-,"papida":{"h":[{"d":[{"l":["`pida~"],"f":"￹￺pay money￻付錢"}]}],"t":"papida"}
-,"papikdan":{"h":[{"d":[{"f":"￹￺a term describing men in the 35-40 year age group * men in full strength of maturity with experience￻描寫人到35 歲至40歲之間，壯年期的術語，男人正值精力充沛經驗豐富時期"}]}],"t":"papikdan"}
-,"papikedan":{"h":[{"d":[{"l":["`piked~"],"f":"￹￺informant * source of information￻眼線，資料或消息來源"}]}],"t":"papikedan"}
+,"paniyaro%27an":{"h":[{"d":[{"s":["`niyaro'~"],"f":"￹￺a place to establish a village when the group moves￻部落的所在地，部落的位置"}]}],"t":"paniyaro'an"}
+,"panonor":{"h":[{"d":[{"s":["`nornor~"],"f":"￹￺to immediately do what can be done as available￻立即做隨手漸次所能夠作的事情"}]}],"t":"panonor"}
+,"paong%5Eongan":{"h":[{"d":[{"s":["`ong~^`ongan~"],"f":"￹￺name of an Amis village￻台東成功鎮八翁翁部落名"}]}],"t":"paong^ongan"}
+,"paonol":{"h":[{"d":[{"s":["`onol~"],"f":"￹￺let do by oneself * not interfere with * not be involved in￻讓某人任意去做，任其隨心所慾去作，不干涉"}]}],"t":"paonol"}
+,"paoror":{"h":[{"d":[{"s":["`pacoracor~"],"f":"￹￺to stir up * arouse people to do something evil￻促使，唆使別人做不正當的事"}]}],"t":"paoror"}
+,"paosa":{"h":[{"d":[{"s":["`osa~"],"f":"￹￺to take food to someone as to workers in a field￻將飯盆送給在田裡工作者"}]}],"t":"paosa"}
+,"papa%27ong":{"h":[{"d":[{"s":["`'alolil~"],"f":"￹￺a bird * House Martin￻燕子"},{"f":"￹￺Red rumped Swallow￻紅尾燕"},{"f":"￹￺House Swift and White throated Spinetail Swift￻褐雨燕"},{"s":["`'apapong~"],"f":"￹￺asparagus￻蘆筍"}]}],"t":"papa'ong"}
+,"papah":{"h":[{"d":[{"e":["￹`ci~`papah~`ay~ `a~ `dateng~￺leafy vegetable￻有葉的蔬菜"],"f":"￹￺leaf * leaves￻葉子"}]}],"t":"papah"}
+,"papana%27en":{"h":[{"d":[{"f":"￹￺the scoreboad￻箭靶"},{"s":["`pana'~"],"f":"￹￺thing to be shot with arrows￻目標"}]}],"t":"papana'en"}
+,"papaycian":{"h":[{"d":[{"s":["`payci~"],"f":"￹￺coin purse￻錢袋，錢包"}]}],"t":"papaycian"}
+,"papaysoan":{"h":[{"d":[{"s":["`payso~"],"f":"￹￺money bag * purse￻錢袋，錢包"}]}],"t":"papaysoan"}
+,"papeng":{"h":[{"d":[{"s":["`pacpac~"],"f":"￹￺to beat out * thresh out￻打稻具"}]}],"t":"papeng"}
+,"papida":{"h":[{"d":[{"s":["`pida~"],"f":"￹￺pay money￻付錢"}]}],"t":"papida"}
+,"papikedan":{"h":[{"d":[{"s":["`piked~"],"f":"￹￺informant * source of information￻眼線，資料或消息來源"},{"f":"￹￺a term describing men in the 35-40 year age group * men in full strength of maturity with experience￻描寫人到35 歲至40歲之間，壯年期的術語，男人正值精力充沛經驗豐富時期"}]}],"t":"papikedan"}
 ,"papo":{"h":[{"d":[{"f":"￹￺hemorrhoid *a swelling at the anus￻腫脹，痔核"},{"f":"￹￺a tree * Elaeocarpus argenteus￻腺葉杜英"},{"f":"￹￺a swelling￻脹大，隆起，膨脹"}]}],"t":"papo"}
-,"papotal":{"h":[{"d":[{"l":["`potal~"],"f":"￹￺a generic word for outdoors * outside of the immediate context￻外面的總稱，臨近的外圍"}]}],"t":"papotal"}
-,"para%27":{"h":[{"d":[{"l":["`hmot~"],"f":"￹￺seat * part of your body with which you sit * bottom￻身體用以坐下的屁股部位"},{"f":"￹￺the bottom of a container such as a bucket￻容器如水桶底部"},{"f":"￹￺the stern of a ship * the back of a vehicle￻輪船尾部，車子的後部"}]}],"t":"para'"}
-,"parac":{"h":[{"d":[{"l":["`cokat~"],"e":["￹`Maparac~ `ko~ `foti'~ `ako~.￺My sleep was interrupted.￻我的睡眠被干擾","￹`Aka~ `piparac~ `to~ `foti'~ `ako~.￺Don't interrupt my sleep.￻不要妨礙我的睡眠"],"f":"￹￺to interrupt sleep￻妨礙睡眠"}]}],"t":"parac"}
-,"parafas":{"h":[{"d":[{"l":["`rafas~"],"f":"￹￺to give so much that there is an over supply￻比標準多一點，多出"}]}],"t":"parafas"}
-,"paranaan":{"h":[{"d":[{"e":["￹`paranaan~ `no~ `loma'~￺the building's foundation￻建築物的根基"],"f":"￹￺the base * foundation￻地基，基部"}]}],"t":"paranaan"}
-,"parar":{"h":[{"d":[{"l":["`cokoi~"],"f":"￹￺a table￻桌子"}]}],"t":"parar"}
+,"papotal":{"h":[{"d":[{"s":["`potal~"],"f":"￹￺a generic word for outdoors * outside of the immediate context￻外面的總稱，臨近的外圍"}]}],"t":"papotal"}
+,"para%27":{"h":[{"d":[{"s":["`hemot~"],"f":"￹￺seat * part of your body with which you sit * bottom￻身體用以坐下的屁股部位"},{"f":"￹￺the bottom of a container such as a bucket￻容器如水桶底部"},{"f":"￹￺the stern of a ship * the back of a vehicle￻輪船尾部，車子的後部"}]}],"t":"para'"}
+,"parac":{"h":[{"d":[{"s":["`cokat~"],"e":["￹`Ma~`parac~ `ko~ `foti'~ `ako~.￺My sleep was interrupted.￻我的睡眠被干擾","￹`Aka~ `pi~`parac~ `to~ `foti'~ `ako~.￺Don't interrupt my sleep.￻不要妨礙我的睡眠"],"f":"￹￺to interrupt sleep￻妨礙睡眠"}]}],"t":"parac"}
+,"parafas":{"h":[{"d":[{"s":["`rafas~"],"f":"￹￺to give so much that there is an over supply￻比標準多一點，多出"}]}],"t":"parafas"}
+,"parana%27an":{"h":[{"d":[{"e":["￹`parana'an~ `no~ `loma'~￺the building's foundation￻建築物的根基"],"f":"￹￺the base * foundation￻地基，基部"}]}],"t":"parana'an"}
+,"parar":{"h":[{"d":[{"s":["`cokoi~"],"f":"￹￺a table￻桌子"}]}],"t":"parar"}
 ,"parekpek":{"h":[{"d":[{"f":"￹￺to march * the beat of feet￻長途跋涉，用力踏步"}]}],"t":"parekpek"}
-,"parikor":{"h":[{"d":[{"l":["`paikor~"],"e":["￹`parikor~ `to~ `sowal~￺to make a farewell speech￻告別辭","￹`parikor~ `to~ `dmak~￺to help with some activity for the last time (before leaving)￻臨行前對一些活動，做最後的交代與協助","￹`parikor~ `a~ `pakaen~￺to give a farewell meal to (someone who is leaving)￻臨別請客，餞行"],"f":"￹￺to do for the last time￻最後的交代"}]}],"t":"parikor"}
-,"pariwan":{"h":[{"d":[{"l":["`Pariwan~"],"f":"￹￺the name of a neighboring tribal group in Taiwan called the Paiwan￻排灣族"}]}],"t":"pariwan"}
-,"paro":{"h":[{"d":[{"e":["￹`Papina~ `ko~ `paro~ `no~ `loma'~ `iso~?￺How many members are there in your family?￻你家有幾口人？"],"f":"￹￺members of a group￻一個團體的組成份子"},{"e":["￹`O~ `maan~ `ko~ `paro~ `noya~ `kaysing~￺What is in that dish?￻裝在碗裡面的是什麼東西？"],"f":"￹￺contents of￻⋯的內容"},{"e":["￹`Paroen~ `konini~ `i~ `paliding~ `ako~.￺Put this in my vehicle.￻請把這東西裝在我的車子裡"],"f":"￹￺to put inside of￻裝進裡面"}]}],"t":"paro"}
-,"paro%27ot":{"h":[{"d":[{"l":["`patono~"],"f":"￹￺to see a person off * saying farewell and staying behind and watching him go￻目送，歡送，送行，說聲珍重再見，站在那裡目送他走"}]}],"t":"paro'ot"}
-,"parod":{"h":[{"d":[{"f":"￹￺cookig stove * hearth￻爐灶"},{"l":["`misaparod~"],"f":"￹￺family￻家庭"}]}],"t":"parod"}
-,"parok":{"h":[{"d":[{"e":["￹`no~ `kilang~ `a~ `parok~￺a tree * Bombox helaphylla willd￻木棉"],"f":"￹￺the tree and its flower which is like cotton￻棉花"},{"l":["`sawfang~"],"f":"￹￺heavy quilts * pugai * made from cotton-like stuffing￻棉被"}]}],"t":"parok"}
+,"parikor":{"h":[{"d":[{"s":["`paikor~"],"e":["￹`parikor~ `to~ `sowal~￺to make a farewell speech￻告別辭","￹`parikor~ `to~ `demak~￺to help with some activity for the last time (before leaving)￻臨行前對一些活動，做最後的交代與協助","￹`parikor~ `a~ `pakaen~￺to give a farewell meal to (someone who is leaving)￻臨別請客，餞行"],"f":"￹￺to do for the last time￻最後的交代"}]}],"t":"parikor"}
+,"pariwan":{"h":[{"d":[{"s":["`riwan~"],"f":"￹￺the name of a neighboring tribal group in Taiwan called the Paiwan￻排灣族"}]}],"t":"pariwan"}
+,"paro":{"h":[{"d":[{"e":["￹`na~ `ko~ `paro~ `no~ `loma'~ `iso~?￺How many members are there in your family?￻你家有幾口人？"],"f":"￹￺members of a group￻一個團體的組成份子"},{"e":["￹`O~ `maan~ `ko~ `paro~ `noya~ `kaysing~￺What is in that dish?￻裝在碗裡面的是什麼東西？"],"f":"￹￺contents of￻⋯的內容"},{"e":["￹`roen~ `konini~ `i~ `paliding~ `ako~.￺Put this in my vehicle.￻請把這東西裝在我的車子裡"],"f":"￹￺to put inside of￻裝進裡面"}]}],"t":"paro"}
+,"paro%27ot":{"h":[{"d":[{"s":["`patono~"],"f":"￹￺to see a person off * saying farewell and staying behind and watching him go￻目送，歡送，送行，說聲珍重再見，站在那裡目送他走"}]}],"t":"paro'ot"}
+,"parod":{"h":[{"d":[{"f":"￹￺cookig stove * hearth￻爐灶"},{"s":["`misaparod~"],"f":"￹￺family￻家庭"}]}],"t":"parod"}
+,"parok":{"h":[{"d":[{"e":["￹`no~ `kilang~ `a~ `parok~￺a tree * Bombox helaphylla willd￻木棉"],"f":"￹￺the tree and its flower which is like cotton￻棉花"},{"s":["`sawfan~"],"f":"￹￺heavy quilts * pugai * made from cotton-like stuffing￻棉被"}]}],"t":"parok"}
 ,"parokpok":{"h":[{"d":[{"f":"￹￺to gallop￻飛馳，飛奔離去"}]}],"t":"parokpok"}
 ,"parongaping":{"h":[{"d":[{"f":"￹￺the edge of clothing￻縫紉，縫合衣服的邊緣"}]}],"t":"parongaping"}
 ,"parpar":{"h":[{"d":[{"f":"￹￺to beat out grain or beans from the shells or husks￻打碎外殼取五穀或豆類"}]}],"t":"parpar"}
-,"pasafafaw":{"h":[{"d":[{"l":["`fafaw~"],"f":"￹￺to hike upriver through the riverbed or go in a boat￻往上而行，逆流而上"}]}],"t":"pasafafaw"}
-,"pasamo":{"h":[{"d":[{"e":["￹`pasamo~ `to~ `sowal~￺give the gist of the matter in words￻說要點，即興略說事情的要旨","￹`Pasamoen~ `ita~ `ko~ `dmak~ `anini~.￺For now let's improvise.￻今天讓我們即興而作以表敬意"],"f":"￹￺to improvise * do something temporarily￻臨時而作，即興而作之意"}]}],"t":"pasamo"}
-,"pasaripa%27an":{"h":[{"d":[{"l":["`ripa'~","`taripa'an~","`saripa'~"],"f":"￹￺a place to put ones feet￻踏步的地方"}]}],"t":"pasaripa'an"}
+,"pasafafaw":{"h":[{"d":[{"s":["`fafaw~"],"f":"￹￺to hike upriver through the riverbed or go in a boat￻往上而行，逆流而上"}]}],"t":"pasafafaw"}
+,"pasamo":{"h":[{"d":[{"e":["￹`pasamo~ `to~ `sowal~￺give the gist of the matter in words￻說要點，即興略說事情的要旨","￹`moen~ `ita~ `ko~ `demak~ `anini~.￺For now let's improvise.￻今天讓我們即興而作以表敬意"],"f":"￹￺to improvise * do something temporarily￻臨時而作，即興而作之意"}]}],"t":"pasamo"}
+,"pasaripa%27an":{"h":[{"d":[{"s":["`ripa'~","`taripa'an~","`saripa'~"],"f":"￹￺a place to put ones feet￻踏步的地方"}]}],"t":"pasaripa'an"}
 ,"pasasi%27ayaw":{"h":[{"d":[{"f":"￹￺to cause to face each other￻面對面"}]}],"t":"pasasi'ayaw"}
-,"pasayni":{"h":[{"d":[{"e":["￹`Pasayni~ `ko~ `rakat~ `nira~.￺He is headed this direction.￻他走向這裡來","￹`Pasaynien~ `ko~ `faloco'~.￺Give me your full attention. (speaker is the focus point).￻(請注意)，請全神貫注在這裡"],"f":"￹￺directly this way as the bird flies￻如飛鳥直飛而至"}]}],"t":"pasayni"}
-,"pasayra":{"h":[{"d":[{"e":["￹`Pasayra~ `a~ `minengneng~.￺Look that direction.￻請向那邊觀看","￹`Pasayraen~ `ko~ `faloco~.￺Give your full attention to that (away from speaker).￻請全神向那邊貫注","￹`pasayra~ `ko~ `rakat~ `nira~.￺He is headed in that direction￻他往向那邊走"],"f":"￹￺to be directed the other direction as the bird flies￻別的方向，如鳥之飛走"}]}],"t":"pasayra"}
+,"pasayni":{"h":[{"d":[{"e":["￹`yni~ `ko~ `rakat~ `nira~.￺He is headed this direction.￻他走向這裡來","￹`ynien~ `ko~ `faloco'~.￺Give me your full attention. (speaker is the focus point).￻(請注意)，請全神貫注在這裡"],"f":"￹￺directly this way as the bird flies￻如飛鳥直飛而至"}]}],"t":"pasayni"}
+,"pasayra":{"h":[{"d":[{"e":["￹`yra~ `a~ `mi~`nengneng~.￺Look that direction.￻請向那邊觀看","￹`yraen~ `ko~ `faloco~.￺Give your full attention to that (away from speaker).￻請全神向那邊貫注","￹`pasayra~ `ko~ `rakat~ `nira~.￺He is headed in that direction￻他往向那邊走"],"f":"￹￺to be directed the other direction as the bird flies￻別的方向，如鳥之飛走"}]}],"t":"pasayra"}
+,"paseka":{"h":[{"d":[{"e":["￹`O~ `maan~ `ko~ `ka~`paseka~`an~ `iso~?￺What is causing you to be inhibited / double-minded?￻你擔心什麼/你遲疑什麼？"],"f":"￹￺to hesitate￻遲疑，躊躇"},{"e":["￹`Pa~`seka~`seka~ `ko~ `faloco'~ `nira~ `anini~.￺He seems so inhibited * unnatural in responding at present.￻他現在心情似乎有些很驚慌，他現在反應不自然"],"f":"￹￺to be afraid * to have inhibitions￻害怕，抑制"},{"f":"￹￺to be double minded * to have reservations￻三心二意"}]}],"t":"paseka"}
+,"pasela%27":{"h":[{"d":[{"f":"￹￺to rest￻休息"},{"s":["`pa~`hanhan~","`sela'~"],"f":"￹￺to give breath * i.e. to rest￻休息，放假"}]}],"t":"pasela'"}
+,"pasema":{"h":[{"d":[{"s":["`sema~"],"f":"￹￺to stick out one's tongue￻伸舌頭"}]}],"t":"pasema"}
+,"paseta%27":{"h":[{"d":[{"e":["￹`Ma~`paseta'~ `kako~ `nai~ `paliding~.￺I fell out of the cart flat on the ground.￻我從車子摔出而跌在地上"],"f":"￹￺to suddenly fall down flat￻突然摔倒"}]}],"t":"paseta'"}
+,"pasetek":{"h":[{"d":[{"s":["`setek~"],"e":["￹`Ma~`pasetek~ `to~ `ko~ `sowal~.￺The matter is settled / decided.￻話已決定，事情已決定","￹`O~ `ni~`pasetek~`an~ `to~ `a~ `romi'ad~ `anini~.￺This is the day that was set.￻今天是決定的日子","￹`paseteko~ `i~ `patay~ `koya~ `ci~`raraw~`ay~ `a~ `tamdaw~.￺That sinner is condemned to death.￻那個罪人被宣判死刑","￹`Ma~`pasetek~ `to~ `i~ `raraw~ `kika~ `o~ `tamdaw~.￺We people have been condemned in sin.￻我們人類被定在罪中"],"f":"￹￺to figuaratively cut something * i.e. to make a decision￻比喻上指對某些事物的決斷, 就是做某種決定"}]}],"t":"pasetek"}
+,"paseteng":{"h":[{"d":[{"s":["`paketing~"],"f":"￹￺to stake out * tie up to * referring to animals￻拴住，綁，捆，用繩子繫住 (家禽)"}]}],"t":"paseteng"}
 ,"pasi%27ayaw":{"h":[{"d":[{"f":"￹￺to face ahead in direction￻向前"}]}],"t":"pasi'ayaw"}
-,"pasifafa%27ed":{"h":[{"d":[{"l":["`fafa'ed~"],"f":"￹￺directed towards above￻向上(走或看)"}]}],"t":"pasifafa'ed"}
-,"pasifana%27":{"h":[{"d":[{"l":["`fana'~"],"f":"￹￺teach * give instruction￻教導，教書，教學"}]}],"t":"pasifana'"}
-,"pasikaen":{"h":[{"d":[{"f":"￹￺to eat all food * not just rice￻吃擺出來的食物(不只是吃飯而已)"},{"l":["`kaen~"],"f":"￹￺command to shy uneasy dinner guests￻催客氣的食客吃菜餚"}]}],"t":"pasikaen"}
-,"pasiket":{"h":[{"d":[{"l":["`siket~"],"f":"￹￺attach to * hook up to￻屬於，鈎住"}]}],"t":"pasiket"}
-,"pasimal":{"h":[{"d":[{"f":"￹￺to add oil / gasoline￻加油 / 汽油"},{"f":"￹￺to rub oil or grease on￻塗油"},{"l":["`simal~"],"f":"￹￺to cook with oil￻煮菜要用油，烹調時菜上加油"}]}],"t":"pasimal"}
-,"pasirian":{"h":[{"d":[{"l":["`siri~"],"f":"￹￺sheep, goat pen￻羊舍，山羊舍"}]}],"t":"pasirian"}
-,"paska":{"h":[{"d":[{"e":["￹`O~ `maan~ `ko~ `kapaskaan~ `iso~?￺What is causing you to be inhibited / double-minded?￻你擔心什麼/你遲疑什麼？"],"f":"￹￺to hesitate￻遲疑，躊躇"},{"e":["￹`Paskaska~ `ko~ `faloco'~ `nira~ `anini~.￺He seems so inhibited * unnatural in responding at present.￻他現在心情似乎有些很驚慌，他現在反應不自然"],"f":"￹￺to be afraid * to have inhibitions￻害怕，抑制"},{"f":"￹￺to be double minded * to have reservations￻三心二意"}]}],"t":"paska"}
-,"pasla%27":{"h":[{"d":[{"f":"￹￺to rest￻休息"},{"l":["`pahanhan~","`sla'~"],"f":"￹￺to give breath * i.e. to rest￻休息，放假"}]}],"t":"pasla'"}
-,"pasma":{"h":[{"d":[{"l":["`sma~"],"f":"￹￺to stick out one's tongue￻伸舌頭"}]}],"t":"pasma"}
+,"pasifafaed":{"h":[{"d":[{"s":["`fafaed~"],"f":"￹￺directed towards above￻向上(走或看)"}]}],"t":"pasifafaed"}
+,"pasifana%27":{"h":[{"d":[{"s":["`fana'~"],"f":"￹￺teach * give instruction￻教導，教書，教學"}]}],"t":"pasifana'"}
+,"pasikaen":{"h":[{"d":[{"f":"￹￺to eat all food * not just rice￻吃擺出來的食物(不只是吃飯而已)"},{"s":["`kaen~"],"f":"￹￺command to shy uneasy dinner guests￻催客氣的食客吃菜餚"}]}],"t":"pasikaen"}
+,"pasiket":{"h":[{"d":[{"s":["`siket~"],"f":"￹￺attach to * hook up to￻屬於，鈎住"}]}],"t":"pasiket"}
+,"pasimal":{"h":[{"d":[{"f":"￹￺to add oil / gasoline￻加油 / 汽油"},{"f":"￹￺to rub oil or grease on￻塗油"},{"s":["`simal~"],"f":"￹￺to cook with oil￻煮菜要用油，烹調時菜上加油"}]}],"t":"pasimal"}
+,"pasirian":{"h":[{"d":[{"s":["`siri~"],"f":"￹￺sheep, goat pen￻羊舍，山羊舍"}]}],"t":"pasirian"}
 ,"paso":{"h":[{"d":[{"f":"￹￺bus (from Japanese and English)￻巴士 (引自日語和英語)"}]}],"t":"paso"}
-,"paso%27lin":{"h":[{"d":[{"l":["`so'lin~","`pakaso'lin~"],"e":["￹`Cima~ `ko~ `papaso'linen~ `ita~?￺Who can we believe?￻誰值得我們信任？","￹`Pakapaso'lin~ `kiso~ `haw~?￺Can you believe?￻你能相信嗎？","￹`Paso'linen~ `ko~ `sowal~ `ako~.￺Believe what I say.￻請相信我所說的話","￹`O~ `maan~ `ko~ `nipaso'linan~ `iso~?￺What doctrine do you believe?￻你相信什麼呢？"],"f":"￹￺to believe * literally to cause / make out to be true * to have confidence￻相信，信任；字面上說那是真的理由；有確信"}]}],"t":"paso'lin"}
-,"pasongan":{"h":[{"d":[{"l":["`Pasongan~"],"f":"￹￺an Amis village￻台東縣長濱鄉白桑安阿美族部落"}]}],"t":"pasongan"}
-,"pasorot":{"h":[{"d":[{"l":["`sorot~"],"f":"￹￺pay dues￻捐贈"}]}],"t":"pasorot"}
-,"pasta%27":{"h":[{"d":[{"e":["￹`Mapasta'~ `kako~ `nai~ `paliding~.￺I fell out of the cart flat on the ground.￻我從車子摔出而跌在地上"],"f":"￹￺to suddenly fall down flat￻突然摔倒"}]}],"t":"pasta'"}
-,"pastek":{"h":[{"d":[{"l":["`stek~"],"e":["￹`Mapastekto~ `ko~ `sowal~.￺The matter is settled / decided.￻話已決定，事情已決定","￹`O~ `nipastekanto~ `a~ `romi'ad~ `anini~.￺This is the day that was set.￻今天是決定的日子","￹`Mapasteko~ `i~ `patay~ `koya~ `ciraraway~ `a~ `tamdaw~.￺That sinner is condemned to death.￻那個罪人被宣判死刑","￹`Mapastekto~ `i~ `raraw~ `kika~ `o~ `tamdaw~.￺We people have been condemned in sin.￻我們人類被定在罪中"],"f":"￹￺to figuaratively cut something * i.e. to make a decision￻比喻上指對某些事物的決斷, 就是做某種決定"}]}],"t":"pastek"}
-,"pasteng":{"h":[{"d":[{"l":["`pakting~"],"f":"￹￺to stake out * tie up to * referring to animals￻拴住，綁，捆，用繩子繫住 (家禽)"}]}],"t":"pasteng"}
-,"patada":{"h":[{"d":[{"f":"￹￺to be ready to receive before the object hits the ground￻東西接到地面以前先舖上墊子以策安然地接下東西"},{"l":["`tada~"],"f":"￹￺to hold so that the object is in the right position￻鋪上墊子使東西屹立不搖"}]}],"t":"patada"}
-,"patadas":{"h":[{"d":[{"l":["`tadas~"],"e":["￹`Patadas~ `cangra~ `anini~ `a~ `misaloma'~.￺They are beginning to build a house.￻他們開始重新蓋房子","￹`Patadas~ `cangra~ `to~ `omah~.￺The are making land into a field.￻他們重新耕地開拓"],"f":"￹￺to begin something new￻重新開始"}]}],"t":"patadas"}
-,"patado":{"h":[{"d":[{"l":["`tado~"],"e":["￹`Patado~ `ci~ `Yis~ `titaanan~ `a~ `milahci~ `to~ `dmak~.￺Jesus did the work for us (we don't have to do it).￻耶穌為我們完成救贖的工作"],"f":"￹￺to do for someone else so they don't have to do it themselves￻代某人默默的去做，使他們不必為他們該做的事去做"}]}],"t":"patado"}
-,"patafak":{"h":[{"d":[{"l":["`tafak~"],"f":"￹￺to give a cigarette or tobacco￻分享香烟或烟絲，以香烟招待"}]}],"t":"patafak"}
-,"patafoan":{"h":[{"d":[{"l":["`tafo~"],"f":"￹￺lunch basket and its contents￻便當盒"}]}],"t":"patafoan"}
-,"patahtah":{"h":[{"d":[{"f":"￹￺with sowal - to tell everything￻胡說"},{"e":["￹`Patahtah~ `saan~ `cingra~ `a~ `parakat~ `to~ `citosiya~.￺He drove the car as he pleased (without regard to rules).￻他開車橫衝直撞不顧交通規則"],"f":"￹￺to do any way but not correctly￻任意做但不正確　"},{"f":"￹￺with 'orip - to live a life of ease and luxury￻生活遊手好閒，並且奢侈"}]}],"t":"patahtah"}
-,"patakosay":{"h":[{"d":[{"l":["`takos~"],"f":"￹￺a messenger to bring ambassadors from another village￻特派員，傳達信息的人，天使"}]}],"t":"patakosay"}
-,"patala":{"h":[{"d":[{"l":["`tala~"],"e":["￹`Patalaen~ `ko~ `faloco'~ `iso~.￺Prepare your heart.￻請你預備心"],"f":"￹￺to prepare * make preparations literally to make / cause to wait￻準備，預備，籌備，預先 準備；字面上說明等待的理由"}]}],"t":"patala"}
+,"paso%27elin":{"h":[{"d":[{"s":["`so'elin~","`paka~`so'elin~"],"e":["￹`Ci~`ma~ `ko~ `pa~`paso'elin~`en~ `ita~?￺Who can we believe?￻誰值得我們信任？","￹`Paka~`paso'elin~ `kiso~ `haw~?￺Can you believe?￻你能相信嗎？","￹`Pa~`so'elin~`en~ `ko~ `sowal~ `ako~.￺Believe what I say.￻請相信我所說的話","￹`O~ `maan~ `ko~ `ni~`paso'elin~`an~ `iso~?￺What doctrine do you believe?￻你相信什麼呢？"],"f":"￹￺to believe * literally to cause / make out to be true * to have confidence￻相信，信任；字面上說那是真的理由；有確信"}]}],"t":"paso'elin"}
+,"pasongan":{"h":[{"d":[{"s":["`songan~"],"f":"￹￺an Amis village￻台東縣長濱鄉白桑安阿美族部落"}]}],"t":"pasongan"}
+,"pasorot":{"h":[{"d":[{"s":["`sorot~"],"f":"￹￺pay dues￻捐贈"}]}],"t":"pasorot"}
+,"patada":{"h":[{"d":[{"f":"￹￺to be ready to receive before the object hits the ground￻東西接到地面以前先舖上墊子以策安然地接下東西"},{"s":["`tada~"],"f":"￹￺to hold so that the object is in the right position￻鋪上墊子使東西屹立不搖"}]}],"t":"patada"}
+,"patadas":{"h":[{"d":[{"s":["`tadas~"],"e":["￹`Pa~`tadas~ `cangra~ `anini~ `a~ `misaloma'~.￺They are beginning to build a house.￻他們開始重新蓋房子","￹`Pa~`tadas~ `cangra~ `to~ `omah~.￺The are making land into a field.￻他們重新耕地開拓"],"f":"￹￺to begin something new￻重新開始"}]}],"t":"patadas"}
+,"patado":{"h":[{"d":[{"s":["`tado~"],"e":["￹`Pa~`tado~ `~ `Yis~ `titaanan~ `a~ `milaheci~ `to~ `demak~.￺Jesus did the work for us (we don't have to do it).￻耶穌為我們完成救贖的工作"],"f":"￹￺to do for someone else so they don't have to do it themselves￻代某人默默的去做，使他們不必為他們該做的事去做"}]}],"t":"patado"}
+,"patafak":{"h":[{"d":[{"s":["`tafak~"],"f":"￹￺to give a cigarette or tobacco￻分享香烟或烟絲，以香烟招待"}]}],"t":"patafak"}
+,"patafoan":{"h":[{"d":[{"s":["`tafo~"],"f":"￹￺lunch basket and its contents￻便當盒"}]}],"t":"patafoan"}
+,"patahtah":{"h":[{"d":[{"f":"￹￺with sowal - to tell everything￻胡說"},{"e":["￹`Pa~`tahtah~ `saan~ `cingra~ `a~ `pa~`rakat~ `to~ `citosiya~.￺He drove the car as he pleased (without regard to rules).￻他開車橫衝直撞不顧交通規則"],"f":"￹￺to do any way but not correctly￻任意做但不正確　"},{"f":"￹￺with 'orip - to live a life of ease and luxury￻生活遊手好閒，並且奢侈"}]}],"t":"patahtah"}
+,"patakosay":{"h":[{"d":[{"s":["`takos~"],"f":"￹￺a messenger to bring ambassadors from another village￻特派員，傳達信息的人，天使"}]}],"t":"patakosay"}
+,"patala":{"h":[{"d":[{"s":["`tala~"],"e":["￹`Pa~`tala~`en~ `ko~ `faloco'~ `iso~.￺Prepare your heart.￻請你預備心"],"f":"￹￺to prepare * make preparations literally to make / cause to wait￻準備，預備，籌備，預先 準備；字面上說明等待的理由"}]}],"t":"patala"}
 ,"patala%27ayaw":{"h":[{"d":[{"f":"￹￺to send on ahead￻領到前面來"}]}],"t":"patala'ayaw"}
-,"patalahkal":{"h":[{"d":[{"f":"￹￺to reveal￻公開，顯示"},{"l":["`hkal~","`talahkal~"],"e":["￹`Mapatalahkalto~ `koya~ `dmak~￺The thing is revealed.￻事情已經被公開了","￹`Patalahkalto~ `ko~ `raraw~ `iso~.￺Confess your sin.￻你要告白你的罪"],"f":"￹￺confess * reveal￻承認，認罪，自認，啓示，告別"}]}],"t":"patalahkal"}
-,"patalaw":{"h":[{"d":[{"l":["`talaw~"],"f":"￹￺to threaten￻恐嚇，威脅"}]}],"t":"patalaw"}
-,"pataloma%27":{"h":[{"d":[{"f":"￹￺to have a wedding * to marry * give in marriage￻結婚，婚禮，娶親"},{"l":["`paka'tim~","`pararamod~","`loma'~"],"e":["￹`O~ `pipataloma'an~ `to~ `wawa~ `niyam~ `anini~.￺This is the day to marry our child.￻今天是我們兒子結婚大喜的日子"],"f":"￹￺Literally to take into the home be cause an in law has been brought into the home￻字面上指把媳婦(新娘)或贅婿(新郎)帶回家的意思"}]}],"t":"pataloma'"}
-,"pataminaan":{"h":[{"d":[{"l":["`tamina~"],"f":"￹￺harbor￻渡船的碼頭"}]}],"t":"pataminaan"}
-,"patangal":{"h":[{"d":[{"l":["`mihtangal~"],"f":"￹￺Refer to `mihtangal~￻詳見 `mihtangal~"}]}],"t":"patangal"}
-,"patarod":{"h":[{"d":[{"e":["￹`O~ `sapatarod~ `cingra~ `a~ `mimali~.￺He is a substitute ball player.￻他是後補球員","￹`O~ `sapatarod~ `konini~ `a~ `kikay~ `to~ `matastasay~￺This machine is a substitute for the original which is not working.￻這個機械是要替換原來已損壞的機械"],"f":"￹￺to substitute an item or person for the original￻儲備，後補，代替"}]}],"t":"patarod"}
-,"patay":{"h":[{"d":[{"e":["￹`Mapatayto~ `cingra~.￺He died.￻他死了","￹`Kinapatayto~ `cingra~.￺He killed himself.￻他自殺了","￹`O~ `kapatayan~ `nira~ `a~ `romi'ad~￺the day he died￻他死亡的日期","￹`Patayen~ `koya~ `waco~.￺Kill that dog.￻把那隻狗打死","￹`Papipatayen~ `cingra~ `to~ `'ada~ `ako~.￺Make him / have him kill my enemy.￻叫他殺死我的敵人","￹`O~ `papatayen~ `cingra~.￺He must be killed.￻他是要被槍斃的人"],"f":"￹￺death * to die￻死"},{"e":["￹`Mapatayto~ `ko~ `faloco'~ `ako~.￺I have lost my spirit.￻我的心已死了"],"f":"￹￺figurtatively to be crushed and despair￻比喻希望被粉碎和絕望"},{"e":["￹`patay~ `sa~ `a~ `misimed~ `to~ `patlac~￺search to protect ones reputation from scrutiny￻他極盡掩飾他的錯誤"],"f":"￹￺to go to extreme limits to do something￻極盡限制去做某些事情"}]}],"t":"patay"}
-,"patayi%27":{"h":[{"d":[{"l":["`tayi'~"],"f":"￹￺to put manure on￻施肥"}]}],"t":"patayi'"}
-,"patdo":{"h":[{"d":[{"l":["`pakido~"],"e":["￹`Aka~ `patdo~ `to~ `dmak~.￺Don't do things without regard for principle.￻不要任意做違犯原則的事情","￹`Patdo~ `sa~ `ko~ `sowal~ `nira~.￺He talked without thought for feelings or propriety.￻他隨便亂說"],"f":"￹￺to do something in a way that is contrary to rules or guidelines￻做違犯規則與指導原則的事情"}]}],"t":"patdo"}
-,"patek":{"h":[{"d":[{"l":["`lfot~","`cicing~"],"e":["￹`O~ `kakridan~ `no~ `masapatekey~ `a~ `sofitay~ `cingra~.￺He is officer over one thousand soldiers.￻他是千夫長"],"f":"￹￺a thousand, number value￻一千，數目"},{"f":"￹￺a knife or machete handle￻刀柄，把手"}]}],"t":"patek"}
+,"patalahekal":{"h":[{"d":[{"f":"￹￺to reveal￻公開，顯示"},{"s":["`hekal~","`talahekal~"],"e":["￹`Ma~`patalahekal~ `to~ `koya~ `demak~￺The thing is revealed.￻事情已經被公開了","￹`Pa~`talahekal~ `to~ `ko~ `raraw~ `iso~.￺Confess your sin.￻你要告白你的罪"],"f":"￹￺confess * reveal￻承認，認罪，自認，啓示，告別"}]}],"t":"patalahekal"}
+,"patalaw":{"h":[{"d":[{"s":["`talaw~"],"f":"￹￺to threaten￻恐嚇，威脅"}]}],"t":"patalaw"}
+,"pataloma%27":{"h":[{"d":[{"f":"￹￺to have a wedding * to marry * give in marriage￻結婚，婚禮，娶親"},{"s":["`'tim~","`pa~`ra~`ramod~","`loma'~"],"e":["￹`O~ `pi~`pataloma'~`an~ `to~ `wawa~ `niyam~ `anini~.￺This is the day to marry our child.￻今天是我們兒子結婚大喜的日子"],"f":"￹￺Literally to take into the home be cause an in law has been brought into the home￻字面上指把媳婦(新娘)或贅婿(新郎)帶回家的意思"}]}],"t":"pataloma'"}
+,"pataminaan":{"h":[{"d":[{"s":["`tamina~"],"f":"￹￺harbor￻渡船的碼頭"}]}],"t":"pataminaan"}
+,"patangal":{"h":[{"d":[{"s":["`mihitangal~"],"f":"￹￺Refer to `mihitangal~￻詳見 `mihitangal~"}]}],"t":"patangal"}
+,"patarod":{"h":[{"d":[{"e":["￹`O~ `tarod~ `cingra~ `a~ `mimali~.￺He is a substitute ball player.￻他是後補球員","￹`O~ `tarod~ `konini~ `a~ `kikay~ `to~ `ma~`tastas~`ay~￺This machine is a substitute for the original which is not working.￻這個機械是要替換原來已損壞的機械"],"f":"￹￺to substitute an item or person for the original￻儲備，後補，代替"}]}],"t":"patarod"}
+,"patay":{"h":[{"d":[{"e":["￹`Ma~`patay~ `to~ `cingra~.￺He died.￻他死了","￹`Kinapatay~ `to~ `cingra~.￺He killed himself.￻他自殺了","￹`O~ `ka~`patay~`an~ `nira~ `a~ `romi'ad~￺the day he died￻他死亡的日期","￹`tayen~ `koya~ `waco~.￺Kill that dog.￻把那隻狗打死","￹`tayen~ `cingra~ `to~ `'ada~ `ako~.￺Make him / have him kill my enemy.￻叫他殺死我的敵人","￹`O~ `pa~`patay~`en~ `cingra~.￺He must be killed.￻他是要被槍斃的人"],"f":"￹￺death * to die￻死"},{"e":["￹`Ma~`patay~ `to~ `ko~ `faloco'~ `ako~.￺I have lost my spirit.￻我的心已死了"],"f":"￹￺figurtatively to be crushed and despair￻比喻希望被粉碎和絕望"},{"e":["￹`patay~ `~ `a~ `mi~`simed~ `to~ `patelac~￺search to protect ones reputation from scrutiny￻他極盡掩飾他的錯誤"],"f":"￹￺to go to extreme limits to do something￻極盡限制去做某些事情"}]}],"t":"patay"}
+,"patayi%27":{"h":[{"d":[{"s":["`tayi'~"],"f":"￹￺to put manure on￻施肥"}]}],"t":"patayi'"}
+,"patedo":{"h":[{"d":[{"s":["`pakido~"],"e":["￹`Aka~ `patedo~ `to~ `demak~.￺Don't do things without regard for principle.￻不要任意做違犯原則的事情","￹`Pa~`tedo~ `~ `ko~ `sowal~ `nira~.￺He talked without thought for feelings or propriety.￻他隨便亂說"],"f":"￹￺to do something in a way that is contrary to rules or guidelines￻做違犯規則與指導原則的事情"}]}],"t":"patedo"}
+,"patefo":{"h":[{"d":[{"s":["`pipatefoan~"],"e":["￹`patefo~ `to~ `sowal~￺to decide to do something￻答覆"],"f":"￹￺to light upon * to descend and perch or settle upon￻着落，降落，飛棲安居"}]}],"t":"patefo"}
+,"patek":{"h":[{"d":[{"s":["`lfot~","`cing~"],"e":["￹`O~ `kakeridan~ `no~ `sapatekey~ `a~ `sofitay~ `cingra~.￺He is officer over one thousand soldiers.￻他是千夫長"],"f":"￹￺a thousand, number value￻一千，數目"},{"f":"￹￺a knife or machete handle￻刀柄，把手"}]}],"t":"patek"}
+,"patekel":{"h":[{"d":[{"s":["`tekel~"],"f":"￹￺to make go without eating￻不給予吃東西"}]}],"t":"patekel"}
+,"patelac":{"h":[{"d":[{"f":"￹￺to miss the mark￻錯劃記號，錯過記號"},{"f":"￹￺to make a mistake * do the wrong thing￻犯錯，做錯事"}]}],"t":"patelac"}
+,"patelaw":{"h":[{"d":[{"f":"￹￺the upper arm * from the elbow to the shoulder￻手臂肌肉，從肘部至肩膀的肌肉"}]}],"t":"patelaw"}
+,"pateli":{"h":[{"d":[{"s":["`teli~"],"f":"￹￺to put or place￻放置"}]}],"t":"pateli"}
+,"patelian":{"h":[{"d":[{"s":["`teli~"],"f":"￹￺a place to put something￻放置處"}]}],"t":"patelian"}
 ,"pater":{"h":[{"d":[{"f":"￹￺to make run fast with reference to pedaling a bicycle￻速度跑的很快，參考騎腳踏車"}]}],"t":"pater"}
-,"patfo":{"h":[{"d":[{"l":["`pipatfoan~"],"e":["￹`patfo~ `to~ `sowal~￺to decide to do something￻答覆"],"f":"￹￺to light upon * to descend and perch or settle upon￻着落，降落，飛棲安居"}]}],"t":"patfo"}
-,"patifarang":{"h":[{"d":[{"l":["`tifarang~"],"f":"￹￺to cross one's legs￻把腿交叉在別人腿上睡"}]}],"t":"patifarang"}
+,"paterongan":{"h":[{"d":[{"s":["`trongan~"],"f":"￹￺name of an Amis village￻花蓮縣豐濱鄉新社部落名"}]}],"t":"paterongan"}
+,"patifarang":{"h":[{"d":[{"s":["`tifarang~"],"f":"￹￺to cross one's legs￻把腿交叉在別人腿上睡"}]}],"t":"patifarang"}
 ,"patih":{"h":[{"d":[{"f":"￹￺a fence or wall made of grass or bamboo￻圍牆，防風牆，或草製或竹製牆壁"}]}],"t":"patih"}
-,"patireng":{"h":[{"d":[{"e":["￹`Patirengen~ `koya~ `matfaday~ `a~ `hcek~.￺Stand up the pole that has fallen.￻把倒下來的柱子豎立起來"],"f":"￹￺to cause to stand * make stand￻使之站立"},{"f":"￹￺to establish￻建立"},{"e":["￹`Mipatirengay~ `cangra~ `to~ `loma'~ `anini~.￺They are building a house right now.￻他們現在正在建房子","￹`Mapatirengto~ `cingra~ `a~ `mala~ `hongti~.￺He was elected president / king.￻他已被封為王子，他已被選為總統了"],"f":"￹￺to build￻就任，建築"}]}],"t":"patireng"}
-,"patiyam":{"h":[{"d":[{"l":["`tiyam~"],"f":"￹￺to sell merchandise￻做生意，做買賣，交易"}]}],"t":"patiyam"}
-,"patiyamay":{"h":[{"d":[{"l":["`tiyam~"],"f":"￹￺a shop * place of business￻雜貨店，生意人，店舖"}]}],"t":"patiyamay"}
-,"patkel":{"h":[{"d":[{"l":["`tkel~"],"f":"￹￺to make go without eating￻不給予吃東西"}]}],"t":"patkel"}
-,"patlac":{"h":[{"d":[{"f":"￹￺to miss the mark￻錯劃記號，錯過記號"},{"f":"￹￺to make a mistake * do the wrong thing￻犯錯，做錯事"}]}],"t":"patlac"}
-,"patlaw":{"h":[{"d":[{"f":"￹￺the upper arm * from the elbow to the shoulder￻手臂肌肉，從肘部至肩膀的肌肉"}]}],"t":"patlaw"}
-,"patli":{"h":[{"d":[{"l":["`tli~"],"f":"￹￺to put or place￻放置"}]}],"t":"patli"}
-,"patlian":{"h":[{"d":[{"l":["`tli~"],"f":"￹￺a place to put something￻放置處"}]}],"t":"patlian"}
-,"pato%27":{"h":[{"d":[{"e":["￹`Mapato'~ `ko~ `mata~ `ako~ `to~ `nano~ `katomangican~ `ako~.￺My eyes are swollen from crying￻我眼睛而哭泣而腫起來"],"f":"￹￺to swell￻腫脹"}]}],"t":"pato'"}
-,"pato%27aya":{"h":[{"d":[{"l":["`patafang~","`to'aya~"],"e":["￹`Mala~ `sapato'aya~ `ko~ `tireng~ `ni~ `Yis~.￺Jesus' body became a blood sacrifice.￻耶穌的身體被供為祭品","￹`pipato'ayaan~ `a~ `romi'ad~￺day for offering a sacrifice￻獻祭的日子"],"f":"￹￺to offer in ritual a sacrifice something that must be killed￻獻祭牲物；殺生供奉祭品"}]}],"t":"pato'aya"}
-,"patokoan":{"h":[{"d":[{"l":["`toko~"],"f":"￹￺place where beam is anchored to a cross beam￻木頭交叉會合之地方"}]}],"t":"patokoan"}
-,"patonek":{"h":[{"d":[{"e":["￹`O~ `pipatonekan~ `a~ `romi'ad~ `anini~.￺This is the date that was set (as for a conference).￻今天是指定 (決定) 的日子","￹`Patoneken~ `ko~ `sowal~.￺Make a decision (about a matter).￻做一個決定(有關事件)"],"f":"￹￺to set * establish * decide￻設定，指定，設立，構想"},{"f":"￹￺with reference to time￻指時間"},{"f":"￹￺place or words or ideas or plans￻地點、觀念或計畫"}]}],"t":"patonek"}
+,"patireng":{"h":[{"d":[{"e":["￹`Pa~`tireng~`en~ `koya~ `ma~`tefad~`ay~ `a~ `hecek~.￺Stand up the pole that has fallen.￻把倒下來的柱子豎立起來"],"f":"￹￺to cause to stand * make stand￻使之站立"},{"f":"￹￺to establish￻建立"},{"e":["￹`Mi~`patireng~`ay~ `cangra~ `to~ `loma'~ `anini~.￺They are building a house right now.￻他們現在正在建房子","￹`Ma~`patireng~ `to~ `cingra~ `a~ `mala~ `hongti~.￺He was elected president / king.￻他已被封為王子，他已被選為總統了"],"f":"￹￺to build￻就任，建築"}]}],"t":"patireng"}
+,"patiyam":{"h":[{"d":[{"s":["`tiyam~"],"f":"￹￺to sell merchandise￻做生意，做買賣，交易"}]}],"t":"patiyam"}
+,"patiyamay":{"h":[{"d":[{"s":["`tiyam~"],"f":"￹￺a shop * place of business￻雜貨店，生意人，店舖"}]}],"t":"patiyamay"}
+,"pato%27":{"h":[{"d":[{"e":["￹`Ma~`pato'~ `ko~ `mata~ `ako~ `to~ `nano~ `tomangican~ `ako~.￺My eyes are swollen from crying￻我眼睛而哭泣而腫起來"],"f":"￹￺to swell￻腫脹"}]}],"t":"pato'"}
+,"pato%27aya":{"h":[{"d":[{"s":["`tafang~","`to'aya~"],"e":["￹`~ `sapa~`to'aya~ `ko~ `tireng~ `~ `Yis~.￺Jesus' body became a blood sacrifice.￻耶穌的身體被供為祭品","￹`pipato'ayaan~ `a~ `romi'ad~￺day for offering a sacrifice￻獻祭的日子"],"f":"￹￺to offer in ritual a sacrifice something that must be killed￻獻祭牲物；殺生供奉祭品"}]}],"t":"pato'aya"}
+,"patokoan":{"h":[{"d":[{"s":["`toko~"],"f":"￹￺place where beam is anchored to a cross beam￻木頭交叉會合之地方"}]}],"t":"patokoan"}
+,"patonek":{"h":[{"d":[{"e":["￹`O~ `pi~`patonek~`an~ `a~ `romi'ad~ `anini~.￺This is the date that was set (as for a conference).￻今天是指定 (決定) 的日子","￹`Pa~`tonek~`en~ `ko~ `sowal~.￺Make a decision (about a matter).￻做一個決定(有關事件)"],"f":"￹￺to set * establish * decide￻設定，指定，設立，構想"},{"f":"￹￺with reference to time￻指時間"},{"f":"￹￺place or words or ideas or plans￻地點、觀念或計畫"}]}],"t":"patonek"}
 ,"patongaren":{"h":[{"d":[{"f":"￹￺upper garments￻男用長外衣"}]}],"t":"patongaren"}
-,"patono":{"h":[{"d":[{"l":["`paro'ot~"],"f":"￹￺to see someone off, to bid farewell staying behind￻歡送，目送，餞行；囑咐後，停住目送"}]}],"t":"patono"}
-,"patorod":{"h":[{"d":[{"e":["￹`Patoroden~ `kako~ `tonini~ `a~ `tayal~.￺Give me this responsibility.￻把這工作交給我做","￹`O~ `pipatorodan~ `a~ `romi'ad~ `anini~.￺This is the day that the responsibility changes hands.￻今天是交負重任的日期","￹`O~ `papatoroden~ `ako~ `i~ `tisowanan~ `konini~ `a~ `dmak~.￺I must turn over this matter to you.￻這件事情我要交託給你去做"],"f":"￹￺to hand over responsibility for￻委託，拜託，託負，交記，交付"}]}],"t":"patorod"}
-,"patosokan":{"h":[{"d":[{"l":["`patosekan~"],"f":"￹￺goal * objective * purpose￻目的地，目標，箭靶"}]}],"t":"patosokan"}
-,"patrongan":{"h":[{"d":[{"l":["`Patrongan~"],"f":"￹￺name of an Amis village￻花蓮縣豐濱鄉新社部落名"}]}],"t":"patrongan"}
-,"pawacay":{"h":[{"d":[{"f":"￹￺to give evidence￻提出證物"},{"l":["`wacay~","`mawacacy~"],"f":"￹￺to witness￻做見證，做證人"}]}],"t":"pawacay"}
-,"pawadis":{"h":[{"d":[{"l":["`wadis~"],"f":"￹￺to cut a tooth￻長牙，出牙"}]}],"t":"pawadis"}
-,"pawali":{"h":[{"d":[{"e":["￹`Mipawali~ `ko~ `fiyaw~ `to~ `panay~ `nangra~.￺The neighbors are drying their rice (on the drying floor).￻隔壁鄰居在曬他們的穀子","￹`Pawalien~ `ko~ `riko'~.￺Hang up the clothes to dry.￻把衣服拿去曬"],"f":"￹￺to dry outside￻曬"}]}],"t":"pawali"}
-,"pawan":{"h":[{"d":[{"l":["`tawal~"],"e":["￹`Mapawan~ `kako~ `a~ `pasowal~ `i~ `cingraan~.￺I forgot to tell him.￻我忘了告訴他","￹`O~ `maan~ `ko~ `kapawanan~ `iso~?￺What did you forget?￻你忘了什麼呢？"],"f":"￹￺to forget￻忘記"}]}],"t":"pawan"}
-,"pawawa":{"h":[{"d":[{"f":"￹￺to give offspring￻使受孕"},{"l":["`wawa~"],"f":"￹￺to charge interest￻生利息"}]}],"t":"pawawa"}
-,"pawing":{"h":[{"d":[{"l":["`'iring~"],"f":"￹￺to lean head to one side￻歪頭，頭傾向一邊"}]}],"t":"pawing"}
+,"patono":{"h":[{"d":[{"s":["`paro'ot~"],"f":"￹￺to see someone off, to bid farewell staying behind￻歡送，目送，餞行；囑咐後，停住目送"}]}],"t":"patono"}
+,"patorod":{"h":[{"d":[{"e":["￹`Pa~`torod~`en~ `kako~ `tonini~ `a~ `tayal~.￺Give me this responsibility.￻把這工作交給我做","￹`O~ `pi~`patorod~`an~ `a~ `romi'ad~ `anini~.￺This is the day that the responsibility changes hands.￻今天是交負重任的日期","￹`O~ `pa~`patorod~`en~ `ako~ `i~ `tisowanan~ `konini~ `a~ `demak~.￺I must turn over this matter to you.￻這件事情我要交託給你去做"],"f":"￹￺to hand over responsibility for￻委託，拜託，託負，交記，交付"}]}],"t":"patorod"}
+,"patosokan":{"h":[{"d":[{"s":["`tosekan~"],"f":"￹￺goal * objective * purpose￻目的地，目標，箭靶"}]}],"t":"patosokan"}
+,"pawacay":{"h":[{"d":[{"f":"￹￺to give evidence￻提出證物"},{"s":["`wacay~","`mawacacy~"],"f":"￹￺to witness￻做見證，做證人"}]}],"t":"pawacay"}
+,"pawadis":{"h":[{"d":[{"s":["`wadis~"],"f":"￹￺to cut a tooth￻長牙，出牙"}]}],"t":"pawadis"}
+,"pawali":{"h":[{"d":[{"e":["￹`Mi~`pawali~ `ko~ `fiyaw~ `to~ `panay~ `nangra~.￺The neighbors are drying their rice (on the drying floor).￻隔壁鄰居在曬他們的穀子","￹`Pa~`wali~`en~ `ko~ `riko'~.￺Hang up the clothes to dry.￻把衣服拿去曬"],"f":"￹￺to dry outside￻曬"}]}],"t":"pawali"}
+,"pawan":{"h":[{"d":[{"s":["`tawal~"],"e":["￹`Ma~`pawan~ `kako~ `a~ `pa~`sowal~ `i~ `ngraan~.￺I forgot to tell him.￻我忘了告訴他","￹`O~ `maan~ `ko~ `ka~`pawan~`an~ `iso~?￺What did you forget?￻你忘了什麼呢？"],"f":"￹￺to forget￻忘記"}]}],"t":"pawan"}
+,"pawawa":{"h":[{"d":[{"f":"￹￺to give offspring￻使受孕"},{"s":["`wawa~"],"f":"￹￺to charge interest￻生利息"}]}],"t":"pawawa"}
+,"pawing":{"h":[{"d":[{"s":["`'iring~"],"f":"￹￺to lean head to one side￻歪頭，頭傾向一邊"}]}],"t":"pawing"}
 ,"pawli":{"h":[{"d":[{"f":"￹￺banana * bananas￻香蕉"}]}],"t":"pawli"}
-,"pawpaw":{"h":[{"d":[{"e":["￹`Mapawpaw~ `ko~ `faloco'~ `ako~ `anini~.￺My heart is adrift / i.e. I have no direction for what to do.￻今天我心情猶豫不決，今天我心飄浮不定","￹`Mapawpaw~ `ko~ `sowal~ `nira~.￺His words are without significance * impractical.￻他的話很膚淺","￹`Mapawpaw~ `ko~ `'aol~ `i~ `riyar~.￺Bamboo is adrift in the ocean.￻竹子在海中飄浮"],"f":"￹￺to drift * be afloat, with literal and figurative meanings￻飄浮，猶豫，不固定，不穩重，輕浮；字面上和比喻上的涵義"}]}],"t":"pawpaw"}
+,"pawpaw":{"h":[{"d":[{"e":["￹`Ma~`pawpaw~ `ko~ `faloco'~ `ako~ `anini~.￺My heart is adrift / i.e. I have no direction for what to do.￻今天我心情猶豫不決，今天我心飄浮不定","￹`Ma~`pawpaw~ `ko~ `sowal~ `nira~.￺His words are without significance * impractical.￻他的話很膚淺","￹`Ma~`pawpaw~ `ko~ `'aol~ `i~ `riyar~.￺Bamboo is adrift in the ocean.￻竹子在海中飄浮"],"f":"￹￺to drift * be afloat, with literal and figurative meanings￻飄浮，猶豫，不固定，不穩重，輕浮；字面上和比喻上的涵義"}]}],"t":"pawpaw"}
 ,"pawti":{"h":[{"d":[{"f":"￹￺gunny sack * gunny sacking * burlap￻麻袋，粗麻布"}]}],"t":"pawti"}
 ,"paya":{"h":[{"d":[{"f":"￹￺a sign or notice attached to something￻牌子"}]}],"t":"paya"}
 ,"payak":{"h":[{"d":[{"f":"￹￺to fall over in one piece as for a fence to fall down￻整塊的傾倒在地上，如同整塊圍牆或籬笆"}]}],"t":"payak"}
-,"payax":{"h":[{"d":[{"f":"￹￺to break down￻破壞，弄壞，壓毀"},{"l":["`pkoh~","`roroh~"],"f":"￹￺as of dirt dikes between terraces of rice fields￻如破壞田裡之間田埂及壕溝"}]}],"t":"payax"}
+,"payax":{"h":[{"d":[{"f":"￹￺to break down￻破壞，弄壞，壓毀"},{"s":["`pkoh~","`roroh~"],"f":"￹￺as of dirt dikes between terraces of rice fields￻如破壞田裡之間田埂及壕溝"}]}],"t":"payax"}
 ,"payayoka":{"h":[{"d":[{"f":"￹￺an edible vegetation * Diplocyclos palmatus￻百香果"}]}],"t":"payayoka"}
-,"payci":{"h":[{"d":[{"f":"￹￺a coin * coins￻錢幣"},{"l":["`papaycian~"],"f":"￹￺generic in some dialects for money￻某些方言指錢的總稱"}]}],"t":"payci"}
+,"payci":{"h":[{"d":[{"f":"￹￺a coin * coins￻錢幣"},{"s":["`papaycian~"],"f":"￹￺generic in some dialects for money￻某些方言指錢的總稱"}]}],"t":"payci"}
 ,"paydas":{"h":[{"d":[{"f":"￹￺a species of tree * Philippine Hackberry cinnamon￻肉桂"}]}],"t":"paydas"}
-,"payo":{"h":[{"d":[{"l":["`sapayo~"],"e":["￹`mipayo~ `to~ `panay~￺to spray the rice fields with insecticide￻水稻噴灑農藥","￹`mipayo~ `to~ `adadaay~￺1. take sick person to the doctor  2. give medicine to / treat the sick person￻1. 帶病人給醫生看  2. 給病人吃藥/或治療病人"],"f":"￹￺to apply medicine or insecticide￻治療"}]}],"t":"payo"}
-,"payrang":{"h":[{"d":[{"l":["`Payrang~"],"f":"￹￺Taiwanese people￻台灣人"}]}],"t":"payrang"}
-,"paysin":{"h":[{"d":[{"l":["`kapaysinan~"],"e":["￹`Paysin~ `aka~ `ka~ `saan~ `a~ `komaen~ `to~ `titi~.￺Don't consider it taboo to eat meat.￻不要以為吃豬肉是違犯禁忌","￹`Adihay~ `ko~ `kapaysinan~ `no~ `'Amis~ `itiyaho~.￺The Amis used to have a lot of sacred and religious prohibitions / taboo.￻古代阿美族有很多禁忌 (迷信)"],"f":"￹￺taboo * the thought of taboo￻禁忌，迷信，忌諱"}]}],"t":"paysin"}
-,"payso":{"h":[{"d":[{"l":["`payci~","`pida~","`papaysoan~"],"f":"￹￺generic term for money￻錢，銀幣，錢幣，鈔票"}]}],"t":"payso"}
-,"paytmek":{"h":[{"d":[{"l":["`payniyah~"],"f":"￹￺to each do his own way * do his own thing * individually￻各做各的，自掃門前雪"}]}],"t":"paytmek"}
-,"pca%27":{"h":[{"d":[{"f":"￹￺out of joint * dislocated from the joint so that the end hangs loose￻折斷，踹斷，脫臼，斷層"},{"e":["￹`Mapca'~ `ko~ `kamay~.￺The lower arm hangs loose at the elbow.￻手折斷，手脫臼","￹`Aka~ `pipca'~ `to~ `ca'ang~ `no~ `kilang~.￺Don't break loose the tree branch (at the joint).￻不要折樹枝"],"f":"￹￺referring to people or things￻指人或事物"}]}],"t":"pca'"}
-,"pcas":{"h":[{"d":[{"l":["`pca'~","`pincas~"],"e":["￹`Pcasen~ `ko~ `ca'ang~ `ta~ `ma'araw~.￺Break the branch so that it dangles then we can see.￻要折斷樹枝才可以看見"],"f":"￹￺dislocated or broken at the joint so that the end hangs loose as of branches of a tree or a broken limb￻在結枝部位斷裂使尾部倒懸在那兒如同斷裂的樹枝或手臂"}]}],"t":"pcas"}
-,"pcec":{"h":[{"d":[{"e":["￹`Aka~ `pipcec~ `to~ `fao~.￺Don't smash living creatures.￻不要壓死昆蟲","￹`Mapcec~ `no~ `paliding~ `ko~ `posi~.￺The vehicle smashed the cat.￻貓被車子壓死"],"f":"￹￺flattened out and crushed by being stamped on or being hit with heavy weight (of living things)￻擠壓，壓扁，把有生命的東西用很大的重量壓扁或擊碎"}]}],"t":"pcec"}
-,"pci%27":{"h":[{"d":[{"f":"￹￺to break in pieces (South)￻破碎 (南部阿美語)"},{"f":"￹￺to break with only one piece missing (Hualien)￻破缺一塊 (花蓮語)"},{"l":["`pcih~"],"e":["￹`Mapapci'~ `to~ `flyaw~ `namo~ `to~ `ccay~ `a~ `siri~.￺Divide with your neighbors one sheep.￻與你鄰居平分一隻羊"],"f":"￹￺to divide and share * as for example food or land￻擘開食 物分享給別人，分一塊給人"}]}],"t":"pci'"}
-,"pcici":{"h":[{"d":[{"f":"￹￺to press on from two directions as when squeezing out pus from an infected pimple￻從兩個不同的方向同時擠壓，如擠出疔瘡或面疱的膿液"}]}],"t":"pcici"}
-,"pcih":{"h":[{"d":[{"l":["`pnapcih~","`kinapcih~","`pinapcih~"],"e":["￹`Mapcihay~ `koya~ `'pang~.￺Part of the loaf has been broken off.￻麵包被擘開一塊","￹`Mapcih~ `nira~ `ko~ `'pang~.￺He broke off a piece of bread.￻他擘了一塊麵包"],"f":"￹￺to break in half or take a piece off of as a loaf of bread as a lump of rice or lump of earth￻擘成一半或取走一半，如擘一塊麵包，如擘飯糰或成塊泥團"}]}],"t":"pcih"}
+,"payrang":{"h":[{"d":[{"s":["`yrang~"],"f":"￹￺Taiwanese people￻台灣人"}]}],"t":"payrang"}
+,"paysin":{"h":[{"d":[{"s":["`kapaysinan~"],"e":["￹`ysin~ `aka~ `ka~ `saan~ `a~ `komaen~ `to~ `titi~.￺Don't consider it taboo to eat meat.￻不要以為吃豬肉是違犯禁忌","￹`Adihay~ `ko~ `kapaysinan~ `no~ `'Amis~ `itiyaho~.￺The Amis used to have a lot of sacred and religious prohibitions / taboo.￻古代阿美族有很多禁忌 (迷信)"],"f":"￹￺taboo * the thought of taboo￻禁忌，迷信，忌諱"}]}],"t":"paysin"}
+,"payso":{"h":[{"d":[{"s":["`payci~","`pida~","`papaysoan~"],"f":"￹￺generic term for money￻錢，銀幣，錢幣，鈔票"}]}],"t":"payso"}
 ,"pco%27":{"h":[{"d":[{"f":"￹￺to pick fruit from a tree or a bush￻從樹或灌木上摘取果實"}]}],"t":"pco'"}
-,"pcod":{"h":[{"d":[{"l":["`mapcod~","`pcoden~"],"f":"￹￺to leave * cause to leave place to which thing is attached￻相接的部位鬆掉"}]}],"t":"pcod"}
-,"pcoden":{"h":[{"d":[{"l":["`mapcod~","`pcod~"],"f":"￹￺grab hold of (a command)￻(命令)鬆開"}]}],"t":"pcoden"}
-,"pcoh":{"h":[{"d":[{"f":"￹￺snails found on rocks on the beach with edible flesh￻黏附在海岸岩石上可食的海螺"},{"l":["`'afas~"],"f":"￹￺to take someone's place away from him￻趕他走而後把他的住處佔為己有"}]}],"t":"pcoh"}
-,"pdadac":{"h":[{"d":[{"f":"￹￺ripped clothing * badly torn￻衣服被撕裂一塊(穿在身上的)"}]}],"t":"pdadac"}
-,"pdadoki":{"h":[{"d":[{"l":["`padadoki~"],"f":"￹￺a bat * mammal￻蝙蝠"}]}],"t":"pdadoki"}
-,"pdek":{"h":[{"d":[{"l":["`sapdek~","`plek~"],"e":["￹`Mapdek~ `ko~ `tingki~.￺The electricity was switched off.￻熄滅","￹`Mapapdek~ `ko~ `mata~.￺Eyes are blinking.￻眼睛會眨，眼睛開閉"],"f":"￹￺to put out * as when lights are turned off￻熄滅，關燈"}]}],"t":"pdek"}
-,"pdeng":{"h":[{"d":[{"f":"￹￺state of having ears hurt from too much noise and confusion￻聲音響的過大和嘈雜聲所引起的聽覺傷害"}]}],"t":"pdeng"}
-,"pdik":{"h":[{"d":[{"e":["￹`Pdiken~ `ko~ `tatiplok~.￺Fold the paper over.￻把紙摺疊起來","￹`Mapdik~ `ko~ `tangila~ `noya~ `waco~.￺That dog's ears droop.￻那隻狗的耳朵垂下來"],"f":"￹￺drooping * folded over * as the ears of a dog￻摺疊，垂耳 (如狗)"}]}],"t":"pdik"}
-,"pdoc":{"h":[{"d":[{"l":["`piyoc~"],"f":"￹￺to suddenly turn around and leave￻溜走，閃躲 (突然開溜)"}]}],"t":"pdoc"}
-,"pdoh":{"h":[{"d":[{"f":"￹￺the white pulp inside of a tree such as is used in making paper￻樹幹中間有白軟塊可作為紙張的原料"},{"l":["`mipdoh~","`miltek~"],"e":["￹`Mapdohto~ / `mahoracto~ `ko~ `lofoc~ `ako~.￺My sack is empty (contents have disappeared / fallen out).￻我的袋子已空了(內裝的物品不見了或完全倒出來)"],"f":"￹￺to be empty * disappear, as the contents of a container￻中空，如容器內面"}]}],"t":"pdoh"}
-,"pedped":{"h":[{"d":[{"e":["￹`Mapedped~ `ko~ `salikaka~ `a~ `milihay~.￺The Christians were packed / crowded in the worship service.￻參加禮拜的信徒擠滿了教堂"],"f":"￹￺to crowd * pack solid￻群眾擁擠，人山人海"}]}],"t":"pedped"}
-,"pekpek":{"h":[{"d":[{"e":["￹`Pekpeken~ `nira~ `ko~ `falohang~ `nira~.￺He beat his chest.￻他捶打他的胸部","￹`Mapekpek~ `no~ `wawa~ `koya~ `kolong~.￺That water buffalo was beaten by the children.￻那隻牛被孩子們猛打"],"f":"￹￺to beat with hand or board￻用手或木棍猛敲，猛打"}]}],"t":"pekpek"}
-,"pelpel":{"h":[{"d":[{"e":["￹`Mepelpel~ `no~ `paliding~ `koya~ `'aol~.￺That bamboo was broken by the vehicle.￻那根竹子被車子壓碎","￹`Aka~ `pipelpel~ `to~ `kaysing~.￺Don't break the dish.￻不要把碗打碎"],"f":"￹￺to break or crush by beating￻使破碎，使粉碎"}]}],"t":"pelpel"}
+,"pdadoki":{"h":[{"d":[{"s":["`padadoki~"],"f":"￹￺a bat * mammal￻蝙蝠"}]}],"t":"pdadoki"}
+,"peca%27":{"h":[{"d":[{"f":"￹￺out of joint * dislocated from the joint so that the end hangs loose￻折斷，踹斷，脫臼，斷層"},{"e":["￹`Ma~`peca'~ `ko~ `kamay~.￺The lower arm hangs loose at the elbow.￻手折斷，手脫臼","￹`Aka~ `pi~`peca'~ `to~ `ca'ang~ `no~ `kilang~.￺Don't break loose the tree branch (at the joint).￻不要折樹枝"],"f":"￹￺referring to people or things￻指人或事物"}]}],"t":"peca'"}
+,"pecas":{"h":[{"d":[{"s":["`peca'~","`pincas~"],"e":["￹`Pcasen~ `ko~ `ca'ang~ `ta~ `ma~`'araw~.￺Break the branch so that it dangles then we can see.￻要折斷樹枝才可以看見"],"f":"￹￺dislocated or broken at the joint so that the end hangs loose as of branches of a tree or a broken limb￻在結枝部位斷裂使尾部倒懸在那兒如同斷裂的樹枝或手臂"}]}],"t":"pecas"}
+,"pecec":{"h":[{"d":[{"e":["￹`Aka~ `pi~`pecec~ `to~ `fao~.￺Don't smash living creatures.￻不要壓死昆蟲","￹`Ma~`pecec~ `no~ `paliding~ `ko~ `posi~.￺The vehicle smashed the cat.￻貓被車子壓死"],"f":"￹￺flattened out and crushed by being stamped on or being hit with heavy weight (of living things)￻擠壓，壓扁，把有生命的東西用很大的重量壓扁或擊碎"}]}],"t":"pecec"}
+,"peci%27":{"h":[{"d":[{"f":"￹￺to break in pieces (South)￻破碎 (南部阿美語)"},{"f":"￹￺to break with only one piece missing (Hualien)￻破缺一塊 (花蓮語)"},{"s":["`pecih~"],"e":["￹`papeci'~ `to~ `fiyaw~ `namo~ `to~ `cecay~ `a~ `siri~.￺Divide with your neighbors one sheep.￻與你鄰居平分一隻羊"],"f":"￹￺to divide and share * as for example food or land￻擘開食 物分享給別人，分一塊給人"}]}],"t":"peci'"}
+,"pecici":{"h":[{"d":[{"f":"￹￺to press on from two directions as when squeezing out pus from an infected pimple￻從兩個不同的方向同時擠壓，如擠出疔瘡或面疱的膿液"}]}],"t":"pecici"}
+,"pecih":{"h":[{"d":[{"s":["`pinapecih~","`kinapecih~","`pinapecih~"],"e":["￹`Ma~`pecih~`ay~ `koya~ `epang~.￺Part of the loaf has been broken off.￻麵包被擘開一塊","￹`Ma~`pecih~ `nira~ `ko~ `epang~.￺He broke off a piece of bread.￻他擘了一塊麵包"],"f":"￹￺to break in half or take a piece off of as a loaf of bread as a lump of rice or lump of earth￻擘成一半或取走一半，如擘一塊麵包，如擘飯糰或成塊泥團"}]}],"t":"pecih"}
+,"pecod":{"h":[{"d":[{"s":["`mapecod~","`pecoden~"],"f":"￹￺to leave * cause to leave place to which thing is attached￻相接的部位鬆掉"}]}],"t":"pecod"}
+,"pecoden":{"h":[{"d":[{"s":["`mapecod~","`pecod~"],"f":"￹￺grab hold of (a command)￻(命令)鬆開"}]}],"t":"pecoden"}
+,"pecoh":{"h":[{"d":[{"f":"￹￺snails found on rocks on the beach with edible flesh￻黏附在海岸岩石上可食的海螺"},{"s":["`'afas~"],"f":"￹￺to take someone's place away from him￻趕他走而後把他的住處佔為己有"}]}],"t":"pecoh"}
+,"pedadac":{"h":[{"d":[{"f":"￹￺ripped clothing * badly torn￻衣服被撕裂一塊(穿在身上的)"}]}],"t":"pedadac"}
+,"pedek":{"h":[{"d":[{"s":["`sapedek~","`pelek~"],"e":["￹`Ma~`pedek~ `ko~ `tingki~.￺The electricity was switched off.￻熄滅","￹`papedek~ `ko~ `mata~.￺Eyes are blinking.￻眼睛會眨，眼睛開閉"],"f":"￹￺to put out * as when lights are turned off￻熄滅，關燈"}]}],"t":"pedek"}
+,"pedeng":{"h":[{"d":[{"f":"￹￺state of having ears hurt from too much noise and confusion￻聲音響的過大和嘈雜聲所引起的聽覺傷害"}]}],"t":"pedeng"}
+,"pedik":{"h":[{"d":[{"e":["￹`Pediken~ `ko~ `tatipelok~.￺Fold the paper over.￻把紙摺疊起來","￹`Ma~`pedik~ `ko~ `tangila~ `noya~ `waco~.￺That dog's ears droop.￻那隻狗的耳朵垂下來"],"f":"￹￺drooping * folded over * as the ears of a dog￻摺疊，垂耳 (如狗)"}]}],"t":"pedik"}
+,"pedoc":{"h":[{"d":[{"s":["`piyoc~"],"f":"￹￺to suddenly turn around and leave￻溜走，閃躲 (突然開溜)"}]}],"t":"pedoc"}
+,"pedoh":{"h":[{"d":[{"f":"￹￺the white pulp inside of a tree such as is used in making paper￻樹幹中間有白軟塊可作為紙張的原料"},{"s":["`mipedoh~","`mi~`letek~"],"e":["￹`Ma~`pedoh~ `to~ / `ma~`horac~ `to~ `ko~ `lofoc~ `ako~.￺My sack is empty (contents have disappeared / fallen out).￻我的袋子已空了(內裝的物品不見了或完全倒出來)"],"f":"￹￺to be empty * disappear, as the contents of a container￻中空，如容器內面"}]}],"t":"pedoh"}
+,"pedped":{"h":[{"d":[{"e":["￹`Ma~`pedped~ `ko~ `salikaka~ `a~ `mi~`lihay~.￺The Christians were packed / crowded in the worship service.￻參加禮拜的信徒擠滿了教堂"],"f":"￹￺to crowd * pack solid￻群眾擁擠，人山人海"}]}],"t":"pedped"}
+,"pekaw":{"h":[{"d":[{"e":["￹`Alapek~`apekaw~ `~ `cangra~ `a~ `mi~`laliw~.￺They all fled.￻他們各自飛奔逃走"],"f":"￹￺to suddenly run away quickly￻突然奔馳跑掉"}]}],"t":"pekaw"}
+,"pekpek":{"h":[{"d":[{"e":["￹`Pekpeken~ `nira~ `ko~ `falohang~ `nira~.￺He beat his chest.￻他捶打他的胸部","￹`Ma~`pekpek~ `no~ `wawa~ `koya~ `kolong~.￺That water buffalo was beaten by the children.￻那隻牛被孩子們猛打"],"f":"￹￺to beat with hand or board￻用手或木棍猛敲，猛打"}]}],"t":"pekpek"}
+,"pela%27":{"h":[{"d":[{"s":["`mipela'~"],"e":["￹`O~ `pela'~ `konini~.￺This is half of something split.￻這是另一半","￹`Pla'~ `en~ `ko~ `kasoy~.￺Chop / split wood￻把柴火劈開"],"f":"￹￺to split into two￻劈開"}]}],"t":"pela'"}
+,"pelek":{"h":[{"d":[{"s":["`pedek~","`sapelek~","`sapedek~"],"e":["￹`Pa~`pelek~ `ko~ `mata~.￺The eyes blinked.￻眼睛在霎著"],"f":"￹￺to go off and on * to blink￻眨眼，閉眼死了，霎眼"}]}],"t":"pelek"}
+,"peleng":{"h":[{"d":[{"e":["￹`Aka~ `pi~`peleng~ `to~ `loma'~ `ita~.￺Don't destroy our home.￻不要破壞我們的家","￹`Ma~`peleng~ `to~ `ko~ `niyaro'~ `nangra~.￺Their village is destroyed.￻他們的部落被摧毀了"],"f":"￹￺to destroy * collapse * fall apart * break up￻打碎，毀壞，倒閉，崩潰，瓦解"}]}],"t":"peleng"}
+,"peles":{"h":[{"d":[{"f":"￹￺to knock people down with words * to criticize￻用話壓制別人"},{"f":"￹￺to smash something large so that the insides come out or are detached as a chicken run over by a vehicle or hand smashed in machinery.￻打碎東西使裡面東西出來，或支離破碎如雞被輾死狀或手被機器壓碎"}]}],"t":"peles"}
+,"peloc":{"h":[{"d":[{"e":["￹`sa~`peloc~ `a~ `wawa~￺the last child * the youngest￻最小的孩子"],"f":"￹￺to pull off * disengage as to take off a ring * as to let down a baby that has been tied on its mother's back￻鬆脫，如戒指、手燭等脫落，如揹在背上的孩子帶子鬆掉而墬落"}]}],"t":"peloc"}
+,"pelpel":{"h":[{"d":[{"e":["￹`Mepelpel~ `no~ `paliding~ `koya~ `'aol~.￺That bamboo was broken by the vehicle.￻那根竹子被車子壓碎","￹`Aka~ `pi~`pelpel~ `to~ `kaysing~.￺Don't break the dish.￻不要把碗打碎"],"f":"￹￺to break or crush by beating￻使破碎，使粉碎"}]}],"t":"pelpel"}
+,"penec":{"h":[{"d":[{"f":"￹￺to press down so that the thing is under one's hand or tool￻用手或東西壓制東西"},{"f":"￹￺to roll over on top of￻在…頂上滾壓過去"},{"f":"￹￺to press down so that liquid comes out as whenmaking soy milk￻擠壓出汁如作豆漿的過程"}]}],"t":"penec"}
+,"penen":{"h":[{"d":[{"f":"￹￺a plant with a stalk used in making walls in huts or shelters￻管蓁，其桿可用來製作茅屋或工寮的牆壁"}]}],"t":"penen"}
+,"perar":{"h":[{"d":[{"f":"￹￺to collapse into ruins￻倒塌，崩塌"},{"s":["`kinaperar~"],"e":["￹`Ma~`perar~ `to~ `koya~ `lotok~.￺The mountain came sliding down.￻那座山倒塌，山崩"],"f":"￹￺to landslide￻山崩"}]}],"t":"perar"}
+,"peraw":{"h":[{"d":[{"s":["`kefing~"],"f":"￹￺a skin rash￻痲疹"}]}],"t":"peraw"}
+,"perec":{"h":[{"d":[{"f":"￹￺to squeese out * as to extract juice￻擠壓出來"},{"f":"￹￺to show disrespect for so that the person has no way to express himself￻表示不尊重，所以那人不知道如何表現自己"}]}],"t":"perec"}
+,"peroc":{"h":[{"d":[{"s":["`tahaperoc~"],"e":["￹`Ma~`taperoc~ `ko~ `kafer~ `nira~.￺His trousers don't stay up.￻他的褲子脫落"],"f":"￹￺to slide dowm￻脫落，滑落"}]}],"t":"peroc"}
+,"pesi%27":{"h":[{"d":[{"f":"￹￺to smash dead * as an insect￻壓死，如昆蟲"},{"e":["￹`Ma~`pesi'~ `nira~ `ko~ `damdam~ `i~ `kohaw~.￺He squeezed pepper juice into the soup.￻他把辣椒擠碎混在湯裡"],"f":"￹￺to squeeze juice￻壓榨擠汁出來"}]}],"t":"pesi'"}
 ,"pespes":{"h":[{"d":[{"f":"￹￺the act of many people piling rebuke on one person￻許多人重複地，非難或叱責一個人的不是"},{"f":"￹￺one person saying a lot to put down someone￻一個人說太多壓制或駁倒對方的話"}]}],"t":"pespes"}
+,"peyayoka":{"h":[{"d":[{"f":"￹￺a plant called Thladiantha nudiflora Hemsl.￻青牛膽"}]}],"t":"peyayoka"}
 ,"pi%27acaan":{"h":[{"d":[{"f":"￹￺market￻商店、店鋪"}]}],"t":"pi'acaan"}
-,"pi%27arawan":{"h":[{"d":[{"l":["`'araw~"],"f":"￹￺model * example￻樣本，藍圖，模式，一覽表，範例"}]}],"t":"pi'arawan"}
-,"pi%27ayaw":{"h":[{"d":[{"l":["`pa'ayaw~","`ta'ayawan~"],"f":"￹￺an apron * From 'ayaw￻圍裙，從字根'ayaw 衍生而來"}]}],"t":"pi'ayaw"}
-,"pi%27dac":{"h":[{"d":[{"f":"￹￺a scar from a wound￻傷疤，疤痕"},{"l":["`tolac~"],"f":"￹￺a barren slope from a landslide or erosion￻不毛之斜坡山崩或浸蝕"}]}],"t":"pi'dac"}
-,"pi%27ec":{"h":[{"d":[{"l":["`kanas~"],"f":"￹￺a small basket made of bamboo￻小竹籃"}]}],"t":"pi'ec"}
-,"pi%27iw":{"h":[{"d":[{"e":["￹`o~ `mapi'iway~￺a person who is crippled in his legs￻跛腳的人","￹`Mapi'iw~ `ko~ `rakat~ `nira~.￺He walks with lameness.￻他一拐一拐的走，他搖擺的走","￹`ci~ `pi'iw~￺a nickname given to a lame person￻指跛腳的人，對跛腳者的暱稱"],"f":"￹￺to be lame * crippled in one's legs or referring to the way one walks￻跛腳的，或指一個人走路的樣子"}]}],"t":"pi'iw"}
-,"pi%27kolan":{"h":[{"d":[{"l":["`knawikos~"],"f":"￹￺hip bone￻臀骨，耻骨"}]}],"t":"pi'kolan"}
-,"pi%27pi":{"h":[{"d":[{"f":"￹￺to press and pack * as to pack a bowl with rice￻緊壓，如緊壓碗裡的飯"}]}],"t":"pi'pi"}
-,"pi%27pi%27":{"h":[{"d":[{"l":["`pa'pa~"],"f":"￹￺to clap hands￻拍手，鼓掌"}]}],"t":"pi'pi'"}
-,"pi%27tengan":{"h":[{"d":[{"l":["`'teng~"],"f":"￹￺place where dam is placed for fishing￻涸魚之堤堰"}]}],"t":"pi'tengan"}
+,"pi%27arawan":{"h":[{"d":[{"s":["`'araw~"],"f":"￹￺model * example￻樣本，藍圖，模式，一覽表，範例"}]}],"t":"pi'arawan"}
+,"pi%27ayaw":{"h":[{"d":[{"s":["`pa'ayaw~","`ta'ayawan~"],"f":"￹￺an apron * From 'ayaw￻圍裙，從字根'ayaw 衍生而來"}]}],"t":"pi'ayaw"}
+,"pi%27ec":{"h":[{"d":[{"s":["`kanas~"],"f":"￹￺a small basket made of bamboo￻小竹籃"}]}],"t":"pi'ec"}
+,"pi%27edac":{"h":[{"d":[{"f":"￹￺a scar from a wound￻傷疤，疤痕"},{"s":["`tolac~"],"f":"￹￺a barren slope from a landslide or erosion￻不毛之斜坡山崩或浸蝕"}]}],"t":"pi'edac"}
+,"pi%27etengan":{"h":[{"d":[{"s":["`'eteng~"],"f":"￹￺place where dam is placed for fishing￻涸魚之堤堰"}]}],"t":"pi'etengan"}
+,"pi%27iw":{"h":[{"d":[{"e":["￹`o~ `ma~`pi'iw~`ay~￺a person who is crippled in his legs￻跛腳的人","￹`Ma~`pi'iw~ `ko~ `rakat~ `nira~.￺He walks with lameness.￻他一拐一拐的走，他搖擺的走","￹`~ `pi'iw~￺a nickname given to a lame person￻指跛腳的人，對跛腳者的暱稱"],"f":"￹￺to be lame * crippled in one's legs or referring to the way one walks￻跛腳的，或指一個人走路的樣子"}]}],"t":"pi'iw"}
+,"pi%27pi%27":{"h":[{"d":[{"s":["`~^`~"],"f":"￹￺to clap hands￻拍手，鼓掌"}]}],"t":"pi'pi'"}
+,"pi%5Epi":{"h":[{"d":[{"f":"￹￺to press and pack * as to pack a bowl with rice￻緊壓，如緊壓碗裡的飯"}]}],"t":"pi^pi"}
 ,"picid":{"h":[{"d":[{"f":"￹￺to be torn on the edge￻從邊緣破裂"},{"f":"￹￺referring to paper or cloth￻如紙或衣服"},{"f":"￹￺a greenish seaweed￻呈綠色的海草(海藻)"}]}],"t":"picid"}
-,"piciw":{"h":[{"d":[{"f":"￹￺to have a piece torn off or out an object￻撕裂成大缺口"},{"e":["￹`Mapiciw~ `ko~ `tangila~ `no~ `rinom~.￺The head of the needle isbroken.￻針孔斷裂了"],"f":"￹￺comes to be a generic word for something broken or spoiled￻繁衍成任何東西破碎或損壞"}]}],"t":"piciw"}
-,"picomodan":{"h":[{"d":[{"f":"￹￺gateway￻門口，入口"},{"l":["`comod~"],"f":"￹￺religion￻宗教派別"}]}],"t":"picomodan"}
-,"picpic":{"h":[{"d":[{"e":["￹`Mapicpic~ `no~ `totoy~ `niyam~ `ko~ `tikami~ `ako~.￺Our puppy has shredded in pieces my letter.￻我的信被小狗咬碎成一片一片的"],"f":"￹￺to tear in pieces paper or material￻把紙或資料撕成一片一片的"}]}],"t":"picpic"}
-,"pida":{"h":[{"d":[{"l":["`payso~","`payci~","`kalipidaan~","`papida~"],"e":["￹`o~ `cipidaay~ `a~ `tamdaw~￺a rich person￻有錢人，富裕的人"],"f":"￹￺money￻錢，硬幣，鈔票"}]}],"t":"pida"}
-,"pidah":{"h":[{"d":[{"l":["`lowid~","`tapi'~","`dawa~","`mapidah~"],"f":"￹￺to conquer￻征服，克服，打勝，打贏"}]}],"t":"pidah"}
-,"pidahpayan":{"h":[{"d":[{"l":["`dahpay~"],"f":"￹￺clothes line * bamboo pole￻曬衣場，曬衣繩，曬衣竿"}]}],"t":"pidahpayan"}
-,"piec":{"h":[{"d":[{"f":"￹￺to become a narrow passage￻逐漸狹窄"},{"e":["￹`Mapiec~ `ko~ `lalan~.￺The trail has become very narrow.￻路愈來愈狹窄，路逐漸變小"],"f":"￹￺to become dead ended as a land structure￻死路，如土地結構所形成的死巷"}]}],"t":"piec"}
-,"pifalahan":{"h":[{"d":[{"l":["`pa'ilidan~","`falah~","`tafalahan~"],"f":"￹￺toilet￻垃圾堆，廁所，垃圾場"}]}],"t":"pifalahan"}
-,"piflacan":{"h":[{"d":[{"l":["`flac~"],"f":"￹￺a basket for rice that has been milled￻貯放米的籃筐"}]}],"t":"piflacan"}
-,"pihpih":{"h":[{"d":[{"l":["`sapihpih~"],"e":["￹`Mipihpih~ `to~ `sapikpik~ `ko~ `'ayam~.￺Birds flap their wings and / or fly.￻鳥揮動翅膀而飛"],"f":"￹￺to fan￻搖動，揮動"}]}],"t":"pihpih"}
-,"pikacawan":{"h":[{"d":[{"l":["`kacaw~"],"f":"￹￺a lookout tower in former Amis villages * place where youth slept and guarded the village￻瞭望台，哨站，守備地點"}]}],"t":"pikacawan"}
-,"pikadafoan":{"h":[{"d":[{"l":["`kadafo~"],"f":"￹￺place where you become an in-law￻婆家或入贅的家"}]}],"t":"pikadafoan"}
-,"pikangkangan":{"h":[{"d":[{"f":"￹￺time to plow￻犁田時期"},{"l":["`kangkang~"],"f":"￹￺field to be plowed￻要耕之田"}]}],"t":"pikangkangan"}
-,"pikcoran":{"h":[{"d":[{"l":["`ckor~","`kcor~"],"f":"￹￺viewpoint to look on a scene￻守望台，瞭望台"}]}],"t":"pikcoran"}
-,"piked":{"h":[{"d":[{"l":["`papikedan~"],"e":["￹`Pikeden~ `ko~ `wa'ay~ `iso~.￺Bend your legs * as to kneel.￻彎曲雙腳，如跪下之狀"],"f":"￹￺bent crooked * as of metal￻弄曲，如金屬物質"}]}],"t":"piked"}
+,"piciw":{"h":[{"d":[{"f":"￹￺to have a piece torn off or out an object￻撕裂成大缺口"},{"e":["￹`Ma~`piciw~ `ko~ `tangila~ `no~ `rinom~.￺The head of the needle isbroken.￻針孔斷裂了"],"f":"￹￺comes to be a generic word for something broken or spoiled￻繁衍成任何東西破碎或損壞"}]}],"t":"piciw"}
+,"picomodan":{"h":[{"d":[{"f":"￹￺gateway￻門口，入口"},{"s":["`comod~"],"f":"￹￺religion￻宗教派別"}]}],"t":"picomodan"}
+,"picpic":{"h":[{"d":[{"e":["￹`Ma~`picpic~ `no~ `totoy~ `niyam~ `ko~ `tikami~ `ako~.￺Our puppy has shredded in pieces my letter.￻我的信被小狗咬碎成一片一片的"],"f":"￹￺to tear in pieces paper or material￻把紙或資料撕成一片一片的"}]}],"t":"picpic"}
+,"pida":{"h":[{"d":[{"s":["`payso~","`payci~","`kalipidaan~","`papida~"],"e":["￹`o~ `ci~`pida~`ay~ `a~ `tamdaw~￺a rich person￻有錢人，富裕的人"],"f":"￹￺money￻錢，硬幣，鈔票"}]}],"t":"pida"}
+,"pidah":{"h":[{"d":[{"s":["`lowid~","`tapi'~","`dawa~","`mapidah~"],"f":"￹￺to conquer￻征服，克服，打勝，打贏"}]}],"t":"pidah"}
+,"pidahpayan":{"h":[{"d":[{"s":["`dahpay~"],"f":"￹￺clothes line * bamboo pole￻曬衣場，曬衣繩，曬衣竿"}]}],"t":"pidahpayan"}
+,"piec":{"h":[{"d":[{"f":"￹￺to become a narrow passage￻逐漸狹窄"},{"e":["￹`Ma~`piec~ `ko~ `lalan~.￺The trail has become very narrow.￻路愈來愈狹窄，路逐漸變小"],"f":"￹￺to become dead ended as a land structure￻死路，如土地結構所形成的死巷"}]}],"t":"piec"}
+,"piekolan":{"h":[{"d":[{"s":["`kenawikos~"],"f":"￹￺hip bone￻臀骨，恥骨"}]}],"t":"piekolan"}
+,"pifalahan":{"h":[{"d":[{"s":["`'ilidan~","`falah~","`tafalahan~"],"f":"￹￺toilet￻垃圾堆，廁所，垃圾場"}]}],"t":"pifalahan"}
+,"pihpih":{"h":[{"d":[{"s":["`sapihpih~"],"e":["￹`Mi~`pihpih~ `to~ `sapikpik~ `ko~ `'ayam~.￺Birds flap their wings and / or fly.￻鳥揮動翅膀而飛"],"f":"￹￺to fan￻搖動，揮動"}]}],"t":"pihpih"}
+,"pikacawan":{"h":[{"d":[{"s":["`kacaw~"],"f":"￹￺a lookout tower in former Amis villages * place where youth slept and guarded the village￻瞭望台，哨站，守備地點"}]}],"t":"pikacawan"}
+,"pikadafoan":{"h":[{"d":[{"s":["`kadafo~"],"f":"￹￺place where you become an in-law￻婆家或入贅的家"}]}],"t":"pikadafoan"}
+,"pikangkangan":{"h":[{"d":[{"f":"￹￺time to plow￻犁田時期"},{"s":["`kangkang~"],"f":"￹￺field to be plowed￻要耕之田"}]}],"t":"pikangkangan"}
+,"pikecoran":{"h":[{"d":[{"s":["`cekor~","`kecor~"],"f":"￹￺viewpoint to look on a scene￻守望台，瞭望台"}]}],"t":"pikecoran"}
+,"piked":{"h":[{"d":[{"s":["`papikedan~"],"e":["￹`keden~ `ko~ `wa'ay~ `iso~.￺Bend your legs * as to kneel.￻彎曲雙腳，如跪下之狀"],"f":"￹￺bent crooked * as of metal￻弄曲，如金屬物質"}]}],"t":"piked"}
 ,"pikel":{"h":[{"d":[{"f":"￹￺strong and inflexible * as a wire that springs back and refuses to bend￻堅硬而無伸縮性的，如同竹子彈回來而不再彎曲"},{"f":"￹￺inflexible figuratively￻比喻上的堅定，不屈不撓"},{"f":"￹￺possible to in fluence and change￻不易屈曲"}]}],"t":"pikel"}
 ,"piki%27adingan":{"h":[{"d":[{"f":"￹￺to hide and be protected￻避難所"}]}],"t":"piki'adingan"}
 ,"piking":{"h":[{"d":[{"f":"￹￺disabled limb * shriveled * does not move￻手臂脫臼"}]}],"t":"piking"}
-,"piko":{"h":[{"d":[{"l":["`pikoen~","`talapiko~","`salopiko~"],"f":"￹￺intersection * place where there is a turn in the road￻交叉點，路轉彎的地方"}]}],"t":"piko"}
-,"pikoen":{"h":[{"d":[{"l":["`piko~"],"f":"￹￺(a command to) turn at that point￻使彎曲，弄彎 (驅使語，命令語)"}]}],"t":"pikoen"}
-,"pikongkongan":{"h":[{"d":[{"l":["`kongkong~"],"f":"￹￺a drum made from a tree trunk * used to arouse the village to action￻鼓是用樹幹做的，用來喚醒村民的行動"}]}],"t":"pikongkongan"}
-,"pikpik":{"h":[{"d":[{"l":["`sapikpik~","`mapikpik~","`mipikpik~"],"f":"￹￺to fly￻擺動翅膀而飛"}]}],"t":"pikpik"}
-,"pilali%27opan":{"h":[{"d":[{"l":["`lali'op~"],"f":"￹￺place to wash one's face￻盥洗台"}]}],"t":"pilali'opan"}
-,"pilaliwan":{"h":[{"d":[{"l":["`laliw~"],"f":"￹￺way of escape￻逃走之路"}]}],"t":"pilaliwan"}
-,"pilaocan":{"h":[{"d":[{"f":"￹￺council room￻會議室"},{"l":["`laoc~"],"f":"￹￺place where a guard stands￻衛兵哨，崗哨"}]}],"t":"pilaocan"}
+,"piko":{"h":[{"d":[{"s":["`pikoen~","`talapiko~","`salopiko~"],"f":"￹￺intersection * place where there is a turn in the road￻交叉點，路轉彎的地方"}]}],"t":"piko"}
+,"pikoen":{"h":[{"d":[{"s":["`piko~"],"f":"￹￺(a command to) turn at that point￻使彎曲，弄彎 (驅使語，命令語)"}]}],"t":"pikoen"}
+,"pikongkongan":{"h":[{"d":[{"s":["`kongkong~"],"f":"￹￺a drum made from a tree trunk * used to arouse the village to action￻鼓是用樹幹做的，用來喚醒村民的行動"}]}],"t":"pikongkongan"}
+,"pikpik":{"h":[{"d":[{"s":["`sapikpik~","`mapikpik~","`mipikpik~"],"f":"￹￺to fly￻擺動翅膀而飛"}]}],"t":"pikpik"}
+,"pilali%27opan":{"h":[{"d":[{"s":["`lali'op~"],"f":"￹￺place to wash one's face￻盥洗台"}]}],"t":"pilali'opan"}
+,"pilaliwan":{"h":[{"d":[{"s":["`laliw~"],"f":"￹￺way of escape￻逃走之路"}]}],"t":"pilaliwan"}
+,"pilaocan":{"h":[{"d":[{"f":"￹￺council room￻會議室"},{"s":["`laoc~"],"f":"￹￺place where a guard stands￻衛兵哨，崗哨"}]}],"t":"pilaocan"}
 ,"pilec":{"h":[{"d":[{"f":"￹￺to turn one's ankle￻腳扭斷"},{"f":"￹￺to be weary or ill from work￻疲倦，厭倦，精疲力竭"}]}],"t":"pilec"}
-,"pilet":{"h":[{"d":[{"f":"￹￺to twist and break as of a limb￻手扭傷"},{"l":["`pilec~"],"f":"￹￺to twist and break as to take cooked vegetables and break them off in one's hand￻把菜扭斷去煮"}]}],"t":"pilet"}
-,"pili%27":{"h":[{"d":[{"e":["￹`Cima~ `ko~ `nipili'an~ `ita~ `inacila~?￺Who did we choose the other day?￻前幾天我們選的是誰？","￹`Mapili'~ `kako~ `a~ `mala~ `mamatayal~.￺I was chosen to serve.￻我被選選為服務員"],"f":"￹￺to choose * pick one￻選擇，挑選"},{"l":["`osi'~"],"e":["￹`kapili'an~ `no~ `tamdaw~ / `ka'osian~ `no~ `tamdaw~￺someone who is disliked by people￻被人淘汰的，被人所厭惡的"],"f":"￹￺dislike * detest￻挑剔"}]}],"t":"pili'"}
-,"piliclican":{"h":[{"d":[{"f":"￹￺court room￻法庭，法院"},{"l":["`liclic~"],"f":"￹￺judgment day￻判決，審判之日子"}]}],"t":"piliclican"}
-,"pilifetan":{"h":[{"d":[{"l":["`lifet~"],"f":"￹￺a time or place of testing￻考試場所或時間"}]}],"t":"pilifetan"}
-,"pilihayan":{"h":[{"d":[{"l":["`lihay~"],"f":"￹￺place of worship￻禮拜堂"}]}],"t":"pilihayan"}
-,"pilipayan":{"h":[{"d":[{"l":["`lipay~"],"f":"￹￺day of worship * Sunday￻禮拜日，星期日"}]}],"t":"pilipayan"}
+,"pilet":{"h":[{"d":[{"f":"￹￺to twist and break as of a limb￻手扭傷"},{"s":["`pilec~"],"f":"￹￺to twist and break as to take cooked vegetables and break them off in one's hand￻把菜扭斷去煮"}]}],"t":"pilet"}
+,"pili%27":{"h":[{"d":[{"e":["￹`Ci~`ma~ `ko~ `li'an~ `ita~ `inacila~?￺Who did we choose the other day?￻前幾天我們選的是誰？","￹`Ma~`pili'~ `kako~ `a~ `mala~ `mamatayal~.￺I was chosen to serve.￻我被選選為服務員"],"f":"￹￺to choose * pick one￻選擇，挑選"},{"s":["`osi'~"],"e":["￹`ka~`pili'~`an~ `no~ `tamdaw~ / `ka~`'osi~`an~ `no~ `tamdaw~￺someone who is disliked by people￻被人淘汰的，被人所厭惡的"],"f":"￹￺dislike * detest￻挑剔"}]}],"t":"pili'"}
+,"piliclican":{"h":[{"d":[{"f":"￹￺court room￻法庭，法院"},{"s":["`liclic~"],"f":"￹￺judgment day￻判決，審判之日子"}]}],"t":"piliclican"}
+,"pilifetan":{"h":[{"d":[{"s":["`lifet~"],"f":"￹￺a time or place of testing￻考試場所或時間"}]}],"t":"pilifetan"}
+,"pilihayan":{"h":[{"d":[{"s":["`lihay~"],"f":"￹￺place of worship￻禮拜堂"}]}],"t":"pilihayan"}
+,"pilipayan":{"h":[{"d":[{"s":["`lipay~"],"f":"￹￺day of worship * Sunday￻禮拜日，星期日"}]}],"t":"pilipayan"}
 ,"piloh":{"h":[{"d":[{"f":"￹￺to collapse * as a house blown by the wind￻使之傾倒，吹倒，倒塌如房子"}]}],"t":"piloh"}
-,"pimamaan":{"h":[{"d":[{"f":"￹￺godfather￻教父"},{"l":["`mama~"],"f":"￹￺person to be depended upon￻可依靠的人"}]}],"t":"pimamaan"}
-,"pina":{"h":[{"d":[{"e":["￹`Pina~ `a~ `foting~ `ko~ `maalaay~ `namo~?￺How many fish did you get?￻你們捕到多少魚？","￹`Caay~ `ka~ `pina~ `ko~ `maalaay~ `niyam~.￺We didn't get many.￻我們沒有捕到很多","￹`Papina~ `ko~ `paro~ `no~ `loma'~ `namo~?￺How many members are in your family?￻你們家有幾口人？"],"f":"￹￺how many?￻多少?"},{"e":["￹`Tayra~ `ko~ `papinapina~ `ita~ `a~ `miholol~.￺Let's several of us go and visit.￻有幾個人去拜訪"],"f":"￹￺several￻幾個"},{"e":["￹`Kinapina~ / `kinapinapina~ `kako~ `a~ `milicay~ `cingraan~￺I asked him a number of times.￻我問他好幾次"],"f":"￹￺more than two or three￻比二或三多一點"}]}],"t":"pina"}
-,"pina%27angan":{"h":[{"d":[{"l":["`na'ang~"],"f":"￹￺time or place to put things away￻儲藏室，保險箱"}]}],"t":"pina'angan"}
+,"pimamaan":{"h":[{"d":[{"f":"￹￺godfather￻教父"},{"s":["`mama~"],"f":"￹￺person to be depended upon￻可依靠的人"}]}],"t":"pimamaan"}
+,"pina":{"h":[{"d":[{"e":["￹`na~ `a~ `foting~ `ko~ `ma~`ala~`ay~ `namo~?￺How many fish did you get?￻你們捕到多少魚？","￹`Caay~ `ka~ `pina~ `ko~ `ma~`ala~`ay~ `niyam~.￺We didn't get many.￻我們沒有捕到很多","￹`na~ `ko~ `paro~ `no~ `loma'~ `namo~?￺How many members are in your family?￻你們家有幾口人？"],"f":"￹￺how many?￻多少?"},{"e":["￹`Tayra~ `ko~ `napina~ `ita~ `a~ `mi~`holol~.￺Let's several of us go and visit.￻有幾個人去拜訪"],"f":"￹￺several￻幾個"},{"e":["￹`Kinapina~ / `kinapi~`napina~ `kako~ `a~ `mi~`licay~ `ngraan~￺I asked him a number of times.￻我問他好幾次"],"f":"￹￺more than two or three￻比二或三多一點"}]}],"t":"pina"}
+,"pina%27angan":{"h":[{"d":[{"s":["`'ang~"],"f":"￹￺time or place to put things away￻儲藏室，保險箱"}]}],"t":"pina'angan"}
 ,"pina%27aw":{"h":[{"d":[{"f":"￹￺a species of tree * Camptotheca acuminata Decne￻旱蓮(喜樹)"}]}],"t":"pina'aw"}
-,"pina%27orip":{"h":[{"d":[{"l":["`pna'orip~"],"f":"￹￺domestic animals￻家禽家畜"}]}],"t":"pina'orip"}
-,"pinalcik":{"h":[{"d":[{"l":["`lcik~"],"f":"￹￺broken pieces * broken bits￻碎物，撕裂之物，碎片"}]}],"t":"pinalcik"}
-,"pinaloma":{"h":[{"d":[{"l":["`pnaloma~"],"f":"￹￺anything planted to be used as food￻任何種植的可食植物"}]}],"t":"pinaloma"}
-,"pinang":{"h":[{"d":[{"l":["`hapinang~"],"e":["￹`Awaay~ `ko~ `pinang~ `to~ `dmak~ `nira~.￺It is impossible to figure out what he is doing.￻無法了解他到底在做什麼","￹`Cipinangto~ `kako~ `anini~ `a~ `miharateng~.￺I have some evidence now to go on in thinking.￻我現在已經有頭緒了","￹`Caay~ `ka~ `cipinang~ `ko~ `faloco'~ `noya~ `tamdaw~.￺There is no clarity in viewing the attitude of that person / i.e. he appears ambiguous.￻那個人拿不定主意","￹`O~ `maan~ `ko~ `kacipinangan~ `iso~ `a~ `mafana'~?￺How do you know? / What evidence do you have to know?￻你是依據什麼瞭解的？你是如何知道的呢?","￹`O~ `pinangan~ `nira~ `konini~.￺This is his nature / habit / way he acts.￻這是他的習慣"],"f":"￹￺sign * evidence * clue￻符號, 證據, 線索"}]}],"t":"pinang"}
+,"pina%27orip":{"h":[{"d":[{"f":"￹￺domestic animals￻家禽家畜"}]}],"t":"pina'orip"}
+,"pinalecik":{"h":[{"d":[{"s":["`lecik~"],"f":"￹￺broken pieces * broken bits￻碎物，撕裂之物，碎片"}]}],"t":"pinalecik"}
+,"pinaloma":{"h":[{"d":[{"f":"￹￺anything planted to be used as food￻任何種植的可食植物"}]}],"t":"pinaloma"}
+,"pinang":{"h":[{"d":[{"s":["`hapinang~"],"e":["￹`Awaay~ `ko~ `pinang~ `to~ `demak~ `nira~.￺It is impossible to figure out what he is doing.￻無法了解他到底在做什麼","￹`Ci~`pinang~ `to~ `kako~ `anini~ `a~ `mi~`harateng~.￺I have some evidence now to go on in thinking.￻我現在已經有頭緒了","￹`Caay~ `ka~ `ci~`pinang~ `ko~ `faloco'~ `noya~ `tamdaw~.￺There is no clarity in viewing the attitude of that person / i.e. he appears ambiguous.￻那個人拿不定主意","￹`O~ `maan~ `ko~ `cipinangan~ `iso~ `a~ `ma~`fana'~?￺How do you know? / What evidence do you have to know?￻你是依據什麼瞭解的？你是如何知道的呢?","￹`O~ `nangan~ `nira~ `konini~.￺This is his nature / habit / way he acts.￻這是他的習慣"],"f":"￹￺sign * evidence * clue￻符號, 證據, 線索"}]}],"t":"pinang"}
 ,"pinani%27ol":{"h":[{"d":[{"f":"￹￺tadpoles * offspring of frogs￻小蝌蚪"}]}],"t":"pinani'ol"}
-,"pinanoman":{"h":[{"d":[{"l":["`nanom~"],"f":"￹￺place to drink water￻喝水的地方"}]}],"t":"pinanoman"}
-,"pinapcih":{"h":[{"d":[{"l":["`pnapcih~","`kinapcih~","`pcih~"]},{"f":"￹￺all the pieces, as left over pieces of loaves of bread￻麵包切片，如被遺下的許多塊狀麵包"}]}],"t":"pinapcih"}
-,"pinarcik":{"h":[{"d":[{"l":["`rcik~"],"f":"￹￺small pottery pieces￻小碎片 (飛躍出去)"}]}],"t":"pinarcik"}
+,"pinanoman":{"h":[{"d":[{"s":["`nanom~"],"f":"￹￺place to drink water￻喝水的地方"}]}],"t":"pinanoman"}
+,"pinapecih":{"h":[{"d":[{"s":["`pinapecih~","`kinapecih~","`pecih~"],"f":"￹￺all the pieces, as left over pieces of loaves of bread￻麵包切片，如被遺下的許多塊狀麵包"}]}],"t":"pinapecih"}
+,"pinarecik":{"h":[{"d":[{"s":["`recik~"],"f":"￹￺small pottery pieces￻小碎片 (飛躍出去)"}]}],"t":"pinarecik"}
 ,"pinaro":{"h":[{"d":[{"f":"￹￺the contents of a container￻內容，容量"}]}],"t":"pinaro"}
-,"pincas":{"h":[{"d":[{"l":["`pcas~"],"f":"￹￺to be borken at the joint and hang loose as a branch of a tree￻在分叉處斷裂，如樹枝"}]}],"t":"pincas"}
-,"pingan":{"h":[{"d":[{"f":"￹￺peace (from Chinese) a Christian greeting used when passing or meeting a person of the same faith￻平安 (引自國語) 基督徒相遇或交錯時互相問候與祝福的話"}]}],"t":"pingan"}
-,"pingaping":{"h":[{"d":[{"e":["￹`Mapingaping~ `ko~ `sapikpik~ `no~ `'ayam~.￺The bird's wing hangs loose flapping from being broken.￻鳥的翅膀因受傷而垂下飄搖"],"f":"￹￺to flap * as the disconnected jointed section of a thing that hangs loose￻東西相接的部位鬆脫而垂下飄動的現象"}]}],"t":"pingaping"}
+,"pincas":{"h":[{"d":[{"s":["`pecas~"],"f":"￹￺to be borken at the joint and hang loose as a branch of a tree￻在分叉處斷裂，如樹枝"}]}],"t":"pincas"}
+,"ping%5Ean":{"h":[{"d":[{"f":"￹￺peace (from Chinese) a Christian greeting used when passing or meeting a person of the same faith￻平安 (引自國語) 基督徒相遇或交錯時互相問候與祝福的話"}]}],"t":"ping^an"}
+,"pingaping":{"h":[{"d":[{"e":["￹`Ma~`pingaping~ `ko~ `sapikpik~ `no~ `'ayam~.￺The bird's wing hangs loose flapping from being broken.￻鳥的翅膀因受傷而垂下飄搖"],"f":"￹￺to flap * as the disconnected jointed section of a thing that hangs loose￻東西相接的部位鬆脫而垂下飄動的現象"}]}],"t":"pingaping"}
 ,"pingaroy":{"h":[{"d":[{"f":"￹￺to lean head on one's hand￻用手把頭撐起來，用手托住顎的姿勢"}]}],"t":"pingaroy"}
 ,"pingko":{"h":[{"d":[{"f":"￹￺to be bankrupt￻破產，倒閉"}]}],"t":"pingko"}
 ,"pingo%27":{"h":[{"d":[{"f":"￹￺to bend as if to collapse￻拉住使人翻倒"},{"f":"￹￺as to come behind a person and bend his legs so that he almost loses his balance￻如來到別人的背後，在別人不備時拉住他的腳使他幾乎完全失去平衡"}]}],"t":"pingo'"}
 ,"pinoer":{"h":[{"d":[{"f":"￹￺to use one's elbow to lean on something￻用手支撐在東西上"}]}],"t":"pinoer"}
 ,"pintoh":{"h":[{"d":[{"f":"￹￺to break * pull out of the joint where it grows * as tuberous kinds of plants￻把野薑花的莖扯斷"}]}],"t":"pintoh"}
-,"pip":{"h":[{"d":[{"l":["`tipolo~"],"f":"￹￺a flute￻笛子，哨子"}]}],"t":"pip"}
 ,"pipacakatan":{"h":[{"d":[{"f":"￹￺altar￻聖壇，祭壇"}]}],"t":"pipacakatan"}
 ,"pipacpacan":{"h":[{"d":[{"f":"￹￺threshing frame on which harvested produce is lain and beaten out￻收割時用來打穀的框子"}]}],"t":"pipacpacan"}
-,"pipakaenan":{"h":[{"d":[{"l":["`kaen~"],"f":"￹￺place to feed (something)￻放牧的地方，餵飼的槽，飼養的地方(場所)"}]}],"t":"pipakaenan"}
-,"pipalmedan":{"h":[{"d":[{"l":["`lmed~"],"f":"￹￺time for giving blessing￻賜福之日"}]}],"t":"pipalmedan"}
-,"pipalomaan":{"h":[{"d":[{"l":["`paloma~","`sapaloma~","`mapaloma~"],"f":"￹￺garden * place to plant and grow things￻花園，種植之地"}]}],"t":"pipalomaan"}
-,"pipamotekan":{"h":[{"d":[{"l":["`amotek~"],"f":"￹￺the goal * object in view * place towards which one is headed￻目標，靶標的，鵠的"}]}],"t":"pipamotekan"}
-,"pipanayan":{"h":[{"d":[{"f":"￹￺place of harvest￻割稻之地"},{"l":["`panay~"],"f":"￹￺time of harvesting￻收割時期"}]}],"t":"pipanayan"}
-,"pipatfoan":{"h":[{"d":[{"l":["`patfo~"],"f":"￹￺a place to settle down upon * a perch￻降落點，「烏」棲木，安居之地，飛機場"}]}],"t":"pipatfoan"}
-,"pipato%27ayaan":{"h":[{"d":[{"l":["`to'aya~"],"f":"￹￺place where sacrifice is made￻祭壇"}]}],"t":"pipato'ayaan"}
-,"pirina%27an":{"h":[{"d":[{"l":["`rina'~"],"f":"￹￺a printing press * printing shop￻印刷廠"}]}],"t":"pirina'an"}
-,"pirora%27ay":{"h":[{"d":[{"l":["`dika~"],"f":"￹￺a tree * Homalanthus fast uosus (Euphorbiacece)￻單萼木"}]}],"t":"pirora'ay"}
-,"pirorodan":{"h":[{"d":[{"l":["`rorod~"],"f":"￹￺model * example￻模型，標本，樣本"}]}],"t":"pirorodan"}
-,"pisadatengan":{"h":[{"d":[{"l":["`dateng~"],"f":"￹￺vegetable garden￻菜園"}]}],"t":"pisadatengan"}
-,"pisafadisoso%27an":{"h":[{"d":[{"l":["`fadisoso'~"],"f":"￹￺vineyard￻葡萄園"}]}],"t":"pisafadisoso'an"}
-,"pisalisinan":{"h":[{"d":[{"l":["`lisin~"],"f":"￹￺time of a festival￻祭禮之時間"}]}],"t":"pisalisinan"}
-,"pisaliwayan":{"h":[{"d":[{"l":["`piliwayan~","`liway~"],"f":"￹￺time for fasting￻齋戒日"}]}],"t":"pisaliwayan"}
-,"pisfengan":{"h":[{"d":[{"f":"￹￺a hut in a field where a person stays who is watching the crops so they are not stolen￻田中小屋，供看守者休憩用，以免穀物被盜"},{"l":["`sfeng~"],"f":"￹￺a pillbox where a soldier stands guard￻士兵守衛之崗哨 (瞭望台)"}]}],"t":"pisfengan"}
-,"pisiketan":{"h":[{"d":[{"l":["`siket~"],"f":"￹￺place where something is joined or attached￻附著處，接合處"}]}],"t":"pisiketan"}
-,"pising":{"h":[{"d":[{"l":["`laway~"],"e":["￹`Mapapisipising~ `kita~.￺Let's meet face to face.￻讓我們相互見面","￹`Papising~ `kita~ `a~ `tayra~. `O~ `papising~ `aca~ `ita~￺Let's go and make our appearance (at a meeting). We won't stay.￻我們去照個面將不逗留","￹`Awaay~ `ko~ `pising~ `ako~ `anini~. `Pa'oning~ `kiso~ `to~ `pising~ `ako~.￺I have lost face. You stained my face / made me lose face.￻我今天沒有面子，你丟盡我的面子，你使我失面子"],"f":"￹￺face￻臉"}]}],"t":"pising"}
-,"pisitalaan":{"h":[{"d":[{"l":["`tala~"],"f":"￹￺fortress￻碉堡，要塞"}]}],"t":"pisitalaan"}
-,"pisot":{"h":[{"d":[{"e":["￹`Mapisot~ `ko~ `kaciwawa~ `nira~.￺She stopped bearing children.￻他不再生小孩了"],"f":"￹￺to break * with reference to thread￻指線絲，纖維的斷裂"}]}],"t":"pisot"}
-,"pisto%27":{"h":[{"d":[{"l":["`pintoh~"],"e":["￹`Mapisto'~ `ko~ `pitaw~.￺The handle of the hoe comes apart from the metal hoe.￻鋤頭的柄脫落"],"f":"￹￺to come apart￻鬆脫"}]}],"t":"pisto'"}
-,"pitapesan":{"h":[{"d":[{"l":["`tapes~"],"f":"￹￺a winnowing floor￻篩揚場"}]}],"t":"pitapesan"}
-,"pitaw":{"h":[{"d":[{"l":["`mipitaw~"],"e":["￹`O~ `papitawen~ `konini~ `a~ `sra~.￺This soil must be worked up with a hoe.￻這塊地是要用鋤頭耕作的"],"f":"￹￺hoe￻鋤頭"}]}],"t":"pitaw"}
-,"pitek":{"h":[{"d":[{"e":["￹`Mapitek~ `ko~ `wa'ay~ `nira~.￺His leg is broken.￻他的腳折斷，他的腳脫臼"],"f":"￹￺to break * snap off￻折斷"}]}],"t":"pitek"}
-,"pitifekan":{"h":[{"d":[{"f":"￹￺a mill￻碾米廠"},{"l":["`tifek~"],"f":"￹￺a rice polishing machine￻碾米機"}]}],"t":"pitifekan"}
+,"pipakaenan":{"h":[{"d":[{"s":["`kaen~"],"f":"￹￺place to feed (something)￻放牧的地方，餵飼的槽，飼養的地方(場所)"}]}],"t":"pipakaenan"}
+,"pipalemedan":{"h":[{"d":[{"s":["`lemed~"],"f":"￹￺time for giving blessing￻賜福之日"}]}],"t":"pipalemedan"}
+,"pipalomaan":{"h":[{"d":[{"s":["`paloma~","`sapaloma~","`mapaloma~"],"f":"￹￺garden * place to plant and grow things￻花園，種植之地"}]}],"t":"pipalomaan"}
+,"pipamotekan":{"h":[{"d":[{"s":["`amotek~"],"f":"￹￺the goal * object in view * place towards which one is headed￻目標，靶標的，鵠的"}]}],"t":"pipamotekan"}
+,"pipanayan":{"h":[{"d":[{"f":"￹￺place of harvest￻割稻之地"},{"s":["`panay~"],"f":"￹￺time of harvesting￻收割時期"}]}],"t":"pipanayan"}
+,"pipatefoan":{"h":[{"d":[{"s":["`patefo~"],"f":"￹￺a place to settle down upon * a perch￻降落點，「烏」棲木，安居之地，飛機場"}]}],"t":"pipatefoan"}
+,"pipato%27ayaan":{"h":[{"d":[{"s":["`to'aya~"],"f":"￹￺place where sacrifice is made￻祭壇"}]}],"t":"pipato'ayaan"}
+,"pirina%27an":{"h":[{"d":[{"s":["`rina'~"],"f":"￹￺a printing press * printing shop￻印刷廠"}]}],"t":"pirina'an"}
+,"pirora%27ay":{"h":[{"d":[{"s":["`dika~"],"f":"￹￺a tree * Homalanthus fast uosus (Euphorbiacece)￻單萼木"}]}],"t":"pirora'ay"}
+,"pirorodan":{"h":[{"d":[{"s":["`rorod~"],"f":"￹￺model * example￻模型，標本，樣本"}]}],"t":"pirorodan"}
+,"pisadatengan":{"h":[{"d":[{"s":["`dateng~"],"f":"￹￺vegetable garden￻菜園"}]}],"t":"pisadatengan"}
+,"pisafadisoso%27an":{"h":[{"d":[{"s":["`fadisoso'~"],"f":"￹￺vineyard￻葡萄園"}]}],"t":"pisafadisoso'an"}
+,"pisalisinan":{"h":[{"d":[{"s":["`lisin~"],"f":"￹￺time of a festival￻祭禮之時間"}]}],"t":"pisalisinan"}
+,"pisaliwayan":{"h":[{"d":[{"s":["`pi~`liway~`an~","`liway~"],"f":"￹￺time for fasting￻齋戒日"}]}],"t":"pisaliwayan"}
+,"pisefengan":{"h":[{"d":[{"f":"￹￺a hut in a field where a person stays who is watching the crops so they are not stolen￻田中小屋，供看守者休憩用，以免穀物被盜"},{"s":["`sefeng~"],"f":"￹￺a pillbox where a soldier stands guard￻士兵守衛之崗哨 (瞭望台)"}]}],"t":"pisefengan"}
+,"piseto%27":{"h":[{"d":[{"s":["`pintoh~"],"e":["￹`Ma~`piseto'~ `ko~ `pitaw~.￺The handle of the hoe comes apart from the metal hoe.￻鋤頭的柄脫落"],"f":"￹￺to come apart￻鬆脫"}]}],"t":"piseto'"}
+,"pisiketan":{"h":[{"d":[{"s":["`siket~"],"f":"￹￺place where something is joined or attached￻附著處，接合處"}]}],"t":"pisiketan"}
+,"pising":{"h":[{"d":[{"s":["`laway~"],"e":["￹`Ma~`papisi~`pising~ `kita~.￺Let's meet face to face.￻讓我們相互見面","￹`sing~ `kita~ `a~ `tayra~. `O~ `sing~ `aca~ `ita~￺Let's go and make our appearance (at a meeting). We won't stay.￻我們去照個面將不逗留","￹`Awaay~ `ko~ `pising~ `ako~ `anini~. `Pa~`'oning~ `kiso~ `to~ `pising~ `ako~.￺I have lost face. You stained my face / made me lose face.￻我今天沒有面子，你丟盡我的面子，你使我失面子"],"f":"￹￺face￻臉"}]}],"t":"pising"}
+,"pisitalaan":{"h":[{"d":[{"s":["`tala~"],"f":"￹￺fortress￻碉堡，要塞"}]}],"t":"pisitalaan"}
+,"pisot":{"h":[{"d":[{"e":["￹`Ma~`pisot~ `ko~ `ciwawa~ `nira~.￺She stopped bearing children.￻他不再生小孩了"],"f":"￹￺to break * with reference to thread￻指線絲，纖維的斷裂"}]}],"t":"pisot"}
+,"pitapesan":{"h":[{"d":[{"s":["`tapes~"],"f":"￹￺a winnowing floor￻篩揚場"}]}],"t":"pitapesan"}
+,"pitaw":{"h":[{"d":[{"s":["`mipitaw~"],"e":["￹`O~ `tawen~ `konini~ `a~ `sera~.￺This soil must be worked up with a hoe.￻這塊地是要用鋤頭耕作的"],"f":"￹￺hoe￻鋤頭"}]}],"t":"pitaw"}
+,"pitek":{"h":[{"d":[{"e":["￹`Ma~`pitek~ `ko~ `wa'ay~ `nira~.￺His leg is broken.￻他的腳折斷，他的腳脫臼"],"f":"￹￺to break * snap off￻折斷"}]}],"t":"pitek"}
+,"pitifekan":{"h":[{"d":[{"f":"￹￺a mill￻碾米廠"},{"s":["`tifek~"],"f":"￹￺a rice polishing machine￻碾米機"}]}],"t":"pitifekan"}
 ,"piting":{"h":[{"d":[{"f":"￹￺to snag a thread￻斷線，拉斷"}]}],"t":"piting"}
-,"pito":{"h":[{"d":[{"e":["￹`Saka~ `pito~ `a~ `romi'ad~ `'i~ `pahanhanto~ `ko~ `Kawas~.￺God rested the seventh day.￻第七天，上帝就休息","￹`Papito~ `kita~ `a~ `tayra~.￺Seven of us will go.￻我們共有七個人要去"],"f":"￹￺seven￻七"}]}],"t":"pito"}
-,"pito%27asan":{"h":[{"d":[{"l":["`to'as~"],"f":"￹￺a place from which the parents of the home's family originated￻祖籍"}]}],"t":"pito'asan"}
-,"pitosor":{"h":[{"d":[{"l":["`tosor~"],"e":["￹`O~ `mipitosoray~ `cingra~ `a~ `mitolon~.￺He is kneeling in prayer.￻他是跪下來禱告的"],"f":"￹￺to kneel￻跪下"}]}],"t":"pitosor"}
+,"pito":{"h":[{"d":[{"e":["￹`~ `pito~ `a~ `romi'ad~ `i~ `pa~`hanhan~ `to~ `ko~ `was~.￺God rested the seventh day.￻第七天，上帝就休息","￹`to~ `kita~ `a~ `tayra~.￺Seven of us will go.￻我們共有七個人要去"],"f":"￹￺seven￻七"}]}],"t":"pito"}
+,"pito%27asan":{"h":[{"d":[{"s":["`to'as~"],"f":"￹￺a place from which the parents of the home's family originated￻祖籍"}]}],"t":"pito'asan"}
+,"pitosor":{"h":[{"d":[{"s":["`tosor~"],"e":["￹`O~ `mi~`pitosor~`ay~ `cingra~ `a~ `mi~`tolon~.￺He is kneeling in prayer.￻他是跪下來禱告的"],"f":"￹￺to kneel￻跪下"}]}],"t":"pitosor"}
 ,"piya%27":{"h":[{"d":[{"f":"￹￺clams￻蛤，蚶"}]}],"t":"piya'"}
-,"piyak":{"h":[{"d":[{"l":["`talakal~"],"f":"￹￺a metal trap to catch the foot of something￻捕捉器"}]}],"t":"piyak"}
-,"piyas":{"h":[{"d":[{"e":["￹`Mapiyas~ `koya~ `adadaay~.￺That sick person has diarrhea.￻那個病人在下痢"],"f":"￹￺diarrhea * loose bowels￻腹瀉"}]}],"t":"piyas"}
-,"piyoc":{"h":[{"d":[{"l":["`pdoc~"],"f":"￹￺to suddenly turn around and leave￻突然掉頭就走"}]}],"t":"piyoc"}
-,"pkaw":{"h":[{"d":[{"e":["￹`Alapkapkaw~ `sa~ `cangra~ `a~ `milaliw~.￺They all fled.￻他們各自飛奔逃走"],"f":"￹￺to suddenly run away quickly￻突然奔馳跑掉"}]}],"t":"pkaw"}
-,"pla%27":{"h":[{"d":[{"l":["`mipla'~"],"e":["￹`O~ `pla'~ `konini~.￺This is half of something split.￻這是另一半","￹`Pla'~ `en~ `ko~ `kasoy~.￺Chop / split wood￻把柴火劈開"],"f":"￹￺to split into two￻劈開"}]}],"t":"pla'"}
-,"plek":{"h":[{"d":[{"l":["`pdek~","`saplek~","`sapdek~"],"e":["￹`Paplek~ `ko~ `mata~.￺The eyes blinked.￻眼睛在霎著"],"f":"￹￺to go off and on * to blink￻眨眼，閉眼死了，霎眼"}]}],"t":"plek"}
-,"pleng":{"h":[{"d":[{"e":["￹`Aka~ `pipleng~ `to~ `loma'~ `ita~.￺Don't destroy our home.￻不要破壞我們的家","￹`Maplengto~ `ko~ `niyaro'~ `nangra~.￺Their village is destroyed.￻他們的部落被摧毀了"],"f":"￹￺to destroy * collapse * fall apart * break up￻打碎，毀壞，倒閉，崩潰，瓦解"}]}],"t":"pleng"}
-,"ples":{"h":[{"d":[{"f":"￹￺to knock people down with words * to criticize￻用話壓制別人"},{"f":"￹￺to smash something large so that the insides come out or are detached as a chicken run over by a vehicle or hand smashed in machinery.￻打碎東西使裡面東西出來，或支離破碎如雞被輾死狀或手被機器壓碎"}]}],"t":"ples"}
-,"ploc":{"h":[{"d":[{"e":["￹`saploc~ `a~ `wawa~￺the last child * the youngest￻最小的孩子"],"f":"￹￺to pull off * disengage as to take off a ring * as to let down a baby that has been tied on its mother's back￻鬆脫，如戒指、手燭等脫落，如揹在背上的孩子帶子鬆掉而墬落"}]}],"t":"ploc"}
-,"pna%27orip":{"h":[{"d":[{"l":["`pina'orip~"],"f":"￹￺domestic animals￻飼養的家畜"}]}],"t":"pna'orip"}
-,"pnaloma":{"h":[{"d":[{"l":["`pinaloma~"],"f":"￹￺anything planted to be used as food￻任何種植的可食植物"}]}],"t":"pnaloma"}
-,"pnec":{"h":[{"d":[{"f":"￹￺to press down so that the thing is under one's hand or tool￻用手或東西壓制東西"},{"f":"￹￺to roll over on top of￻在…頂上滾壓過去"},{"f":"￹￺to press down so that liquid comes out as whenmaking soy milk￻擠壓出汁如作豆漿的過程"}]}],"t":"pnec"}
-,"pnen":{"h":[{"d":[{"f":"￹￺a plant with a stalk used in making walls in huts or shelters￻關草桿用來製作茅屋或工寮的牆壁"}]}],"t":"pnen"}
-,"po%27i":{"h":[{"d":[{"l":["`kter~","`firang~"],"e":["￹`Mapo'i~ `kako~ `i~ `tisowanan~.￺I am angry with you.￻我對你很生氣","￹`O~ `maan~ `ko~ `kapo'ian~ `iso~ `takowanan~?￺What are you angry with me about?￻你對我生什麼氣?"],"f":"￹￺to be angry￻責罵,生氣"}]}],"t":"po'i"}
-,"po%27lac":{"h":[{"d":[{"e":["￹`Po'lacen~ `ko~ `sowal~.￺Speak to issue.￻請詳細說明，請說清楚","￹`Mapo'lacto~ `anini~ `koya~ `dmak~.￺The matter has been exposed now.￻那件事情已經查出來了，已水落石出了"],"f":"￹￺to get to the bottom of something * to expose * deal with￻深入事情的底部，揭露，處置"}]}],"t":"po'lac"}
-,"po%27ner":{"h":[{"d":[{"l":["`pa'ner~","`'amrek~"],"e":["￹`misapo'ner~ `to~ `faloco'~￺to take a low place * humble one's heart￻低姿勢，謙卑"],"f":"￹￺short * low in height￻矮，短小"}]}],"t":"po'ner"}
-,"po%27ot":{"h":[{"d":[{"e":["￹`Cipo'ot~ `cingra~.￺He has a knife.￻他有帶刀，他有佩刀"],"f":"￹￺knife * knives￻刀，匕首"}]}],"t":"po'ot"}
+,"piyak":{"h":[{"d":[{"s":["`talakal~"],"f":"￹￺a metal trap to catch the foot of something￻捕捉器"}]}],"t":"piyak"}
+,"piyas":{"h":[{"d":[{"e":["￹`Ma~`piyas~ `koya~ `adada~`ay~.￺That sick person has diarrhea.￻那個病人在下痢"],"f":"￹￺diarrhea * loose bowels￻腹瀉"}]}],"t":"piyas"}
+,"piyoc":{"h":[{"d":[{"s":["`pedoc~"],"f":"￹￺to suddenly turn around and leave￻突然掉頭就走"}]}],"t":"piyoc"}
+,"piyoma":{"h":[{"d":[{"s":["`yoma~"],"f":"￹￺the Pyuma tribe neighboring the Amis￻卑南族"}]}],"t":"piyoma"}
+,"po%27elac":{"h":[{"d":[{"e":["￹`Po'elacen~ `ko~ `sowal~.￺Speak to issue.￻請詳細說明，請說清楚","￹`Ma~`po'elac~ `to~ `anini~ `koya~ `demak~.￺The matter has been exposed now.￻那件事情已經查出來了，已水落石出了"],"f":"￹￺to get to the bottom of something * to expose * deal with￻深入事情的底部，揭露，處置"}]}],"t":"po'elac"}
+,"po%27i":{"h":[{"d":[{"s":["`keter~","`firang~"],"e":["￹`Ma~`po'i~ `kako~ `i~ `tisowanan~.￺I am angry with you.￻我對你很生氣","￹`O~ `maan~ `ko~ `ka~`po'i~`an~ `iso~ `takowanan~?￺What are you angry with me about?￻你對我生什麼氣?"],"f":"￹￺to be angry￻責罵,生氣"}]}],"t":"po'i"}
+,"po%27ot":{"h":[{"d":[{"e":["￹`Ci~`po'ot~ `cingra~.￺He has a knife.￻他有帶刀，他有佩刀"],"f":"￹￺knife * knives￻刀，匕首"}]}],"t":"po'ot"}
 ,"poces":{"h":[{"d":[{"f":"￹￺boils￻膿疱，疔瘡"}]}],"t":"poces"}
 ,"poda%27":{"h":[{"d":[{"f":"￹￺cataract * a white covering on the eye leading to partial or complete blindness￻白內障"},{"f":"￹￺pus from the eyes￻眼屎"}]}],"t":"poda'"}
-,"podac":{"h":[{"d":[{"f":"￹￺a covering * cover￻皮"},{"f":"￹￺a shell * as a peanut shell￻殼，蛋殼"},{"l":["`cipodacay~"],"f":"￹￺bark￻樹皮"}]}],"t":"podac"}
-,"podaw":{"h":[{"d":[{"l":["`mipodaw~"],"f":"￹￺small river fish * minnows￻魚苗，鯉科小魚"}]}],"t":"podaw"}
-,"podoh":{"h":[{"d":[{"l":["`'inap~"],"f":"￹￺jealous (South)￻嫉妒 (南部語)"},{"l":["`'idi~"],"f":"￹￺not want to share (Hualien county)￻吝嗇 (花蓮語)"},{"f":"￹￺bone earrings￻骨製耳環"}]}],"t":"podoh"}
-,"podok":{"h":[{"d":[{"f":"￹￺fungus * skin disease￻皮膚病，頭癬"},{"l":["`podas~"],"f":"￹￺white skin￻白癬"},{"f":"￹￺albino￻白變種"}]}],"t":"podok"}
+,"podac":{"h":[{"d":[{"f":"￹￺a covering * cover￻皮"},{"f":"￹￺a shell * as a peanut shell￻殼，蛋殼"},{"s":["`cipodacay~"],"f":"￹￺bark￻樹皮"}]}],"t":"podac"}
+,"podaw":{"h":[{"d":[{"s":["`mipodaw~"],"f":"￹￺small river fish * minnows￻魚苗，鯉科小魚"}]}],"t":"podaw"}
+,"podoh":{"h":[{"d":[{"s":["`'inap~"],"f":"￹￺jealous (South)￻嫉妒 (南部語)"},{"s":["`'idi~"],"f":"￹￺not want to share (Hualien county)￻吝嗇 (花蓮語)"},{"f":"￹￺bone earrings￻骨製耳環"}]}],"t":"podoh"}
+,"podok":{"h":[{"d":[{"f":"￹￺fungus * skin disease￻皮膚病，頭癬"},{"s":["`podas~"],"f":"￹￺white skin￻白癬"},{"f":"￹￺albino￻白變種"}]}],"t":"podok"}
 ,"podpod":{"h":[{"d":[{"f":"￹￺to use hands to pick up pieces of things that are lying in the dirt￻撿拾散落在地上的東西"}]}],"t":"podpod"}
-,"poet":{"h":[{"d":[{"e":["￹`Aka~ `poeten~ `ko~ `tangila~ `iso~.￺Don't plug your ears.￻不要把耳朵塞住"],"f":"￹￺to plug a hole￻塞住，堵住"}]}],"t":"poet"}
+,"poener":{"h":[{"d":[{"s":["`'ner~","`'amrek~"],"e":["￹`misa~`poener~ `to~ `faloco'~￺to take a low place * humble one's heart￻低姿勢，謙卑"],"f":"￹￺short * low in height￻矮，短小"}]}],"t":"poener"}
+,"poet":{"h":[{"d":[{"e":["￹`Aka~ `poet~`en~ `ko~ `tangila~ `iso~.￺Don't plug your ears.￻不要把耳朵塞住"],"f":"￹￺to plug a hole￻塞住，堵住"}]}],"t":"poet"}
 ,"pohal":{"h":[{"d":[{"f":"￹￺experience (with negative)￻沒有經驗"},{"e":["￹`Awaay~ `ko~ `pohal~ `ako~ `tonini~ `a~ `tayal~.￺I have no experience in this kind of work.￻我沒有這種工作經驗"],"f":"￹￺holes in sweet potatoes￻把馬鈴薯燜在洞內"}]}],"t":"pohal"}
 ,"pohaw":{"h":[{"d":[{"f":"￹￺to be blind * not able to see￻瞎，看不見"}]}],"t":"pohaw"}
-,"pohed":{"h":[{"d":[{"e":["￹`Mapohed~ `koya~ `kilang~.￺That tree / wood is rotten.￻那棵樹腐爛了","￹`Mapohed~ `ko~ `mami'~ `ita~.￺Our oranges are rotten.￻我的柑橘腐爛了"],"f":"￹￺generic word for rotten￻腐爛的總稱"}]}],"t":"pohed"}
-,"pohong":{"h":[{"d":[{"l":["`waa'~"],"f":"￹￺horns of animals￻動物的角"}]}],"t":"pohong"}
-,"pohpoh":{"h":[{"d":[{"e":["￹`Aka~ `pipohpoh~ `toya~ `posi~.￺Don't pet that cat.￻不要撫摸那隻貓","￹`o~ `papohpohen~￺something that should be stroked￻需要愛撫的東西"],"f":"￹￺to stroke with hand￻撫摸"}]}],"t":"pohpoh"}
+,"pohed":{"h":[{"d":[{"e":["￹`Ma~`pohed~ `koya~ `kilang~.￺That tree / wood is rotten.￻那棵樹腐爛了","￹`Ma~`pohed~ `ko~ `mami'~ `ita~.￺Our oranges are rotten.￻我的柑橘腐爛了"],"f":"￹￺generic word for rotten￻腐爛的總稱"}]}],"t":"pohed"}
+,"pohong":{"h":[{"d":[{"s":["`waa'~"],"f":"￹￺horns of animals￻動物的角"}]}],"t":"pohong"}
+,"pohpoh":{"h":[{"d":[{"e":["￹`Aka~ `pi~`pohpoh~ `toya~ `posi~.￺Don't pet that cat.￻不要撫摸那隻貓","￹`o~ `pa~`pohpoh~`en~￺something that should be stroked￻需要愛撫的東西"],"f":"￹￺to stroke with hand￻撫摸"}]}],"t":"pohpoh"}
 ,"poki":{"h":[{"d":[{"f":"￹￺women's genitals * labia￻女人的生殖器"},{"f":"￹￺A vegetable called komiyat is given this term for a nickname because of its shape.￻一種蔬菜叫 komiyat 給它一個 poki 的綽號因為它的形狀很像女人生殖器"}]}],"t":"poki"}
-,"pokoh":{"h":[{"d":[{"l":["`pongo~"]},{"f":"￹￺a section in bamboo or in the body of an animal or person between joints￻竹的節，動物或人身體上的關節"},{"e":["￹`Makakafit~ `ko~ `kasapokopokoh~ `no~ `tireng~.￺All the parts in the body are joined to each other.￻身體的各關節是相連的"],"f":"￹￺knot￻節"}]}],"t":"pokoh"}
-,"polahik":{"h":[{"d":[{"l":["`pokakih~"],"f":"￹￺chicken dung * manure￻雞糞"}]}],"t":"polahik"}
-,"polin":{"h":[{"d":[{"e":["￹`Ano~ `romakat~ `kiso~ `'i~, `aka~ `ka~ `po'lin~.￺Don't fall when you walk.￻你走路時可不要跌倒","￹`Mapolinto~ `ko~ `kitakit~ `ita~.￺Our country has fallen.￻我們的國家被打倒了，我們的國家亡了","￹`'Odoten~ `nira~ `koya~ `tamdaw~ `a~ `mipolin~.￺He attacked the man and knocked him down.￻他攻擊並打倒那個人"],"f":"￹￺to fall * with literal and figurative meanings￻跌倒，摔倒，陷落，含字面比喻的意思"}]}],"t":"polin"}
-,"polita":{"h":[{"d":[{"l":["`palita~"],"f":"￹￺to discern * to look into making an investigation of￻辨認，看清楚，鑑別"}]}],"t":"polita"}
-,"polo%27":{"h":[{"d":[{"l":["`tikolac~"],"f":"￹￺a bird * Bamboo Partridge￻鷓鴣鳥"},{"e":["￹`tosa~ `a~ `polo'~￺two groups of ten * twenty￻二十"],"f":"￹￺ten * a group of ten￻十，十的羣數"}]}],"t":"polo'"}
+,"pokoh":{"h":[{"d":[{"f":"￹￺a section in bamboo or in the body of an animal or person between joints￻竹的節，動物或人身體上的關節"},{"s":["`pongo~"],"e":["￹`Ma~`ka~`kafit~ `ko~ `kasa~`poko~`pokoh~ `no~ `tireng~.￺All the parts in the body are joined to each other.￻身體的各關節是相連的"],"f":"￹￺knot￻節"}]}],"t":"pokoh"}
+,"polahik":{"h":[{"d":[{"s":["`pokakih~"],"f":"￹￺chicken dung * manure￻雞糞"}]}],"t":"polahik"}
+,"polin":{"h":[{"d":[{"e":["￹`Ano~ `romakat~ `kiso~ `i~, `aka~ `po'lin~.￺Don't fall when you walk.￻你走路時可不要跌倒","￹`Ma~`polin~ `to~ `ko~ `kitakit~ `ita~.￺Our country has fallen.￻我們的國家被打倒了，我們的國家亡了","￹`'Odoten~ `nira~ `koya~ `tamdaw~ `a~ `mi~`polin~.￺He attacked the man and knocked him down.￻他攻擊並打倒那個人"],"f":"￹￺to fall * with literal and figurative meanings￻跌倒，摔倒，陷落，含字面比喻的意思"}]}],"t":"polin"}
+,"polita":{"h":[{"d":[{"s":["`palita~"],"f":"￹￺to discern * to look into making an investigation of￻辨認，看清楚，鑑別"}]}],"t":"polita"}
+,"polo%27":{"h":[{"d":[{"s":["`tikolac~"],"f":"￹￺a bird * Bamboo Partridge￻鷓鴣鳥"},{"e":["￹`tosa~ `a~ `polo'~￺two groups of ten * twenty￻二十"],"f":"￹￺ten * a group of ten￻十，十的羣數"}]}],"t":"polo'"}
 ,"polol":{"h":[{"d":[{"f":"￹￺a basket very loosely woven￻籃，筐，簍筐"},{"f":"￹￺prison￻牢 獄，看守所"}]}],"t":"polol"}
-,"pololoc":{"h":[{"d":[{"l":["`ploc~","`rpoc~"],"f":"￹￺to slide down out of position * as for a baby to slide down too low in its mother's back￻沿背滑落下來，如母親揹在背上的小孩帶鬆了而墜落"}]}],"t":"pololoc"}
-,"polong":{"h":[{"d":[{"e":["￹`Mapolong~ `kita~ `a~ `malahok~.￺Let's all eat lunch together.￻我們一起吃午飯","￹`Polongen~ `ko~ `paro~ `no~ `loma'~ `a~ `masa'opo~.￺Have all the family gather together.￻讓全家人團聚","￹`O~ `kapolongan~ `a~ `sa'opo~ `konini~.￺This is a gathering for all who belong (to a group * as for example a church denomination).￻這是全體的聚合","￹`Sakapolongan~ `han~ `nangra~ `ko~ `tayal~ `ato~ `dafong~.￺They shared together their work and possessions.￻我們一起工作並分享所得，他們共同工作並共有財產"],"f":"￹￺all * all together￻全體，團體，全部"}]}],"t":"polong"}
+,"pololoc":{"h":[{"d":[{"s":["`peloc~","`rpoc~"],"f":"￹￺to slide down out of position * as for a baby to slide down too low in its mother's back￻沿背滑落下來，如母親揹在背上的小孩帶鬆了而墜落"}]}],"t":"pololoc"}
+,"polong":{"h":[{"d":[{"e":["￹`Ma~`polong~ `kita~ `a~ `hok~.￺Let's all eat lunch together.￻我們一起吃午飯","￹`Polongen~ `ko~ `paro~ `no~ `loma'~ `a~ `ma~`sa'opo~.￺Have all the family gather together.￻讓全家人團聚","￹`O~ `ka~`polong~`an~ `a~ `sa'opo~ `konini~.￺This is a gathering for all who belong (to a group * as for example a church denomination).￻這是全體的聚合","￹`Saka~`polong~`an~ `han~ `nangra~ `ko~ `tayal~ `ato~ `dafong~.￺They shared together their work and possessions.￻我們一起工作並分享所得，他們共同工作並共有財產"],"f":"￹￺all * all together￻全體，團體，全部"}]}],"t":"polong"}
 ,"pona":{"h":[{"d":[{"e":["￹`pona~ `no~ `paliding~￺hole in center of wooden wheel for axle￻一孔在木製車輪的中心點叫車軸"],"f":"￹￺navel￻肚臍"}]}],"t":"pona"}
 ,"poneng":{"h":[{"d":[{"f":"￹￺maponegay * a single person * survivor of the death of one's spouse * widow or widower￻單身，獨自，鰥夫或寡婦"}]}],"t":"poneng"}
 ,"pongkang":{"h":[{"d":[{"f":"￹￺tunnel * a road made through a mountain (from Amoy dialect)￻山洞，隧道 (引自閩南語)"}]}],"t":"pongkang"}
-,"pongki":{"h":[{"d":[{"l":["`caki~"],"f":"￹￺basket for rubbish￻簸箕"}]}],"t":"pongki"}
-,"pongodan":{"h":[{"d":[{"l":["`Pongodan~"],"f":"￹￺an Amis village￻台東市大橋部落名"}]}],"t":"pongodan"}
-,"poni%27":{"h":[{"d":[{"f":"￹￺rotten * referring to flesh or living things or fruit￻指水果或生物或肉體的腐爛"},{"f":"￹￺soft * sticky￻柔軟的，黏黏的"},{"l":["`poni~","`po'ni~"],"f":"￹￺to bud￻芽"}]}],"t":"poni'"}
+,"pongki":{"h":[{"d":[{"s":["`caki~"],"f":"￹￺basket for rubbish￻簸箕"}]}],"t":"pongki"}
+,"pongodan":{"h":[{"d":[{"s":["`Pongodan~"],"f":"￹￺an Amis village￻台東市大橋部落名"}]}],"t":"pongodan"}
+,"poni%27":{"h":[{"d":[{"f":"￹￺rotten * referring to flesh or living things or fruit￻指水果或生物或肉體的腐爛"},{"f":"￹￺soft * sticky￻柔軟的，黏黏的"},{"s":["`poni~","`po'ni~"],"f":"￹￺to bud￻芽"}]}],"t":"poni'"}
 ,"pono%27":{"h":[{"d":[{"f":"￹￺brain￻腦，腦髓"}]}],"t":"pono'"}
-,"popot":{"h":[{"d":[{"f":"￹￺to wrap an object with something, usually cloth but also leaves or paper￻纏，捲某事務；通常是指纏衣物"},{"e":["￹`Popoten~ `ni~ `Mariya~ `ci~ `Yis~ `to~ `kiradom~ `a~ `pakafoti'~ `i~ `toptop~.￺Mary wrapped Jesus in swaddling clothes and put him to sleep in a trough.￻馬利亞把耶穌包裏於襁褓中並放置在馬槽裡"],"f":"￹￺a bamboo container for needles used in making nets￻一個竹製的罐子裡面可以放竹針可用來製作魚網"}]}],"t":"popot"}
+,"popot":{"h":[{"d":[{"f":"￹￺to wrap an object with something, usually cloth but also leaves or paper￻纏，捲某事務；通常是指纏衣物"},{"e":["￹`Popoten~ `~ `riya~ `~ `Yis~ `to~ `kiradom~ `a~ `paka~`foti'~ `i~ `toptop~.￺Mary wrapped Jesus in swaddling clothes and put him to sleep in a trough.￻馬利亞把耶穌包裏於襁褓中並放置在馬槽裡"],"f":"￹￺a bamboo container for needles used in making nets￻一個竹製的罐子裡面可以放竹針可用來製作魚網"}]}],"t":"popot"}
 ,"poraric":{"h":[{"d":[{"f":"￹￺to step on and squash the insides of something living￻用腳踐踏，用力踩碎活的東西"}]}],"t":"poraric"}
-,"poraw":{"h":[{"d":[{"l":["`kaporawan~"],"f":"￹￺to form seed or fruit￻結果"}]}],"t":"poraw"}
+,"poraw":{"h":[{"d":[{"s":["`kaporawan~"],"f":"￹￺to form seed or fruit￻結果"}]}],"t":"poraw"}
 ,"porec":{"h":[{"d":[{"f":"￹￺mold￻發霉"}]}],"t":"porec"}
-,"porod":{"h":[{"d":[{"l":["`miporod~"],"f":"￹￺a ball of string or yarn￻線圈，編紗"}]}],"t":"porod"}
+,"porod":{"h":[{"d":[{"s":["`miporod~"],"f":"￹￺a ball of string or yarn￻線圈，編紗"}]}],"t":"porod"}
 ,"porong":{"h":[{"d":[{"f":"￹￺to roll up hair into a knot and pin on the back of head￻把頭髮打結按住在頭後"},{"f":"￹￺to make fancy curls￻捲成奇特髮捲"},{"f":"￹￺to take long grass or twine and tie it in a knot to mark a trail in the mountains￻把蘆葦的末端打結作為記號或信號"}]}],"t":"porong"}
 ,"porpor":{"h":[{"d":[{"f":"￹￺to disintegrate * fall apart * as anything old like a log long lying in the forest￻使崩潰，分解；任何一個放置很久的圓木會分解"}]}],"t":"porpor"}
 ,"posak":{"h":[{"d":[{"f":"￹￺crumbs * grains of food such as cooked rice￻飯粒"}]}],"t":"posak"}
 ,"posi":{"h":[{"d":[{"e":["￹`posi~ `no~ `lotok~￺a wildcat￻山貓"],"f":"￹￺a cat * a kitten￻貓"}]}],"t":"posi"}
-,"posir":{"h":[{"d":[{"e":["￹`Maposir~ `ko~ `fanges~ `no~ `tarodo'~ `ako~.￺The (outer) skin came off my finger.￻我手指脫皮"],"f":"￹￺a thin skin or shell covering as the inner covering on peanuts￻皮膚或外殼如花生內部的皮"}]}],"t":"posir"}
+,"posir":{"h":[{"d":[{"e":["￹`Ma~`posir~ `ko~ `fanges~ `no~ `tarodo'~ `ako~.￺The (outer) skin came off my finger.￻我手指脫皮"],"f":"￹￺a thin skin or shell covering as the inner covering on peanuts￻皮膚或外殼如花生內部的皮"}]}],"t":"posir"}
 ,"posisir":{"h":[{"d":[{"f":"￹￺to skid * slide on something smooth or slick￻溜滑，滑行"}]}],"t":"posisir"}
-,"posko":{"h":[{"d":[{"l":["`Posko~"],"f":"￹￺Yuli * the town and surrounding area (from Japanese)￻玉里鎮及周圍地區 (引自日語)"}]}],"t":"posko"}
-,"posong":{"h":[{"d":[{"l":["`Posong~"],"f":"￹￺Taitung and the surrounding area￻台東，寶桑部落名"}]}],"t":"posong"}
+,"posko":{"h":[{"d":[{"s":["`Posko~"],"f":"￹￺Yuli * the town and surrounding area (from Japanese)￻玉里鎮及周圍地區 (引自日語)"}]}],"t":"posko"}
+,"posong":{"h":[{"d":[{"s":["`Posong~"],"f":"￹￺Taitung and the surrounding area￻台東，寶桑部落名"}]}],"t":"posong"}
 ,"pota%27":{"h":[{"d":[{"f":"￹￺soil * soft mushy dirt￻沉澱物，泥漿"}]}],"t":"pota'"}
-,"potal":{"h":[{"d":[{"l":["`papotal~","`talapapotal~"],"f":"￹￺outside of the front of the home * area of the threshing floor￻房子的前庭，曬穀場"}]}],"t":"potal"}
-,"potapot":{"h":[{"d":[{"l":["`kapkap~"],"f":"￹￺to work in the rice field pulling weeds and cultivating young rice plants￻用手拔田地的雜草"}]}],"t":"potapot"}
+,"potal":{"h":[{"d":[{"s":["`papotal~","`talapapotal~"],"f":"￹￺outside of the front of the home * area of the threshing floor￻房子的前庭，曬穀場"}]}],"t":"potal"}
+,"potapot":{"h":[{"d":[{"s":["`kapkap~"],"f":"￹￺to work in the rice field pulling weeds and cultivating young rice plants￻用手拔田地的雜草"}]}],"t":"potapot"}
 ,"potay":{"h":[{"d":[{"f":"￹￺a head band or cloth wrapped around the head￻頭巾或包頭巾"},{"f":"￹￺a decorative head band￻裝飾性頭巾"}]}],"t":"potay"}
 ,"potipot":{"h":[{"d":[{"f":"￹￺a group of tents￻組織或一個團體"}]}],"t":"potipot"}
-,"poton":{"h":[{"d":[{"e":["￹`Mapoton~ `ko~ `wikol~ `noya~ `posi~.￺That cat's tail is bobbed.￻那隻貓的尾巴被切斷，那隻貓的尾巴被剪短","￹`Mapoton~ `ko~ `kamay~ `noya~ `singsi~.￺That preacher has lost his arm.￻那位老師的手臂斷掉"],"f":"￹￺to cut off * referring to someone or thing with a stump from a missing limb￻切斷，指動物或人斷肢"}]}],"t":"poton"}
+,"poton":{"h":[{"d":[{"e":["￹`Ma~`poton~ `ko~ `wikol~ `noya~ `posi~.￺That cat's tail is bobbed.￻那隻貓的尾巴被切斷，那隻貓的尾巴被剪短","￹`Ma~`poton~ `ko~ `kamay~ `noya~ `singsi~.￺That preacher has lost his arm.￻那位老師的手臂斷掉"],"f":"￹￺to cut off * referring to someone or thing with a stump from a missing limb￻切斷，指動物或人斷肢"}]}],"t":"poton"}
 ,"powak":{"h":[{"d":[{"f":"￹￺to burst open * as the contents of a sack￻破裂，爆發， 劈開，爆破"}]}],"t":"powak"}
 ,"powar":{"h":[{"d":[{"f":"￹￺to gush out * referring to water￻湧出，噴出，指水勢"}]}],"t":"powar"}
-,"poyapoy":{"h":[{"d":[{"e":["￹`Mapoyapoy~ `anini~ `ko~ `panay~.￺The rice is now in flower.￻現在水稻已含苞待放了","￹`Cipoyapoy~ `ci~ `Mariya~ `ci~ `Yisan~.￺Mary conceived Jesus.￻馬利亞懷了耶穌","￹`Na'onen~ `ko~ `poyapoy~ `iso~.￺Be careful of the babe in your belly.￻你懷孕時要小心"],"f":"￹￺to conceive * become pregnant * referring both to plants and animal humans￻懷孕，指生物之含苞待放或動物及人類之懷孕"}]}],"t":"poyapoy"}
-,"prar":{"h":[{"d":[{"f":"￹￺to collapse into ruins￻倒塌，崩塌"},{"l":["`kinaprar~"],"e":["￹`Maprarto~ `koya~ `lotok~.￺The mountain came sliding down.￻那座山倒塌，山崩"],"f":"￹￺to landslide￻山崩"}]}],"t":"prar"}
-,"praw":{"h":[{"d":[{"l":["`kfing~"],"f":"￹￺a skin rash￻痲疹"}]}],"t":"praw"}
-,"prec":{"h":[{"d":[{"f":"￹￺to squeese out * as to extract juice￻擠壓出來"},{"f":"￹￺to show disrespect for so that the person has no way to express himself￻表示不尊重，所以那人不知道如何表現自己"}]}],"t":"prec"}
-,"proc":{"h":[{"d":[{"l":["`tahproc~"],"e":["￹`Mataproc~ `ko~ `kafer~ `nira~.￺His trousers don't stay up.￻他的褲子脫落"],"f":"￹￺to slide dowm￻脫落，滑落"}]}],"t":"proc"}
-,"psi%27":{"h":[{"d":[{"f":"￹￺to smash dead * as an insect￻壓死，如昆蟲"},{"e":["￹`Mapsi'~ `nira~ `ko~ `damdam~ `i~ `kohaw~.￺He squeezed pepper juice into the soup.￻他把辣椒擠碎混在湯裡"],"f":"￹￺to squeeze juice￻壓榨擠汁出來"}]}],"t":"psi'"}
-,"pyayoka":{"h":[{"d":[{"f":"￹￺a plant called Thladiantha nudiflora Hemsl.￻青牛膽"}]}],"t":"pyayoka"}
-,"pyoma":{"h":[{"d":[{"l":["`Pyoma~"],"f":"￹￺the Pyuma tribe neighboring the Amis￻卑南族"}]}],"t":"pyoma"}
+,"poyapoy":{"h":[{"d":[{"e":["￹`Ma~`poyapoy~ `anini~ `ko~ `panay~.￺The rice is now in flower.￻現在水稻已含苞待放了","￹`Ci~`poyapoy~ `~ `riya~ `~ `Yisan~.￺Mary conceived Jesus.￻馬利亞懷了耶穌","￹`'onen~ `ko~ `poyapoy~ `iso~.￺Be careful of the babe in your belly.￻你懷孕時要小心"],"f":"￹￺to conceive * become pregnant * referring both to plants and animal humans￻懷孕，指生物之含苞待放或動物及人類之懷孕"}]}],"t":"poyapoy"}
 }

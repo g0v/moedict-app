@@ -1,398 +1,399 @@
-{"ma%27acisay":{"h":[{"d":[{"f":"￹￺barren woman￻患孕不症的婦女"}]}],"t":"ma'acisay"}
-,"ma%27apiay":{"h":[{"d":[{"e":["￹`Ma'apiay~ `ko~ `pawli~￺The banana is double.￻並聯的香蕉"],"f":"￹￺twins￻孿生的，雙胞胎"}]}],"t":"ma'apiay"}
+{"ma":{"h":[{"d":[{"f":"￹￺active verbal particles / passive verbal particles￻主動的動詞前置詞/被動的動詞前置詞"}]}],"t":"ma"}
+,"ma%27acisay":{"h":[{"d":[{"f":"￹￺barren woman￻患孕不症的婦女"}]}],"t":"ma'acisay"}
+,"ma%27apiay":{"h":[{"d":[{"e":["￹`Ma~`'api~`ay~ `ko~ `pawli~￺The banana is double.￻並聯的香蕉"],"f":"￹￺twins￻孿生的，雙胞胎"}]}],"t":"ma'apiay"}
 ,"ma%27atolay":{"h":[{"d":[{"f":"￹￺stones or whatever piled up￻用石頭砌成的"}]}],"t":"ma'atolay"}
-,"ma%27deng":{"h":[{"d":[{"f":"￹￺can be done￻足夠，能力足夠完成"}]}],"t":"ma'deng"}
-,"ma%27dilay":{"h":[{"d":[{"l":["`'dil~"],"f":"￹￺shiny￻閃亮的"}]}],"t":"ma'dilay"}
-,"ma%27fer":{"h":[{"d":[{"l":["`'fer~"],"f":"￹￺to fly￻飛"}]}],"t":"ma'fer"}
-,"ma%27ifor":{"h":[{"d":[{"f":"￹￺the name of an Amis village￻舞鶴部落名"},{"l":["`Ma'ifor~"],"f":"￹￺to be dancing￻翩翩起舞"}]}],"t":"ma'ifor"}
-,"ma%27kak":{"h":[{"d":[{"f":"￹￺to be dried￻即將枯乾"},{"f":"￹￺about to die￻休克，臨終，即將斷氣"}]}],"t":"ma'kak"}
-,"ma%27okakay":{"h":[{"d":[{"l":["`'okak~"],"f":"￹￺skinny * no flesh￻瘦骨如柴"}]}],"t":"ma'okakay"}
-,"ma%27olaw":{"h":[{"d":[{"l":["`'olaw~"],"f":"￹￺blackened * as to be tanned by sun or smoke￻變黑，被光曝晒或被火煙熏色"}]}],"t":"ma'olaw"}
-,"ma%27olicay":{"h":[{"d":[{"l":["`'olic~"],"f":"￹￺someone who has poetic gifts￻富有吟詩天分的人"}]}],"t":"ma'olicay"}
+,"ma%27edilay":{"h":[{"d":[{"s":["`'edil~"],"f":"￹￺shiny￻閃亮的"}]}],"t":"ma'edilay"}
+,"ma%27ekak":{"h":[{"d":[{"f":"￹￺to be dried￻即將枯乾"},{"f":"￹￺about to die￻休克，臨終，即將斷氣"}]}],"t":"ma'ekak"}
+,"ma%27ifor":{"h":[{"d":[{"f":"￹￺the name of an Amis village￻舞鶴部落名"},{"s":["`Ma'ifor~"],"f":"￹￺to be dancing￻翩翩起舞"}]}],"t":"ma'ifor"}
+,"ma%27iray":{"h":[{"d":[{"s":["`'iray~"],"f":"￹￺to feel good towards someone￻對某人或東西有好感，以…東西或人為榮(傲)"}]}],"t":"ma'iray"}
+,"ma%27okakay":{"h":[{"d":[{"s":["`'okak~"],"f":"￹￺skinny * no flesh￻瘦骨如柴"}]}],"t":"ma'okakay"}
+,"ma%27olaw":{"h":[{"d":[{"s":["`'olaw~"],"f":"￹￺blackened * as to be tanned by sun or smoke￻變黑，被光曝晒或被火煙熏色"}]}],"t":"ma'olaw"}
+,"ma%27olicay":{"h":[{"d":[{"s":["`'olic~"],"f":"￹￺someone who has poetic gifts￻富有吟詩天分的人"}]}],"t":"ma'olicay"}
 ,"ma%27oripay":{"h":[{"d":[{"f":"￹￺(something) that is alive￻有生命的，活生生的"}]}],"t":"ma'oripay"}
 ,"maa%27ised":{"h":[{"d":[{"f":"￹￺to compete with each other￻互相競爭"}]}],"t":"maa'ised"}
 ,"maacek":{"h":[{"d":[{"f":"￹￺feel revulsion toward￻嫌惡感，厭惡感"}]}],"t":"maacek"}
-,"maan":{"h":[{"d":[{"l":["`mamaan~","`mimaan~","`samaanen~","`maanen~","`asimaan~","`kalimaanay~"],"e":["￹`Maan~ `saan~ `ko~ `harateng~ `iso~?￺What is your response? / What do you think then?￻你的想法如何？"],"f":"￹￺what * whatever￻什麼，任何東西"}]}],"t":"maan"}
+,"maan":{"h":[{"d":[{"s":["`mamaan~","`mimaan~","`samaanen~","`anen~","`asimaan~","`kalimaanay~"],"e":["￹`an~ `saan~ `ko~ `harateng~ `iso~?￺What is your response? / What do you think then?￻你的想法如何？"],"f":"￹￺what * whatever￻什麼，任何東西"}]}],"t":"maan"}
 ,"maca%27it":{"h":[{"d":[{"f":"￹￺to be hung up￻被懸吊"}]}],"t":"maca'it"}
-,"macacafi%27":{"h":[{"d":[{"l":["`cafi'~"],"f":"￹￺to compete (Kwangfu)￻比賽，競賽，徑賽"}]}],"t":"macacafi'"}
-,"macacamol":{"h":[{"d":[{"l":["`camol~"],"f":"￹￺two thing mixed together￻混在一起，互相交混"}]}],"t":"macacamol"}
-,"macaco%27co":{"h":[{"d":[{"l":["`co'co~"],"f":"￹￺packed together in a small place￻在小地方互相排擠，擠來擠去"}]}],"t":"macaco'co"}
-,"macaco%27is":{"h":[{"d":[{"l":["`co'is~"],"e":["￹`Macaco'is~ `ko~ `sowal~ `nira~.￺His words are all mixed up / out of order.￻他的話顛三倒四，他的話語無倫次"],"f":"￹￺upside down to each other * backwards￻頭尾相互顛倒"}]}],"t":"macaco'is"}
-,"macacoflis":{"h":[{"d":[{"l":["`coflis~"],"f":"￹￺pass each other * as vehicles on the road￻交會，交錯(如車子在路上交會)"}]}],"t":"macacoflis"}
-,"macacoli":{"h":[{"d":[{"l":["`coli~"],"f":"￹￺disagree with each other (two parties)￻互相爭吵(兩人或兩個不同立場的集團)"}]}],"t":"macacoli"}
-,"macacolicoli":{"h":[{"d":[{"l":["`coli~"],"f":"￹￺several parties disagree among themselves￻三個以上不同立場的人或集團互相爭論"}]}],"t":"macacolicoli"}
-,"macacora%27":{"h":[{"d":[{"l":["`cora'~"],"f":"￹￺two (water buffalo) locking horns￻兩頭有角的動物(如牛，羊等)相鬥"}]}],"t":"macacora'"}
-,"macacorocorok":{"h":[{"d":[{"l":["`corok~"],"f":"￹￺each one take a turn￻每一個人輪流"}]}],"t":"macacorocorok"}
+,"macacafi%27":{"h":[{"d":[{"s":["`cafi'~"],"f":"￹￺to compete (Kwangfu)￻比賽，競賽，徑賽"}]}],"t":"macacafi'"}
+,"macacamol":{"h":[{"d":[{"s":["`camol~"],"f":"￹￺two thing mixed together￻混在一起，互相交混"}]}],"t":"macacamol"}
+,"macaco%27is":{"h":[{"d":[{"s":["`co'is~"],"e":["￹`caco'is~ `ko~ `sowal~ `nira~.￺His words are all mixed up / out of order.￻他的話顛三倒四，他的話語無倫次"],"f":"￹￺upside down to each other * backwards￻頭尾相互顛倒"}]}],"t":"macaco'is"}
+,"macaco%5Eco":{"h":[{"d":[{"s":["`co~^`co~"],"f":"￹￺packed together in a small place￻在小地方互相排擠，擠來擠去"}]}],"t":"macaco^co"}
+,"macacofelis":{"h":[{"d":[{"s":["`cofelis~"],"f":"￹￺pass each other * as vehicles on the road￻交會，交錯(如車子在路上交會)"}]}],"t":"macacofelis"}
+,"macacoli":{"h":[{"d":[{"s":["`coli~"],"f":"￹￺disagree with each other (two parties)￻互相爭吵(兩人或兩個不同立場的集團)"}]}],"t":"macacoli"}
+,"macacolicoli":{"h":[{"d":[{"s":["`coli~"],"f":"￹￺several parties disagree among themselves￻三個以上不同立場的人或集團互相爭論"}]}],"t":"macacolicoli"}
+,"macacora%27":{"h":[{"d":[{"s":["`cora'~"],"f":"￹￺two (water buffalo) locking horns￻兩頭有角的動物(如牛，羊等)相鬥"}]}],"t":"macacora'"}
+,"macacorocorok":{"h":[{"d":[{"s":["`corok~"],"f":"￹￺each one take a turn￻每一個人輪流"}]}],"t":"macacorocorok"}
 ,"macahak":{"h":[{"d":[{"f":"￹￺to widen * to begin narrow and grow wider￻拓寬"}]}],"t":"macahak"}
-,"macaliw":{"h":[{"d":[{"l":["`caliw~"],"e":["￹`Macacaliw~ `kita~ `to~ `tayal~.￺We will take turns doing the work.￻我們彼此交換工作，我們互換工作"],"f":"￹￺borrowed * loaned￻被借出，被貸出"}]}],"t":"macaliw"}
-,"macidal":{"h":[{"d":[{"l":["`cidal~"],"f":"￹￺sun shining￻出太陽，晴天"}]}],"t":"macidal"}
-,"mackid":{"h":[{"d":[{"l":["`ckid~"],"f":"￹￺to be scared by a noise￻被聲音(吵雜聲)所驚嚇"}]}],"t":"mackid"}
-,"macngel":{"h":[{"d":[{"f":"￹￺to be painted * dyed￻被著了顏色"},{"f":"￹￺to be contaminated￻被污染，被弄髒，被弄污"}]}],"t":"macngel"}
-,"mafangaw":{"h":[{"d":[{"l":["`fangaw~"],"f":"￹￺rice which doesn't mature￻稻尚未成熟"}]}],"t":"mafangaw"}
-,"maflay":{"h":[{"d":[{"l":["`flay~"],"f":"￹￺Refer to `flay~￻詳見 `flay~"}]}],"t":"maflay"}
-,"mafolaw":{"h":[{"d":[{"l":["`folaw~"],"f":"￹￺to leave the village￻搬離這個村莊，移居他村"}]}],"t":"mafolaw"}
-,"mafolosi":{"h":[{"d":[{"e":["￹`O~ `cimafolosiay~ `cingra~.￺He is a seer (i.e. one who is given to having trances).￻他是先知，他是有先見的"],"f":"￹￺to have a vision * to be visited by the supernatural (from Japanese)￻有異象的，藉著神奇的力量來探訪 ( 引自日語)"}]}],"t":"mafolosi"}
-,"mafowakay":{"h":[{"d":[{"l":["`Mafowakay~"],"f":"￹￺the name of an Amis village * place where water comes out of the ground￻南華部落，從地底逬出泉水來"}]}],"t":"mafowakay"}
-,"mahad":{"h":[{"d":[{"l":["`korah~"],"f":"￹￺'Amis homemade clothing woven from their own thread￻阿美族用自己做的線織布做成衣服"}]}],"t":"mahad"}
-,"mahanhan":{"h":[{"d":[{"l":["`misasla'~"],"f":"￹￺Refer to `misasla'~￻詳見 `misasla'~"}]}],"t":"mahanhan"}
-,"mahngangool":{"h":[{"d":[{"l":["`ngangool~"],"f":"￹￺Refer to `ngangool~￻詳見 `ngangool~"}]}],"t":"mahngangool"}
-,"mahod":{"h":[{"d":[{"l":["`lalidingan~","`pakimahod~"],"f":"￹￺wooden rice cooker * carved out of a log * for steaming rice￻木製蒸籠，蒸米飯用"}]}],"t":"mahod"}
-,"maimai":{"h":[{"d":[{"l":["`howak~"],"f":"￹￺duck * ducks￻鴨子"}]}],"t":"maimai"}
-,"mairay":{"h":[{"d":[{"l":["`iray~"],"f":"￹￺to feel good towards someone￻對某人或東西有好感，以…東西或人為榮(傲)"}]}],"t":"mairay"}
-,"makaen":{"h":[{"d":[{"l":["`kaen~"],"f":"￹￺to be eaten￻被吃"}]}],"t":"makaen"}
+,"macaliw":{"h":[{"d":[{"s":["`caliw~"],"e":["￹`Ma~`ca~`caliw~ `kita~ `to~ `tayal~.￺We will take turns doing the work.￻我們彼此交換工作，我們互換工作"],"f":"￹￺borrowed * loaned￻被借出，被貸出"}]}],"t":"macaliw"}
+,"macekid":{"h":[{"d":[{"s":["`cekid~"],"f":"￹￺to be scared by a noise￻被聲音(吵雜聲)所驚嚇"}]}],"t":"macekid"}
+,"macengel":{"h":[{"d":[{"f":"￹￺to be painted * dyed￻被著了顏色"},{"f":"￹￺to be contaminated￻被污染，被弄髒，被弄污"}]}],"t":"macengel"}
+,"macidal":{"h":[{"d":[{"s":["`cidal~"],"f":"￹￺sun shining￻出太陽，晴天"}]}],"t":"macidal"}
+,"maedeng":{"h":[{"d":[{"f":"￹￺can be done￻足夠，能力足夠完成"}]}],"t":"maedeng"}
+,"maefer":{"h":[{"d":[{"s":["`efer~"],"f":"￹￺to fly￻飛"}]}],"t":"maefer"}
+,"mafangaw":{"h":[{"d":[{"s":["`fangaw~"],"f":"￹￺rice which doesn't mature￻稻尚未成熟"}]}],"t":"mafangaw"}
+,"mafelay":{"h":[{"d":[{"s":["`felay~"],"f":"￹￺Refer to `felay~￻詳見 `felay~"}]}],"t":"mafelay"}
+,"mafolaw":{"h":[{"d":[{"s":["`folaw~"],"f":"￹￺to leave the village￻搬離這個村莊，移居他村"}]}],"t":"mafolaw"}
+,"mafolosi":{"h":[{"d":[{"e":["￹`O~ `ci~`mafolosi~`ay~ `cingra~.￺He is a seer (i.e. one who is given to having trances).￻他是先知，他是有先見的"],"f":"￹￺to have a vision * to be visited by the supernatural (from Japanese)￻有異象的，藉著神奇的力量來探訪 ( 引自日語)"}]}],"t":"mafolosi"}
+,"mafowakay":{"h":[{"d":[{"s":["`Mafowakay~"],"f":"￹￺the name of an Amis village * place where water comes out of the ground￻南華部落，從地底逬出泉水來"}]}],"t":"mafowakay"}
+,"mahad":{"h":[{"d":[{"s":["`korah~"],"f":"￹￺'Amis homemade clothing woven from their own thread￻阿美族用自己做的線織布做成衣服"}]}],"t":"mahad"}
+,"mahanhan":{"h":[{"d":[{"s":["`misasela'~"],"f":"￹￺Refer to `misasela'~￻詳見 `misasela'~"}]}],"t":"mahanhan"}
+,"mahngangool":{"h":[{"d":[{"s":["`ngangool~"],"f":"￹￺Refer to `ngangool~￻詳見 `ngangool~"}]}],"t":"mahngangool"}
+,"mahod":{"h":[{"d":[{"s":["`lalidingan~","`pakimahod~"],"f":"￹￺wooden rice cooker * carved out of a log * for steaming rice￻木製蒸籠，蒸米飯用"}]}],"t":"mahod"}
+,"makaen":{"h":[{"d":[{"s":["`kaen~"],"f":"￹￺to be eaten￻被吃"}]}],"t":"makaen"}
 ,"makahi":{"h":[{"d":[{"f":"￹￺to be agreeable to￻同意"}]}],"t":"makahi"}
-,"makalo":{"h":[{"d":[{"l":["`tkes~"],"f":"￹￺a species of bamboo￻竹"}]}],"t":"makalo"}
-,"makater":{"h":[{"d":[{"l":["`kater~"],"f":"￹￺to be snagged￻被牽住"}]}],"t":"makater"}
-,"makdalay":{"h":[{"d":[{"l":["`kdal~"],"f":"￹￺an old old man￻老年人"}]}],"t":"makdalay"}
-,"makfing":{"h":[{"d":[{"l":["`kfing~"],"f":"￹￺to have measles or rash￻患痲疹"}]}],"t":"makfing"}
-,"makinihay":{"h":[{"d":[{"l":["`kinih~"],"f":"￹￺tipped * not balanced￻不平衡，傾斜"}]}],"t":"makinihay"}
-,"mako":{"h":[{"d":[{"l":["`ako~"],"f":"￹￺my * mine * I 我的 See Pronouns - Appendix 1.￻參閱附錄I代名詞"}]}],"t":"mako"}
-,"mako-":{"h":[{"d":[{"l":["`makotloc~","`makolawac~"],"f":"￹￺both￻二者"}]}],"t":"mako-"}
-,"makofati%27ian":{"h":[{"d":[{"l":["`fati'ian~"],"f":"￹￺on both sides of￻兩邊，兩側"}]}],"t":"makofati'ian"}
-,"makolawac":{"h":[{"d":[{"l":["`lawac~"],"f":"￹￺both edges of (something)￻各邊(各角落)； 兩邊"}]}],"t":"makolawac"}
-,"makonis":{"h":[{"d":[{"l":["`konis~"],"f":"￹￺to be marked￻被做記號"}]}],"t":"makonis"}
-,"makotaay":{"h":[{"d":[{"f":"￹￺muddy water￻泥濘的"},{"f":"￹￺the name of an Amis village￻花蓮玉里宮前或巷口部落名"}]}],"t":"makotaay"}
-,"makotloc":{"h":[{"d":[{"f":"￹￺both ends of (something)￻兩端"}]}],"t":"makotloc"}
-,"mala":{"h":[{"d":[{"e":["￹`Mala~ `wawa~ `ako~ `konini~.￺This has become my child.￻變成我的孩子","￹`Mala~ `awaay~ `ko~ `'poc~ `ko~ `dmak~ `nira~.￺What he does has become useless.￻徒勞無功"],"f":"￹￺to become * a grammatical marker for becoming (mala-)￻變成"}]}],"t":"mala"}
-,"mala%27odo%27odot":{"h":[{"d":[{"l":["`'odot~"],"f":"￹￺two people wrestle with each other￻兩人互相打鬥"}]}],"t":"mala'odo'odot"}
+,"makalo":{"h":[{"d":[{"s":["`tekes~"],"f":"￹￺a species of bamboo￻竹"}]}],"t":"makalo"}
+,"makater":{"h":[{"d":[{"s":["`kater~"],"f":"￹￺to be snagged￻被牽住"}]}],"t":"makater"}
+,"makedalay":{"h":[{"d":[{"s":["`kedal~"],"f":"￹￺an old old man￻老年人"}]}],"t":"makedalay"}
+,"makefing":{"h":[{"d":[{"s":["`kefing~"],"f":"￹￺to have measles or rash￻患痲疹"}]}],"t":"makefing"}
+,"makinihay":{"h":[{"d":[{"s":["`kinih~"],"f":"￹￺tipped * not balanced￻不平衡，傾斜"}]}],"t":"makinihay"}
+,"mako":{"h":[{"d":[{"s":["`ako~"],"f":"￹￺my * mine * I 我的 See Pronouns - Appendix 1.￻參閱附錄I代名詞"}]}],"t":"mako"}
+,"mako-":{"h":[{"d":[{"s":["`makoteloc~","`makolawac~"],"f":"￹￺both￻二者"}]}],"t":"mako-"}
+,"makofati%27i%27an":{"h":[{"d":[{"s":["`fati'i'an~"],"f":"￹￺on both sides of￻兩邊，兩側"}]}],"t":"makofati'i'an"}
+,"makolawac":{"h":[{"d":[{"s":["`lawac~"],"f":"￹￺both edges of (something)￻各邊(各角落)； 兩邊"}]}],"t":"makolawac"}
+,"makonis":{"h":[{"d":[{"s":["`konis~"],"f":"￹￺to be marked￻被做記號"}]}],"t":"makonis"}
+,"makotaay":{"h":[{"d":[{"f":"￹￺muddy water￻污濁的；泥濘的"},{"f":"￹￺the name of an Amis village￻花蓮玉里宮前或巷口部落名"}]}],"t":"makotaay"}
+,"makoteloc":{"h":[{"d":[{"f":"￹￺both ends of (something)￻兩端"}]}],"t":"makoteloc"}
+,"mala":{"h":[{"d":[{"e":["￹`~ `wawa~ `ako~ `konini~.￺This has become my child.￻變成我的孩子","￹`~ `awa~`ay~ `ko~ `epoc~ `ko~ `demak~ `nira~.￺What he does has become useless.￻徒勞無功"],"f":"￹￺to become * a grammatical marker for becoming (mala-)￻變成"}]}],"t":"mala"}
+,"mala%27odo%27odot":{"h":[{"d":[{"s":["`'odot~"],"f":"￹￺two people wrestle with each other￻兩人互相打鬥"}]}],"t":"mala'odo'odot"}
 ,"malaci%27":{"h":[{"d":[{"f":"￹￺when items fall through the cracks in a sleeping platform and become inaccessible￻間隔，裂縫，從裂縫中間洩落"}]}],"t":"malaci'"}
 ,"malahawad":{"h":[{"d":[{"f":"￹￺disappear * be gone￻消失，不見"}]}],"t":"malahawad"}
-,"malakiting":{"h":[{"d":[{"l":["`kiting~"],"f":"￹￺to be tied and led together￻連起來，手牽手"}]}],"t":"malakiting"}
-,"malakoli":{"h":[{"d":[{"l":["`koli~"],"f":"￹￺to become a slave￻做佣人"}]}],"t":"malakoli"}
-,"malalamo":{"h":[{"d":[{"l":["`lamo~"],"f":"￹￺two involved in breeding￻互相交配"}]}],"t":"malalamo"}
-,"malalfo":{"h":[{"d":[{"l":["`mala'odot~"],"f":"￹￺to wrestle or fight with each other￻互相打架，格鬥，搏鬥"}]}],"t":"malalfo"}
-,"malalifelifet":{"h":[{"d":[{"l":["`lifet~"],"f":"￹￺to complete (three or more parties)￻競相比賽 (三者以上)"}]}],"t":"malalifelifet"}
-,"malalifet":{"h":[{"d":[{"l":["`lifet~"],"f":"￹￺to compete (two parties)￻競爭 (二者)"}]}],"t":"malalifet"}
-,"malalikikid":{"h":[{"d":[{"l":["`likid~"],"f":"￹￺to all have hands joined￻手拉手，手攜手"}]}],"t":"malalikikid"}
-,"malalood":{"h":[{"d":[{"l":["`lood~"],"f":"￹￺two sides fight against each other￻兩方互鬥"}]}],"t":"malalood"}
-,"malalosid":{"h":[{"d":[{"l":["`losid~"],"f":"￹￺something that can be used as a decoration￻可當裝飾品的東西"}]}],"t":"malalosid"}
-,"malamok":{"h":[{"d":[{"l":["`lamok~"],"e":["￹`Malamok~ `a~ `ripa'en~ `ko~ `tafok~.￺Feet burn too much to walk on the sand.￻在沙灘上走路腳燙疼難耐"],"f":"￹￺burning hot feet￻赤腳走在炎熱的路上脚被燙燒"}]}],"t":"malamok"}
-,"malaso%27da":{"h":[{"d":[{"l":["`so'da~"],"f":"￹￺to freeze * become ice￻變成冰"}]}],"t":"malaso'da"}
-,"malataw":{"h":[{"d":[{"f":"￹￺the place of departed spirits￻死人之魂的歸所"},{"l":["`pamalataw~"],"f":"￹￺the name of the all governing god of the Amis￻阿美族神明中的主權者，神明中的主宰"}]}],"t":"malataw"}
+,"malakiting":{"h":[{"d":[{"s":["`kiting~"],"f":"￹￺to be tied and led together￻連起來，手牽手"}]}],"t":"malakiting"}
+,"malakoli":{"h":[{"d":[{"s":["`koli~"],"f":"￹￺to become a slave￻做佣人"}]}],"t":"malakoli"}
+,"malalamo":{"h":[{"d":[{"s":["`lamo~"],"f":"￹￺two involved in breeding￻互相交配"}]}],"t":"malalamo"}
+,"malalefo":{"h":[{"d":[{"s":["`mala~`'odot~"],"f":"￹￺to wrestle or fight with each other￻互相打架，格鬥，搏鬥"}]}],"t":"malalefo"}
+,"malalifelifet":{"h":[{"d":[{"s":["`lifet~"],"f":"￹￺to complete (three or more parties)￻競相比賽 (三者以上)"}]}],"t":"malalifelifet"}
+,"malalifet":{"h":[{"d":[{"s":["`lifet~"],"f":"￹￺to compete (two parties)￻競爭 (二者)"}]}],"t":"malalifet"}
+,"malalikilikid":{"h":[{"d":[{"s":["`likid~"],"f":"￹￺to all have hands joined￻手拉手，手攜手"}]}],"t":"malalikilikid"}
+,"malalood":{"h":[{"d":[{"s":["`lood~"],"f":"￹￺two sides fight against each other￻兩方互鬥"}]}],"t":"malalood"}
+,"malalosid":{"h":[{"d":[{"s":["`losid~"],"f":"￹￺something that can be used as a decoration￻可當裝飾品的東西"}]}],"t":"malalosid"}
+,"malamok":{"h":[{"d":[{"s":["`lamok~"],"e":["￹`mok~ `a~ `ripa'~`en~ `ko~ `tafok~.￺Feet burn too much to walk on the sand.￻在沙灘上走路腳燙疼難耐"],"f":"￹￺burning hot feet￻赤腳走在炎熱的路上脚被燙燒"}]}],"t":"malamok"}
+,"malaso%5Eda":{"h":[{"d":[{"s":["`so~^`da~"],"f":"￹￺to freeze * become ice￻變成冰"}]}],"t":"malaso^da"}
+,"malataw":{"h":[{"d":[{"f":"￹￺the place of departed spirits￻死人之魂的歸所"},{"s":["`pamalataw~"],"f":"￹￺the name of the all governing god of the Amis￻阿美族神明中的主權者，神明中的主宰"}]}],"t":"malataw"}
 ,"malaymay":{"h":[{"d":[{"f":"￹￺to talk all the time * to be a big talk￻話匣子，喋喋不休，愛說話的"}]}],"t":"malaymay"}
-,"malceng":{"h":[{"d":[{"l":["`lceng~"],"f":"￹￺to be trimmed * cut￻被修剪，修整，剪掉"}]}],"t":"malceng"}
-,"maldo":{"h":[{"d":[{"f":"￹￺straight up and down on both sides￻從上行下大小一樣"},{"e":["￹`Maldo~ `nira~ `ko~ `tayal~.￺He finished the work.￻他完成工作"],"f":"￹￺to completely finish work￻徹底的完成工作"}]}],"t":"maldo"}
-,"mali":{"h":[{"d":[{"l":["`mimali~"],"f":"￹￺ball￻球"}]}],"t":"mali"}
-,"malicangay":{"h":[{"d":[{"l":["`licang~"],"f":"￹￺name of a poisonous snake with black and white diamond shaped design * Taiwan Habu￻龜殼花(蛇)"}]}],"t":"malicangay"}
-,"malifong":{"h":[{"d":[{"l":["`lifong~"],"f":"￹￺to have an epidemic with people dying￻得瘟疫，患流行性傳染病"}]}],"t":"malifong"}
-,"malikaka":{"h":[{"d":[{"l":["`malkaka~","`kaka~"]}]}],"t":"malikaka"}
-,"malikat":{"h":[{"d":[{"l":["`likat~"],"f":"￹￺to be burning * glowing￻著火，燃亮，點燃"}]}],"t":"malikat"}
-,"malimpo":{"h":[{"d":[{"l":["`Malimpo~"],"f":"￹￺name of an Amis village (from Amoy dialect)￻萬寧部落名 (引自台語)"}]}],"t":"malimpo"}
-,"malingaday":{"h":[{"d":[{"l":["`lingad~"],"f":"￹￺farmer * worker￻農人, 工人"}]}],"t":"malingaday"}
-,"malininaay":{"h":[{"d":[{"l":["`ina~","`salowinawinaan~"],"f":"￹￺relatives * members of the family group￻親戚，親友"}]}],"t":"malininaay"}
-,"malitengay":{"h":[{"d":[{"l":["`mato'asay~"],"f":"￹￺an old person￻老年人"}]}],"t":"malitengay"}
+,"maleceng":{"h":[{"d":[{"s":["`leceng~"],"f":"￹￺to be trimmed * cut￻被修剪，修整，剪掉"}]}],"t":"maleceng"}
+,"maledo":{"h":[{"d":[{"f":"￹￺straight up and down on both sides￻從上行下大小一樣"},{"s":["`maredo~"],"e":["￹`Ma~`ledo~ `nira~ `ko~ `tayal~.￺He finished the work.￻他完成工作"],"f":"￹￺to completely finish work￻徹底的完成工作"}]}],"t":"maledo"}
+,"malekakaay":{"h":[{"d":[{"f":"￹￺literally refers to brothers and sisters that have the same parents￻兄弟姊妹"},{"s":["`mala~`kaka~`ay~"],"f":"￹￺figuratively to have a close relationship like family￻比喻指有家族親密的關係"}]}],"t":"malekakaay"}
+,"malenaf":{"h":[{"d":[{"s":["`lenaf~"],"f":"￹￺to be swamped with water￻漲水瀰漫"}]}],"t":"malenaf"}
+,"maleneng":{"h":[{"d":[{"s":["`moleneng~"],"f":"￹￺Refer to `moleneng~￻詳見 `moleneng~"}]}],"t":"maleneng"}
+,"malenga":{"h":[{"d":[{"f":"￹￺to be cracked so that there is a break as in a dish￻裂開，裂痕，龜裂"},{"f":"￹￺to be cracked as dry mud in a rice field￻水田的土壤乾旱而龜裂"}]}],"t":"malenga"}
+,"malengaw":{"h":[{"d":[{"s":["`molengaw~"],"f":"￹￺Refer to `molengaw~￻詳見 `molengaw~"}]}],"t":"malengaw"}
+,"malesafon":{"h":[{"d":[{"s":["`lesafon~"],"f":"￹￺to gather together * of people￻羣集，聚集"}]}],"t":"malesafon"}
+,"mali":{"h":[{"d":[{"s":["`mimali~"],"f":"￹￺ball￻球"}]}],"t":"mali"}
+,"malicangay":{"h":[{"d":[{"s":["`licang~"],"f":"￹￺name of a poisonous snake with black and white diamond shaped design * Taiwan Habu￻龜殼花(蛇)"}]}],"t":"malicangay"}
+,"malifong":{"h":[{"d":[{"s":["`lifong~"],"f":"￹￺to have an epidemic with people dying￻得瘟疫，患流行性傳染病"}]}],"t":"malifong"}
+,"malikaka":{"h":[{"d":[{"s":["`lekaka~","`kaka~"],"f":"￹￺brothers and sisters belonging to eachother￻兄弟姐妹，手足之情 (字須與複數代名詞連用)"}]}],"t":"malikaka"}
+,"malikat":{"h":[{"d":[{"s":["`likat~"],"f":"￹￺to be burning * glowing￻著火，燃亮，點燃"}]}],"t":"malikat"}
+,"malimpo":{"h":[{"d":[{"s":["`Malimpo~"],"f":"￹￺name of an Amis village (from Amoy dialect)￻萬寧部落名 (引自台語)"}]}],"t":"malimpo"}
+,"malingaday":{"h":[{"d":[{"s":["`lingad~"],"f":"￹￺farmer * worker￻農人, 工人"}]}],"t":"malingaday"}
+,"malininaay":{"h":[{"d":[{"s":["`ina~","`sa~`lowina~`winaan~"],"f":"￹￺relatives * members of the family group￻親戚，親友"}]}],"t":"malininaay"}
+,"malipakah":{"h":[{"d":[{"f":"￹￺hip is painful (from some accident)￻臀部疼痛"}]}],"t":"malipakah"}
+,"malitengay":{"h":[{"d":[{"s":["`ma~`to'as~`ay~"],"f":"￹￺an old person￻老年人"}]}],"t":"malitengay"}
 ,"malitmit":{"h":[{"d":[{"f":"￹￺the effect of raw taro on the inside of the mouth or on the skin * a burn￻吃半生不熟的芋頭口腔上引發辛辣的感覺或皮膚上燙疼的感覺"},{"f":"￹￺a feeling of tingling￻感覺刺痛"},{"f":"￹￺crackling￻噼噼啪啪的感覺 (如腳麻了之後)"}]}],"t":"malitmit"}
-,"maliwakah":{"h":[{"d":[{"l":["`malipakah~"],"f":"￹￺hip is painful (from some accident)￻臀部疼痛"}]}],"t":"maliwakah"}
-,"malkakaay":{"h":[{"d":[{"l":["`malakakaay~"]},{"f":"￹￺literally refers to brothers and sisters that have the same parents￻兄弟姊妹"},{"f":"￹￺figuratively to have a close relationship like family￻比喻指有家族親密的關係"}]}],"t":"malkakaay"}
-,"malnaf":{"h":[{"d":[{"l":["`lnaf~"],"f":"￹￺to be swamped with water￻漲水瀰漫"}]}],"t":"malnaf"}
-,"malneng":{"h":[{"d":[{"l":["`molneng~"],"f":"￹￺Refer to `molneng~￻詳見 `molneng~"}]}],"t":"malneng"}
-,"malnga":{"h":[{"d":[{"f":"￹￺to be cracked so that there is a break as in a dish￻裂開，裂痕，龜裂"},{"f":"￹￺to be cracked as dry mud in a rice field￻水田的土壤乾旱而龜裂"}]}],"t":"malnga"}
-,"malngaw":{"h":[{"d":[{"l":["`molngaw~"],"f":"￹￺Refer to `molngaw~￻詳見 `molngaw~"}]}],"t":"malngaw"}
-,"malo":{"h":[{"d":[{"l":["`malo~-","`ha~","`maloina~","`malomama~"],"e":["￹`Malomaan~ `konini~?￺1. What is this for?  2. This is of no use.￻1. 這是做什麼用的？ 2. 這是沒有用的","￹`Onini~ `a~ `dafong~ `ako~ `'i~, `malomaanho~ `saan~ `kako~.￺I've decided I don't want this anymore.￻這件東西 (家俱) 我不再需要了","￹`Malo~ `kakaenen~ `no~ `'Amis~ `ko~ `ckiw~￺Snails are used for food by the Amis.￻海螺是阿美族人的食物"],"f":"￹￺for the use of * a grammatical marker￻成為，做為，將作，做成，文法上的助詞"}]}],"t":"malo"}
-,"maloina":{"h":[{"d":[{"f":"￹￺the mother and her family (children)￻母親和他的子女"},{"l":["`malo~","`ina~"],"f":"￹￺god-mother￻乾媽媽"}]}],"t":"maloina"}
-,"malomama":{"h":[{"d":[{"f":"￹￺the father and his family (children)￻父親和他的子女"},{"l":["`malo~"],"f":"￹￺god-father￻乾爸爸"}]}],"t":"malomama"}
+,"malo":{"h":[{"d":[{"s":["`malo~-","`ha~","`maloina~","`malomama~"],"e":["￹`lomaan~ `konini~?￺1. What is this for?  2. This is of no use.￻1. 這是做什麼用的？ 2. 這是沒有用的","￹`Onini~ `a~ `dafong~ `ako~ `i~, `lomaan~ `ho~ `saan~ `kako~.￺I've decided I don't want this anymore.￻這件東西 (家俱) 我不再需要了","￹`lo~ `kakaenen~ `no~ `'Amis~ `ko~ `cekiw~￺Snails are used for food by the Amis.￻海螺是阿美族人的食物"],"f":"￹￺for the use of * a grammatical marker￻成為，做為，將作，做成，文法上的助詞"}]}],"t":"malo"}
+,"maloina":{"h":[{"d":[{"f":"￹￺the mother and her family (children)￻母親和他的子女"},{"s":["`malo~","`ina~"],"f":"￹￺god-mother￻乾媽媽"}]}],"t":"maloina"}
+,"malomama":{"h":[{"d":[{"f":"￹￺the father and his family (children)￻父親和他的子女"},{"s":["`malo~"],"f":"￹￺god-father￻乾爸爸"}]}],"t":"malomama"}
 ,"malonem":{"h":[{"d":[{"f":"￹￺deer * wild animal￻鹿"}]}],"t":"malonem"}
-,"malosida%27":{"h":[{"d":[{"l":["`losida'~","`losilal~"],"f":"￹￺to be side by side standing or sitting or walking￻並肩而行或坐"}]}],"t":"malosida'"}
-,"malsafon":{"h":[{"d":[{"l":["`lsafon~"],"f":"￹￺to gather together * of people￻羣集，聚集"}]}],"t":"malsafon"}
-,"mama":{"h":[{"d":[{"l":["`wama~","`pimamaan~","`milimama~","`malamama~","`halimama~"],"f":"￹￺father￻父親"}]}],"t":"mama"}
-,"mamaan":{"h":[{"d":[{"f":"￹￺How about doing it such and such a way?￻怎麼樣？"},{"l":["`maan~"],"e":["￹`malo~ `maan~￺1. what is it used for?  2. it is of no use￻1. 有什麼用處？ 2. 無用他之處","￹`O~ `maan~ `konini~?￺What is this?￻這是什麼？","￹`Masamaan~ `konini~ `a~ `dmak~?￺What is this like?￻這件事情到底如何"],"f":"￹￺okay * a response to an idea￻如何"}]}],"t":"mamaan"}
-,"mamana":{"h":[{"d":[{"e":["￹`Mamana~ `ma'kakto~ `koya~ `tamdaw~.￺May that person be accursed.￻希望他遇到不幸的事"],"f":"￹￺an expressed desire that something awful happen￻表示渴望發生可怕的事情 (用於咒咀別的話)"}]}],"t":"mamana"}
-,"mamang":{"h":[{"d":[{"l":["`miming~"],"f":"￹￺small * little * of quantity * kind * activity * generic￻少，小，修飾數量，種類，活動及一般的小或少"}]}],"t":"mamang"}
-,"mamatayal":{"h":[{"d":[{"l":["`tayal~"],"f":"￹￺one responsible to do the work * one who does menial labor￻職工 (有負責任的)"}]}],"t":"mamatayal"}
+,"malosida%27":{"h":[{"d":[{"s":["`losida'~","`losilal~"],"f":"￹￺to be side by side standing or sitting or walking￻並肩而行或坐"}]}],"t":"malosida'"}
+,"mama":{"h":[{"d":[{"s":["`wama~","`pimamaan~","`milimama~","`mala~`mama~","`halimama~"],"f":"￹￺father￻父親"}]}],"t":"mama"}
+,"mamaan":{"h":[{"d":[{"f":"￹￺How about doing it such and such a way?￻怎麼樣？"},{"s":["`maan~"],"e":["￹`malo~ `maan~￺1. what is it used for?  2. it is of no use￻1. 有什麼用處？ 2. 無用他之處","￹`O~ `maan~ `konini~?￺What is this?￻這是什麼？","￹`samaan~ `konini~ `a~ `demak~?￺What is this like?￻這件事情到底如何"],"f":"￹￺okay * a response to an idea￻如何"}]}],"t":"mamaan"}
+,"mamana":{"h":[{"d":[{"e":["￹`Ma~`mana~ `ma'ekak~ `to~ `koya~ `tamdaw~.￺May that person be accursed.￻希望他遇到不幸的事"],"f":"￹￺an expressed desire that something awful happen￻表示渴望發生可怕的事情 (用於咒咀別的話)"}]}],"t":"mamana"}
+,"mamang":{"h":[{"d":[{"s":["`miming~"],"f":"￹￺small * little * of quantity * kind * activity * generic￻少，小，修飾數量，種類，活動及一般的小或少"}]}],"t":"mamang"}
+,"mamatayal":{"h":[{"d":[{"s":["`tayal~"],"f":"￹￺one responsible to do the work * one who does menial labor￻職工 (有負責任的)"}]}],"t":"mamatayal"}
 ,"mamayoh":{"h":[{"d":[{"f":"￹￺Thladiantha punotata Hayata, a tree￻長赤[爪交] 一種樹"}]}],"t":"mamayoh"}
-,"mami%27":{"h":[{"d":[{"l":["`'asiro~"],"f":"￹￺oranges * orange tree * Citrus taiwanica Tanaka and Citrus medica￻柑橘"}]}],"t":"mami'"}
-,"mamiya":{"h":[{"d":[{"l":["`kawkaw~"],"f":"￹￺sickle for cutting grass￻鐮刀 (割草用的)"}]}],"t":"mamiya"}
-,"mamo":{"h":[{"d":[{"l":["`ama~"],"f":"￹￺grandmother￻祖母"}]}],"t":"mamo"}
+,"mami%27":{"h":[{"d":[{"s":["`'asiro~"],"f":"￹￺oranges * orange tree * Citrus taiwanica Tanaka and Citrus medica￻柑橘"}]}],"t":"mami'"}
+,"mamiya":{"h":[{"d":[{"s":["`kawkaw~"],"f":"￹￺sickle for cutting grass￻鐮刀 (割草用的)"}]}],"t":"mamiya"}
+,"mamo":{"h":[{"d":[{"s":["`ama~"],"f":"￹￺grandmother￻祖母"}]}],"t":"mamo"}
 ,"mamo%27mo%27":{"h":[{"d":[{"f":"￹￺a mole * a rodent￻鼹鼠，生活在土外，俗稱地皮老鼠"},{"f":"￹￺to wrap in individual packages￻包行旅 (包袱)"}]}],"t":"mamo'mo'"}
-,"mamoko%27":{"h":[{"d":[{"l":["`kamoko'~"],"e":["￹`Mamoko'~ `ko~ `riko~ `nira~.￺His clothes are short.￻他的衣服很短","￹`Mamoko'~ `ko~ `faloco'~ `nira~.￺His heart is short / i.e. he is easily provoked.￻他度量很小，他很容易發怒"],"f":"￹￺short in length or in time * literally or figuratively￻短；含字面、或比喻上｢短｣的意義"}]}],"t":"mamoko'"}
-,"mamora":{"h":[{"d":[{"l":["`mora~"],"f":"￹￺to start to be intoxicated * to feel dizzy or light-headed￻即將醉酒，頭昏眼花，頭重腳輕的感覺"}]}],"t":"mamora"}
-,"mamosa":{"h":[{"d":[{"f":"￹￺the pupils of the eye￻瞳孔"}]}],"t":"mamosa"}
-,"mana":{"h":[{"d":[{"l":["`nawiro~"],"f":"￹￺Refer to `nawiro~￻詳見 `nawiro~"}]}],"t":"mana"}
-,"mananaw":{"h":[{"d":[{"l":["`monanaw~"],"f":"￹￺Refer to `monanaw~￻詳見 `monanaw~"}]}],"t":"mananaw"}
-,"mangah":{"h":[{"d":[{"f":"￹￺falsehood￻虛偽"},{"l":["`kaniw~","`mapalamangah~"],"e":["￹`misamangah~ `to~ `sowal~￺to lie * deceive￻說謊","￹`misamangah~ `to~ `dmak~￺to be insincere * deceptive￻不誠實","￹`o~ `misamangahay~ `a~ `tamdaw~￺an insincere person * a hypocrite￻欺騙的人，騙者","￹`Masamangah~ `nira~ `kako~.￺He told me a lie.￻他對我說謊"],"f":"￹￺insincerity￻欺騙"}]}],"t":"mangah"}
-,"mangar":{"h":[{"d":[{"f":"￹￺Wood Ramie * grows in river beds￻大苧麻，生長於河床的樹"},{"l":["`lafiwfiway~","`faliwfiw~"],"f":"￹￺Leucosyke guardrinervia￻四脈苧麻"}]}],"t":"mangar"}
-,"mangcel":{"h":[{"d":[{"f":"￹￺a wild animal called nuntjacur (Nuntiacuf and reevesi nicrurus) like a deer but more the size of a fox￻山羌"},{"l":["`Mangcelan~"],"f":"￹￺a tree called Ardisia cornudentata￻硃砂根"}]}],"t":"mangcel"}
+,"mamoko%27":{"h":[{"d":[{"s":["`kamoko'~"],"e":["￹`moko'~ `ko~ `riko~ `nira~.￺His clothes are short.￻他的衣服很短","￹`moko'~ `ko~ `faloco'~ `nira~.￺His heart is short / i.e. he is easily provoked.￻他度量很小，他很容易發怒"],"f":"￹￺short in length or in time * literally or figuratively￻短；含字面、或比喻上｢短｣的意義"}]}],"t":"mamoko'"}
+,"mamora":{"h":[{"d":[{"s":["`mora~"],"f":"￹￺to start to be intoxicated * to feel dizzy or light-headed￻即將醉酒，頭昏眼花，頭重腳輕的感覺"}]}],"t":"mamora"}
+,"mana":{"h":[{"d":[{"s":["`naw~^`iro~"],"f":"￹￺Refer to `naw^iro~￻詳見 `naw^iro~"}]}],"t":"mana"}
+,"mananaw":{"h":[{"d":[{"s":["`monanaw~"],"f":"￹￺Refer to `monanaw~￻詳見 `monanaw~"}]}],"t":"mananaw"}
+,"mangah":{"h":[{"d":[{"f":"￹￺falsehood￻虛偽"},{"s":["`niw~","`mapalamangah~"],"e":["￹`misa~`mangah~ `to~ `sowal~￺to lie * deceive￻說謊","￹`misa~`mangah~ `to~ `demak~￺to be insincere * deceptive￻不誠實","￹`o~ `misa~`mangah~`ay~ `a~ `tamdaw~￺an insincere person * a hypocrite￻欺騙的人，騙者","￹`samangah~ `nira~ `kako~.￺He told me a lie.￻他對我說謊"],"f":"￹￺insincerity￻欺騙"}]}],"t":"mangah"}
+,"mangar":{"h":[{"d":[{"f":"￹￺Wood Ramie * grows in river beds￻大苧麻，生長於河床的樹"},{"s":["`lafiwfiway~","`faliwfiw~"],"f":"￹￺Leucosyke guardrinervia￻四脈苧麻"}]}],"t":"mangar"}
+,"mangcel":{"h":[{"d":[{"f":"￹￺a wild animal called nuntjacur (Nuntiacuf and reevesi nicrurus) like a deer but more the size of a fox￻山羌"},{"s":["`Mangcelan~"],"f":"￹￺a tree called Ardisia cornudentata￻硃砂根"}]}],"t":"mangcel"}
 ,"mangta%27":{"h":[{"d":[{"f":"￹￺unripe￻未成熟的"},{"f":"￹￺uncooked * raw￻未煮熟"}]}],"t":"mangta'"}
-,"manikar":{"h":[{"d":[{"l":["`nikar~"],"f":"￹￺to be (in a state of) dawn￻天亮，起來的很早"}]}],"t":"manikar"}
-,"manikaw":{"h":[{"d":[{"e":["￹`o~ `manikaway~ / `pakoyocay~.￺a poor person￻貧窮的人"],"f":"￹￺to hunt for food by hard labor, because of being in want￻缺乏，貧窮，因他沒有得到所需"}]}],"t":"manikaw"}
-,"manikiw":{"h":[{"d":[{"l":["`nikiw~"],"f":"￹￺to be dissatisfied * to feel that something is inadequate￻不滿意/感覺有些不對勁兒"}]}],"t":"manikiw"}
+,"manikar":{"h":[{"d":[{"s":["`nikar~"],"f":"￹￺to be (in a state of) dawn￻天亮，起來的很早"}]}],"t":"manikar"}
+,"manikaw":{"h":[{"d":[{"e":["￹`o~ `ma~`nikaw~`ay~ / `yocay~.￺a poor person￻貧窮的人"],"f":"￹￺to hunt for food by hard labor, because of being in want￻缺乏，貧窮，因他沒有得到所需"}]}],"t":"manikaw"}
+,"manikiw":{"h":[{"d":[{"s":["`nikiw~"],"f":"￹￺to be dissatisfied * to feel that something is inadequate￻不滿意/感覺有些不對勁兒"}]}],"t":"manikiw"}
 ,"manis":{"h":[{"d":[{"f":"￹￺to put a ring through the nose of￻鼻環"}]}],"t":"manis"}
-,"manowad":{"h":[{"d":[{"f":"￹￺plums 李子￻green red"},{"f":"￹￺粉紅色￻yellow colored"},{"l":["`minowad~"]}]}],"t":"manowad"}
-,"manowan":{"h":[{"d":[{"l":["`Iwatan~"],"f":"￹￺Bunin tribal group￻布農族"}]}],"t":"manowan"}
+,"manowad":{"h":[{"d":[{"f":"￹￺plums￻李子"},{"f":"￹￺green red￻粉紅色"},{"s":["`minowad~"],"f":"￹￺yellow colored￻黃色"}]}],"t":"manowad"}
+,"manowan":{"h":[{"d":[{"s":["`Iwatan~"],"f":"￹￺Bunin tribal group￻布農族"}]}],"t":"manowan"}
 ,"manto":{"h":[{"d":[{"f":"￹￺steamed bread (from Chinese)￻饅頭 (引自國語)"}]}],"t":"manto"}
-,"maomah":{"h":[{"d":[{"f":"￹￺to work in the field * to do farm work￻耕種"},{"l":["`omah~"],"f":"￹￺extended meaning in the South is to do any kind of work * to work on the job￻在南部阿美族擴大其涵義為任何職業/就業"}]}],"t":"maomah"}
-,"maomahay":{"h":[{"d":[{"l":["`omah~"],"f":"￹￺a farmer￻農夫"}]}],"t":"maomahay"}
-,"maomi%27":{"h":[{"d":[{"e":["￹`O~ `makaomi'ay~ `no~ `ina~ `kako~.￺My mother spoiled me.￻我母親很愛我"],"f":"￹￺to be spoiled as a child is spoiled￻寵壞，像寵壞小孩子"}]}],"t":"maomi'"}
-,"mapahaklong":{"h":[{"d":[{"l":["`haklong~"],"f":"￹￺taken alog with * as a child by his mother￻使某人跟著某人同行如叫孩子與母親同行"}]}],"t":"mapahaklong"}
+,"maomah":{"h":[{"d":[{"f":"￹￺to work in the field * to do farm work￻耕種"},{"s":["`omah~"],"f":"￹￺extended meaning in the South is to do any kind of work * to work on the job￻在南部阿美族擴大其涵義為任何職業/就業"}]}],"t":"maomah"}
+,"maomahay":{"h":[{"d":[{"s":["`omah~"],"f":"￹￺a farmer￻農夫"}]}],"t":"maomahay"}
+,"maomi%27":{"h":[{"d":[{"e":["￹`O~ `kaomi'ay~ `no~ `ina~ `kako~.￺My mother spoiled me.￻我母親很愛我"],"f":"￹￺to be spoiled as a child is spoiled￻寵壞，像寵壞小孩子"}]}],"t":"maomi'"}
+,"mapahakelong":{"h":[{"d":[{"s":["`hakelong~"],"f":"￹￺taken alog with * as a child by his mother￻使某人跟著某人同行如叫孩子與母親同行"}]}],"t":"mapahakelong"}
 ,"mapaino%27":{"h":[{"d":[{"f":"￹￺to be bathed￻被洗(澡)過"},{"f":"￹￺to be baptized￻受洗"}]}],"t":"mapaino'"}
-,"mapakafolaw":{"h":[{"d":[{"l":["`folaw~"],"f":"￹￺forced to leave the village￻被迫搬離這村莊"}]}],"t":"mapakafolaw"}
-,"mapakapot":{"h":[{"d":[{"l":["`kapot~"],"f":"￹￺to be placed in association with￻被安置在某一團體之中，被混入於一羣集團中"}]}],"t":"mapakapot"}
-,"mapakipat":{"h":[{"d":[{"l":["`kipat~"],"f":"￹￺to be stuck on by someone￻黏成一團"}]}],"t":"mapakipat"}
-,"mapalacidek":{"h":[{"d":[{"l":["`cidek~"],"f":"￹￺to be made separate from￻被分開，被分離"}]}],"t":"mapalacidek"}
-,"mapalahdawto":{"h":[{"d":[{"l":["`lahdaw~"],"f":"￹￺cause to disappear (as by burning)￻使之消失"}]}],"t":"mapalahdawto"}
-,"mapalamangah":{"h":[{"d":[{"l":["`mangah~"],"f":"￹￺(something that was true) becomes false￻被認為是謊言"}]}],"t":"mapalamangah"}
-,"mapaloma":{"h":[{"d":[{"l":["`paloma~","`pipalomaan~","`sapaloma~"],"f":"￹￺to be planted￻栽種"}]}],"t":"mapaloma"}
-,"mapananam":{"h":[{"d":[{"l":["`nanam~"],"f":"￹￺to be disciplined * conditioned to￻接受訓練，施予訓練"}]}],"t":"mapananam"}
-,"mapcod":{"h":[{"d":[{"f":"￹￺slippery, as when trying to grasp a fish￻滑掉，如捉魚時被溜掉"},{"l":["`pcod~","`pcoden~"],"f":"￹￺to squirt out fast as pus under pressure.￻如膿液被擠壓後噴出來"}]}],"t":"mapcod"}
-,"mapidah":{"h":[{"d":[{"l":["`pidah~"],"f":"￹￺to be defeated￻被打敗"}]}],"t":"mapidah"}
-,"mapikpik":{"h":[{"d":[{"l":["`pikpik~"],"f":"￹￺wings flap￻擺動著翅膀"}]}],"t":"mapikpik"}
-,"mapohaway":{"h":[{"d":[{"f":"￹￺a blind person￻文盲"},{"l":["`pohaw~"],"f":"￹￺a species of snake * poisonous * strikes when it sees a shadow * Russell's Viper￻有毒的蛇，蟒蛇"}]}],"t":"mapohaway"}
-,"maporahaw":{"h":[{"d":[{"l":["`kadipohaw~"],"f":"￹￺to have poor vision￻視線模糊，視力不好，目眩"}]}],"t":"maporahaw"}
+,"mapakafolaw":{"h":[{"d":[{"s":["`folaw~"],"f":"￹￺forced to leave the village￻被迫搬離這村莊"}]}],"t":"mapakafolaw"}
+,"mapakapot":{"h":[{"d":[{"s":["`kapot~"],"f":"￹￺to be placed in association with￻被安置在某一團體之中，被混入於一羣集團中"}]}],"t":"mapakapot"}
+,"mapakipat":{"h":[{"d":[{"s":["`kipat~"],"f":"￹￺to be stuck on by someone￻黏成一團"}]}],"t":"mapakipat"}
+,"mapalacidek":{"h":[{"d":[{"s":["`cidek~"],"f":"￹￺to be made separate from￻被分開，被分離"}]}],"t":"mapalacidek"}
+,"mapalamangah":{"h":[{"d":[{"s":["`mangah~"],"f":"￹￺(something that was true) becomes false￻被認為是謊言"}]}],"t":"mapalamangah"}
+,"mapaloma":{"h":[{"d":[{"s":["`paloma~","`pipalomaan~","`sapaloma~"],"f":"￹￺to be planted￻栽種"}]}],"t":"mapaloma"}
+,"mapananam":{"h":[{"d":[{"s":["`nanam~"],"f":"￹￺to be disciplined * conditioned to￻接受訓練，施予訓練"}]}],"t":"mapananam"}
+,"mapecod":{"h":[{"d":[{"f":"￹￺slippery, as when trying to grasp a fish￻滑掉，如捉魚時被溜掉"},{"s":["`pecod~","`pecoden~"],"f":"￹￺to squirt out fast as pus under pressure.￻如膿液被擠壓後噴出來"}]}],"t":"mapecod"}
+,"mapidah":{"h":[{"d":[{"s":["`pidah~"],"f":"￹￺to be defeated￻被打敗"}]}],"t":"mapidah"}
+,"mapikpik":{"h":[{"d":[{"s":["`pikpik~"],"f":"￹￺wings flap￻擺動著翅膀"}]}],"t":"mapikpik"}
+,"mapohaway":{"h":[{"d":[{"f":"￹￺a blind person￻眼瞎；文盲"},{"s":["`pohaw~"],"f":"￹￺a species of snake * poisonous * strikes when it sees a shadow * Russell's Viper￻有毒的蛇，蟒蛇"}]}],"t":"mapohaway"}
+,"maporahaw":{"h":[{"d":[{"s":["`kadipohaw~"],"f":"￹￺to have poor vision￻視線模糊，視力不好，目眩"}]}],"t":"maporahaw"}
 ,"marad":{"h":[{"d":[{"f":"￹￺iron * metal￻鐵，金屬"}]}],"t":"marad"}
 ,"mararo%27ong":{"h":[{"d":[{"f":"￹￺to lean against each other￻相互依賴或依靠"},{"f":"￹￺name of an Amis village * coming from the fact that there are two large rocks leaning against each other in that place￻忠孝部落名，相傳該處有兩大岩石互相偎依而得名"}]}],"t":"mararo'ong"}
-,"mardih":{"h":[{"d":[{"l":["`rdih~"],"f":"￹￺to be split open, as the skin on a cooked sweet potato or a wound from a snake bite￻皮膚潰爛而裂開，像煮熟的蕃薯皮或蛇咬傷口裂開之狀"}]}],"t":"mardih"}
-,"marecrec":{"h":[{"d":[{"l":["`recrec~"],"f":"￹￺to be banded together * as a wooden tub is banded with a metal band￻箍在一起，如一個木桶是鐵絲箍條聯在一起的"}]}],"t":"marecrec"}
-,"marifowas":{"h":[{"d":[{"l":["`fowas~"],"f":"￹￺to scatter￻分散"},{"f":"￹￺to run over￻輾過"}]}],"t":"marifowas"}
-,"maro%27":{"h":[{"d":[{"f":"￹￺to dwell * live in a place￻居住，住在一地方"},{"l":["`aro'~","`pakamaro'~","`kamaro'an~"],"f":"￹￺to sit down * stay temporarily￻坐下，暫住"}]}],"t":"maro'"}
+,"marecrec":{"h":[{"d":[{"s":["`recrec~"],"f":"￹￺to be banded together * as a wooden tub is banded with a metal band￻箍在一起，如一個木桶是鐵絲箍條聯在一起的"}]}],"t":"marecrec"}
+,"maredih":{"h":[{"d":[{"s":["`redih~"],"f":"￹￺to be split open, as the skin on a cooked sweet potato or a wound from a snake bite￻皮膚潰爛而裂開，像煮熟的蕃薯皮或蛇咬傷口裂開之狀"}]}],"t":"maredih"}
+,"maredo":{"h":[{"d":[{"s":["`maledo~"],"f":"￹￺Refer to `maledo~￻詳見 `maledo~"}]}],"t":"maredo"}
+,"marifowas":{"h":[{"d":[{"s":["`fowas~"],"f":"￹￺to scatter￻分散"},{"f":"￹￺to run over￻輾過"}]}],"t":"marifowas"}
+,"maro%27":{"h":[{"d":[{"f":"￹￺to dwell * live in a place￻居住，住在一地方"},{"s":["`aro'~","`pakamaro'~","`kamaro'an~"],"f":"￹￺to sit down * stay temporarily￻坐下，暫住"}]}],"t":"maro'"}
 ,"maroda%27ci":{"h":[{"d":[{"f":"￹￺Lanyu Boerlagiodendron * a tree￻蘭嶼八角金盤"}]}],"t":"maroda'ci"}
 ,"masa%27icep":{"h":[{"d":[{"f":"￹￺to get a bruise the size of a betel nut￻搗碎定量的檳榔果"}]}],"t":"masa'icep"}
-,"masacfacfang":{"h":[{"d":[{"l":["`cfang~"],"f":"￹￺in the state of being grouped into groups￻一團一團，構成一團一團(一羣一羣)的狀態"}]}],"t":"masacfacfang"}
-,"masadodohay":{"h":[{"d":[{"l":["`dohdoh~"],"f":"￹￺a tree with a hollow core￻中空的樹"}]}],"t":"masadodohay"}
-,"masafafahiananay":{"h":[{"d":[{"l":["`fafahian~"],"f":"￹￺to act lady-like￻忸怩作態(男人)，行動像女人一樣(男人)"}]}],"t":"masafafahiananay"}
-,"masahakoay":{"h":[{"d":[{"l":["`hako~"],"f":"￹￺shaped like a box￻一箱的，像箱子的"}]}],"t":"masahakoay"}
-,"masakapahay":{"h":[{"d":[{"l":["`kapah~"],"f":"￹￺still young looking￻依舊年輕"}]}],"t":"masakapahay"}
-,"masakapotay":{"h":[{"d":[{"l":["`kapot~"],"f":"￹￺to belong to a group￻團契，屬於團契"}]}],"t":"masakapotay"}
-,"masararem":{"h":[{"d":[{"l":["`rarem~","`sarareman~"],"f":"￹￺to be behind * last in rank￻落後的，下層階級"}]}],"t":"masararem"}
-,"masariyariyad":{"h":[{"d":[{"l":["`riyad~"],"f":"￹￺groups coming in succession￻團體接連着"}]}],"t":"masariyariyad"}
-,"masasapaday":{"h":[{"d":[{"l":["`sapad~"],"f":"￹￺board-shaped￻板形的"}]}],"t":"masasapaday"}
-,"masasla%27":{"h":[{"d":[{"l":["`misasla'~"],"f":"￹￺Refer to `misasla'~￻詳見 `misasla'~"}]}],"t":"masasla'"}
+,"masacefacefang":{"h":[{"d":[{"s":["`cefang~"],"f":"￹￺in the state of being grouped into groups￻一團一團，構成一團一團(一羣一羣)的狀態"}]}],"t":"masacefacefang"}
+,"masadodohay":{"h":[{"d":[{"s":["`dohdoh~"],"f":"￹￺a tree with a hollow core￻中空的樹"}]}],"t":"masadodohay"}
+,"masafafahiyananay":{"h":[{"d":[{"s":["`fafahiyan~"],"f":"￹￺to act lady-like￻忸怩作態(男人)，行動像女人一樣(男人)"}]}],"t":"masafafahiyananay"}
+,"masahakoay":{"h":[{"d":[{"s":["`hako~"],"f":"￹￺shaped like a box￻一箱的，像箱子的"}]}],"t":"masahakoay"}
+,"masakapahay":{"h":[{"d":[{"s":["`kapah~"],"f":"￹￺still young looking￻依舊年輕"}]}],"t":"masakapahay"}
+,"masakapotay":{"h":[{"d":[{"s":["`kapot~"],"f":"￹￺to belong to a group￻團契，屬於團契"}]}],"t":"masakapotay"}
+,"masaliyaliyad":{"h":[{"d":[{"s":["`liyad~"],"f":"￹￺groups coming in succession￻團體接連着"}]}],"t":"masaliyaliyad"}
+,"masararem":{"h":[{"d":[{"s":["`rarem~","`sarareman~"],"f":"￹￺to be behind * last in rank￻落後的，下層階級"}]}],"t":"masararem"}
+,"masasapaday":{"h":[{"d":[{"s":["`sapad~"],"f":"￹￺board-shaped￻板形的"}]}],"t":"masasapaday"}
+,"masasela%27":{"h":[{"d":[{"s":["`misasela'~"],"f":"￹￺Refer to `misasela'~￻詳見 `misasela'~"}]}],"t":"masasela'"}
 ,"masay":{"h":[{"d":[{"f":"￹￺a vine with thick tough stems used to tie things￻一種蔓藤類莖粗大而堅韌可用來捆綁東西"}]}],"t":"masay"}
-,"masaya":{"h":[{"d":[{"l":["`'oriyat~"],"f":"￹￺Refer to `'oriyat~￻詳見 `'oriyat~"}]}],"t":"masaya"}
-,"masila%27":{"h":[{"d":[{"l":["`sila'~"],"f":"￹￺to be discordant￻走音(五音不全)，不一致，不合諧"}]}],"t":"masila'"}
-,"masipolo%27":{"h":[{"d":[{"f":"￹￺widow / widower￻寡婦，孀婦"},{"l":["`maponengay~"],"f":"￹￺to separate and have a home apart from the larger family unit * as when a couple separates from their parents' home￻從宗家分居，如一對夫妻從其雙親的家分出小家庭(分家)"}]}],"t":"masipolo'"}
-,"masonor":{"h":[{"d":[{"e":["￹`Masonor~ `ko~ `fokes~ `ako~.￺My hair came untangled without effort.￻我頭髮很容易的解開"],"f":"￹￺to come loose by itself from being tangled￻不經外力加諸，而自然鬆脫"}]}],"t":"masonor"}
-,"mata":{"h":[{"d":[{"l":["`cimata~","`milimata~"],"f":"￹￺eyes￻眼睛"}]}],"t":"mata"}
-,"matadim":{"h":[{"d":[{"l":["`Matadim~"],"f":"￹￺name of an Amis village￻台東阿美豐榮部落名"}]}],"t":"matadim"}
-,"matakaw":{"h":[{"d":[{"l":["`ma'oxit~","`takaw~"],"f":"￹￺to crave￻渴望"}]}],"t":"matakaw"}
-,"matang":{"h":[{"d":[{"l":["`pamatang~"],"e":["￹`o~ `mamatangen~￺to be old￻要開墾之地","￹`mamatangay~ `a~ `sra~￺fertile land￻肥沃之地"],"f":"￹￺the name of an Amis village￻台東阿美豐榮部落名"}]}],"t":"matang"}
-,"matatodong":{"h":[{"d":[{"l":["`tatodong~"],"e":["￹`Matatodongay~ `ko~ `tayal~ `nira~.￺His work is adequate / suitable.￻他的工作很正確，他的工作恰到好處"],"f":"￹￺to be adequate * fitting * to represent well￻表示切合之意"}]}],"t":"matatodong"}
-,"matayalay":{"h":[{"d":[{"f":"￹￺worker￻工人"},{"l":["`tayal~"],"f":"￹￺servant￻僕人"}]}],"t":"matayalay"}
-,"matini":{"h":[{"d":[{"f":"￹￺the state of affairs * like this￻事務狀態；像這樣"},{"l":["`hatini~"],"e":["￹`Matini~ `ko~ `nga'ayay~ `a~ `dmak~.￺This is the standard way to do it.￻這是做這件事情的準則","￹`Matini~ `koya~ `dmak~.￺This is the way the thing happened.￻事情是這樣發生的","￹`matini~ `ko~ `sowal~ `nira~￺He said it like this (describe how he talked) .￻他是這樣說的","￹`Masamatini~ `ano~ `roma~ `a~ `mihcaan~ `'i~￺At this time next year...￻明年這個時候"],"f":"￹￺standard * norm￻標準，準則"}]}],"t":"matini"}
-,"matira":{"h":[{"d":[{"e":["￹`Matira~ `ko~ `sowal~ `nira~.￺That is the way he talked (what he said as I was told).￻他是那樣說的","￹`Matira~ `aca~ `ko~ `sowal~ `nira~.￺That was all there was to what he had to say.￻他說的就是那些"],"f":"￹￺like that * as told by a second party * state of affairs￻那樣(從第2個人說的話)；事情的狀態"}]}],"t":"matira"}
-,"matiya":{"h":[{"d":[{"e":["￹`Samatiyaen~ `o~ `dmak~ `ako~.￺Do it like I do.￻要作的像我一樣","￹`Samatiyaen~ `nira~ `o~ `so'linay~.￺He acted like he was doing some- thing right (but he wasn't really) .￻他做得像真的一樣(但他實際上不是)","￹`Aka~ `pisamatiyatiya~ `o~ `mafana'ay~.￺Don't act like you know everything.￻不要以為聰明/不要自作聰明","￹`Matiya~ `o~ `wawa~ `ako~ `cingra~ `a~ `haratengen~.￺I consider him as my own child.￻想起來他很像我的孩子","￹`Matiyatiya~ `o~ `ina~ `ako~ `cingra~, `'arawhani~ `aca~ `'i~ `caayto~.￺She seemed like she was my mother but she really was not.￻酷似我的母親，其實不是"],"f":"￹￺even as * compared with￻好像，比較以下兩句"}]}],"t":"matiya"}
-,"matli":{"h":[{"d":[{"l":["`tli~"],"f":"￹￺to be put or placed￻放置"}]}],"t":"matli"}
-,"matloh":{"h":[{"d":[{"l":["`tloh~"],"f":"￹￺to have a lot disappear with only a small part remaining￻大部份均消失，只剩下一小部份"}]}],"t":"matloh"}
-,"mato":{"h":[{"d":[{"e":["￹`Mato~ `mafana'ay~ `cingra~.￺He appeared to be knowledgeable.￻他好像很聰明的樣子，他好像知道","￹`Mato~ `so'linay~ `kora~ `dmak~.￺What is happening appears to be genuine * right.￻那件是被認為是真的","￹`Mato~ `sowal~ `nira~ `ko~ `dmak~.￺The event turned out like he said.￻那件事情如他所說的(一點都不差)"],"f":"￹￺a shortened form for matiya without pointing to a specific person or activity * as * like * appeared to be￻並未指定特定的一人物或活動；有「如」，「好像」，「被認為」等的用法"}]}],"t":"mato"}
-,"matofeng":{"h":[{"d":[{"l":["`tofeng~"],"f":"￹￺to be shy * quiet * not talkative￻緘默，木訥，不善辭令"}]}],"t":"matofeng"}
-,"matrek":{"h":[{"d":[{"l":["`trek~"],"f":"￹￺to save * keep left over food for late comer￻留起來，留存食物給後來的人"}]}],"t":"matrek"}
-,"mawacacy":{"h":[{"d":[{"l":["`wacay~","`pawacay~"],"f":"￹￺to be naked￻赤裸的"}]}],"t":"mawacacy"}
-,"mced":{"h":[{"d":[{"f":"￹￺hard muscles from much exercise￻肌肉結實"},{"l":["`imeced~"],"f":"￹￺much fruit * heavy crop as for example grapes￻結的果實很多很密"}]}],"t":"mced"}
-,"mdok":{"h":[{"d":[{"l":["`dokdok~"],"f":"￹￺to do something unannounced * as to leave without saying so￻鬼鬼祟祟；不告而別"},{"f":"￹￺to open the way * as to push aside brush when walking￻穿叢林，灌木而行，在荒野中披荊斬棘地走"}]}],"t":"mdok"}
+,"masaya":{"h":[{"d":[{"s":["`'oriyat~"],"f":"￹￺Refer to `'oriyat~￻詳見 `'oriyat~"}]}],"t":"masaya"}
+,"masila%27":{"h":[{"d":[{"s":["`sila'~"],"f":"￹￺to be discordant￻走音(五音不全)，不一致，不合諧"}]}],"t":"masila'"}
+,"masipolo%27":{"h":[{"d":[{"f":"￹￺widow / widower￻寡婦，孀婦"},{"s":["`ma~`poneng~`ay~"],"f":"￹￺to separate and have a home apart from the larger family unit * as when a couple separates from their parents' home￻從宗家分居，如一對夫妻從其雙親的家分出小家庭(分家)"}]}],"t":"masipolo'"}
+,"masonor":{"h":[{"d":[{"e":["￹`Ma~`sonor~ `ko~ `fokes~ `ako~.￺My hair came untangled without effort.￻我頭髮很容易的解開"],"f":"￹￺to come loose by itself from being tangled￻不經外力加諸，而自然鬆脫"}]}],"t":"masonor"}
+,"mata":{"h":[{"d":[{"s":["`cimata~","`milimata~"],"f":"￹￺eyes￻眼睛"}]}],"t":"mata"}
+,"matadim":{"h":[{"d":[{"s":["`Matadim~"],"f":"￹￺name of an Amis village￻台東阿美豐榮部落名"}]}],"t":"matadim"}
+,"matakaw":{"h":[{"d":[{"s":["`'oxit~","`takaw~"],"f":"￹￺to crave￻渴望"}]}],"t":"matakaw"}
+,"matang":{"h":[{"d":[{"s":["`pamatang~"],"e":["￹`o~ `ma~`matang~`en~￺to be old￻要開墾之地","￹`ma~`matang~`ay~ `a~ `sera~￺fertile land￻肥沃之地"],"f":"￹￺the name of an Amis village￻台東阿美豐榮部落名"}]}],"t":"matang"}
+,"matatodong":{"h":[{"d":[{"s":["`tatodong~"],"e":["￹`Ma~`tatodong~`ay~ `ko~ `tayal~ `nira~.￺His work is adequate / suitable.￻他的工作很正確，他的工作恰到好處"],"f":"￹￺to be adequate * fitting * to represent well￻表示切合之意"}]}],"t":"matatodong"}
+,"matayalay":{"h":[{"d":[{"f":"￹￺worker￻工人"},{"s":["`tayal~"],"f":"￹￺servant￻僕人"}]}],"t":"matayalay"}
+,"mateli":{"h":[{"d":[{"s":["`teli~"],"f":"￹￺to be put or placed￻放置"}]}],"t":"mateli"}
+,"mateloh":{"h":[{"d":[{"s":["`teloh~"],"f":"￹￺to have a lot disappear with only a small part remaining￻大部份均消失，只剩下一小部份"}]}],"t":"mateloh"}
+,"materek":{"h":[{"d":[{"s":["`terek~"],"f":"￹￺to save * keep left over food for late comer￻留起來，留存食物給後來的人"}]}],"t":"materek"}
+,"matini":{"h":[{"d":[{"f":"￹￺the state of affairs * like this￻事務狀態；像這樣"},{"s":["`hatini~"],"e":["￹`tini~ `ko~ `nga'ay~`ay~ `a~ `demak~.￺This is the standard way to do it.￻這是做這件事情的準則","￹`tini~ `koya~ `demak~.￺This is the way the thing happened.￻事情是這樣發生的","￹`matini~ `ko~ `sowal~ `nira~￺He said it like this (describe how he talked) .￻他是這樣說的","￹`samatini~ `ano~ `roma~ `a~ `mi~`heca~`an~ `'i~￺At this time next year...￻明年這個時候"],"f":"￹￺standard * norm￻標準，準則"}]}],"t":"matini"}
+,"matira":{"h":[{"d":[{"e":["￹`tira~ `ko~ `sowal~ `nira~.￺That is the way he talked (what he said as I was told).￻他是那樣說的","￹`tira~ `aca~ `ko~ `sowal~ `nira~.￺That was all there was to what he had to say.￻他說的就是那些"],"f":"￹￺like that * as told by a second party * state of affairs￻那樣(從第2個人說的話)；事情的狀態"}]}],"t":"matira"}
+,"matiya":{"h":[{"d":[{"e":["￹`Sa~`matiya~`en~ `o~ `demak~ `ako~.￺Do it like I do.￻要作的像我一樣","￹`Sa~`matiya~`en~ `nira~ `o~ `so'elin~`ay~.￺He acted like he was doing some- thing right (but he wasn't really) .￻他做得像真的一樣(但他實際上不是)","￹`Aka~ `samatiyatiya~ `o~ `ma~`fana'~`ay~.￺Don't act like you know everything.￻不要以為聰明/不要自作聰明","￹`tiya~ `o~ `wawa~ `ako~ `cingra~ `a~ `harateng~`en~.￺I consider him as my own child.￻想起來他很像我的孩子","￹`Ma~`tiya~`tiya~ `o~ `ina~ `ako~ `cingra~, `'arawhani~ `aca~ `'i~ `caay~`to~.￺She seemed like she was my mother but she really was not.￻酷似我的母親，其實不是"],"f":"￹￺even as * compared with￻好像，比較以下兩句"}]}],"t":"matiya"}
+,"mato":{"h":[{"d":[{"e":["￹`to~ `ma~`fana'~`ay~ `cingra~.￺He appeared to be knowledgeable.￻他好像很聰明的樣子，他好像知道","￹`to~ `so'elin~`ay~ `kora~ `demak~.￺What is happening appears to be genuine * right.￻那件是被認為是真的","￹`to~ `sowal~ `nira~ `ko~ `demak~.￺The event turned out like he said.￻那件事情如他所說的(一點都不差)"],"f":"￹￺a shortened form for matiya without pointing to a specific person or activity * as * like * appeared to be￻並未指定特定的一人物或活動；有「如」，「好像」，「被認為」等的用法"}]}],"t":"mato"}
+,"matofeng":{"h":[{"d":[{"s":["`tofeng~"],"f":"￹￺to be shy * quiet * not talkative￻緘默，木訥，不善辭令"}]}],"t":"matofeng"}
+,"mawacacy":{"h":[{"d":[{"s":["`wacay~","`pawacay~"],"f":"￹￺to be naked￻赤裸的"}]}],"t":"mawacacy"}
+,"maymay":{"h":[{"d":[{"s":["`howak~"],"f":"￹￺duck * ducks￻鴨子"}]}],"t":"maymay"}
+,"meced":{"h":[{"d":[{"f":"￹￺hard muscles from much exercise￻肌肉結實"},{"s":["`imeced~"],"f":"￹￺much fruit * heavy crop as for example grapes￻結的果實很多很密"}]}],"t":"meced"}
 ,"mecmec":{"h":[{"d":[{"f":"￹￺to crumple as a piece of paper￻把一張紙攪揉成一團"},{"f":"￹￺to massage￻按摩"}]}],"t":"mecmec"}
+,"medok":{"h":[{"d":[{"s":["`dokdok~"],"f":"￹￺to do something unannounced * as to leave without saying so￻鬼鬼祟祟；不告而別"},{"f":"￹￺to open the way * as to push aside brush when walking￻穿叢林，灌木而行，在荒野中披荊斬棘地走"}]}],"t":"medok"}
+,"melet":{"h":[{"d":[{"f":"￹￺a split second * an extremely short period of time￻瞬間"}]}],"t":"melet"}
+,"meli":{"h":[{"d":[{"f":"￹￺to turn upside down￻轉動"},{"f":"￹￺to repent * to become a convert￻變成信徒，成為悔改者"}]}],"t":"meli"}
+,"menad":{"h":[{"d":[{"f":"￹￺a wild edible vegetation￻可食之植物"}]}],"t":"menad"}
+,"merak":{"h":[{"d":[{"f":"￹￺to drop in single drops￻疏疏落落的水滴或雨滴"}]}],"t":"merak"}
+,"meras":{"h":[{"d":[{"s":["`'amlas~"],"f":"￹￺to flirt or arouse the opposite sex in an unwholesome way * expressed in unwholesome speech * looks * actions￻對異性輕浮不莊重的態度；表現輕浮的言語，模樣，行為等"}]}],"t":"meras"}
+,"meris":{"h":[{"d":[{"s":["`pamotek~"],"f":"￹￺to stare at￻瞪，注視"}]}],"t":"meris"}
+,"mero":{"h":[{"d":[{"f":"￹￺to swallow whole without chewing￻吞食，未經咀嚼即吞食物"}]}],"t":"mero"}
 ,"metmet":{"h":[{"d":[{"f":"￹￺to hold in one's hand￻握緊手掌，握別人的手"},{"f":"￹￺to grasp the hand of someone * handshake￻握手禮，握手致敬"}]}],"t":"metmet"}
-,"mi%27aca":{"h":[{"d":[{"f":"￹￺buy￻買、購"}]}],"t":"mi'aca"}
+,"mi":{"h":[{"d":[{"f":"￹￺active verbal particles￻主動的動詞前置詞"}]}],"t":"mi"}
+,"mi%27aca":{"h":[{"d":[{"s":["`micakay~"],"f":"￹￺buy￻買、購"}]}],"t":"mi'aca"}
 ,"mi%27adipel":{"h":[{"d":[{"f":"￹￺to make a fence or wall￻築圍牆、籬笆"}]}],"t":"mi'adipel"}
 ,"mi%27anip":{"h":[{"d":[{"f":"￹￺to plant rice seedlings￻插袂"}]}],"t":"mi'anip"}
-,"mi%27daw":{"h":[{"d":[{"f":"￹￺to tell a fortune￻問卜，卜卦，占卜"},{"f":"￹￺to give the reason for a problem￻說明吉凶的理由"},{"f":"￹￺the activity of a medium￻巫師的活動"}]}],"t":"mi'daw"}
+,"mi%27edaw":{"h":[{"d":[{"f":"￹￺to tell a fortune￻問卜，卜卦，占卜"},{"f":"￹￺to give the reason for a problem￻說明吉凶的理由"},{"f":"￹￺the activity of a medium￻巫師的活動"}]}],"t":"mi'edaw"}
 ,"mi%27icep":{"h":[{"d":[{"f":"￹￺to chew betel nut￻嚼吃檳榔"}]}],"t":"mi'icep"}
 ,"mi%27mi%27":{"h":[{"d":[{"f":"￹￺to press and feel for something on one's skin￻指壓(測試)，按摩探知別人皮膚上的東西"}]}],"t":"mi'mi'"}
-,"micakay":{"h":[{"d":[{"l":["`cakay~","`mi'aca~"],"f":"￹￺to buy￻購買"}]}],"t":"micakay"}
-,"micaki":{"h":[{"d":[{"l":["`caki~"],"f":"￹￺to scoop material into basket on the ground as sand or rubbish￻用畚箕舀取或掘取地上沙或垃圾"}]}],"t":"micaki"}
-,"micaling":{"h":[{"d":[{"l":["`caling~"],"f":"￹￺to take free soil and fill in one's own field￻侵占公地占為已有"}]}],"t":"micaling"}
-,"micaliw":{"h":[{"d":[{"l":["`caliw~"],"f":"￹￺borrow￻借入，借來"}]}],"t":"micaliw"}
-,"micamol":{"h":[{"d":[{"f":"￹￺to mix￻參與，交混"},{"l":["`camol~"],"f":"￹￺have fellowship with￻與...交誼"}]}],"t":"micamol"}
-,"micidek":{"h":[{"d":[{"l":["`cidek~"],"f":"￹￺to separate from the rest￻離開他人而居"}]}],"t":"micidek"}
-,"micipoh":{"h":[{"d":[{"l":["`cipoh~"],"f":"￹￺to make up face￻擦粉，化粧"}]}],"t":"micipoh"}
-,"mickiw":{"h":[{"d":[{"f":"￹￺to hunt for snails￻摘黏附在岩石上的海螺"},{"l":["`misadipit~"],"f":"￹￺to dig out something as a thorn in one's flesh￻從肌肉內(身體任何部位)挖刺出來"}]}],"t":"mickiw"}
-,"micngel":{"h":[{"d":[{"f":"￹￺to paint￻著色，染色"},{"f":"￹￺to contaminate￻污染，弄髒， 弄污"}]}],"t":"micngel"}
-,"mico%27co":{"h":[{"d":[{"l":["`co'co~"],"f":"￹￺to press through a crowd or narrow place￻在狹小或人羣擁擠的地方強擠通過"}]}],"t":"mico'co"}
-,"micoco":{"h":[{"d":[{"f":"￹￺to suck or nurse￻吸奶"},{"l":["`coco~"],"f":"￹￺to give the breast to￻餵奶"}]}],"t":"micoco"}
-,"micodad":{"h":[{"d":[{"l":["`codad~"],"f":"￹￺to study * go to school￻讀書，上學"}]}],"t":"micodad"}
-,"micomod":{"h":[{"d":[{"f":"￹￺enter￻進入"},{"l":["`comod~"],"f":"￹￺become a convert￻悔改"}]}],"t":"micomod"}
-,"micora%27":{"h":[{"d":[{"l":["`cora'~"],"f":"￹￺to attack with the horns￻用角攻擊(牛)"}]}],"t":"micora'"}
-,"mifadic":{"h":[{"d":[{"l":["`fadic~"],"f":"￹￺to reroof * to put on a new grass roof￻把屋頂的茅草翻新，把茅頂除舊佈新"}]}],"t":"mifadic"}
-,"mifatis":{"h":[{"d":[{"l":["`fatis~"],"f":"￹￺to go to the scene of butchering and ask for meat￻從獵戶或肉販分得一些肉"}]}],"t":"mifatis"}
-,"mifolaw":{"h":[{"d":[{"l":["`folaw~"],"f":"￹￺to force to leave the village￻去攻打，去打仗"}]}],"t":"mifolaw"}
-,"mifoting":{"h":[{"d":[{"l":["`foting~"],"f":"￹￺to fish￻抓魚，打魚"}]}],"t":"mifoting"}
-,"mihca":{"h":[{"d":[{"l":["`kasamihcaan~"],"e":["￹`Pina~ `ko~ `mihcaan~ `iso~?￺How old are you?￻你幾歲了?","￹`to~ `mihcahcaan~￺each year￻每年"],"f":"￹￺year * years￻年，年歲"}]}],"t":"mihca"}
+,"micakay":{"h":[{"d":[{"s":["`cakay~","`mi'aca~"],"f":"￹￺to buy￻購買"}]}],"t":"micakay"}
+,"micaki":{"h":[{"d":[{"s":["`caki~"],"f":"￹￺to scoop material into basket on the ground as sand or rubbish￻用畚箕舀取或掘取地上沙或垃圾"}]}],"t":"micaki"}
+,"micaling":{"h":[{"d":[{"s":["`caling~"],"f":"￹￺to take free soil and fill in one's own field￻侵占公地占為已有"}]}],"t":"micaling"}
+,"micaliw":{"h":[{"d":[{"s":["`caliw~"],"f":"￹￺borrow￻借入，借來"}]}],"t":"micaliw"}
+,"micamol":{"h":[{"d":[{"f":"￹￺to mix￻參與，交混"},{"s":["`camol~"],"f":"￹￺have fellowship with￻與...交誼"}]}],"t":"micamol"}
+,"micekiw":{"h":[{"d":[{"f":"￹￺to hunt for snails￻摘黏附在岩石上的海螺"},{"s":["`dipit~"],"f":"￹￺to dig out something as a thorn in one's flesh￻從肌肉內(身體任何部位)挖刺出來"}]}],"t":"micekiw"}
+,"micengel":{"h":[{"d":[{"f":"￹￺to paint￻著色，染色"},{"f":"￹￺to contaminate￻污染，弄髒， 弄污"}]}],"t":"micengel"}
+,"micidek":{"h":[{"d":[{"s":["`cidek~"],"f":"￹￺to separate from the rest￻離開他人而居"}]}],"t":"micidek"}
+,"micipoh":{"h":[{"d":[{"s":["`cipoh~"],"f":"￹￺to make up face￻擦粉，化粧"}]}],"t":"micipoh"}
+,"mico%5Eco":{"h":[{"d":[{"s":["`co~^`co~"],"f":"￹￺to press through a crowd or narrow place￻在狹小或人羣擁擠的地方強擠通過"}]}],"t":"mico^co"}
+,"micoco":{"h":[{"d":[{"f":"￹￺to suck or nurse￻吸奶"},{"s":["`coco~"],"f":"￹￺to give the breast to￻餵奶"}]}],"t":"micoco"}
+,"micodad":{"h":[{"d":[{"s":["`codad~"],"f":"￹￺to study * go to school￻讀書，上學"}]}],"t":"micodad"}
+,"micomod":{"h":[{"d":[{"f":"￹￺enter￻進入"},{"s":["`comod~"],"f":"￹￺become a convert￻悔改"}]}],"t":"micomod"}
+,"micora%27":{"h":[{"d":[{"s":["`cora'~"],"f":"￹￺to attack with the horns￻用角攻擊(牛)"}]}],"t":"micora'"}
+,"miesa%5E":{"h":[{"d":[{"f":"￹￺to blanche vegetables in hot water (from Amoy dialect)￻把蔬菜燙在開水中 (引自閩南語)"}]}],"t":"miesa^"}
+,"mifadic":{"h":[{"d":[{"s":["`fadic~"],"f":"￹￺to reroof * to put on a new grass roof￻把屋頂的茅草翻新，把茅頂除舊佈新"}]}],"t":"mifadic"}
+,"mifatis":{"h":[{"d":[{"s":["`fatis~"],"f":"￹￺to go to the scene of butchering and ask for meat￻從獵戶或肉販分得一些肉"}]}],"t":"mifatis"}
+,"mifolaw":{"h":[{"d":[{"s":["`folaw~"],"f":"￹￺to force to leave the village￻去攻打，去打仗"}]}],"t":"mifolaw"}
+,"mifoting":{"h":[{"d":[{"s":["`foting~"],"f":"￹￺to fish￻抓魚，打魚"}]}],"t":"mifoting"}
+,"miheca":{"h":[{"d":[{"s":["`kasamihecaan~"],"e":["￹`na~ `ko~ `mi~`heca~`an~ `iso~?￺How old are you?￻你幾歲了?","￹`to~ `mi~`heca~`hecaan~￺each year￻每年"],"f":"￹￺year * years￻年，年歲"}]}],"t":"miheca"}
 ,"mihicay":{"h":[{"d":[{"f":"￹￺to take minnows of Herring from the ocean for cultivation in feeding ponds on land (from Amoy dialect)￻捕魚苗(引自閩南語)"}]}],"t":"mihicay"}
-,"mihnanoy":{"h":[{"d":[{"l":["`nanoy~"],"f":"￹￺to swing * the act of doing for oneself￻盪鞦韆，這是自己做的活動"}]}],"t":"mihnanoy"}
-,"mihtangal":{"h":[{"d":[{"l":["`patangal~","`mikalolol~"],"f":"￹￺to wash hair￻洗頭，燙頭髮"}]}],"t":"mihtangal"}
-,"mika%27red":{"h":[{"d":[{"f":"￹￺to make string￻做繩子"}]}],"t":"mika'red"}
-,"mikadafo":{"h":[{"d":[{"l":["`kadafo~"],"f":"￹￺to go as an in-law into the home of one's spouse * In a matrilineal society like the Amis this meant that the man went into the wife's home.￻出嫁，入贅"}]}],"t":"mikadafo"}
-,"mikaen":{"h":[{"d":[{"l":["`milihiw~","`kaen~"],"f":"￹￺to cheat￻坑人，詐取(別人的財物)"}]}],"t":"mikaen"}
-,"mikalang":{"h":[{"d":[{"l":["`kalang~"],"f":"￹￺to hunt for crabs￻抓螃蟹"}]}],"t":"mikalang"}
-,"mikali":{"h":[{"d":[{"l":["`kali~"],"f":"￹￺to make a ditch * channel￻挖水圳(水溝)"}]}],"t":"mikali"}
-,"mikalolol":{"h":[{"d":[{"l":["`mihtangal~"],"f":"￹￺Refer to `mihtangal~￻詳見 `mihtangal~"}]}],"t":"mikalolol"}
-,"mikamay":{"h":[{"d":[{"l":["`kamay~"],"f":"￹￺to eat with hands￻用手吃東西(意指阿美族用手抓飯進食的習慣)"}]}],"t":"mikamay"}
-,"mikangkang":{"h":[{"d":[{"l":["`kangkang~"],"f":"￹￺plow the field￻犁田"}]}],"t":"mikangkang"}
-,"mikapot":{"h":[{"d":[{"l":["`kapot~"],"f":"￹￺to associate with * be partner with * have fellowship with￻參與"}]}],"t":"mikapot"}
-,"mikarong":{"h":[{"d":[{"l":["`karong~"],"f":"￹￺to give message to youth messengers￻叫年輕信差帶信息去"}]}],"t":"mikarong"}
-,"mikasoy":{"h":[{"d":[{"l":["`kasoy~"],"f":"￹￺hunt for firewood￻拾薪，撿柴，砍柴"}]}],"t":"mikasoy"}
-,"mikatacomoli":{"h":[{"d":[{"l":["`katacomoli~"],"f":"￹￺to hunt for snails￻撿蝸牛"}]}],"t":"mikatacomoli"}
+,"mihinanoy":{"h":[{"d":[{"s":["`nanoy~"],"f":"￹￺to swing * the act of doing for oneself￻盪鞦韆，這是自己做的活動"}]}],"t":"mihinanoy"}
+,"mihitangal":{"h":[{"d":[{"s":["`patangal~","`mikalolol~"],"f":"￹￺to wash hair￻洗頭，燙頭髮"}]}],"t":"mihitangal"}
+,"mikadafo":{"h":[{"d":[{"s":["`kadafo~"],"f":"￹￺to go as an in-law into the home of one's spouse * In a matrilineal society like the Amis this meant that the man went into the wife's home.￻出嫁，入贅"}]}],"t":"mikadafo"}
+,"mikaen":{"h":[{"d":[{"s":["`mi~`lihiw~","`kaen~"],"f":"￹￺to cheat￻坑人，詐取(別人的財物)"}]}],"t":"mikaen"}
+,"mikaered":{"h":[{"d":[{"f":"￹￺to make string￻做繩子"}]}],"t":"mikaered"}
+,"mikalang":{"h":[{"d":[{"s":["`kalang~"],"f":"￹￺to hunt for crabs￻抓螃蟹"}]}],"t":"mikalang"}
+,"mikali":{"h":[{"d":[{"s":["`kali~"],"f":"￹￺to make a ditch * channel￻挖水圳(水溝)"}]}],"t":"mikali"}
+,"mikalolol":{"h":[{"d":[{"s":["`mihitangal~"],"f":"￹￺Refer to `mihitangal~￻詳見 `mihitangal~"}]}],"t":"mikalolol"}
+,"mikamay":{"h":[{"d":[{"s":["`kamay~"],"f":"￹￺to eat with hands￻用手吃東西(意指阿美族用手抓飯進食的習慣)"}]}],"t":"mikamay"}
+,"mikangkang":{"h":[{"d":[{"s":["`kangkang~"],"f":"￹￺plow the field￻犁田"}]}],"t":"mikangkang"}
+,"mikapot":{"h":[{"d":[{"s":["`kapot~"],"f":"￹￺to associate with * be partner with * have fellowship with￻參與"}]}],"t":"mikapot"}
+,"mikarong":{"h":[{"d":[{"s":["`karong~"],"f":"￹￺to give message to youth messengers￻叫年輕信差帶信息去"}]}],"t":"mikarong"}
+,"mikasoy":{"h":[{"d":[{"s":["`kasoy~"],"f":"￹￺hunt for firewood￻拾薪，撿柴，砍柴"}]}],"t":"mikasoy"}
+,"mikatacomoli":{"h":[{"d":[{"s":["`katacomoli~"],"f":"￹￺to hunt for snails￻撿蝸牛"}]}],"t":"mikatacomoli"}
 ,"miki%27a%27m":{"h":[{"d":[{"f":"￹￺to professionally beg￻討飯、 乞討"}]}],"t":"miki'a'm"}
 ,"miki%27ading":{"h":[{"d":[{"f":"￹￺to hide￻隱蔽、躲避、躲藏"},{"f":"￹￺to seek protection￻尋找保護者、尋找庇護所"}]}],"t":"miki'ading"}
-,"mikicidal":{"h":[{"d":[{"l":["`cidal~"],"f":"￹￺to sit in the sun￻曝露於日光下而坐，日光浴"}]}],"t":"mikicidal"}
-,"mikicongacong":{"h":[{"d":[{"l":["`congacong~"],"f":"￹￺attach oneself to someone for protection￻依附別人以求保護(依附別人偷安)，狗仗人勢"}]}],"t":"mikicongacong"}
-,"mikihamon":{"h":[{"d":[{"l":["`hamon~"],"f":"￹￺to identify with * keep company with￻參與，認同"}]}],"t":"mikihamon"}
-,"mikihatiya":{"h":[{"d":[{"l":["`hatiya~"],"f":"￹￺to be companion with * to identify with￻參加，參與"}]}],"t":"mikihatiya"}
-,"mikikay":{"h":[{"d":[{"l":["`kikay~"],"f":"￹￺to work with a machine￻操縱機器"}]}],"t":"mikikay"}
-,"mikilac":{"h":[{"d":[{"l":["`kilac~"],"f":"￹￺to want a portion￻要求一部分"}]}],"t":"mikilac"}
-,"mikilang":{"h":[{"d":[{"l":["`kilang~"],"f":"￹￺to look for a tree or wood and carry it￻找木材，砍伐木材"}]}],"t":"mikilang"}
-,"mikilidong":{"h":[{"d":[{"l":["`lidong~"],"f":"￹￺to sit in shade or a sheltered place￻尋找蔭涼，遮蔭處"}]}],"t":"mikilidong"}
-,"mikingking":{"h":[{"d":[{"l":["`kingking~"],"f":"￹￺to ring a bell or bells￻按鈴，鳴鐘"}]}],"t":"mikingking"}
-,"mikipat":{"h":[{"d":[{"l":["`kipat~"],"f":"￹￺to stick on by itself￻黏起來"}]}],"t":"mikipat"}
-,"mikitira":{"h":[{"d":[{"l":["`itira~"],"f":"￹￺to identify with or take position with someone or some situation￻從那邊開始"}]}],"t":"mikitira"}
-,"milada%27":{"h":[{"d":[{"l":["`lada'~"],"f":"￹￺to ask for something￻向某人要求或討東西"}]}],"t":"milada'"}
-,"milahci":{"h":[{"d":[{"f":"￹￺complete * finish￻成就，完成"}]}],"t":"milahci"}
-,"milaklak":{"h":[{"d":[{"l":["`laklak~"],"f":"￹￺to scatter in a small area￻使之分散"}]}],"t":"milaklak"}
-,"milaklaw":{"h":[{"d":[{"l":["`laklaw~"],"f":"￹￺to use a lantern to fish or hunt for edibles at night￻於夜間使用燈籠捕魚及捕捉可食之物"}]}],"t":"milaklaw"}
-,"milaocay":{"h":[{"d":[{"l":["`laoc~"],"f":"￹￺a person who stands on guard￻守衛者"}]}],"t":"milaocay"}
-,"milapot":{"h":[{"d":[{"l":["`lapot~"],"f":"￹￺to gather sweet potato leaves￻採集蕃薯葉"}]}],"t":"milapot"}
-,"mili%27tan":{"h":[{"d":[{"l":["`'tan~"],"f":"￹￺to make profit (from Amoy dialect)￻賺錢 (引自閩南語)"}]}],"t":"mili'tan"}
-,"milidong":{"h":[{"d":[{"l":["`lidong~"],"f":"￹￺to take to shelter￻收拾穀物"}]}],"t":"milidong"}
-,"milifet":{"h":[{"d":[{"l":["`lifet~"],"f":"￹￺to try * try out￻嚐試"}]}],"t":"milifet"}
-,"milifon":{"h":[{"d":[{"l":["`lifon~"],"f":"￹￺to work for wages * earn money￻賺錢"}]}],"t":"milifon"}
-,"milifongoh":{"h":[{"d":[{"l":["`fongoh~"],"f":"￹￺to cut head off * decapitate￻斬首，殺頭，解雇之意"}]}],"t":"milifongoh"}
-,"milikanoos":{"h":[{"d":[{"l":["`kanoos~"],"f":"￹￺to cut nails￻剪指甲"}]}],"t":"milikanoos"}
-,"mililis":{"h":[{"d":[{"l":["`lilis~"],"f":"￹￺to walk on the edge of the water￻沿岸邊走"}]}],"t":"mililis"}
-,"milimama":{"h":[{"d":[{"l":["`malamama~","`mama~"],"f":"￹￺to interfere with the godfather relationship of someone￻妨礙於某人和他的教父的關係"}]}],"t":"milimama"}
-,"milimata":{"h":[{"d":[{"l":["`mata~"],"f":"￹￺to put out someone's eye￻摘取眼睛，挖眼睛"}]}],"t":"milimata"}
-,"milingangan":{"h":[{"d":[{"f":"￹￺to take the name of someone else for oneself￻取某人的名為己名"},{"l":["`ngangan~"],"f":"￹￺to take land distributed for oneself￻取得土地為己所有"}]}],"t":"milingangan"}
-,"milingato":{"h":[{"d":[{"l":["`ngato~"],"f":"￹￺to start￻開始工作"}]}],"t":"milingato"}
-,"milingod":{"h":[{"d":[{"l":["`lingod~"],"f":"￹￺to gather to look￻圍視"}]}],"t":"milingod"}
-,"miliyok":{"h":[{"d":[{"l":["`liyok~"],"f":"￹￺to go around and come back￻來回巡邏"}]}],"t":"miliyok"}
-,"milkakawa":{"h":[{"d":[{"f":"￹￺to pack up belongings￻整理"},{"l":["`lkakawa~"],"f":"￹￺to gather together supplies for work￻整備工作上所需之備品"}]}],"t":"milkakawa"}
+,"mikicidal":{"h":[{"d":[{"s":["`cidal~"],"f":"￹￺to sit in the sun￻曝露於日光下而坐，日光浴"}]}],"t":"mikicidal"}
+,"mikicongacong":{"h":[{"d":[{"s":["`congacong~"],"f":"￹￺attach oneself to someone for protection￻依附別人以求保護(依附別人偷安)，狗仗人勢"}]}],"t":"mikicongacong"}
+,"mikihamon":{"h":[{"d":[{"s":["`hamon~"],"f":"￹￺to identify with * keep company with￻參與，認同"}]}],"t":"mikihamon"}
+,"mikihatiya":{"h":[{"d":[{"s":["`hatiya~"],"f":"￹￺to be companion with * to identify with￻參加，參與"}]}],"t":"mikihatiya"}
+,"mikikay":{"h":[{"d":[{"s":["`kikay~"],"f":"￹￺to work with a machine (from Japanese)￻操縱機器 (引自日語)"}]}],"t":"mikikay"}
+,"mikilac":{"h":[{"d":[{"s":["`kilac~"],"f":"￹￺to want a portion￻要求一部分"}]}],"t":"mikilac"}
+,"mikilang":{"h":[{"d":[{"s":["`kilang~"],"f":"￹￺to look for a tree or wood and carry it￻找木材，砍伐木材"}]}],"t":"mikilang"}
+,"mikilidong":{"h":[{"d":[{"s":["`lidong~"],"f":"￹￺to sit in shade or a sheltered place￻尋找蔭涼，遮蔭處"}]}],"t":"mikilidong"}
+,"mikingking":{"h":[{"d":[{"s":["`kingking~"],"f":"￹￺to ring a bell or bells￻按鈴，鳴鐘"}]}],"t":"mikingking"}
+,"mikipat":{"h":[{"d":[{"s":["`kipat~"],"f":"￹￺to stick on by itself￻黏起來"}]}],"t":"mikipat"}
+,"mikitira":{"h":[{"d":[{"s":["`itira~"],"f":"￹￺to identify with or take position with someone or some situation￻從那邊開始"}]}],"t":"mikitira"}
+,"milada%27":{"h":[{"d":[{"s":["`lada'~"],"f":"￹￺to ask for something￻向某人要求或討東西"}]}],"t":"milada'"}
+,"milaheci":{"h":[{"d":[{"f":"￹￺complete * finish￻成就，完成"}]}],"t":"milaheci"}
+,"milakelak":{"h":[{"d":[{"s":["`lakelak~"],"f":"￹￺to scatter in a small area￻使之分散"}]}],"t":"milakelak"}
+,"milakelaw":{"h":[{"d":[{"s":["`lakelaw~"],"f":"￹￺to use a lantern to fish or hunt for edibles at night￻於夜間使用燈籠捕魚及捕捉可食之物"}]}],"t":"milakelaw"}
+,"milaocay":{"h":[{"d":[{"s":["`laoc~"],"f":"￹￺a person who stands on guard￻守衛者"}]}],"t":"milaocay"}
+,"milapot":{"h":[{"d":[{"s":["`lapot~"],"f":"￹￺to gather sweet potato leaves￻採集蕃薯葉"}]}],"t":"milapot"}
+,"milekakawa":{"h":[{"d":[{"f":"￹￺to pack up belongings￻整理"},{"s":["`lekakawa~"],"f":"￹￺to gather together supplies for work￻整備工作上所需之備品"}]}],"t":"milekakawa"}
+,"milesafon":{"h":[{"d":[{"s":["`lesafon~"],"f":"￹￺to collect together things of various kinds￻蒐集各式各樣的東西"}]}],"t":"milesafon"}
+,"milidong":{"h":[{"d":[{"s":["`lidong~"],"f":"￹￺to take to shelter￻收拾穀物"}]}],"t":"milidong"}
+,"milietan":{"h":[{"d":[{"s":["`etan~"],"f":"￹￺to make profit (from Amoy dialect)￻賺錢 (引自閩南語)"}]}],"t":"milietan"}
+,"milifet":{"h":[{"d":[{"s":["`lifet~"],"f":"￹￺to try * try out￻嚐試"}]}],"t":"milifet"}
+,"milifon":{"h":[{"d":[{"s":["`lifon~"],"f":"￹￺to work for wages * earn money￻賺錢"}]}],"t":"milifon"}
+,"milifongoh":{"h":[{"d":[{"s":["`fongoh~"],"f":"￹￺to cut head off * decapitate￻斬首，殺頭，解雇之意"}]}],"t":"milifongoh"}
+,"milikanoos":{"h":[{"d":[{"s":["`kanoos~"],"f":"￹￺to cut nails￻剪指甲"}]}],"t":"milikanoos"}
+,"mililis":{"h":[{"d":[{"s":["`lilis~"],"f":"￹￺to walk on the edge of the water￻沿岸邊走"}]}],"t":"mililis"}
+,"milimama":{"h":[{"d":[{"s":["`mala~`mama~","`mama~"],"f":"￹￺to interfere with the godfather relationship of someone￻妨礙於某人和他的教父的關係"}]}],"t":"milimama"}
+,"milimata":{"h":[{"d":[{"s":["`mata~"],"f":"￹￺to put out someone's eye￻摘取眼睛，挖眼睛"}]}],"t":"milimata"}
+,"milingangan":{"h":[{"d":[{"f":"￹￺to take the name of someone else for oneself￻取某人的名為己名"},{"s":["`ngangan~"],"f":"￹￺to take land distributed for oneself￻取得土地為己所有"}]}],"t":"milingangan"}
+,"milingato":{"h":[{"d":[{"s":["`ngato~"],"f":"￹￺to start￻開始工作"}]}],"t":"milingato"}
+,"milingod":{"h":[{"d":[{"s":["`lingod~"],"f":"￹￺to gather to look￻圍視"}]}],"t":"milingod"}
+,"miliyok":{"h":[{"d":[{"s":["`liyok~"],"f":"￹￺to go around and come back￻來回巡邏"}]}],"t":"miliyok"}
 ,"milmil":{"h":[{"d":[{"f":"￹￺to examine something carefully for flaws￻仔細檢查東西缺陷的舉動"},{"f":"￹￺to touch things you are unfamiliar with￻你好奇的東西會東摸西摸"}]}],"t":"milmil"}
-,"milofangay":{"h":[{"d":[{"l":["`lofang~"],"f":"￹￺a committee meeting￻委員會"}]}],"t":"milofangay"}
-,"milofic":{"h":[{"d":[{"l":["`lofic~"],"f":"￹￺to glean left over crops￻拾取落穗"}]}],"t":"milofic"}
-,"milolop":{"h":[{"d":[{"l":["`lolop~"],"f":"￹￺to make a fence so animals or chickens cannot enter￻築籬笆或柵欄，使動物或雞鴨無法侵入"}]}],"t":"milolop"}
-,"milsafon":{"h":[{"d":[{"l":["`lsafon~"],"f":"￹￺to collect together things of various kinds￻蒐集各式各樣的東西"}]}],"t":"milsafon"}
-,"mimaan":{"h":[{"d":[{"l":["`maan~"],"f":"￹￺What is (he) doing?￻做什麼？"}]}],"t":"mimaan"}
-,"mimali":{"h":[{"d":[{"l":["`mali~"],"f":"￹￺to play ball￻玩球，打球"}]}],"t":"mimali"}
-,"miming":{"h":[{"d":[{"f":"￹￺little * tiny￻小"},{"l":["`mamang~"],"f":"￹￺few * not many * not much￻少"}]}],"t":"miming"}
+,"milofangay":{"h":[{"d":[{"s":["`lofang~"],"f":"￹￺a committee meeting￻委員會"}]}],"t":"milofangay"}
+,"milofic":{"h":[{"d":[{"s":["`lofic~"],"f":"￹￺to glean left over crops￻拾取落穗"}]}],"t":"milofic"}
+,"milolop":{"h":[{"d":[{"s":["`lolop~"],"f":"￹￺to make a fence so animals or chickens cannot enter￻築籬笆或柵欄，使動物或雞鴨無法侵入"}]}],"t":"milolop"}
+,"mimaan":{"h":[{"d":[{"s":["`maan~"],"f":"￹￺What is (he) doing?￻做什麼？"}]}],"t":"mimaan"}
+,"mimali":{"h":[{"d":[{"s":["`mali~"],"f":"￹￺to play ball￻玩球，打球"}]}],"t":"mimali"}
+,"miming":{"h":[{"d":[{"f":"￹￺little * tiny￻小"},{"s":["`mamang~"],"f":"￹￺few * not many * not much￻少"}]}],"t":"miming"}
 ,"mimit":{"h":[{"d":[{"f":"￹￺a sickle used to harvest grain￻鐮刀 (割稻用之刀)"},{"f":"￹￺to twist a part of a person's body to tease or punish * as to twist an ear￻捏別人的肉以欺負或懲罰他, 如捏耳朵"}]}],"t":"mimit"}
-,"minanom":{"h":[{"d":[{"l":["`nanom~"],"f":"￹￺to drink water￻喝水"}]}],"t":"minanom"}
-,"minaro%27an":{"h":[{"d":[{"l":["`widwidan~"],"f":"￹￺heads * clusters of grain￻稻穗"}]}],"t":"minaro'an"}
+,"minanom":{"h":[{"d":[{"s":["`nanom~"],"f":"￹￺to drink water￻喝水"}]}],"t":"minanom"}
+,"minaro%27an":{"h":[{"d":[{"s":["`wid~`widan~"],"f":"￹￺heads * clusters of grain￻稻穗"}]}],"t":"minaro'an"}
 ,"minato":{"h":[{"d":[{"f":"￹￺harbor (from Japanese)￻港口 (引自日語)"}]}],"t":"minato"}
-,"mingkok":{"h":[{"d":[{"l":["`Kaping~","`Kwaping~","`Holam~"],"f":"￹￺Chinese * China￻民國，軍人，阿兵哥"}]}],"t":"mingkok"}
-,"mingming":{"h":[{"d":[{"l":["`pamingming~"],"f":"￹￺to shake one's leg while it is crossed, as when nervous￻兩腳交叉抖振狀；當緊張或恐懼時兩腿發軟顫抖的現象"}]}],"t":"mingming"}
-,"mingohah":{"h":[{"d":[{"l":["`ngohah~","`mikiyarok~"],"f":"￹￺to look for a mate / to date￻尋找夥伴，配偶，與異性約會"}]}],"t":"mingohah"}
-,"minowad":{"h":[{"d":[{"f":"￹￺plums￻李子"},{"f":"￹￺green red￻粉紅色"},{"l":["`manowad~"],"f":"￹￺yellow colored￻黃色"}]}],"t":"minowad"}
-,"mintang":{"h":[{"d":[{"l":["`fingtang~"],"f":"￹￺wash basin * wash pan (from Amoy dialect)￻臉盆 (引自閩南語)"}]}],"t":"mintang"}
-,"miosa":{"h":[{"d":[{"l":["`osa~"],"f":"￹￺to approach a person￻自動走近異性"}]}],"t":"miosa"}
-,"mipacek":{"h":[{"d":[{"l":["`pacek~","`kapacekan~"],"f":"￹￺to nail * hammer a nail into￻鐵釘，釘子，打釘，釘住"}]}],"t":"mipacek"}
-,"mipakotay":{"h":[{"d":[{"l":["`kotay~"],"f":"￹￺to change * replace with another￻變換，變更，用另一件替換"}]}],"t":"mipakotay"}
-,"mipana%27":{"h":[{"d":[{"l":["`pana'~"],"f":"￹￺to shoot arrows￻射箭"}]}],"t":"mipana'"}
-,"mipdoh":{"h":[{"d":[{"l":["`miltek~","`pdoh~"],"f":"￹￺to cut out the pulp￻弄成一個洞"}]}],"t":"mipdoh"}
-,"mipikpik":{"h":[{"d":[{"l":["`pikpik~"],"f":"￹￺to fly * of birds￻鳥揮動翅膀而飛"}]}],"t":"mipikpik"}
-,"mipitaw":{"h":[{"d":[{"l":["`pitaw~"],"f":"￹￺to hoe * cultivate with a hoe￻挖掘，用鋤頭耕作"}]}],"t":"mipitaw"}
-,"mipla%27":{"h":[{"d":[{"l":["`pla'~"],"f":"￹￺to split into two￻分割為二"}]}],"t":"mipla'"}
-,"mipodaw":{"h":[{"d":[{"l":["`podaw~"],"f":"￹￺to fish for minnows in a river￻撈小魚"}]}],"t":"mipodaw"}
-,"miporod":{"h":[{"d":[{"l":["`porod~"],"f":"￹￺to wind string into a ball￻製線圈，捲線團"}]}],"t":"miporod"}
-,"mira":{"h":[{"d":[{"l":["`nira~","`ningra~"],"e":["￹`O~ `wawa~ `no~ `mira~ `konini~.￺This is her child.￻這是她的孩子","￹`Cimira~ `ko~ `mafana'ay~ / `Cingra~ `ko~ `mafana'ay~.￺He / she is the one who knows.￻他自己知道"],"f":"￹￺his * hers * by him or her.  See Pronouns - Appendix 1.￻他的，她的；藉著他或她。參閱附錄Ｉ代名詞"}]}],"t":"mira"}
-,"miritos":{"h":[{"d":[{"f":"￹￺to draw lots￻抽籤"},{"l":["`ritos~"],"e":["￹`O~ `maritosay~ `cingra~.￺He was elected.￻他當選，他被推選"],"f":"￹￺to vote for￻投票，選舉"}]}],"t":"miritos"}
-,"mirmir":{"h":[{"d":[{"e":["￹`Mamirmir~ `ko~ `faloco'~ `ako~.￺I was shaking inwardly.￻我的心一直在顫抖"],"f":"￹￺to tremble * as when cold or afraid￻發抖；當寒冷或恐懼時發抖之狀"}]}],"t":"mirmir"}
+,"mingkok":{"h":[{"d":[{"s":["`Kaping~","`Kwaping~","`Holam~"],"f":"￹￺Chinese * China￻民國，軍人，阿兵哥"}]}],"t":"mingkok"}
+,"mingming":{"h":[{"d":[{"s":["`pamingming~"],"f":"￹￺to shake one's leg while it is crossed, as when nervous￻兩腳交叉抖振狀；當緊張或恐懼時兩腿發軟顫抖的現象"}]}],"t":"mingming"}
+,"mingohah":{"h":[{"d":[{"s":["`ngohah~","`yarok~"],"f":"￹￺to look for a mate / to date￻尋找夥伴，配偶，與異性約會"}]}],"t":"mingohah"}
+,"minowad":{"h":[{"d":[{"f":"￹￺plums￻李子"},{"f":"￹￺green red￻粉紅色"},{"s":["`manowad~"],"f":"￹￺yellow colored￻黃色"}]}],"t":"minowad"}
+,"mintang":{"h":[{"d":[{"s":["`fingtang~"],"f":"￹￺wash basin * wash pan (from Amoy dialect)￻臉盆 (引自閩南語)"}]}],"t":"mintang"}
+,"miosa":{"h":[{"d":[{"s":["`osa~"],"f":"￹￺to approach a person￻自動走近異性"}]}],"t":"miosa"}
+,"mipacek":{"h":[{"d":[{"s":["`pacek~","`kapacekan~"],"f":"￹￺to nail * hammer a nail into￻鐵釘，釘子，打釘，釘住"}]}],"t":"mipacek"}
+,"mipakotay":{"h":[{"d":[{"s":["`kotay~"],"f":"￹￺to change * replace with another￻變換，變更，用另一件替換"}]}],"t":"mipakotay"}
+,"mipana%27":{"h":[{"d":[{"s":["`pana'~"],"f":"￹￺to shoot arrows￻射箭"}]}],"t":"mipana'"}
+,"mipedoh":{"h":[{"d":[{"s":["`mi~`letek~","`pedoh~"],"f":"￹￺to cut out the pulp￻弄成一個洞"}]}],"t":"mipedoh"}
+,"mipela%27":{"h":[{"d":[{"s":["`pela'~"],"f":"￹￺to split into two￻分割為二"}]}],"t":"mipela'"}
+,"mipikpik":{"h":[{"d":[{"s":["`pikpik~"],"f":"￹￺to fly * of birds￻鳥揮動翅膀而飛"}]}],"t":"mipikpik"}
+,"mipitaw":{"h":[{"d":[{"s":["`pitaw~"],"f":"￹￺to hoe * cultivate with a hoe￻挖掘，用鋤頭耕作"}]}],"t":"mipitaw"}
+,"mipodaw":{"h":[{"d":[{"s":["`podaw~"],"f":"￹￺to fish for minnows in a river￻撈小魚"}]}],"t":"mipodaw"}
+,"miporod":{"h":[{"d":[{"s":["`porod~"],"f":"￹￺to wind string into a ball￻製線圈，捲線團"}]}],"t":"miporod"}
+,"mira":{"h":[{"d":[{"s":["`nira~","`ningra~"],"e":["￹`O~ `wawa~ `no~ `mira~ `konini~.￺This is her child.￻這是她的孩子","￹`Ci~`mira~ `ko~ `ma~`fana'~`ay~ / `ngra~ `ko~ `ma~`fana'~`ay~.￺He / she is the one who knows.￻他自己知道"],"f":"￹￺his * hers * by him or her.  See Pronouns - Appendix 1.￻他的，她的；藉著他或她。參閱附錄Ｉ代名詞"}]}],"t":"mira"}
+,"miritos":{"h":[{"d":[{"f":"￹￺to draw lots￻抽籤"},{"s":["`ritos~"],"e":["￹`O~ `ma~`ritos~`ay~ `cingra~.￺He was elected.￻他當選，他被推選"],"f":"￹￺to vote for￻投票，選舉"}]}],"t":"miritos"}
+,"mirmir":{"h":[{"d":[{"e":["￹`Ma~`mirmir~ `ko~ `faloco'~ `ako~.￺I was shaking inwardly.￻我的心一直在顫抖"],"f":"￹￺to tremble * as when cold or afraid￻發抖；當寒冷或恐懼時發抖之狀"}]}],"t":"mirmir"}
 ,"misa":{"h":[{"d":[{"f":"￹￺mass * ritual practiced by the Catholic church (from Chinese)￻彌撒 (天主教禮拜) (引自國語)"}]}],"t":"misa"}
-,"misa%27":{"h":[{"d":[{"f":"￹￺to blanche vegetables in hot water (from Amoy dialect)￻把蔬菜燙在開水中 (引自閩南語)"}]}],"t":"misa'"}
 ,"misa%27ada":{"h":[{"d":[{"f":"￹￺to do evil against * to make person out to be bad￻意謂敵對、把別人當作敵人看待"}]}],"t":"misa'ada"}
-,"misa%27ked":{"h":[{"d":[{"l":["`'ked~"],"f":"￹￺to form cliques￻另起爐灶，另組黨派或派系"}]}],"t":"misa'ked"}
-,"misa%27orad":{"h":[{"d":[{"l":["`'orad~"],"f":"￹￺to make it rain￻乞雨"}]}],"t":"misa'orad"}
-,"misacacak":{"h":[{"d":[{"l":["`cacak~"],"f":"￹￺to cook￻調理，烹飪"}]}],"t":"misacacak"}
-,"misacapox":{"h":[{"d":[{"l":["`capox~"],"f":"￹￺to plant rice kernels in seedling bed￻在苗圃上撒榖種苗"}]}],"t":"misacapox"}
+,"misa%27orad":{"h":[{"d":[{"s":["`'orad~"],"f":"￹￺to make it rain￻乞雨"}]}],"t":"misa'orad"}
+,"misacacak":{"h":[{"d":[{"s":["`cacak~"],"f":"￹￺to cook￻調理，烹飪"}]}],"t":"misacacak"}
+,"misacapox":{"h":[{"d":[{"s":["`capox~"],"f":"￹￺to plant rice kernels in seedling bed￻在苗圃上撒榖種苗"}]}],"t":"misacapox"}
 ,"misacinaw":{"h":[{"d":[{"f":"￹￺to make a basket￻編製籃子"}]}],"t":"misacinaw"}
-,"misafaco":{"h":[{"d":[{"l":["`faco~","`mitokal~"],"f":"￹￺to draw plans as to diagram a building￻構思, 構圖如建築的設計圖"}]}],"t":"misafaco"}
-,"misafadisaw":{"h":[{"d":[{"l":["`fadisaw~"],"f":"￹￺to heat water as for bathing￻煮開水或燒洗澡水"}]}],"t":"misafadisaw"}
-,"misafadisoso%27":{"h":[{"d":[{"l":["`fadisoso'~"],"f":"￹￺to grow grapes￻種植葡萄"}]}],"t":"misafadisoso'"}
-,"misafafaflin":{"h":[{"d":[{"l":["`faflin~"],"f":"￹￺to keep turning over / to squirm￻翻來覆去，坐臥難安"}]}],"t":"misafafaflin"}
-,"misafafoy":{"h":[{"d":[{"l":["`fafoy~"],"f":"￹￺to raise pigs￻養豬"}]}],"t":"misafafoy"}
-,"misafaloco%27":{"h":[{"d":[{"l":["`faloco'~"],"f":"￹￺to consider * plan￻計劃，思想，思考，深思遠慮"}]}],"t":"misafaloco'"}
-,"misafana%27":{"h":[{"d":[{"l":["`fana'~"],"f":"￹￺to deceive * lead astray￻欺騙"}]}],"t":"misafana'"}
-,"misafokifokil":{"h":[{"d":[{"l":["`fokil~"],"f":"￹￺to act like one is ignorant * to not put one's heart into someting￻故意不知道，大智若愚"}]}],"t":"misafokifokil"}
-,"misahakhak":{"h":[{"d":[{"l":["`hakhak~"],"f":"￹￺to cook this kind of rice in a steamer￻煮糯米飯"}]}],"t":"misahakhak"}
-,"misaharateratengho":{"h":[{"d":[{"l":["`harateng~"],"f":"￹￺think about for awhile before making up one's mind￻正在想，還在想來想去"}]}],"t":"misaharateratengho"}
-,"misairaira":{"h":[{"d":[{"l":["`ira~"],"f":"￹￺to bluff * to act like one has or is something he is not￻虛張聲勢，偽裝成某人，佯裝他人，狐假虎威"}]}],"t":"misairaira"}
-,"misakakahad":{"h":[{"d":[{"l":["`kakahad~"],"f":"￹￺to widen * expand￻寬廣，擴展"}]}],"t":"misakakahad"}
-,"misakalafi":{"h":[{"d":[{"l":["`lafi~"],"f":"￹￺prepare dinner￻煮晚餐，預備晚餐"}]}],"t":"misakalafi"}
-,"misakalahok":{"h":[{"d":[{"l":["`lahok~"],"f":"￹￺to fix lunch￻煮中餐，預備中餐"}]}],"t":"misakalahok"}
-,"misakamoko%27":{"h":[{"d":[{"l":["`kamoko'~"],"f":"￹￺to make shorter￻弄短，剪短，縮短"}]}],"t":"misakamoko'"}
-,"misakilac":{"h":[{"d":[{"l":["`kilac~"],"f":"￹￺to distribute a portion to each including himself￻分配，分發"}]}],"t":"misakilac"}
-,"misakilang":{"h":[{"d":[{"l":["`kilang~"],"f":"￹￺to work with lumber￻製木材"}]}],"t":"misakilang"}
-,"misakilikilim":{"h":[{"d":[{"l":["`kilim~"],"f":"￹￺to look all over for￻遍尋各處"}]}],"t":"misakilikilim"}
-,"misakimokimor":{"h":[{"d":[{"l":["`kimor~"],"f":"￹￺to think over what to do from every angle￻胡思 亂想，深謀遠慮"}]}],"t":"misakimokimor"}
-,"misakleng":{"h":[{"d":[{"l":["`kleng~"],"f":"￹￺to make a man-hole to cause someone to fall in￻做一 出入孔, 使人能陷進"}]}],"t":"misakleng"}
-,"misakofit":{"h":[{"d":[{"l":["`kofit~"],"f":"￹￺to button clothes￻釘鈕釦"}]}],"t":"misakofit"}
-,"misakohaw":{"h":[{"d":[{"l":["`kohaw~"],"f":"￹￺to make soup￻煮湯"}]}],"t":"misakohaw"}
-,"misakoli":{"h":[{"d":[{"l":["`koli~"],"f":"￹￺to work for wages * heavy labor￻工作賺錢，苦役"}]}],"t":"misakoli"}
-,"misakonis":{"h":[{"d":[{"l":["`konis~"],"f":"￹￺to make a line or mark￻劃線做記號"}]}],"t":"misakonis"}
-,"misakosoy":{"h":[{"d":[{"l":["`kosoy~"],"f":"￹￺to plant citronella￻種植香茅草"}]}],"t":"misakosoy"}
-,"misalisin":{"h":[{"d":[{"l":["`lisin~"],"f":"￹￺to practice witchcraft * heathen practices￻施魔法，行巫術，作法事"}]}],"t":"misalisin"}
-,"misaliway":{"h":[{"d":[{"l":["`liway~"],"f":"￹￺to fast￻齋戒，禁食"}]}],"t":"misaliway"}
+,"misaeked":{"h":[{"d":[{"s":["`eked~"],"f":"￹￺to form cliques￻另起爐灶，另組黨派或派系"}]}],"t":"misaeked"}
+,"misafaco":{"h":[{"d":[{"s":["`faco~","`tokal~"],"f":"￹￺to draw plans as to diagram a building￻構思, 構圖如建築的設計圖"}]}],"t":"misafaco"}
+,"misafadisaw":{"h":[{"d":[{"s":["`fadisaw~"],"f":"￹￺to heat water as for bathing￻煮開水或燒洗澡水"}]}],"t":"misafadisaw"}
+,"misafadisoso%27":{"h":[{"d":[{"s":["`fadisoso'~"],"f":"￹￺to grow grapes￻種植葡萄"}]}],"t":"misafadisoso'"}
+,"misafafafelin":{"h":[{"d":[{"s":["`fafelin~"],"f":"￹￺to keep turning over / to squirm￻翻來覆去，坐臥難安"}]}],"t":"misafafafelin"}
+,"misafafoy":{"h":[{"d":[{"s":["`fafoy~"],"f":"￹￺to raise pigs￻養豬"}]}],"t":"misafafoy"}
+,"misafaloco%27":{"h":[{"d":[{"s":["`faloco'~"],"f":"￹￺to consider * plan￻計劃，思想，思考，深思遠慮"}]}],"t":"misafaloco'"}
+,"misafana%27":{"h":[{"d":[{"s":["`fana'~"],"f":"￹￺to deceive * lead astray￻欺騙"}]}],"t":"misafana'"}
+,"misafokifokil":{"h":[{"d":[{"s":["`fokil~"],"f":"￹￺to act like one is ignorant * to not put one's heart into someting￻故意不知道，大智若愚"}]}],"t":"misafokifokil"}
+,"misahakhak":{"h":[{"d":[{"s":["`hakhak~"],"f":"￹￺to cook this kind of rice in a steamer￻煮糯米飯"}]}],"t":"misahakhak"}
+,"misaharateratengho":{"h":[{"d":[{"s":["`harateng~"],"f":"￹￺think about for awhile before making up one's mind￻正在想，還在想來想去"}]}],"t":"misaharateratengho"}
+,"misairaira":{"h":[{"d":[{"s":["`ira~"],"f":"￹￺to bluff * to act like one has or is something he is not￻虛張聲勢，偽裝成某人，佯裝他人，狐假虎威"}]}],"t":"misairaira"}
+,"misakakahad":{"h":[{"d":[{"s":["`kakahad~"],"f":"￹￺to widen * expand￻寬廣，擴展"}]}],"t":"misakakahad"}
+,"misakalafi":{"h":[{"d":[{"s":["`lafi~"],"f":"￹￺prepare dinner￻煮晚餐，預備晚餐"}]}],"t":"misakalafi"}
+,"misakalahok":{"h":[{"d":[{"s":["`lahok~"],"f":"￹￺to fix lunch￻煮中餐，預備中餐"}]}],"t":"misakalahok"}
+,"misakamoko%27":{"h":[{"d":[{"s":["`kamoko'~"],"f":"￹￺to make shorter￻弄短，剪短，縮短"}]}],"t":"misakamoko'"}
+,"misakeleng":{"h":[{"d":[{"s":["`keleng~"],"f":"￹￺to make a man-hole to cause someone to fall in￻做一出入孔, 使人能陷進"}]}],"t":"misakeleng"}
+,"misakilac":{"h":[{"d":[{"s":["`kilac~"],"f":"￹￺to distribute a portion to each including himself￻分配，分發"}]}],"t":"misakilac"}
+,"misakilang":{"h":[{"d":[{"s":["`kilang~"],"f":"￹￺to work with lumber￻製木材"}]}],"t":"misakilang"}
+,"misakilikilim":{"h":[{"d":[{"s":["`kilim~"],"f":"￹￺to look all over for￻遍尋各處"}]}],"t":"misakilikilim"}
+,"misakimokimor":{"h":[{"d":[{"s":["`kimor~"],"f":"￹￺to think over what to do from every angle￻胡思 亂想，深謀遠慮"}]}],"t":"misakimokimor"}
+,"misakofit":{"h":[{"d":[{"s":["`kofit~"],"f":"￹￺to button clothes￻釘鈕釦"}]}],"t":"misakofit"}
+,"misakohaw":{"h":[{"d":[{"s":["`kohaw~"],"f":"￹￺to make soup￻煮湯"}]}],"t":"misakohaw"}
+,"misakoli":{"h":[{"d":[{"s":["`koli~"],"f":"￹￺to work for wages * heavy labor￻工作賺錢，苦役"}]}],"t":"misakoli"}
+,"misakonis":{"h":[{"d":[{"s":["`konis~"],"f":"￹￺to make a line or mark￻劃線做記號"}]}],"t":"misakonis"}
+,"misakosoy":{"h":[{"d":[{"s":["`kosoy~"],"f":"￹￺to plant citronella￻種植香茅草"}]}],"t":"misakosoy"}
+,"misalisin":{"h":[{"d":[{"s":["`lisin~"],"f":"￹￺to practice witchcraft * heathen practices￻施魔法，行巫術，作法事"}]}],"t":"misalisin"}
+,"misaliway":{"h":[{"d":[{"s":["`liway~"],"f":"￹￺to fast￻齋戒，禁食"}]}],"t":"misaliway"}
 ,"misalo%27afang":{"h":[{"d":[{"f":"￹￺(witch doctor) breaths a spirit into a person￻巫師替人招魂，巫師注入靈魂給人"}]}],"t":"misalo'afang"}
-,"misaloma%27":{"h":[{"d":[{"l":["`loma'~"],"f":"￹￺to build a building or house￻蓋房子"}]}],"t":"misaloma'"}
+,"misaloma%27":{"h":[{"d":[{"s":["`loma'~"],"f":"￹￺to build a building or house￻蓋房子"}]}],"t":"misaloma'"}
 ,"misamis":{"h":[{"d":[{"f":"￹￺fringe on cloth￻衣服或布邊的緣飾或絲狀的，繸毛"}]}],"t":"misamis"}
-,"misapadek":{"h":[{"d":[{"l":["`padek~"],"f":"￹￺to show favoritism to someone￻對某些孩子偏愛，偏袒"}]}],"t":"misapadek"}
-,"misaparod":{"h":[{"d":[{"f":"￹￺to make a stove (by placing rocks so that a fire can be lit and food cooked)￻建造爐灶"},{"l":["`parod~"],"f":"￹￺to take care of one'sfamily￻照顧家庭"}]}],"t":"misaparod"}
-,"misararonng":{"h":[{"d":[{"l":["`rarong~"],"f":"￹￺to sit in a hut * as when it is raining￻搭建房舍"}]}],"t":"misararonng"}
-,"misasapad":{"h":[{"d":[{"l":["`sapad~"],"f":"￹￺to make board-shaped￻做木板"}]}],"t":"misasapad"}
-,"misasla%27":{"h":[{"d":[{"l":["`sla'~"],"f":"￹￺to breathe￻呼吸"}]}],"t":"misasla'"}
-,"misatalifokil":{"h":[{"d":[{"l":["`fokil~"],"f":"￹￺to ignore * pay no attention to￻不注意"}]}],"t":"misatalifokil"}
-,"misatfon":{"h":[{"d":[{"l":["`tfon~"],"f":"￹￺to dig a well￻挖水井"}]}],"t":"misatfon"}
-,"misatoron":{"h":[{"d":[{"l":["`toron~"],"f":"￹￺to maka rice bread￻製作糯米糕"}]}],"t":"misatoron"}
-,"misawidang":{"h":[{"d":[{"l":["`widang~"],"f":"￹￺to make acquaintances￻結交朋友"}]}],"t":"misawidang"}
-,"misawina":{"h":[{"d":[{"l":["`ina~","`palawina~","`wina~"],"f":"￹￺to play adult activities * imitative play of children￻辦家家酒, 小孩遊戲"}]}],"t":"misawina"}
+,"misapadek":{"h":[{"d":[{"s":["`padek~"],"f":"￹￺to show favoritism to someone￻對某些孩子偏愛，偏袒"}]}],"t":"misapadek"}
+,"misaparod":{"h":[{"d":[{"f":"￹￺to make a stove (by placing rocks so that a fire can be lit and food cooked)￻建造爐灶"},{"s":["`parod~"],"f":"￹￺to take care of one'sfamily￻照顧家庭"}]}],"t":"misaparod"}
+,"misararonng":{"h":[{"d":[{"s":["`rarong~"],"f":"￹￺to sit in a hut * as when it is raining￻搭建房舍"}]}],"t":"misararonng"}
+,"misasapad":{"h":[{"d":[{"s":["`sapad~"],"f":"￹￺to make board-shaped￻做木板"}]}],"t":"misasapad"}
+,"misasela%27":{"h":[{"d":[{"s":["`sela'~"],"f":"￹￺to breathe￻呼吸"}]}],"t":"misasela'"}
+,"misatalifokil":{"h":[{"d":[{"s":["`fokil~"],"f":"￹￺to ignore * pay no attention to￻不注意"}]}],"t":"misatalifokil"}
+,"misatefon":{"h":[{"d":[{"s":["`tefon~"],"f":"￹￺to dig a well￻挖水井"}]}],"t":"misatefon"}
+,"misatoron":{"h":[{"d":[{"s":["`toron~"],"f":"￹￺to maka rice bread￻製作糯米糕"}]}],"t":"misatoron"}
+,"misawidang":{"h":[{"d":[{"s":["`widang~"],"f":"￹￺to make acquaintances￻結交朋友"}]}],"t":"misawidang"}
+,"misawina":{"h":[{"d":[{"s":["`ina~","`palawina~","`wina~"],"f":"￹￺to play adult activities * imitative play of children￻辦家家酒, 小孩遊戲"}]}],"t":"misawina"}
 ,"misi%27":{"h":[{"d":[{"f":"￹￺to urinate￻撒尿"}]}],"t":"misi'"}
-,"misi%27oway":{"h":[{"d":[{"l":["`'oway~"],"f":"￹￺the activity of making reeds out of the plant￻把藤切片狀"}]}],"t":"misi'oway"}
+,"misi%27oway":{"h":[{"d":[{"s":["`'oway~"],"f":"￹￺the activity of making reeds out of the plant￻把藤切片狀"}]}],"t":"misi'oway"}
 ,"mising":{"h":[{"d":[{"f":"￹￺sewing machine (from Japanese)￻縫衣機 (引自日語)"}]}],"t":"mising"}
 ,"miso":{"h":[{"d":[{"f":"￹￺yours (singular) * your.  See Pronouns - Appendix 1.￻你的。參閱附錄Ι代名詞"}]}],"t":"miso"}
-,"miso%27em":{"h":[{"d":[{"l":["`moamo~"],"f":"￹￺to stuff mouth full of food￻食物滿含在口裡"}]}],"t":"miso'em"}
+,"miso%27em":{"h":[{"d":[{"s":["`moamo~"],"f":"￹￺to stuff mouth full of food￻食物滿含在口裡"}]}],"t":"miso'em"}
 ,"mison":{"h":[{"d":[{"f":"￹￺to start to make noise when heating * as a pan over fire￻水煮開前的聲音"}]}],"t":"mison"}
-,"mita":{"h":[{"d":[{"e":["￹`Ono~ `mitamitanan~ `cangra~￺They are on our side / for us.￻他們是屬於我們(團體)的"],"f":"￹￺ours (inclusive) * our.  See Pronouns - Appendix 1.￻我們的。參閱附錄Ⅰ代名詞"}]}],"t":"mita"}
-,"mitafak":{"h":[{"d":[{"l":["`tafak~"],"f":"￹￺to put tobacco in a pipe￻把烟絲放在烟斗上"}]}],"t":"mitafak"}
-,"mitahka":{"h":[{"d":[{"l":["`tahka~"],"e":["￹`Tadamaanay~ `ko~ `tahka~ `ita~.￺Our meal is very special.￻我們這一頓是特別餐","￹`Patahkaen~ `nira~ `kami~.￺He gave us dinner.￻他招待我們吃飯","￹`Icowa~ `ko~ `pitahkaan~ `ita~?￺Where is our meal to be served?￻我們在那裡進餐"],"f":"￹￺to sit on haunches or chairs￻進餐"}]}],"t":"mitahka"}
-,"mitamako":{"h":[{"d":[{"l":["`tamako~"],"f":"￹￺to smoke tobbaco / cigarettes￻抽烟"}]}],"t":"mitamako"}
-,"mitfos":{"h":[{"d":[{"l":["`tfos~"],"f":"￹￺to cut * harvest sugar cane￻砍甘蔗，收割甘蔗"}]}],"t":"mitfos"}
-,"mitli":{"h":[{"d":[{"l":["`tli~"],"f":"￹￺to put or place￻放置"}]}],"t":"mitli"}
-,"miyamay":{"h":[{"d":[{"l":["`Miyamay~"],"f":"￹￺name of an Amis village, from Japanese meaning the front of the temple￻花蓮吉安鄉太昌部落名，以前在日劇時代在宮前而得名"}]}],"t":"miyamay"}
+,"mita":{"h":[{"d":[{"e":["￹`Ono~ `tamitanan~ `cangra~￺They are on our side / for us.￻他們是屬於我們(團體)的"],"f":"￹￺ours (inclusive) * our.  See Pronouns - Appendix 1.￻我們的。參閱附錄Ⅰ代名詞"}]}],"t":"mita"}
+,"mitafak":{"h":[{"d":[{"s":["`tafak~"],"f":"￹￺to put tobacco in a pipe￻把烟絲放在烟斗上"}]}],"t":"mitafak"}
+,"mitaheka%5E":{"h":[{"d":[{"s":["`taheka~^"],"e":["￹`Tadamaanay~ `ko~ `taheka~^ `ita~.￺Our meal is very special.￻我們這一頓是特別餐","￹`taheka~^`en~ `nira~ `kami~.￺He gave us dinner.￻他招待我們吃飯","￹`Icowa~ `ko~ `taheka~^`an~ `ita~?￺Where is our meal to be served?￻我們在那裡進餐"],"f":"￹￺to sit on haunches or chairs￻進餐"}]}],"t":"mitaheka^"}
+,"mitamako":{"h":[{"d":[{"s":["`tamako~"],"f":"￹￺to smoke tobbaco / cigarettes￻抽烟"}]}],"t":"mitamako"}
+,"mitefos":{"h":[{"d":[{"s":["`tefos~"],"f":"￹￺to cut * harvest sugar cane￻砍甘蔗，收割甘蔗"}]}],"t":"mitefos"}
+,"miteli":{"h":[{"d":[{"s":["`teli~"],"f":"￹￺to put or place￻放置"}]}],"t":"miteli"}
+,"miyamay":{"h":[{"d":[{"s":["`yamay~"],"f":"￹￺name of an Amis village, from Japanese meaning the front of the temple￻花蓮吉安鄉太昌部落名，以前在日劇時代在宮前而得名"}]}],"t":"miyamay"}
 ,"miyat":{"h":[{"d":[{"f":"￹￺to flash￻閃光，閃亮"}]}],"t":"miyat"}
-,"mlet":{"h":[{"d":[{"f":"￹￺a split second * an extremely short period of time￻瞬間"}]}],"t":"mlet"}
-,"mli":{"h":[{"d":[{"f":"￹￺to turn upside down￻轉動"},{"f":"￹￺to repent * to become a convert￻變成信徒，成為悔改者"}]}],"t":"mli"}
-,"mnad":{"h":[{"d":[{"f":"￹￺a wild edible vegetation￻可食之植物"}]}],"t":"mnad"}
-,"mo%27cel":{"h":[{"d":[{"f":"￹￺straight * literally or figuratively￻正直，含字面上和比喻上「正直」的意義"},{"l":["`mo'celay~","`palamo'celay~"],"e":["￹`mo'cel~ `ko~ `faloco'~￺to be just * honest * a person of integrity￻正直的心，成為公正，誠實，廉潔的人","￹`mo'cel~ `ko~ `sowal~￺to speak the truth * to speak directly to the point￻說話正直誠懇，直截了當的說，說話一針見血"],"f":"￹￺honest * just * righteous￻誠實的，公正的，正直的"}]}],"t":"mo'cel"}
-,"mo%27celay":{"h":[{"d":[{"f":"￹￺a descriptive word￻描寫語句"},{"l":["`mo'cel~"],"f":"￹￺an abstract reference to righteousness￻對正直的抽象表達"}]}],"t":"mo'celay"}
-,"mo%27ed":{"h":[{"d":[{"l":["`moamo~"],"f":"￹￺to stuff a lot of something in one's mouth￻填塞食物在口裡"}]}],"t":"mo'ed"}
-,"mo%27mo":{"h":[{"d":[{"f":"￹￺to mold together in one's hand * to round out into the shape of a ball￻把食物揉成一團"}]}],"t":"mo'mo"}
-,"mo%27tep":{"h":[{"d":[{"l":["`sakamo'tep~","`kinamo'tepto~"],"e":["￹`o~ `niklamo'tepan~￺a tenth * a tithe￻十分之一，分成十份"],"f":"￹￺ten * a number￻十"}]}],"t":"mo'tep"}
-,"moamo":{"h":[{"d":[{"f":"￹￺o stuff mouth full of food￻把t食物含在口裡"}]}],"t":"moamo"}
-,"moamo%27":{"h":[{"d":[{"l":["`mo'ed~"]},{"f":"￹￺to dissolve in the mouth￻把食物塞滿口裡"}]}],"t":"moamo'"}
-,"moco%27":{"h":[{"d":[{"l":["`padal~"]},{"f":"￹￺a wall￻牆壁"}]}],"t":"moco'"}
+,"mo%27ed":{"h":[{"d":[{"s":["`moamo~"],"f":"￹￺to stuff a lot of something in one's mouth￻填塞食物在口裡"}]}],"t":"mo'ed"}
+,"mo%5Ecel":{"h":[{"d":[{"f":"￹￺straight * literally or figuratively￻正直，含字面上和比喻上「正直」的意義"},{"s":["`mo~^`celay~","`palamo~^`celay~"],"e":["￹`mo~^`cel~ `ko~ `faloco'~￺to be just * honest * a person of integrity￻正直的心，成為公正，誠實，廉潔的人","￹`mo~^`cel~ `ko~ `sowal~￺to speak the truth * to speak directly to the point￻說話正直誠懇，直截了當的說，說話一針見血"],"f":"￹￺honest * just * righteous￻誠實的，公正的，正直的"}]}],"t":"mo^cel"}
+,"mo%5Ecelay":{"h":[{"d":[{"f":"￹￺a descriptive word￻描寫語句"},{"s":["`mo~^`cel~"],"f":"￹￺an abstract reference to righteousness￻對正直的抽象表達"}]}],"t":"mo^celay"}
+,"mo%5Emo":{"h":[{"d":[{"f":"￹￺to mold together in one's hand * to round out into the shape of a ball￻把食物揉成一團"}]}],"t":"mo^mo"}
+,"mo%5Etep":{"h":[{"d":[{"s":["`mo~^`tep~","`kinamo~^`tepto~"],"e":["￹`o~ `klamo~^`tepan~￺a tenth * a tithe￻十分之一，分成十份"],"f":"￹￺ten * a number￻十"}]}],"t":"mo^tep"}
+,"moamo":{"h":[{"d":[{"f":"￹￺o stuff mouth full of food￻把食物含在口裡"}]}],"t":"moamo"}
+,"moamo%27":{"h":[{"d":[{"s":["`mo'ed~"],"f":"￹￺to dissolve in the mouth￻把食物塞滿口裡"}]}],"t":"moamo'"}
+,"moco%27":{"h":[{"d":[{"s":["`padal~"],"f":"￹￺a wall￻牆壁"}]}],"t":"moco'"}
 ,"modac":{"h":[{"d":[{"f":"￹￺to peel * skin of people￻脫皮，皮膚脫落"},{"f":"￹￺shed skin * as of a snake￻脫皮，如蛇"}]}],"t":"modac"}
-,"moho":{"h":[{"d":[{"l":["`roho~"],"f":"￹￺to stoop * crouch￻彎腰"}]}],"t":"moho"}
+,"moho":{"h":[{"d":[{"s":["`roho~"],"f":"￹￺to stoop * crouch￻彎腰"}]}],"t":"moho"}
 ,"mokel":{"h":[{"d":[{"f":"￹￺to eat fast * to gulp down￻狼吞虎嚥，吞食，吞飲"}]}],"t":"mokel"}
-,"mokmaw":{"h":[{"d":[{"l":["`tori~"],"f":"￹￺Desert Oak tree (from japanese)￻木麻黃，在海邊生長為防風林 (引自日語)"}]}],"t":"mokmaw"}
 ,"mokmok":{"h":[{"d":[{"f":"￹￺to stoop and crawl through a narrow space￻彎腰蠕行於矮窄的地方，蓋着棉被，布類或草堆匍匐而行"}]}],"t":"mokmok"}
-,"mokon":{"h":[{"d":[{"l":["`toktok~","`samokon~"],"f":"￹￺to pound￻搥打，搥擊"}]}],"t":"mokon"}
-,"mola%27":{"h":[{"d":[{"l":["`mora'~"],"f":"￹￺to be immature * unlearned * uneducated * childish * without experience￻不成熟的，幼稚的，沒有經驗的，未受教育的"}]}],"t":"mola'"}
+,"mokon":{"h":[{"d":[{"s":["`toktok~","`samokon~"],"f":"￹￺to pound￻搥打，搥擊"}]}],"t":"mokon"}
+,"mokumaw":{"h":[{"d":[{"s":["`tori~"],"f":"￹￺Desert Oak tree (from japanese)￻木麻黃，在海邊生長為防風林 (引自日語)"}]}],"t":"mokumaw"}
+,"mola%27":{"h":[{"d":[{"s":["`mora'~"],"f":"￹￺to be immature * unlearned * uneducated * childish * without experience￻不成熟的，幼稚的，沒有經驗的，未受教育的"}]}],"t":"mola'"}
 ,"molamol":{"h":[{"d":[{"f":"￹￺to suck something hard until it is dissolved and swallowed￻食物在口裡用舌頭使其溶解"}]}],"t":"molamol"}
-,"molcep":{"h":[{"d":[{"f":"￹￺to penetrate deeply as a nail or a stake fastened securely￻滲透到深部，如打釘或打樁以便擊牢其上"}]}],"t":"molcep"}
-,"moli":{"h":[{"d":[{"l":["`walin~"],"f":"￹￺to roll over so the other side is up￻翻動的，使底部朝上，滾動使下部面上"}]}],"t":"moli"}
+,"molecep":{"h":[{"d":[{"f":"￹￺to penetrate deeply as a nail or a stake fastened securely￻滲透到深部，如打釘或打樁以便擊牢其上"}]}],"t":"molecep"}
+,"moleneng":{"h":[{"d":[{"s":["`maleneng~","`leneng~"],"f":"￹￺to be sinking * of an object￻沉沒，沉下去"}]}],"t":"moleneng"}
+,"molengaw":{"h":[{"d":[{"s":["`malengaw~","`lengaw~"],"f":"￹￺the activity of growing￻發芽，萌芽"}]}],"t":"molengaw"}
+,"molesa%27":{"h":[{"d":[{"f":"￹￺to leak * to have a crack or hole through which liquid can pass￻龜裂使液體順流而下"}]}],"t":"molesa'"}
+,"moli":{"h":[{"d":[{"s":["`walin~"],"f":"￹￺to roll over so the other side is up￻翻動的，使底部朝上，滾動使下部面上"}]}],"t":"moli"}
 ,"moli%27":{"h":[{"d":[{"f":"￹￺to drool * drool￻吐奶 (嬰兒)"}]}],"t":"moli'"}
-,"molisaka":{"h":[{"d":[{"l":["`Molisaka~"],"f":"￹￺name of an Amis village (from Japanese)￻森榮阿美族部落 (引自日語)"}]}],"t":"molisaka"}
-,"molmol":{"h":[{"d":[{"f":"￹￺to chew without teeth￻咀嚼"},{"l":["`pa'pa~"],"f":"￹￺to fill mouth and mix with saliva before swallowing￻無牙吃食物，含在口裡細嚼慢嚥"}]}],"t":"molmol"}
-,"molneng":{"h":[{"d":[{"l":["`malneng~","`lneng~"],"f":"￹￺to be sinking * of an object￻沉沒，沉下去"}]}],"t":"molneng"}
-,"molngaw":{"h":[{"d":[{"l":["`malngaw~","`lngaw~"],"f":"￹￺the activity of growing￻發芽，萌芽"}]}],"t":"molngaw"}
-,"molsa%27":{"h":[{"d":[{"f":"￹￺to leak * to have a crack or hole through which liquid can pass￻龜裂使液體順流而下"}]}],"t":"molsa'"}
+,"molisaka":{"h":[{"d":[{"s":["`Molisaka~"],"f":"￹￺name of an Amis village (from Japanese)￻森榮阿美族部落 (引自日語)"}]}],"t":"molisaka"}
+,"molmol":{"h":[{"d":[{"f":"￹￺to chew without teeth￻咀嚼"},{"s":["`~^`~"],"f":"￹￺to fill mouth and mix with saliva before swallowing￻無牙吃食物，含在口裡細嚼慢嚥"}]}],"t":"molmol"}
 ,"momok":{"h":[{"d":[{"f":"￹￺to stoop and crawl through￻鑽進後，匍匐蠕行"},{"f":"￹￺Pamomok han nira ko fogoh nira i la'ed no tosor nira.￻He put his head between his kness."}]}],"t":"momok"}
-,"monanaw":{"h":[{"d":[{"l":["`mananaw~"],"f":"￹￺the act of washing￻洗的動作"}]}],"t":"monanaw"}
+,"monanaw":{"h":[{"d":[{"s":["`mananaw~"],"f":"￹￺the act of washing￻洗的動作"}]}],"t":"monanaw"}
 ,"monang":{"h":[{"d":[{"f":"￹￺to stir up liquid with one's hand￻把有黏性液體玩在手上"},{"f":"￹￺to rile up water￻把水攪混濁"}]}],"t":"monang"}
-,"monihar":{"h":[{"d":[{"l":["`sonihar~"],"f":"￹￺dawn * the early light of day￻黎明"}]}],"t":"monihar"}
-,"mono%27":{"h":[{"d":[{"l":["`poni'~"],"f":"￹￺for liquid to ooze out * as when food is rotting￻食物將要腐爛"}]}],"t":"mono'"}
-,"mora":{"h":[{"d":[{"l":["`mamora~"],"f":"￹￺[See mamora]￻[參閱 mamora]"}]}],"t":"mora"}
-,"mora%27ay":{"h":[{"d":[{"l":["`mola'ay~"],"f":"￹￺stupid * not mentally balanced￻愚蠢的，心智不健全的"}]}],"t":"mora'ay"}
+,"monihar":{"h":[{"d":[{"s":["`sonihar~"],"f":"￹￺dawn * the early light of day￻黎明"}]}],"t":"monihar"}
+,"mono%27":{"h":[{"d":[{"s":["`poni'~"],"f":"￹￺for liquid to ooze out * as when food is rotting￻食物將要腐爛"}]}],"t":"mono'"}
+,"mora":{"h":[{"d":[{"s":["`mamora~"],"f":"￹￺[See mamora]￻[參閱 mamora]"}]}],"t":"mora"}
+,"mora%27ay":{"h":[{"d":[{"s":["`mola'~`ay~"],"f":"￹￺stupid * not mentally balanced￻愚蠢的，心智不健全的"}]}],"t":"mora'ay"}
+,"morekoh":{"h":[{"d":[{"f":"￹￺to sit idle * referring to people or things￻沈思，坐着沒事"}]}],"t":"morekoh"}
+,"moretes":{"h":[{"d":[{"f":"￹￺to ooze body fluids from peeled skin￻從潰瘍的皮膚徐徐流出膿液狀"},{"f":"￹￺to split open from being too full * as a filled sack or a hose under heavy pressure￻漲滿而破裂流出來，如袋子太滿或在房子底下給予巨大的壓力"}]}],"t":"moretes"}
 ,"mori":{"h":[{"d":[{"f":"￹￺a seaweed which is edible * looks like fir needles and soft￻可吃的海藻(海草)狀如樅樹而柔軟"}]}],"t":"mori"}
 ,"mori%27":{"h":[{"d":[{"f":"￹￺the name of a kind of snail￻蝸牛"}]}],"t":"mori'"}
 ,"moric":{"h":[{"d":[{"f":"￹￺to rub in hands * as when removing the shell￻搓手"},{"f":"￹￺to knead￻揉混，揑拌"}]}],"t":"moric"}
-,"morkoh":{"h":[{"d":[{"f":"￹￺to sit idle * referring to people or things￻沈思，坐着沒事"}]}],"t":"morkoh"}
-,"moroho":{"h":[{"d":[{"l":["`roho~"],"f":"￹￺to bend * stoop over￻彎腰"}]}],"t":"moroho"}
-,"morok":{"h":[{"d":[{"f":"￹￺to advance upon as in war￻緊迫釘人 (盯) 硬擠"},{"l":["`co'co~"],"f":"￹￺co'co. to force through a crowd to get to a goal￻催逼羣衆往同一方向"},{"f":"￹￺to dig deeply underneath￻挖到底部"}]}],"t":"morok"}
-,"moronos":{"h":[{"d":[{"l":["`Moronos~"],"f":"￹￺name of an Amis village￻長濱鄉阿美族永福部落名"}]}],"t":"moronos"}
-,"mortes":{"h":[{"d":[{"f":"￹￺to ooze body fluids from peeled skin￻從潰瘍的皮膚徐徐流出膿液狀"},{"f":"￹￺to split open from being too full * as a filled sack or a hose under heavy pressure￻漲滿而破裂流出來，如袋子太滿或在房子底下給予巨大的壓力"}]}],"t":"mortes"}
-,"mosingaw":{"h":[{"d":[{"l":["`fodingaw~"],"f":"￹￺pale * gray color of a face￻臉色蒼白"}]}],"t":"mosingaw"}
+,"moroho":{"h":[{"d":[{"s":["`roho~"],"f":"￹￺to bend * stoop over￻彎腰"}]}],"t":"moroho"}
+,"morok":{"h":[{"d":[{"f":"￹￺to advance upon as in war￻緊迫釘人 (盯) 硬擠"},{"s":["`co~^`co~"],"f":"￹￺co^co. to force through a crowd to get to a goal￻催逼羣衆往同一方向"},{"f":"￹￺to dig deeply underneath￻挖到底部"}]}],"t":"morok"}
+,"moronos":{"h":[{"d":[{"s":["`Moronos~"],"f":"￹￺name of an Amis village￻長濱鄉阿美族永福部落名"}]}],"t":"moronos"}
+,"mosingaw":{"h":[{"d":[{"s":["`fodingaw~"],"f":"￹￺pale * gray color of a face￻臉色蒼白"}]}],"t":"mosingaw"}
 ,"moso%27":{"h":[{"d":[{"f":"￹￺to drip * as unwrung clothes￻滴水，如未絞乾的衣服"},{"f":"￹￺to ooze￻徐徐流出，慢慢流出"}]}],"t":"moso'"}
-,"mowa":{"h":[{"d":[{"l":["`imowa~"],"e":["￹`hana~ `a~ `mowa~￺rosella plant￻麻花"],"f":"￹￺a plant from which rope is made￻麻，可製麻繩"}]}],"t":"mowa"}
+,"mowa":{"h":[{"d":[{"s":["`imowa~"],"e":["￹`hana~ `a~ `mowa~￺rosella plant￻麻花"],"f":"￹￺a plant from which rope is made￻麻，可製麻繩"}]}],"t":"mowa"}
 ,"mowak":{"h":[{"d":[{"f":"￹￺to break through the ground and come into view * to erupt￻從泥土中湧出，噴出"}]}],"t":"mowak"}
-,"mrak":{"h":[{"d":[{"f":"￹￺to drop in single drops￻疏疏落落的水滴或雨滴"}]}],"t":"mrak"}
-,"mras":{"h":[{"d":[{"l":["`'amlas~"]},{"f":"￹￺to flirt or arouse the opposite sex in an unwholesome way * expressed in unwholesome speech * looks * actions￻對異性輕浮不莊重的態度；表現輕浮的言語，模樣，行為等"}]}],"t":"mras"}
-,"mris":{"h":[{"d":[{"l":["`pamotek~"]},{"f":"￹￺to stare at￻瞪，注視"}]}],"t":"mris"}
-,"mro":{"h":[{"d":[{"f":"￹￺to swallow whole without chewing￻吞食，未經咀嚼即吞食物"}]}],"t":"mro"}
 }

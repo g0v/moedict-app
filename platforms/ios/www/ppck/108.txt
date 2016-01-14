@@ -1,338 +1,338 @@
-{"la%27caan":{"h":[{"d":[{"l":["`lacaan~"],"e":["￹`mala'caananay~ `ko~ `adada~￺illness is chronic￻久病不癒，慣性疾病，病的很重"],"f":"￹￺chronic illness, incapacitating the patient causing emaciation￻不健康，身體一直不適"}]}],"t":"la'caan"}
-,"la%27ed":{"h":[{"d":[{"e":["￹`Hakowa~ `ko~ `nika~ `lala'ed~ `no~ `loma'~ `ita~?￺How far is it between our homes?￻我們家距離有多遠?"],"f":"￹￺space in between￻距離，間隔"}]}],"t":"la'ed"}
+{"la%27caan":{"h":[{"d":[{"s":["`laecaan~"],"e":["￹`mala~`'ca~`ananay~ `ko~ `adada~￺illness is chronic￻久病不癒，慣性疾病，病的很重"],"f":"￹￺chronic illness, incapacitating the patient causing emaciation￻不健康，身體一直不適"}]}],"t":"la'caan"}
+,"la%27ed":{"h":[{"d":[{"e":["￹`Hakowa~ `ko~ `nika~ `la~`la'ed~ `no~ `loma'~ `ita~?￺How far is it between our homes?￻我們家距離有多遠?"],"f":"￹￺space in between￻距離，間隔"}]}],"t":"la'ed"}
+,"la%27eto":{"h":[{"d":[{"f":"￹￺to have no breath * to be dead￻斷氣，死亡"}]}],"t":"la'eto"}
 ,"la%27il":{"h":[{"d":[{"f":"￹￺a vine￻藤"}]}],"t":"la'il"}
-,"la%27is":{"h":[{"d":[{"l":["`lala'is~"],"f":"￹￺to throw a distance * to be thrown a distance￻投，擲，拋；投擲的距離"}]}],"t":"la'is"}
-,"la%27no":{"h":[{"d":[{"e":["￹`i~ `kala'no~￺place below￻在下面，在下方","￹`ila'noay~ / `ikala'noay~￺object below￻在下面的"],"f":"￹￺below * at a lower elevation than the point of reference￻下面，底下"}]}],"t":"la'no"}
-,"la%27om":{"h":[{"d":[{"e":["￹`Mala'om~ `ko~ `payso~ `ako~.￺My money was wasted.￻我的錢被浪費 (濫用)","￹`Aka~ `pila'om~ `to~ `nanom~.￺Don't waste water.￻不要浪費水"],"f":"￹￺to waste * be wasteful￻浪費，荒廢"}]}],"t":"la'om"}
-,"la%27oteng":{"h":[{"d":[{"e":["￹`Mala'otengto~ `ko~ `tireng~ `nira~￺He is drenched￻他全身溼透"],"f":"￹￺to drench￻濕透，浸透"}]}],"t":"la'oteng"}
-,"la%27pa":{"h":[{"d":[{"f":"￹￺trumpet * horn (from Japanese)￻喇叭，號角 (引自日語)"}]}],"t":"la'pa"}
-,"la%27to":{"h":[{"d":[{"f":"￹￺to have no breath * to be dead￻斷氣，死亡"}]}],"t":"la'to"}
-,"lacaan":{"h":[{"d":[{"l":["`la'caan~"],"e":["￹`Malacaan~ `cingra~.￺He has a chronic illness.￻他患慢性疾病"],"f":"￹￺a chronic illness.￻久病不癒的病，痼疾"}]}],"t":"lacaan"}
+,"la%27is":{"h":[{"d":[{"s":["`lala'is~"],"f":"￹￺to throw a distance * to be thrown a distance￻投，擲，拋；投擲的距離"}]}],"t":"la'is"}
+,"la%27om":{"h":[{"d":[{"e":["￹`'om~ `ko~ `payso~ `ako~.￺My money was wasted.￻我的錢被浪費 (濫用)","￹`Aka~ `pi~`la'om~ `to~ `nanom~.￺Don't waste water.￻不要浪費水"],"f":"￹￺to waste * be wasteful￻浪費，荒廢"}]}],"t":"la'om"}
+,"la%27oteng":{"h":[{"d":[{"e":["￹`Mala~`'oteng~ `to~ `ko~ `tireng~ `nira~￺He is drenched￻他全身溼透"],"f":"￹￺to drench￻濕透，浸透"}]}],"t":"la'oteng"}
+,"la%5Epa":{"h":[{"d":[{"f":"￹￺trumpet * horn (from Japanese)￻喇叭，號角 (引自日語)"}]}],"t":"la^pa"}
 ,"lacal":{"h":[{"d":[{"f":"￹￺to cross over a body of water or a stream￻越過，跨過 (水流或小溪)"},{"f":"￹￺to moon lite * have a side job￻兼職，兼差"}]}],"t":"lacal"}
-,"laccay":{"h":[{"d":[{"f":"￹￺united * of one accord￻一致，合作，統一"}]}],"t":"laccay"}
+,"lacecay":{"h":[{"d":[{"f":"￹￺united * of one accord￻一致，合作，統一"}]}],"t":"lacecay"}
 ,"laci%27":{"h":[{"d":[{"f":"￹￺true (Northern dialect)￻真實，誠實 (北方方言)"}]}],"t":"laci'"}
-,"lacik":{"h":[{"d":[{"l":["`losok~"],"f":"￹￺candle (from Amoy dialect)￻蠟燭 (引自閩南語)"}]}],"t":"lacik"}
-,"lacinowas":{"h":[{"d":[{"l":["`licinowas~"],"f":"￹￺to separate * to go separate ways￻分開，分離，分歧，分手"}]}],"t":"lacinowas"}
+,"lacik":{"h":[{"d":[{"s":["`losok~"],"f":"￹￺candle (from Amoy dialect)￻蠟燭 (引自閩南語)"}]}],"t":"lacik"}
+,"lacinowas":{"h":[{"d":[{"s":["`licinowas~"],"f":"￹￺to separate * to go separate ways￻分開，分離，分歧，分手"}]}],"t":"lacinowas"}
 ,"laciw":{"h":[{"d":[{"f":"￹￺radio (from Japanese)￻收音機 (引自日語)"}]}],"t":"laciw"}
-,"laco":{"h":[{"d":[{"l":["`timra~"]}]}],"t":"laco"}
-,"lada%27":{"h":[{"d":[{"l":["`rada'~","`milada'~","`palada'~"],"f":"￹￺something to be shared or taken￻分配，分享"}]}],"t":"lada'"}
-,"ladiw":{"h":[{"d":[{"l":["`radiw~"],"e":["￹`Lomadiw~ `kita~.￺Let's sing.￻我們來唱歌","￹`Ladiw~ `sa~ `cangra~ `tahadadaya~.￺They kept singing till evening.￻我們唱到晚上"],"f":"￹￺song * singing * music￻歌，唱歌，音樂"}]}],"t":"ladiw"}
-,"ladom":{"h":[{"d":[{"l":["`radom~"],"f":"￹￺to carry water from a well or other water supply to the home￻提水，挑水，汲水"}]}],"t":"ladom"}
-,"lafac":{"h":[{"d":[{"l":["`rafac~"],"e":["￹`Palafacen~.￺Let the animal go free.￻放走，釋放，把動物放生"],"f":"￹￺(an animal) being loose and free to roam￻(動物) 飛掉或溜掉"}]}],"t":"lafac"}
-,"lafades":{"h":[{"d":[{"l":["`pades~"],"f":"￹￺trouble * to be tested * to have trials lasting for a long time￻困難，苦難，痛苦，試煉，受折磨"}]}],"t":"lafades"}
-,"lafang":{"h":[{"d":[{"e":["￹`sapalafang~ `a~ `tahka'~￺provision of a meal for guests￻為宴客預備的佳餚"],"f":"￹￺guests￻客人"},{"f":"￹￺patrons￻顧客"},{"f":"￹￺strangers * outsiders￻異鄉人，陌生人"},{"l":["`kalilafangan~"],"e":["￹`Palafang~ `kita~.￺Let's go on a trip.￻我們去做客 (旅行)"],"f":"￹￺visitors￻訪客"}]}],"t":"lafang"}
+,"laco":{"h":[{"d":[{"s":["`timra~"],"f":"￹￺a bullet * bullets￻子彈"}]}],"t":"laco"}
+,"lada%27":{"h":[{"d":[{"s":["`rada'~","`milada'~","`palada'~"],"f":"￹￺something to be shared or taken￻分配，分享"}]}],"t":"lada'"}
+,"ladiw":{"h":[{"d":[{"s":["`radiw~"],"e":["￹`Lomadiw~ `kita~.￺Let's sing.￻我們來唱歌","￹`Lomadiw~ `~ `cangra~ `tahadadaya~.￺They kept singing till evening.￻我們唱到晚上"],"f":"￹￺song * singing * music￻歌，唱歌，音樂"}]}],"t":"ladiw"}
+,"ladom":{"h":[{"d":[{"s":["`radom~"],"f":"￹￺to carry water from a well or other water supply to the home￻提水，挑水，汲水"}]}],"t":"ladom"}
+,"laecaan":{"h":[{"d":[{"s":["`la'caan~"],"e":["￹`ecaan~ `cingra~.￺He has a chronic illness.￻他患慢性疾病"],"f":"￹￺a chronic illness.￻久病不癒的病，痼疾"}]}],"t":"laecaan"}
+,"laeno":{"h":[{"d":[{"e":["￹`i~ `ka~`laeno~￺place below￻在下面，在下方","￹`ilaenoay~ / `ikalaenoay~￺object below￻在下面的"],"f":"￹￺below * at a lower elevation than the point of reference￻下面，底下"}]}],"t":"laeno"}
+,"lafac":{"h":[{"d":[{"e":["￹`facen~ `koya~ `kolong~ `ta~ `ira~ `a~ `ma~`kilim~ `nira~ `ko~ `kakaenen~.￺Let the water buffalo roam so he can find food.￻把牛放掉好讓牛能找到草吃"],"f":"￹￺free to roam * referring to an animal loose￻自由自在，自由徜徉，指放走回歸於自然"},{"e":["￹`facen~.￺Let the animal go free.￻放走，釋放，把動物放生"],"f":"￹￺(an animal) being loose and free to roam￻(動物) 飛掉或溜掉"}]}],"t":"lafac"}
+,"lafades":{"h":[{"d":[{"s":["`pades~"],"f":"￹￺trouble * to be tested * to have trials lasting for a long time￻困難，苦難，痛苦，試煉，受折磨"}]}],"t":"lafades"}
+,"lafang":{"h":[{"d":[{"e":["￹`sapa~`lafang~ `a~ `taheka~^￺provision of a meal for guests￻為宴客預備的佳餚"],"f":"￹￺guests￻客人"},{"f":"￹￺patrons￻顧客"},{"f":"￹￺strangers * outsiders￻異鄉人，陌生人"},{"s":["`kalilafangan~"],"e":["￹`fang~ `kita~.￺Let's go on a trip.￻我們去做客 (旅行)"],"f":"￹￺visitors￻訪客"}]}],"t":"lafang"}
 ,"lafay":{"h":[{"d":[{"f":"￹￺an earthen vessel for storing vegerabes * carried on one's head to the fields￻陶器菜盤；到田裡頂在頭上的容器"}]}],"t":"lafay"}
-,"lafel":{"h":[{"d":[{"e":["￹`Malafelay~ `ko~ `siri~ `niyam~.￺Our sheep are loose / not penned up.￻我們的羊跑掉了"],"f":"￹￺to let run loose * roam￻落掉，溜掉，流走"}]}],"t":"lafel"}
-,"lafi":{"h":[{"d":[{"l":["`misakalafi~","`kalafian~"],"e":["￹`pisakalafian~ `ko~ `cidal~￺late afternoon￻傍晚","￹`Malafi~ `kita~.￺Let's eat dinner.￻我們一起吃晚餐","￹`palafi~ `to~ `wawa~￺give the child supper￻給孩子吃晚餐"],"f":"￹￺dinner * the evening meal￻晚餐"}]}],"t":"lafi"}
-,"lafii":{"h":[{"d":[{"e":["￹`misalafii~ `a~ `matayal~￺to work through the night￻趕夜工 (熬夜)","￹`Salafii~ `sa~ `cingra~ `a~ `minokay~.￺He traveled home in the middle of the night.￻他徹夜回家","￹`O~ `lafii~ `ko~ `sakatahira~ `nira~ `i~ `loma'~.￺He arrived home at midnight.￻他半夜抵達家"],"f":"￹￺the middle of the night * midnight￻午夜，深夜，子夜，半夜"}]}],"t":"lafii"}
-,"lafin":{"h":[{"d":[{"e":["￹`Papilafinen~ `kako~.￺Let me stay (here) .￻請讓我過一夜","￹`Malafin~ `cingra~ `i~ `omah~.￺He stayed overnight in the field.￻他在田裡 過夜"],"f":"￹￺to stay for a short period overnight or several nights￻過夜(外宿)"}]}],"t":"lafin"}
-,"lafir":{"h":[{"d":[{"l":["`rafir~","`sikal~"],"f":"￹￺leather￻皮革，皮製品"}]}],"t":"lafir"}
-,"lafiwfiway":{"h":[{"d":[{"l":["`faliwfiw~","`farsi'~"]},{"f":"￹￺a reed-plant that grows in river beds, Woody Ramie (Boehmeria densiflora)￻蘆葦，木葶麻"},{"l":["`hingliw~"],"f":"￹￺Leucoskye quadrinervia￻四脈苧麻"}]}],"t":"lafiwfiway"}
-,"lafo":{"h":[{"d":[{"e":["￹`O~ `palafoay~ `ci~ `satan~.￺Satan brings trouble and calamity on people.￻撒旦是邪惡的，撒旦帶來惡運給人類","￹`Ma'odang~ `cingra~ `saka~ `ira~ `lo~ `lafo~ `no~ `loma'~.￺He committed adultery, so the home has a stigma (or trouble) .￻他犯姦淫，因此導致家中的恥辱憂慮"],"f":"￹￺trouble * calamity * stigma as a result of breaking taboo￻憂慮，不幸，恥辱，瑕疵，冒犯禁忌而遭禍"}]}],"t":"lafo"}
-,"lafong":{"h":[{"d":[{"e":["￹`milafong~ `to~ `panay~￺to cover rice with dirt * plant￻把稻穀蓋起來"],"f":"￹￺to cover something with dirt or rubbish or grass so as to hide * as when burying￻覆蓋，掩埋，如埋葬"}]}],"t":"lafong"}
-,"lafot":{"h":[{"d":[{"e":["￹`malafot~ `ko~ `sla'~￺breath is broken = (he) died￻斷了氣，(他)死了"],"f":"￹￺to break in two * as string￻拉斷線或帶子"}]}],"t":"lafot"}
-,"laha%27":{"h":[{"d":[{"e":["￹`tanolaha'~ `sa~￺to scream￻尖叫"],"f":"￹￺loud rasping dissonant sound of the voice￻大聲喊叫, 吼叫"}]}],"t":"laha'"}
-,"lahad":{"h":[{"d":[{"l":["`palahaden~"],"e":["￹`Lomahadto~ `koya~ `wawa~.￺That child has grown.￻那孩子長大了"],"f":"￹￺growth * referring to the physical growth of living things￻長大，生長"}]}],"t":"lahad"}
-,"lahat":{"h":[{"d":[{"f":"￹￺to be loosely woven￻空隙大 (如網或籃子編織得不密)"},{"l":["`malahat~"],"f":"￹￺to have spaces between for things to slip through￻二者間之空隙"}]}],"t":"lahat"}
-,"lahci":{"h":[{"d":[{"f":"￹￺to complete * finish￻完成，完全"},{"l":["`kalahcian~"],"e":["￹`Malahcito~ `ko~ `sowal~ `nira~.￺His words are fulfilled / have come true.￻他說的話應驗了","￹`Lahceien~ `ko~ `tayal~ `iso~.￺Finish your work.￻完成你的工作"],"f":"￹￺to come to pass￻成全應允"}]}],"t":"lahci"}
-,"lahdaw":{"h":[{"d":[{"l":["`mapalahdawto~"],"e":["￹`Palahdawento~ `ko~ `ifaloco'ay~ `iso~.￺Put it out of your heart.￻把你心中的……挪去，把它忘了吧！","￹`Malahdawto~ `ko~ `roray~ `no~ `faloco'~ `ako~.￺The burden of my heart is gone.￻我心中的重擔消除了"],"f":"￹￺to disappear * pass away * cease to exist￻消失，不翼而飛，逝去"}]}],"t":"lahdaw"}
-,"lahod":{"h":[{"d":[{"l":["`cilahoday~"],"f":"￹￺steam * vapor￻蒸氣"}]}],"t":"lahod"}
-,"lahok":{"h":[{"d":[{"l":["`misakalahok~","`sakalahok~","`kalahokan~"],"e":["￹`Malahok~ `cangra~.￺They are eating lunch.￻他們正在吃午餐","￹`hrek~ `no~ `lahok~￺afternoon￻下午","￹`i'ayaw~ `no~ `lahok~￺morning￻上午，早上"],"f":"￹￺the noon meal * lunch￻午餐"}]}],"t":"lahok"}
-,"lahoper":{"h":[{"d":[{"l":["`fonar~"],"f":"￹￺to disintegrate and become like powder￻崩潰，分解，分散有如粉末"}]}],"t":"lahoper"}
-,"lakad":{"h":[{"d":[{"l":["`pinahtec~"],"f":"￹￺the pulp left after extracting juice or oil * as sugar cane or peanuts￻渣滓， 殘渣，殘留物；甘蔗渣"}]}],"t":"lakad"}
+,"lafel":{"h":[{"d":[{"e":["￹`Mala~`felay~ `ko~ `siri~ `niyam~.￺Our sheep are loose / not penned up.￻我們的羊跑掉了"],"f":"￹￺to let run loose * roam￻落掉，溜掉，流走"}]}],"t":"lafel"}
+,"lafi":{"h":[{"d":[{"s":["`misakalafi~","`kalafian~"],"e":["￹`sakalafian~ `ko~ `cidal~￺late afternoon￻傍晚","￹`fi~ `kita~.￺Let's eat dinner.￻我們一起吃晚餐","￹`paka~`lafi~ `to~ `wawa~￺give the child supper￻給孩子吃晚餐"],"f":"￹￺dinner * the evening meal￻晚餐"}]}],"t":"lafi"}
+,"lafii":{"h":[{"d":[{"e":["￹`misa~`lafii~ `a~ `ma~`tayal~￺to work through the night￻趕夜工 (熬夜)","￹`Sa~`lafii~ `~ `cingra~ `a~ `mi~`nokay~.￺He traveled home in the middle of the night.￻他徹夜回家","￹`O~ `lafii~ `ko~ `saka~`tahira~ `nira~ `i~ `loma'~.￺He arrived home at midnight.￻他半夜抵達家"],"f":"￹￺the middle of the night * midnight￻午夜，深夜，子夜，半夜"}]}],"t":"lafii"}
+,"lafin":{"h":[{"d":[{"e":["￹`Papi~`lafin~`en~ `kako~.￺Let me stay (here) .￻請讓我過一夜","￹`fin~ `cingra~ `i~ `omah~.￺He stayed overnight in the field.￻他在田裡過夜"],"f":"￹￺to stay for a short period overnight or several nights￻過夜(外宿)"}]}],"t":"lafin"}
+,"lafir":{"h":[{"d":[{"s":["`rafir~","`sikal~"],"f":"￹￺leather￻皮革，皮製品"}]}],"t":"lafir"}
+,"lafiwfiway":{"h":[{"d":[{"s":["`faliwfiw~","`farsi'~"],"f":"￹￺a reed-plant that grows in river beds, Woody Ramie (Boehmeria densiflora)￻蘆葦，木葶麻"},{"s":["`hingliw~"],"f":"￹￺Leucoskye quadrinervia￻四脈苧麻"}]}],"t":"lafiwfiway"}
+,"laflaf":{"h":[{"d":[{"e":["￹`Sa~`laflaf~ `~ `ko~ `faloco'~ `ako~ `a~ `ma~`keter~.￺I become inflamed with anger.￻我氣的怒火上昇","￹`flaf~ `ko~ `faloco'~ `nangra~ `a~ `pasayra~ `i~ `ma~`'otit~`ay~ `a~ `demak~.￺Their hearts were inflamed toward perversion.￻他們沈迷在放縱情感和慾望上"],"f":"￹￺to be inflamed with￻火燄熊熊狀"}]}],"t":"laflaf"}
+,"lafo":{"h":[{"d":[{"e":["￹`O~ `foay~ `~ `satan~.￺Satan brings trouble and calamity on people.￻撒旦是邪惡的，撒旦帶來惡運給人類","￹`Ma~`'odang~ `cingra~ `saka~ `ira~ `lo~ `lafo~ `no~ `loma'~.￺He committed adultery, so the home has a stigma (or trouble) .￻他犯姦淫，因此導致家中的恥辱憂慮"],"f":"￹￺trouble * calamity * stigma as a result of breaking taboo￻憂慮，不幸，恥辱，瑕疵，冒犯禁忌而遭禍"}]}],"t":"lafo"}
+,"lafong":{"h":[{"d":[{"e":["￹`mi~`lafong~ `to~ `panay~￺to cover rice with dirt * plant￻把稻穀蓋起來"],"f":"￹￺to cover something with dirt or rubbish or grass so as to hide * as when burying￻覆蓋，掩埋，如埋葬"}]}],"t":"lafong"}
+,"lafot":{"h":[{"d":[{"e":["￹`fot~ `ko~ `sela'~￺breath is broken = (he) died￻斷了氣，(他)死了"],"f":"￹￺to break in two * as string￻拉斷線或帶子"}]}],"t":"lafot"}
+,"laha%27":{"h":[{"d":[{"e":["￹`tanolaha'~ `~￺to scream￻尖叫"],"f":"￹￺loud rasping dissonant sound of the voice￻大聲喊叫, 吼叫"}]}],"t":"laha'"}
+,"lahad":{"h":[{"d":[{"s":["`palahaden~"],"e":["￹`Lomahad~ `to~ `koya~ `wawa~.￺That child has grown.￻那孩子長大了"],"f":"￹￺growth * referring to the physical growth of living things￻長大，生長"}]}],"t":"lahad"}
+,"lahat":{"h":[{"d":[{"f":"￹￺to be loosely woven￻空隙大 (如網或籃子編織得不密)"},{"s":["`hat~"],"f":"￹￺to have spaces between for things to slip through￻二者間之空隙"}]}],"t":"lahat"}
+,"laheci":{"h":[{"d":[{"f":"￹￺to complete * finish￻完成，完全"},{"s":["`kalahecian~"],"e":["￹`Mala~`heci~ `to~ `ko~ `sowal~ `nira~.￺His words are fulfilled / have come true.￻他說的話應驗了","￹`Lahceien~ `ko~ `tayal~ `iso~.￺Finish your work.￻完成你的工作"],"f":"￹￺to come to pass￻成全應允"}]}],"t":"laheci"}
+,"lahedaw":{"h":[{"d":[{"s":["`palahedawto~"],"e":["￹`hedawen~ `to~ `ko~ `i~ `faloco'~`ay~ `iso~.￺Put it out of your heart.￻把你心中的……挪去，把它忘了吧！","￹`hedaw~ `to~ `ko~ `roray~ `no~ `faloco'~ `ako~.￺The burden of my heart is gone.￻我心中的重擔消除了","￹`palahedaw~ `to~￺cause to disappear (as by burning)￻使之消失"],"f":"￹￺to disappear * pass away * cease to exist￻消失，不翼而飛，逝去"}]}],"t":"lahedaw"}
+,"lahod":{"h":[{"d":[{"s":["`cilahoday~"],"e":["￹`Ci~`lahod~`ay~ `ko~ `fali~.￺The wind is vaporous / humid.￻風有熱氣"],"f":"￹￺steam * vapor￻蒸氣"}]}],"t":"lahod"}
+,"lahok":{"h":[{"d":[{"s":["`misakalahok~","`sakalahok~","`kalahokan~"],"e":["￹`hok~ `cangra~.￺They are eating lunch.￻他們正在吃午餐","￹`herek~ `no~ `lahok~￺afternoon￻下午","￹`i'ayaw~ `no~ `lahok~￺morning￻上午，早上"],"f":"￹￺the noon meal * lunch￻午餐"}]}],"t":"lahok"}
+,"lahoper":{"h":[{"d":[{"s":["`fonar~"],"f":"￹￺to disintegrate and become like powder￻崩潰，分解，分散有如粉末"}]}],"t":"lahoper"}
 ,"lakaw":{"h":[{"d":[{"f":"￹￺rubbish * trash * debris￻垃圾，廢物，碎屑，瓦礫堆"}]}],"t":"lakaw"}
-,"lakec":{"h":[{"d":[{"l":["`palakec~","`salakec~"],"f":"￹￺to wade across water￻涉水，渡河，過河"}]}],"t":"lakec"}
+,"lakec":{"h":[{"d":[{"s":["`palakec~","`salakec~"],"f":"￹￺to wade across water￻涉水，渡河，過河"}]}],"t":"lakec"}
+,"lakelak":{"h":[{"d":[{"s":["`milakelak~"],"e":["￹`kelak~ `ko~ `tilid~.￺The papers are scattered.￻書本散亂","￹`kelak~ `ko~ `harateng~.￺Thoughts are scattered.￻思緒分雜不集中","￹`kelak~ `to~ `sowal~￺to spread news all over the country side￻散播謠言，傳遞消息"],"f":"￹￺to scatter * referring to things but not living creatures￻四散，分散，雜亂無章"}]}],"t":"lakelak"}
+,"lakelal":{"h":[{"d":[{"f":"￹￺a river bed￻河床"}]}],"t":"lakelal"}
+,"lakelaw":{"h":[{"d":[{"s":["`milakelaw~","`palakelaw~"],"f":"￹￺lantern￻燈籠, 手電筒，油燈"}]}],"t":"lakelaw"}
 ,"lakiw":{"h":[{"d":[{"f":"￹￺red dried garlic roots (from Japanese)￻紅蔥，顥 (引自日語)"}]}],"t":"lakiw"}
-,"laklak":{"h":[{"d":[{"l":["`milaklak~"],"e":["￹`Malaklak~ `ko~ `tilid~.￺The papers are scattered.￻書本散亂","￹`Malaklak~ `ko~ `harateng~.￺Thoughts are scattered.￻思緒分雜不集中","￹`palaklak~ `to~ `sowal~￺to spread news all over the country side￻散播謠言，傳遞消息"],"f":"￹￺to scatter * referring to things but not living creatures￻四散，分散，雜亂無章"}]}],"t":"laklak"}
-,"laklal":{"h":[{"d":[{"f":"￹￺a river bed￻河床"}]}],"t":"laklal"}
-,"laklaw":{"h":[{"d":[{"l":["`milaklaw~","`palaklaw~"],"f":"￹￺lantern￻燈籠, 手電筒，油燈"}]}],"t":"laklaw"}
-,"lakota":{"h":[{"d":[{"f":"￹￺camel (from Japanese)￻駱駝 (引自日語)"},{"f":"￹￺a small motorized vehicle￻耕耘機"}]}],"t":"lakota"}
-,"lakowit":{"h":[{"d":[{"l":["`salakowit~"],"e":["￹`Malakowit~ `nira~ `ko~ `lotok~.￺He has experienced / is able to cross the mountain.￻他越過了一座山"],"f":"￹￺to transverse * go over the top, as to cross over a mountain￻橫越山嶺，翻山越嶺"}]}],"t":"lakowit"}
-,"lala%27":{"h":[{"d":[{"e":["￹`Malala'~ / `mafolad~ `cingra~.￺She is menstruating.￻她正值月經期"],"f":"￹￺to menstruate * have monthly period￻月經，週期，月事，月 信"}]}],"t":"lala'"}
+,"lakota":{"h":[{"d":[{"f":"￹￺camel (from Japanese)￻駱駝 (引自日語)"},{"s":["`tolakota~"],"f":"￹￺a small motorized vehicle￻耕耘機"}]}],"t":"lakota"}
+,"lakowit":{"h":[{"d":[{"s":["`salakowit~"],"e":["￹`Mala~`kowit~ `nira~ `ko~ `lotok~.￺He has experienced / is able to cross the mountain.￻他越過了一座山"],"f":"￹￺to transverse * go over the top, as to cross over a mountain￻橫越山嶺，翻山越嶺"}]}],"t":"lakowit"}
+,"lala%27":{"h":[{"d":[{"e":["￹`la'~ / `ma~`folad~ `cingra~.￺She is menstruating.￻她正值月經期"],"f":"￹￺to menstruate * have monthly period￻月經，週期，月事，月 信"}]}],"t":"lala'"}
 ,"lala%27em":{"h":[{"d":[{"f":"￹￺the roof of the mouth￻口腔之上顎"},{"e":["￹`lala'em~ `a~ `ngiha'~￺fricative sound￻摩擦聲"],"f":"￹￺space * crack (Hualien dialect)￻空間，空隙，破裂 (花蓮語)"}]}],"t":"lala'em"}
-,"lala%27is":{"h":[{"d":[{"f":"￹￺to shoot back and forth from a distance as in war￻在戰場陣線鬥爭"},{"l":["`la'is~"],"f":"￹￺to be enemies with one another￻敵人, 仇人"}]}],"t":"lala'is"}
-,"lalad":{"h":[{"d":[{"e":["￹`Milalad~ `ko~ `tamorak~.￺The squash plant is growing and running shoots out.￻金瓜藤蔓延生長","￹`O~ `misalaladay~ `ko~ `adada~ `ako~.￺My pain shoots out from its origin.￻我的病痛突然放出使延長持續病的起源"],"f":"￹￺to spread * creep, as vines that spread out￻蔓延，爬行，如葡萄樹，常春藤蔓延"}]}],"t":"lalad"}
-,"lalal":{"h":[{"d":[{"l":["`rarar~"],"f":"￹￺a kind of hoe that is small and lightweight * formerly made of stone now no longer in existence￻小鋤頭，早期是用石片做的，現已不存在了"}]}],"t":"lalal"}
-,"lalan":{"h":[{"d":[{"f":"￹￺path * road * street * highway￻小徑，路，街道，公路"},{"f":"￹￺direction figuratively￻辦法，方法"},{"e":["￹`palalan~ `to~ `faloco'~￺to give direction to thinking￻尋一條可行之路，打開思路","￹`Cilalan~ `ko~ `faloco'~ `ako~.￺I know what direction to take. / how to do (it) .￻我自有辦法，我有脈絡可尋","￹`O~ `maan~ `ko~ `malo~ `lalan~ `ita~ `a~ `milahci~ `tonini~?￺How / what method do we use to accomplish this?￻我們用什麼方法完成此事"],"f":"￹￺means to do something￻辦法，手段"}]}],"t":"lalan"}
+,"lala%27is":{"h":[{"d":[{"f":"￹￺to shoot back and forth from a distance as in war￻在戰場陣線鬥爭"},{"s":["`la'is~"],"f":"￹￺to be enemies with one another￻敵人, 仇人"}]}],"t":"lala'is"}
+,"lalad":{"h":[{"d":[{"e":["￹`Mi~`lalad~ `ko~ `tamorak~.￺The squash plant is growing and running shoots out.￻金瓜藤蔓延生長","￹`O~ `misa~`lalad~`ay~ `ko~ `adada~ `ako~.￺My pain shoots out from its origin.￻我的病痛突然放出使延長持續病的起源"],"f":"￹￺to spread * creep, as vines that spread out￻蔓延，爬行，如葡萄樹，常春藤蔓延"}]}],"t":"lalad"}
+,"lalal":{"h":[{"d":[{"s":["`rarar~"],"f":"￹￺a kind of hoe that is small and lightweight * formerly made of stone now no longer in existence￻小鋤頭，早期是用石片做的，現已不存在了"}]}],"t":"lalal"}
+,"lalan":{"h":[{"d":[{"f":"￹￺path * road * street * highway￻小徑，路，街道，公路"},{"f":"￹￺direction figuratively￻辦法，方法"},{"e":["￹`lan~ `to~ `faloco'~￺to give direction to thinking￻尋一條可行之路，打開思路","￹`Ci~`lalan~ `ko~ `faloco'~ `ako~.￺I know what direction to take. / how to do (it) .￻我自有辦法，我有脈絡可尋","￹`O~ `maan~ `ko~ `malo~ `lalan~ `ita~ `a~ `milaheci~ `tonini~?￺How / what method do we use to accomplish this?￻我們用什麼方法完成此事"],"f":"￹￺means to do something￻辦法，手段"}]}],"t":"lalan"}
 ,"lalang":{"h":[{"d":[{"f":"￹￺to forbid * refuse permission￻拒絕，反對，不允許，禁止"}]}],"t":"lalang"}
-,"lalangaw":{"h":[{"d":[{"l":["`tangalaw~"],"f":"￹￺house fly￻蒼蠅"}]}],"t":"lalangaw"}
+,"lalangaw":{"h":[{"d":[{"s":["`tangal~`aw~"],"f":"￹￺house fly￻蒼蠅"}]}],"t":"lalangaw"}
 ,"lalango":{"h":[{"d":[{"f":"￹￺moss (the kind that grows where there is no one to walk on the path)￻苔，青苔 (是一種生長在沒有人走過的地方生長的植物)"}]}],"t":"lalango"}
-,"lalat":{"h":[{"d":[{"l":["`ditek~"],"f":"￹￺to measure with a measuring tape or with outstretched arms￻用尺測量，或屬臂丈量"}]}],"t":"lalat"}
-,"lalen":{"h":[{"d":[{"e":["￹`Palalenen~ `ko~ `dmak~.￺Treat everyone or everything the same (impartial treatment).￻平等相得，一視同仁","￹`Malalen~ `ko~ `dmak~ `nira~.￺There is no discrepancy in his actions.￻他的做法有矛盾"],"f":"￹￺the same, as in quality or ability or size￻一樣，如質或能力或形狀一樣"}]}],"t":"lalen"}
-,"lales":{"h":[{"d":[{"l":["`tales~"],"e":["￹`Malales~ `ko~ `po'ot~ `ako~.￺My knife is dull.￻我的刀不銳利"],"f":"￹￺to be dull * not sharp￻鈍刀，不利"}]}],"t":"lales"}
+,"lalat":{"h":[{"d":[{"s":["`ditek~"],"f":"￹￺to measure with a measuring tape or with outstretched arms￻用尺測量，或屬臂丈量"}]}],"t":"lalat"}
+,"laleko":{"h":[{"d":[{"s":["`faco~","`lalekoan~"],"f":"￹￺form * shape￻樣式，模式"}]}],"t":"laleko"}
+,"lalekoan":{"h":[{"d":[{"s":["`laleko~"],"f":"￹￺model * standard￻模式，規格"}]}],"t":"lalekoan"}
+,"lalen":{"h":[{"d":[{"e":["￹`lenen~ `ko~ `demak~.￺Treat everyone or everything the same (impartial treatment).￻平等相得，一視同仁","￹`len~ `ko~ `demak~ `nira~.￺There is no discrepancy in his actions.￻他的做法有矛盾"],"f":"￹￺the same, as in quality or ability or size￻一樣，如質或能力或形狀一樣"}]}],"t":"lalen"}
+,"lalengatan":{"h":[{"d":[{"s":["`lalengawan~","`lengat~"],"f":"￹￺the reason or cause of something￻出發點，原因，導火線"}]}],"t":"lalengatan"}
+,"lalengawan":{"h":[{"d":[{"s":["`lalengatan~"],"f":"￹￺the first of something * beginning￻緣由，始由，發端，起源"}]}],"t":"lalengawan"}
+,"lales":{"h":[{"d":[{"s":["`tales~"],"e":["￹`les~ `ko~ `po'ot~ `ako~.￺My knife is dull.￻我的刀不銳利"],"f":"￹￺to be dull * not sharp￻鈍刀，不利"}]}],"t":"lales"}
 ,"lalet":{"h":[{"d":[{"f":"￹￺same height, as the height of poles of a fence￻平均；高度一致，平等"}]}],"t":"lalet"}
-,"laletlet":{"h":[{"d":[{"l":["`lalen~","`lalet~"]},{"f":"￹￺the same * with reference to speed in running￻相同，不分高下，指在跑的速度"}]}],"t":"laletlet"}
+,"laletlet":{"h":[{"d":[{"s":["`lalen~","`lalet~"],"f":"￹￺the same * with reference to speed in running￻相同，不分高下，指在跑的速度"}]}],"t":"laletlet"}
 ,"lali%27":{"h":[{"d":[{"f":"￹￺clay used in making pottery * hard * not fertile￻指隨污濁的水流下沉澱後呈泥的土質 (污泥)"}]}],"t":"lali'"}
-,"lali%27elan":{"h":[{"d":[{"l":["`li'el~"],"f":"￹￺collar￻衣領，項圈"}]}],"t":"lali'elan"}
-,"lali%27op":{"h":[{"d":[{"l":["`pilali'opan~"],"f":"￹￺to wash one's face￻洗臉"}]}],"t":"lali'op"}
-,"lalidec":{"h":[{"d":[{"l":["`kakidec~"]},{"f":"￹￺Subcostate CrapeMyrtle￻九芎 (拘邢花)"},{"f":"￹￺Queen Crape Myrtle with pink blossoms￻大花柴"}]}],"t":"lalidec"}
-,"lalimaay":{"h":[{"d":[{"l":["`lima~"],"f":"￹￺five people￻五個人"}]}],"t":"lalimaay"}
+,"lali%27elan":{"h":[{"d":[{"s":["`li'el~"],"f":"￹￺collar￻衣領，項圈"}]}],"t":"lali'elan"}
+,"lali%27op":{"h":[{"d":[{"s":["`pilali'opan~"],"f":"￹￺to wash one's face￻洗臉"}]}],"t":"lali'op"}
+,"lalidec":{"h":[{"d":[{"f":"￹￺Subcostate CrapeMyrtle￻九芎 (拘邢花)"},{"s":["`kakidec~"],"f":"￹￺Queen Crape Myrtle with pink blossoms￻大花柴"}]}],"t":"lalidec"}
+,"lalimaay":{"h":[{"d":[{"s":["`lima~"],"f":"￹￺five people￻五個人"}]}],"t":"lalimaay"}
 ,"laling":{"h":[{"d":[{"e":["￹`Tanolaling~ `sato~ `kako~.￺I groaned with pain.￻我疼痛地呻吟著"],"f":"￹￺to moan * from pain or discomfort￻呻吟 (病時，呻吟之痛苦之聲)"}]}],"t":"laling"}
 ,"lalinik":{"h":[{"d":[{"f":"￹￺underneath * inside under￻在裏面，深處"}]}],"t":"lalinik"}
 ,"laliping":{"h":[{"d":[{"f":"￹￺the smallest of coins￻一分錢"}]}],"t":"laliping"}
 ,"lalisan":{"h":[{"d":[{"f":"￹￺fever￻發燒"},{"f":"￹￺the flu with aches and pains * fever * chills￻發燒，感冒，頭痛，身體感不適"}]}],"t":"lalisan"}
-,"laliw":{"h":[{"d":[{"f":"￹￺to leave behind￻離門，溜走"},{"l":["`pilaiwan~"],"f":"￹￺to desert * escape￻潛逃，逃脫"}]}],"t":"laliw"}
-,"lalko":{"h":[{"d":[{"l":["`faco~","`lalkoan~"],"f":"￹￺form * shape￻樣式，模式"}]}],"t":"lalko"}
-,"lalkoan":{"h":[{"d":[{"l":["`lalko~"],"f":"￹￺model * standard￻模式，規格"}]}],"t":"lalkoan"}
-,"lalngatan":{"h":[{"d":[{"l":["`lalngawan~","`lngat~"],"f":"￹￺the reason or cause of something￻出發點，原因，導火線"}]}],"t":"lalngatan"}
-,"lalngawan":{"h":[{"d":[{"l":["`lalngatan~"],"f":"￹￺the first of something * beginning￻緣由，始由，發端，起源"}]}],"t":"lalngawan"}
+,"laliw":{"h":[{"d":[{"f":"￹￺to leave behind￻離門，溜走"},{"s":["`laiwan~"],"f":"￹￺to desert * escape￻潛逃，逃脫"}]}],"t":"laliw"}
 ,"lalo":{"h":[{"d":[{"f":"￹￺to soak in water, as rice grain to soften for cooking￻漬水 (泡水) 煮糯米前先放入水中泡一段時間"}]}],"t":"lalo"}
 ,"lalok":{"h":[{"d":[{"f":"￹￺earnest * zealous * diligent￻認真，熱心，勤勞，孜孜不倦"}]}],"t":"lalok"}
-,"laloma%27":{"h":[{"d":[{"f":"￹￺inside * generic term for￻內部，裏面"},{"l":["`laloma'an~","`kasalaloma'an~"],"e":["￹`o~ `ilaloma'ay~ `a~ `maamaan~￺the things inside￻在裡面的東西","￹`Masalaloma'~ `no~ `pikowan~ `no~ `Kawas~ `kita~.￺We are inside God's rule / under His jurisdiction.￻我們在父神的管轄之下"],"f":"￹￺in (a room or the home)￻在 (房間或在家裡)"}]}],"t":"laloma'"}
-,"laloma%27an":{"h":[{"d":[{"l":["`laloma'~"],"f":"￹￺family (within a clan)￻家族，親戚，氏族"}]}],"t":"laloma'an"}
-,"lalopla%27":{"h":[{"d":[{"l":["`tahoper~"],"f":"￹￺an edible lichen￻可食之苔類地衣等"}]}],"t":"lalopla'"}
-,"lalosidan":{"h":[{"d":[{"l":["`losid~"],"f":"￹￺things * commodities￻日用品，物品"}]}],"t":"lalosidan"}
+,"laloma%27":{"h":[{"d":[{"f":"￹￺inside * generic term for￻內部，裏面"},{"s":["`laloma'an~","`kasalaloma'an~"],"e":["￹`o~ `ilaloma'ay~ `a~ `ma~`ama~`an~￺the things inside￻在裡面的東西","￹`salaloma'~ `no~ `pi~`kowan~ `no~ `was~ `kita~.￺We are inside God's rule / under His jurisdiction.￻我們在父神的管轄之下"],"f":"￹￺in (a room or the home)￻在 (房間或在家裡)"}]}],"t":"laloma'"}
+,"laloma%27an":{"h":[{"d":[{"s":["`laloma'~"],"f":"￹￺family (within a clan)￻家族，親戚，氏族"}]}],"t":"laloma'an"}
+,"lalopela%27":{"h":[{"d":[{"s":["`tahoper~"],"f":"￹￺an edible lichen￻可食之苔類地衣等"}]}],"t":"lalopela'"}
+,"lalosidan":{"h":[{"d":[{"s":["`losid~"],"f":"￹￺things * commodities￻日用品，物品"}]}],"t":"lalosidan"}
 ,"lama%27":{"h":[{"d":[{"f":"￹￺not acceptable looking * dirty from the viewer's perspective * as a child using his fingers to pick up food and eat￻看起來令人無法接受，從觀看的人看起來骯髒，如小孩用髒手抓取食物吃，汙染了整個食物"}]}],"t":"lama'"}
-,"lamal":{"h":[{"d":[{"l":["`namal~"],"f":"￹￺fire, generic term for￻火，火的總稱"}]}],"t":"lamal"}
+,"lamal":{"h":[{"d":[{"s":["`namal~"],"f":"￹￺fire, generic term for￻火，火的總稱"}]}],"t":"lamal"}
 ,"lamec":{"h":[{"d":[{"f":"￹￺to mix with hands￻抓，拿"}]}],"t":"lamec"}
-,"lamit":{"h":[{"d":[{"l":["`palamitan~"],"e":["￹`Cilamit~ `ko~ `sowal~ `no~ `Kawas~ `i~ `faloco'~ `ako~.￺God's words have become established in my heart.￻神的話根植在我心中"],"f":"￹￺root, with literal and figurative meanings￻根，根底；含字面上和隱喻上的意義"}]}],"t":"lamit"}
-,"lamlam":{"h":[{"d":[{"l":["`camol~","`palamlam~"],"e":["￹`Malamlam~ `ko~ `howak~ `ato~ `'ayam~ `a~ `mapalit~.￺Ducks and chickens are cooped up together.￻雞鴨雜群關入籠內"],"f":"￹￺to be mixed * referring to things or creatures￻混合，混雜"}]}],"t":"lamlam"}
-,"lamlo":{"h":[{"d":[{"l":["`hafay~"]},{"f":"￹￺millet * staple food for the Amis in former years. Many legends are related to millet.￻小米栗，阿美族昔日主要的食物，有很多與小米有關的傳說"}]}],"t":"lamlo"}
-,"lamo":{"h":[{"d":[{"l":["`palamo~","`malalamo~"],"f":"￹￺copulation of animals * breeding￻交配 (指動物雄性爬上雌性背上交配方式)"}]}],"t":"lamo"}
-,"lamok":{"h":[{"d":[{"l":["`malamok~"],"f":"￹￺[stem for malamok]￻[malamok 的詞幹]"}]}],"t":"lamok"}
-,"lanang":{"h":[{"d":[{"l":["`kalanangan~"],"e":["￹`Malanang~ `kako~ `toya~ `wawa~.￺That child annoys me.￻我對那孩子真沒辦法，那孩子真煩"],"f":"￹￺annoyed * vexed￻煩擾，騷擾，厭煩"}]}],"t":"lanang"}
+,"lamelo":{"h":[{"d":[{"s":["`hafay~"],"f":"￹￺millet * staple food for the Amis in former years. Many legends are related to millet.￻小米栗，阿美族昔日主要的食物，有很多與小米有關的傳說"}]}],"t":"lamelo"}
+,"lamit":{"h":[{"d":[{"s":["`palamitan~"],"e":["￹`Ci~`lamit~ `ko~ `sowal~ `no~ `was~ `i~ `faloco'~ `ako~.￺God's words have become established in my heart.￻神的話根植在我心中"],"f":"￹￺root, with literal and figurative meanings￻根，根底；含字面上和隱喻上的意義"}]}],"t":"lamit"}
+,"lamlam":{"h":[{"d":[{"s":["`camol~","`palamlam~"],"e":["￹`mlam~ `ko~ `howak~ `ato~ `'ayam~ `a~ `ma~`palit~.￺Ducks and chickens are cooped up together.￻雞鴨雜群關入籠內"],"f":"￹￺to be mixed * referring to things or creatures￻混合，混雜"}]}],"t":"lamlam"}
+,"lamo":{"h":[{"d":[{"s":["`palamo~","`malalamo~"],"f":"￹￺copulation of animals * breeding￻交配 (指動物雄性爬上雌性背上交配方式)"}]}],"t":"lamo"}
+,"lamok":{"h":[{"d":[{"s":["`malamok~"],"f":"￹￺[stem for malamok]￻[malamok 的詞幹]"}]}],"t":"lamok"}
+,"lanang":{"h":[{"d":[{"s":["`kalanangan~"],"e":["￹`nang~ `kako~ `toya~ `wawa~.￺That child annoys me.￻我對那孩子真沒辦法，那孩子真煩"],"f":"￹￺annoyed * vexed￻煩擾，騷擾，厭煩"}]}],"t":"lanang"}
 ,"langal":{"h":[{"d":[{"f":"￹￺to have mouth blister from lime paste￻嘴被石灰膏燒傷"},{"f":"￹￺to bite one's tongue￻咬傷舌頭"},{"f":"￹￺to sweat from chewing betel nut￻咀嚼檳榔會出汗"}]}],"t":"langal"}
 ,"langas":{"h":[{"d":[{"f":"￹￺to prune trees￻修剪樹枝"}]}],"t":"langas"}
-,"langat":{"h":[{"d":[{"l":["`lngat~"],"f":"￹￺to challenge * initiate an interchange of words or conflict￻挑戰，鬥嘴或衝突引發的挑戰"}]}],"t":"langat"}
-,"langod":{"h":[{"d":[{"f":"￹￺a large wave about to break￻一個大的波浪正拍岸而碎"},{"l":["`taplik~"],"f":"￹￺ripples of water in a stream￻水流的波紋"}]}],"t":"langod"}
-,"langto":{"h":[{"d":[{"l":["`lanto~"],"f":"￹￺to be burnt up * consumed￻燼餘灰燼，沒有燒完的柴火"}]}],"t":"langto"}
+,"langat":{"h":[{"d":[{"s":["`lengat~"],"f":"￹￺to challenge * initiate an interchange of words or conflict￻挑戰，鬥嘴或衝突引發的挑戰"}]}],"t":"langat"}
+,"langod":{"h":[{"d":[{"f":"￹￺a large wave about to break￻一個大的波浪正拍岸而碎"},{"s":["`taplik~"],"f":"￹￺ripples of water in a stream￻水流的波紋"}]}],"t":"langod"}
+,"langto":{"h":[{"d":[{"s":["`lanto~"],"f":"￹￺to be burnt up * consumed￻燼餘灰燼，沒有燒完的柴火"}]}],"t":"langto"}
 ,"lanhi":{"h":[{"d":[{"f":"￹￺Silver Crap (Hypophthalmichthys molitrix), a fish￻白鰱，一種魚"}]}],"t":"lanhi"}
-,"lanto":{"h":[{"d":[{"e":["￹`Malantoto~ `ko~ `loma'~ `niyam~.￺Our house has been destroyed by fire.￻我們家已燒成灰燼了"],"f":"￹￺to destroy by fire￻灰燼 (火種)"},{"e":["￹`Lantoen~ `koya~ `namal~.￺Bury coals for lighting (later) .￻把木炭熄滅"],"f":"￹￺stumps of half-burned firewood * charcoal smouldering￻未燒燼的柴火還在冒火的木炭"}]}],"t":"lanto"}
-,"laoc":{"h":[{"d":[{"f":"￹￺a formal meeting where a council is going on￻開會"},{"f":"￹￺the section of bamboo between the end of the joints and the leaves￻竹子或蘆葦最末的節和葉子之間的部份"},{"l":["`lomaocay~","`milaocay~","`pilaocan~"],"e":["￹`Malaoc~ `ko~ `loma'~.￺The house is guarded.￻房子被包圍"],"f":"￹￺to stand on guard￻防守，防衛"}]}],"t":"laoc"}
+,"lanto":{"h":[{"d":[{"e":["￹`nto~ `to~ `ko~ `loma'~ `niyam~.￺Our house has been destroyed by fire.￻我們家已燒成灰燼了"],"f":"￹￺to destroy by fire￻灰燼 (火種)"},{"e":["￹`Lantoen~ `koya~ `namal~.￺Bury coals for lighting (later) .￻把木炭熄滅"],"f":"￹￺stumps of half-burned firewood * charcoal smouldering￻未燒燼的柴火還在冒火的木炭"}]}],"t":"lanto"}
+,"laoc":{"h":[{"d":[{"f":"￹￺a formal meeting where a council is going on￻開會"},{"f":"￹￺the section of bamboo between the end of the joints and the leaves￻竹子或蘆葦最末的節和葉子之間的部份"},{"s":["`lomaocay~","`milaocay~","`pilaocan~"],"e":["￹`oc~ `ko~ `loma'~.￺The house is guarded.￻房子被包圍"],"f":"￹￺to stand on guard￻防守，防衛"}]}],"t":"laoc"}
 ,"laop":{"h":[{"d":[{"f":"￹￺to chase, enclosing the party so he has no means of escape￻包圍使其無法逃脫"}]}],"t":"laop"}
 ,"lapac":{"h":[{"d":[{"f":"￹￺a long section of split bamboo￻劈成細長的竹片"}]}],"t":"lapac"}
-,"lapdit":{"h":[{"d":[{"e":["￹`malapdit~ `ko~ `tilid~￺illegible writing￻字體不清","￹`malapdit~ `ko~ `fokes~￺hair is stuck together (as when using a lot of hair oil)￻頭髮黏成一團 (如當用很多髮油)"],"f":"￹￺stuck together with no sepearation between￻黏成一團，模糊不清"}]}],"t":"lapdit"}
-,"laplap":{"h":[{"d":[{"l":["`ko'ko~"],"f":"￹￺to chase * as to chase away chickens from the doorway￻驅逐，趕逐，追逐，趕逐雞兒至門口"}]}],"t":"laplap"}
-,"lapot":{"h":[{"d":[{"l":["`milapot~"],"f":"￹￺sweet potato leaves and stems * used as pig food￻蕃薯葉 (用來做豬之食物)"}]}],"t":"lapot"}
-,"lasak":{"h":[{"d":[{"l":["`palsa'~"],"f":"￹￺to escape through * to leak out as when netting is not small enough for produce￻漏出，流出；漏出，如同當東西很充足時流出"}]}],"t":"lasak"}
+,"lapedit":{"h":[{"d":[{"e":["￹`pedit~ `ko~ `tilid~￺illegible writing￻字體不清","￹`pedit~ `ko~ `fokes~￺hair is stuck together (as when using a lot of hair oil)￻頭髮黏成一團 (如當用很多髮油)"],"f":"￹￺stuck together with no sepearation between￻黏成一團，模糊不清"}]}],"t":"lapedit"}
+,"laplap":{"h":[{"d":[{"s":["`ko~^`ko~"],"f":"￹￺to chase * as to chase away chickens from the doorway￻驅逐，趕逐，追逐，趕逐雞兒至門口"}]}],"t":"laplap"}
+,"lapot":{"h":[{"d":[{"s":["`milapot~"],"f":"￹￺sweet potato leaves and stems * used as pig food￻蕃薯葉 (用來做豬之食物)"}]}],"t":"lapot"}
+,"lasak":{"h":[{"d":[{"s":["`lesa'~"],"f":"￹￺to escape through * to leak out as when netting is not small enough for produce￻漏出，流出；漏出，如同當東西很充足時流出"}]}],"t":"lasak"}
 ,"lasang":{"h":[{"d":[{"f":"￹￺drunk from consuming liquor￻醉酒，酗酒"},{"f":"￹￺carsick from traveling on a bus * nauseated as from ship travel￻暈車，暈船"}]}],"t":"lasang"}
-,"lasil":{"h":[{"d":[{"l":["`liliw~"],"f":"￹￺to go from house to house with a message￻挨家挨戶傳信息"}]}],"t":"lasil"}
-,"laso%27ay":{"h":[{"d":[{"l":["`Laso'ay~"],"f":"￹￺name of an Amis village￻光復鄉鎮平部落前名大全村"}]}],"t":"laso'ay"}
-,"lasong":{"h":[{"d":[{"l":["`liso'~"],"f":"￹￺to visit￻探訪，拜訪，訪親"}]}],"t":"lasong"}
-,"lasot":{"h":[{"d":[{"l":["`hanot~"],"f":"￹￺to sink in mud￻陷入泥沼"}]}],"t":"lasot"}
+,"lasil":{"h":[{"d":[{"s":["`liliw~"],"f":"￹￺to go from house to house with a message￻挨家挨戶傳信息"}]}],"t":"lasil"}
+,"laso%27ay":{"h":[{"d":[{"s":["`Laso'ay~"],"f":"￹￺name of an Amis village￻光復鄉鎮平部落前名大全村"}]}],"t":"laso'ay"}
+,"lasong":{"h":[{"d":[{"s":["`liso'~"],"f":"￹￺to visit￻探訪，拜訪，訪親"}]}],"t":"lasong"}
+,"lasot":{"h":[{"d":[{"s":["`hanot~"],"f":"￹￺to sink in mud￻陷入泥沼"}]}],"t":"lasot"}
 ,"lata%27":{"h":[{"d":[{"f":"￹￺to shave wood, as when making small kindling for lighting a fire￻木片屑，削木成木屑 (做為引火的易燃物)"}]}],"t":"lata'"}
-,"lata%27ang":{"h":[{"d":[{"l":["`lita'ang~"],"e":["￹`Malata'ang~ `kako~ `to~ `wawa~ `ako~.￺I am proud of my child.￻我以我的孩子引以為榮","￹`Kalata'angan~ `ako~ `ko~ `wawa~ `ako~.￺My child is the object of mypride.￻我的孩子是我的驕傲","￹`salata'ang~ `sa~￺to respond with pride￻自得意滿，自負"],"f":"￹￺pride￻驕傲，自大，自負"}]}],"t":"lata'ang"}
-,"latak":{"h":[{"d":[{"f":"￹￺star fruit and tree * Carambola fwit (from Amoy dialect)￻楊桃 (引自閩南語)"},{"f":"￹￺a plow shaped like star fruit used to break up plowed ground￻插秧前再平田的表面之楊桃形滾木的農器具"}]}],"t":"latak"}
-,"latang":{"h":[{"d":[{"l":["`tpeng~"],"f":"￹￺to measure grain or other edible foods with a container￻量器(升斗)，用量器來計算東西"}]}],"t":"latang"}
+,"lata%27ang":{"h":[{"d":[{"s":["`lita'ang~"],"e":["￹`ta'ang~ `kako~ `to~ `wawa~ `ako~.￺I am proud of my child.￻我以我的孩子引以為榮","￹`Ka~`lata'ang~`an~ `ako~ `ko~ `wawa~ `ako~.￺My child is the object of mypride.￻我的孩子是我的驕傲","￹`sa~`lata'ang~ `~￺to respond with pride￻自得意滿，自負"],"f":"￹￺pride￻驕傲，自大，自負"}]}],"t":"lata'ang"}
+,"latak":{"h":[{"d":[{"f":"￹￺star fruit and tree * Carambola fwit (from Amoy dialect)￻楊桃 (引自閩南語)"},{"f":"￹￺a plow shaped like star fruit used to break up plowed ground￻插秧前再平田的表面之楊桃形滾木的農器具；磟碡，磱碡"}]}],"t":"latak"}
+,"latang":{"h":[{"d":[{"s":["`tepeng~"],"f":"￹￺to measure grain or other edible foods with a container￻量器(升斗)，用量器來計算東西"}]}],"t":"latang"}
 ,"lataw":{"h":[{"d":[{"f":"￹￺twisted reeds made into a hitch attached between the yoke of the buffalo and the equipment he is pulling￻從軛至農具之間拉拖用之繩子"}]}],"t":"lataw"}
-,"latek":{"h":[{"d":[{"f":"￹￺perhaps￻也許，可能"},{"l":["`matiya~"],"f":"￹￺probably￻大概"}]}],"t":"latek"}
+,"latek":{"h":[{"d":[{"f":"￹￺perhaps￻也許，可能"},{"s":["`matiya~"],"f":"￹￺probably￻大概"}]}],"t":"latek"}
 ,"lati%27":{"h":[{"d":[{"f":"￹￺to be affected by magical power or mana in the animistic world * resulting in swellings or some other affliction￻在萬靈信仰時代，遭魔力之影響而致病之謂"}]}],"t":"lati'"}
-,"latiih":{"h":[{"d":[{"l":["`'fo~"],"f":"￹￺trouble from not keeping taboo or rules of morality￻犯禁忌而招致懲罰"},{"l":["`tapsi'~"],"f":"￹￺miscarriage￻失策，失誤，浪潮"}]}],"t":"latiih"}
-,"lato%27":{"h":[{"d":[{"l":["`lafot~"]},{"f":"￹￺to break apart￻拉斷，斷裂 (如繩索斷裂)"}]}],"t":"lato'"}
+,"latiih":{"h":[{"d":[{"s":["`'fo~"],"f":"￹￺trouble from not keeping taboo or rules of morality￻犯禁忌而招致懲罰"},{"s":["`tapesi'~"],"f":"￹￺miscarriage￻失策，失誤，浪潮"}]}],"t":"latiih"}
+,"lato%27":{"h":[{"d":[{"s":["`lafot~"],"f":"￹￺to break apart￻拉斷，斷裂 (如繩索斷裂)"}]}],"t":"lato'"}
 ,"latoc":{"h":[{"d":[{"f":"￹￺a torch of burning wood * burning embers￻火炬，火把，火柴棒；餘燼，灰燼"}]}],"t":"latoc"}
-,"lawa":{"h":[{"d":[{"e":["￹`Malawa~ `konini~.￺This was unintentionally omitted.￻無意間漏掉，遺漏這件(事)","￹`Nilawaan~ `konini~.￺This was deliberately omitted.￻此為故意(蓄意)遺漏，留下的"],"f":"￹￺to leave out * omit￻遺漏"}]}],"t":"lawa"}
-,"lawac":{"h":[{"d":[{"l":["`salawacan~","`makolawac~"],"e":["￹`lawac~ `no~ `riyar~￺seashore￻海邊，海岸","￹`O~ `pakalawacay~ `no~ `niyaro'~ `a~ `loma'~ `konini~.￺This is the last house at the edge of the village.￻這是村莊中最邊緣的房子"],"f":"￹￺edge * the outer part of￻邊緣，邊界，海岸"}]}],"t":"lawac"}
-,"lawal":{"h":[{"d":[{"l":["`kalawal~"],"f":"￹￺a flying squirrel￻松鼠"}]}],"t":"lawal"}
+,"lawa":{"h":[{"d":[{"e":["￹`wa~ `konini~.￺This was unintentionally omitted.￻無意間漏掉，遺漏這件(事)","￹`Ni~`lawa~`an~ `konini~.￺This was deliberately omitted.￻此為故意(蓄意)遺漏，留下的"],"f":"￹￺to leave out * omit￻遺漏"}]}],"t":"lawa"}
+,"lawac":{"h":[{"d":[{"s":["`salawacan~","`makolawac~"],"e":["￹`lawac~ `no~ `riyar~￺seashore￻海邊，海岸","￹`O~ `paka~`lawac~`ay~ `no~ `niyaro'~ `a~ `loma'~ `konini~.￺This is the last house at the edge of the village.￻這是村莊中最邊緣的房子"],"f":"￹￺edge * the outer part of￻邊緣，邊界，海岸"}]}],"t":"lawac"}
+,"lawal":{"h":[{"d":[{"s":["`kalawal~"],"f":"￹￺a flying squirrel￻松鼠"}]}],"t":"lawal"}
 ,"lawat":{"h":[{"d":[{"f":"￹￺to step * to take a step￻跨步，踏上一步"},{"f":"￹￺a single step￻一大步"}]}],"t":"lawat"}
-,"laway":{"h":[{"d":[{"l":["`pising~"],"f":"￹￺face * a part of the body￻臉部，容貌"}]}],"t":"laway"}
-,"lawdngan":{"h":[{"d":[{"f":"￹￺the dark side of the moon￻月亮沒有出現使大地籠罩黑暗"},{"f":"￹￺deep darkness as the inside of a cave￻一片漆黑"}]}],"t":"lawdngan"}
-,"lawla":{"h":[{"d":[{"f":"￹￺fun * games * play￻滑稽，玩笑，笑話"},{"l":["`karalawlaay~"],"f":"￹￺to joke * a joke￻戲弄，笑柄"}]}],"t":"lawla"}
+,"laway":{"h":[{"d":[{"s":["`pising~"],"f":"￹￺face * a part of the body￻臉部，容貌"}]}],"t":"laway"}
+,"lawdengan":{"h":[{"d":[{"f":"￹￺the dark side of the moon￻月亮沒有出現使大地籠罩黑暗"},{"f":"￹￺deep darkness as the inside of a cave￻一片漆黑"}]}],"t":"lawdengan"}
+,"lawla":{"h":[{"d":[{"f":"￹￺fun * games * play￻滑稽，玩笑，笑話"},{"s":["`karalawlaay~"],"f":"￹￺to joke * a joke￻戲弄，笑柄"}]}],"t":"lawla"}
 ,"lawlaw":{"h":[{"d":[{"f":"￹￺a tree￻鳥來柯樹"}]}],"t":"lawlaw"}
+,"lay%5Eong":{"h":[{"d":[{"s":["`lokedaw~"],"f":"￹￺lion (from Japanese and English)￻獅子 (引自日語和英語)"}]}],"t":"lay^ong"}
 ,"laya%27":{"h":[{"d":[{"f":"￹￺to reach out * extend arm￻伸手，伸出手"},{"f":"￹￺a measure of length￻展臂丈量長度"}]}],"t":"laya'"}
-,"layap":{"h":[{"d":[{"e":["￹`malayapto~ `nira~￺received / accepted by him￻他已收到了","￹`Layapen~.￺Take / accept (it) .￻請接受 (它)"],"f":"￹￺to receive￻接受"},{"f":"￹￺to accept￻接納，採納，同意，認可"}]}],"t":"layap"}
-,"laymay":{"h":[{"d":[{"l":["`malaymay~"],"f":"￹￺[stem of malaymay]￻[malaymay 的詞幹]"}]}],"t":"laymay"}
-,"layong":{"h":[{"d":[{"l":["`lokdaw~"],"f":"￹￺lion (from Japanese and English)￻獅子 (引自日語和英語)"}]}],"t":"layong"}
-,"lcad":{"h":[{"d":[{"l":["`hcad~","`sakalcadan~"],"e":["￹`Malcad~ `ko~ `harateng~ `ita~.￺We agree.￻我們意見相同","￹`Malcad~ `ko~ `riko'~ `ita~.￺We have the same kind of clothes.￻我們衣服裝扮相似","￹`Milcad~ `cingra~ `to~ `dmak~ `ako~.￺He imitated what I did.￻他模仿我的做法","￹`Palcaden~ `ita~ `ko~ `dmak~.￺Let's do the activity the same way.￻讓我們做的事情相同","￹`Malcalcad~ `ko~ `tayal~ `ita~.￺Our jobs are similar.￻我們職業相似"],"f":"￹￺the same * alike￻相同，類似，雷同"}]}],"t":"lcad"}
-,"lceng":{"h":[{"d":[{"l":["`malceng~","`salceng~"],"f":"￹￺to clip * cut, as hair * to trim as shrubs￻剪，修剪頭髮；修剪，修整"}]}],"t":"lceng"}
-,"lcik":{"h":[{"d":[{"l":["`licik~","`pinalcik~"],"f":"￹￺small broken pieces that have flown and landed someplace￻小碎片飛馳在地面上"}]}],"t":"lcik"}
-,"lda%27":{"h":[{"d":[{"l":["`rda'~"],"f":"￹￺to sleep very soundly and deeply￻沉睡，熟睡"}]}],"t":"lda'"}
-,"ldef":{"h":[{"d":[{"l":["`'def~"],"e":["￹`Maldef~ `no~ `nanom~ `ko~ `omah~ `niyam~.￺Our fields were filled with water.￻我們的水田游漫了水，我們的田被水淹沒了"],"f":"￹￺to cover * permeate * spread over an area￻游漫，滲透，普及，遍佈，充分"}]}],"t":"ldef"}
-,"ldo":{"h":[{"d":[{"l":["`rdo~","`maldo~"],"f":"￹￺[stem of maldo]￻[maldo 的詞幹]"}]}],"t":"ldo"}
+,"layap":{"h":[{"d":[{"e":["￹`yap~ `to~ `nira~￺received / accepted by him￻他已收到了","￹`Layapen~.￺Take / accept (it) .￻請接受 (它)"],"f":"￹￺to receive￻接受"},{"f":"￹￺to accept￻接納，採納，同意，認可"}]}],"t":"layap"}
+,"laymay":{"h":[{"d":[{"s":["`malaymay~"],"f":"￹￺[stem of malaymay]￻[malaymay 的詞幹]"}]}],"t":"laymay"}
+,"lecad":{"h":[{"d":[{"s":["`hcad~","`sakalecadan~"],"e":["￹`Ma~`lecad~ `ko~ `harateng~ `ita~.￺We agree.￻我們意見相同","￹`Ma~`lecad~ `ko~ `riko'~ `ita~.￺We have the same kind of clothes.￻我們衣服裝扮相似","￹`Mi~`lecad~ `cingra~ `to~ `demak~ `ako~.￺He imitated what I did.￻他模仿我的做法","￹`Pa~`lecad~`en~ `ita~ `ko~ `demak~.￺Let's do the activity the same way.￻讓我們做的事情相同","￹`Ma~`leca~`lecad~ `ko~ `tayal~ `ita~.￺Our jobs are similar.￻我們職業相似"],"f":"￹￺the same * alike￻相同，類似，雷同"}]}],"t":"lecad"}
+,"leceng":{"h":[{"d":[{"s":["`maleceng~","`saleceng~"],"f":"￹￺to clip * cut, as hair * to trim as shrubs￻剪，修剪頭髮；修剪，修整"}]}],"t":"leceng"}
+,"lecik":{"h":[{"d":[{"s":["`licik~","`pinalecik~"],"f":"￹￺small broken pieces that have flown and landed someplace￻小碎片飛馳在地面上"}]}],"t":"lecik"}
+,"leda%27":{"h":[{"d":[{"s":["`reda'~"],"f":"￹￺to sleep very soundly and deeply￻沉睡，熟睡"}]}],"t":"leda'"}
+,"ledef":{"h":[{"d":[{"s":["`'def~"],"e":["￹`Ma~`ledef~ `no~ `nanom~ `ko~ `omah~ `niyam~.￺Our fields were filled with water.￻我們的水田游漫了水，我們的田被水淹沒了"],"f":"￹￺to cover * permeate * spread over an area￻游漫，滲透，普及，遍佈，充分"}]}],"t":"ledef"}
+,"ledo":{"h":[{"d":[{"s":["`redo~","`maledo~"],"f":"￹￺[stem of maledo]￻[maledo 的詞幹]"}]}],"t":"ledo"}
+,"lefek":{"h":[{"d":[{"f":"￹￺to break apart from having been cracked￻龜裂"},{"f":"￹￺from having small illness to become extremely sick and die￻倒下來，病倒，病入膏肓"}]}],"t":"lefek"}
+,"lefit":{"h":[{"d":[{"f":"￹￺to make a hole as a button does when it pulls away from cloth￻衣服被東西扯住"},{"s":["`refit~","`lefoh~"],"f":"￹￺to tear as a pierced ear lobe￻耳朵被扯破了，被撕開"}]}],"t":"lefit"}
+,"lefo":{"h":[{"d":[{"s":["`malalefo~"],"f":"￹￺conflict￻衝突，爭執，打架，爭鬥"}]}],"t":"lefo"}
+,"lefoh":{"h":[{"d":[{"s":["`kinalefoh~"],"f":"￹￺[kinalefoh]￻[kinalefoh]"}]}],"t":"lefoh"}
+,"lekairaira":{"h":[{"d":[{"f":"￹￺there are some of every kind￻應有盡有，花樣齊全"}]}],"t":"lekairaira"}
+,"lekakawa":{"h":[{"d":[{"f":"￹￺principle * rule that governs an activity￻定義，原則，法規"},{"s":["`milekakawa~"],"f":"￹￺tradition * norm for society￻傳統社會倫理規範，風俗"}]}],"t":"lekakawa"}
+,"lekal":{"h":[{"d":[{"e":["￹`Tano~ `lekal~ `~ `cangra~ `a~ `tomangic~.￺They wailed.￻他痛哭流涕","￹`Ma~`rarid~ `cingra~ `a~ `mi~`leka~`lekal~ `a~ `mi~`lengat~ `to~ `sapi~`lood~`aw~.￺He continually was calling and challenging to battle.￻他不斷地大聲喊叫來挑釁，引起戰爭"],"f":"￹￺to call with a shrill loud call￻喊叫，尖叫"}]}],"t":"lekal"}
+,"lemed":{"h":[{"d":[{"e":["￹`Ci~`lemed~ `kako~.￺I dreamed a dream.￻我作了一個夢"],"f":"￹￺dream￻夢"},{"s":["`sakalemed~","`pipalemedan~","`kalemedan~"],"e":["￹`Ma~`lemed~ `kami~.￺We are blessed.￻我們受祝福，蒙福","￹`palemed~ `no~ `was~ `kita~.￺God has blessed us.￻上帝賜福給我們"],"f":"￹￺blessing￻福分，運氣"},{"e":["￹`O~ `nira~ `a~ `lemed~ `konini~.￺That was his luck.￻那是他的運氣"],"f":"￹￺luck￻好運"}]}],"t":"lemed"}
+,"lenaf":{"h":[{"d":[{"f":"￹￺to be swamped with water (ma-)￻漲水瀰漫"},{"f":"￹￺to paint * paint￻塗，刷，刷油漆"},{"s":["`renaf~","`malenaf~"],"f":"￹￺dye * to dye￻着色，塗色，染色"}]}],"t":"lenaf"}
+,"lenak":{"h":[{"d":[{"e":["￹`Pa~`lenak~`en~ `ko~ `'ayam~ `namo~.￺Have your birds multiply.￻使你們的雞繁殖眾多，把你們的雞放出去 (收割後，將雞放出來，吃田之落穀)","￹`Ma~`lenak~ `to~ `ko~ `'edo~.￺Rats are multiplying.￻老鼠繁殖眾多","￹`O~ `talenakan~ `konini~ `a~ `tomay~.￺This bear is a left over member of his species so the bears are not extinct.￻這隻熊是用來繁殖的"],"f":"￹￺to multiply * of living beings and people * increase in population￻生殖，繁殖遍滿，生養眾多，增加人口"}]}],"t":"lenak"}
+,"leneng":{"h":[{"d":[{"s":["`moleneng~","`maleneng~"],"f":"￹￺to sink * of an animal or a thing￻沈沒，如一隻動物或一件東西沈沒"}]}],"t":"leneng"}
+,"lenga":{"h":[{"d":[{"s":["`malenga~"],"f":"￹￺[malega]￻[malega]"}]}],"t":"lenga"}
+,"lengac":{"h":[{"d":[{"f":"￹￺a kind of plant that has thick stalks * Canna * stalks used for making woven baskets￻月桃；柄，莖，可用來編織籃子"},{"f":"￹￺Shell Ginger (Alpinia speciosa)￻[無漢譯]"},{"f":"￹￺Orchid-flowered Canna￻雜色美人蕉"},{"f":"￹￺Fragrant Garland-flower * a ginger￻蝴蝶花"}]}],"t":"lengac"}
+,"lengat":{"h":[{"d":[{"s":["`langat~","`lalengatan~","`lalengawan~"],"f":"￹￺to challenge * initiate an interchange of words or conflict * to confront￻挑戰，肇端，引發，導致"}]}],"t":"lengat"}
+,"lengaw":{"h":[{"d":[{"s":["`molengaw~","`malengaw~"],"e":["￹`fodoy~ `no~ `sapa~`lengaw~￺clothing worn by headman of village during a ceremony of reciting the genealogy of the clans￻首長穿著儀式的常服在氏族和部落之面前吟誦古代的程序過程"],"f":"￹￺to sprout * start to grow referring to plants and trees￻生長，發芽"}]}],"t":"lengaw"}
 ,"lenlen":{"h":[{"d":[{"f":"￹￺to flood￻洪水，水災，氾濫，淹沒"}]}],"t":"lenlen"}
+,"leno":{"h":[{"d":[{"f":"￹￺high tide * flooded * of rivers or the ocean￻漲潮 (海水)"}]}],"t":"leno"}
+,"lepel":{"h":[{"d":[{"f":"￹￺to follow after * pursue￻追求，追逐"},{"s":["`ko~^`ko~"],"f":"￹￺to chase * drive away￻追趕，驅逐"},{"f":"￹￺to grab hold of * catch￻攫住，擒拿"}]}],"t":"lepel"}
+,"lesafon":{"h":[{"d":[{"s":["`malesafon~","`milesafon~"],"f":"￹￺[See malesafon]￻[參閱 malesafon]"}]}],"t":"lesafon"}
+,"lesi%27":{"h":[{"d":[{"f":"￹￺to splash water out of an area till it becomes dry￻激濺，濺濕"}]}],"t":"lesi'"}
 ,"lesles":{"h":[{"d":[{"f":"￹￺to hemorrhage￻出血，溢血"}]}],"t":"lesles"}
-,"lfek":{"h":[{"d":[{"f":"￹￺to break apart from having been cracked￻龜裂"},{"f":"￹￺from having small illness to become extremely sick and die￻倒下來，病倒，病入膏肓"}]}],"t":"lfek"}
-,"lfit":{"h":[{"d":[{"f":"￹￺to make a hole as a button does when it pulls away from cloth￻衣服被東西扯住"},{"l":["`rfit~","`lfoh~"],"f":"￹￺to tear as a pierced ear lobe￻耳朵被扯破了，被撕開"}]}],"t":"lfit"}
-,"lfo":{"h":[{"d":[{"l":["`malalfo~"],"f":"￹￺conflict￻衝突，爭執，打架，爭鬥"}]}],"t":"lfo"}
-,"lfoh":{"h":[{"d":[{"l":["`kinalfoh~"],"f":"￹￺[kinalfoh]￻[kinalfoh]"}]}],"t":"lfoh"}
-,"li%27ay":{"h":[{"d":[{"e":["￹`Malali'ayto~ `kita~ `ato~ `Kawas~.￺We have been reconciled with God.￻我們與神和好","￹`Palali'ayen~ `kami~.￺Reconcile us / Cause us to be reconciled.￻讓我們和好"],"f":"￹￺to reconcile￻原諒，諒解，和解，調停排解"}]}],"t":"li'ay"}
+,"leso%27":{"h":[{"d":[{"e":["￹`moleso'~ `sato~ `ko~ `nanom~ `i~ `pipacakatan~.￺Water dripped / ran down over the sides of the altar.￻水濺濕祭壇"],"f":"￹￺to drip fast * run * with reference to water￻滴水，漏水"}]}],"t":"leso'"}
+,"letek":{"h":[{"d":[{"f":"￹￺to cut trees￻砍伐樹木"}]}],"t":"letek"}
+,"letep":{"h":[{"d":[{"f":"￹￺to find someone committing an act in the act￻恰遇"},{"s":["`takop~"],"e":["￹`Ma~`letep~ `ako~ `ko~ `demak~ `nira~.￺I overtook him in what he was doing (redoing the wrong direction of his acts).￻我追上他所作的工作，我趕上他所做的","￹`Ma~`letep~ `ako~ `ko~ `demak~ `nira~.￺I overtook him in what he was doing (redoing the wrong direction of his acts).￻他做的壞事正好被我看到 (屢次再犯的前罪)","￹`Ma~`letep~ `ako~ `ko~ `tatiih~`ay~ `a~ `sowal~ `nira~.￺I caught the bad things he was saying in time (stopped the talk).￻他說的壞話，正好被我竊聽到他正在說壞話"],"f":"￹￺to catch up with * overtake￻趕上，撞見，撞聞"}]}],"t":"letep"}
+,"letoh":{"h":[{"d":[{"f":"￹￺to howl * the sound of a dog or lion￻狗吠，咆哮，獅子吼叫"}]}],"t":"letoh"}
+,"li%27ay":{"h":[{"d":[{"e":["￹`Mala~`li'ay~ `to~ `kita~ `ato~ `was~.￺We have been reconciled with God.￻我們與神和好","￹`Pala~`li'ay~`en~ `kami~.￺Reconcile us / Cause us to be reconciled.￻讓我們和好"],"f":"￹￺to reconcile￻原諒，諒解，和解，調停排解"}]}],"t":"li'ay"}
 ,"li%27ayawen":{"h":[{"d":[{"f":"￹￺to do before the time￻預先，預先做好"}]}],"t":"li'ayawen"}
-,"li%27el":{"h":[{"d":[{"l":["`lali'elan~"],"e":["￹`mikton~ `to~ `li'el~￺cut off the head￻斬頭"],"f":"￹￺neck￻脖子, 頸子"}]}],"t":"li'el"}
-,"li%27mi":{"h":[{"d":[{"f":"￹￺to sparkle￻發出火花，冒泡，閃爍"}]}],"t":"li'mi"}
-,"licang":{"h":[{"d":[{"l":["`'icang~","`malicangay~"],"f":"￹￺dry * generic word￻乾燥，乾涸"}]}],"t":"licang"}
-,"licay":{"h":[{"d":[{"f":"￹￺greeting￻請安"},{"l":["`kalalicayan~"],"e":["￹`Malalicay~ `kita~.￺Let's the two of us chat.￻讓我們磋商、商談","￹`Malalicalicay~ `kita~.￺Let's all of us chat.￻我們互相討論研究","￹`Licayen~ `cingra~.￺Ask him￻請教他","￹`O~ `pilicay~ `cingraan~ `ko~ `nga'ay~.￺(You) should ask him.￻最好請教他"],"f":"￹￺question￻請問，請教"}]}],"t":"licay"}
+,"li%27el":{"h":[{"d":[{"s":["`lali'elan~"],"e":["￹`mi~`keton~ `to~ `li'el~￺cut off the head￻斬頭"],"f":"￹￺neck￻脖子, 頸子"}]}],"t":"li'el"}
+,"licang":{"h":[{"d":[{"s":["`'icang~","`malicangay~"],"f":"￹￺dry * generic word￻乾燥，乾涸"}]}],"t":"licang"}
+,"licay":{"h":[{"d":[{"f":"￹￺greeting￻請安"},{"s":["`kalalicayan~"],"e":["￹`Mala~`licay~ `kita~.￺Let's the two of us chat.￻讓我們磋商、商談","￹`Mala~`lica~`licay~ `kita~.￺Let's all of us chat.￻我們互相討論研究","￹`Licayen~ `cingra~.￺Ask him￻請教他","￹`O~ `pi~`licay~ `ngraan~ `ko~ `nga'ay~.￺(You) should ask him.￻最好請教他"],"f":"￹￺question￻請問，請教"}]}],"t":"licay"}
 ,"licing":{"h":[{"d":[{"f":"￹￺a broken piece * a bit of something broken￻碎片"}]}],"t":"licing"}
-,"licinowas":{"h":[{"d":[{"e":["￹`Malacinowas~ `kita~.￺We will go our separate ways.￻我們分手","￹`Malacinowas~ `ko~ `faloco'~ `nangra~.￺They are disagreed.￻我們意見不合，他們貌合神離"],"f":"￹￺to separate * go separate ways￻分開"}]}],"t":"licinowas"}
-,"liclic":{"h":[{"d":[{"l":["`piliclican~"],"f":"￹￺to interrogate * question * investigate a matter￻訊問，質問，審問，盤問"}]}],"t":"liclic"}
-,"licod":{"h":[{"d":[{"l":["`dicoh~"],"f":"￹￺to pull out something that is attached￻從某附屬物拔出"}]}],"t":"licod"}
+,"licinowas":{"h":[{"d":[{"e":["￹`cinowas~ `kita~.￺We will go our separate ways.￻我們分手","￹`cinowas~ `ko~ `faloco'~ `nangra~.￺They are disagreed.￻我們意見不合，他們貌合神離"],"f":"￹￺to separate * go separate ways￻分開"}]}],"t":"licinowas"}
+,"liclic":{"h":[{"d":[{"s":["`piliclican~"],"f":"￹￺to interrogate * question * investigate a matter￻訊問，質問，審問，盤問"}]}],"t":"liclic"}
+,"licod":{"h":[{"d":[{"s":["`dicoh~"],"f":"￹￺to pull out something that is attached￻從某附屬物拔出"}]}],"t":"licod"}
 ,"licoh":{"h":[{"d":[{"f":"￹￺to dismantle * disengage from￻脫落，拆除，分解，脫離"}]}],"t":"licoh"}
-,"lidalid":{"h":[{"d":[{"l":["`ropay~"],"f":"￹￺to flatten the rice fields with mud rake￻耙子擺平小田的泥巴"},{"f":"￹￺to shape rice bread into balls for cutting￻把糯糕弄成球形狀"}]}],"t":"lidalid"}
+,"lidalid":{"h":[{"d":[{"s":["`ropay~"],"f":"￹￺to flatten the rice fields with mud rake￻耙子擺平小田的泥巴"},{"f":"￹￺to shape rice bread into balls for cutting￻把糯糕弄成球形狀"}]}],"t":"lidalid"}
 ,"lidateng":{"h":[{"d":[{"f":"￹￺Stinging Nettle-tree (Laportea pterostigma)￻咬人狗 (植物)"}]}],"t":"lidateng"}
-,"lidaw":{"h":[{"d":[{"l":["`lihaw~"],"f":"￹￺hoarse voice * lose voice￻聲音沙啞"},{"f":"￹￺a melon￻西瓜"},{"f":"￹￺name of an Amis village￻花蓮化仁部落"}]}],"t":"lidaw"}
+,"lidaw":{"h":[{"d":[{"s":["`lihaw~"],"f":"￹￺hoarse voice * lose voice￻聲音沙啞"},{"f":"￹￺a melon￻西瓜"},{"f":"￹￺name of an Amis village￻花蓮化仁部落"}]}],"t":"lidaw"}
 ,"lidep":{"h":[{"d":[{"f":"￹￺an eagle (Maliaectus albucuna)￻老鷹"},{"f":"￹￺hawk * bird of prey￻鷹，食肉鳥"}]}],"t":"lidep"}
 ,"lido":{"h":[{"d":[{"f":"￹￺to go visit traps that have been set￻巡查所設置的陷阱中有無獵物"}]}],"t":"lido"}
-,"lidong":{"h":[{"d":[{"f":"￹￺shelter￻避難所"},{"l":["`cilidong~","`milidong~","`mikilidong~"],"e":["￹`Mapalidong~ `kami~.￺A shadow has fallen over us.￻我們得到遮蔭"],"f":"￹￺shadow * shade￻蔭涼處"}]}],"t":"lidong"}
+,"lidong":{"h":[{"d":[{"f":"￹￺shelter￻避難所"},{"s":["`cilidong~","`milidong~","`mikilidong~"],"e":["￹`palidong~ `kami~.￺A shadow has fallen over us.￻我們得到遮蔭"],"f":"￹￺shadow * shade￻蔭涼處"}]}],"t":"lidong"}
+,"liemi":{"h":[{"d":[{"f":"￹￺to sparkle￻發出火花，冒泡，閃爍"}]}],"t":"liemi"}
 ,"lies":{"h":[{"d":[{"f":"￹￺to feel chilled as when getting sick￻生病時所感覺的一股寒慄"}]}],"t":"lies"}
 ,"lifar":{"h":[{"d":[{"f":"￹￺a wild fruit tree with small sour fruit * the base for grafting in a good fruit tree￻野生果樹；把好果樹接枝在基部"}]}],"t":"lifar"}
 ,"lifawa":{"h":[{"d":[{"f":"￹￺to swell * to be swollen￻腫脹"},{"f":"￹￺tumor * tumors￻腫瘍，瘤"}]}],"t":"lifawa"}
 ,"lifes":{"h":[{"d":[{"f":"￹￺north wind￻北風"}]}],"t":"lifes"}
-,"lifet":{"h":[{"d":[{"l":["`malalifet~","`malalifelifet~","`palifet~","`milifet~","`pilifetan~"],"e":["￹`Lifeten~ `ko~ `faloco'~ `nira~.￺Test his attitude.￻去探知他的心態"],"f":"￹￺to test * check out * try￻試探，試驗，嘗試"}]}],"t":"lifet"}
+,"lifet":{"h":[{"d":[{"s":["`malalifet~","`malalifelifet~","`palifet~","`milifet~","`pilifetan~"],"e":["￹`Lifeten~ `ko~ `faloco'~ `nira~.￺Test his attitude.￻去探知他的心態"],"f":"￹￺to test * check out * try￻試探，試驗，嘗試"}]}],"t":"lifet"}
 ,"lifoh":{"h":[{"d":[{"f":"￹￺a tree called Indian-charcoal trema￻小麻 (山黃麻)"}]}],"t":"lifoh"}
-,"lifon":{"h":[{"d":[{"l":["`cilifon~","`milifon~","`palifon~"],"f":"￹￺wages for labor￻酬勞，薪資，代價"}]}],"t":"lifon"}
-,"lifong":{"h":[{"d":[{"l":["`malifong~"],"f":"￹￺plague * severe illness￻瘟疫"}]}],"t":"lifong"}
-,"lifot":{"h":[{"d":[{"e":["￹`Malifot~ `kako~.￺It is too much bother for me.￻我深覺麻煩","￹`O~ `kalifotan~ `ko~ `matiraay~ `a~ `dmak~.￺That kind of activity is too much bother.￻那種事是最麻煩的"],"f":"￹￺troublesome * to be bothered * referring to an activity￻麻煩，困擾"}]}],"t":"lifot"}
+,"lifon":{"h":[{"d":[{"s":["`cilifon~","`milifon~","`palifon~"],"f":"￹￺wages for labor￻酬勞，薪資，代價"}]}],"t":"lifon"}
+,"lifong":{"h":[{"d":[{"s":["`malifong~"],"f":"￹￺plague * severe illness￻瘟疫"}]}],"t":"lifong"}
+,"lifot":{"h":[{"d":[{"e":["￹`Ma~`lifot~ `kako~.￺It is too much bother for me.￻我深覺麻煩","￹`O~ `ka~`lifot~`an~ `ko~ `tiraay~ `a~ `demak~.￺That kind of activity is too much bother.￻那種事是最麻煩的"],"f":"￹￺troublesome * to be bothered * referring to an activity￻麻煩，困擾"}]}],"t":"lifot"}
 ,"lifowas":{"h":[{"d":[{"f":"￹￺to spread out in every direction * referring to water or grain￻撒落四方，如水或穀物"}]}],"t":"lifowas"}
-,"lihaf":{"h":[{"d":[{"e":["￹`O~ `nga'ayay~ `ko~ `lihaf~ `a~ `tamdaw~￺A person of good reputation￻有好名聲之人","￹`Aka~ `palihafen~ `konini~ `a~ `dmak~.￺Don't tell anyone this matter.￻不要把事情傳出去或告訴別人"],"f":"￹￺gossip * news * rumor￻閒話，信息，消息，謠言，傳聞"}]}],"t":"lihaf"}
-,"lihay":{"h":[{"d":[{"l":["`pilihayan~"],"f":"￹￺to worship (from Japanese)￻禮拜，敬拜 (引自日語)"}]}],"t":"lihay"}
-,"lihco":{"h":[{"d":[{"l":["`dihco~"],"f":"￹￺tight * not loose fitting￻緊密，擁擠"}]}],"t":"lihco"}
-,"lihiw":{"h":[{"d":[{"f":"￹￺to dig earth so house falls over￻挖泥使房屋倒塌"},{"e":["￹`Malihiw~ `no~ `tao~ `kako~.￺I was cheated by someone.￻我被別人欺騙","￹`Malihiw~ `no~ `nanom~ `ko~ `sra~.￺Water eroded the soil.￻土被水沖蝕了"],"f":"￹￺to cheat￻欺騙，詐取"}]}],"t":"lihiw"}
-,"lihnaw":{"h":[{"d":[{"l":["`kalihnawan~"],"f":"￹￺to be overcome with fear * panic stricken * as when standing on a high place￻懼怕，恐懼，懼高症，目眩"}]}],"t":"lihnaw"}
+,"lihaf":{"h":[{"d":[{"e":["￹`O~ `nga'ay~`ay~ `ko~ `lihaf~ `a~ `tamdaw~￺A person of good reputation￻有好名聲之人","￹`Aka~ `pa~`lihaf~`en~ `konini~ `a~ `demak~.￺Don't tell anyone this matter.￻不要把事情傳出去或告訴別人"],"f":"￹￺gossip * news * rumor￻閒話，信息，消息，謠言，傳聞"}]}],"t":"lihaf"}
+,"lihay":{"h":[{"d":[{"s":["`pilihayan~"],"f":"￹￺to worship (from Japanese)￻禮拜，敬拜 (引自日語)"}]}],"t":"lihay"}
+,"lihco":{"h":[{"d":[{"s":["`dihco~"],"f":"￹￺tight * not loose fitting￻緊密，擁擠"}]}],"t":"lihco"}
+,"lihenaw":{"h":[{"d":[{"s":["`kalihenawan~"],"f":"￹￺to be overcome with fear * panic stricken * as when standing on a high place￻懼怕，恐懼，懼高症，目眩"}]}],"t":"lihenaw"}
+,"lihiw":{"h":[{"d":[{"f":"￹￺to dig earth so house falls over￻挖泥使房屋倒塌"},{"e":["￹`Ma~`lihiw~ `no~ `tao~ `kako~.￺I was cheated by someone.￻我被別人欺騙","￹`Ma~`lihiw~ `no~ `nanom~ `ko~ `sera~.￺Water eroded the soil.￻土被水沖蝕了"],"f":"￹￺to cheat￻欺騙，詐取"}]}],"t":"lihiw"}
 ,"lihoc":{"h":[{"d":[{"f":"￹￺erosion of soil￻沖蝕之土"},{"f":"￹￺curves * winding condition of land as a result of erosion or man-made changes￻彎曲的"}]}],"t":"lihoc"}
-,"lihoway":{"h":[{"d":[{"l":["`kihoway~"],"f":"￹￺too large in size * too loose fitting￻尺寸太大，太大，鬆弛"}]}],"t":"lihoway"}
+,"lihoway":{"h":[{"d":[{"s":["`kihoway~"],"f":"￹￺too large in size * too loose fitting￻尺寸太大，太大，鬆弛"}]}],"t":"lihoway"}
 ,"likaf":{"h":[{"d":[{"f":"￹￺to malign * speak evil against * gossip￻批評誹謗，譏笑惡意中傷，說閒話"}]}],"t":"likaf"}
-,"likat":{"h":[{"d":[{"l":["`malikat~"],"e":["￹`milikat~ `to~ `kasoy~￺to light a fire￻起火"],"f":"￹￺light from a source￻光亮"}]}],"t":"likat"}
-,"likel":{"h":[{"d":[{"e":["￹`Malalikel~ `kita~.￺The two of us each has one.￻我們兩個互相平分","￹`Malalikelikel~ `kita~.￺All of us have our share.￻我們全部平均分配","￹`Palikelen~ `cingra~ `to~ `ccay~.￺Give him one (the giver has more than one).￻分給他一份"],"f":"￹￺one's share out of many￻分配，分享，抽取"}]}],"t":"likel"}
+,"likaot":{"h":[{"d":[{"e":["￹`Ma~`likaot~ `koya~ `marad~.￺That metal is bent￻那根鐵是彎的"],"f":"￹￺to bend metal￻使鐵彎曲"},{"e":["￹`Aka~ `likaot~`en~ `ko~ `sowal~.￺Don't talk around the subject. / i.e. Speak directly to the point.￻說話不要拐彎抹角"],"f":"￹￺to bend figuratively￻比喻上弄彎"}]}],"t":"likaot"}
+,"likat":{"h":[{"d":[{"s":["`malikat~"],"e":["￹`mi~`likat~ `to~ `kasoy~￺to light a fire￻起火"],"f":"￹￺light from a source￻光亮"}]}],"t":"likat"}
+,"likel":{"h":[{"d":[{"e":["￹`Mala~`likel~ `kita~.￺The two of us each has one.￻我們兩個互相平分","￹`Mala~`like~`likel~ `kita~.￺All of us have our share.￻我們全部平均分配","￹`Pa~`likel~`en~ `cingra~ `to~ `cecay~.￺Give him one (the giver has more than one).￻分給他一份"],"f":"￹￺one's share out of many￻分配，分享，抽取"}]}],"t":"likel"}
+,"likelon":{"h":[{"d":[{"s":["`lokelon~","`salikelon~"],"f":"￹￺to go down hill * descend￻下坡，下去"}]}],"t":"likelon"}
 ,"likes":{"h":[{"d":[{"f":"￹￺mosquito￻蚊"},{"f":"￹￺fly * flies (Hualien)￻蒼蠅 (花蓮語)"}]}],"t":"likes"}
-,"likid":{"h":[{"d":[{"f":"￹￺to be carried along by swift current of the river or ocean￻沖走，流走，急流"},{"l":["`malalikikid~"],"f":"￹￺to hold hands in dancing (Hualien)￻牽手共舞 (花蓮語)"}]}],"t":"likid"}
-,"liklon":{"h":[{"d":[{"l":["`loklon~","`saliklon~"],"f":"￹￺to go down hill * descend￻下坡，下去"}]}],"t":"liklon"}
+,"likid":{"h":[{"d":[{"f":"￹￺to be carried along by swift current of the river or ocean￻沖走，流走，急流"},{"s":["`malalikilikid~"],"f":"￹￺to hold hands in dancing (Hualien)￻牽手共舞 (花蓮語)"}]}],"t":"likid"}
 ,"likoda":{"h":[{"d":[{"f":"￹￺aboriginal dance and festivities of the annual harvest festival￻每年慶祝豐年節日所跳之舞蹈"}]}],"t":"likoda"}
-,"likot":{"h":[{"d":[{"l":["`liyok~"],"f":"￹￺to surround with the purpose of defeating and taking as in war￻包圍，圍攻，圍剿"}]}],"t":"likot"}
+,"likot":{"h":[{"d":[{"s":["`liyok~"],"f":"￹￺to surround with the purpose of defeating and taking as in war￻包圍，圍攻，圍剿"}]}],"t":"likot"}
 ,"lilac":{"h":[{"d":[{"f":"￹￺body dirt from not bathing￻不乾淨，汙垢"}]}],"t":"lilac"}
 ,"lilal":{"h":[{"d":[{"f":"￹￺the underside bamboo poles of a sleeping platform￻用竹竿在下面做一個床臺"}]}],"t":"lilal"}
 ,"lileng":{"h":[{"d":[{"f":"￹￺to spin * twirl￻轉動，旋轉，迴轉"},{"f":"￹￺to be dizzy￻暈眩"}]}],"t":"lileng"}
-,"lilid":{"h":[{"d":[{"e":["￹`Malalilid~ `kita~ `a~ `mi'orong~.￺Let's carry (it) together.￻我們在一起來扛舉"],"f":"￹￺for two people to carry something on a pole￻抬，扛，撐"}]}],"t":"lilid"}
-,"lilis":{"h":[{"d":[{"l":["`mililis~"],"e":["￹`lilis~ `no~ `riyar~￺the seashore￻海岸"],"f":"￹￺the edge of a body of water￻邊緣"}]}],"t":"lilis"}
+,"lilid":{"h":[{"d":[{"e":["￹`Mala~`lilid~ `kita~ `a~ `mi~`'orong~.￺Let's carry (it) together.￻我們在一起來扛舉"],"f":"￹￺for two people to carry something on a pole￻抬，扛，撐"}]}],"t":"lilid"}
+,"lilis":{"h":[{"d":[{"s":["`mililis~"],"e":["￹`lilis~ `no~ `riyar~￺the seashore￻海岸"],"f":"￹￺the edge of a body of water￻邊緣"}]}],"t":"lilis"}
 ,"lilit":{"h":[{"d":[{"f":"￹￺an instrument for boring a hole￻鑽孔器"},{"f":"￹￺to wrap a narrow cloth around an old man's head￻綁於長者頭上的小布帶"}]}],"t":"lilit"}
 ,"liliw":{"h":[{"d":[{"f":"￹￺to go to each house and give them a message￻挨家挨戶傳信息"},{"f":"￹￺to go from house to house to gather people together￻召令人們匯集一處"}]}],"t":"liliw"}
 ,"lilom":{"h":[{"d":[{"f":"￹￺no strength in legs to walk as when bedfast or very ill￻走路無力，重心不穩，軟弱無力"}]}],"t":"lilom"}
-,"lima":{"h":[{"d":[{"l":["`sakalima~","`lalimaay~","`limaay~"],"f":"￹￺five￻五，五個"}]}],"t":"lima"}
-,"limaay":{"h":[{"d":[{"l":["`lima~"],"f":"￹￺five objects or animals￻五個事物或動物"}]}],"t":"limaay"}
+,"lima":{"h":[{"d":[{"s":["`sakalima~","`lalimaay~","`limaay~"],"f":"￹￺five￻五，五個"}]}],"t":"lima"}
+,"limaay":{"h":[{"d":[{"s":["`lima~"],"f":"￹￺five objects or animals￻五個事物或動物"}]}],"t":"limaay"}
 ,"limad":{"h":[{"d":[{"f":"￹￺to move something￻搬動，移動"}]}],"t":"limad"}
-,"limaw":{"h":[{"d":[{"l":["`cilimaw~"],"f":"￹￺free time * leisure￻空閒，閒暇"}]}],"t":"limaw"}
-,"limecedan":{"h":[{"d":[{"l":["`kaying~"],"f":"￹￺a young girl * woman who is unmarried￻少女，童女，小姐，未婚女子"}]}],"t":"limecedan"}
-,"limek":{"h":[{"d":[{"l":["`palimek~"],"f":"￹￺to hide oneself￻躲藏，隱藏"}]}],"t":"limek"}
-,"limla":{"h":[{"d":[{"l":["`kakalimlaan~"],"e":["￹`Kakalimlaen~.￺Value it / don't waste it.￻珍惜它，勿浪費它，勿虛耗"],"f":"￹￺to attach significance to * important￻珍惜，愛惜，重要"},{"f":"￹￺to grudgingly withhold￻吝惜"}]}],"t":"limla"}
-,"limo%27ot":{"h":[{"d":[{"l":["`palimo'ot~"],"f":"￹￺command * instruction * exhortation￻命令，教訓，訓誨，勸戒，訓話"}]}],"t":"limo'ot"}
-,"limpo":{"h":[{"d":[{"l":["`linfo~"],"f":"￹￺a tree * Java apple * Renbu Wax apple (from Amoy dialect and Japanese)￻蓮霧樹 (引自閩南語)"}]}],"t":"limpo"}
-,"linah":{"h":[{"d":[{"e":["￹`Linahen~ `konini~￺Move this (thing) .￻應搬離這個，移走這個","￹`Malinahto~ `kami~.￺We have moved (our home).￻我們已搬家了"],"f":"￹￺to move from one place to another￻移動，遷移，搬離"}]}],"t":"linah"}
+,"limaw":{"h":[{"d":[{"s":["`cilimaw~"],"f":"￹￺free time * leisure￻空閒，閒暇"}]}],"t":"limaw"}
+,"limecedan":{"h":[{"d":[{"s":["`y~^`ing~"],"f":"￹￺a young girl * woman who is unmarried￻少女，童女，小姐，未婚女子"}]}],"t":"limecedan"}
+,"limek":{"h":[{"d":[{"s":["`palimek~"],"f":"￹￺to hide oneself￻躲藏，隱藏"}]}],"t":"limek"}
+,"limela":{"h":[{"d":[{"s":["`kakalimelaan~"],"e":["￹`kalimelaen~.￺Value it / don't waste it.￻珍惜它，勿浪費它，勿虛耗"],"f":"￹￺to attach significance to * important￻珍惜，愛惜，重要"},{"f":"￹￺to grudgingly withhold￻吝惜"}]}],"t":"limela"}
+,"limo%27ot":{"h":[{"d":[{"s":["`palimo'ot~"],"f":"￹￺command * instruction * exhortation￻命令，教訓，訓誨，勸戒，訓話"}]}],"t":"limo'ot"}
+,"limpo":{"h":[{"d":[{"s":["`linfo~"],"f":"￹￺a tree * Java apple * Renbu Wax apple (from Amoy dialect and Japanese)￻蓮霧樹 (引自閩南語)"}]}],"t":"limpo"}
+,"linah":{"h":[{"d":[{"e":["￹`Linahen~ `konini~￺Move this (thing) .￻應搬離這個，移走這個","￹`Ma~`linah~ `to~ `kami~.￺We have moved (our home).￻我們已搬家了"],"f":"￹￺to move from one place to another￻移動，遷移，搬離"}]}],"t":"linah"}
 ,"linalin":{"h":[{"d":[{"f":"￹￺a species of seaweed that is edible￻海邊一種特殊海草可食植物"}]}],"t":"linalin"}
-,"linay":{"h":[{"d":[{"l":["`dinay~"],"f":"￹￺umbrella￻傘，雨傘"}]}],"t":"linay"}
+,"linay":{"h":[{"d":[{"s":["`dinay~"],"f":"￹￺umbrella￻傘，雨傘"}]}],"t":"linay"}
 ,"lineknek":{"h":[{"d":[{"f":"￹￺for water to be settled so that dirt is at the bottom￻將水的污物沈澱於底部"}]}],"t":"lineknek"}
-,"linfo":{"h":[{"d":[{"l":["`limpo~"],"f":"￹￺bell fruit and its tree￻蓮霧 (樹)"}]}],"t":"linfo"}
-,"lingad":{"h":[{"d":[{"f":"￹￺to set out for work in the fields￻啓程上田工作"},{"f":"￹￺to go off to work￻進行工作"},{"l":["`malingaday~","`sakalingad~"],"f":"￹￺to set out for military duty￻出征"}]}],"t":"lingad"}
+,"linfo":{"h":[{"d":[{"s":["`limpo~"],"f":"￹￺bell fruit and its tree￻蓮霧 (樹)"}]}],"t":"linfo"}
+,"lingad":{"h":[{"d":[{"f":"￹￺to set out for work in the fields￻啓程上田工作"},{"f":"￹￺to go off to work￻進行工作"},{"s":["`malingaday~","`sakalingad~"],"f":"￹￺to set out for military duty￻出征"}]}],"t":"lingad"}
 ,"lingato":{"h":[{"d":[{"f":"￹￺See gato.  to begin￻參閱 gato  開始"}]}],"t":"lingato"}
 ,"lingesa%27":{"h":[{"d":[{"f":"￹￺the gills of a fish￻魚鰓"}]}],"t":"lingesa'"}
 ,"lingka":{"h":[{"d":[{"f":"￹￺a brick * bricks (from Japanese)￻紅磚 (引自日語)"}]}],"t":"lingka"}
 ,"lingko":{"h":[{"d":[{"f":"￹￺an apple * apples (from Japanese)￻蘋果 (引自日語)"}]}],"t":"lingko"}
 ,"lingling":{"h":[{"d":[{"f":"￹￺to approach and look at something with desire to get it, as a scavenger or flies do￻祈討，圍繞，圍觀，如清道夫和蒼蠅一般"}]}],"t":"lingling"}
-,"lingod":{"h":[{"d":[{"l":["`milingod~"],"e":["￹`Malingod~ `no~ `paadadaay~ `a~ `kawas~ `koya~ `adadaay~.￺The gods of sickness are gathered around that sick person.￻病魔們覬覦圍繞着病人"],"f":"￹￺to gather to look at something interesting￻圍觀，觀看，觀望"}]}],"t":"lingod"}
-,"lingses":{"h":[{"d":[{"l":["`kalingsesan~"],"e":["￹`Salingses~ `sa~ `kako~.￺I responded with revulsion.￻我感覺噁心"],"f":"￹￺revulsion at seeing, as to see someone die or to see blood￻驚嚇，恐佈，如遇見某人死去或看見其流血"}]}],"t":"lingses"}
+,"lingod":{"h":[{"d":[{"s":["`milingod~"],"e":["￹`Ma~`lingod~ `no~ `pa~`adada~`ay~ `a~ `kawas~ `koya~ `adada~`ay~.￺The gods of sickness are gathered around that sick person.￻病魔們覬覦圍繞着病人"],"f":"￹￺to gather to look at something interesting￻圍觀，觀看，觀望"}]}],"t":"lingod"}
+,"lingses":{"h":[{"d":[{"s":["`kalingsesan~"],"e":["￹`Sa~`lingses~ `~ `kako~.￺I responded with revulsion.￻我感覺噁心"],"f":"￹￺revulsion at seeing, as to see someone die or to see blood￻驚嚇，恐佈，如遇見某人死去或看見其流血"}]}],"t":"lingses"}
 ,"lingwa":{"h":[{"d":[{"f":"￹￺to identify with * to pay attention to￻注意，關心"}]}],"t":"lingwa"}
-,"liomah":{"h":[{"d":[{"l":["`omah~"],"f":"￹￺many fields￻擴大的田地"}]}],"t":"liomah"}
-,"lipa":{"h":[{"d":[{"f":"￹￺a rectangle￻長方形，矩形"},{"e":["￹`katatlekan~ `a~ `lipa~ `no~ `Tapang~￺the Lord's covenant box￻約櫃","￹`Masalipa~ `ko~ `fawahan~.￺The doorframe is rectangular.￻門櫃是長方形的"],"f":"￹￺a wooden box￻櫃子，木箱"}]}],"t":"lipa"}
-,"lipahak":{"h":[{"d":[{"l":["`kalipahakan~"],"e":["￹`salipahak~ `sa~￺response of joy￻感到很愉快的"],"f":"￹￺joy * delight * pleasure￻喜樂，歡欣，愉快，欣喜，高興"}]}],"t":"lipahak"}
+,"liomah":{"h":[{"d":[{"s":["`omah~"],"f":"￹￺many fields￻擴大的田地"}]}],"t":"liomah"}
+,"lipa":{"h":[{"d":[{"f":"￹￺a rectangle￻長方形，矩形"},{"e":["￹`tatelekan~ `a~ `lipa~ `no~ `Tapang~￺the Lord's covenant box￻約櫃","￹`salipa~ `ko~ `fawahan~.￺The doorframe is rectangular.￻門櫃是長方形的"],"f":"￹￺a wooden box￻櫃子，木箱"}]}],"t":"lipa"}
+,"lipahak":{"h":[{"d":[{"s":["`kalipahakan~"],"e":["￹`sa~`lipahak~ `~￺response of joy￻感到很愉快的"],"f":"￹￺joy * delight * pleasure￻喜樂，歡欣，愉快，欣喜，高興"}]}],"t":"lipahak"}
 ,"lipalaw":{"h":[{"d":[{"f":"￹￺to be deceived * misled as to the existence of something to be received at a certain place￻矇混，矇騙，溜走"},{"f":"￹￺to be attacked suddenly from the rear and taken by completesurprise￻突然地從後面襲來"}]}],"t":"lipalaw"}
-,"lipaw":{"h":[{"d":[{"e":["￹`Misalipaw~ `ko~ `tamdaw~ `ci~ `Pawloan~.￺People laid in wait to destroy Paul.￻人們伺機欲殺害保羅"],"f":"￹￺to plan and wait hoping to deceive with intent to destroy￻陰謀計策，伺機而動"}]}],"t":"lipaw"}
-,"lipay":{"h":[{"d":[{"l":["`lihay~","`pilipayan~"],"e":["￹`saka~ `ccay~ `no~ `lipay~￺the first day after worship - Monday￻拜後之第一天，星期一"],"f":"￹￺worship￻禮拜，敬拜"}]}],"t":"lipay"}
-,"lipot":{"h":[{"d":[{"f":"￹￺to wrap up tobacco and make a cigarette￻裹住烟草做成香烟"},{"l":["`kafer~"],"f":"￹￺trousers￻短褲"}]}],"t":"lipot"}
-,"lipowak":{"h":[{"d":[{"f":"￹￺to burst open￻猛然裂開"},{"e":["￹`Cingra~ `ko~ `palipowakay~.￺It was he who spoke causing people to scatter in different directions.￻他就是使人四處奔竄之人"],"f":"￹￺to be scattered in different directions￻四處分散，離散，驅散"}]}],"t":"lipowak"}
-,"lisaot":{"h":[{"d":[{"e":["￹`kalisaotan~ `no~ `Yotaya~ `a~ `tamdaw~￺Jewish council hall￻猶太人之會堂，會議廳"],"f":"￹￺to gather together for discussion￻群集討論，磋商"}]}],"t":"lisaot"}
-,"lisin":{"h":[{"d":[{"l":["`cilisinay~","`ilisin~","`misalisin~","`pisalisinan~"],"e":["￹`malisinay~ `a~ `tamdaw~￺a person devoted to animistic religion￻沈迷於萬靈崇拜的人"],"f":"￹￺superstitions * animistic worship￻迷信，禁忌，祭典 (物魅崇拜之祭典)"}]}],"t":"lisin"}
+,"lipaw":{"h":[{"d":[{"e":["￹`Misa~`lipaw~ `ko~ `tamdaw~ `~ `wloan~.￺People laid in wait to destroy Paul.￻人們伺機欲殺害保羅"],"f":"￹￺to plan and wait hoping to deceive with intent to destroy￻陰謀計策，伺機而動"}]}],"t":"lipaw"}
+,"lipay":{"h":[{"d":[{"s":["`lihay~","`pilipayan~"],"e":["￹`saka~ `cecay~ `no~ `lipay~￺the first day after worship - Monday￻拜後之第一天，星期一"],"f":"￹￺worship (from Amoy dialect)￻禮拜，敬拜 (引自閩南語)"}]}],"t":"lipay"}
+,"lipot":{"h":[{"d":[{"f":"￹￺to wrap up tobacco and make a cigarette￻裹住烟草做成香烟"},{"s":["`kafer~"],"f":"￹￺trousers￻短褲"}]}],"t":"lipot"}
+,"lipowak":{"h":[{"d":[{"f":"￹￺to burst open￻猛然裂開"},{"e":["￹`ngra~ `ko~ `pa~`lipowak~`ay~.￺It was he who spoke causing people to scatter in different directions.￻他就是使人四處奔竄之人"],"f":"￹￺to be scattered in different directions￻四處分散，離散，驅散"}]}],"t":"lipowak"}
+,"lisaot":{"h":[{"d":[{"e":["￹`ka~`lisaot~`an~ `no~ `Yotaya~ `a~ `tamdaw~￺Jewish council hall￻猶太人之會堂，會議廳"],"f":"￹￺to gather together for discussion￻群集討論，磋商"}]}],"t":"lisaot"}
+,"lisin":{"h":[{"d":[{"s":["`cilisinay~","`ilisin~","`misalisin~","`pisalisinan~"],"e":["￹`ma~`lisin~`ay~ `a~ `tamdaw~￺a person devoted to animistic religion￻沈迷於萬靈崇拜的人"],"f":"￹￺superstitions * animistic worship￻迷信，禁忌，祭典 (物魅崇拜之祭典)"}]}],"t":"lisin"}
 ,"liso%27":{"h":[{"d":[{"f":"￹￺to visit￻拜訪，訪問"}]}],"t":"liso'"}
-,"lita%27ang":{"h":[{"d":[{"l":["`lata'ang~","`kalita'angan~"],"e":["￹`malita'ang~ / `malata'ang~ `kako~ `to~ `wawa~ `ako~.￺I am proud of my child.￻我以我的孩子為傲","￹`o~ `sakalita'ang~ `ako~￺the thing that causes pride￻我所引以為傲的事","￹`Akato~ `pisalita'ata'ang~ `a~ `somowal~.￺Stop your proud talking.￻停止你高傲的言論"],"f":"￹￺pride￻自高，驕傲，自負，自視甚高"}]}],"t":"lita'ang"}
-,"litahom":{"h":[{"d":[{"l":["`tihlom~"],"f":"￹￺for a crowd to gather around a single individual or thing￻羣眾，聚集圍繞(一人或一件東西)"}]}],"t":"litahom"}
-,"liteng":{"h":[{"d":[{"l":["`to'as~","`malitengay~","`mato'asay~"],"e":["￹`no~ `litengho~ `a~ `dmak~￺affairs related to ancestors * former life style￻古代的事，古代的生活方式"],"f":"￹￺old * referring to man only￻長者，老人，長輩"}]}],"t":"liteng"}
+,"lita%27ang":{"h":[{"d":[{"s":["`lata'ang~","`kalita'angan~"],"e":["￹`ma~`lita'ang~ / `lata'ang~ `kako~ `to~ `wawa~ `ako~.￺I am proud of my child.￻我以我的孩子為傲","￹`o~ `saka~`lita'ang~ `ako~￺the thing that causes pride￻我所引以為傲的事","￹`Akato~ `salita'ata'ang~ `a~ `somowal~.￺Stop your proud talking.￻停止你高傲的言論"],"f":"￹￺pride￻自高，驕傲，自負，自視甚高"}]}],"t":"lita'ang"}
+,"litahom":{"h":[{"d":[{"s":["`tihelom~"],"f":"￹￺for a crowd to gather around a single individual or thing￻羣眾，聚集圍繞(一人或一件東西)"}]}],"t":"litahom"}
+,"litemoh":{"h":[{"d":[{"e":["￹`Ma~`litemoh~ `nira~ `kako~.￺I was met by him.￻我被他碰見","￹`Litmohen~ `kako~ `haw~.￺Please meet me.￻請來接我","￹`Mala~`litemoh~ `cangra~.￺The two of them met each other.￻他們相遇"],"f":"￹￺to meet * greet * receive￻遇見，歡迎，迎接，問候"}]}],"t":"litemoh"}
+,"liteng":{"h":[{"d":[{"s":["`to'as~","`malitengay~","`ma~`to'as~`ay~"],"e":["￹`no~ `liteng~`ho~ `a~ `demak~￺affairs related to ancestors * former life style￻古代的事，古代的生活方式"],"f":"￹￺old * referring to man only￻長者，老人，長輩"}]}],"t":"liteng"}
 ,"liti%27":{"h":[{"d":[{"f":"￹￺to castrate * procedure to make infertile￻閹割，割禮，去勢"}]}],"t":"liti'"}
-,"litmoh":{"h":[{"d":[{"e":["￹`Malitmoh~ `nira~ `kako~.￺I was met by him.￻我被他碰見","￹`Litmohen~ `kako~ `haw~.￺Please meet me.￻請來接我","￹`Malalitmoh~ `cangra~.￺The two of them met each other.￻他們相遇"],"f":"￹￺to meet * greet * receive￻遇見，歡迎，迎接，問候"}]}],"t":"litmoh"}
-,"litod":{"h":[{"d":[{"f":"￹￺to harvest crops￻收穫，收割，割取，收取"},{"e":["￹`Malitod~ `koya~ `pacek~.￺The nail came out.￻釘子拔掉了，釘子拔出來了","￹`Litoden~ `koya~ `pacek~.￺Pull out the nail.￻把釘子拔下","￹`O~ `pilitodan~ `to~ `mami'~ `anini~.￺It is time to harvest oranges.￻今天是採收柑橘之時日"],"f":"￹￺to pick * pluck off * pull off￻拔，取，採，摘"}]}],"t":"litod"}
+,"litod":{"h":[{"d":[{"f":"￹￺to harvest crops￻收穫，收割，割取，收取"},{"e":["￹`Ma~`litod~ `koya~ `pacek~.￺The nail came out.￻釘子拔掉了，釘子拔出來了","￹`Litoden~ `koya~ `pacek~.￺Pull out the nail.￻把釘子拔下","￹`O~ `pi~`litod~`an~ `to~ `mami'~ `anini~.￺It is time to harvest oranges.￻今天是採收柑橘之時日"],"f":"￹￺to pick * pluck off * pull off￻拔，取，採，摘"}]}],"t":"litod"}
 ,"litox":{"h":[{"d":[{"f":"￹￺Taiwan Gordonia * a tree￻大頭茶"}]}],"t":"litox"}
-,"liwal":{"h":[{"d":[{"l":["`paliwal~"],"f":"￹￺to sell￻賣，出售"}]}],"t":"liwal"}
-,"liwasak":{"h":[{"d":[{"l":["`lopisak~"],"f":"￹￺to scatter out in different directions from one central place of people and living things￻人和有生命的東西從一中心四處擴散"}]}],"t":"liwasak"}
-,"liway":{"h":[{"d":[{"f":"￹￺to fast * go without food￻戒食，禁食"},{"l":["`saliway~","`pisaliwayan~","`piliwayan~","`misaliway~"],"f":"￹￺to be without food￻沒有食物可吃，餓肚子"}]}],"t":"liway"}
-,"liyad":{"h":[{"d":[{"e":["￹`saliyaliyad~ `sa~￺again and again in succession￻一波又一波，連綿迭起，反反覆覆"],"f":"￹￺a single wave which is a part of a succession of waves heading toward shore￻沖擊岸邊的一陣波浪"},{"f":"￹￺a section￻一部份"},{"f":"￹￺a lesson￻一課"}]}],"t":"liyad"}
-,"liyang":{"h":[{"d":[{"f":"￹￺to disobey￻不服從"},{"l":["`kalaliyang~"],"e":["￹`maliyangay~ `a~ `wawa~￺child disobeys * does as he pleases￻叛逆的小孩，我行我素的小孩"],"f":"￹￺obstinate * perverse￻違逆，頑固，倔強，乖張，惡劣不羈"}]}],"t":"liyang"}
-,"liyas":{"h":[{"d":[{"f":"￹￺to leave * go away￻離開，分離"},{"e":["￹`Liyasen~ `ko~ `paliding~.￺Get out of the way of the car.￻躲開車子","￹`Maliyas~ `ako~ `ko~ `katalawan~.￺I escaped danger.￻我逃離危險, 我倖免災禍","￹`Miliyas~ `cingra~ `to~ `niyaro'~.￺He left the village.￻他離開村莊，他遠走他鄉，他離鄉背井","￹`Paliyasen~ `koya~ `wawa~ `to~ `waco~.￺Get the child away from the dog.￻把那孩子遠離狗","￹`Papilyasen~ `koya~ `wawa~ `to~ `waco~.￺Make the child go away from the dog.￻使那孩子遠離狗","￹`Awaay~ `ko~ `piliyaliyasan~.￺There was no place of escape.￻無處可躲"],"f":"￹￺to get out of the way￻出軌"}]}],"t":"liyas"}
-,"liyaw":{"h":[{"d":[{"f":"￹￺again￻重覆"},{"e":["￹`Saliyaliyawen~ `ko~ `dmak~.￺Do the activity over and over.￻做事情要重覆審慎地做","￹`Liyawen~￺Do it again.￻請重新做","￹`Liyawenho~.￺Do it once more.￻重新再做","￹`Maliyaw~ `ko~ `faloco'~ `nira~.￺His heart has changed.￻他的心改變了"],"f":"￹￺do again￻重做，再做"},{"e":["￹`O~ `niliyawan~ `nira~ `ko~ `loma'~ `ako~.￺He remodelled my house.￻他重新整修我的房子","￹`piliyawan~ `no~ `cidal~￺late afternoon￻下午 (3至4時)"],"f":"￹￺to repair * remodel￻修理，修改，重新塑造"}]}],"t":"liyaw"}
+,"liwal":{"h":[{"d":[{"s":["`pa~`liwal~"],"f":"￹￺to sell￻賣，出售"}]}],"t":"liwal"}
+,"liwasak":{"h":[{"d":[{"s":["`lopisak~"],"f":"￹￺to scatter out in different directions from one central place of people and living things￻人和有生命的東西從一中心四處擴散"}]}],"t":"liwasak"}
+,"liway":{"h":[{"d":[{"f":"￹￺to fast * go without food￻戒食，禁食"},{"s":["`saliway~","`pisaliwayan~","`pi~`liway~`an~","`misaliway~"],"f":"￹￺to be without food￻沒有食物可吃，餓肚子"}]}],"t":"liway"}
+,"liyad":{"h":[{"d":[{"e":["￹`Ihakowa~ `a~ `liyad~ `kiso~ `a~ `wad~ `a~ `mi~`tilid~?￺What class did you graduate with?￻你是那一屆的畢業生"],"f":"￹￺groups following each other in succession￻人羣一團跟著一團"},{"f":"￹￺vehicles follow each other in succession￻車子一部接著一部"},{"f":"￹￺sections of writings following one another * lessons * chapters￻文章一篇接一篇，著述第幾章第幾節"},{"e":["￹`sa~`liya~`liyad~ `~￺again and again in succession￻一波又一波，連綿迭起，反反覆覆"],"f":"￹￺a single wave which is a part of a succession of waves heading toward shore￻沖擊岸邊的一陣波浪"},{"f":"￹￺a section￻一部份"},{"s":["`masaliyaliyad~"],"f":"￹￺a lesson￻一課"}]}],"t":"liyad"}
+,"liyang":{"h":[{"d":[{"f":"￹￺to disobey￻不服從"},{"s":["`kalaliyang~"],"e":["￹`ma~`liyang~`ay~ `a~ `wawa~￺child disobeys * does as he pleases￻叛逆的小孩，我行我素的小孩"],"f":"￹￺obstinate * perverse￻違逆，頑固，倔強，乖張，惡劣不羈"}]}],"t":"liyang"}
+,"liyas":{"h":[{"d":[{"f":"￹￺to leave * go away￻離開，分離"},{"e":["￹`Liyasen~ `ko~ `paliding~.￺Get out of the way of the car.￻躲開車子","￹`Ma~`liyas~ `ako~ `ko~ `ka~`talaw~`an~.￺I escaped danger.￻我逃離危險, 我倖免災禍","￹`Mi~`liyas~ `cingra~ `to~ `niyaro'~.￺He left the village.￻他離開村莊，他遠走他鄉，他離鄉背井","￹`Papi~`liyas~`en~ `koya~ `wawa~ `to~ `waco~.￺Get the child away from the dog.￻把那孩子遠離狗","￹`lyasen~ `koya~ `wawa~ `to~ `waco~.￺Make the child go away from the dog.￻使那孩子遠離狗","￹`Awaay~ `ko~ `pi~`liya~`liyasan~.￺There was no place of escape.￻無處可躲"],"f":"￹￺to get out of the way￻出軌"}]}],"t":"liyas"}
+,"liyaw":{"h":[{"d":[{"f":"￹￺again￻重覆"},{"e":["￹`Sa~`liya~`liyawen~ `ko~ `demak~.￺Do the activity over and over.￻做事情要重覆審慎地做","￹`Liyawen~￺Do it again.￻請重新做","￹`Liyawenho~.￺Do it once more.￻重新再做","￹`Ma~`liyaw~ `ko~ `faloco'~ `nira~.￺His heart has changed.￻他的心改變了"],"f":"￹￺do again￻重做，再做"},{"e":["￹`O~ `ni~`liyaw~`an~ `nira~ `ko~ `loma'~ `ako~.￺He remodelled my house.￻他重新整修我的房子","￹`pi~`liyaw~`an~ `no~ `cidal~￺late afternoon￻下午 (3至4時)"],"f":"￹￺to repair * remodel￻修理，修改，重新塑造"}]}],"t":"liyaw"}
 ,"liyoc":{"h":[{"d":[{"f":"￹￺to turn the direction of something as the driver's wheel￻迴轉，轉動"},{"f":"￹￺to twist * as to twist hair into a knot￻纏繞，盤旋，扭結"}]}],"t":"liyoc"}
-,"liyok":{"h":[{"d":[{"l":["`taliyok~","`miliyok~"],"e":["￹`o~ `liyok~ `no~ `loma'~￺the area around the house￻房子之周遭"],"f":"￹￺the area around a focus center￻四周，周圍"}]}],"t":"liyok"}
+,"liyok":{"h":[{"d":[{"s":["`taliyok~","`miliyok~"],"e":["￹`o~ `liyok~ `no~ `loma'~￺the area around the house￻房子之周遭"],"f":"￹￺the area around a focus center￻四周，周圍"}]}],"t":"liyok"}
 ,"liyon":{"h":[{"d":[{"f":"￹￺to spin * twirl in a circle * to make the rice mill go around and around￻旋轉，巡車；磨坊, 碾壓米成米汁時來回轉動"}]}],"t":"liyon"}
-,"liyot":{"h":[{"d":[{"e":["￹`Miliyot~ `cingra~ `to~ `tangila~ `ako~.￺He twisted my ear.￻他揪扭我的耳朵","￹`Maliyot~ `ko~ `kamay~ `ako~.￺My hand was twisted / sprained.￻我的手扭筋了"],"f":"￹￺to twist literally or figuratively * sometimes causing pain￻字面上或隱喻的轉彎，扭曲，扭轉；有時引起疼痛"}]}],"t":"liyot"}
-,"lkairaira":{"h":[{"d":[{"f":"￹￺there are some of every kind￻應有盡有，花樣齊全"}]}],"t":"lkairaira"}
-,"lkakawa":{"h":[{"d":[{"f":"￹￺principle * rule that governs an activity￻定義，原則，法規"},{"l":["`milkakawa~"],"f":"￹￺tradition * norm for society￻傳統社會倫理規範，風俗"}]}],"t":"lkakawa"}
-,"lkal":{"h":[{"d":[{"e":["￹`Tano~ `lkal~ `sa~ `cangra~ `a~ `tomangic~.￺They wailed.￻他痛哭流涕","￹`Mararid~ `cingra~ `a~ `milkalkal~ `a~ `milngat~ `to~ `sapiloodaw~.￺He continually was calling and challenging to battle.￻他不斷地大聲喊叫來挑釁，引起戰爭"],"f":"￹￺to call with a shrill loud call￻喊叫，尖叫"}]}],"t":"lkal"}
-,"lmed":{"h":[{"d":[{"e":["￹`Cilmed~ `kako~.￺I dreamed a dream.￻我作了一個夢"],"f":"￹￺dream￻夢"},{"l":["`sakalmed~","`pipalmedan~","`kalmedan~"],"e":["￹`Malmed~ `kami~.￺We are blessed.￻我們受祝福，蒙福","￹`Mapalmed~ `no~ `Kawas~ `kita~.￺God has blessed us.￻上帝賜福給我們"],"f":"￹￺blessing￻福分，運氣"},{"e":["￹`O~ `nira~ `a~ `lmed~ `konini~.￺That was his luck.￻那是他的運氣"],"f":"￹￺luck￻好運"}]}],"t":"lmed"}
-,"lnaf":{"h":[{"d":[{"f":"￹￺to be swamped with water (ma-)￻漲水瀰漫"},{"f":"￹￺to paint * paint￻塗，刷，刷油漆"},{"l":["`rnaf~","`malnaf~"],"f":"￹￺dye * to dye￻着色，塗色，染色"}]}],"t":"lnaf"}
-,"lnak":{"h":[{"d":[{"e":["￹`Palnaken~ `ko~ `'ayam~ `namo~.￺Have your birds multiply.￻使你們的雞繁殖眾多，把你們的雞放出去 (收割後，將雞放出來，吃田之落穀)","￹`Malnakto~ `ko~ `'do~.￺Rats are multiplying.￻老鼠繁殖眾多","￹`O~ `talnakan~ `konini~ `a~ `tomay~.￺This bear is a left over member of his species so the bears are not extinct.￻這隻熊是用來繁殖的"],"f":"￹￺to multiply * of living beings and people * increase in population￻生殖，繁殖遍滿，生養眾多，增加人口"}]}],"t":"lnak"}
-,"lneng":{"h":[{"d":[{"l":["`molneng~","`malneng~"],"f":"￹￺to sink * of an animal or a thing￻沈沒，如一隻動物或一件東西沈沒"}]}],"t":"lneng"}
-,"lnga":{"h":[{"d":[{"l":["`malnga~"],"f":"￹￺[malga]￻[malga]"}]}],"t":"lnga"}
-,"lngac":{"h":[{"d":[{"f":"￹￺a kind of plant that has thick stalks * Canna * stalks used for making woven baskets￻月桃；柄，莖，可用來編織籃子"},{"f":"￹￺Shell Ginger (Alpinia speciosa)￻[無漢譯]"},{"f":"￹￺Orchid-flowered Canna￻雜色美人蕉"},{"f":"￹￺Fragrant Garland-flower * a ginger￻蝴蝶花"}]}],"t":"lngac"}
-,"lngat":{"h":[{"d":[{"l":["`langat~","`lalngatan~","`lalngawan~"],"f":"￹￺to challenge * initiate an interchange of words or conflict * to confront￻挑戰，肇端，引發，導致"}]}],"t":"lngat"}
-,"lngaw":{"h":[{"d":[{"l":["`molngaw~","`malngaw~"],"e":["￹`fodoy~ `no~ `sapalngaw~￺clothing worn by headman of village during a ceremony of reciting the genealogy of the clans￻首長穿著儀式的常服在氏族和部落之面前吟誦古代的程序過程"],"f":"￹￺to sprout * start to grow referring to plants and trees￻生長，發芽"}]}],"t":"lngaw"}
-,"lno":{"h":[{"d":[{"f":"￹￺high tide * flooded * of rivers or the ocean￻漲潮 (海水)"}]}],"t":"lno"}
-,"lo%27ngel":{"h":[{"d":[{"l":["`ko'ngel~"],"e":["￹`lo'ngel~ `ko~ `faloco'~￺responsive * agreeable in attitude￻心軟，心易受感動"],"f":"￹￺not hard * tender * as of growing plants￻柔嫩，如初芽"}]}],"t":"lo'ngel"}
-,"lo%27od":{"h":[{"d":[{"l":["`talo'odan~"],"f":"￹￺the back of the neck * human or animal￻人或動物的頸背之部位"}]}],"t":"lo'od"}
-,"lo%27timay":{"h":[{"d":[{"f":"￹￺brown color￻棕色"}]}],"t":"lo'timay"}
-,"locok":{"h":[{"d":[{"e":["￹`Nilocokan~ `ko~ `ca'ang~ `no~ `kilang~.￺The branches are joined on to the tree.￻枝子連於樹上"],"f":"￹￺to be joined￻連結"}]}],"t":"locok"}
+,"liyot":{"h":[{"d":[{"e":["￹`Mi~`liyot~ `cingra~ `to~ `tangila~ `ako~.￺He twisted my ear.￻他揪扭我的耳朵","￹`Ma~`liyot~ `ko~ `kamay~ `ako~.￺My hand was twisted / sprained.￻我的手扭筋了"],"f":"￹￺to twist literally or figuratively * sometimes causing pain￻字面上或隱喻的轉彎，扭曲，扭轉；有時引起疼痛"}]}],"t":"liyot"}
+,"lo%27od":{"h":[{"d":[{"s":["`talo'odan~"],"f":"￹￺the back of the neck * human or animal￻人或動物的頸背之部位"}]}],"t":"lo'od"}
+,"locok":{"h":[{"d":[{"e":["￹`Ni~`locok~`an~ `ko~ `ca'ang~ `no~ `kilang~.￺The branches are joined on to the tree.￻枝子連於樹上"],"f":"￹￺to be joined￻連結"}]}],"t":"locok"}
 ,"lodak":{"h":[{"d":[{"f":"￹￺rattle snake * 100 Pacer * very poisonous￻百步蛇 (毒性強)"}]}],"t":"lodak"}
 ,"lodas":{"h":[{"d":[{"f":"￹￺to burn * referring to skin or tongue￻皮膚或舌尖灼傷或燙傷"}]}],"t":"lodas"}
 ,"lodi%27":{"h":[{"d":[{"f":"￹￺to be red colored * with reference to the sky￻雲彩呈紅色，染紅了半邊天"}]}],"t":"lodi'"}
-,"lodihang":{"h":[{"d":[{"l":["`wadihang~"],"f":"￹￺an echo * a resounding noise￻回音，回響"}]}],"t":"lodihang"}
+,"lodihang":{"h":[{"d":[{"s":["`wadihang~"],"f":"￹￺an echo * a resounding noise￻回音，回響"}]}],"t":"lodihang"}
 ,"lodis":{"h":[{"d":[{"f":"￹￺to be rough * to have waves * as the sea is rough￻洶湧的海浪，大風浪"}]}],"t":"lodis"}
 ,"lodot":{"h":[{"d":[{"f":"￹￺to take back what has been given￻收回，取回已給的東西"}]}],"t":"lodot"}
-,"lofa":{"h":[{"d":[{"l":["`palofaan~"],"f":"￹￺donkey (from Japanese)￻驢 (引自日語)"}]}],"t":"lofa"}
-,"lofang":{"h":[{"d":[{"l":["`milofangay~"],"f":"￹￺a term for an older person seventy or more years old * part of a group￻70歲以上之老人的稱呼"}]}],"t":"lofang"}
-,"lofic":{"h":[{"d":[{"e":["￹`Malofic~ `ko~ `hci~ `no~ `panay~.￺The rice is profuse in grain.￻稻穗結實纍纍"],"f":"￹￺to grow abundantly￻結實纍纍"},{"l":["`milofic~"],"f":"￹￺(South) left over crops on the ground￻稻穀散落滿地 (南部阿美語)"}]}],"t":"lofic"}
+,"loengel":{"h":[{"d":[{"s":["`koengel~"],"e":["￹`loengel~ `ko~ `faloco'~￺responsive * agreeable in attitude￻心軟，心易受感動"],"f":"￹￺not hard * tender * as of growing plants￻柔嫩，如初芽"}]}],"t":"loengel"}
+,"loetimay":{"h":[{"d":[{"f":"￹￺brown color￻棕色"}]}],"t":"loetimay"}
+,"lofa":{"h":[{"d":[{"s":["`palofaan~"],"f":"￹￺donkey (from Japanese)￻驢 (引自日語)"}]}],"t":"lofa"}
+,"lofang":{"h":[{"d":[{"s":["`milofangay~"],"f":"￹￺a term for an older person seventy or more years old * part of a group￻70歲以上之老人的稱呼"}]}],"t":"lofang"}
+,"lofic":{"h":[{"d":[{"e":["￹`Ma~`lofic~ `ko~ `heci~ `no~ `panay~.￺The rice is profuse in grain.￻稻穗結實纍纍"],"f":"￹￺to grow abundantly￻結實纍纍"},{"s":["`milofic~"],"f":"￹￺(South) left over crops on the ground￻稻穀散落滿地 (南部阿美語)"}]}],"t":"lofic"}
 ,"loflof":{"h":[{"d":[{"f":"￹￺an inner room in a house used for storage of utensils and food￻用於貯藏家庭用品和食物的內房"},{"f":"￹￺an enclosed place in the mountains￻一個四面八方圍繞著山的地方"}]}],"t":"loflof"}
 ,"lofoc":{"h":[{"d":[{"f":"￹￺a bag * sack * originally Amis wove sacks for rice￻袋子，麻袋；起初阿美族人編織盛稻穀用之粗布麻袋"}]}],"t":"lofoc"}
 ,"lofong":{"h":[{"d":[{"f":"￹￺a rain cape made from ox hide or tree bark￻用牛皮製作的斗篷下雨遮雨用"}]}],"t":"lofong"}
 ,"lohak":{"h":[{"d":[{"f":"￹￺loose fitting￻稀鬆"},{"f":"￹￺loose soil (not clay)￻鬆土"}]}],"t":"lohak"}
-,"lohok":{"h":[{"d":[{"f":"￹￺name of an Amis village￻花蓮縣玉里鎮福音部落名"},{"l":["`lofic~"],"f":"￹￺(South) to glean left over from harvest￻拾取落穗 (南部阿美語)"},{"f":"￹￺to take part of the crop leaving part in the ground * as sweet potatoes￻拾取地下所剩的農作物如蕃薯"}]}],"t":"lohok"}
-,"lokdaw":{"h":[{"d":[{"f":"￹￺tiger (Panthera pardus)￻老虎"},{"f":"￹￺leopardus pardalis * a leopard￻豹"}]}],"t":"lokdaw"}
+,"lohok":{"h":[{"d":[{"f":"￹￺name of an Amis village￻花蓮縣玉里鎮福音部落名"},{"s":["`lofic~"],"f":"￹￺(South) to glean left over from harvest￻拾取落穗 (南部阿美語)"},{"f":"￹￺to take part of the crop leaving part in the ground * as sweet potatoes￻拾取地下所剩的農作物如蕃薯"}]}],"t":"lohok"}
+,"lokedaw":{"h":[{"d":[{"f":"￹￺tiger (Panthera pardus)￻老虎"},{"f":"￹￺leopardus pardalis * a leopard￻豹"}]}],"t":"lokedaw"}
+,"lokelon":{"h":[{"d":[{"s":["`likelon~","`salokelon~"],"f":"￹￺to go down hill * to descend￻走下坡來，下坡"}]}],"t":"lokelon"}
 ,"lokes":{"h":[{"d":[{"f":"￹￺to revile or speak abusively of someone * denouncee￻欺騙，攻訐，誹謗，公然批擊，羞辱"}]}],"t":"lokes"}
 ,"lokiyo":{"h":[{"d":[{"f":"￹￺a species of green onion (from Amoy dialect)￻洋葱，葱 (引自閩南語)"}]}],"t":"lokiyo"}
-,"loklon":{"h":[{"d":[{"l":["`liklon~","`saloklon~"],"f":"￹￺to go down hill * to descend￻走下坡來，下坡"}]}],"t":"loklon"}
 ,"lokot":{"h":[{"d":[{"f":"￹￺an edible fern that lives off of trees￻生於樹上之食羊齒植物，山蘇花"}]}],"t":"lokot"}
-,"lolo":{"h":[{"d":[{"e":["￹`Maloloay~ `ko~ `riko'~ `nira~.￺Her clothes are blue-purple.￻他的衣服是紫色的"],"f":"￹￺blue-purple￻紫色"}]}],"t":"lolo"}
+,"lolo":{"h":[{"d":[{"e":["￹`Ma~`lolo~`ay~ `ko~ `riko'~ `nira~.￺Her clothes are blue-purple.￻他的衣服是紫色的"],"f":"￹￺blue-purple￻紫色"}]}],"t":"lolo"}
 ,"lolod":{"h":[{"d":[{"f":"￹￺to roll up * as to roll up a mat or paper￻捲，如捲起紙或草蓆"}]}],"t":"lolod"}
-,"lolol":{"h":[{"d":[{"e":["￹`Palololen~ `ko~ `matastasay~.￺Fix up what is spoiled * restoring and returning (to lender).￻修復毀壞之物"],"f":"￹￺to return * referring to things going back to original state￻回復，歸還"}]}],"t":"lolol"}
-,"lolop":{"h":[{"d":[{"l":["`milolop~"],"f":"￹￺a fenced in plot of ground * for garden or animals￻籬笆，圍牆；花園或動物的籬笆"}]}],"t":"lolop"}
-,"loma%27":{"h":[{"d":[{"f":"￹￺a building￻建築"},{"l":["`paloma'~","`pataloma'~","`misaloma'~","`loma'an~"],"f":"￹￺a house * a home￻房屋，住家"}]}],"t":"loma'"}
-,"lomaing":{"h":[{"d":[{"f":"￹￺flexible * pliable￻柔軟的，易彎曲的"},{"l":["`kwaming~","`komaing~"],"f":"￹￺no strength￻柔弱無力"}]}],"t":"lomaing"}
-,"lomaocay":{"h":[{"d":[{"l":["`loac~"],"f":"￹￺councilmen￻市議會議員, 鎮民代表"}]}],"t":"lomaocay"}
-,"lomin":{"h":[{"d":[{"l":["`ci~ `Lomin~","`Lalominan~"],"f":"￹￺a god who understands * sympathizes and encourages￻能同情和鼓勵的神明"}]}],"t":"lomin"}
-,"lomoh":{"h":[{"d":[{"l":["`ti'aw~"],"f":"￹￺Opposited-leaves fig tree￻對葉榕"},{"f":"￹￺Indian Rubber Tree (fiscus elastica)￻橡樹"}]}],"t":"lomoh"}
-,"lonan":{"h":[{"d":[{"l":["`palonanay~"],"f":"￹￺a large boat * ship￻輪船"}]}],"t":"lonan"}
+,"lolol":{"h":[{"d":[{"e":["￹`Pa~`lolol~`en~ `ko~ `ma~`tastas~`ay~.￺Fix up what is spoiled * restoring and returning (to lender).￻修復毀壞之物"],"f":"￹￺to return * referring to things going back to original state￻回復，歸還"}]}],"t":"lolol"}
+,"lolop":{"h":[{"d":[{"s":["`milolop~"],"f":"￹￺a fenced in plot of ground * for garden or animals￻籬笆，圍牆；花園或動物的籬笆"}]}],"t":"lolop"}
+,"loma%27":{"h":[{"d":[{"f":"￹￺a building￻建築"},{"s":["`paloma'~","`pataloma'~","`misaloma'~","`loma'~`an~"],"f":"￹￺a house * a home￻房屋，住家"}]}],"t":"loma'"}
+,"lomaing":{"h":[{"d":[{"f":"￹￺flexible * pliable￻柔軟的，易彎曲的"},{"s":["`kwaming~","`komaing~"],"f":"￹￺no strength￻柔弱無力"}]}],"t":"lomaing"}
+,"lomaocay":{"h":[{"d":[{"s":["`loac~"],"f":"￹￺councilmen￻市議會議員, 鎮民代表"}]}],"t":"lomaocay"}
+,"lomin":{"h":[{"d":[{"s":["`~ `Lomin~","`Lalominan~"],"f":"￹￺a god who understands * sympathizes and encourages￻能同情和鼓勵的神明"}]}],"t":"lomin"}
+,"lomoh":{"h":[{"d":[{"s":["`ti'aw~"],"f":"￹￺Opposited-leaves fig tree￻對葉榕"},{"f":"￹￺Indian Rubber Tree (fiscus elastica)￻橡樹"}]}],"t":"lomoh"}
+,"lonan":{"h":[{"d":[{"s":["`palonanay~"],"f":"￹￺a large boat * ship￻輪船"}]}],"t":"lonan"}
 ,"lonayi%27":{"h":[{"d":[{"f":"￹￺a chain made with links of iron￻鎖鍊，鍊條"}]}],"t":"lonayi'"}
-,"lonen":{"h":[{"d":[{"l":["`ma'atoray~"],"f":"￹￺earthquake￻地震"}]}],"t":"lonen"}
+,"lonen":{"h":[{"d":[{"s":["`ma~`'atoray~"],"f":"￹￺earthquake￻地震"}]}],"t":"lonen"}
 ,"longadi":{"h":[{"d":[{"f":"￹￺a metal bar in the hitch attached to an ox's harness￻鐵鈎以鈎住牛軛"}]}],"t":"longadi"}
-,"longlong":{"h":[{"d":[{"l":["`dawdaw~"],"f":"￹￺a lamp or torch made of bamboo and / or grass￻燈，火炬(用竹片或草製成)"}]}],"t":"longlong"}
+,"longlong":{"h":[{"d":[{"s":["`dawdaw~"],"f":"￹￺a lamp or torch made of bamboo and / or grass￻燈，火炬(用竹片或草製成)"}]}],"t":"longlong"}
 ,"longoc":{"h":[{"d":[{"f":"￹￺request * expressed desire￻要求，懇求"},{"f":"￹￺demand * requirement * as God's demands￻需求，冀求"}]}],"t":"longoc"}
 ,"lono%27":{"h":[{"d":[{"f":"￹￺a running sore large or small￻傷口出膿"}]}],"t":"lono'"}
 ,"lonok":{"h":[{"d":[{"f":"￹￺to do something without being told * spontaneously￻自動自發的"},{"f":"￹￺to do something secretly * avoiding being seen￻默默耕耘"}]}],"t":"lonok"}
 ,"lonol":{"h":[{"d":[{"f":"￹￺to keep up with all that has to be done￻做事徹底完成"}]}],"t":"lonol"}
-,"lood":{"h":[{"d":[{"l":["`kalalood~","`malalood~"],"f":"￹￺to fight * to war against￻攻擊，戰爭"}]}],"t":"lood"}
+,"lood":{"h":[{"d":[{"s":["`kalalood~","`malalood~"],"f":"￹￺to fight * to war against￻攻擊，戰爭"}]}],"t":"lood"}
 ,"lopas":{"h":[{"d":[{"f":"￹￺a peach tree and its fruit￻桃子"}]}],"t":"lopas"}
 ,"lopeng":{"h":[{"d":[{"f":"￹￺a tree * Sweet Acacia (Acacia farnesiana)￻金合歡"}]}],"t":"lopeng"}
 ,"lopet":{"h":[{"d":[{"f":"￹￺to grow thick with no space in between￻緊密，密集"}]}],"t":"lopet"}
-,"lopiko":{"h":[{"d":[{"l":["`piko~","`salopiko~"],"f":"￹￺the bend * curve of a road￻彎路 (交叉路口)"}]}],"t":"lopiko"}
+,"lopiko":{"h":[{"d":[{"s":["`piko~","`salopiko~"],"f":"￹￺the bend * curve of a road￻彎路 (交叉路口)"}]}],"t":"lopiko"}
 ,"lopilop":{"h":[{"d":[{"f":"￹￺to feel light-headed and weak from walking￻走路無力，無精神"}]}],"t":"lopilop"}
 ,"lopini%27":{"h":[{"d":[{"f":"￹￺the part of hair on one's head￻某人部分的頭髮"},{"f":"￹￺to be divided * separated into groups facing each other￻分門別類，分組"}]}],"t":"lopini'"}
-,"lopisak":{"h":[{"d":[{"l":["`liwasak~"],"f":"￹￺to scatter from one central place in all directions, referring to living crea tures and people￻從一個中心分散到四方的現象，指人民和生物擴散的現象"}]}],"t":"lopisak"}
-,"losa%27":{"h":[{"d":[{"l":["`cilosa'~"],"e":["￹`Tanolosa'~ `sa~ `cingra~ `a~ `tomangic~￺He wept with tears.￻他涕淚縱橫"],"f":"￹￺tears￻眼淚"}]}],"t":"losa'"}
-,"losay":{"h":[{"d":[{"l":["`palosayan~"],"f":"￹￺trees that bear some kind of fruit * cultivated by man￻果樹，經人栽培過的"}]}],"t":"losay"}
-,"losid":{"h":[{"d":[{"l":["`lalosidan~","`malalosid~"],"e":["￹`Palosiden~ `ko~ `wawa~.￺Put decorative clothes on the child.￻給孩子裝戴華麗的服飾","￹`Cilalosidan~ `cangra~.￺They have things.￻他們有各樣服飾"],"f":"￹￺decorative clothing￻服飾，裝飾，行李"}]}],"t":"losid"}
-,"losida%27":{"h":[{"d":[{"l":["`losilal~"],"f":"￹￺[see malosida']￻[參閱 malosida']"}]}],"t":"losida'"}
-,"losilal":{"h":[{"d":[{"l":["`losida'~"],"f":"￹￺Refer to `losida'~￻詳見 `losida'~"}]}],"t":"losilal"}
-,"losimet":{"h":[{"d":[{"f":"￹￺to arrange and put in order￻整理，妥善處理"},{"l":["`solimet~"],"f":"￹￺to furnish￻裝修"}]}],"t":"losimet"}
+,"lopisak":{"h":[{"d":[{"s":["`liwasak~"],"f":"￹￺to scatter from one central place in all directions, referring to living crea tures and people￻從一個中心分散到四方的現象，指人民和生物擴散的現象"}]}],"t":"lopisak"}
+,"losa%27":{"h":[{"d":[{"s":["`cilosa'~"],"e":["￹`Tanolosa'~ `~ `cingra~ `a~ `tomangic~￺He wept with tears.￻他涕淚縱橫"],"f":"￹￺tears￻眼淚"}]}],"t":"losa'"}
+,"losay":{"h":[{"d":[{"s":["`palosayan~"],"f":"￹￺trees that bear some kind of fruit * cultivated by man￻果樹，經人栽培過的"}]}],"t":"losay"}
+,"losid":{"h":[{"d":[{"s":["`lalosidan~","`malalosid~"],"e":["￹`Pa~`losid~`en~ `ko~ `wawa~.￺Put decorative clothes on the child.￻給孩子裝戴華麗的服飾","￹`Ci~`lalosidan~ `cangra~.￺They have things.￻他們有各樣服飾"],"f":"￹￺decorative clothing￻服飾，裝飾，行李"}]}],"t":"losid"}
+,"losida%27":{"h":[{"d":[{"s":["`losilal~"],"f":"￹￺[see malosida']￻[參閱 malosida']"}]}],"t":"losida'"}
+,"losilal":{"h":[{"d":[{"s":["`losida'~"],"f":"￹￺Refer to `losida'~￻詳見 `losida'~"}]}],"t":"losilal"}
+,"losimet":{"h":[{"d":[{"f":"￹￺to arrange and put in order￻整理，妥善處理"},{"s":["`solimet~"],"f":"￹￺to furnish￻裝修"}]}],"t":"losimet"}
 ,"losiyang":{"h":[{"d":[{"f":"￹￺to spread * to be told everywhere * with reference to activites or words or a smell￻傳播，傳遞；附註，引證"}]}],"t":"losiyang"}
-,"loso%27":{"h":[{"d":[{"e":["￹`Moloso'~ / `maloso'~ `ko~ `losa'~.￺Tears dropped.￻流下淚來","￹`paloso'~ `to~ `simal~￺to anoint (the sick) with oil * as understood in old Amis religious usage * from this comes the biblical use of anointing for leadership￻膏油，以油塗抹；領導者用油膏受職"],"f":"￹￺to drop * to drip￻滴下"}]}],"t":"loso'"}
-,"losok":{"h":[{"d":[{"l":["`lacik~"],"f":"￹￺candle * candles (from Japanese)￻蠟燭 (引自日語)"}]}],"t":"losok"}
-,"lotay":{"h":[{"d":[{"e":["￹`malotay~ `ko~ `faloco'~￺to lose one's spirit * no heart let (as when interrogated or scolded)￻心靈疲憊"],"f":"￹￺to be exhausted either physically or emotionally￻疲倦，累，無力感，精神疲憊"}]}],"t":"lotay"}
-,"lotlot":{"h":[{"d":[{"e":["￹`Malotlot~ `no~ `paliding~ `ko~ `nipalomaan~ `niyam~ `a~ `tfos~.￺The sugar cane plants we planted are crushed by a vehicle.￻我們的甘蔗被車子壓扁了"],"f":"￹￺to crush * break up * referring to food or plant life or paper￻揉皺，搓破"}]}],"t":"lotlot"}
+,"loso%27":{"h":[{"d":[{"e":["￹`Moloso'~ / `ma~`loso'~ `ko~ `losa'~.￺Tears dropped.￻流下淚來","￹`pa~`loso'~ `to~ `simal~￺to anoint (the sick) with oil * as understood in old Amis religious usage * from this comes the biblical use of anointing for leadership￻膏油，以油塗抹；領導者用油膏受職"],"f":"￹￺to drop * to drip￻滴下"}]}],"t":"loso'"}
+,"losok":{"h":[{"d":[{"s":["`lacik~"],"f":"￹￺candle * candles (from Japanese)￻蠟燭 (引自日語)"}]}],"t":"losok"}
+,"lotay":{"h":[{"d":[{"e":["￹`ma~`lotay~ `ko~ `faloco'~￺to lose one's spirit * no heart let (as when interrogated or scolded)￻心靈疲憊"],"f":"￹￺to be exhausted either physically or emotionally￻疲倦，累，無力感，精神疲憊"}]}],"t":"lotay"}
+,"lotlot":{"h":[{"d":[{"e":["￹`Ma~`lotlot~ `no~ `paliding~ `ko~ `ni~`paloma~`an~ `niyam~ `a~ `tefos~.￺The sugar cane plants we planted are crushed by a vehicle.￻我們的甘蔗被車子壓扁了"],"f":"￹￺to crush * break up * referring to food or plant life or paper￻揉皺，搓破"}]}],"t":"lotlot"}
 ,"lotoc":{"h":[{"d":[{"f":"￹￺a shoot growing up out of a cut stump of a tree or from a broken down banana tree￻樹林被砍伐後另生之旁枝"}]}],"t":"lotoc"}
-,"lotok":{"h":[{"d":[{"l":["`tokos~"],"f":"￹￺mountain￻山嶺，山"},{"f":"￹￺place where trees grow (South) * forest￻森木 (南方語)"}]}],"t":"lotok"}
-,"lotong":{"h":[{"d":[{"l":["`Kalotongan~"],"f":"￹￺a monkey￻猴子"}]}],"t":"lotong"}
-,"lowad":{"h":[{"d":[{"e":["￹`Kalomowad~.￺Get up / Get going!￻奮起，起來"],"f":"￹￺to arise * get up￻起立"},{"e":["￹`Lomowadto~ `kita~.￺Let's get going.￻讓我們勇往直前","￹`o~ `lowad~ `nira~ `konini~￺This is (the day) of his starting out.￻他現在要啓程"],"f":"￹￺to start out * as on a journey￻出發，啟程"}]}],"t":"lowad"}
-,"lowalo":{"h":[{"d":[{"f":"￹￺to rinse mouth with liquid￻漱口"}]}],"t":"lowalo"}
-,"lowan":{"h":[{"d":[{"e":["￹`Malowan~ `ko~ `nika~ `'aloman~ `ita~.￺There are less of us.￻我們人數減少了","￹`Lowanen~ `ko~ `dafong~ `iso~.￺Get rid of some of your things.￻您的東西要減少"],"f":"￹￺to reduce the number or amount￻減少"}]}],"t":"lowan"}
+,"lotok":{"h":[{"d":[{"s":["`tokos~"],"f":"￹￺mountain￻山嶺，山"},{"f":"￹￺place where trees grow (South) * forest￻森木 (南方語)"}]}],"t":"lotok"}
+,"lotong":{"h":[{"d":[{"s":["`Kalotongan~"],"f":"￹￺a monkey￻猴子"}]}],"t":"lotong"}
+,"lowad":{"h":[{"d":[{"e":["￹`lomowad~.￺Get up / Get going!￻奮起，起來"],"f":"￹￺to arise * get up￻起立"},{"e":["￹`Lomowad~ `to~ `kita~.￺Let's get going.￻讓我們勇往直前","￹`o~ `lowad~ `nira~ `konini~￺This is (the day) of his starting out.￻他現在要啓程"],"f":"￹￺to start out * as on a journey￻出發，啟程"}]}],"t":"lowad"}
+,"lowalo%27":{"h":[{"d":[{"f":"￹￺to rinse mouth with liquid￻漱口"}]}],"t":"lowalo'"}
+,"lowan":{"h":[{"d":[{"e":["￹`Ma~`lowan~ `ko~ `nika~ `'aloman~ `ita~.￺There are less of us.￻我們人數減少了","￹`Lowanen~ `ko~ `dafong~ `iso~.￺Get rid of some of your things.￻您的東西要減少"],"f":"￹￺to reduce the number or amount￻減少"}]}],"t":"lowan"}
 ,"lowi%27":{"h":[{"d":[{"f":"￹￺the squeal of a pig or a child￻悲鳴，豬叫聲或小孩子的叫聲"}]}],"t":"lowi'"}
-,"lowid":{"h":[{"d":[{"l":["`dawa~","`tapi'~","`pakalowid~"],"e":["￹`Lowiden~ `ko~ `'ada~.￺Conquer your enemy.￻征服，戰勝敵人","￹`Malowid~ `no~ `'ada~ `kita~.￺We are defeated by our enemies.￻我們被敵人打敗"],"f":"￹￺defeat * conquer￻抗衡，征服，打敗"}]}],"t":"lowid"}
+,"lowid":{"h":[{"d":[{"s":["`dawa~","`tapi'~","`pakalowid~"],"e":["￹`Lowiden~ `ko~ `'ada~.￺Conquer your enemy.￻征服，戰勝敵人","￹`Ma~`lowid~ `no~ `'ada~ `kita~.￺We are defeated by our enemies.￻我們被敵人打敗"],"f":"￹￺defeat * conquer￻抗衡，征服，打敗"}]}],"t":"lowid"}
 ,"loyoh":{"h":[{"d":[{"f":"￹￺to collapes * as a house or tree blown by the wind￻倒塌，瓦解，崩潰"}]}],"t":"loyoh"}
-,"lpel":{"h":[{"d":[{"f":"￹￺to follow after * pursue￻追求，追逐"},{"l":["`ko'ko~"],"f":"￹￺to chase * drive away￻追趕，驅逐"},{"f":"￹￺to grab hold of * catch￻攫住，擒拿"}]}],"t":"lpel"}
-,"lpon":{"h":[{"d":[{"e":["￹`Malponto~ `ko~ `pipatiko~ `to~ `tadah~.￺The debt has been paid back (finished) .￻債務已還清了"],"f":"￹￺to finish * complete * come to an end￻完成，完全，還清，終止，補足，補全"}]}],"t":"lpon"}
-,"lsafon":{"h":[{"d":[{"l":["`malsafon~","`milsafon~"],"f":"￹￺[See malsafon]￻[參閱 malsafon]"}]}],"t":"lsafon"}
-,"lsi%27":{"h":[{"d":[{"f":"￹￺to splash water out of an area till it becomes dry￻激濺，濺濕"}]}],"t":"lsi'"}
-,"lso%27":{"h":[{"d":[{"e":["￹`Samolso'~ `sato~ `ko~ `nanom~ `i~ `pipacakatan~.￺Water dripped / ran down over the sides of the altar.￻水濺濕祭壇"],"f":"￹￺to drip fast * run * with reference to water￻滴水，漏水"}]}],"t":"lso'"}
-,"ltek":{"h":[{"d":[{"f":"￹￺to cut trees￻砍伐樹木"}]}],"t":"ltek"}
-,"ltep":{"h":[{"d":[{"f":"￹￺to find someone committing an act in the act￻恰遇"},{"l":["`takop~"],"e":["￹`Maltep~ `ako~ `ko~ `dmak~ `nira~.￺I overtook him in what he was doing (redoing the wrong direction of his acts).￻我追上他所作的工作，我趕上他所做的"],"f":"￹￺to catch up with￻趕上"}]}],"t":"ltep"}
-,"ltoh":{"h":[{"d":[{"f":"￹￺to howl * the sound of a dog or lion￻狗吠，咆哮，獅子吼叫"}]}],"t":"ltoh"}
 }

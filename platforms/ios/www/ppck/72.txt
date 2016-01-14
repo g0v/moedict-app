@@ -1,4 +1,4 @@
-{"Harawan":{"h":[{"d":[{"l":["`harawan~"],"f":"￹￺Refer to `harawan~￻詳見 `harawan~"}]}],"t":"Harawan"}
-,"Hatotoan":{"h":[{"d":[{"l":["`hatotoan~"],"f":"￹￺Refer to `hatotoan~￻詳見 `hatotoan~"}]}],"t":"Hatotoan"}
-,"Holam":{"h":[{"d":[{"l":["`holam~"],"f":"￹￺Refer to `holam~￻詳見 `holam~"}]}],"t":"Holam"}
+{"Harawan":{"h":[{"d":[{"s":["`harawan~"],"f":"￹￺Refer to `harawan~￻詳見 `harawan~"}]}],"t":"Harawan"}
+,"Hatotoan":{"h":[{"d":[{"s":["`hatotoan~"],"f":"￹￺Refer to `hatotoan~￻詳見 `hatotoan~"}]}],"t":"Hatotoan"}
+,"Holam":{"h":[{"d":[{"s":["`holam~"],"f":"￹￺Refer to `holam~￻詳見 `holam~"}]}],"t":"Holam"}
 }

@@ -1,50 +1,50 @@
 {"da%27at":{"h":[{"d":[{"f":"￹￺to suffocate * smother * in or out of water￻被煙或水嗆住不能呼吸"}]}],"t":"da'at"}
 ,"da%27ci":{"h":[{"d":[{"f":"￹￺the name of a species of bamboo￻一種很特別的竹子"},{"f":"￹￺young shoots of a slender edible bamboo￻細長可食的竹筍，竹箭筍"}]}],"t":"da'ci"}
-,"da%27moh":{"h":[{"d":[{"f":"￹￺smooth * not rough * as of wood￻光滑， 不粗糙"},{"l":["`dihmih~"],"f":"￹￺soft * not scratchy￻柔，虛，不粗"}]}],"t":"da'moh"}
-,"da%27oc":{"h":[{"d":[{"f":"￹￺to the end￻直到終點"},{"e":["￹`mida'ocay~ `a~ `'orip~￺eternal life.￻永恆的生命，永遠的生命","￹`Tahada'ocen~ `ko~ `dmak~.￺Continue forever doing the activity.￻繼續不斷地做這個活動(工作)，持之以恆"],"f":"￹￺biblical meaning - eternal￻聖經的用法是永遠的意思"}]}],"t":"da'oc"}
+,"da%27moh":{"h":[{"d":[{"f":"￹￺smooth * not rough * as of wood￻光滑， 不粗糙"},{"s":["`dihmih~"],"f":"￹￺soft * not scratchy￻柔，虛，不粗"}]}],"t":"da'moh"}
+,"da%27oc":{"h":[{"d":[{"f":"￹￺to the end￻直到終點"},{"e":["￹`mi~`da'oc~`ay~ `a~ `'orip~￺eternal life.￻永恆的生命，永遠的生命","￹`Tahada'ocen~ `ko~ `demak~.￺Continue forever doing the activity.￻繼續不斷地做這個活動(工作)，持之以恆"],"f":"￹￺biblical meaning - eternal￻聖經的用法是永遠的意思"}]}],"t":"da'oc"}
 ,"da%27so":{"h":[{"d":[{"f":"￹￺a level * a plumbline￻水平錘線，測鉛線"}]}],"t":"da'so"}
 ,"dacidac":{"h":[{"d":[{"f":"￹￺ring worm * skin disease￻白癬，皮膚病"}]}],"t":"dacidac"}
-,"dacong":{"h":[{"d":[{"f":"￹￺to immerse * plunge into water￻浸入水中，沉浸"},{"l":["`dfong~"],"f":"￹￺to identify with a way of life￻認同一種生活方式"}]}],"t":"dacong"}
+,"dacong":{"h":[{"d":[{"f":"￹￺to immerse * plunge into water￻浸入水中，沉浸"},{"s":["`defong~"],"f":"￹￺to identify with a way of life￻認同一種生活方式"}]}],"t":"dacong"}
 ,"dada":{"h":[{"d":[{"f":"￹￺to call to sit down to eat￻邀請人坐下吃飯口頭禮語，請…"},{"f":"￹￺to call to go ahead and do something￻禮讓別人走在前頭或 讓先著手做事"}]}],"t":"dada"}
-,"dadacdac":{"h":[{"d":[{"l":["`dadayday~"],"f":"￹￺a large green beetle￻大型綠色昆蟲，蟬"}]}],"t":"dadacdac"}
+,"dadacdac":{"h":[{"d":[{"s":["`dadayday~"],"f":"￹￺a large green beetle￻大型綠色昆蟲，蟬"}]}],"t":"dadacdac"}
 ,"dadacidoc":{"h":[{"d":[{"f":"￹￺the name of a flimsy green spray of green * fern-like plant￻羊齒植物的一種"}]}],"t":"dadacidoc"}
-,"dadangoyan":{"h":[{"d":[{"l":["`dangoy~"],"f":"￹￺a raft made of large bamboo poles, used for fishing and catching minnows￻竹筏(捕魚用)"}]}],"t":"dadangoyan"}
+,"dadangoyan":{"h":[{"d":[{"s":["`dangoy~"],"f":"￹￺a raft made of large bamboo poles, used for fishing and catching minnows￻竹筏(捕魚用)"}]}],"t":"dadangoyan"}
 ,"dadaya":{"h":[{"d":[{"e":["￹`ano~ `dadaya~￺tonight￻今夜，今天晚上","￹`idadaya~￺last night￻昨夜，昨天晚上"],"f":"￹￺evening * up till midnight￻黃昏，夜晚"}]}],"t":"dadaya"}
-,"dadayday":{"h":[{"d":[{"l":["`dadacdac~"],"f":"￹￺a large green beetle * acacia￻蟬"}]}],"t":"dadayday"}
+,"dadayday":{"h":[{"d":[{"s":["`dadacdac~"],"f":"￹￺a large green beetle * acacia￻蟬"}]}],"t":"dadayday"}
 ,"dadico":{"h":[{"d":[{"f":"￹￺snug fitting * just right * fitting the space￻剛好，適其所；恰到好處；東西適合一個空間，不大不小"}]}],"t":"dadico"}
 ,"dadimaw":{"h":[{"d":[{"f":"￹￺to rock or jolt lightly * to put to sleep￻把嬰孩抱起來輕搖促使睡覺"}]}],"t":"dadimaw"}
 ,"dadinas":{"h":[{"d":[{"f":"￹￺woman's headdress￻女子盛裝時之頭飾"}]}],"t":"dadinas"}
-,"dadingo":{"h":[{"d":[{"l":["`dadingoan~"],"f":"￹￺glass￻玻璃，眼鏡"}]}],"t":"dadingo"}
-,"dadingoan":{"h":[{"d":[{"l":["`dadingo~"],"f":"￹￺mirror￻鏡子"}]}],"t":"dadingoan"}
+,"dadingo":{"h":[{"d":[{"s":["`dadingoan~"],"f":"￹￺glass￻玻璃，眼鏡"}]}],"t":"dadingo"}
+,"dadingoan":{"h":[{"d":[{"s":["`dadingo~"],"f":"￹￺mirror￻鏡子"}]}],"t":"dadingoan"}
 ,"dadipis":{"h":[{"d":[{"f":"￹￺cockroach￻蟑螂"}]}],"t":"dadipis"}
 ,"dadiwal":{"h":[{"d":[{"f":"￹￺water crickets found in stagnant water￻生活在水中的水蟋蟀"}]}],"t":"dadiwal"}
-,"dado%27":{"h":[{"d":[{"e":["￹`Madado'~ `no~ `singsi~ `ko~ `faloco'~ `ako~.￺The pastor broke down my defenses of heart (leading to tears) .￻牧師去除了我心中的防衛線(使他感動得掉淚)"],"f":"￹￺to identify with a person so that he opens up his heart * to comfort￻認同一個人而開啟心門；安慰，慰藉"}]}],"t":"dado'"}
-,"dadotos":{"h":[{"d":[{"e":["￹`Madadotos~ `ko~ `tayal~ `nangra~.￺They take responsibility in succession * one after the other.￻他們的責任一個接一個地承先啟後(相承續)","￹`O~ `dadotosen~ `iso~ `kako~.￺You are to succeed me.￻你將要繼承我…"],"f":"￹￺one following the other￻一個接一個"}]}],"t":"dadotos"}
-,"dadoy":{"h":[{"d":[{"l":["`tingting~","`sadadoy~"],"f":"￹￺to weigh * use scales￻重量的度量衡、稱、秤"}]}],"t":"dadoy"}
-,"dafak":{"h":[{"d":[{"l":["`papacem~","`tahadafaken~"],"e":["￹`ano~ `dafak~￺tomorrow￻明天","￹`idafak~￺this morning * earlier in the day￻今天早晨"],"f":"￹￺morning￻朝，早晨"}]}],"t":"dafak"}
+,"dado%27":{"h":[{"d":[{"e":["￹`Ma~`dado'~ `no~ `singsi~ `ko~ `faloco'~ `ako~.￺The pastor broke down my defenses of heart (leading to tears) .￻牧師去除了我心中的防衛線(使他感動得掉淚)"],"f":"￹￺to identify with a person so that he opens up his heart * to comfort￻認同一個人而開啟心門；安慰，慰藉"}]}],"t":"dado'"}
+,"dadotos":{"h":[{"d":[{"e":["￹`Ma~`dadotos~ `ko~ `tayal~ `nangra~.￺They take responsibility in succession * one after the other.￻他們的責任一個接一個地承先啟後(相承續)","￹`O~ `dadotos~`en~ `iso~ `kako~.￺You are to succeed me.￻你將要繼承我…"],"f":"￹￺one following the other￻一個接一個"}]}],"t":"dadotos"}
+,"dadoy":{"h":[{"d":[{"s":["`tingting~","`sadadoy~"],"f":"￹￺to weigh * use scales￻重量的度量衡、稱、秤"}]}],"t":"dadoy"}
+,"dafak":{"h":[{"d":[{"s":["`pacem~","`tahadafaken~"],"e":["￹`ano~ `dafak~￺tomorrow￻明天","￹`idafak~￺this morning * earlier in the day￻今天早晨"],"f":"￹￺morning￻朝，早晨"}]}],"t":"dafak"}
 ,"dafdaf":{"h":[{"d":[{"f":"￹￺flat tableland * a plateau￻平坦的土地、高原，山上的台地"}]}],"t":"dafdaf"}
 ,"dafo%27":{"h":[{"d":[{"f":"￹￺to carry grain from the granary to the mill￻從穀倉取榖碾米"}]}],"t":"dafo'"}
-,"dafong":{"h":[{"d":[{"f":"￹￺possessions * things that you own￻所有物，財產"},{"l":["`cidafongay~","`padafongan~"],"f":"￹￺riches￻財富，財產，財寶"}]}],"t":"dafong"}
-,"dahang":{"h":[{"d":[{"l":["`sangil~"],"f":"￹￺to be disturbed by noise and confusion￻喧囂聲，吵鬧，喧雜，喧嘩"}]}],"t":"dahang"}
+,"dafong":{"h":[{"d":[{"f":"￹￺possessions * things that you own￻所有物，財產"},{"s":["`cidafongay~","`padafongan~"],"f":"￹￺riches￻財富，財產，財寶"}]}],"t":"dafong"}
+,"dahang":{"h":[{"d":[{"s":["`ngil~"],"f":"￹￺to be disturbed by noise and confusion￻喧囂聲，吵鬧，喧雜，喧嘩"}]}],"t":"dahang"}
 ,"dahcong":{"h":[{"d":[{"f":"￹￺to get inside a container * fit inside * as to get into a bathtub￻置身於容器而適中，如入浴缸中"}]}],"t":"dahcong"}
 ,"dahdah":{"h":[{"d":[{"f":"￹￺anger held in the heart and shown in the face * aggravated silent response￻怒形於色，把怒氣強忍在心中且面紅耳赤，劇烈的靜態反應"}]}],"t":"dahdah"}
 ,"dahkat":{"h":[{"d":[{"f":"￹￺expectancy * anticipation to see something mysterious or hidden from view￻期盼，期待，企盼，期待看到神秘或隱藏著而眼睛尚未看到的東西"}]}],"t":"dahkat"}
 ,"dahoc":{"h":[{"d":[{"f":"￹￺voice quality changed * wavering as when hungry￻音質改變，如生氣時聲音發生震顫現象"}]}],"t":"dahoc"}
-,"dahpay":{"h":[{"d":[{"l":["`pidahpayan~"],"f":"￹￺to hang up washed clothes￻攤開披開曬衣"}]}],"t":"dahpay"}
+,"dahpay":{"h":[{"d":[{"s":["`pidahpayan~"],"f":"￹￺to hang up washed clothes￻攤開披開曬衣"}]}],"t":"dahpay"}
 ,"dahtal":{"h":[{"d":[{"f":"￹￺open space that formerly was woods or brush￻以前是叢林灌木，現已闢為空曠之地"}]}],"t":"dahtal"}
 ,"dakaw":{"h":[{"d":[{"f":"￹￺to board a vehicle or animal￻搭乘交通工具，乘在…之上"}]}],"t":"dakaw"}
 ,"dakidakit":{"h":[{"d":[{"f":"￹￺a tree￻毛海棗"}]}],"t":"dakidakit"}
-,"dama":{"h":[{"d":[{"e":["￹`Padamaen~ `kako~.￺Help me out by supporting.￻請你(妳)幫助我，請協助我"],"f":"￹￺to help out * do something for * to support * to help lift literally or figuaratively￻扶助，爲了某人幫忙做事、支持，字面上或喻意上的幫助"}]}],"t":"dama"}
+,"dama":{"h":[{"d":[{"e":["￹`Pa~`dama~`en~ `kako~.￺Help me out by supporting.￻請你(妳)幫助我，請協助我"],"f":"￹￺to help out * do something for * to support * to help lift literally or figuaratively￻扶助，爲了某人幫忙做事、支持，字面上或喻意上的幫助"}]}],"t":"dama"}
 ,"damay":{"h":[{"d":[{"e":["￹`damay~ `no~ `riyar~￺seaweed￻海苔"],"f":"￹￺moss that grows in water * both in the ocean or rivers￻長在水中的苔癬，淡水或海水中的青苔"}]}],"t":"damay"}
 ,"damdam":{"h":[{"d":[{"f":"￹￺ordinary green pepper￻一般的青椒"},{"f":"￹￺hot peppers￻辣椒"}]}],"t":"damdam"}
 ,"damek":{"h":[{"d":[{"f":"￹￺to roast sweet potatoes in ashes￻把番薯埋在沙中上面生火烤熟番薯的方法"}]}],"t":"damek"}
 ,"damihmih":{"h":[{"d":[{"f":"￹￺soft and easy to handle * with reference to thin cloth￻柔軟光滑容易處理，如薄的衣服料"}]}],"t":"damihmih"}
 ,"damsay":{"h":[{"d":[{"f":"￹￺gentle * meek * not easily ruffled￻溫和的，溫順的，柔和的，謙恭的，不容易發脾氣"}]}],"t":"damsay"}
-,"damso%27":{"h":[{"d":[{"l":["`sapadamso'~"],"f":"￹￺satisfied * pleased with someone￻滿足，給某人高興"}]}],"t":"damso'"}
+,"damso%5E":{"h":[{"d":[{"s":["`damso~^"],"f":"￹￺satisfied * pleased with someone￻滿足，給某人高興"}]}],"t":"damso^"}
 ,"dangah":{"h":[{"d":[{"f":"￹￺large Chinese concave frying pan￻大圓鍋"}]}],"t":"dangah"}
 ,"dangka":{"h":[{"d":[{"f":"￹￺(Sesamum indicum) * a herb￻芝蔴"}]}],"t":"dangka"}
-,"dangoy":{"h":[{"d":[{"l":["`dadangoyan~"],"f":"￹￺to swim￻游泳"}]}],"t":"dangoy"}
-,"danis":{"h":[{"d":[{"l":["`kakoyol~"],"f":"￹￺a crawling vine that has a large bean￻能結大豆的藤蔓植物"}]}],"t":"danis"}
+,"dangoy":{"h":[{"d":[{"s":["`dadangoyan~"],"f":"￹￺to swim￻游泳"}]}],"t":"dangoy"}
+,"danis":{"h":[{"d":[{"s":["`kakoyol~"],"f":"￹￺a crawling vine that has a large bean￻能結大豆的藤蔓植物"}]}],"t":"danis"}
 ,"danta%27":{"h":[{"d":[{"f":"￹￺to die suddenly without illness * as to be killed in an accident￻死於非命，如因事故罹難者"}]}],"t":"danta'"}
 ,"daoc":{"h":[{"d":[{"f":"￹￺something growing in the shade without adequate light￻溫室中的植物，因陽光不足，長相不健全"}]}],"t":"daoc"}
 ,"dapdap":{"h":[{"d":[{"f":"￹￺to lap up * as fire reaching out * spread￻火勢蔓延狀"}]}],"t":"dapdap"}
@@ -55,65 +55,65 @@
 ,"data":{"h":[{"d":[{"f":"￹￺square * four equal sides￻正四方形，等邊四邊形"}]}],"t":"data"}
 ,"datadat":{"h":[{"d":[{"f":"￹￺tongue sticking out * panting as of a dog￻拖著長舌如氣喘的狗，被殺而腸子外洩之謂"}]}],"t":"datadat"}
 ,"datay":{"h":[{"d":[{"f":"￹￺a plant named Murraya paniculata￻月橘(七里香)"}]}],"t":"datay"}
-,"dateng":{"h":[{"d":[{"l":["`sinafel~","`pisadatengan~"],"f":"￹￺generic term for vegetables￻蔬菜的總稱"},{"f":"￹￺any kind of cooked food served except rice￻一切的副食品(飯以外)"},{"l":["`tatokem~"],"f":"￹￺[No English description]￻黑仔菜"}]}],"t":"dateng"}
-,"datok":{"h":[{"d":[{"l":["`tiftif~"],"f":"￹￺a stringed instrument * a primitive harp￻線琴，原始的口琴(豎琴)"}]}],"t":"datok"}
+,"dateng":{"h":[{"d":[{"s":["`sinafel~","`pisadatengan~"],"f":"￹￺generic term for vegetables￻蔬菜的總稱"},{"f":"￹￺any kind of cooked food served except rice￻一切的副食品(飯以外)"},{"s":["`tatokem~"],"f":"￹￺[No English description]￻黑仔菜"}]}],"t":"dateng"}
+,"datok":{"h":[{"d":[{"s":["`tiftif~"],"f":"￹￺a stringed instrument * a primitive harp￻線琴，原始的口琴(豎琴)"}]}],"t":"datok"}
 ,"datong":{"h":[{"d":[{"f":"￹￺a tree stump left after cutting￻樹木的殘株，樹木被砍伐後所遺留下來的頭部"}]}],"t":"datong"}
 ,"dawa":{"h":[{"d":[{"f":"￹￺to watch grain or produce while drying￻守望, 看顧, 監督"},{"f":"￹￺to defeat (Hualien)￻打敗(花蓮光復語)"}]}],"t":"dawa"}
-,"dawdaw":{"h":[{"d":[{"f":"￹￺generic for any kind of lamp￻照明用具的總稱"},{"l":["`padawdawan~"],"f":"￹￺candle￻蠟燭"},{"f":"￹￺electric light￻電燈"},{"f":"￹￺to smoke and dry with fire * as meat￻薰乾(如肉)"}]}],"t":"dawdaw"}
+,"dawdaw":{"h":[{"d":[{"f":"￹￺generic for any kind of lamp￻照明用具的總稱"},{"s":["`padawdawan~"],"f":"￹￺candle￻蠟燭"},{"f":"￹￺electric light￻電燈"},{"f":"￹￺to smoke and dry with fire * as meat￻薰乾(如肉)"}]}],"t":"dawdaw"}
 ,"dawmi%27":{"h":[{"d":[{"f":"￹￺limber * not stiff￻柔軟的，不僵硬的"},{"f":"￹￺the state of one's health after illness before feeling strong again￻病體初癒在尚未完全恢復健康以前的身體狀況"}]}],"t":"dawmi'"}
 ,"daya":{"h":[{"d":[{"f":"￹￺Taiwan Elderberry (Sambucus formosana) a tree￻台灣接骨木"}]}],"t":"daya"}
 ,"dayna":{"h":[{"d":[{"f":"￹￺small bamboo poles under a grass roof used for support￻用箭竹密編作為茅頂的托架"}]}],"t":"dayna"}
-,"dayom":{"h":[{"d":[{"l":["`difak~"],"f":"￹￺to not be able to do all that has to be done￻無法勝任應該完成的工作，未能完成該做的事"}]}],"t":"dayom"}
+,"dayom":{"h":[{"d":[{"s":["`difak~"],"f":"￹￺to not be able to do all that has to be done￻無法勝任應該完成的工作，未能完成該做的事"}]}],"t":"dayom"}
 ,"decdec":{"h":[{"d":[{"f":"￹￺close together * tight fitting￻密置(不浪費空間)"}]}],"t":"decdec"}
+,"defak":{"h":[{"d":[{"e":["￹`sadfadefak~ `ko~ `pi~`paloma'~`an~ `niyam~.￺The place we want to build our house is not level ground.￻我們的建地有如菜圃不平坦"],"f":"￹￺a bed of dirt for gardening￻種菜用的菜圃"}]}],"t":"defak"}
+,"defit":{"h":[{"d":[{"f":"￹￺hurt feelings from action or words of another￻因別人的行動或言語而傷感情"}]}],"t":"defit"}
+,"defo":{"h":[{"d":[{"f":"￹￺a plant called Dombeya natalensis with edible fruit￻一種植物的名稱，百鈴花"},{"f":"￹￺Mountain Rose-mallow plant￻山芙蓉"}]}],"t":"defo"}
+,"defong":{"h":[{"d":[{"f":"￹￺to immerse * literally in water￻浸入水中"},{"s":["`cdo~"],"f":"￹￺to figuratively immerse * identify with￻寓意上有沈浸之意"}]}],"t":"defong"}
+,"dekong":{"h":[{"d":[{"f":"￹￺hollowed out * a cleft place in a tree or log￻中空的, 樹幹中空或凹陷部份"}]}],"t":"dekong"}
+,"demak":{"h":[{"d":[{"f":"￹￺an activity * a happening￻活動，事件"},{"e":["￹`Ka~`talaw~`an~ `ko~ `demak~ `nira~. `Literally~￺His affair is something to be afraid of. / He is headed for trouble.￻字面上：他所做的事情令人擔心/他面臨困難"],"f":"￹￺the things one does￻人為的事情，人做的事情"},{"e":["￹`Aka~ `dademaken~ `koya~ `tilid~.￺Don't move the papers.￻不要移動那些紙張"],"f":"￹￺to move￻移動，挪動"}]}],"t":"demak"}
 ,"demdem":{"h":[{"d":[{"f":"￹￺to endure * referring to illness or personal feelings￻忍耐病痛或個人感覺"}]}],"t":"demdem"}
-,"dfak":{"h":[{"d":[{"e":["￹`Masadfadfak~ `ko~ `pipaloma'an~ `niyam~.￺The place we want to build our house is not level ground.￻我們的建地有如菜圃不平坦"],"f":"￹￺a bed of dirt for gardening￻種菜用的菜圃"}]}],"t":"dfak"}
-,"dfit":{"h":[{"d":[{"f":"￹￺hurt feelings from action or words of another￻因別人的行動或言語而傷感情"}]}],"t":"dfit"}
-,"dfo":{"h":[{"d":[{"f":"￹￺a plant called Dombeya natalensis with edible fruit￻一種植物的名稱，百鈴花"},{"f":"￹￺Mountain Rose-mallow plant￻山芙蓉"}]}],"t":"dfo"}
-,"dfong":{"h":[{"d":[{"f":"￹￺to immerse * literally in water￻浸入水中"},{"l":["`cdo~"],"f":"￹￺to figuratively immerse * identify with￻寓意上有沈浸之意"}]}],"t":"dfong"}
+,"demet":{"h":[{"d":[{"f":"￹￺jungle-like condition of plants all growing without care￻灌木叢生，叢林"}]}],"t":"demet"}
+,"demi%27":{"h":[{"d":[{"f":"￹￺kitchen￻廚房"}]}],"t":"demi'"}
+,"denga":{"h":[{"d":[{"f":"￹￺contagious * spread * of illness or bad attitudes or evil or sin￻疾病、壞態度，邪惡或罪的傳染"}]}],"t":"denga"}
+,"dengan":{"h":[{"d":[{"s":["`edengan~"],"f":"￹￺Refer to `edengan~￻詳見 `edengan~"}]}],"t":"dengan"}
 ,"di%27i":{"h":[{"d":[{"f":"￹￺to sleep along side￻睡在…人的旁邊, 傍著睡"},{"f":"￹￺a veiled reference to having sexual relations￻發生性關係的暗語"}]}],"t":"di'i"}
 ,"dicoh":{"h":[{"d":[{"f":"￹￺to poke out * pluck out * as of an eye￻摘取眼睛，挖眼睛"},{"f":"￹￺to loosen * pull out￻鬆解，卸開，鬆脫，解脫"}]}],"t":"dicoh"}
-,"dihapal":{"h":[{"d":[{"f":"￹￺level land used in farming￻適於農耕的平坦土地"},{"e":["￹`Kilimen~ `ko~ `dihapalay~ `a~ `fokloh~ `to~ `malo~ `'anengang~.￺Look for a flat rock to sit on.￻去尋找扁平的石頭當櫈子坐"],"f":"￹￺straight and flat whatever the angle￻把任何稜角磨平"}]}],"t":"dihapal"}
+,"dihapal":{"h":[{"d":[{"f":"￹￺level land used in farming￻適於農耕的平坦土地"},{"e":["￹`Kilimen~ `ko~ `dihapal~`ay~ `a~ `fokeloh~ `to~ `malo~ `'anengang~.￺Look for a flat rock to sit on.￻去尋找扁平的石頭當櫈子坐"],"f":"￹￺straight and flat whatever the angle￻把任何稜角磨平"}]}],"t":"dihapal"}
 ,"dihdih":{"h":[{"d":[{"f":"￹￺to stroke the head (of a child or dog) comforting￻撫摸小孩或狗的頭部示慰"}]}],"t":"dihdih"}
 ,"dihif":{"h":[{"d":[{"f":"￹￺cave * den￻洞穴"}]}],"t":"dihif"}
 ,"dihko":{"h":[{"d":[{"e":["￹`Dihko~ `ko~ `faloco'~ `ako~.￺I am encouraged in heart after having been afraid or upset i.e. comforted.￻我感到溫暖(恐懼或生氣之後) / 感到安慰"],"f":"￹￺warm, with figurative as well as literal meaning￻溫暖，寓意上和字面上都有同樣的意義"}]}],"t":"dihko"}
-,"dihway":{"h":[{"d":[{"l":["`hingway~"],"f":"￹￺too large * of clothing￻鬆鬆，太大，如太大不合身的衣服穿起來寬鬆"}]}],"t":"dihway"}
-,"dika":{"h":[{"d":[{"l":["`pirora'ay~"],"f":"￹￺a plant called Homalanthus￻一種植物的名稱，單萼木"}]}],"t":"dika"}
-,"dikidiki":{"h":[{"d":[{"l":["`Dikidiki~"],"f":"￹￺name of an Amis village￻台東縣卑南鄉利吉部落名"}]}],"t":"dikidiki"}
+,"dihway":{"h":[{"d":[{"s":["`hingway~"],"f":"￹￺too large * of clothing￻鬆鬆，太大，如太大不合身的衣服穿起來寬鬆"}]}],"t":"dihway"}
+,"dika":{"h":[{"d":[{"s":["`pirora'ay~"],"f":"￹￺a plant called Homalanthus￻一種植物的名稱，單萼木"}]}],"t":"dika"}
+,"dikidiki":{"h":[{"d":[{"s":["`Dikidiki~"],"f":"￹￺name of an Amis village￻台東縣卑南鄉利吉部落名"}]}],"t":"dikidiki"}
 ,"diko":{"h":[{"d":[{"f":"￹￺to sleep together * of animals￻動物的睡姿"}]}],"t":"diko"}
 ,"dimata":{"h":[{"d":[{"f":"￹￺to mend nets￻補網"}]}],"t":"dimata"}
 ,"dimata%27":{"h":[{"d":[{"f":"￹￺to balance and carry two things on the two ends of a bamboo carring pole * balancing on the shoulder￻肩挑，把荷物捆在竹竿的兩端而肩挑著"}]}],"t":"dimata'"}
 ,"dimok":{"h":[{"d":[{"f":"￹￺metal at the base of a knife blade￻刀和柄相接處套在木柄上加固木柄的鐵環"}]}],"t":"dimok"}
 ,"dimokos":{"h":[{"d":[{"f":"￹￺to watch * care for￻照顧，看顧"},{"f":"￹￺to fell responsi - ble for￻負責任，責任感"},{"f":"￹￺to give direction to * correct￻指示方向，匡正"}]}],"t":"dimokos"}
 ,"dingac":{"h":[{"d":[{"f":"￹￺to have skin cut by grass￻皮膚被草割傷"}]}],"t":"dingac"}
-,"dinget":{"h":[{"d":[{"l":["`ngidet~"],"f":"￹￺a running nose￻鼻涕"}]}],"t":"dinget"}
-,"dipdip":{"h":[{"d":[{"l":["`hining~"]},{"f":"￹￺to peek * take a quick look￻窺視"},{"f":"￹￺to secretly watch￻偷看，悄悄地看"}]}],"t":"dipdip"}
+,"dinget":{"h":[{"d":[{"s":["`ngidet~"],"f":"￹￺a running nose￻鼻涕"}]}],"t":"dinget"}
+,"dipdip":{"h":[{"d":[{"f":"￹￺to peek * take a quick look￻窺視"},{"s":["`hining~"],"f":"￹￺to secretly watch￻偷看，悄悄地看"}]}],"t":"dipdip"}
 ,"dipi":{"h":[{"d":[{"f":"￹￺a shelter * to seek refuge near * as to hide behind a fence or a rock￻避難所，尋找避難處，如隱藏在圍牆或岩石後面"}]}],"t":"dipi"}
-,"dipong":{"h":[{"d":[{"f":"￹￺bird's nest￻鳥巢"},{"l":["`ripon~"],"f":"￹￺Japan * Japanese￻日本，日本人"}]}],"t":"dipong"}
-,"dipot":{"h":[{"d":[{"e":["￹`Nanay~ `kitato~ `ko~ `madadipotay~.￺Let's get married.￻願我們互相照顧(讓我們結婚吧！)"],"f":"￹￺to take care of * including the rule or management of * to protect * hover over￻照顧，養育，扶養，包括治理或掌管，保護，徬徨，翱翔"}]}],"t":"dipot"}
+,"dipong":{"h":[{"d":[{"f":"￹￺bird's nest￻鳥巢"},{"s":["`ripon~"],"f":"￹￺Japan * Japanese￻日本，日本人"}]}],"t":"dipong"}
+,"dipot":{"h":[{"d":[{"e":["￹`nay~ `kita~ `to~ `ko~ `dadipotay~.￺Let's get married.￻願我們互相照顧(讓我們結婚吧！)"],"f":"￹￺to take care of * including the rule or management of * to protect * hover over￻照顧，養育，扶養，包括治理或掌管，保護，徬徨，翱翔"}]}],"t":"dipot"}
 ,"disdis":{"h":[{"d":[{"f":"￹￺to dig out roots and throw away the roots of bamboo￻砍伐樹或竹時削除根或枝葉的舉動"}]}],"t":"disdis"}
 ,"dita%27":{"h":[{"d":[{"f":"￹￺a lump of clay for making pottery￻製陶瓷的土料"},{"f":"￹￺clay * a type of soil￻黏土"}]}],"t":"dita'"}
-,"ditdit":{"h":[{"d":[{"e":["￹`Maditdit~ `ako~ `ko~ `piala~.￺I gradually took.￻我漸次地拿"],"f":"￹￺to give or take a small part or portion￻一點一點地結不乾脆"},{"e":["￹`Ditditen~ `a~ `pafli~.￺Gradually give / pay (him).￻請你漸次地給付他"],"f":"￹￺to gradually pay off￻分期付款，漸次地付"}]}],"t":"ditdit"}
-,"ditek":{"h":[{"d":[{"e":["￹`Tolo~ `a~ `ditek~ `ko~ `omah~ `niyam~.￺Our field is three tenths of a hectare.￻我們有三分地"],"f":"￹￺to measure * a measure * one meter￻測量，一公尺"},{"f":"￹￺to be closely woven to weave closely￻精密地編織"},{"l":["`fakciw~"],"f":"￹￺trodden down * steam roller used on a road to pack down￻踩硬，踐踏，壓路機壓擠路面"}]}],"t":"ditek"}
-,"diwas":{"h":[{"d":[{"l":["`sapidiwas~"],"f":"￹￺to stretch and wind tangled thread￻拉長和纏結線"}]}],"t":"diwas"}
-,"dkong":{"h":[{"d":[{"f":"￹￺hollowed out * a cleft place in a tree or log￻中空的, 樹幹中空或凹陷部份"}]}],"t":"dkong"}
-,"dmak":{"h":[{"d":[{"f":"￹￺an activity * a happening￻活動，事件"},{"e":["￹`Katalawan~ `ko~ `dmak~ `nira~. `Literally~￺His affair is something to be afraid of. / He is headed for trouble.￻字面上：他所做的事情令人擔心/他面臨困難"],"f":"￹￺the things one does￻人為的事情，人做的事情"},{"e":["￹`Aka~ `dadmaken~ `koya~ `tilid~.￺Don't move the papers.￻不要移動那些紙張"],"f":"￹￺to move￻移動，挪動"}]}],"t":"dmak"}
-,"dmet":{"h":[{"d":[{"f":"￹￺jungle-like condition of plants all growing without care￻灌木叢生，叢林"}]}],"t":"dmet"}
-,"dmi%27":{"h":[{"d":[{"f":"￹￺kitchen￻廚房"}]}],"t":"dmi'"}
-,"dnga":{"h":[{"d":[{"f":"￹￺contagious * spread * of illness or bad attitudes or evil or sin￻疾病、壞態度，邪惡或罪的傳染"}]}],"t":"dnga"}
-,"dngan":{"h":[{"d":[{"l":["`'dengan~"],"f":"￹￺Refer to `'dengan~￻詳見 `'dengan~"}]}],"t":"dngan"}
-,"dnget":{"h":[{"d":[{"l":["`conged~"],"f":"￹￺to block * hinder * stop￻妨礙、阻擾、塞住"}]}],"t":"dnget"}
-,"do%27do":{"h":[{"d":[{"f":"￹￺to follow step by step after someone￻跟踪某人的腳步"},{"f":"￹￺to obey * follow instructions * do like an example￻服從，順從教訓，照例子做，描摹樣本"}]}],"t":"do'do"}
-,"do%27eng":{"h":[{"d":[{"l":["`talido'eng~"],"f":"￹￺deaf￻聾，失聰，耳聾"}]}],"t":"do'eng"}
+,"ditdit":{"h":[{"d":[{"e":["￹`Ma~`ditdit~ `ako~ `ko~ `pi~`ala~.￺I gradually took.￻我漸次地拿"],"f":"￹￺to give or take a small part or portion￻一點一點地結不乾脆"},{"e":["￹`Ditditen~ `a~ `pafeli~.￺Gradually give / pay (him).￻請你漸次地給付他"],"f":"￹￺to gradually pay off￻分期付款，漸次地付"}]}],"t":"ditdit"}
+,"ditek":{"h":[{"d":[{"e":["￹`Tolo~ `a~ `ditek~ `ko~ `omah~ `niyam~.￺Our field is three tenths of a hectare.￻我們有三分地"],"f":"￹￺to measure * a measure * one meter￻測量，一公尺"},{"f":"￹￺to be closely woven to weave closely￻精密地編織"},{"s":["`fakeciw~"],"f":"￹￺trodden down * steam roller used on a road to pack down￻踩硬，踐踏，壓路機壓擠路面"}]}],"t":"ditek"}
+,"diwas":{"h":[{"d":[{"s":["`sapidiwas~"],"f":"￹￺to stretch and wind tangled thread￻拉長和纏結線"}]}],"t":"diwas"}
+,"dnget":{"h":[{"d":[{"s":["`conged~"],"f":"￹￺to block * hinder * stop￻妨礙、阻擾、塞住"}]}],"t":"dnget"}
+,"do%27eng":{"h":[{"d":[{"s":["`talido'eng~"],"f":"￹￺deaf￻聾，失聰，耳聾"}]}],"t":"do'eng"}
 ,"do%27es":{"h":[{"d":[{"e":["￹`Tahado'es~ `no~ `'okak~ `ko~ `adada~ `ako~.￺The pain I have goes into the core of my bones.￻痛至骨心"],"f":"￹￺bone marrow￻骨髓"}]}],"t":"do'es"}
-,"docidoc":{"h":[{"d":[{"l":["`docadoc~"],"f":"￹￺to eat on something that is cut up into bite sized pieces￻將未經切裡的蔬菜狼吞虎嚥"}]}],"t":"docidoc"}
-,"docoh":{"h":[{"d":[{"l":["`dicoh~"],"f":"￹￺to pluck out * as of an eye￻鬆解，卸開，鬆脫，解脫"}]}],"t":"docoh"}
+,"do%5Edo":{"h":[{"d":[{"f":"￹￺to follow step by step after someone￻跟踪某人的腳步"},{"f":"￹￺to obey * follow instructions * do like an example￻服從，順從教訓，照例子做，描摹樣本"}]}],"t":"do^do"}
+,"docidoc":{"h":[{"d":[{"s":["`docadoc~"],"f":"￹￺to eat on something that is cut up into bite sized pieces￻將未經切裡的蔬菜狼吞虎嚥"}]}],"t":"docidoc"}
+,"docoh":{"h":[{"d":[{"s":["`dicoh~"],"f":"￹￺to pluck out * as of an eye￻鬆解，卸開，鬆脫，解脫"}]}],"t":"docoh"}
 ,"dodang":{"h":[{"d":[{"f":"￹￺a tray or trough for beating out rice or millet￻脫谷箱，臼，舂米的盆形木具，方臼舂米"},{"f":"￹￺a utensil in old Amis culture from which legends sprang￻阿美族古文化的用具，從此產生了阿美族的傳說"},{"f":"￹￺a coffin (Kwangfu-Hualien dialect)￻棺材(花蓮光復語)"}]}],"t":"dodang"}
-,"dodem":{"h":[{"d":[{"e":["￹`Madodem~ `no~ `to'em~ `ko~ `cidal~.￺The sun is hidden by clouds.￻太陽被彩雲遮掩(所以天氣顯得陰暗)","￹`Madodemto~ `ko~ `cidal~.￺It is almost sunset.￻已經是黃昏時分了","￹`Madodem~ `ko~ `dadingoan~ `ako~.￺My glasses are fogged up.￻我的眼鏡模糊不清，我的鏡子模糊不清"],"f":"￹￺screened so that something is not seen clearly￻被某物遮蔽而陰暗"}]}],"t":"dodem"}
-,"dodoh":{"h":[{"d":[{"l":["`masadodohay~","`cidodohay~"],"e":["￹`dodoh~ `no~ `tiftif~￺container for mouth harp￻口琴的盒子"],"f":"￹￺hollow space in the center of a tree or bamboo￻樹幹中空，樹幹的凹陷處"}]}],"t":"dodoh"}
+,"dodem":{"h":[{"d":[{"e":["￹`Ma~`dodem~ `no~ `to'em~ `ko~ `cidal~.￺The sun is hidden by clouds.￻太陽被彩雲遮掩(所以天氣顯得陰暗)","￹`Ma~`dodem~ `to~ `ko~ `cidal~.￺It is almost sunset.￻已經是黃昏時分了","￹`Ma~`dodem~ `ko~ `dadingoan~ `ako~.￺My glasses are fogged up.￻我的眼鏡模糊不清，我的鏡子模糊不清"],"f":"￹￺screened so that something is not seen clearly￻被某物遮蔽而陰暗"}]}],"t":"dodem"}
+,"dodoh":{"h":[{"d":[{"s":["`masadodohay~","`cidodohay~"],"e":["￹`dodoh~ `no~ `tiftif~￺container for mouth harp￻口琴的盒子"],"f":"￹￺hollow space in the center of a tree or bamboo￻樹幹中空，樹幹的凹陷處"}]}],"t":"dodoh"}
 ,"dofot":{"h":[{"d":[{"f":"￹￺a shoulder bag * something carried by a shoulder strap￻肩袋，衣服的口袋"}]}],"t":"dofot"}
-,"dohdoh":{"h":[{"d":[{"l":["`'id'id~"],"f":"￹￺roasted * to roast * barbecue￻烤的，烘烤，烤過的肉"}]}],"t":"dohdoh"}
+,"dohdoh":{"h":[{"d":[{"s":["`'id'id~"],"f":"￹￺roasted * to roast * barbecue￻烤的，烘烤，烤過的肉"}]}],"t":"dohdoh"}
 ,"dohkit":{"h":[{"d":[{"f":"￹￺to pull open a seal or some - thing stuck together￻拉開封印或解開互相黏著的東西"}]}],"t":"dohkit"}
-,"doka%27":{"h":[{"d":[{"l":["`padoka'~"],"e":["￹`Madoka'~ `ko~ `faloco'~ `nira~.￺His feelings are hurt.￻他的心受創傷"],"f":"￹￺wound * sore * cut￻傷，創傷，潰爛，割傷"}]}],"t":"doka'"}
+,"doka%27":{"h":[{"d":[{"s":["`padoka'~"],"e":["￹`Ma~`doka'~ `ko~ `faloco'~ `nira~.￺His feelings are hurt.￻他的心受創傷"],"f":"￹￺wound * sore * cut￻傷，創傷，潰爛，割傷"}]}],"t":"doka'"}
 ,"dokdok":{"h":[{"d":[{"f":"￹￺to do something privately without telling anyone * secretly￻祕密地私自製造東西或做事情，閉門造車(做事不讓人知道)"}]}],"t":"dokdok"}
 ,"dongec":{"h":[{"d":[{"f":"￹￺the ends of rattan plant which was an important part of Amis diet￻籐心，阿美族重要的菜餚"}]}],"t":"dongec"}
 ,"dongi":{"h":[{"d":[{"f":"￹￺name of a life giving spirit that dwelt among the Amis bring. ing comfort and direction. Dogi especially protected children and pregnant mothers.￻阿美族古代傳統觀念中那位賜生命及保護小孩和懷孕婦女的神明"}]}],"t":"dongi"}

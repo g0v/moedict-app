@@ -1,13 +1,12 @@
-{"Ma%27ifor":{"h":[{"d":[{"l":["`ma'ifor~"],"f":"￹￺Refer to `ma'ifor~￻詳見 `ma'ifor~"}]}],"t":"Ma'ifor"}
-,"Mafowakay":{"h":[{"d":[{"l":["`mafowakay~"],"f":"￹￺Refer to `mafowakay~￻詳見 `mafowakay~"}]}],"t":"Mafowakay"}
-,"Makotaay":{"h":[{"d":[{"l":["`makotaay~"],"f":"￹￺Refer to `makotaay~￻詳見 `makotaay~"}]}],"t":"Makotaay"}
-,"Malimpo":{"h":[{"d":[{"l":["`malimpo~"],"f":"￹￺Refer to `malimpo~￻詳見 `malimpo~"}]}],"t":"Malimpo"}
-,"Mancelan":{"h":[{"d":[{"l":["`Mangcelan~"],"f":"￹￺Refer to `Mangcelan~￻詳見 `Mangcelan~"}]}],"t":"Mancelan"}
-,"Mangcelan":{"h":[{"d":[{"l":["`Mancelan~"],"f":"￹￺name of an Amis village￻玉里松浦村之名"}]}],"t":"Mangcelan"}
-,"Manowan":{"h":[{"d":[{"l":["`iwatan~"],"f":"￹￺Refer to `iwatan~￻詳見 `iwatan~"}]}],"t":"Manowan"}
-,"Masimaw%20no%20mato%27asay%20ko%20pipawalian%20to%20panay.":{"h":[{"d":[]}],"t":"Masimaw no mato'asay ko pipawalian to panay."}
-,"Matadim":{"h":[{"d":[{"l":["`matadim~"],"f":"￹￺Refer to `matadim~￻詳見 `matadim~"}]}],"t":"Matadim"}
-,"Mingkok":{"h":[{"d":[{"l":["`holam~"],"f":"￹￺Refer to `holam~￻詳見 `holam~"}]}],"t":"Mingkok"}
-,"Molisaka":{"h":[{"d":[{"l":["`molisaka~"],"f":"￹￺Refer to `molisaka~￻詳見 `molisaka~"}]}],"t":"Molisaka"}
-,"Moronos":{"h":[{"d":[{"l":["`moronos~"],"f":"￹￺Refer to `moronos~￻詳見 `moronos~"}]}],"t":"Moronos"}
+{"Ma%27ifor":{"h":[{"d":[{"s":["`'ifor~"],"f":"￹￺Refer to `ma'ifor~￻詳見 `ma'ifor~"}]}],"t":"Ma'ifor"}
+,"Mafowakay":{"h":[{"d":[{"s":["`mafowakay~"],"f":"￹￺Refer to `mafowakay~￻詳見 `mafowakay~"}]}],"t":"Mafowakay"}
+,"Makotaay":{"h":[{"d":[{"s":["`makotaay~"],"f":"￹￺Refer to `makotaay~￻詳見 `makotaay~"}]}],"t":"Makotaay"}
+,"Malimpo":{"h":[{"d":[{"s":["`malimpo~"],"f":"￹￺Refer to `malimpo~￻詳見 `malimpo~"}]}],"t":"Malimpo"}
+,"Mancelan":{"h":[{"d":[{"s":["`Mangcelan~"],"f":"￹￺Refer to `Mangcelan~￻詳見 `Mangcelan~"}]}],"t":"Mancelan"}
+,"Mangcelan":{"h":[{"d":[{"s":["`Mancelan~"],"f":"￹￺name of an Amis village￻玉里松浦村之名"}]}],"t":"Mangcelan"}
+,"Manowan":{"h":[{"d":[{"s":["`iwatan~"],"f":"￹￺Refer to `iwatan~￻詳見 `iwatan~"}]}],"t":"Manowan"}
+,"Matadim":{"h":[{"d":[{"s":["`matadim~"],"f":"￹￺Refer to `matadim~￻詳見 `matadim~"}]}],"t":"Matadim"}
+,"Mingkok":{"h":[{"d":[{"s":["`holam~"],"f":"￹￺Refer to `holam~￻詳見 `holam~"}]}],"t":"Mingkok"}
+,"Molisaka":{"h":[{"d":[{"s":["`molisaka~"],"f":"￹￺Refer to `molisaka~￻詳見 `molisaka~"}]}],"t":"Molisaka"}
+,"Moronos":{"h":[{"d":[{"s":["`moronos~"],"f":"￹￺Refer to `moronos~￻詳見 `moronos~"}]}],"t":"Moronos"}
 }
