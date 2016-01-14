@@ -1,0 +1,22 @@
+{"ma%27a%27ager":{"h":[{"d":[{"s":["`'a'ager~","`masager~"],"f":"fixe."}]}],"t":"ma'a'ager"}
+,"ma%27acocol":{"h":[{"d":[{"s":["`'acocol~","`mariger~"],"f":"faire tourner"}]}],"t":"ma'acocol"}
+,"ma%27ad%27ad":{"h":[{"d":[{"s":["`'ad'ad~"],"f":"chercher: (rechercher quelque chose au milieu du désordre)"}]}],"t":"ma'ad'ad"}
+,"ma%27adapaw":{"h":[{"d":[{"s":["`'adapaw~"],"f":"colère: (s'enflammer de colère)"}]}],"t":"ma'adapaw"}
+,"ma%27adapaway":{"h":[{"d":[{"s":["`'adapway~"],"e":["￹ma'adapaway a fafahiyan￻coureuse (mot injurieux chez les Amis)"],"f":"en chaleur"}]}],"t":"ma'adapaway"}
+,"maacak":{"h":[{"d":[{"s":["`acak~"],"type":"Z","f":"être à sec"}]}],"t":"maacak"}
+,"maacek":{"h":[{"d":[{"s":["`acek~"],"f":"répulsion: ressentir de la répulsion envers quelqu'un"}]}],"t":"maacek"}
+,"maadah":{"h":[{"d":[{"s":["`adah~"],"e":["￹maadah to ko adada￻il est guéri de sa maladie","￹maadah ko kter no faloco'￻il est guéri (calmé) de sa colère."],"f":"guéri"}]}],"t":"maadah"}
+,"mapaaag":{"h":[{"d":[{"s":["`aag~"],"f":"donner des cadeaux; échanger de cadeaux."}]}],"t":"mapaaag"}
+,"mi%27aca":{"h":[{"d":[{"s":["`'aca~"],"f":"acheter"}]}],"t":"mi'aca"}
+,"mi%27acaw":{"h":[{"d":[{"s":["`'acaw~"],"f":"puiser: aller chercher de l'eau."}]}],"t":"mi'acaw"}
+,"mi%27aciw":{"h":[{"d":[{"s":["`'aciw~"],"f":"prendre au piège"}]}],"t":"mi'aciw"}
+,"mi%27ad%27ad":{"h":[{"d":[{"s":["`'ad'ad~"],"f":"disperser; mettre en désordre pour chercher quelque chose."}]}],"t":"mi'ad'ad"}
+,"miaanag":{"h":[{"d":[{"s":["`aanag~"],"type":"F","f":"cacher; mettre à l'abri."}]}],"t":"miaanag"}
+,"miaat":{"h":[{"d":[{"s":["`aat~","`miaet~"],"f":"marquer d'un signe."}]}],"t":"miaat"}
+,"miaciih":{"h":[{"d":[{"s":["`aciih~"],"type":"Z","f":"observer; regarder"}]}],"t":"miaciih"}
+,"miki%27a%27am":{"h":[{"d":[{"f":"mendier."}]}],"t":"miki'a'am"}
+,"miki%27a%27amay":{"h":[{"d":[{"f":"mendiant."}]}],"t":"miki'a'amay"}
+,"mipaacek":{"h":[{"d":[{"s":["`acek~"],"e":["￹paaceken nira ko tireg nira.￻il se salit lui-même."],"f":"salir: (prop et fig)"}]}],"t":"mipaacek"}
+,"misa%27adaay":{"h":[{"d":[{"s":["`'ada~"],"e":["￹misa'adaay ci Kristoan￻anti-Christ"],"f":"anti-"}]}],"t":"misa'adaay"}
+,"misa%27adapaw":{"h":[{"d":[{"s":["`'adapaw~"],"e":["￹\"Misa'adapaw to sapipatayawi takowanan ko tatiihay a tamdaw\" Ps 118/95￻Les impies me guettent pour me tuer"],"f":"attendre; faire le guet: (en général pour tuer.)"},{"f":"comploter"}]}],"t":"misa'adapaw"}
+}

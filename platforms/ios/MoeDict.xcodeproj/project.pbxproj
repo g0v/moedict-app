@@ -322,7 +322,7 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 500;
+				LastUpgradeCheck = 0720;
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
 						DevelopmentTeam = 4DQ8J56M8E;
@@ -495,7 +495,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "MoeDict/MoeDict-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.1.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0.0;
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					CoreFoundation,
@@ -510,6 +510,7 @@
 					"\"$(BUILT_PRODUCTS_DIR)/libCordova.a\"",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "org.audreyt.moe.dict-p";
 				PRODUCT_NAME = MoeDict;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -530,7 +531,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "MoeDict/MoeDict-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.1.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0.0;
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					CoreFoundation,
@@ -545,6 +546,7 @@
 					"\"$(BUILT_PRODUCTS_DIR)/libCordova.a\"",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "org.audreyt.moe.dict-p";
 				PRODUCT_NAME = MoeDict;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -563,6 +565,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = "";
@@ -621,6 +624,7 @@
 					"\"$(TARGET_BUILD_DIR)/usr/local/lib/include\"",
 					"\"$(OBJROOT)/UninstalledProducts/include\"",
 					"\"$(BUILT_PRODUCTS_DIR)\"",
+					"\"$(OBJROOT)/UninstalledProducts/$(PLATFORM_NAME)/include\"",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_LDFLAGS = (

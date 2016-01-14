@@ -54,7 +54,7 @@
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.audreyt.moe.dict-p</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -69,10 +69,10 @@
 	<string>5.5.3</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>NSMainNibFile</key>
-	<string></string>
 	<key>NSMainNibFile~ipad</key>
 	<string></string>
+	<key>UIStatusBarHidden</key>
+	<true/>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
@@ -87,9 +87,9 @@
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>UIStatusBarHidden</key>
-	<true/>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+        <key>UIRequiresFullScreen</key>
+        <true />
 </dict>
 </plist>
