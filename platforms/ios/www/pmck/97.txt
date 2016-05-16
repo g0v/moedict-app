@@ -1,13 +1,13 @@
-{"a":{"h":[{"d":[{"e":["￹A ma'orad ano dafak.￻il pleuvra demain.","￹A komaen kako.￻je vais manger.","￹Tayra kako a misalama.￻j'irai (je vais) m'amuser."],"f":"futur: la particule \"a\" placée devant un verbe marque le futur"},{"e":["￹O fagcalay a tamdaw konian.￻C'est un brave homme.","￹O ga'ayay a holo'.￻le riz est bon."],"f":"être: particule de liaison entre un adjectif en ay et un nom"},{"e":["￹Potawan a ci Parih.￻Potawan et Parih."],"f":"et: particule de liaison entre deux noms"},{"e":["￹Padagen cigra a mihinam to kolog.￻aide la à chercher les buffles."],"f":"pour; à"}]}],"t":"a"}
-,"a%27ayaw":{"h":[{"d":[{"f":"au devant de; en présence de; appeler: (par le nom) {Z}."}]}],"t":"a'ayaw"}
+{"a":{"h":[{"d":[{"e":["￹A ma'orad ano dafak.￻il pleuvra demain.","￹A komaen kako.￻je vais manger.","￹Tayra kako a misalama.￻j'irai (je vais) m'amuser."],"f":"futur : la particule \"a\" placée devant un verbe marque le futur"},{"e":["￹O fagcalay a tamdaw konian.￻C'est un brave homme.","￹O ga'ayay a holo'.￻le riz est bon."],"f":"être : particule de liaison entre un adjectif en ay et un nom"},{"e":["￹Potawan a ci Parih.￻Potawan et Parih."],"f":"et : particule de liaison entre deux noms"},{"e":["￹Padagen cigra a mihinam to kolog.￻aide la à chercher les buffles."],"f":"pour; à"}]}],"t":"a"}
+,"a%27ayaw":{"h":[{"d":[{"f":"au devant de; en présence de; appeler : (par le nom) {Z}."}]}],"t":"a'ayaw"}
 ,"aag":{"h":[{"d":[{"f":"donner des cadeaux."}]}],"t":"aag"}
 ,"aasin":{"h":[{"d":[{"f":"éternuer."}]}],"t":"aasin"}
-,"aaw":{"h":[{"d":[{"s":["`a'aw~"],"f":"hanneton gris; scarabée: noir et blanc à longues antennes"},{"f":"personnage légendaire"}]}],"t":"aaw"}
+,"aaw":{"h":[{"d":[{"s":["`a'aw~"],"f":"hanneton gris; scarabée : noir et blanc à longues antennes"},{"f":"personnage légendaire"}]}],"t":"aaw"}
 ,"aayad":{"h":[{"d":[{"f":"fourmi blanche; termite."}]}],"t":"aayad"}
-,"aca":{"h":[{"d":[{"e":["￹maro' itini aca, itira aca.￻s'asseoir ici ou là, c'est pareil."],"f":"encore: ou bien"},{"f":"il n'y a qu'à avoir"}]}],"t":"aca"}
+,"aca":{"h":[{"d":[{"e":["￹maro' itini aca, itira aca.￻s'asseoir ici ou là, c'est pareil; il n'y a qu'à avoir"],"f":"encore : ou bien"}]}],"t":"aca"}
 ,"acacinal":{"h":[{"d":[{"s":["`acacnal~"],"f":"guêpe"}]}],"t":"acacinal"}
 ,"acag":{"h":[{"d":[{"e":["￹O acag nomita￻notre joie"],"f":"joie"},{"f":"gai"},{"f":"plein de fierté"}]}],"t":"acag"}
-,"acaram":{"h":[{"d":[{"s":["`axaram~","`aharam~"],"f":"mûrier: (morus alba)"}]}],"t":"acaram"}
+,"acaram":{"h":[{"d":[{"s":["`axaram~","`aharam~"],"f":"mûrier : (morus alba)"}]}],"t":"acaram"}
 ,"acawa":{"h":[{"d":[{"type":"Z","f":"époux ou épouse"}]}],"t":"acawa"}
 ,"acdah":{"h":[{"d":[{"type":"N","f":"pourri, gâté"}]}],"t":"acdah"}
 ,"acdos":{"h":[{"d":[{"s":["`'des~"],"f":"cruel; dur (prop et fig)"}]}],"t":"acdos"}
@@ -21,16 +21,16 @@
 ,"aclah":{"h":[{"d":[{"type":"S","f":"pimenté"}]}],"t":"aclah"}
 ,"acofel":{"h":[{"d":[{"s":["`'acfel~"],"f":"fumée; vapeur d'eau"}]}],"t":"acofel"}
 ,"acoho":{"h":[{"d":[{"s":["`rmes~ "],"type":"S","f":"sang"}]}],"t":"acoho"}
-,"acohod":{"h":[{"d":[{"f":"poussière: en général"}]}],"t":"acohod"}
-,"ada":{"h":[{"d":[{"f":"réellement: en fait"}]}],"t":"ada"}
+,"acohod":{"h":[{"d":[{"f":"poussière : en général"}]}],"t":"acohod"}
+,"ada":{"h":[{"d":[{"f":"réellement : en fait"}]}],"t":"ada"}
 ,"ada%27":{"h":[{"d":[{"s":["`da'ada~","`ada'da~"],"e":["￹ada', tayra!￻eh bien, vas-y!"],"f":"exclamatif"}]}],"t":"ada'"}
-,"adaada":{"h":[{"d":[{"type":"S","f":"Paiwan: nom des Paiwan"}]}],"t":"adaada"}
+,"adaada":{"h":[{"d":[{"type":"S","f":"Paiwan : nom des Paiwan"}]}],"t":"adaada"}
 ,"adada":{"h":[{"d":[{"f":"maladie; mal"}]}],"t":"adada"}
 ,"adadaay":{"h":[{"d":[{"s":["`adada~"],"f":"malade"}]}],"t":"adadaay"}
 ,"adadapag":{"h":[{"d":[{"f":"papillon"}]}],"t":"adadapag"}
 ,"adah":{"h":[{"d":[{"f":"guérison"}]}],"t":"adah"}
-,"adahi":{"h":[{"d":[{"f":"amélioration: voir sa situation s'améliorer"},{"f":"progrès"},{"f":"meilleur qu'autrefois"}]}],"t":"adahi"}
+,"adahi":{"h":[{"d":[{"f":"amélioration : voir sa situation s'améliorer"},{"f":"progrès"},{"f":"meilleur qu'autrefois"}]}],"t":"adahi"}
 ,"adal":{"h":[{"d":[{"type":"Z","f":"sot"}]}],"t":"adal"}
 ,"adapagpag":{"h":[{"d":[{"f":"papillon"}]}],"t":"adapagpag"}
-,"adapox":{"h":[{"d":[{"s":["`kafafoag~"],"f":"chélidoine: (Chelidonium majus) plante utilisée pour faire sortir le pus des abcès"}]}],"t":"adapox"}
+,"adapox":{"h":[{"d":[{"s":["`kafafoag~"],"f":"chélidoine : (Chelidonium majus) plante utilisée pour faire sortir le pus des abcès"}]}],"t":"adapox"}
 }

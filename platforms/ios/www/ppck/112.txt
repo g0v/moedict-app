@@ -410,7 +410,7 @@
 ,"piloh":{"h":[{"d":[{"f":"￹￺to collapse * as a house blown by the wind￻使之傾倒，吹倒，倒塌如房子"}]}],"t":"piloh"}
 ,"pimamaan":{"h":[{"d":[{"f":"￹￺godfather￻教父"},{"s":["`mama~"],"f":"￹￺person to be depended upon￻可依靠的人"}]}],"t":"pimamaan"}
 ,"pina":{"h":[{"d":[{"e":["￹`na~ `a~ `foting~ `ko~ `ma~`ala~`ay~ `namo~?￺How many fish did you get?￻你們捕到多少魚？","￹`Caay~ `ka~ `pina~ `ko~ `ma~`ala~`ay~ `niyam~.￺We didn't get many.￻我們沒有捕到很多","￹`na~ `ko~ `paro~ `no~ `loma'~ `namo~?￺How many members are in your family?￻你們家有幾口人？"],"f":"￹￺how many?￻多少?"},{"e":["￹`Tayra~ `ko~ `napina~ `ita~ `a~ `mi~`holol~.￺Let's several of us go and visit.￻有幾個人去拜訪"],"f":"￹￺several￻幾個"},{"e":["￹`Kinapina~ / `kinapi~`napina~ `kako~ `a~ `mi~`licay~ `ngraan~￺I asked him a number of times.￻我問他好幾次"],"f":"￹￺more than two or three￻比二或三多一點"}]}],"t":"pina"}
-,"pina%27angan":{"h":[{"d":[{"s":["`'ang~"],"f":"￹￺time or place to put things away￻儲藏室，保險箱"}]}],"t":"pina'angan"}
+,"pina%27angan":{"h":[{"d":[{"s":["`na'ang~"],"f":"￹￺time or place to put things away￻儲藏室，保險箱"}]}],"t":"pina'angan"}
 ,"pina%27aw":{"h":[{"d":[{"f":"￹￺a species of tree * Camptotheca acuminata Decne￻旱蓮(喜樹)"}]}],"t":"pina'aw"}
 ,"pina%27orip":{"h":[{"d":[{"f":"￹￺domestic animals￻家禽家畜"}]}],"t":"pina'orip"}
 ,"pinalecik":{"h":[{"d":[{"s":["`lecik~"],"f":"￹￺broken pieces * broken bits￻碎物，撕裂之物，碎片"}]}],"t":"pinalecik"}

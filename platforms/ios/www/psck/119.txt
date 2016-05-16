@@ -1,0 +1,154 @@
+{"w":{"h":[{"d":[{"f":"阿美語輔音之一，屬雙唇濁半母音。音值為 [ w ]。"}]}],"t":"w"}
+,"wa":{"h":[{"d":[{"e":["￹`Wa~,`sa~`maanaen~ `saw~?￺￻哇，怎麽辦呀？"],"f":"感歎詞。表驚訝、驚歎。"}]}],"t":"wa"}
+,"wa%27a":{"h":[{"d":[{"s":["`pohong~"],"e":["￹`no~ `kolong~.￺￻牛角。"],"f":"犄角，角兒。Wa'a"}]}],"t":"wa'a"}
+,"wa%27ay":{"h":[{"d":[{"s":["`oo'~"],"f":"腳，足。"}]}],"t":"wa'ay"}
+,"wa%27ecik":{"h":[{"d":[{"s":["`miwa'ecik~"],"f":"推開，拋開，淘汰。"}]}],"t":"wa'ecik"}
+,"wa%27eciken":{"h":[{"d":[{"e":["￹`ci~`nira~ `a~ `mi~`paseking~.￺￻通過考試把他淘汰出局。"],"f":"把…推開、淘汰。Wa'eciken"}]}],"stem":"wa'ecik","t":"wa'eciken"}
+,"wa%27il":{"h":[{"d":[{"s":["`miwa'il~"],"f":"用繩子套住。"}]}],"t":"wa'il"}
+,"wa%27ilen":{"h":[{"d":[{"e":["￹`Wa'ilen~ `ko~ `li'el~ `no~ `kolong~ `to~ `ka~`ered~.￺￻用繩子把牛脖子套住。"],"f":"把…套住。"}]}],"stem":"wa'il","t":"wa'ilen"}
+,"wacay":{"h":[{"d":[{"s":["`mawacay~"],"f":"赤裸，上身脫光。"}]}],"t":"wacay"}
+,"wacay%20no%20pilifet%20to%20sowal":{"h":[{"d":[{"e":["￹`Paka~`lifet~`ay~ `to~ `ko~ `wawa~ `to~ `wacay~ `no~ `pilifet~ `to~ `sowal~.￺￻小孩子已經過語言認證考試。"],"f":"語言認證。"}]}],"tag":"[合成語]","t":"wacay no pilifet to sowal"}
+,"wacayan":{"h":[{"d":[{"e":["￹`O~ `maan~ `ko~ `wacayan~ `iso~ `saw~?￺￻你有什麼證據呢？"],"f":"證據，證物。"}]}],"stem":"wacay","t":"wacayan"}
+,"waco":{"h":[{"d":[{"e":["￹`Waco~ `no~ `pala~.￺￻野狗。"],"f":"狗，犬。"}]}],"t":"waco"}
+,"wacoan":{"h":[{"d":[{"f":"狗的種類。"}]}],"stem":"waco","t":"wacoan"}
+,"wadawad":{"h":[{"d":[{"s":["`'ad'ad~","`wadwad~","`mi~`wadawad~"],"f":"打翻，翻騰，翻箱倒櫃。"}]}],"t":"wadawad"}
+,"wadawaden":{"h":[{"d":[{"s":["`'ad'aden~","`wadwaden~"],"f":"把…打翻、倒騰、翻箱倒櫃。"}]}],"stem":"wadawad","t":"wadawaden"}
+,"waday":{"h":[{"d":[{"s":["`waray~","`miwaday~"],"f":"排除糾紛，勸架。"}]}],"t":"waday"}
+,"wadayen":{"h":[{"d":[{"s":["`warayen~"],"e":["￹`Wadayen~ `to~ `ako~ `kora~ `malapo'iay~ `a~ `tamdaw~.￺￻我們把那些互相謾罵的人勸開了。"],"f":"把…勸架、解決糾紛。"}]}],"stem":"waday","t":"wadayen"}
+,"wadihang":{"h":[{"d":[{"s":["`lodihang~","`'odihang~","`fodihang~"],"f":"回音，共鳴。"}]}],"t":"wadihang"}
+,"wadis":{"h":[{"d":[{"e":["￹`Wadis~ `no~ `sarosaros~.￺￻鋸齒。"],"f":"牙齒，齒輪。"}]}],"t":"wadis"}
+,"wadwad":{"h":[{"d":[{"s":["`'ad'ad~","`warwar~","`wadawad~","`miwadwad~"],"f":"倒騰東西，翻箱倒櫃。"}]}],"t":"wadwad"}
+,"wadwaden":{"h":[{"d":[{"s":["`'ad'aden~","`wadawaden~"],"e":["￹`Wadwaden~ `ningra~ `ko~ `tangsu~ `mikilim~ `toya~ `mihimedan~ `a~ `payso~.￺￻他翻箱倒櫃找藏起來的錢。"],"f":"把…倒騰、翻箱倒櫃。"}]}],"stem":"wadwad","t":"wadwaden"}
+,"waheng":{"h":[{"d":[{"f":"臼齒。"}]}],"t":"waheng"}
+,"wahih":{"h":[{"d":[{"s":["`wanik~","`miwahih~"],"f":"推開，挪開，搬開。"}]}],"t":"wahih"}
+,"wahihen":{"h":[{"d":[{"s":["`waniken~"],"e":["￹`Wahihen~ `kora~ `e~`to~ !￺￻把那張桌子搬開！"],"f":"把…推開、挪開。"}]}],"stem":"wahih","t":"wahihen"}
+,"waho":{"h":[{"d":[{"s":["`mawaho~"],"f":"喧嚷，喧囂，喧鬧。"}]}],"t":"waho"}
+,"waka%27":{"h":[{"d":[{"s":["`wa'a~"],"f":"犄角，角兒。"}]}],"t":"waka'"}
+,"wakah":{"h":[{"d":[{"s":["`pakah~"],"f":"臀部。"}]}],"t":"wakah"}
+,"wakang":{"h":[{"d":[{"s":["`ti'enang~","`mawakang~"],"f":"摔個仰面朝天，仰臥。"}]}],"t":"wakang"}
+,"wakangsa":{"h":[{"d":[{"e":["￹`Wakangsa~ `koya~ `waco~ `a~ `matelep~.￺￻那只狗仰面地倒下。"],"f":"呈仰面朝天的樣子。"}]}],"stem":"wakang","t":"wakangsa"}
+,"wakawak":{"h":[{"d":[{"f":"走路搖擺。"},{"s":["`wayway~","`ma~`wakawak~"],"f":"兩手空空，空手，徒手。"}]}],"t":"wakawak"}
+,"wakawaksa":{"h":[{"d":[{"s":["`way~`waysa~"],"e":["￹`Wakawaksa~ `cingra~ `a~ `taini~.￺￻他空手來。","￹`Ca~ `to~ `ka~`hakowa~ `ko~ `fafoy~ `i~ `tokos~,`saka~ `anolatek~ `wakawaksa~ `ko~ `mi'adopay~ `a~ `minokay~.￺￻山上山豬不多，所以如果去套獸，有時候就難免空手回來。"],"f":"呈徒手狀，兩手空空的樣子。"}]}],"stem":"wakawak","t":"wakawaksa"}
+,"wakay":{"h":[{"d":[{"f":"年輕〈日語借詞〉。"}]},{"d":[{"f":"和解〈日語借詞〉。"}]}],"t":"wakay"}
+,"wakec":{"h":[{"d":[{"s":["`fakec~"],"f":"腰帶，佩帶。"}]}],"t":"wakec"}
+,"wakelid":{"h":[{"d":[{"s":["`miwakelid~","`mawakelid~"],"f":"掀翻，撞翻，被水沖走。"}]}],"t":"wakelid"}
+,"wakeliden":{"h":[{"d":[{"e":["￹`Wakeliden~ `ira~ `kora~ `koliciw~.￺￻他把那輛自行車撞翻了。"],"f":"把…掀翻、撞翻。"}]}],"stem":"wakelid","t":"wakeliden"}
+,"wakong":{"h":[{"d":[{"f":"大碗〈閩南語借詞〉。"}]},{"d":[{"f":"大碗。"}]}],"t":"wakong"}
+,"wakwak":{"h":[{"d":[{"s":["`tolatolaw~"],"f":"白腹秧雞。"}]}],"t":"wakwak"}
+,"wala":{"h":[{"d":[{"s":["`liwa~"],"f":"帶子。"}]}],"t":"wala"}
+,"wala%27wa%27":{"h":[{"d":[{"s":["`moliok~","`wakadwad~","`ma~`wala'wa'~"],"f":"噁心，作嘔。"}]}],"t":"wala'wa'"}
+,"waladwad":{"h":[{"d":[{"s":["`sa~`nglay~","`molook~","`wala'wa'~","`ma~`waladwad~"],"f":"噁心，作嘔。"}]}],"t":"waladwad"}
+,"walaw":{"h":[{"d":[{"f":"螻蛄，也叫喇喇蛄，土狗子。"}]}],"t":"walaw"}
+,"walawal":{"h":[{"d":[{"s":["`miwalawal~"],"f":"忘記，健忘，記不清。"}]}],"t":"walawal"}
+,"walawalen":{"h":[{"d":[{"e":["￹`ita~ `koya~ `kecem~!￺￻我們把那件煩事忘了吧！"],"f":"想把…忘記、忘卻。Walawalen"}]}],"stem":"walawal","t":"walawalen"}
+,"walay":{"h":[{"d":[{"f":"線，細繩子。"},{"f":"面線，細麵條。"},{"f":"褐藻的一種。"}]}],"t":"walay"}
+,"wali":{"h":[{"d":[{"f":"東，東方。"}]}],"t":"wali"}
+,"walih":{"h":[{"d":[{"s":["`warih~","`miwalih~"],"f":"推開，移開。"}]}],"t":"walih"}
+,"walihen":{"h":[{"d":[{"e":["￹`Walihen~ `ako~ `kora~ `sapica'it~ `to~ `riko'~.￺￻我要把那掛衣架移開。"],"f":"把…推開、移開。"}]}],"stem":"walih","t":"walihen"}
+,"walin":{"h":[{"d":[{"s":["`miwalin~"],"f":"翻動，翻滾。"}]}],"t":"walin"}
+,"walinen":{"h":[{"d":[{"e":["￹`Walinen~ `koni~ `a~ `fokeloh~.￺￻把這塊大石頭翻過來。"],"f":"把…翻動、翻滾。"}]}],"stem":"walin","t":"walinen"}
+,"walwal":{"h":[{"d":[{"e":["￹`Walwal~ `no~ `loma'~.￺￻房子的柵欄。"],"f":"柵欄，紗窗。"}]}],"t":"walwal"}
+,"wama":{"h":[{"d":[{"f":"父親。"}]}],"t":"wama"}
+,"wanan":{"h":[{"d":[{"f":"右，右邊。"}]}],"t":"wanan"}
+,"wanang":{"h":[{"d":[{"s":["`waday~","`waray~","`miwanang~"],"f":"排除糾紛，勸架。"}]}],"t":"wanang"}
+,"wanangen":{"h":[{"d":[{"s":["`wadayen~","`warayen~","`miwanang~"],"f":"把…勸架、解決糾紛。"}]}],"stem":"wanang","t":"wanangen"}
+,"waneng":{"h":[{"d":[{"s":["`'odax~"],"e":["￹`Waneng~ `no~ `'odal~.￺￻蜂蜜。"],"f":"糖，糖果。"}]}],"t":"waneng"}
+,"wangawang":{"h":[{"d":[{"s":["`mawangawang~","`miwangawang~"],"f":"揮手，擺手。"}]}],"t":"wangawang"}
+,"wangawangsa":{"h":[{"d":[{"e":["￹`Wangawangsa~ `ko~ `kayam~ `ira~ `papipanokayen~ `kami~.￺￻他的手揮動著，示意我們回去。"],"f":"呈揮手、擺手的樣子，揮著手，擺著手。"}]}],"stem":"wangawang","t":"wangawangsa"}
+,"wangkang":{"h":[{"d":[{"f":"完工，結束〈閩南語借詞〉。"}]}],"t":"wangkang"}
+,"wani":{"h":[{"d":[{"f":"鱷魚〈日語借詞〉。"}]}],"t":"wani"}
+,"wanik":{"h":[{"d":[{"s":["`wahih~","`warih~","`miwanik~"],"f":"挪開，撇開，排除，淘汰。"}]}],"t":"wanik"}
+,"waniken":{"h":[{"d":[{"s":["`wahihen~","`waniken~"],"f":"把…挪開、撇開、排除、淘汰。"}]}],"stem":"wanik","t":"waniken"}
+,"wanikhan":{"h":[{"d":[{"s":["`wahihhan~","`warihhan~"],"e":["￹`Wanikhan~ `ningra~ `ko~ `safa~ `a~ `mipatalaw~.￺￻他故意把弟弟推開嚇唬他。"],"f":"特地把…挪開、排除。"}]}],"stem":"wanik","t":"wanikhan"}
+,"wara":{"h":[{"d":[{"s":["`wiri~","`mawara~"],"f":"走路蹣跚、搖晃。"}]}],"t":"wara"}
+,"warak":{"h":[{"d":[{"s":["`mawarak~"],"f":"毒藥，毒素。"}]}],"t":"warak"}
+,"waraken":{"h":[{"d":[{"e":["￹`Waraken~ `ira~ `ko~ `foting~ `i~ `'alo~`'aloan~.￺￻他在河邊毒魚。"],"f":"把…毒死。"}]}],"stem":"warak","t":"waraken"}
+,"waraksa":{"h":[{"d":[{"e":["￹`a~ `masowal~ `kora~ `wawa~.￺￻孩子顯得固執沒法說服。"],"f":"固執地。Waraksa"}]}],"stem":"warak","t":"waraksa"}
+,"waraw":{"h":[{"d":[{"s":["`silo'~"],"f":"乏味，無味，不調和。"}]}],"t":"waraw"}
+,"warawara":{"h":[{"d":[{"s":["`mawarawara~"],"f":"不停地晃動。"}]}],"tag":"[疊 1]","stem":"wara","t":"warawara"}
+,"warawarasa":{"h":[{"d":[{"e":["￹`Warawarasa~ `koya~ `tatosa~ `a~ `malitengay~ `a~ `malasang~.￺￻兩個老人酒醉搖搖擺擺地走路。"],"f":"身體呈搖搖擺擺的狀態。"}]}],"tag":"[疊 1]","stem":"wara","t":"warawarasa"}
+,"waray":{"h":[{"d":[{"s":["`waday~","`wanang~","`miwaray~"],"f":"排除糾紛，解決矛盾，勸架。"}]}],"t":"waray"}
+,"warayen":{"h":[{"d":[{"s":["`waday~","`wanang~"],"f":"把…排除糾紛、勸架。"}]}],"stem":"waray","t":"warayen"}
+,"warih":{"h":[{"d":[{"s":["`wahih~","`wanik~","`miwarih~"],"f":"移開，挪開。"}]}],"t":"warih"}
+,"warihen":{"h":[{"d":[{"s":["`wahihen~","`waniken~"],"f":"把…移開、挪開。"}]}],"stem":"warih","t":"warihen"}
+,"wariw":{"h":[{"d":[{"s":["`faresiw~","`miwariw~"],"f":"扔東西，投擲，橫甩。"}]}],"t":"wariw"}
+,"wariwen":{"h":[{"d":[{"s":["`faresiwen~"],"f":"把…扔掉、橫甩。"}]}],"stem":"wariw","t":"wariwen"}
+,"warwar":{"h":[{"d":[{"s":["`miwarwar~"],"f":"掀翻，推翻；搗亂，胡鬧。"}]}],"t":"warwar"}
+,"warwaren":{"h":[{"d":[{"e":["￹`Warwaren~ `ningra~ `ko~ `cokoi~.￺￻他把桌子翻亂。"],"f":"把…掀翻、推翻、搗亂。"}]}],"stem":"warwar","t":"warwaren"}
+,"wasak":{"h":[{"d":[{"s":["`laklak~","`waswas~","`mawasak~"],"f":"零亂，散亂，雜亂無章。"}]}],"t":"wasak"}
+,"wasowas":{"h":[{"d":[{"s":["`mawasowas~"],"f":"弄亂，散亂。"}]}],"t":"wasowas"}
+,"waswas":{"h":[{"d":[{"s":["`laklak~","`wasak~","`mawaswas~"],"f":"零亂，散亂，雜亂無章。"}]}],"t":"waswas"}
+,"wata":{"h":[{"d":[{"s":["`watah~"],"e":["￹`Wata~ `falo~ `a~ `kaysing~ `ko~ `mikaenan~ `ningra~ !￺￻哇塞，他吃了八碗飯！","￹`Wata~ `ta'angayay~ `koni~ `a~ `konga~ !￺￻啊，這塊番薯多大！"],"f":"感歎詞。表讚歎、驚歎。哇，啊！"}]}],"t":"wata"}
+,"watah":{"h":[{"d":[{"s":["`wata~"],"f":"感歎詞。表讚歎、驚歎。哇，啊！"}]}],"t":"watah"}
+,"wataw":{"h":[{"d":[{"s":["`akong~","`wakong~"],"f":"大碗。"}]}],"t":"wataw"}
+,"watawat":{"h":[{"d":[{"s":["`miwatawat~"],"f":"揮動，搖動，揮舞。"}]}],"t":"watawat"}
+,"watawaten":{"h":[{"d":[{"e":["￹`Kalikiay~ `kora~ `fayfay~ `ira~ `a~ `watawaten~.￺￻他的旗幟揮舞得很快的。"],"f":"把…揮動、揮舞。"}]}],"stem":"watawat","t":"watawaten"}
+,"wawa":{"h":[{"d":[{"e":["￹`O~ `wawa~ `ako~.￺￻我的孩子。","￹`O~ `a~ `wawa~.￺￻私生子。"],"f":"孩子，晚輩。"},{"e":["￹`Wawa~ `no~ `lotong~.￺￻猴崽。","￹`Wawa~ `no~ `ngafol~.￺￻鹿之子，獨生子。"],"f":"幼崽。"}]}],"t":"wawa"}
+,"wawa%27ilen":{"h":[{"d":[{"e":["￹`O~ `wawa'ilen~ `ako~ `kora~ `siri~.￺￻我要套住那隻山羊。"],"f":"要套住。"},{"e":["￹`O~ `cima~ `ko~ `wawa'ilen~ `ira~?￺￻他要捕誰？"],"f":"指要套捕的(對像)。"}]}],"tag":"[疊 2]","stem":"wa'il","t":"wawa'ilen"}
+,"wawaan":{"h":[{"d":[{"f":"徒弟，門徒。"}]}],"stem":"wawa","t":"wawaan"}
+,"wawadawaden":{"h":[{"d":[{"e":["￹`O~ `wawadawaden~ `ako~ `ko~ `riko'~ `i~ `lalipaan~.￺￻我要把箱子裡的衣服翻箱倒櫃。"],"f":"要翻騰，要翻箱倒櫃。"},{"s":["`wawadwaden~"],"e":["￹`Wawadawaden~ `a~ `maamaan~.￺￻即將被翻動的東西。"],"f":"指要翻騰、要翻箱倒櫃的(東西)。"}]}],"tag":"[疊 2]","stem":"wadawad","t":"wawadawaden"}
+,"wawadayen":{"h":[{"d":[{"e":["￹`Wawadayen~ `ako~ `capanay~.￺￻我要把Panay(巴奈)他們勸架。"],"f":"要排除糾紛，要勸架。"},{"s":["`wawarayen~"],"e":["￹`Wawadayen~ `a~ `fiyaw~.￺￻即將讓人勸架的鄰居。"],"f":"指要排除糾紛、要勸架的(物件)。"}]}],"tag":"[疊 2]","stem":"waday","t":"wawadayen"}
+,"wawadwaden":{"h":[{"d":[{"f":"要倒騰、翻騰。"},{"s":["`'a'ad'aden~","`wawadawaden~"],"f":"指要倒騰、翻騰的(東西)。"}]}],"tag":"[疊 2]","stem":"wadwad","t":"wawadwaden"}
+,"wawahihen":{"h":[{"d":[{"e":["￹`Wawahihen~ `ira~ `ko~ `ka~`npiwta~ `ako~.￺￻他要把我的電腦挪開。"],"f":"要推開、挪開。"},{"s":["`wawalihen~","`wawaniken~"],"e":["￹`Wawahihen~　 `a~ `lipa~.￺￻即將被挪開的箱子。"],"f":"指要推開、挪開的(東西)。"}]}],"tag":"[疊 2]","stem":"wahih","t":"wawahihen"}
+,"wawakeliden":{"h":[{"d":[{"e":["￹`O~ `wawakeliden~ `no~ `wawa~ `kora~ `koliciw~.￺￻孩子要把那輛自行車推翻。"],"f":"要掀翻、推翻。"},{"e":["￹`Wawakeliden~ `a~ `e~`to~.￺￻即將被人掀翻的桌子。"],"f":"指要掀翻、推翻的(物件)。"}]}],"tag":"[疊 2]","stem":"wakelid","t":"wawakeliden"}
+,"wawalawalen":{"h":[{"d":[{"e":["￹`O~ `wawalawalen~ `niyam~ `kora~ `tatiihay~ `a~ `demak~.￺￻我們要把那些難過的事情忘掉。"],"f":"要忘記。"},{"e":["￹`Wawalawalen~ `a~ `demak~.￺￻即將被忘記的事情。"],"f":"指要忘記的(物件)。"}]}],"tag":"[疊 2]","stem":"walawal","t":"wawalawalen"}
+,"wawalihen":{"h":[{"d":[{"f":"要推開、移開。"},{"s":["`wawahihen~","`wawaniken~"],"f":"指要推開、移開的(東西)。"}]}],"tag":"[疊 2]","stem":"walih","t":"wawalihen"}
+,"wawalinen":{"h":[{"d":[{"e":["￹`Wawalinen~ `ako~ `ko~ `fakeloh~ `i~ `omah~.￺￻我要把田裡的石頭滾動移開。"],"f":"要滾動移開。"},{"e":["￹`Wawalinen~ `a~ `ongcoy~.￺￻即將被翻滾的岩石。"],"f":"指要滾動、倒騰的(東西)。"}]}],"tag":"[疊 2]","stem":"walin","t":"wawalinen"}
+,"wawanangen":{"h":[{"d":[{"f":"要排除糾紛，要勸架。"},{"s":["`wawadayen~","`wawarayen~"],"f":"指要排除糾紛、要勸架的(物件)。"}]}],"tag":"[疊 2]","stem":"waneng","t":"wawanangen"}
+,"wawaniken":{"h":[{"d":[{"f":"要排除、推開，要淘汰。"},{"s":["`wawahihen~","`wawalihen~"],"f":"指要排除、推開、淘汰的(物件)。"}]}],"tag":"[疊 2]","stem":"wanik","t":"wawaniken"}
+,"wawaraken":{"h":[{"d":[{"f":"要下毒、投毒。"},{"f":"指要下毒、投毒的(物件)。"}]}],"tag":"[疊 2]","stem":"warak","t":"wawaraken"}
+,"wawarayen":{"h":[{"d":[{"f":"要排除糾紛，要勸架。"},{"s":["`wawadayen~","`wawanangen~"],"f":"指要排除糾紛的、要勸架的(物件)。"}]}],"stem":"waray","t":"wawarayen"}
+,"wawarihen":{"h":[{"d":[{"f":"要移開、挪開，要淘汰。"},{"s":["`wawahihen~","`wa~`waliken~"],"f":"指要移開、挪開、淘汰的(東西)。"}]}],"tag":"[疊 2]","stem":"warih","t":"wawarihen"}
+,"wawariwen":{"h":[{"d":[{"f":"要扔掉、甩掉。"},{"s":["`fafaresiwen~"],"f":"指要扔掉、甩掉的(東西)。"}]}],"tag":"[疊 2]","stem":"wariw","t":"wawariwen"}
+,"wawarwaren":{"h":[{"d":[{"e":["￹`Wawarwaren~ `ni~`am~ `kora~ `tosiya~.￺￻我們要撞翻那輛汽車。"],"f":"要掀翻、推翻。"},{"e":["￹`Wawarwaren~ `a~ `tosiya~.￺￻即將被撞翻的汽車。"],"f":"指要掀翻、推翻的(東西)。"}]}],"tag":"[疊 2]","stem":"warwar","t":"wawarwaren"}
+,"wawatawaten":{"h":[{"d":[{"e":["￹`Wawatawaten~ `no~ `wawa~ `ko~ `hangkaci~.￺￻孩子即將揮動手帕。"],"f":"要揮動、揮舞。"},{"e":["￹`Wawatawaten~ `a~ `hata~.￺￻要揮動的國旗。"],"f":"指要揮動、揮舞的(物件)。"}]}],"tag":"[疊 2]","stem":"watawat","t":"wawatawaten"}
+,"wawi%27awi%27en":{"h":[{"d":[{"f":"要鬆動、扭動，要按摩。"},{"s":["`ngangohangohen~","`wawiyawi'en~"],"f":"指要鬆動、活動的，要按摩的(物件)。"}]}],"tag":"[疊 2]","stem":"wi'awi'","t":"wawi'awi'en"}
+,"wawi%27ingen":{"h":[{"d":[{"e":["￹`O~ `wawi'ingen~ `no~ `siri~ `ko~ `wawa~.￺￻羊要撞孩子。"],"f":"牛要頂撞人。"},{"e":["￹`Wawi'ingen~ `a~ `kaying~.￺￻即將被頂撞的小姐。"],"f":"指牛要頂撞的(對像)。"}]}],"tag":"[疊 2]","stem":"wi'ing","t":"wawi'ingen"}
+,"wawiciken":{"h":[{"d":[{"e":["￹`Wawiciken~ `naira~ `ko~ `malitengay~.￺￻他們就要謙讓老人。"],"f":"要躲閃、謙讓。"},{"e":["￹`Wawiciken~ `a~ `mato'asay~.￺￻即將被人謙讓的老一輩。"],"f":"指要躲閃、謙讓的(物件)。"}]}],"tag":"[疊 2]","stem":"wicik","t":"wawiciken"}
+,"wawikwiken":{"h":[{"d":[{"e":["￹`Wawikwiken~ `no~ `kaka~ `ko~ `cayna~.￺￻姊姊要編籃子。"],"f":"要編織籃子。"},{"e":["￹`Wawikwiken~ `a~ `fitay~.￺￻要被編織的篩子。"],"f":"指要編織的(籃子)。"}]}],"tag":"[疊 2]","stem":"wikwik","t":"wawikwiken"}
+,"wawilecen":{"h":[{"d":[{"e":["￹`O~ `wawilecen~ `no~ `wama~ `ko~ `tireng~ `ira~.￺￻父親要去活動身體。"],"f":"要扭動、活動上身。"},{"e":["￹`Wawilecen~ `a~ `kamay~.￺￻即將擺動鍛鍊的手。"],"f":"指要扭動、活動上身的(物件)。"}]}],"tag":"[疊 2]","stem":"wilec","t":"wawilecen"}
+,"wawileten":{"h":[{"d":[{"e":["￹`O~ `wawileten~ `no~ `wawa~ `kora~ `hana~.￺￻孩子要擰斷那朵花。"],"f":"要擰斷、扭斷。"},{"e":["￹`Wawileten~ `a~ `papah~.￺￻即將被扭斷的葉子。"],"f":"指要擰斷、扭斷的(物件)。"}]}],"tag":"[疊 2]","stem":"wilet","t":"wawileten"}
+,"wawingawingen":{"h":[{"d":[{"e":["￹`Wawingawingen~ `no~ `waco~ `ko~ `wikol~ `ira~.￺￻狗要搖動牠的尾巴。"],"f":"要搖尾巴，要擺動。"},{"e":["￹`Wawingawingen~ `a~ `wikol~.￺￻(狗)要搖動的尾巴。"],"f":"指要搖動的(尾巴)要搖擺的(軟東西)。"}]}],"tag":"[疊 2]","stem":"wingawing","t":"wawingawingen"}
+,"wawitawiten":{"h":[{"d":[{"e":["￹`Wawitawiten~ `ira~ `ko~ `pitaw~ `a~ `maomah~.￺￻他要拿鋤頭去耕地。"],"f":"要提攜。"},{"e":["￹`Wawitawiten~ `a~ `pitaw~.￺￻即將被提起來的鋤頭。"],"f":"指要提攜的(東西)。"}]}],"tag":"[疊 2]","stem":"witawit","t":"wawitawiten"}
+,"wawiyawi%27en":{"h":[{"d":[{"f":"要鬆動、活動，要按摩。"},{"s":["`ngangohangohen~","`wawi'awi'en~"],"f":"指要鬆動、活動的，要按摩的(對像)。"}]}],"tag":"[疊 2]","stem":"wiyawi'","t":"wawiyawi'en"}
+,"waxaran":{"h":[{"d":[{"s":["`'adidem~"],"f":"桑樹。"}]}],"t":"waxaran"}
+,"waya":{"h":[{"d":[{"f":"鐵線〈日語借詞〉。"}]}],"t":"waya"}
+,"wayparod":{"h":[{"d":[{"f":"微波爐。"}]}],"tag":"[漢語借詞]","t":"wayparod"}
+,"wayway":{"h":[{"d":[{"s":["`wakawak~"],"f":"舉動，舉止，行為。"}]}],"t":"wayway"}
+,"weng":{"h":[{"d":[{"f":"嗡的一聲。"}]}],"t":"weng"}
+,"wengsa":{"h":[{"d":[{"e":["￹`Wengsa~ `ko~ `fongoh~ `ira~ `a~ `maseka'~.￺￻他的腦袋嗡地一聲昏過去了。"],"f":"嗡的一聲響。"}]}],"stem":"weng","t":"wengsa"}
+,"wi%27awi%27":{"h":[{"d":[{"s":["`ngohangoh~","`wiyawi'~","`miwi'awi'~"],"f":"鬆動、扭動四肢，按摩關節。"}]}],"t":"wi'awi'"}
+,"wi%27awi%27en":{"h":[{"d":[{"s":["`ngohangohen~","`wiyawi'en~"],"e":["￹`Wi'awi'en~ `ho~ `ko~ `fadangalan~ `no~ `niyah~ !￺￻把自己的胳膊活動一下！"],"f":"把…鬆動、活動四肢，把…按摩。"}]}],"stem":"wi'awi'","t":"wi'awi'en"}
+,"wi%27ing":{"h":[{"d":[{"s":["`miwi'ing~"],"f":"牛頂撞人。"}]}],"t":"wi'ing"}
+,"wi%27ingen":{"h":[{"d":[{"e":["￹`Wi'ingen~ `to~ `nora~ `takingkingay~ `ko~ `wawa~ `iso~.￺￻那頭水牛把你的小孩撞了。"],"f":"把…頂撞。"}]}],"stem":"wi'ing","t":"wi'ingen"}
+,"wicik":{"h":[{"d":[{"s":["`mi~`wicik~"],"f":"向一邊躲閃，謙讓。"}]}],"t":"wicik"}
+,"wiciken":{"h":[{"d":[{"e":["￹`Wiciken~ `namo~ `aira~ `to~ `ko~ `kakeridan~ !￺￻你們閃開，領導人要來啦！"],"f":"請躲閃、謙讓一邊吧！"}]}],"stem":"wicik","t":"wiciken"}
+,"widang":{"h":[{"d":[{"s":["`aliw~"],"e":["￹`Ci~`nira~ `ko~ `widang~ `ako~.￺￻他是我的朋友。","￹`Nga'ayay~ `a~ `widang~.￺￻好朋友。"],"f":"朋友，好夥伴。"}]}],"t":"widang"}
+,"widawidan":{"h":[{"d":[{"s":["`mi~`naro'an~"],"f":"稻穗。"}]}],"t":"widawidan"}
+,"widawidang":{"h":[{"d":[{"e":["￹`Licayenho~ `ita~ `ko~ `widawidang~ `ita~.￺￻問候一下我們的朋友。"],"f":"許多朋友，朋友們。"}]}],"tag":"[疊 2]","stem":"widang","t":"widawidang"}
+,"widi":{"h":[{"d":[{"e":["￹`Iraay~ `ko~ `widi~ `i~ `'a~`'aloan~.￺￻河裡有水蛭。"],"f":"水蛭，螞蝗。"}]},{"d":[{"e":["￹`Pina~ `a~ `widi~ `ko~ `kacomikayan~ `ira~?￺￻他跑幾秒?"],"f":"計時單位，秒。"}]}],"t":"widi"}
+,"widi%27":{"h":[{"d":[{"f":"半袋兒。"}]}],"t":"widi'"}
+,"wihawih":{"h":[{"d":[{"s":["`pances~"],"f":"船舵。"}]}],"t":"wihawih"}
+,"wikih":{"h":[{"d":[{"s":["`wilih~","`mawikih~"],"f":"翅膀或胳膊反背，扭彎。"}]}],"t":"wikih"}
+,"wikol":{"h":[{"d":[{"f":"尾巴。"}]}],"t":"wikol"}
+,"wikwik":{"h":[{"d":[{"s":["`miwikwik~"],"f":"編織竹籃、竹篾。"}]}],"t":"wikwik"}
+,"wikwiken":{"h":[{"d":[{"e":["￹`Makapahay~ `a~ `wikwiken~.￺￻(他)籃子編得好看。"],"f":"把…編織成籃子。"}]}],"stem":"wikwik","t":"wikwiken"}
+,"wilec":{"h":[{"d":[{"s":["`miwilec~"],"f":"扭動上身。"}]}],"t":"wilec"}
+,"wilecen":{"h":[{"d":[{"e":["￹`Halafinay~ `to~ `a~ `maro'~,`wilecen~ `ita~ `a~ `talapapotal~ !￺￻坐得很久了，我們到外院活動活動吧！"],"f":"把…扭動。"}]}],"stem":"wilec","t":"wilecen"}
+,"wilet":{"h":[{"d":[{"s":["`miwilet~"],"f":"擰斷，扭曲。"}]}],"t":"wilet"}
+,"wileten":{"h":[{"d":[{"e":["￹`Wileten~ `ako~ `ko~ `ca'ang~ `no~ `kilang~.￺￻我把樹枝扭斷。"],"f":"把…扭斷、擰斷。"}]}],"stem":"wilet","t":"wileten"}
+,"wili":{"h":[{"d":[{"f":"左，左邊，左側。"}]}],"t":"wili"}
+,"wina":{"h":[{"d":[{"e":["￹`Cima~ `ko~ `wina~ `iso~ `saw~?￺￻你的母親是誰呢？"],"f":"母親。"}]}],"t":"wina"}
+,"winaan":{"h":[{"d":[{"f":"母親們，母親輩的女性。"}]}],"stem":"wina","t":"winaan"}
+,"wingawing":{"h":[{"d":[{"s":["`miwingawing~"],"f":"搖尾巴，搖擺。"}]}],"t":"wingawing"}
+,"wingawingen":{"h":[{"d":[{"s":["`wi'ingen~"],"e":["￹`Wingawingen~ `no~ `oles~ `ko~ `wikol~ `ira~.￺￻狼把自己的尾巴搖一搖。"],"f":"把(尾巴)搖了搖。"}]}],"stem":"wingawing","t":"wingawingen"}
+,"wingawinghan":{"h":[{"d":[{"s":["`wi'inghan~"],"e":["￹`Wingawinghan~ `noya~ `waco~ `kinatosa~ `koya~ `ta'angayay~ `a~ `wikol~.￺￻那只狗特地把大尾巴搖兩下。"],"f":"特地把(尾巴)搖了搖特地搖擺。"}]}],"stem":"wingawing","t":"wingawinghan"}
+,"wiri":{"h":[{"d":[{"s":["`wara~","`ma~`wiri~"],"f":"身體晃動、搖晃。"}]}],"t":"wiri"}
+,"wiriwiri":{"h":[{"d":[{"s":["`warawara~","`ma~`wiriwiri~"],"f":"身體晃動、搖擺。"}]}],"tag":"[疊 1]","stem":"wiri","t":"wiriwiri"}
+,"wiriwirisa":{"h":[{"d":[{"s":["`warawarasa~"],"e":["￹`Wiriwirisa~ `kora~ `malasangay~ `a~ `malitengay~ `a~ `romakat~.￺￻那些喝醉的老人走路搖搖晃晃的。"],"f":"身體呈搖擺的狀態。"}]}],"tag":"[疊 1]","stem":"wiri","t":"wiriwirisa"}
+,"wisawisan":{"h":[{"d":[{"s":["`pangpangan~"],"e":["￹`Mipatelian~ `niyam~ `ko~ `sa~ `ka~`maomah~ `i~ `wisawisan~.￺￻我們把農具放在屋簷下。"],"f":"屋簷。"}]}],"t":"wisawisan"}
+,"witawit":{"h":[{"d":[{"s":["`miwitawit~"],"f":"手提，提攜。"}]}],"t":"witawit"}
+,"witawiten":{"h":[{"d":[{"e":["￹`Witawiten~ `ako~ `ko~ `papaysoan~ `ako~.￺￻我把自己的錢包用手提著。"],"f":"把…手提著。"}]}],"stem":"witawit","t":"witawiten"}
+,"wiyawi%27":{"h":[{"d":[{"s":["`ngohangoh~","`wi'awi'~"],"f":"活動，鬆動；按摩。"}]}],"t":"wiyawi'"}
+,"wiyawi%27en":{"h":[{"d":[{"s":["`ngohangohen~","`wi'awi'en~"],"e":["￹`Malitengay~ `to~ `kami~, `macedengay~ `a~ `wiyawi'en~ `ko~ `tireng~ `niyam~.￺￻我們老了，活動身體要放慢速度。"],"f":"把…活動、鬆動，把…按摩。"}]}],"stem":"wiyawi'","t":"wiyawi'en"}
+}

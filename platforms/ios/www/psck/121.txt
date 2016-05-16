@@ -1,0 +1,42 @@
+{"y":{"h":[{"d":[{"f":"阿美語的輔音之一。屬舌面中濁半母音，音值為 [ j ]。"}]}],"t":"y"}
+,"ya":{"h":[{"d":[{"s":["`oya~"],"f":"指示代詞基本格、主格形態。那，那個，那些。"}]}],"t":"ya"}
+,"yacing":{"h":[{"d":[{"f":"押金〈漢語借詞〉。"}]}],"t":"yacing"}
+,"yafayaf":{"h":[{"d":[{"s":["`mayafayaf~"],"f":"並肩行走，同時做幾件事。"}]}],"t":"yafayaf"}
+,"yah":{"h":[{"d":[{"f":"感歎詞。表示驚訝。啊，啊呀！"}]}],"t":"yah"}
+,"yakang":{"h":[{"d":[{"f":"茶壼，水壼〈日語借詞〉。"}]}],"t":"yakang"}
+,"yakang%20kakko":{"h":[{"d":[{"f":"夜校〈日語借詞〉。"}]}],"t":"yakang kakko"}
+,"yakiw":{"h":[{"d":[{"f":"棒球。"}]}],"tag":"[日語借詞]","t":"yakiw"}
+,"yakkiw":{"h":[{"d":[{"f":"捧球〈日語借詞〉。"}]}],"t":"yakkiw"}
+,"yako":{"h":[{"d":[{"f":"夜車〈日語借詞〉。"}]}],"t":"yako"}
+,"yakufa":{"h":[{"d":[{"s":["`kufa~"],"f":"公所〈日語借詞〉。"}]}],"t":"yakufa"}
+,"yakuwing":{"h":[{"d":[{"f":"委員〈日語借詞〉"}]}],"t":"yakuwing"}
+,"yakyak":{"h":[{"d":[{"s":["`yakiyak~、","`palosiyang~","`ma~`yakyak~"],"f":"閒談，散佈小道消息。"}]}],"t":"yakyak"}
+,"yamayam":{"h":[{"d":[{"f":"火焰。"}]}],"t":"yamayam"}
+,"yamayamen":{"h":[{"d":[{"f":"把(火焰)點燃。"}]}],"stem":"yamayam","t":"yamayamen"}
+,"yamayamsa":{"h":[{"d":[{"e":["￹`Yamayamsa~ `ko~ `iloh~ `no~ `lotok~, `caay~ `ko~ `ma~`mapadeng~.￺￻山火熊熊，難以撲滅。"],"f":"火勢熊熊的樣子，火勢呈旺盛的狀態。"}]}],"stem":"yamayam","t":"yamayamsa"}
+,"yangci":{"h":[{"d":[{"f":"氧氣。"}]}],"tag":"[漢語借詞]","t":"yangci"}
+,"yangcien":{"h":[{"d":[{"f":"吸氧吧！"}]}],"stem":"yangci","t":"yangcien"}
+,"yasi":{"h":[{"d":[{"s":["`'afinong~"],"f":"椰子。"}]}],"tag":"[日語借詞]","t":"yasi"}
+,"yasumi":{"h":[{"d":[{"f":"休假〈日語借詞〉。"}]}],"t":"yasumi"}
+,"yasyas":{"h":[{"d":[{"s":["`miyasyas~"],"f":"撒水，濺水。"}]}],"t":"yasyas"}
+,"yasyasen":{"h":[{"d":[{"f":"把…撒水、濺水。"}]}],"stem":"yasyas","t":"yasyasen"}
+,"yasyashan":{"h":[{"d":[{"f":"特地把…撒水、濺水。"}]}],"stem":"yasyas","t":"yasyashan"}
+,"yatayat":{"h":[{"d":[{"s":["`miyatayat~"],"f":"活動筋骨或身體。"}]}],"t":"yatayat"}
+,"yatayaten":{"h":[{"d":[{"f":"把(筋骨、身體)活動活動吧！"}]}],"stem":"yatayat","t":"yatayaten"}
+,"yayamayamen":{"h":[{"d":[{"f":"即將點燃火焰。"},{"f":"指要點燃的(火焰)。"}]}],"tag":"[疊 2]","stem":"yamayam","t":"yayamayamen"}
+,"yayangcien":{"h":[{"d":[{"f":"要吸氧氣。"},{"f":"指要吸納的(氧氣)。"}]}],"tag":"[疊 2]","stem":"yangci","t":"yayangcien"}
+,"yayasyasen":{"h":[{"d":[{"f":"要撒水、濺水。"},{"f":"指要濺撒、噴灑的(水)。"}]}],"tag":"[疊 2]","stem":"yasyas","t":"yayasyasen"}
+,"yayatayaten":{"h":[{"d":[{"f":"要活動筋骨、身體。"},{"s":["`yatayaten~"],"f":"指要活動的(筋骨、身體)。"}]}],"tag":"[疊 2]","stem":"yatayat","t":"yayatayaten"}
+,"yayofen":{"h":[{"d":[{"f":"要吹拂。"},{"f":"指要吹拂的(物件)。"}]}],"tag":"[疊 2]","stem":"yof","t":"yayofen"}
+,"yo":{"h":[{"d":[{"f":"感歎詞。表示驚歎。喲，呀！"}]},{"d":[{"e":["￹`Yo~ `mafana'~ `kako~ `'i~, `sarahekersa~ `kako~.￺￻當我知道的時候，我是那麽地高興。"],"f":"關聯詞。當…之際。"}]}],"t":"yo"}
+,"yociing":{"h":[{"d":[{"f":"幼稚園〈日語借詞〉。"}]},{"d":[{"f":"幼稚園，幼稚園，託兒所。"}]}],"t":"yociing"}
+,"yof":{"h":[{"d":[{"s":["`iyof~","`mi~`yof~"],"f":"吹。"}]}],"t":"yof"}
+,"yofen":{"h":[{"d":[{"e":["￹`Yofen~ `ko~ `lamal~ `nga'~ `caka~ `padeng~.￺￻柴火要吹才不會熄滅。"],"f":"把…吹拂。"}]}],"stem":"yof","t":"yofen"}
+,"yofing":{"h":[{"d":[{"f":"郵局〈日語借詞〉。"}]},{"d":[{"f":"郵差〈日語借詞〉。"}]},{"d":[{"f":"郵局，郵差。"}]}],"t":"yofing"}
+,"yofingkyok":{"h":[{"d":[{"f":"郵政局〈日語借詞〉。"}]}],"t":"yofingkyok"}
+,"yolinohana":{"h":[{"d":[{"f":"百合花。"}]}],"tag":"[日語借詞]","t":"yolinohana"}
+,"yong":{"h":[{"d":[{"f":"傭人，雇工，幫工。"}]}],"tag":"[日語借詞]","t":"yong"}
+,"yopiyaw":{"h":[{"d":[{"f":"郵票。"}]}],"tag":"[漢語借詞]","t":"yopiyaw"}
+,"yoyang":{"h":[{"d":[{"s":["`firang~","`mayoyang~"],"e":["￹`Ca~ `ka~ `yoyang~ `kora~ `wawa~.￺￻那個小孩的脾氣很拗。"],"f":"煩惱，惱怒，頑固，很拗。"}]}],"t":"yoyang"}
+,"yuducingki":{"h":[{"d":[{"f":"碘酒〈日語借詞〉。"}]}],"t":"yuducingki"}
+}

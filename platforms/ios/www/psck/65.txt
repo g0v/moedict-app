@@ -1,0 +1,7 @@
+{"Alapawan":{"h":[{"d":[{"f":"部落名稱。今台灣台東縣東河鄉泰源村。"}]}],"t":"Alapawan"}
+,"Amilika":{"h":[{"d":[{"f":"美國〈日語借詞〉。"}]}],"t":"Amilika"}
+,"Amirika":{"h":[{"d":[{"s":["`Padaka~","`Amohoan~"],"e":["￹`Tayra~ `kami~ `i~ `Amirika~ `ano~ `roma~ `a~ `fulad~.￺￻下個月我們要去美國。"],"f":"美國。(英語借詞)。"}]}],"t":"Amirika"}
+,"Amohoan":{"h":[{"d":[{"e":["￹`Ira~ `ko~ `Widang~ `ako~ `to~ `Amohoan~.￺￻我有一位白種人的朋友。"],"f":"外國人，白種人。"}]}],"t":"Amohoan"}
+,"Ancoh":{"h":[{"d":[{"e":["￹`Irako~ `fa'detay~ `a~ `nanom~ `i~ `Ancoh~.￺￻安通有溫泉。"],"f":"部落名稱，今台灣玉里鎮安通村。"}]}],"t":"Ancoh"}
+,"Awawan":{"h":[{"d":[{"s":["`Folalacay~"],"e":["￹`Ma~`sakero~ `ko~ `Awawan~ `anini~.￺￻今天石雨傘部落在跳舞。"],"f":"台東縣成功鎮石雨傘部落。"}]}],"t":"Awawan"}
+}

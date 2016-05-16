@@ -1,0 +1,25 @@
+{"Kacaw":{"h":[{"d":[{"f":"男性人名。"}]}],"t":"Kacaw"}
+,"Kafid":{"h":[{"d":[{"f":"海神，海龍王。也指神話傳說中的最高神祇之一，即天神。"}]}],"t":"Kafid"}
+,"Kaheciday":{"h":[{"d":[{"f":""}]}],"t":"Kaheciday"}
+,"Kakawasan":{"h":[{"d":[{"f":""}]}],"t":"Kakawasan"}
+,"Kalala":{"h":[{"d":[{"f":"部落名稱，今台灣花蓮縣瑞穗鄉迦拿部落。"}]}],"t":"Kalala"}
+,"Kalingko":{"h":[{"d":[{"f":"地名。今台灣花蓮市。"}]}],"tag":"[日語借詞]","t":"Kalingko"}
+,"Kalotongan":{"h":[{"d":[{"f":"部落名稱，今台灣花蓮縣光復鄉加禮洞部落。"}]}],"t":"Kalotongan"}
+,"Kanakanafo":{"h":[{"d":[{"f":""}]}],"t":"Kanakanafo"}
+,"Kanifangar":{"h":[{"d":[{"s":["`Kaningafar~"],"f":""}]}],"t":"Kanifangar"}
+,"Kaningafar":{"h":[{"d":[{"s":["`Kanifangar~"],"f":""}]}],"t":"Kaningafar"}
+,"Kaokaot":{"h":[{"d":[{"f":"台灣猴猴族，猴猴人。"},{"f":"(表促使“命令)一定喜愛，要喜愛。"}]}],"t":"Kaokaot"}
+,"Karoroan":{"h":[{"d":[{"f":"地名。今台灣台東市內的加路蘭部落，以及花蓮縣豐濱鄉的磯崎部落。"}]}],"t":"Karoroan"}
+,"Kelekelengan":{"h":[{"d":[{"f":"雷神。"}]}],"tag":"[疊 2]","stem":"keleng","t":"Kelekelengan"}
+,"Kicofi":{"h":[{"d":[{"e":["￹`Adihay~ `ko~ `'alotoc~ `i~ `Kicofi~.￺￻月眉有很多尖螺。"],"f":"部落名稱，今台灣花蓮縣壽豐鄉月眉村地區。"}]}],"t":"Kicofi"}
+,"Kiko":{"h":[{"d":[{"e":["￹`Iraay~ `ko~ `widang~ `no~ `fafahi~ `ako~ `i~ `Kiko~.￺￻我太太的朋友在溪口。"],"f":"部落名稱，今台灣花蓮縣壽豐鄉花蓮溪口村。"}]}],"t":"Kiko"}
+,"Kilisto":{"h":[{"d":[{"s":["`Kristo~"],"f":"基督〈英語/日語借詞〉。"}]}],"t":"Kilisto"}
+,"Kilistokiw":{"h":[{"d":[{"f":"基督教〈日語借詞〉。"}]}],"t":"Kilistokiw"}
+,"Kilong":{"h":[{"d":[{"e":["￹`Mifuting~ `kami~ `i~ `Kilong~.￺￻我們在基隆捕魚。"],"f":"基隆市。"}]}],"tag":"[日語借詞]","t":"Kilong"}
+,"Kirisiya":{"h":[{"d":[{"e":["￹`Minanam~ `kami~ `to~ `sowal~ `no~ `Kirisiya~.￺￻我們學希臘文。"],"f":"希臘。"}]}],"tag":"[英語借詞]","t":"Kirisiya"}
+,"Kiristo":{"h":[{"d":[{"e":["￹`Ci~ `Kiristo~ `ko~ `mitooran~ `niyam~.￺￻我們信奉耶穌基督。"],"f":"耶穌基督。"}]}],"tag":"[日語借詞]","t":"Kiristo"}
+,"Kiristokiw":{"h":[{"d":[{"e":["￹`O~ `Foksi~ `no~ `Kiristokiw~ `kako~.￺￻我是基督教的牧師。"],"f":"基督教。"}]}],"tag":"[日語借詞]","t":"Kiristokiw"}
+,"Kiwit":{"h":[{"d":[{"e":["￹`Mararid~ `kako~ `a~ `tayra~ `i~ `Kiwit~ `a~ `niyaro'~.￺￻我常去奇美部落。"],"f":"部落名稱，今台灣花蓮縣瑞穗鄉奇美村。"}]}],"t":"Kiwit"}
+,"Koladot":{"h":[{"d":[{"e":["￹`Masataminaay~ `ko~ `kiwkay~ `no~ `Koladot~.￺￻樟原教會造型像船。"],"f":"部落名稱，今台灣花蓮縣長濱鄉樟原村。"}]}],"t":"Koladot"}
+,"Korismas":{"h":[{"d":[{"e":["￹`Ma~`raodayto~ `ko~ `Korismas~.￺￻聖誕節到了。"],"f":"聖誕節。"}]}],"tag":"[英語借詞]","t":"Korismas"}
+}
