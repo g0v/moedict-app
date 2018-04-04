@@ -911,7 +911,7 @@
     setHtml = function(html){
       return callLater(function(){
         var vclick;
-        if ($('svg, canvas').length && !$('body').hasClass('autodraw')) {
+        if ($('#strokes').is(':visible') && !$('body').hasClass('autodraw')) {
           $('#strokes').fadeOut('fast', function(){
             $('#strokes').html('');
             return window.scrollTo(0, 0);
@@ -959,7 +959,7 @@
           return setPref("starred-" + LANG, STARRED[LANG]);
         });
         $('.results .stroke').on(vclick, function(){
-          if ($('svg, canvas').length) {
+          if ($('#strokes').is(':visible')) {
             return $('#strokes').fadeOut('fast', function(){
               $('#strokes').html('');
               return window.scrollTo(0, 0);

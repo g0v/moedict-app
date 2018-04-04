@@ -1377,7 +1377,7 @@
 	    $result = $('#result');
 	    $h1 = $result.find('h1');
 	    $tooltip = $('.ui-tooltip');
-	    if ($('svg, canvas').length && !$('body').hasClass('autodraw')) {
+	    if ($('#strokes').is(':visible') && !$('body').hasClass('autodraw')) {
 	      $('#strokes').fadeOut('fast', function(){
 	        $('#strokes').html('');
 	        return window.scrollTo(0, 0);
@@ -1436,7 +1436,7 @@
 	      });
 	      $('.results .stroke').on(vclick, function(){
 	        $('#historical-scripts').fadeIn();
-	        if ($('svg, canvas').length) {
+                if ($('#strokes').is(':visible')) {
 	          return $('#strokes').fadeOut('fast', function(){
 	            $('#strokes').html('');
 	            return window.scrollTo(0, 0);

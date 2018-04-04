@@ -511,7 +511,7 @@ window.do-load = ->
       callLater set-pinyin-bindings
 
   set-html = (html) -> callLater ->
-    $('#strokes').fadeOut(\fast -> $('#strokes').html(''); window.scroll-to 0 0) if $('svg, canvas').length and not $('body').hasClass('autodraw')
+    $('#strokes').fadeOut(\fast -> $('#strokes').html(''); window.scroll-to 0 0) if $('#strokes').is(\:visible) and not $('body').hasClass('autodraw')
 
     html.=replace '<!-- STAR -->' if ~STARRED[LANG].indexOf("\"#prevId\"")
       then "<a class='star iconic-color icon-star' title='已加入記錄簿'></a>"
@@ -550,7 +550,7 @@ window.do-load = ->
       setPref "starred-#LANG" STARRED[LANG]
 
     $ '.results .stroke' .on vclick, ->
-      return ($('#strokes').fadeOut \fast -> $('#strokes').html(''); window.scroll-to 0 0) if $('svg, canvas').length
+      return ($('#strokes').fadeOut \fast -> $('#strokes').html(''); window.scroll-to 0 0) if $('#strokes').is(\:visible)
       window.scroll-to 0 0
       strokeWords($('h1:first').data(\title) - /[（(].*/) # Strip the english part and draw the strokes
 
