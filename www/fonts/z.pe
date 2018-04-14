@@ -1,0 +1,3 @@
+#!/usr/bin/env PYTHONHOME=/Applications/FontForge.app/Contents/Resources/opt/local/bin/Python.framework.2.7 DISPLAY=:0 /Applications/FontForge.app/Contents/Resources/opt/local/bin/fontforge -script
+Open("MOEDICT.otf")
+Generate("MOEDICT.svg")
