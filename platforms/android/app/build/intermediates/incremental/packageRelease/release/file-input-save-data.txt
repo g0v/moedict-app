@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Sep 01 09:56:39 CST 2018
+#Sat Sep 01 10:23:21 CST 2018
 4719.set=ASSET
 2185.file=/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/assets/release/www/lookup/pinyin/h/HanYu/xid.json
 1425.base=/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/assets/release

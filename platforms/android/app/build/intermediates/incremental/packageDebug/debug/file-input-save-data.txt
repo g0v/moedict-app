@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Sep 01 09:55:54 CST 2018
+#Sat Sep 01 10:15:55 CST 2018
 4719.set=ASSET
 2185.file=/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/assets/debug/www/lookup/pinyin/a/HanYu/tengr.json
 1425.base=/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/assets/debug
