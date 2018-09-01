@@ -1,7 +1,7 @@
 {
     "name": "org.audreyt.dict.moe",
     "displayName": "MoeDict",
-    "version": "5.4.0",
+    "version": "6.0.0",
     "description": "教育部國語/臺語/客語有聲辭典。",
     "main": "index.js",
     "scripts": {
