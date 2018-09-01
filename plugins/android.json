@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "org.audreyt.dict.moe"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "org.audreyt.dict.moe"
     }
   },
   "dependent_plugins": {}
