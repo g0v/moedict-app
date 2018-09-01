@@ -1,4 +1,4 @@
-#Sat Aug 25 23:40:48 CST 2018
+#Sat Sep 01 09:56:38 CST 2018
 base.0=/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/transforms/dex/release/0
 renamed.0=classes.dex
 file.0=/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex

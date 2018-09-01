@@ -8,10 +8,6 @@
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
     },
     {
-        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxxhdpi_screen.png.flat",
-        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
-    },
-    {
         "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/release/drawable-land-mdpi_screen.png.flat",
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
     },
@@ -44,20 +40,12 @@
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png"
     },
     {
-        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxhdpi_screen.png.flat",
-        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
-    },
-    {
         "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi_icon.png.flat",
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
     },
     {
         "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_icon.png.flat",
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
-    },
-    {
-        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxhdpi_screen.png.flat",
-        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
     },
     {
         "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xhdpi_screen.png.flat",
@@ -70,9 +58,5 @@
     {
         "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/release/drawable-land-ldpi_screen.png.flat",
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
-    },
-    {
-        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxxhdpi_screen.png.flat",
-        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
     }
 ]
