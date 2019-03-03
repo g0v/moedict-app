@@ -142,6 +142,7 @@ public class SystemWebChromeClient extends WebChromeClient {
      * Handle database quota exceeded notification.
      */
     @Override
+    @SuppressWarnings("deprecation")
     public void onExceededDatabaseQuota(String url, String databaseIdentifier, long currentQuota, long estimatedSize,
             long totalUsedQuota, WebStorage.QuotaUpdater quotaUpdater)
     {
@@ -149,21 +150,6 @@ public class SystemWebChromeClient extends WebChromeClient {
         quotaUpdater.updateQuota(MAX_QUOTA);
     }
 
-    // console.log in api level 7: http://developer.android.com/guide/developing/debug-tasks.html
-    // Expect this to not compile in a future Android release!
-    @SuppressWarnings("deprecation")
-    @Override
-    public void onConsoleMessage(String message, int lineNumber, String sourceID)
-    {
-        //This is only for Android 2.1
-        if(android.os.Build.VERSION.SDK_INT == android.os.Build.VERSION_CODES.ECLAIR_MR1)
-        {
-            LOG.d(LOG_TAG, "%s: Line %d : %s", sourceID, lineNumber, message);
-            super.onConsoleMessage(message, lineNumber, sourceID);
-        }
-    }
-
-    @TargetApi(8)
     @Override
     public boolean onConsoleMessage(ConsoleMessage consoleMessage)
     {
@@ -195,11 +181,13 @@ public class SystemWebChromeClient extends WebChromeClient {
 
     // API level 7 is required for this, see if we could lower this using something else
     @Override
+    @SuppressWarnings("deprecation")
     public void onShowCustomView(View view, WebChromeClient.CustomViewCallback callback) {
         parentEngine.getCordovaWebView().showCustomView(view, callback);
     }
 
     @Override
+    @SuppressWarnings("deprecation")
     public void onHideCustomView() {
         parentEngine.getCordovaWebView().hideCustomView();
     }

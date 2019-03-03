@@ -19,10 +19,10 @@
   },
   "installed_plugins": {
     "cordova-plugin-splashscreen": {
-      "PACKAGE_NAME": "org.audreyt.dict.moe"
+      "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
     },
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "org.audreyt.dict.moe"
+      "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
     }
   },
   "dependent_plugins": {},

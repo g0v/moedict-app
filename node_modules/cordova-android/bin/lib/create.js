@@ -141,9 +141,9 @@ function writeProjectProperties (projectPath, target_api) {
 }
 
 // This makes no sense, what if you're building with a different build system?
-function prepBuildFiles (projectPath, builder) {
+function prepBuildFiles (projectPath) {
     var buildModule = require(path.resolve(projectPath, 'cordova/lib/builders/builders'));
-    buildModule.getBuilder(builder).prepBuildFiles();
+    buildModule.getBuilder().prepBuildFiles();
 }
 
 function copyBuildRules (projectPath, isLegacy) {
@@ -168,7 +168,10 @@ function copyScripts (projectPath) {
     shell.rm('-rf', destScriptsDir);
     // Copy in the new ones.
     shell.cp('-r', srcScriptsDir, projectPath);
-    shell.cp('-r', path.join(ROOT, 'node_modules'), destScriptsDir);
+
+    let nodeModulesDir = path.join(ROOT, 'node_modules');
+    if (fs.existsSync(nodeModulesDir)) shell.cp('-r', nodeModulesDir, destScriptsDir);
+
     shell.cp(path.join(bin, 'check_reqs*'), destScriptsDir);
     shell.cp(path.join(bin, 'android_sdk_version*'), destScriptsDir);
     var check_reqs = path.join(destScriptsDir, 'check_reqs');
@@ -194,7 +197,7 @@ function validatePackageName (package_name) {
     var msg = 'Error validating package name. ';
 
     if (!/^[a-zA-Z][a-zA-Z0-9_]+(\.[a-zA-Z][a-zA-Z0-9_]*)+$/.test(package_name)) {
-        return Q.reject(new CordovaError(msg + 'Package name must look like: com.company.Name'));
+        return Q.reject(new CordovaError(msg + 'Must look like: `com.company.Name`. Currently is: `' + package_name + '`'));
     }
 
     // Class is a reserved word
@@ -329,7 +332,7 @@ exports.create = function (project_path, config, options, events) {
             });
             // Link it to local android install.
             exports.writeProjectProperties(project_path, target_api);
-            exports.prepBuildFiles(project_path, 'studio');
+            exports.prepBuildFiles(project_path);
             events.emit('log', generateDoneMessage('create', options.link));
         }).thenResolve(project_path);
 };
