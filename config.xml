@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="60002" id="org.audreyt.dict.moe" version="6.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>MoeDict</name>
+<widget android-versionCode="60002" id="org.audreyt.dict.moe-amis" version="6.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>MoeDictAmis</name>
     <description>
-        教育部國語/臺語/客語有聲辭典。
+        阿美語詞典。
     </description>
-    <author email="audreyt@audreyt.org" href="https://moedict.tw">
+    <author email="audreyt@audreyt.org" href="https://amis.moedict.tw">
         Audrey Tang
     </author>
     <content src="index.html" />
@@ -62,6 +62,7 @@
         <splash src="res/screen/ios/Default@2x~universal~anyany.png" />
     </platform>
     <icon src="res/icon/android/icon-192-xxxhdpi.png" />
+    <icon src="www/images/app-icon.png" />
     <engine name="android" spec="^8.0.0" />
     <engine name="ios" spec="^5.0.0" />
 </widget>
