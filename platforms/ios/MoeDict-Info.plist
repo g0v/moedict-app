@@ -55,7 +55,7 @@
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.audreyt.moe.dict-c</string>
+	<string>org.audreyt.moe.dict-amis</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>

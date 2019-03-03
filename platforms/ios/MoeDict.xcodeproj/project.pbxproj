@@ -509,7 +509,7 @@
 					"\"$(BUILT_PRODUCTS_DIR)/libCordova.a\"",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.audreyt.moe.dict-p";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.audreyt.moe.dict-amis";
 				PRODUCT_NAME = MoeDict;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -545,7 +545,7 @@
 					"\"$(BUILT_PRODUCTS_DIR)/libCordova.a\"",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.audreyt.moe.dict-p";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.audreyt.moe.dict-amis";
 				PRODUCT_NAME = MoeDict;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
