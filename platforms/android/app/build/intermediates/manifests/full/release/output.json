@@ -1,1 +1,1 @@
-[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":60000},"path":"AndroidManifest.xml","properties":{"packageId":"org.audreyt.dict.moe","split":"","minSdkVersion":"16"}}]
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":60002},"path":"AndroidManifest.xml","properties":{"packageId":"org.audreyt.dict.moe","split":"","minSdkVersion":"16"}}]

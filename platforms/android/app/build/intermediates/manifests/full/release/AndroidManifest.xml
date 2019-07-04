@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.audreyt.dict.moe"
     android:hardwareAccelerated="true"
-    android:versionCode="60000"
-    android:versionName="6.0.0" >
+    android:versionCode="60002"
+    android:versionName="6.0.2" >
 
     <uses-sdk
         android:minSdkVersion="16"
