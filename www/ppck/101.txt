@@ -1,0 +1,12 @@
+{"edeng":{"h":[{"d":[{"s":["`maedeng~","`edengan~","`dengan~","`paedeng~"],"f":"￹￺only￻唯，只有，僅僅，獨一"}]}],"t":"edeng"}
+,"edengan":{"h":[{"d":[{"s":["`dengan~"],"f":"￹￺only￻僅僅，唯一"}]}],"t":"edengan"}
+,"efer":{"h":[{"d":[{"s":["`mi~`efer~","`maefer~"],"f":"￹￺to jump from one place to land at another * to leap￻從此地飛到彼岸，飛躍，跳躍"}]}],"t":"efer"}
+,"eked":{"h":[{"d":[{"s":["`misaeked~"],"f":"￹￺separate * form clique￻分離，組成派系，私黨"}]}],"t":"eked"}
+,"ekim":{"h":[{"d":[{"s":["`tadaekim~"],"f":"￹￺silver￻銀"}]}],"t":"ekim"}
+,"emi":{"h":[{"d":[{"s":["`'did~","`katoemi~","`tadaemi~"],"f":"￹￺wheat￻小麥"}]}],"t":"emi"}
+,"epah":{"h":[{"d":[{"f":"￹￺wine * intoxicating drink￻酒，酒精製品飲料"}]}],"t":"epah"}
+,"epang":{"h":[{"d":[{"f":"￹￺bread (from Japanese)￻麵包 (引自日語)"}]}],"t":"epang"}
+,"epip":{"h":[{"d":[{"s":["`tipolo~"],"f":"￹￺a flute￻笛子，哨子"}]}],"t":"epip"}
+,"epoc":{"h":[{"d":[{"s":["`ka~`po~"],"e":["￹`ci~`epoc~`ay~￺has value￻有用，有價值","￹`awa~`ay~ `ko~ `epoc~￺no use￻沒有用，沒有價值"],"f":"￹￺use * value￻用處，價值"}]}],"t":"epoc"}
+,"etan":{"h":[{"d":[{"s":["`milietan~"],"f":"￹￺profit * earnings from work￻利益，利潤"}]}],"t":"etan"}
+}

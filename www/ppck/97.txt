@@ -1,0 +1,75 @@
+{"a":{"h":[{"d":[{"f":"￹￺a connecting particle with some of the meaning of \"and\" * modifying particle￻連結詞 (為某種意義或修飾用)"}]}],"t":"a"}
+,"a%27pipen":{"h":[{"d":[{"s":["`tipolo~"],"f":"￹￺a flute￻笛子，橫笛"}]}],"t":"a'pipen"}
+,"aayad":{"h":[{"d":[{"f":"￹￺white ants * termites￻白蟻"}]}],"t":"aayad"}
+,"aca":{"h":[{"d":[{"e":["￹`Cecay~ `aca~ `ko~ `wawa~ `nira~.￺He has only one child.￻他只有一個孩子"],"f":"￹￺an untranslatable particle￻無法翻譯的詞類，但具有僅僅，只有，祇是，唯有等之含意"}]}],"t":"aca"}
+,"acang":{"h":[{"d":[{"f":"￹￺festive * merry m�king￻喜慶，會宴"},{"s":["`kaacangan~","`haliacangay~"],"f":"￹￺full of pride￻驕傲，自豪，不可一世，自誇"}]}],"t":"acang"}
+,"acek":{"h":[{"d":[{"s":["`kaacekan~","`maacek~"],"e":["￹`Pa~`acek~`en~ `nira~ `ko~ `tireng~ `nira~.￺He defiled himself.￻自取其辱","￹`Pa~`acek~`en~ `nira~ `ko~ `Kawas~.￺He blasphemed against God.￻他褻潰上帝"],"f":"￹￺disgust * feeling of revulsion￻嫌惡，嘔心"}]}],"t":"acek"}
+,"aci":{"h":[{"d":[{"f":"￹￺and (a connective between two proper names)￻…和…，…與…，…以及…"}]}],"t":"aci"}
+,"aciya":{"h":[{"d":[{"f":"￹￺an exclamation of delight￻愉快，讀美的感嘆詞"}]}],"t":"aciya"}
+,"acohod":{"h":[{"d":[{"f":"￹￺generic word for dust￻塵埃的總稱"}]}],"t":"acohod"}
+,"adada":{"h":[{"d":[{"f":"￹￺sickness * disease￻疾病，生病"},{"s":["`paadada~"],"f":"￹￺pain￻疼痛，苦痛"}]}],"t":"adada"}
+,"adah":{"h":[{"d":[{"e":["￹`ma~`adah~ `to~ `ko~ `adada~￺the sickness is healed￻病痊癒了","￹`ma~`adah~ `ko~ `keter~ `no~ `faloco'~￺the anger of heart is healed / gone.￻氣消了，不再生氣了，心中的憎恨平息了"],"f":"￹￺heal￻痊癒"}]}],"t":"adah"}
+,"adahi":{"h":[{"d":[{"f":"￹￺improved * better than formerly * former condition being bad￻稍稍有進步，聊勝於無"}]}],"t":"adahi"}
+,"aday%5Eay":{"h":[{"d":[{"f":"￹￺pity * no thought of involvement￻同情，憐憫"}]}],"t":"aday^ay"}
+,"adengay":{"h":[{"d":[{"f":"￹￺better than another though not truly good * as to be in better health￻雖然不十分好，但比其他…好多了，比上不足，比下有餘，聊勝於無"}]}],"t":"adengay"}
+,"adeses":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `adeses~.￺There was complete silence.￻寧靜無聲"],"f":"￹￺a tiny sound of any kind, i.e. the whimper of a baby￻任何微小的聲響，如嬰孩喂泣聲"}]}],"t":"adeses"}
+,"adihay":{"h":[{"d":[{"f":"￹￺a large amount of something * many * much￻很多，眾多"}]}],"t":"adihay"}
+,"afelaw":{"h":[{"d":[{"s":["`kafelaw~"],"f":"￹￺saltless soup￻鹹度不夠，鹽味不足"}]}],"t":"afelaw"}
+,"afih":{"h":[{"d":[{"f":"￹￺chaff￻米糠"},{"f":"￹￺name of an Amis village￻玉里鎮鐵粉部落名"}]}],"t":"afih"}
+,"afsa%27":{"h":[{"d":[{"f":"￹￺not flavored * tasteless * of food or speech or song￻淡(無鹽)而無味的像食物，像演說或歌唱"}]}],"t":"afsa'"}
+,"ahowid":{"h":[{"d":[{"e":["￹`ahowid~`ay~￺to be satisfied￻滿足"],"f":"￹￺to be grateful * thankful￻感恩，感謝"}]}],"t":"ahowid"}
+,"aikor":{"h":[{"d":[{"e":["￹`Talaaikor~ `cingra~.￺He moved to the rear.￻他退到後面 , 他轉移到後面，他落後","￹`O~ `i~ `aikor~`ay~ `cangra~ `a~ `maro'~.￺They sat in the back.￻他們是坐在後面的"],"f":"￹￺rear * back of￻背後，後面"}]}],"t":"aikor"}
+,"aira":{"h":[{"d":[{"f":"￹￺there will be￻將有，將會有"},{"s":["`ira~"],"f":"￹￺there will be present (the a prefix indicates future)￻是有的現在式(前面 +a 表示未來或將來式)"}]}],"t":"aira"}
+,"aka":{"h":[{"d":[{"f":"￹￺don't * negative command￻不要…，不准 (否定命令)"}]}],"t":"aka"}
+,"akaki":{"h":[{"d":[{"f":"￹￺Autumn Maple Tree (Bischofia javanica) (From Japanese)￻茄苳 (引自日語)"}]}],"t":"akaki"}
+,"aki":{"h":[{"d":[{"s":["`iki~"],"f":"￹￺exclamation of admiration￻讚賞的感嘆詞"}]}],"t":"aki"}
+,"ako":{"h":[{"d":[{"s":["`nomako~"],"e":["￹`Halo~ `ako~`en~ `a~ `pafeli~￺(Please) include me when you give￻請你也分給我","￹`Misa~`ako~`akoay~ `cingra~.￺He is insisting on having his own way.￻他堅持有自己的方法，但沒有本事卻擅作主張"],"f":"￹￺my * mine * by me.  See Appendix 1 pronouns.￻我的。請參閱附錄Ⅰ - 代名詞"}]}],"t":"ako"}
+,"akong":{"h":[{"d":[{"f":"￹￺grandfather (from Amoy dialect)￻祖父，爺爺 (引自閩南語)"}]}],"t":"akong"}
+,"ala":{"h":[{"d":[{"e":["￹`Ma~`ala~ `no~ `tao~ `ko~ `codad~ `ako~.￺My book was taken by others.￻我的書被別人拿走","￹`Alaen~ `no~ `tao~ `ko~ `codad~ `ako~.￺Others took my book.￻別人帶走了我的書"],"f":"￹￺take * generic form￻拿，取，帶"}]}],"t":"ala"}
+,"ala-":{"h":[{"d":[{"e":["￹`Alacecay~ `kita~ `to~ `sowal~.￺Each of us is to say sentence.￻我們各人(每人)說一句","￹`Alacecayen~ `ko~ `pi~`pafeli~.￺Give each one thing.￻每人分一個","￹`Alasad~`asadak~ `sa~`~ `cangra~ `a~ `mi~`litemoh~ `tamiyanan~.￺They all came out (from different directions) to meet us.￻他們紛紛(各類，全部)出來迎接我們"],"f":"￹￺a grammar particle added to a word meaning for each one￻文法詞類加在各個之意義上"}]}],"t":"ala-"}
+,"alacecay":{"h":[{"d":[{"s":["`cecay~"],"f":"￹￺one for each￻每人一件，每人一個"}]}],"t":"alacecay"}
+,"alaf%27af":{"h":[{"d":[{"s":["`alaf~^`af~","`fala~^`fa~"],"f":"￹￺lukewarm￻溫熱的，暖暖的 (水)"}]}],"t":"alaf'af"}
+,"alaf%5Eaf":{"h":[{"d":[{"s":["`alaf'af~"],"f":"￹￺lukewarm￻溫熱的，微熱的 (水)"}]}],"t":"alaf^af"}
+,"alafoh":{"h":[{"d":[{"f":"￹￺dust blown by the wind * including sandy gritty material￻灰塵，粉末"}]}],"t":"alafoh"}
+,"alem%27em":{"h":[{"d":[{"f":"￹￺sore * aching body from flu and fever￻全身酸痛"}]}],"t":"alem'em"}
+,"alimacedan":{"h":[{"d":[{"f":"￹￺to have sore muscles from strenuous activity￻肌肉疼痛 (做激烈運動或工作後的)"}]}],"t":"alimacedan"}
+,"alingato":{"h":[{"d":[{"f":"￹￺thank you (from Japanese)￻謝謝 (引自日語)"}]}],"t":"alingato"}
+,"aliwatec":{"h":[{"d":[{"f":"￹￺to be twisted * as the twisting of string￻擰轉, 編織，如擰轉或編織繩子"}]}],"t":"aliwatec"}
+,"aloponay":{"h":[{"d":[{"s":["`ka'ongtoay~","`kado'engay~"],"f":"￹￺a bird called Common Kingfisher￻鳥名，翠鳥"}]}],"t":"aloponay"}
+,"ama":{"h":[{"d":[{"s":["`mama~"],"f":"￹￺father￻爸爸，父親"},{"f":"￹￺grandfather (Hualien county)￻祖父，父執輩以上總稱 (花蓮語)"}]}],"t":"ama"}
+,"amilika":{"h":[{"d":[{"s":["`Amilika~"],"f":"￹￺America * American￻美國，美國人 (from Japanese English 引自日語和英語)"}]}],"t":"amilika"}
+,"amo":{"h":[{"d":[{"e":["￹`Halo~ `amo~ `a~ `ma~`fana'~ `tonini~ `a~ `demak~.￺Even you know about this matter.￻連你都知道這件事"],"f":"￹￺See kamo. you plural￻你們〈第二人稱複數〉"}]}],"t":"amo"}
+,"amoto":{"h":[{"d":[{"f":"￹￺cement (from Amoy dialect)￻水泥，水泥地 (引自閩南語)"}]}],"t":"amoto"}
+,"ana%3A":{"h":[{"d":[{"f":"￹￺exclamation of fear or hesitancy￻[遇到危險時的] 感嘆詞"}]}],"t":"ana:"}
+,"anakox":{"h":[{"d":[{"f":"￹￺a verbalization of pain * ouch￻受傷或疼痛時喊叫聲或呻吟聲"}]}],"t":"anakox"}
+,"ancoh":{"h":[{"d":[{"f":"￹￺smell of urine￻尿臭"},{"f":"￹￺name of an Amis village * name comes from the smell of hot springs￻玉里鎮安通部落名，此名引自溫泉硫磺的臭味"}]}],"t":"ancoh"}
+,"angang":{"h":[{"d":[{"f":"￹￺the activity of a medium to divine the spirit of a sick person by performing a ceremony￻巫師藉執行儀式神化病人靈魂的活動"}]}],"t":"angang"}
+,"angil":{"h":[{"d":[{"e":["￹`awa~`ay~ `ko~ `angil~￺to be very tired * have no strength￻非常疲倦，無精打采，沒有力量"],"f":"￹￺with negative meaning no energy * tired￻精力的否定意義，精力竭盡，疲倦"}]}],"t":"angil"}
+,"anini":{"h":[{"d":[{"f":"￹￺at the present time￻現在"},{"f":"￹￺today￻今天"},{"s":["`imatini~"],"f":"￹￺right now￻現在"}]}],"t":"anini"}
+,"ano":{"h":[{"d":[{"f":"￹￺if * contingent particle￻如果，若，假使 (偶然性或意外情境中的詞類)"},{"e":["￹`Ano~ `hakowa~ `ira~ `kiso~?￺When will you come?￻你什麼時候來？你何時到？"],"f":"￹￺when (future)￻當… (未來)"}]}],"t":"ano"}
+,"anoci%3Ala":{"h":[{"d":[{"f":"￹￺sometime in the near future￻在最近將來的任何時間"}]}],"t":"anoci:la"}
+,"anocila":{"h":[{"d":[{"f":"￹￺tomorrow￻明天"},{"f":"￹￺when word is lengthened (anoci:la) the meaning can be extended to future several days or weeks away￻當:音拉長時表示未來數天或數星期之某時(日)"}]}],"t":"anocila"}
+,"aocoren":{"h":[{"d":[{"s":["`ocor~"],"f":"￹￺one to be sent * apostle￻受派遣的人，使徒"}]}],"t":"aocoren"}
+,"apa":{"h":[{"d":[{"f":"￹￺dumb * unable to speak￻啞巴"},{"e":["￹`misa~`apa~ `to~ `fafahiyan~￺commit sexual sin towards a woman￻愚弄女人，對女人犯性騷擾"],"f":"￹￺stupid * not intelligent * no sense￻愚蠢，不智，遲頓"}]}],"t":"apa"}
+,"apac":{"h":[{"d":[{"f":"￹￺late in arising￻早晨晚起，睡懶覺"},{"f":"￹￺slow to arrive￻遲到"},{"e":["￹`Ma~`apac~`ay~ `ko~ `'orip~ `no~ `Pangcah~.￺Tribal people have a primitive life style.￻山胞具有原始生活型態，山地同胞具有原始生活風貌"],"f":"￹￺primitive￻原始的，落伍的"}]}],"t":"apac"}
+,"aped":{"h":[{"d":[{"f":"￹￺powder * the form or consistency of￻粉末 (尤指泥狀細砂米糠)"}]}],"t":"aped"}
+,"apet":{"h":[{"d":[{"f":"￹￺relatives by marriage * as the relationship between brothers-in-law￻連襟，兄弟姊妹之配偶彼此間之稱呼"}]}],"t":"apet"}
+,"apiyan":{"h":[{"d":[{"e":["￹`ma~`apiyan~￺to need opium for a stimulant * to be without strength because of dependency on a drug￻四肢無力，無精打采，有如吸鴉片者"],"f":"￹￺opium (from Amoy dialect - English)￻鴉片 (引自台語和英語)"}]}],"t":"apiyan"}
+,"araaw":{"h":[{"d":[{"f":"￹￺being in limbo with nothing to do but think what to do next￻無聊，無所事事，不知該做何事，毫無頭緒，渴望"}]}],"t":"araaw"}
+,"aray":{"h":[{"d":[{"f":"￹￺gratitude felt in the heart but not expressed to the giver (limited use in small part of the tribe)￻內心感激但尚未向賜予者表 任何行動 (只有少數阿美族人用此語)"}]}],"t":"aray"}
+,"ari":{"h":[{"d":[{"f":"￹￺to address someone with this word is to allow him to do as he requests, as 1. please take 2. please do￻對任何人說此話表示答應對方的要求，如委託，請託 1. 拿去吧！ 2. 請便"}]}],"t":"ari"}
+,"ariyah":{"h":[{"d":[{"f":"￹￺cream colored￻浮白色"}]}],"t":"ariyah"}
+,"aro%27":{"h":[{"d":[{"e":["￹`Icowa~ `ko~ `kamaro'an~ `iso~?￺Where are you sitting / working / staying?￻你在那裏坐/工作/居住?","￹`Aro'en~ `ko~ `loma'~ `nira~.￺Go to his home and get a recompense by expecting the family to give you a feast.￻去他家以便取得該家喜宴的回報","￹`Maro'~ `sa~`~ `cingra~ `a~ `caciyaw~.￺He sat down and talked.￻他坐著說話，他坐著演講"],"f":"￹￺dwelling place * place to stay￻坐，住所，逗留的地方"}]}],"t":"aro'"}
+,"asik":{"h":[{"d":[{"s":["`saasik~"],"f":"￹￺to sweep￻掃地，打掃"}]}],"t":"asik"}
+,"asimaan":{"h":[{"d":[{"f":"￹￺to do any way you wish￻悉聽尊便，沒有關係"},{"s":["`maan~"],"e":["￹`Asimaanay~ `saan~ `cangra~ `to~ `dafong~ `ako~.￺They showed no respect to my property.￻他們對我的財產不重視","￹`Fangcalay~ `ko~ `riko'~ `nira~. `Asimaan~ `kono~ `mako~.￺His clothes are nice; mine are very ordinary.￻他的衣服是新, 而我的無所謂"],"f":"￹￺menial * of least value * anything will do￻卑賤的，下賤的"}]}],"t":"asimaan"}
+,"asip":{"h":[{"d":[{"f":"￹￺to read ＊ standard word for￻讀，閱讀"},{"f":"￹￺to count (as used in some dialects)￻數算，計算"}]}],"t":"asip"}
+,"ata":{"h":[{"d":[{"s":["`tata~"],"f":"￹￺Let's go.￻我們走吧！"}]}],"t":"ata"}
+,"ati":{"h":[{"d":[{"s":["`pohay~"],"f":"￹￺call to come to￻來吧！"}]}],"t":"ati"}
+,"ato":{"h":[{"d":[{"f":"￹￺and￻和，及，與"}]}],"t":"ato"}
+,"awa":{"h":[{"d":[{"f":"￹￺no * nothing * none￻沒有，無"},{"e":["￹`Ira~ `cingra~ `a~ `tayni~ `haw~? `Awaayho~.￺Has he come yet? No.￻他來了嗎？還沒有","￹`Ci~`wawa~ `cingra~ `haw~? `Awa~.￺Does she have children? No.￻他有孩子嗎？沒有","￹`Ano~ `sa~`awa~`ay~ `'i~￺The least number to be involved would be...￻至少，最少，最低限度","￹`Pala~`awa~`en~ `ko~ `epoc~ `no~ `pi~`pasowal~ `nira~.￺Make what he says nonsense.￻讓他的話變成無用"],"f":"￹￺negative of action￻行動的否定"}]}],"t":"awa"}
+,"awid":{"h":[{"d":[{"s":["`selal~"],"f":"￹￺person of same age group￻年齡階級的同級分子，儕輩"}]}],"t":"awid"}
+,"aya%3A":{"h":[{"d":[{"f":"￹￺exclamation showing displeasure or question￻哎呀！感嘆詞"}]}],"t":"aya:"}
+,"ayi":{"h":[{"d":[{"s":["`sa~`ali~"],"f":"￹￺to ask for * of something near at hand and visible￻伸手向別人要手上的和看得見的東西"}]}],"t":"ayi"}
+,"ayiw":{"h":[{"d":[{"f":"￹￺Swamp Eel (Fluta alba)￻鱓魚"}]}],"t":"ayiw"}
+,"aylong":{"h":[{"d":[{"f":"￹￺to iron clothes (from Japanese)￻熨斗 (引自日語)"}]}],"t":"aylong"}
+}

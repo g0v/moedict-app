@@ -1,0 +1,10 @@
+{"pa%27aca":{"h":[{"d":[{"s":["`'aca~"],"f":"vendre (faire du commerce)"}]}],"t":"pa'aca"}
+,"pa%27acfel":{"h":[{"d":[{"s":["`'acfel~"],"f":"enfumer"}]}],"t":"pa'acfel"}
+,"pa%27acfelan":{"h":[{"d":[{"s":["`'acfelan~"],"f":"cheminée"}]}],"t":"pa'acfelan"}
+,"paacek":{"h":[{"d":[{"s":["`acek~"],"e":["￹paaceken nira ko Kawas.￻Il blasphème Dieu."],"f":"blasphémer"}]}],"t":"paacek"}
+,"paacigiw":{"h":[{"d":[{"s":["`acigiw~"],"f":"faire de l'oeil."}]}],"t":"paacigiw"}
+,"paadada":{"h":[{"d":[{"s":["`adada~"],"f":"faire mal; rendre quelqu'un malade"}]}],"t":"paadada"}
+,"pi%27acaan":{"h":[{"d":[{"s":["`'aca~","`kalali'acan~"],"f":"marché : (halle)"}]}],"t":"pi'acaan"}
+,"pi%27ada%27ada":{"h":[{"d":[{"s":["`'ada~"],"e":["￹\"kita o pi 'ada'ada\"￻vieille interpellation à des gens de villages diférents."],"f":"interpellation"}]}],"t":"pi'ada'ada"}
+,"pili%27acaay":{"h":[{"d":[{"s":["`'aca~","`kalali'acaay~"],"f":"payeur"}]}],"t":"pili'acaay"}
+}

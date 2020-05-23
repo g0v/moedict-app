@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# 2020-01-05 09:33:28 +0800
+
+CACHE:
+# txt files
+/js/deps.js
+/s/revdict-amis-def.txt
+/s/revdict-amis-ex.txt
+/s/stem-words.json
+/s/index.json
+
+NETWORK:
+*

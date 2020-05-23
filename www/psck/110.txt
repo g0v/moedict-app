@@ -1,0 +1,535 @@
+{"n":{"h":[{"d":[{"f":"阿美語輔音之一。屬舌尖中濁鼻音，音值為 [ n ]。作詞尾讀時有長音化傾向[n：]。"}]}],"t":"n"}
+,"na":{"h":[{"d":[{"e":["￹`O~ `datok~ `na~ `kapah~.(`O~ `datok~ `noya~ `kapah~.)￺￻那個青年的口琴。","￹`O~ `wawa~ `na~ `tamdaw~ `ci~`nira~.(`O~ `wawa~ `noya~ `tamdaw~ `ci~`nira~.)￺￻他是那個人的孩子。"],"f":"(指示代詞)noya 的縮簡形。"}]},{"d":[{"e":["￹`Na~!`O~ `nomiso~ `kona~ `futing~.￺￻拿去！這是給你的魚。"],"f":"(口頭語)。給(你)吧，拿去吧。"}]}],"t":"na"}
+,"na%27ang":{"h":[{"d":[{"s":["`na'eng~","`mina'ang~"],"f":"收藏，收存。"}]}],"t":"na'ang"}
+,"na%27angen":{"h":[{"d":[{"e":["￹`Na'angen~ `ko~ `kowan~￺￻(kowang)naira ! 把他們的槍支收藏起來！","￹`Ma~`harek~ `to~ `a~ `ma~`emin~ `a~ `komaen~, `na'angen~ `to~ `ko~ `taheka~.￺￻都吃完了，把食具收起來。"],"f":"把…收藏、收存。"}]}],"stem":"na'ang","t":"na'angen"}
+,"na%27aw":{"h":[{"d":[{"s":["`nanay~","`na~`aw~"],"f":"表示強烈的欲望非常希望，祝願，但願；想，響往。"}]},{"d":[{"s":["`'aya~"],"f":"哎呀，啊呀。"}]}],"t":"na'aw"}
+,"na%27ay":{"h":[{"d":[{"e":["￹`Na'ay~, `na'ay~ `kako~ `ina~!￺￻不要，我不要了，媽媽！","￹`Na'ay~ `a~ `mifolaw~ `kita~ `to~ `finaolan~.￺￻我們不能趕走群眾。","￹“`Na'ay~ `mikadafo~ `kako~!” `han~ `nika~`ka~.￺￻哥哥說：“我不能入贅！”"],"f":"(表示拒絕)不要，不能，不可，不行。"}]}],"t":"na'ay"}
+,"na%27ena%27":{"h":[{"d":[{"s":["`no'eno'~"],"f":"挖個洞穴、孔眼。"}]}],"t":"na'ena'"}
+,"na%27ena%27en":{"h":[{"d":[{"s":["`no'eno'~`en~"],"f":"把…挖個洞穴、孔眼。"}]}],"stem":"na'ena'","t":"na'ena'en"}
+,"na%27eng":{"h":[{"d":[{"s":["`na'ang~","`mi~`na'eng~"],"f":"收藏，收存。"}]}],"t":"na'eng"}
+,"na%27engen":{"h":[{"d":[{"s":["`na'angen~"],"f":"把…收藏、收存。"}]}],"stem":"na'eng","t":"na'engen"}
+,"na%27is":{"h":[{"d":[{"s":["`cana'is~","`'esam~","`ma~`na'is~"],"f":"厭煩，不耐煩。"}]}],"t":"na'is"}
+,"na%27issa":{"h":[{"d":[{"e":["￹`Na'issa~ `kako~ `toni~ `a~ `wawa~.￺￻我對這孩子厭煩透了。"],"f":"處於厭煩的狀態，不耐煩的樣子。"}]}],"stem":"na'is","t":"na'issa"}
+,"na%27on":{"h":[{"d":[{"s":["`mina'on~"],"f":"謹慎、小心從事。"}]}],"t":"na'on"}
+,"na%27onen":{"h":[{"d":[{"e":["￹`Na'onen~ `ko~ `rakat~ `iso~ !￺￻你一路平安！(再見！)","￹`Na'onen~ `ko~ `poyapoy~ `iso~ !￺￻小心你的胎兒！"],"f":"對…謹慎、小心應付。"}]}],"stem":"na'on","t":"na'onen"}
+,"nacecay":{"h":[{"d":[{"e":["￹`Nacecay~ `kita~ `a~ `ma'orip~ `itini~ `i~ `hekal~.￺￻我們在世間只活一次。"],"f":"經歷過一次、一回。"}]}],"stem":"cecay","t":"nacecay"}
+,"nacila":{"h":[{"d":[{"s":["`inacila~"],"f":"昨天。"}]}],"stem":"cila","t":"nacila"}
+,"nacnac":{"h":[{"d":[{"s":["`minacnac~"],"f":"用舌頭舔，舔。"}]}],"t":"nacnac"}
+,"nacnacen":{"h":[{"d":[{"e":["￹`Nacnacen~ `nora~ `wawa~ `ko~ `kamay~ `ira~.￺￻那個小孩要舔自己的手。","￹`Nacnacen~ `kona~ `^epah~, `nga'ayay~ `ho~ `han~?￺￻舔舔這個酒，還好吧？"],"f":"用舌頭把…舔一舔，把…舔著。"}]}],"stem":"nacnac","t":"nacnacen"}
+,"nacnachan":{"h":[{"d":[{"e":["￹`Nacnachan~ `noni~ `a~ `kolong~ `ko~ `ngoyos~ `nora~ `kolong~.￺￻這頭牛就去舔舔那頭牛的嘴。"],"f":"特地把…舔一舔，於是把…舔著。"}]}],"stem":"nacnac","t":"nacnachan"}
+,"nafaloco%27an":{"h":[{"d":[{"e":["￹`Makakofit~ `ko~ `nafaloco'an~ `naira~.￺￻他們的想法一致。(他們情投意合，他們心心相印，心心相扣)。"],"f":"想法，念頭，意念。"}]}],"stem":"faloco'","t":"nafaloco'an"}
+,"nafanohan":{"h":[{"d":[{"f":"動物褪毛、去毛後的身體、身軀。"}]}],"stem":"fanoh","t":"nafanohan"}
+,"nafi":{"h":[{"d":[{"f":"鍋子〈日語借詞〉。"}]}],"t":"nafi"}
+,"nafiroan":{"h":[{"d":[{"e":["￹`Maherekay~ `to~ `nafiroan~ `to~ `inacila~.￺￻終於做完了昨天苦幹的工作。"],"f":"經過奮鬥、拼命過、苦幹過的工作。"}]},{"d":[{"s":["`nani~"],"e":["￹`Nafiroan~ `ako~ `nani~`Posong~ .￺￻我急急忙忙從台東來。","￹`Nafiroan~ `'ayaw~ .￺￻從以前開始。"],"f":"急急忙忙從…，自從…。"}]}],"stem":"firo","t":"nafiroan"}
+,"nafohokan":{"h":[{"d":[{"e":["￹`Nafohokan~ `a~ `sera~.￺￻成了荒地。"],"f":"休耕地，抛荒地，休閒地。"}]}],"stem":"fohok","t":"nafohokan"}
+,"nafoy":{"h":[{"d":[{"s":["`manafoy~"],"e":["￹`Mi~`nafoy~`ay~ `ho~ `ko~ `wawa~ `ningra~.￺￻她的小孩匍匐爬行。"],"f":"嬰兒爬行，匍匐。"}]}],"t":"nafoy"}
+,"nahal":{"h":[{"d":[{"s":["`panahal~"],"e":["￹`I~ `nahal~ `kako~ `a~ `pakaen~ `to~ `kolong~.￺￻我在荒原放牛。"],"f":"平坦的荒原、未墾地。"}]}],"t":"nahal"}
+,"naharhar":{"h":[{"d":[{"s":["`monihar~","`kanikaran~"],"e":["￹`Naharhar~ `ho~ `ma~`lingah~ `to~ `ko~ `kadafo~.￺￻天剛黎明女婿就出門了。"],"f":"破曉，黎明，天亮。"}]}],"t":"naharhar"}
+,"naharharay":{"h":[{"d":[{"f":"破曉了，黎明了，天亮了。"},{"s":["`moniharay~"],"e":["￹`Naharharay~ `to~ `ko~ `romi'ad~.￺￻天已經亮了。"],"f":"指破曉的、天亮的(天色)。"}]}],"stem":"naharhar","t":"naharharay"}
+,"nahay":{"h":[{"d":[{"s":["`minahay~"],"f":"陪同，隨同，陪伴。"}]}],"t":"nahay"}
+,"nahayen":{"h":[{"d":[{"e":["￹`Nahayen~ `ci~ `ina~ `a~ `minokay~.￺￻要陪同媽媽回家。"],"f":"把(某人)陪同、隨同、陪伴。"}]}],"stem":"nahay","t":"nahayen"}
+,"nahol":{"h":[{"d":[{"s":["`manahol~"],"e":["￹`Manahol~ `ko~ `runi~ `ako~.￺￻我的絲瓜爛掉了。"],"f":"(瓜果等)腐爛、腐敗。"}]}],"t":"nahol"}
+,"nai":{"h":[{"d":[{"e":["￹`Nai~`taypak~`ay~￺￻從臺北來的。","￹`Nai~`pi'adopan~￺￻從獵場開始。","￹`Nai~ `liteng~ `taha~ `anini~.￺￻從古到今。","￹`Nai~ `Posong~ `tala~ `Taypak~.￺￻從台東到臺北。"],"f":"前綴。從…開始，自從…開始。"}]}],"t":"nai"}
+,"naikoran":{"h":[{"d":[{"s":["`nalikolan~"],"e":["￹`Naikoran~ `to~ `noya~ `kaying~ `a~ `minokay~, `sowal~`en~ `to~ `ira~ `ko~ `wama~ `ato~ `wina~ `ira~.￺￻在那位小姐回去過後，他告訴了自己的父母。","￹`Naikoran~ `iso~ `a~ `milaliw~,`macahiway~ `to~ `ko~ `loma'~ `niyam~.￺￻在你逃離以後，我們家變窮了。"],"f":"某動作、行為之後，所經歷的事情以後，事情發生後。"}]}],"stem":"ikor","t":"naikoran"}
+,"naira":{"h":[{"d":[{"s":["`nanira~","`nangra~"],"f":"(第三人稱代詞、複數，所有格、獨立式形態)他們，他們的。"}]}],"t":"naira"}
+,"naka%27epian":{"h":[{"d":[{"f":"自從癱瘓以後，癱瘓過後。"}]}],"stem":"'epi","t":"naka'epian"}
+,"naka%27oradan":{"h":[{"d":[{"e":["￹`Mi~`lesap~ `ko~ `culi'~ `naka'oradan~.￺￻下雨過後蝸牛就出來活動。"],"f":"自從下雨之後，下雨過後。"}]}],"stem":"'orad","t":"naka'oradan"}
+,"naka%27oripan":{"h":[{"d":[{"s":["`na~`ko'oripan~"],"f":"人生經歷，生平。"}]}],"stem":"'orip","t":"naka'oripan"}
+,"nakafafalican":{"h":[{"d":[{"f":"自從交換以後，在彼此交換後。"}]}],"tag":"[疊1]","stem":"falic","t":"nakafafalican"}
+,"nakaharekan":{"h":[{"d":[{"s":["`herek~"],"e":["￹`Nakaharekan~ `a~ `matayal~ `pahanhan~ `cingra~.￺￻自從工作結束之後他就休息了一下。"],"f":"自從工作或事情結束以後。"}]}],"stem":"harek","t":"nakaharekan"}
+,"nakahofocan":{"h":[{"d":[{"e":["￹`Adihay~ `ko~ `ni~`tayal~`an~ `ni~ `Kacaw~ `nakahofocan~ `ningra~.￺￻卡兆先生自從出生之後做了不少事。"],"f":"出生以來所經歷的過程，誕生以來所經歷的。"}]}],"stem":"hofoc","t":"nakahofocan"}
+,"nakakeroan":{"h":[{"d":[{"f":"曾經跳舞的地方，跳過舞的地方。"}]}],"tag":"[疊1]","stem":"kero","t":"nakakeroan"}
+,"nakakomodan":{"h":[{"d":[{"f":"自從合併之後，合併過後；統治治理。"}]}],"stem":"komod","t":"nakakomodan"}
+,"nakamaino%27an":{"h":[{"d":[{"e":["￹`Nakamaino'an~ `nangra~ `kona~ `'alo~.￺￻他們在這條河流洗過澡。"],"f":"自從洗澡以後，洗過澡的地方。"}]}],"stem":"ino'","t":"nakamaino'an"}
+,"nakamaro%27an":{"h":[{"d":[{"e":["￹`Taypak~ `ko~ `nakamaro'an~ `niyam~.￺￻我們住過台北。"],"f":"坐過或住過的地方，坐過或住過以後。"}]}],"stem":"aro'","t":"nakamaro'an"}
+,"nakasamo%27an":{"h":[{"d":[{"e":["￹`I~ `loma'~ `sanay~ `to~ `ci~ `Panay~ `nakasamo'an~ `no~ `tatirergan~ `ni~`gra~.￺￻Panay(巴奈)小姐自從身體不適之後就一直呆在家裡。"],"f":"發生過故障、毛病的地方。"}]}],"stem":"samo'","t":"nakasamo'an"}
+,"nakodasingan":{"h":[{"d":[{"e":["￹`O~ `nakodasingan~ `no~ `niyam~ `kona~ `omah~.￺￻這塊田是我們種植過花生的田地。"],"f":"種植過花生的園地。"}]}],"stem":"kodasing","t":"nakodasingan"}
+,"nalacolan":{"h":[{"d":[{"f":"故土，廢墟，遺址，文物。"}]}],"t":"nalacolan"}
+,"nalaloodan":{"h":[{"d":[{"f":"經歷戰爭的地方，古戰場，舊戰場。"}]}],"stem":"lood","t":"nalaloodan"}
+,"nalameloan":{"h":[{"d":[{"e":["￹`Nalameloan~ `a~ `omah~ `konini~.￺￻這裡是種植過小米的田地。"],"f":"種植過小米的地方。"}]}],"stem":"lamelo","t":"nalameloan"}
+,"nalaplapan":{"h":[{"d":[{"e":["￹`Nalaplapan~ `iso~ `koya~ `'ayam~ `i~, `makapah~ `to~ `ko~ `lengaw~ `no~ `panay~.￺￻自從你趕走那些鳥之後稻子長的很好。"],"f":"驅趕、趕走之後。"}]}],"stem":"laplap","t":"nalaplapan"}
+,"nalemedan":{"h":[{"d":[{"e":["￹`Nalemedan~ `to~ `ko~ `saka~`ala~ `ningra~ `a~ `mi~`singkiw~.￺￻他在夢中已經夢到自己當選。"],"f":"夢中所經歷，夢兆。"}]}],"stem":"lemed","t":"nalemedan"}
+,"nalikolan":{"h":[{"d":[{"s":["`nai~`ikor~","`nai~`kor~"],"e":["￹`Nalikolan~ `no~ `wawa~ `a~ `mahofoc~.￺￻嬰兒的胞衣。","￹`Nalikolan~ `to~ `noya~ `howak~ `a~ `minokay~,`satatiihsa~ `ko~ `harateng~ `ira~.￺￻在那只大雁飛回去之後，他的心情越來越壞。"],"f":"某動作、行為之後，所經歷的事情以後；蹤迹，痕迹，遺留物。"}]}],"stem":"ikol","t":"nalikolan"}
+,"naliti%27":{"h":[{"d":[{"f":"芒草。俗稱“狗尾草”。"}]}],"t":"naliti'"}
+,"nalolayan":{"h":[{"d":[{"s":["`na~`roray~`an~"],"e":["￹`O~ `nalolayan~ `ko~ `sakacidafong~ `no~ `loma'~.￺￻家有財富是努力工作所得。"],"f":"工作、勞動之後的成果、業績。"}]}],"stem":"lolay","t":"nalolayan"}
+,"nalosa%27an":{"h":[{"d":[{"e":["￹`nalosa'an~ `a~ `'orip~.￺￻歷盡滄桑。"],"f":"流淚過後的痕迹，淚痕。"}]}],"stem":"losa'","t":"nalosa'an"}
+,"namahofoc":{"h":[{"d":[{"f":"曾經出生、誕生，出生、誕生過後。"}]}],"stem":"hofoc","t":"namahofoc"}
+,"namakena%20aca":{"h":[{"d":[{"s":["`nama~`maan~ `aca~"],"f":"(短語)。還行，還可以，托你的福。"}]}],"t":"namakena aca"}
+,"namal":{"h":[{"d":[{"s":["`lamal~"],"e":["￹`Namal~ `no~ `lomaloma'~.￺￻萬家燈火。"],"f":"火，火種，燈火。"}]}],"t":"namal"}
+,"namali":{"h":[{"d":[{"f":"鉛〈日語借詞〉。"}]}],"t":"namali"}
+,"namamaan%20aca":{"h":[{"d":[{"s":["`nama~`kena~ `aca~"],"f":"(短語)。還行，還可以，托你的福。"}]}],"t":"namamaan aca"}
+,"namanamalan":{"h":[{"d":[{"s":["`lama~`lamalan~"],"e":["￹`I~ `namanamalan~ `a~ `mi~`tamok~ `to~ `konga~.￺￻在火堆裏悶燒地瓜。","￹`I~ `namanamalan~ `ko~ `lala~.￺￻烽火連天。"],"f":"火裏，火中；地獄。"}]}],"tag":"[疊 1]","stem":"namal","t":"namanamalan"}
+,"namararamod":{"h":[{"d":[{"e":["￹`Halafin~ `to~ `ko~ `mihecaan~ `namararamod~ `kita~.￺￻我們結婚好多年了。"],"f":"曾經結為夫妻，結婚過後。"}]}],"tag":"[疊 2]","stem":"ramod","t":"namararamod"}
+,"namikalatan":{"h":[{"d":[{"e":["￹`I~ `kawili~ `a~ `oo'~ `nira~ `iraay~ `ko~ `namikalatan~ `pahidac~.￺￻在她的左腿上留下狗咬過的傷疤。"],"f":"曾經把…咬過的、指所咬過的(物件、地方)。"}]}],"stem":"kalat","t":"namikalatan"}
+,"namikasasowalan":{"h":[{"d":[{"s":["`nanokasasowalan~"],"e":["￹`Namikasasowalan~ `ko~ `kafafalic~ `to~ `dafong~.￺￻他們交換東西是經過彼此商量好的。"],"f":"彼此商量過後。"}]}],"tag":"[疊 2]","stem":"sowal","t":"namikasasowalan"}
+,"namirakatan":{"h":[{"d":[{"e":["￹`Tikolen~ `niyam~ `a~ `mikilim~ `ko~ `ma~`sidyay~ `a~ `toki~ `toya~ `namirakatan~ `a~ `lalan~.￺￻我們回過頭走原路尋找掉了的手錶。"],"f":"曾經走過的(地方)，走過以後。"}]}],"stem":"rakat","t":"namirakatan"}
+,"namnam":{"h":[{"d":[{"s":["`manamnam~"],"e":["￹`Namnam~ `sa~ `kola~ `wawa~ `a~ `mi~`kakaen~ `to~ `odak~.￺￻那位小孩吃了糖果之後，食髓知味就不停的吃。"],"f":"黏著、食髓知味。"}]}],"t":"namnam"}
+,"namo":{"h":[{"d":[{"f":"(第二人稱代詞，複數，領有格、獨立式形態)。你們，你們的。"}]}],"t":"namo"}
+,"nampel":{"h":[{"d":[{"f":"數位，數目，號碼﹝英語借詞﹞。"}]}],"t":"nampel"}
+,"nana%27angen":{"h":[{"d":[{"f":"要收藏、藏匿。"},{"s":["`nana'engen~"],"f":"指要收藏、藏匿的(物件)。"}]}],"tag":"[疊 2]","stem":"na'ang","t":"nana'angen"}
+,"nana%27engen":{"h":[{"d":[{"f":"要收藏。收拾。"},{"s":["`nana'angen~"],"f":"指要收藏、收拾的(物件)。"}]}],"tag":"[疊 2]","stem":"na'eng","t":"nana'engen"}
+,"nanacnacen":{"h":[{"d":[{"f":"要用舌頭舔。"},{"f":"指要用舌頭舔的(物件、東西)。"}]}],"tag":"[疊 1]","stem":"nacnac","t":"nanacnacen"}
+,"nanam":{"h":[{"d":[{"s":["`minanam~"],"f":"練習，學習，試驗。"}]}],"t":"nanam"}
+,"nanamalan":{"h":[{"d":[{"e":["￹`Materak~ `i~ `nanamalan~.￺￻掉到火裏。"],"f":"火裏，火中。"}]}],"tag":"[疊 2]","stem":"namal","t":"nanamalan"}
+,"nanamen":{"h":[{"d":[{"e":["￹`Nanamen~ `ita~ `ko~ `sowal~ `no~ `Ingkolis~ !￺￻我們把英語練習一下吧！"],"f":"把…練習、學習、試驗。"}]}],"stem":"nanam","t":"nanamen"}
+,"nananamen":{"h":[{"d":[{"f":"要練習、學習、試驗。"},{"e":["￹`O~ `maan~ `ko~ `nananamen~ `ako~ `anini~ `ha~ `singsi~?￺￻老師，今天我要練習什麼？"],"f":"指要練習、學習、試驗的(物件、東西)。"}]}],"tag":"[疊 1]","stem":"nanam","t":"nananamen"}
+,"nananawan":{"h":[{"d":[{"f":"洗涮東西的器皿裏。"}]}],"tag":"[疊 1]","stem":"nanaw","t":"nananawan"}
+,"nananawangen":{"h":[{"d":[{"f":"要遊玩、玩耍。"},{"s":["`sasalamaen~"],"f":"指要遊玩、玩耍的。"}]}],"tag":"[疊 1]","stem":"nanawang","t":"nananawangen"}
+,"nananawen":{"h":[{"d":[{"f":"要洗，要洗涮。"},{"f":"指要洗、要洗涮的(東西)。"}]}],"tag":"[疊 1]","stem":"nanaw","t":"nananawen"}
+,"nananoyan":{"h":[{"d":[{"s":["`cacanoyan~","`tananoyan~"],"f":"搖籃。"}]}],"tag":"[疊 1]","stem":"nanoy","t":"nananoyan"}
+,"nananoyen":{"h":[{"d":[{"f":"要搖動、搖擺。"},{"s":["`ca~`canoyen~"],"f":"指要搖動、搖擺的(物件)。"}]}],"tag":"[疊 1]","stem":"nanoy","t":"nananoyen"}
+,"nanaopen":{"h":[{"d":[{"f":"要被水淹沒。"},{"s":["`nanawnawen~","`na~`wop~"],"f":"指要淹沒而漂流的(物件、東西)。"}]}],"tag":"[疊 1]","stem":"naop","t":"nanaopen"}
+,"nanapnapen":{"h":[{"d":[{"f":"要啃吃，要吃草。"},{"f":"指要啃吃的(東西)。"}]}],"tag":"[疊 1]","stem":"napnap","t":"nanapnapen"}
+,"nanaw":{"h":[{"d":[{"e":["￹`Nanaw~ `to~ `oo'~.￺￻洗腳。"],"f":"洗涮。"}]}],"t":"nanaw"}
+,"nanawang":{"h":[{"d":[{"s":["`minanawang~","`salama~"],"f":"遊樂，自娛、空閒的。"}]}],"t":"nanawang"}
+,"nanawangen":{"h":[{"d":[{"s":["`salamaen~"],"f":"把…遊玩、玩耍、娛樂 , 玩一玩吧。"}]}],"stem":"nanawang","t":"nanawangen"}
+,"nanawnawen":{"h":[{"d":[{"f":"要淹沒而漂流。"},{"f":"指要淹沒而漂流的(東西)。"}]}],"tag":"[疊 1]","stem":"nawnaw","t":"nanawnawen"}
+,"nanay":{"h":[{"d":[{"e":["￹`Nanay~ `ira~ `kiso~ `tayni~.￺￻a misalama.","￹他希望你來玩￺￻Nanay nga'ay ko 'orip iso !","￹祝願您生活幸福！￺￻Nanay masaso'araw ho kita a miliyaw !","￹但願我們能再相見！￺￻Nanay ko titi !","￹多麼想肉吃呀！￺￻Nanay kona romi'ad anohatini haw !","￹現在多麼嚮往這個日子啊！￺￻Nanay misa'icel ko faloco' ita."],"f":"(表示強烈的欲望)非常希望，但願，需要；多麼想，多麼嚮往。"}]}],"t":"nanay"}
+,"nanayaten":{"h":[{"d":[{"f":"要延長、拉長、延伸。"},{"f":"指要延長、拉長、延伸的(東西)。"}]}],"tag":"[疊 1]","stem":"nayat","t":"nanayaten"}
+,"nanayen":{"h":[{"d":[{"f":"把…希望、向往、需要。"}]}],"stem":"nanay","t":"nanayen"}
+,"nanecnecen":{"h":[{"d":[{"f":"要用手揉。"},{"e":["￹`Nanecnecen~ `ko~ `ma~`cocay~ `a~ `mata~.￺￻雜物進入眼睛要用手揉一下。"],"f":"指要用手揉的(物件)。"}]}],"tag":"[疊 1]","stem":"necnec","t":"nanecnecen"}
+,"nanekeren":{"h":[{"d":[{"f":"要往下壓，要摁住。"},{"f":"指要往下壓的、要摁的(物件)。"}]}],"tag":"[疊 1]","stem":"neker","t":"nanekeren"}
+,"nanekneken":{"h":[{"d":[{"f":"要沈澱、澄清。"},{"f":"指要沈澱、澄清的(東西)。"}]}],"tag":"[疊 1]","stem":"neknek","t":"nanekneken"}
+,"naneng":{"h":[{"d":[{"s":["`taneng~"],"f":"智慧，經驗，知識。"}]}],"t":"naneng"}
+,"nanengelen":{"h":[{"d":[{"f":"要浸泡，要泡。"},{"e":["￹`Nanengelen~ `a~ `felac~.￺￻即將浸泡的米。"],"f":"指要浸泡、要泡的(東西)。"}]}],"tag":"[疊 1]","stem":"nengel","t":"nanengelen"}
+,"nanengnengen":{"h":[{"d":[{"f":"要看，要觀看。"},{"s":["`aenengen~"],"f":"要看的(物件)。"}]}],"tag":"[疊 1]","stem":"nengneng","t":"nanengnengen"}
+,"nanga%27ayan":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `nanga'ayan~.￺￻沒有起色。"],"f":"好的現象、迹象、事象。"}]}],"stem":"nga'ay","t":"nanga'ayan"}
+,"nangatoan":{"h":[{"d":[{"f":"留下來尚待繼續完成的工作或責任。"}]}],"stem":"ngato","t":"nangatoan"}
+,"nanges":{"h":[{"d":[{"s":["`kamaya~"],"f":"芒果。"}]}],"t":"nanges"}
+,"nanginang":{"h":[{"d":[{"f":"變本加厲，更加厲害。"}]}],"t":"nanginang"}
+,"nangra":{"h":[{"d":[{"s":["`naira~"],"f":"第三人稱代詞。複數，領有格、獨立式形態。他們，他們的；她們，她們的；它們，它們的。"}]}],"t":"nangra"}
+,"nani":{"h":[{"d":[{"e":["￹`nani~`pitilidan~`ay~(`nani~`pitilid~`ananay~)￺￻從學校(來)的。"],"f":"前綴。表示地點、場所的起始。如nanitira從那裏。"}]},{"d":[{"s":["`nai~"],"e":["￹`Nani~ `cowa~ `kiso~ `saw~?￺￻你從哪裡開始？","￹`Nani~ `laloma'~ `ci~`nira~ `a~ `mahadak~.￺￻他要從屋裏出來。"],"f":"表示地點、場所的起始。從…開始，自從…開始。"}]},{"d":[{"e":["￹`Nani~ `loma~ `niyam~ `tala~ `Taypak~.￺￻從我們家到台北。","￹`Nani~ `katimol~ `tala~ `ka'amis~.￺￻從南方到北方。"],"f":"表示地點、場所的起訖。從…至…，自從…到…。"}]}],"t":"nani"}
+,"nani%27ol":{"h":[{"d":[{"f":"小蝌蚪。"}]}],"t":"nani'ol"}
+,"nanicowa":{"h":[{"d":[{"e":["￹`Nanicowa~ `a~ `misatapang~?￺￻要從何處開始？"],"f":"從哪裡，從何處。"}]}],"stem":"cowa","t":"nanicowa"}
+,"nanicowaay":{"h":[{"d":[{"e":["￹`Nanicowaay~ `ci~`nira~ `a~ `tayni~?￺￻他從哪裡來了？"],"f":"從哪裡了，從何處了。"},{"e":["￹`Nanicowaay~ `kiso~ `a~ `tamdaw~?￺￻你是哪裡人？"],"f":"指從哪裡的(人)。"}]}],"stem":"cowa","t":"nanicowaay"}
+,"nanikiwen":{"h":[{"d":[{"f":"要翻動，要翻箱倒櫃。"},{"f":"指要翻動、要翻箱倒櫃的(東西)。"}]}],"tag":"[疊 2]","stem":"nikiw","t":"nanikiwen"}
+,"nanina%27en":{"h":[{"d":[{"f":"要節約、節儉。"},{"f":"指要節約、節儉的(東西)。"}]}],"tag":"[疊 2]","stem":"nina'","t":"nanina'en"}
+,"nanini":{"h":[{"d":[{"s":["`kahenanini~","`ka~`hananini~","`kanini~"],"e":["￹`Nanini~ `i~ `takowan~, `ira~ `ko~ `sasowalen~ `ako~.￺￻靠近我，我有話要說。"],"f":"要求或邀請他人靠近、靠攏。"}]}],"stem":"ini","t":"nanini"}
+,"naninipen":{"h":[{"d":[{"f":"要啜飲，要一口一口喝。"},{"s":["`'inip~"],"f":"指要啜飲的、要一口一口喝的(東西)。"}]}],"tag":"[疊 2]","stem":"inip","t":"naninipen"}
+,"naniniren":{"h":[{"d":[{"f":"要逐步靠近目標。"},{"s":["`ni~`rnir~"],"f":"指要逐步靠近的(物件、目標)。"}]}],"tag":"[疊 2]","stem":"ninir","t":"naniniren"}
+,"naniomah":{"h":[{"d":[{"f":"從田地裏(來)。"}]}],"stem":"omah","t":"naniomah"}
+,"naniomahay":{"h":[{"d":[{"f":"從田地裏(來)了。"},{"f":"指從田地裏(來)的(人)。"}]}],"stem":"omah","t":"naniomahay"}
+,"nanira":{"h":[{"d":[{"s":["`naira~","`nangra~"],"f":"第三人稱代詞。複數，領有格、獨立式形態。他們，他們的；她們，她們的；它們，它們的。"}]}],"t":"nanira"}
+,"naniraay":{"h":[{"d":[{"f":"從遠處、從他處(來)。"}]}],"stem":"raay","t":"naniraay"}
+,"naniraayay":{"h":[{"d":[{"f":"從遠處(來)了。"},{"e":["￹`Naniraayay~ `a~ `lafang~．￺￻遠方來的客人。","￹`Naniraay~ `kona~ `siraw~.￺￻這醃肉是從遠方送來的。"],"f":"指從遠處(來) 的(人)。"}]}],"stem":"raay","t":"naniraayay"}
+,"nanisnisen":{"h":[{"d":[{"f":"要割草、剁草。"},{"f":"指要割草、剁草的(物件)。"}]}],"tag":"[疊1]","stem":"nisnis","t":"nanisnisen"}
+,"nanitira":{"h":[{"d":[{"s":["`nanitiya~"],"e":["￹`Oya~ `malitengay~ `a~ `tamdaw~ `nanitira~ `i~ `niyaro'~.￺￻那個老人從部落來的。"],"f":"從那裏，從那個地方。"}]}],"stem":"tira","t":"nanitira"}
+,"nanitiraay":{"h":[{"d":[{"f":"從那裏來了，從那個地方來了。"},{"s":["`nanitiyaay~"],"f":"指從那裏(來)的(人)。"}]}],"stem":"tira","t":"nanitiraay"}
+,"nanitiya":{"h":[{"d":[{"s":["`nanitira~"],"f":"從那裏，從那個地方。"}]}],"stem":"tiya","t":"nanitiya"}
+,"nanitiyaay":{"h":[{"d":[{"f":"從那裏(來)了，從那個地方(來) 了。"},{"f":"指從那裏(來)的(人)。"},{"s":["`nanitiraay~"],"f":"自從那時。"}]}],"stem":"tiya","t":"nanitiyaay"}
+,"naniwac":{"h":[{"d":[{"f":"綠豆。"}]}],"t":"naniwac"}
+,"naniwali":{"h":[{"d":[{"f":"從東方、東邊(來)。"}]}],"stem":"wali","t":"naniwali"}
+,"naniwaliay":{"h":[{"d":[{"f":"從東方、東邊(來)了。"},{"f":"指從東方、東邊(來)的(人)。"}]}],"stem":"wali","t":"naniwaliay"}
+,"naniwaniwen":{"h":[{"d":[{"f":"要割草、除草。"},{"f":"指要割草、除草的(物件)。"}]}],"stem":"niwaniw","t":"naniwaniwen"}
+,"naniyani%27en":{"h":[{"d":[{"f":"要搖動麻袋使內裝的東西更加緊密、扎實。"},{"f":"指要搖動使之緊密、扎實的(東西)。"}]}],"stem":"niyani'","t":"naniyani'en"}
+,"nano":{"h":[{"d":[{"s":["`no~"],"f":"前綴。表示時間的起始。如nanokafana'an從懂事起。nanopapacemay從早上開始。"}]},{"d":[{"s":["`nao~"],"e":["￹`O~ `nano~ `loma'~ `niyam~ `konini~.￺￻這是我們原來的家。","￹`O~ `nano~ `nima~ `konini~ `a~ `demak~?￺￻這事原是引起的？"],"f":"緣由，原來，由來。"}]},{"d":[{"e":["￹`Nano~ `to'as~.￺￻自古以來。","￹`Nano~ `papacem~.￺￻從早晨開始。","￹`Nano~ `ka~`emangay~￺￻從少年時代。","￹`Nano~ `kafana'an~ `ako~ `to~ `demak~ `a~ `romi'ad~.￺￻從我懂事那一天起。","￹`Nano~ `ka'oripan~ `no~ `tamdaw~ `awa~ `ho~ `matengil~.￺￻聞所未聞。"],"f":"表示時間的起始。從…開始，自從…開始"},{"s":["`no~"],"e":["￹`Nano~ `lalood~ `taha~ `tiposan~.￺￻從春到冬","￹`Nano~ `papacem~ `taha~ `dadaya~ `a~ `maomah~, `ca~ `ka~`pahanhan~ `ko~ `kayam~ `a~ `dademak~.￺￻從早忙到晚，手裏的工作從來沒有停過。"],"f":"表示時間的起訖。從…至…，自從…到…。"}]}],"t":"nano"}
+,"nanoanini":{"h":[{"d":[{"e":["￹`Sainanengen~ `ita~ `maomah~ `nanoanini~ `haw~ !￺￻從今以後我們要好好工作啊！"],"f":"從今以後，從此，今後。"}]}],"stem":"anini","t":"nanoanini"}
+,"nanocamol":{"h":[{"d":[{"e":["￹`Nanocamol~ `a~ `wawa~.￺￻混血兒。"],"f":"從雜交而來，混合而來。"}]}],"stem":"camol","t":"nanocamol"}
+,"nanociken":{"h":[{"d":[{"f":"要扒開。"},{"s":["`lalocaken~"],"f":"指要扒開的(東西，如鍋裏的飯)。"}]}],"stem":"nocik","t":"nanociken"}
+,"nanofaloco%27":{"h":[{"d":[{"s":["`nanoteked~"],"e":["￹`nanofaloco'~ `a~ `olah~.￺￻衷心之愛。"],"f":"來自心裏，發自內心。"}]}],"stem":"faloco'","t":"nanofaloco'"}
+,"nanoka%27oripan":{"h":[{"d":[{"f":"有生以來，一生經歷。"}]}],"stem":"'orip","t":"nanoka'oripan"}
+,"nanokaan":{"h":[{"d":[{"f":"紡織工具，織布機。"}]}],"stem":"noka","t":"nanokaan"}
+,"nanokaemangan":{"h":[{"d":[{"f":"從少年時代起，從少年時代開始。"}]}],"stem":"kaemang","t":"nanokaemangan"}
+,"nanokaen":{"h":[{"d":[{"f":"要撚，要紡紗。"},{"f":"指要撚的、紡紗的(物件)。"}]}],"stem":"noka","t":"nanokaen"}
+,"nanokahofocan":{"h":[{"d":[{"f":"從誕生開始，一生當中。"}]}],"stem":"hofoc","t":"nanokahofocan"}
+,"nanokasasowalan":{"h":[{"d":[{"s":["`namikasasowalan~"],"f":"彼此商量過後。"}]}],"tag":"[疊 2]","stem":"sowal","t":"nanokasasowalan"}
+,"nanokawas":{"h":[{"d":[{"e":["￹`Nanokawas~ `a~ `misanga'an~.￺￻神所創造的，先天締造的。"],"f":"來自神明，先天的。"}]}],"stem":"kawas","t":"nanokawas"}
+,"nanokayen":{"h":[{"d":[{"f":"要回去。"},{"f":"指要回去的(物件)。"}]}],"stem":"nokay","t":"nanokayen"}
+,"nanokaysa":{"h":[{"d":[{"e":["￹`Mana~ `nanokaysa~, `hacowa~ `a~ `malaheci~ `ko~ `sakaomah~ `saw~?￺￻(你)怎麼老是回家，何時把農活做完呢？"],"f":"經常回去的樣子，處於經常回去的狀態。"}]}],"stem":"nokay","t":"nanokaysa"}
+,"nanolitengan":{"h":[{"d":[{"e":["￹`Nanolitengan~ `ho~ `a~ `sowal~.￺￻口傳文學，口頭傳說。","￹`Nanolitengan~ `kimad~.￺￻口述歷史。"],"f":"自古以來，從祖先時候開始。"}]}],"stem":"liteng","t":"nanolitengan"}
+,"nanolitengan%20ho":{"h":[{"d":[{"f":"(短語。)自古以來，從古時候起。"}]}],"t":"nanolitengan ho"}
+,"nanom":{"h":[{"d":[{"f":"水，水分。"}]}],"t":"nanom"}
+,"nanomaanan":{"h":[{"d":[{"e":["￹`Mafana'~ `to~ `kiso~ `to~ `nanomaanan~ `ako~.￺￻你知道我的原來面目了。"],"f":"原形，本來面目。"}]}],"stem":"maan","t":"nanomaanan"}
+,"nanonohen":{"h":[{"d":[{"f":"要撿拾破爛東西。"},{"f":"向他人要的東西。"}]}],"stem":"nonoh","t":"nanonohen"}
+,"nanopihacolan":{"h":[{"d":[{"e":["￹`O~ `nanopihacolan~ `to~ `nanom~.￺￻原是汲水的工具。"],"f":"來源於汲水的工具，從汲水演變來的。"}]}],"stem":"hacol","t":"nanopihacolan"}
+,"nanotato%27asan":{"h":[{"d":[{"f":"自古以來，從祖先時代開始。"}]}],"stem":"to'as","t":"nanotato'asan"}
+,"nanoteked":{"h":[{"d":[{"s":["`nanofaloco'~"],"f":"發自內心，發自私情。"}]}],"stem":"teked","t":"nanoteked"}
+,"nanoy":{"h":[{"d":[{"s":["`mi~`nanoy~"],"f":"搖動、搖擺懸掛的東西，如搖籃。"}]}],"t":"nanoy"}
+,"nanoya":{"h":[{"d":[{"f":"從那時，從那個。"}]}],"stem":"oya","t":"nanoya"}
+,"nanoya%20ikor":{"h":[{"d":[{"e":["￹`Nanoya~ `ikor~ `malenak~ `canira~,`'aloman~ `to~ `ko~ `tamdaw~ `naira~.￺￻從此，他們繁衍下來，人口多起來了。"],"f":"(短語。)從那時起，從那以後，從此。"}]}],"t":"nanoya ikor"}
+,"nanoyaan":{"h":[{"d":[{"e":["￹`Nanoyaan~ `to~ `o~ `mihecahecaan~ `mangata~ `to~ `ma~`rahrah~ `ko~ `panay~, `ma~`'efer~ `koya~ `'ayam~ `icowacowa~.￺￻從此，每年將近收稻季節，那只鳥就到處飛翔。","￹`Nanoyaan~ `awa~ `to~ `ko~ `ma~`maomah~ `no~ `iloma'ay~ `niyam~.￺￻從那天起我們家失去了勞動力。"],"f":"從那時起，從那一天起，從此。"}]}],"stem":"oya","t":"nanoyaan"}
+,"nanoyen":{"h":[{"d":[{"f":"把…搖動、搖擺。"}]}],"stem":"nanoy","t":"nanoyen"}
+,"nanpokoy":{"h":[{"d":[{"f":"吳郭魚。"}]}],"tag":"[日語借詞]","t":"nanpokoy"}
+,"nansol":{"h":[{"d":[{"s":["`ta'esel~","`mi~`nansol~"],"f":"刺入，刺穿，戳破，戳穿。"}]}],"t":"nansol"}
+,"nansolen":{"h":[{"d":[{"s":["`ta'eselen~"],"f":"把…刺穿、戳穿。"}]}],"stem":"nansol","t":"nansolen"}
+,"nao":{"h":[{"d":[{"s":["`nano~"],"e":["￹`Nao~ `mafana'ay~ `kako~ `caniraan~.￺￻我本來認識他們。","￹`Nao~ `harateng~ `ako~…`'i~.￺￻我原來的想法是…。"],"f":"本來，原來，曾經是。"}]}],"t":"nao"}
+,"naol":{"h":[{"d":[{"s":["`minaol~"],"f":"接近，靠近，臨近。"}]}],"t":"naol"}
+,"naolen":{"h":[{"d":[{"e":["￹`Aka~ `naolen~ `kako~ !￺￻不要靠近我！"],"f":"把…接近、靠近、走近。"}]}],"stem":"naol","t":"naolen"}
+,"naop":{"h":[{"d":[{"s":["`mi~`naop~"],"f":"淹沒，漂浮。"}]}],"t":"naop"}
+,"naopen":{"h":[{"d":[{"e":["￹`Naopen~ `ko~ `omah~ `ira~.￺￻放水把他的田地淹沒。"],"f":"把…淹沒、淹水。"}]}],"stem":"naop","t":"naopen"}
+,"napaka%27araw":{"h":[{"d":[{"e":["￹`Napaka'araw~ `kako~ `i~ `cingraan~, `pakaso'elin~ `to~ `kako~.￺￻我看到他後，就相信了。","￹`Na~`paka'araway~￺￻親眼見過的人。"],"f":"曾經看見，看見過。"}]}],"stem":"'araw","t":"napaka'araw"}
+,"napakatengil":{"h":[{"d":[{"e":["￹`Napakatengil~ `ci~`nira~ `to~ `sowal~ `no~ `tao~.￺￻他曾經聽別人說過。"],"f":"曾經聽說，聽過。"}]}],"stem":"tengil","t":"napakatengil"}
+,"napatangican":{"h":[{"d":[{"f":"勉強從事過的。"}]}],"stem":"tangic","t":"napatangican"}
+,"napi":{"h":[{"d":[{"f":"曾經經歷某動作、行為的場所或地點。如napikadafoan入贅過的人家。後綴加an。"}]}],"t":"napi"}
+,"napi%27acaan":{"h":[{"d":[{"f":"曾經購買某物的地方(時間)，買過東西的地方(時間)。"}]}],"stem":"'aca","t":"napi'acaan"}
+,"napi%27is%27isan":{"h":[{"d":[{"f":"曾經理髮、剃頭的地方(時間)。"}]}],"stem":"'is'is","t":"napi'is'isan"}
+,"napialaan":{"h":[{"d":[{"e":["￹`Patairaen~ `ta~ `napialaan~ `namo~.￺￻送到你們原來拿的地方。","￹`patikoen~ `i~ `napialaan~.￺￻物歸原處。"],"f":"原來拿東西的地方、時間，曾經取物的地方、時間。"}]}],"stem":"ala","t":"napialaan"}
+,"napiasikan":{"h":[{"d":[{"f":"曾經掃除的地方、時間，掃過的地方、時間。"}]}],"stem":"asik","t":"napiasikan"}
+,"napica%27itan":{"h":[{"d":[{"f":"曾經掛東西的地方、時間，掛過東西的地方、時間。"}]}],"stem":"ca'it","t":"napica'itan"}
+,"napicengelan":{"h":[{"d":[{"f":"曾經染衣服的地方、時間，染過衣服的地方、時間。"}]}],"stem":"cengel","t":"napicengelan"}
+,"napifaca%27an":{"h":[{"d":[{"f":"曾經洗滌衣服的地方、時間，洗過衣服的地方、時間。"}]}],"stem":"faca'","t":"napifaca'an"}
+,"napifalodan":{"h":[{"d":[{"f":"曾經捆綁東西的地方、時間，捆綁過東西的地方、時間。"}]}],"stem":"falod","t":"napifalodan"}
+,"napikadafoan":{"h":[{"d":[{"f":"曾經入贅的人日子，入贅過的人家、日子。"}]}],"stem":"kadafo","t":"napikadafoan"}
+,"napikaniwan":{"h":[{"d":[{"f":"曾經說謊騙人的地方(時間)。"}]}],"stem":"kaniw","t":"napikaniwan"}
+,"napikiliman":{"h":[{"d":[{"f":"曾經尋找東西的地方、時間，尋找過東西的地方、時間。"}]}],"stem":"kilim","t":"napikiliman"}
+,"napikorkoran":{"h":[{"d":[{"f":"曾經挖掘的地方、時間，挖掘過的地方、時間。"}]}],"stem":"korkor","t":"napikorkoran"}
+,"napilafa%27an":{"h":[{"d":[{"f":"曾經驅逐、趕走某某的地方、時間。"}]}],"stem":"lafa'","t":"napilafa'an"}
+,"napilaliwan":{"h":[{"d":[{"f":"曾經逃離、離開的地方、時間，逃離過、離開過的地方、時間。"}]}],"stem":"laliw","t":"napilaliwan"}
+,"napiletepan":{"h":[{"d":[{"f":"曾經發現東西的地方、時間，發現過東西的地方、時間。"}]}],"stem":"leteP","t":"napiletepan"}
+,"napilikatan":{"h":[{"d":[{"f":"曾經點燃東西的地方、時間，點燃過東西的地方、時間。"}]}],"stem":"likat","t":"napilikatan"}
+,"napilikotan":{"h":[{"d":[{"f":"曾經包圍的地方、時間，包圍過的地方、時間。"}]}],"stem":"likot","t":"napilikotan"}
+,"napililidan":{"h":[{"d":[{"f":"曾經抬東西的地方、時間，抬過東西的地方、時間。"}]}],"stem":"lilid","t":"napililidan"}
+,"napilingatoan":{"h":[{"d":[{"e":["￹`Napilingatoan~ `tahira~ `ka~`harek~`an~.￺￻自始至終，有始有終。"],"f":"重新開始的地方或時間，從頭來，從頭做起。"}]}],"stem":"lingato","t":"napilingatoan"}
+,"napipa%27oripan":{"h":[{"d":[{"f":"曾經救活他人的地方(時間)，救過人的地方(時間)。"}]}],"stem":"'orip","t":"napipa'oripan"}
+,"napipadangan":{"h":[{"d":[{"f":"曾經幫助、協助他人的地方(時間)。"}]}],"stem":"padang","t":"napipadangan"}
+,"napipafelian":{"h":[{"d":[{"f":"曾經送東西給他人的地方(時間)。"}]}],"stem":"feli","t":"napipafelian"}
+,"napipaisingan":{"h":[{"d":[{"f":"曾經是醫院，給人家看過病的地方(時間)。"}]}],"stem":"ising","t":"napipaisingan"}
+,"napipakafana%27an":{"h":[{"d":[{"f":"曾經告訴、傳授的地方(時間)。"}]}],"stem":"fana'","t":"napipakafana'an"}
+,"napipalilaman":{"h":[{"d":[{"f":"曾經分配東西的地方(時間)。"}]}],"stem":"lilam","t":"napipalilaman"}
+,"napipalomaan":{"h":[{"d":[{"f":"曾經種植作物的地方(時間)，種過作物的地方(時間)。"}]}],"stem":"paloma","t":"napipalomaan"}
+,"napipana%27an":{"h":[{"d":[{"f":"曾經射箭的地方(時間)，射過箭的地方(時間)。"}]}],"stem":"pana'","t":"napipana'an"}
+,"napipatefocan":{"h":[{"d":[{"f":"曾經懲罰人的地方(時間)，懲罰過人的地方(時間)。"}]}],"stem":"tefoc","t":"napipatefocan"}
+,"napipatikolan":{"h":[{"d":[{"f":"曾經歸還東西的地方(時間)，歸還過東西的地方(時間)。"}]}],"stem":"tikol","t":"napipatikolan"}
+,"napipatilonan":{"h":[{"d":[{"f":"曾經賠償錢物的地方(時間)。"}]}],"stem":"patilon","t":"napipatilonan"}
+,"napipawalian":{"h":[{"d":[{"f":"曾經曬穀物的地方(時間)，曬過穀物的地方(時間)。"}]}],"stem":"wali","t":"napipawalian"}
+,"napipodacan":{"h":[{"d":[{"f":"曾經削皮的地方(時間)，給某物削過皮的地方(時間)。"}]}],"stem":"podac","t":"napipodacan"}
+,"napiritritan":{"h":[{"d":[{"f":"曾經割草的地方(時間)，割過草的地方(時間)。"}]}],"stem":"ritrit","t":"napiritritan"}
+,"napisafana%27an":{"h":[{"d":[{"f":"曾經騙人、從事欺詐活動的地方(時間)。"}]}],"stem":"fana'","t":"napisafana'an"}
+,"napisakongaan":{"h":[{"d":[{"e":["￹`Napisakongaan~ `a~ `romi'ad~ `taira~ `kako~ `a~ `mi'araw~ `kinacecay~.￺￻從種番薯那天以後，我去看一次。"],"f":"曾經種植番薯的地方(時間)。"}]}],"stem":"konga","t":"napisakongaan"}
+,"napisanga%27an":{"h":[{"d":[{"f":"曾經製造、修理某物的地方(時間)。"}]}],"stem":"sanga'","t":"napisanga'an"}
+,"napisatapangan":{"h":[{"d":[{"e":["￹`Napisatapangan~ `tahira~ `ka~`harek~`an~.￺￻自始至終(有始有終)。"],"f":"曾經開始做的地方(時間), 從頭開始。"}]}],"stem":"tapang","t":"napisatapangan"}
+,"napiseti%27an":{"h":[{"d":[{"f":"曾經打人的地方(時間)。"}]}],"stem":"seti'","t":"napiseti'an"}
+,"napitakawan":{"h":[{"d":[{"f":"曾經偷竊東西的地方(時間)。"}]}],"stem":"takaw","t":"napitakawan"}
+,"napitakopan":{"h":[{"d":[{"f":"曾經追趕的地方(時間)。"}]}],"stem":"takop","t":"napitakopan"}
+,"napitalaan":{"h":[{"d":[{"f":"曾經等待他人的地方(時間)。"}]}],"stem":"tala","t":"napitalaan"}
+,"napitelian":{"h":[{"d":[{"f":"曾經放置東西的地方(時間)。"}]}],"stem":"teli","t":"napitelian"}
+,"napitilidan":{"h":[{"d":[{"f":"曾經寫字、學習的地方(時間)，曾經是學校。"}]}],"stem":"tilid","t":"napitilidan"}
+,"napitooran":{"h":[{"d":[{"f":"曾經跟隨、追隨他人的地方(時間)。"}]}],"stem":"toor","t":"napitooran"}
+,"napiwikwikan":{"h":[{"d":[{"f":"曾經編製某物的地方(時間)。"}]}],"stem":"wikwik","t":"napiwikwikan"}
+,"napnap":{"h":[{"d":[{"s":["`minapnap~"],"f":"啃吃(青草、穀物)。"}]}],"t":"napnap"}
+,"napnapen":{"h":[{"d":[{"f":"把…啃吃。"}]}],"stem":"napnap","t":"napnapen"}
+,"narikay":{"h":[{"d":[{"e":["￹`Narikay~ `kiso~ `a~ `taini~.￺￻你來得好快。","￹`Narikay~ `a~ `mapatay~.￺￻早死。"],"f":"迅速，快速，好快，超前。"}]}],"t":"narikay"}
+,"narikayay":{"h":[{"d":[{"e":["￹`Narikayay~ `ko~ `wawa~ `ako~ `a~ `mafuti'~.￺￻我的孩子很快入睡了。"],"f":"迅速了，快速了，好快了，超前了。"},{"f":"指動作行為迅速、快速、超前的(人)。"}]}],"stem":"narikay","t":"narikayay"}
+,"narikoran":{"h":[{"d":[{"e":["￹`Narikoran~ `iso~ `'i~, `adada~ `to~ `ci~`nira~.￺￻你走之後，他病倒了。"],"f":"在某動作、行為之後，走以後。"}]}],"stem":"rikor","t":"narikoran"}
+,"nasa":{"h":[{"d":[{"e":["￹`O~ `widang~ `ako~ `nasa~ `ko~ `harateng~ `ako~.￺￻我想我曾經認為(他)是我的朋友呢。"],"f":"曾經這樣認為、以為。"}]}],"stem":"sa","t":"nasa"}
+,"nasaan":{"h":[{"d":[{"e":["￹`Nasaan~ `pa~`lesifo'sa~ `ko~ `fali~ `ato~ `'orad~ .￺￻話一說完，暴風雨同時降臨。","￹`Nasaan~ `mitahidang~ `aca~ `ko~ `ina~ `ira~.￺￻話才說完，她的媽媽又來喊叫了。"],"f":"剛說完，說過後。"}]}],"stem":"sa","t":"nasaan"}
+,"nasaasaan":{"h":[{"d":[{"s":["`nanitiya~"],"e":["￹`Nasaasaan~ `miladis~ `ko~ `niyaro'~.￺￻從那以後，部落開始捕魚儀式了。"],"f":"從那以後，從此。"}]}],"tag":"[疊 2]","stem":"sa","t":"nasaasaan"}
+,"nasafitan":{"h":[{"d":[{"f":"送人的禮金、聘金、聘禮。"}]}],"stem":"safit","t":"nasafitan"}
+,"nasaripa%27an":{"h":[{"d":[{"e":["￹`Nasaripa'an~ `no~ `'a'adopen~.￺￻動物的足迹。"],"f":"足迹，腳印。"}]}],"stem":"ripa'","t":"nasaripa'an"}
+,"nasi":{"h":[{"d":[{"f":"梨〈日語借詞〉。"}]},{"d":[{"f":"梨。"}]}],"t":"nasi"}
+,"naso":{"h":[{"d":[{"f":"茄子。"}]}],"tag":"[日語借詞]","t":"naso"}
+,"naw":{"h":[{"d":[{"e":["￹`Naw~ `samsamen~ `iso~, `o~ `widang~ `ako~ `konini~`an~ !￺￻好哇，你為何要欺負他，他可是我的朋友啊！","￹`Naw~ `silaheker~ `kamo~ !￺￻啊呀，你們不該這樣啊！","￹`Naw~ `i~ `awtal~ `no~ `lalaocan~ `kako~ `kiyami~ !￺￻好啊，我在會所外面，行了吧！"],"f":"感歎詞。表示憤恨之極又無可奈何。"}]},{"d":[{"s":["`nawiro~","`nawhani~"],"e":["￹`Naw~ `minokay~ `kiso~ `saw~?￺￻你為什麼回家呢？","￹`Naw~ `ca~ `to~ `ka~`maomah~ `ci~`nira~ `saw~?￺￻他為什麼不勞動呢？"],"f":"為什麼。"}]}],"t":"naw"}
+,"nawhani":{"h":[{"d":[{"e":["￹`Nawhani~ `o~ `no~ `'Amis~ `a~ `remes~ `ko~ `itirengay~ `no~ `mita~, `orasaka~ `citatodotodong~ `aca~ `kita~ `a~ `mipa'orip~ `to~ `nano~ `to'as~ `ita~ `a~ `fana'~.￺￻由於我們身上有阿美族的血液，所以有責任把老一輩的智慧傳承下去。"],"f":"因為，由於。"}]}],"stem":"naw","t":"nawhani"}
+,"nawiro":{"h":[{"d":[{"e":["￹`Nawiro~ `ma~`fokil~ `a~ `caciyaw~ `to~ `no~ `niyah~ `a~ `sowal~ `hani~?￺￻為什麼不會用自己的話交談？","￹`Nawiro~ `fafoti'sa~ `kiso~ `saw~?￺￻你為什麼一直睡覺？"],"f":"為什麼，為何目的，出於什麼原因。"}]}],"t":"nawiro"}
+,"nawnaw":{"h":[{"d":[{"s":["`minawnaw~"],"f":"淹沒，淹水。"}]}],"t":"nawnaw"}
+,"nawnawen":{"h":[{"d":[{"f":"把…淹沒、淹水。"}]}],"stem":"nawnaw","t":"nawnawen"}
+,"nay%27na":{"h":[{"d":[{"e":["￹`Nay'na~ `kako~ `a~ `tayra~.￺￻我不想去。"],"f":"不能，不可以，不想。"}]}],"stem":"ay","t":"nay'na"}
+,"nayar":{"h":[{"d":[{"s":["`mi~`nayar~"],"f":"延長時間，延期。"}]}],"t":"nayar"}
+,"nayaren":{"h":[{"d":[{"e":["￹`Nayaren~ `ko~ `pitilidan~ `no~ `wawa~.￺￻要延長孩子的學習時間。"],"f":"把…延長時間、延期。"}]}],"stem":"nayar","t":"nayaren"}
+,"nayat":{"h":[{"d":[{"s":["`minayat~"],"f":"延伸，延長，拉長。"}]}],"t":"nayat"}
+,"nayaten":{"h":[{"d":[{"f":"把…延伸、延長、拉長。"}]}],"stem":"nayat","t":"nayaten"}
+,"necnec":{"h":[{"d":[{"s":["`minecnec~"],"f":"用手輕揉。"}]}],"t":"necnec"}
+,"necnecen":{"h":[{"d":[{"e":["￹`Aka~ `necnecen~ `to~ `kamay~ `ko~ `mata~.￺￻不要用手揉眼睛。"],"f":"把…輕揉。"}]}],"stem":"necnec","t":"necnecen"}
+,"nefak":{"h":[{"d":[{"f":"犁溝，犁畦。"}]}],"t":"nefak"}
+,"neker":{"h":[{"d":[{"s":["`reken~","`mineker~"],"f":"用手壓，摁，捺。"}]}],"t":"neker"}
+,"nekeren":{"h":[{"d":[{"s":["`rekenen~"],"e":["￹`Nekeren~ `pa~`sila~ê`no~ `ko~ `'awol~.￺￻把竹子往下壓。"],"f":"把…摁住、捺住。"}]}],"stem":"neker","t":"nekeren"}
+,"neknek":{"h":[{"d":[{"s":["`mi~`neknek~"],"f":"沈澱，澄清。"}]}],"t":"neknek"}
+,"nekneken":{"h":[{"d":[{"f":"把…沈澱、澄清。"}]}],"stem":"neknek","t":"nekneken"}
+,"nemnem":{"h":[{"d":[{"f":"泉水。"}]}],"t":"nemnem"}
+,"nemnemen":{"h":[{"d":[{"f":"把泉水喝了。"}]}],"stem":"nemnem","t":"nemnemen"}
+,"nena":{"h":[{"d":[{"s":["`ena~"],"f":"語氣助詞。表示給、給看等意義。"}]}],"t":"nena"}
+,"nengaw":{"h":[{"d":[{"s":["`cengaw~","`ma~`nengaw~"],"f":"睜眼，睜開眼睛看。"}]}],"t":"nengaw"}
+,"nengel":{"h":[{"d":[{"s":["`lengel~","`minengel~"],"f":"浸泡，浸水。"}]}],"t":"nengel"}
+,"nengelen":{"h":[{"d":[{"e":["￹`Nengelen~ `ko~ `felac~ !￺￻把米浸泡吧！"],"f":"把…浸泡、浸水。"}]}],"stem":"nengel","t":"nengelen"}
+,"nengneng":{"h":[{"d":[{"s":["`eneng~","`minengneng~"],"f":"看，注視。"}]}],"t":"nengneng"}
+,"nengnengan":{"h":[{"d":[{"e":["￹`O~ `maan~ `ko~ `nengnengan~ `i~ `niyaro'~ `iso~?￺￻你的家鄉有什麼景觀？"],"f":"景觀，景物。"}]}],"stem":"nengneng","t":"nengnengan"}
+,"nengnengen":{"h":[{"d":[{"e":["￹`Nengnengen~ `kako~ !￺￻請看著我！","￹`malecad~ `a~ `nengnengen~ `ko~ `karapanay~(`samado~ 稗子)`ato~ `panay~.￺￻稗子和稻子看起來很相似。","￹`Fangcal~ `a~ `nengnengen~ `kora~ `hana~.￺￻那朵花看起來很漂亮。","￹`Makesem~ `ko~ `pising~ `ira~ `a~ `nengnengen~.￺￻她看起來神情憂傷。"],"f":"把…看、注視。"}]}],"stem":"nengneng","t":"nengnengen"}
+,"neper":{"h":[{"d":[{"s":["`ma~`neper~"],"f":"兩腿屈曲使身體站穩。"}]}],"t":"neper"}
+,"nepersa":{"h":[{"d":[{"f":"兩腿屈曲站穩的樣子，兩腿屈曲站立著。"}]}],"stem":"neper","t":"nepersa"}
+,"ng":{"h":[{"d":[{"f":"阿美語的輔音之一。屬舌面後濁鼻音。做詞尾讀時有長音化傾向。"}]}],"t":"ng"}
+,"nga%27":{"h":[{"d":[{"e":["￹`Maringaring~ `ko~ `cidal~, `nga'~ `laopen~ `ita~ `ko~ `kolong~ `a~ `mipakaen~.￺￻太陽下山了，我們才能趕牛去放牧。","￹`Sa'icelen~ `ita~,`nga'~ `mafana'~.￺￻我們要用功，才會有知識。"],"f":"副詞。這樣才能…；然後才能…。"}]}],"t":"nga'"}
+,"nga%27ay":{"h":[{"d":[{"e":["￹`Nga'ay~ `ho~ `ko~ `miso~ !￺￻你好！","￹`Nga'ay~ `ko~ `kamaro'an~ `na~ `safa~ `mihimaw~ `to~ `tama'~.￺￻弟弟坐的好好的看守獵物。"],"f":"好，良好。"},{"e":["￹`Nga'ay~ `to~.￺￻行了。","￹`Nga'ay~ `to~ `a~ `mafuti'~.￺￻可以睡覺了。","￹`Ca~ `ka~`'angongol~ `ko~ `nanom~ `nona~ `'alo~,`nga'ay~ `to~ `a~ `lakecen~.￺￻這河不深，可以渡過去的。"],"f":"(表示贊同)行，可以，合適，適宜。"}]}],"t":"nga'ay"}
+,"nga%27ay%20ho":{"h":[{"d":[{"e":["￹`Nga'ay~ `ho~ `ko~ `miso~ `singsi~ !￺￻先生你好！","￹`Nga'ay~ `ho~ `idangaw~ !￺￻朋友你好！"],"f":"(短語)。表示問候，你好。"}]}],"t":"nga'ay ho"}
+,"nga%27ay%20to":{"h":[{"d":[{"f":"(短語)。可以的，好的，行了。"}]}],"t":"nga'ay to"}
+,"nga%27ayay":{"h":[{"d":[{"e":["￹`Nga'ayay~ `ko~ `romi'ad~ `anini~.￺￻今天天氣好了。","￹`Nga'ayay~ `ko~ `kawas~.￺￻吉星高照。"],"f":"好了，良好了。"},{"e":["￹`Marohemay~ `to~ `ko~ `heci~ `nona~ `pawli~,`nga'ayay~ `to~ `a~ `kaenen~.￺￻這香蕉已經熟了，可以吃了。"],"f":"行了，可以了，合適了，適宜了。"},{"e":["￹`Nga'ayay~ `a~ `tamdaw~.￺￻好人。","￹`Nga'ayay~ `a~ `wawa~.￺￻好孩子。","￹`Nga'ayay~ `a~ `kaenen~.￺￻好吃。","￹`Nga'ayay~ `a~ `nengnengen~.￺￻好看。","￹`Nga'ayay~ `tengilen~.￺￻好聽。"],"f":"指好的，良好的(人、東西)。"},{"f":"指可以的，合適的(事情)。"}]}],"stem":"nga'ay","t":"nga'ayay"}
+,"nga%27enga":{"h":[{"d":[{"s":["`fadihic~"],"f":"碟子、盤子等器皿的邊沿。"}]}],"t":"nga'enga"}
+,"ngaci":{"h":[{"d":[{"s":["`ma~`ngaci~"],"f":"(衣服瘦、短)不合身。"}]}],"t":"ngaci"}
+,"ngaciyar":{"h":[{"d":[{"s":["`ma~`ngaciyar~"],"f":"開口時嘴唇向兩邊張開，撇嘴。"}]}],"t":"ngaciyar"}
+,"ngacol":{"h":[{"d":[{"s":["`ma~`ngacol~"],"f":"恰到好處。"}]}],"t":"ngacol"}
+,"ngadi%27":{"h":[{"d":[{"f":"(粘性唾液)。鼻屎、鼻垢、污垢。"}]}],"t":"ngadi'"}
+,"ngadiengi":{"h":[{"d":[{"e":["￹`Ngadiengi~ `canira~ `to~ `kakaenen~.￺￻他們缺少食品。"],"f":"(數量)不夠，缺少。"}]}],"t":"ngadiengi"}
+,"ngadiengiay":{"h":[{"d":[{"f":"不夠了，缺少了。"},{"f":"指東西數量不夠的、缺少的(人)。"}]}],"stem":"ngadiengi","t":"ngadiengiay"}
+,"ngafil":{"h":[{"d":[{"s":["`mangafil~"],"f":"(牲口)豁嘴。"}]}],"t":"ngafil"}
+,"ngafngaf":{"h":[{"d":[{"s":["`mangafngaf~"],"f":"牛、樣啃草的樣子。"}]}],"t":"ngafngaf"}
+,"ngafol":{"h":[{"d":[{"f":"梅花鹿；也指羚羊。"}]}],"t":"ngafol"}
+,"ngagirngiren":{"h":[{"d":[{"f":"要撓癢、搔癢。"},{"f":"指要撓癢、騷癢的(物件)。"}]}],"tag":"[疊 1]","stem":"ngirngir","t":"ngagirngiren"}
+,"ngaha":{"h":[{"d":[{"s":["`mangahap~"],"f":"蓋子蓋不嚴，有漏縫。"}]}],"t":"ngaha"}
+,"ngala%27":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `ngala'~ `noni~ `a~ `sapad~.￺￻這塊木板沒有縫隙。"],"f":"空隙，空間，縫隙。"}]}],"t":"ngala'"}
+,"ngalangala%27":{"h":[{"d":[{"f":"到處有空隙、縫隙，到處是縫兒。"}]}],"tag":"[疊]","stem":"ngala'","t":"ngalangala'"}
+,"ngalay":{"h":[{"d":[{"f":"唾液，口水。"}]}],"t":"ngalay"}
+,"ngalef":{"h":[{"d":[{"s":["`mangalef~"],"f":"加劇，嚴重，更甚。"}]}],"t":"ngalef"}
+,"ngalefsa":{"h":[{"d":[{"e":["￹`Ngalefsa~ `ko~ `adada~ `no~ `malitengay~.￺￻老人的病更加厲害了。","￹`Ngalefsa~ `to~ `ko~ `talaw~ `niyam~ `to~ `ka~`wakaw~ `sa~`n~.￺￻我們懼怕鬼怪的心理愈發嚴重了。","￹`Ngalefsa~ `ko~ `cahiw~ `noya~ `niyaro'~.￺￻那個村子的饑荒更加嚴重。"],"f":"處於嚴重、加劇的狀態，越來越厲害。"}]}],"stem":"ngalef","t":"ngalefsa"}
+,"ngaliwngiw":{"h":[{"d":[{"s":["`ma~`ngaliwngiw~"],"f":"發牢騷，抱怨、低語。"}]}],"t":"ngaliwngiw"}
+,"ngalo%27eco":{"h":[{"d":[{"s":["`ngalo'engo~"],"f":"嘈雜含混的聲音、低語。"}]}],"t":"ngalo'eco"}
+,"ngalo%27engo":{"h":[{"d":[{"s":["`ngalo'eco~"],"e":["￹`Matengil~ `to~ `ako~ `ko~ `ngalo'engo~ `no~ `'alomanay~ `a~ `tamdaw~.￺￻我聽見了很多人嘈雜的說話聲。"],"f":"嘈雜含混的聲音。"}]}],"t":"ngalo'engo"}
+,"ngalof":{"h":[{"d":[{"f":"引水槽，排水管。"}]}],"t":"ngalof"}
+,"ngalohngoh":{"h":[{"d":[{"s":["`ngarohngoh~"],"f":"嗓音低沈，變聲兒。"}]}],"t":"ngalohngoh"}
+,"ngalohngohay":{"h":[{"d":[{"f":"嗓音低沈了，變聲了。"},{"s":["`ngarohngahay~"],"f":"指嗓音低沈的、變聲的(人)。"}]}],"stem":"ngalohngoh","t":"ngalohngohay"}
+,"ngangafolan":{"h":[{"d":[{"f":"皮膚病，皮膚癬。"}]}],"tag":"[疊]","stem":"ngafol","t":"ngangafolan"}
+,"ngangai%27":{"h":[{"d":[{"f":"馬尾藻，裙帶菜，海帶。"}]}],"t":"ngangai'"}
+,"ngangal":{"h":[{"d":[{"s":["`mangangal~"],"f":"口腔被灼傷。"}]}],"t":"ngangal"}
+,"ngangan":{"h":[{"d":[{"e":["￹`Ci~ `Panay~ `hananay~ `ko~ `ngangan~ `ako~.￺￻我的名字叫 Panay (巴奈)。","￹`Nga'ayay~ `ko~ `ngangan~ `ni~ `Kolas~. `Kolas~￺￻(古拉斯)的名望好。"],"f":"名字，名望，名聲。"}]}],"t":"ngangan"}
+,"ngangarifan":{"h":[{"d":[{"e":["￹`Ngangarifan~ `no~ `ciwkeng~.￺￻水缸的邊沿。"],"f":"邊沿，邊邊。"}]}],"tag":"[疊 2]","stem":"ngarif","t":"ngangarifan"}
+,"ngangarngaren":{"h":[{"d":[{"f":"要啃吃青草、草皮。"},{"f":"指要啃吃的(東西、青草)。"}]}],"tag":"[疊 2]","stem":"ngarngar","t":"ngangarngaren"}
+,"ngangasawan":{"h":[{"d":[{"e":["￹`Icowaay~ `a~ `ngangasawan~ `kiso~?￺￻你屬於哪個氏族？"],"f":"氏族群體，氏族的首領、族長。"}]}],"tag":"[疊 2]","stem":"ngasaw","t":"ngangasawan"}
+,"ngangataen":{"h":[{"d":[{"f":"即將靠近、接近。"},{"f":"指即將靠近的、接近的(物件)。"}]}],"tag":"[疊 2]","stem":"ngata","t":"ngangataen"}
+,"ngangatoen":{"h":[{"d":[{"f":"即將繼續完成。"},{"f":"指即將繼續完成的(事情)。"}]}],"tag":"[疊 2]","stem":"ngato","t":"ngangatoen"}
+,"ngangatowa%27en":{"h":[{"d":[{"f":"即將張嘴。"},{"f":"指要張開的(嘴巴)。"}]}],"tag":"[疊 2]","stem":"ngatowa'","t":"ngangatowa'en"}
+,"ngangawi%27an":{"h":[{"d":[{"f":"嘴角部位，嘴角上。"}]}],"tag":"[疊 2]","stem":"ngawi'","t":"ngangawi'an"}
+,"ngangawitan":{"h":[{"d":[{"f":"扣動扳機的地方。"}]}],"tag":"[疊 2]","stem":"ngawit","t":"ngangawitan"}
+,"ngangawiten":{"h":[{"d":[{"f":"要扣動扳機，要勾手。"},{"f":"指要扣動扳機的、要勾手的(物件)。"}]}],"tag":"[疊 2]","stem":"ngawit","t":"ngangawiten"}
+,"ngangawngawen":{"h":[{"d":[{"f":"要生吃。"},{"f":"指要生吃的(東西，瓜果)。"}]}],"tag":"[疊 2]","stem":"ngawngaw","t":"ngangawngawen"}
+,"ngangayafan":{"h":[{"d":[{"f":"懸崖的邊沿。"}]}],"tag":"[疊 2]","stem":"ngayaf","t":"ngangayafan"}
+,"ngangel":{"h":[{"d":[{"e":["￹`Ngangel~ `no~ `wadis~.￺￻牙床、牙齦。"],"f":"牙床，夾縫兒。"},{"s":["`ma~`ngangel~"],"f":"因嚼食含石灰過多的檳榔致使口腔受到損傷。"}]}],"t":"ngangel"}
+,"ngangelngelan":{"h":[{"d":[{"s":["`ngelngelan~"],"e":["￹`Ngangelngelan~ `no~ `kamay~.￺￻手腕子。","￹`Ngangelngelan~ `no~ `oo'~.￺￻腳踝子。"],"f":"腕。"}]}],"tag":"[疊 2]","stem":"ngangel","t":"ngangelngelan"}
+,"ngangetngeten":{"h":[{"d":[{"f":"要啃吃，要齧咬。"},{"f":"指要啃吃的、要齧咬的(東西)。"}]}],"tag":"[疊 2]","stem":"ngetnget","t":"ngangetngeten"}
+,"ngangicngicen":{"h":[{"d":[{"f":"(鼠類)要啃吃，要齧咬。。"},{"f":"指要啃吃的、要齧咬的(東西)"}]}],"tag":"[疊 2]","stem":"ngicngic","t":"ngangicngicen"}
+,"ngangidipen":{"h":[{"d":[{"f":"要窺視、窺探。"},{"f":"指要窺視、窺探的(物件)。"}]}],"tag":"[疊 2]","stem":"ngidip","t":"ngangidipen"}
+,"ngangihoten":{"h":[{"d":[{"f":"要摳出來。"},{"f":"指要摳出來的(東西)。"}]}],"tag":"[疊 2]","stem":"ngihot","t":"ngangihoten"}
+,"ngangingiten":{"h":[{"d":[{"f":"要一點一點地吃。"},{"f":"指要一點一點吃掉的(東西)。"}]}],"tag":"[疊 2]","stem":"ngingit","t":"ngangingiten"}
+,"ngangingoyen":{"h":[{"d":[{"f":"要洗澡、洗浴。"},{"f":"指要洗澡、洗浴的(東西，如水)。"}]}],"tag":"[疊 2]","stem":"ngingoy","t":"ngangingoyen"}
+,"ngangirawen":{"h":[{"d":[{"f":"要赴宴會、宴席。"},{"f":"指要赴宴的(物件)。"}]}],"tag":"[疊 2]","stem":"ngiraw","t":"ngangirawen"}
+,"ngangiroen":{"h":[{"d":[{"f":"要烤火取暖。"},{"f":"指要烤火取暖的(物件)。"}]}],"tag":"[疊 2]","stem":"ngiro","t":"ngangiroen"}
+,"ngangitangiten":{"h":[{"d":[{"f":"要央求、懇求。"},{"f":"指要央求、懇求的(物件)。"}]}],"tag":"[疊 2]","stem":"ngitangit","t":"ngangitangiten"}
+,"ngangitiden":{"h":[{"d":[{"f":"要用嘴叼、銜。"},{"f":"指要用嘴叼、銜的(物件)。"}]}],"tag":"[疊 2]","stem":"ngitid","t":"ngangitiden"}
+,"ngangito%27en":{"h":[{"d":[{"f":"要拔牙、缺齒。"},{"f":"指要拔牙、缺齒的(物件)。"}]}],"tag":"[疊 2]","stem":"ngito'","t":"ngangito'en"}
+,"ngangiw":{"h":[{"d":[{"s":["`fasal~"],"f":"蛔蟲。"}]},{"d":[{"e":["￹`Ngangiw~ `no~ `lengac~.￺￻月桃的芯。"],"f":"月桃芯。"}]}],"t":"ngangiw"}
+,"ngangiwalen":{"h":[{"d":[{"f":"要撬，要摳。"},{"f":"指要撬的、要摳的(物件、東西)。"}]}],"tag":"[疊 2]","stem":"ngiwal","t":"ngangiwalen"}
+,"ngangiwngiwen":{"h":[{"d":[{"f":"要掏耳朵。"},{"f":"指要掏耳朵的(物件)。"}]}],"tag":"[疊 2]","stem":"ngiwngiw","t":"ngangiwngiwen"}
+,"ngangiyangien":{"h":[{"d":[{"f":"要搖動、吹動。"},{"f":"指要搖動、吹動的(物件、東西)。"}]}],"tag":"[疊 2]","stem":"ngiyangi","t":"ngangiyangien"}
+,"ngangocepan":{"h":[{"d":[{"s":["`tangocepan~"],"f":"煙嘴。"}]}],"tag":"[疊 2]","stem":"ngocep","t":"ngangocepan"}
+,"ngangodangoden":{"h":[{"d":[{"f":"要鬆動、鬆弛。"},{"s":["`ngangohangohen~"],"f":"指要鬆動、鬆弛的(物件、東西)。"}]}],"tag":"[疊 2]","stem":"ngodangod","t":"ngangodangoden"}
+,"ngangohangohen":{"h":[{"d":[{"f":"要鬆動、鬆弛。"},{"s":["`ngangodangoden~"],"f":"指要鬆動、鬆弛的(物件、東西)。"}]}],"tag":"[疊 2]","stem":"ngohangoh","t":"ngangohangohen"}
+,"ngangool":{"h":[{"d":[{"s":["`ma~`hengangool~"],"f":"嫩芽初生。"}]}],"t":"ngangool"}
+,"ngangoolay":{"h":[{"d":[{"f":"嫩芽初生了。"},{"f":"指嫩芽初生的(植物)。"}]}],"stem":"ngangool","t":"ngangoolay"}
+,"ngangorefiten":{"h":[{"d":[{"f":"要努嘴、撇嘴示意。"},{"f":"指要努嘴、撇嘴示意的(物件)。"}]}],"tag":"[疊 2]","stem":"ngorefit","t":"ngangorefiten"}
+,"ngangorngoren":{"h":[{"d":[{"f":"要拱土、刨土。"},{"f":"指要拱土、刨土的(物件、地方)。"}]}],"tag":"[疊 2]","stem":"ngorngor","t":"ngangorngoren"}
+,"ngangotaen":{"h":[{"d":[{"f":"要攪渾、弄渾。"},{"f":"指要攪渾、弄渾的(物件、地方)。"}]}],"tag":"[疊 2]","stem":"ngota","t":"ngangotaen"}
+,"ngangotoen":{"h":[{"d":[{"f":"兩人要相對附耳。"},{"f":"指要相對附耳的(物件)。"}]}],"tag":"[疊 2]","stem":"ngoto","t":"ngangotoen"}
+,"ngangoyangoyen":{"h":[{"d":[{"f":"要搖動、搖晃。"},{"f":"指要搖動、搖晃的(物件，如樹木)。"}]}],"tag":"[疊 2]","stem":"ngoyangoy","t":"ngangoyangoyen"}
+,"ngapa":{"h":[{"d":[{"s":["`ngoyos~"],"f":"嘴，口。"}]}],"t":"ngapa"}
+,"ngapad":{"h":[{"d":[{"f":"懸崖，絕壁，斷層。"}]}],"t":"ngapad"}
+,"ngapir":{"h":[{"d":[{"f":"邊沿，界限，臨界線。"}]}],"t":"ngapir"}
+,"ngarap":{"h":[{"d":[{"s":["`ranap~"],"f":"狐狸；也指檳榔穗包。"}]}],"t":"ngarap"}
+,"ngarawngaw":{"h":[{"d":[{"s":["`araw'aw~","`ra~`rawraw~"],"f":"喧鬧，喧嘩。"}]}],"t":"ngarawngaw"}
+,"ngarawngawsa":{"h":[{"d":[{"s":["`araw'awsa~","`rarawrawsa~"],"e":["￹`Nawiro~ `ngarawngawsa~ `canira~?￺￻他們為什麽喧鬧著？"],"f":"處於喧鬧、喧嘩的狀態，喧鬧著，喧嘩著。"}]}],"stem":"ngarawngaw","t":"ngarawngawsa"}
+,"ngari%27ngi%27":{"h":[{"d":[{"f":"藤或竹編的床、扁擔等顫悠悠的響聲，咯吱咯吱地。"}]}],"t":"ngari'ngi'"}
+,"ngarngar":{"h":[{"d":[{"s":["`mingarngar~"],"f":"啃吃青草。"}]}],"t":"ngarngar"}
+,"ngarngaren":{"h":[{"d":[{"f":"把(青草)啃吃。"}]}],"stem":"ngarngar","t":"ngarngaren"}
+,"ngarohngoh":{"h":[{"d":[{"s":["`ngalohngoh~"],"f":"低嗓音，低音，變聲兒。"}]}],"t":"ngarohngoh"}
+,"ngarohngohay":{"h":[{"d":[{"e":["￹`Ngarohngohay~ `ko~ `honi~(`ngiha'~)`ira~.￺￻他的嗓音變聲了。"],"f":"嗓音低沈了，變聲兒了。"},{"s":["`ngalohngohay~"],"f":"指嗓音低沈、變聲的(人)。ngiha：指人的嗓音(音腔)。honi：泛指一般事物的聲音。"}]}],"stem":"ngarohngoh","t":"ngarohngohay"}
+,"ngaros":{"h":[{"d":[{"f":"受潮而黴變的番薯。"}]}],"t":"ngaros"}
+,"ngaroy":{"h":[{"d":[{"f":"下巴，顎。"}]}],"t":"ngaroy"}
+,"ngasaw":{"h":[{"d":[{"s":["`misa~`ngasaw~"],"f":"親族，氏族。"}]}],"t":"ngasaw"}
+,"ngasawan":{"h":[{"d":[{"f":"親族成員，氏族成員。"}]}],"stem":"ngasaw","t":"ngasawan"}
+,"ngasif":{"h":[{"d":[{"s":["`mingasif~"],"f":"舀米做飯，燒開水。"}]}],"t":"ngasif"}
+,"ngasifen":{"h":[{"d":[{"f":"把米舀上做飯。"}]}],"stem":"ngasif","t":"ngasifen"}
+,"ngata":{"h":[{"d":[{"s":["`mangata~"],"f":"近，附近，臨近。"}]}],"t":"ngata"}
+,"ngataa%27":{"h":[{"d":[{"s":["`ma~`ngataa'~"],"f":"發愣，發呆，驚訝。"}]}],"t":"ngataa'"}
+,"ngatangatasa":{"h":[{"d":[{"e":["￹`Ngatangatasa~ `ko~ `nanom~ `a~ `manawnaw~.￺￻水慢慢地淹過來。"],"f":"慢慢地、一步一步地行動著。"}]}],"tag":"[疊 1]","stem":"ngata","t":"ngatangatasa"}
+,"ngatef":{"h":[{"d":[{"s":["`ma~`ngatef~"],"f":"因發怒而咬住下唇。"}]}],"t":"ngatef"}
+,"ngato":{"h":[{"d":[{"f":"尚待繼續完成的工作、責任。"}]}],"t":"ngato"}
+,"ngatoan":{"h":[{"d":[{"f":"尚待繼續完成的工作、責任。"}]}],"stem":"ngato","t":"ngatoan"}
+,"ngatoen":{"h":[{"d":[{"e":["￹`Ngatoen~ `ko~ `tayal~ `iso~ !￺￻把你的工作繼續做吧！"],"f":"把(未完成的工作、責任)繼續做。"}]}],"stem":"ngato","t":"ngatoen"}
+,"ngatowa%27":{"h":[{"d":[{"s":["`mingatowa'~"],"f":"張口，張嘴。"}]}],"t":"ngatowa'"}
+,"ngatowa%27en":{"h":[{"d":[{"e":["￹`Ngatowa'en~ `ko~ `ngoyos~,`en~`engen~ `ako~ `ko~ `takolaw~ `iso~ !￺￻把嘴張開，我看看你的喉嚨！"],"f":"把嘴張開。"}]}],"stem":"ngatowa'","t":"ngatowa'en"}
+,"ngawa%27":{"h":[{"d":[{"f":"刀具券刃、豁口。"},{"s":["`mangawa'~"],"f":"缺牙，豁嘴。"}]}],"t":"ngawa'"}
+,"ngawen":{"h":[{"d":[{"s":["`cengawen~","`ca'engawen~"],"e":["￹`Ngawen~ `ko~ `mata~ `iso~！￺￻睜開你的眼睛！"],"f":"把(眼睛)睜開。"}]}],"stem":"ngaw","t":"ngawen"}
+,"ngawi%27":{"h":[{"d":[{"f":"嘴角，嘴角傷，流口水。"}]}],"t":"ngawi'"}
+,"ngawit":{"h":[{"d":[{"s":["`mingawit~"],"f":"扣動(扳機)，(魚兒)咬鈎。"}]}],"t":"ngawit"}
+,"ngawiten":{"h":[{"d":[{"f":"把…扣動、勾住。"}]}],"stem":"ngawit","t":"ngawiten"}
+,"ngawithan":{"h":[{"d":[{"e":["￹`Ngawithan~ `to~ `ira~ `koya~ `kowang~, `tela'sa~ `ko~ `soni~ `noya~ `kowang~.￺￻他於是把火槍一扣動板機，火槍啪地一聲響。"],"f":"於是把…扣動、勾住。"}]}],"stem":"ngawit","t":"ngawithan"}
+,"ngawngaw":{"h":[{"d":[{"s":["`mi~`ngawngaw~"],"f":"生吃瓜果類的清脆響聲。"}]}],"t":"ngawngaw"}
+,"ngawngawen":{"h":[{"d":[{"e":["￹`Nga'ay~ `ko~ `konga~ `a~ `ngawngawen~.￺￻番薯可以生吃。"],"f":"把…生吃。"}]}],"stem":"ngawngaw","t":"ngawngawen"}
+,"ngawngawsa":{"h":[{"d":[{"s":["`'aw'awsa~"],"e":["￹`Ngawngawsanay~ `a~ `mangatowa'~ `ko~ `ngoyos~ `no~ `lokedaw~.￺￻豹子張開嘴巴嗷嗷地叫著。"],"f":"嗷嗷地叫喚著。"}]}],"stem":"ngawngaw","t":"ngawngawsa"}
+,"ngayafan":{"h":[{"d":[{"f":"岸，堤岸。"}]}],"stem":"ngayaf","t":"ngayafan"}
+,"ngayangay":{"h":[{"d":[{"f":"臨時搭建的工棚、涼棚，田寮。"}]}],"t":"ngayangay"}
+,"ngefngef":{"h":[{"d":[{"f":"大口大口地吃。"}]}],"t":"ngefngef"}
+,"ngefngefsa":{"h":[{"d":[{"e":["￹`Ngefngefsa~ `ci~`nira~ `komaen~ `to~ `titi~.￺￻他在大口大口地吃肉。"],"f":"大口大口地吃著。"}]}],"stem":"ngefngef","t":"ngefngefsa"}
+,"ngela%27":{"h":[{"d":[{"f":"樹枝折斷聲，卡嚓一聲；木板、石壁裂開。"}]}],"t":"ngela'"}
+,"ngela%27sa":{"h":[{"d":[{"e":["￹`Tahataridengay~ `ko~ `kangkang~, `ngela'sa~ `ko~ `satoko~ `no~ `kangkang~ `a~ `mapitek~.￺￻木犁碰到了暗石，犁柱哢嚓一聲被折斷。"],"f":"哢嚓一聲響。"}]}],"stem":"ngela'","t":"ngela'sa"}
+,"ngelep":{"h":[{"d":[{"s":["`ma~`ngelep~"],"f":"咬碎(堅硬的東西)。"}]}],"t":"ngelep"}
+,"ngelngel":{"h":[{"d":[{"f":"付託、付撐、搭著(東西)之處。"}]}],"t":"ngelngel"}
+,"ngelngelan":{"h":[{"d":[{"f":"手腕。"},{"f":"牙床。"}]}],"stem":"ngelngel","t":"ngelngelan"}
+,"ngelo%27":{"h":[{"d":[{"s":["`mangelo'~"],"e":["￹`Mangelo'~ `ko~ `tireng~ `nira~ `to~ `ka~`rteng~ `no~ `inorong~.￺￻因重擔而身體勞累成疾。"],"f":"積勞成疾，勞累過度。"}]}],"t":"ngelo'"}
+,"ngengngeng":{"h":[{"d":[{"s":["`ma~`ngengngeng~"],"f":"蜜蜂的鳴叫聲。嗡嗡響。"}]}],"t":"ngengngeng"}
+,"ngeref":{"h":[{"d":[{"s":["`mangeref~"],"f":"(建築物)倒塌、坍塌。"}]}],"t":"ngeref"}
+,"ngeri%27":{"h":[{"d":[{"s":["`ma~`ngeri'~"],"f":"(開門聲)吱啞一聲響。"}]}],"t":"ngeri'"}
+,"ngeric":{"h":[{"d":[{"s":["`ma~`ngeric~"],"f":"(咬牙聲)哢吱一聲。"}]}],"t":"ngeric"}
+,"ngeringeri%27sa":{"h":[{"d":[{"e":["￹`Ngeringeri'sa~ `romadiw~ `koya~ `itatihiay~ `noya~ `'alo~ `a~ `tailangan~.￺￻河邊的碾子吱吱啞啞地唱著歌。"],"f":"吱啞吱啞地響著。"}]}],"tag":"[疊 2]","stem":"ngeri'","t":"ngeringeri'sa"}
+,"ngernger":{"h":[{"d":[{"s":["`mangernger~"],"e":["￹`Ngernger~ `ko~ `atol~`ay~ `i~ `dadaya~.￺￻昨晚因地震而山搖地動。"],"f":"震動，搖動。"}]}],"t":"ngernger"}
+,"ngerngersa":{"h":[{"d":[{"e":["￹`Nga'ay~ `ko~ `pikasoy~ `ako~ `i~ `'apilis~,`fahal~ `ngerngersa~ `ko~ `tokos~.￺￻我在山坡上正砍柴的時候，山突然震動起來。","￹`Ngerngersa~ `a~ `ma^emin~ `koya~ `maamaan~ `i~ `taliyok~.￺￻周圍所有的東西都處於震動的狀態。"],"f":"處於震動、搖動的狀態，震動著，搖動著。"}]}],"stem":"ngernger","t":"ngerngersa"}
+,"ngerongerot":{"h":[{"d":[{"f":"啃吃硬果的聲音，吭哧吭哧地響。"}]}],"tag":"[疊 1]","t":"ngerongerot"}
+,"ngerongerotsa":{"h":[{"d":[{"s":["`ngerotngerotsa~"],"f":"(啃吃的聲音)吭哧吭哧地響著。"}]}],"tag":"[疊 1]","stem":"ngerongerot","t":"ngerongerotsa"}
+,"ngerot":{"h":[{"d":[{"s":["`ma~`ngerot~"],"f":"啃吃硬果的聲音，吭哧一聲。"}]}],"t":"ngerot"}
+,"ngerotngerotsa":{"h":[{"d":[{"s":["`ngerongerotsa~"],"f":"(啃吃硬果的聲音)吭哧吭哧地響著。"}]}],"tag":"[疊 1]","stem":"ngerot","t":"ngerotngerotsa"}
+,"ngetnget":{"h":[{"d":[{"s":["`mingetnget~"],"f":"啃斷，咬斷。"}]}],"t":"ngetnget"}
+,"ngetngeten":{"h":[{"d":[{"e":["￹`Ngetngeten~ `no~ `'edo~ `ko~ `safalod~ `to~ `lalodisan~.￺￻老鼠把捆行李的繩子咬斷。","￹`Ngetngeten~ `nira~ `koya~ `safalod~ `no~ `pirofoan~ `a~ `milaliw~.￺￻他咬斷監獄的繩子逃跑。"],"f":"把…啃斷、咬斷。"}]}],"stem":"ngetnget","t":"ngetngeten"}
+,"ngeyangi":{"h":[{"d":[{"s":["`ngiyangi~","`ma~`ngeyangi~"],"f":"(樹木)搖動，吹動；內心感動。"}]}],"t":"ngeyangi"}
+,"ngicaw":{"h":[{"d":[{"s":["`ma~`ngicaw~"],"f":"(木頭等)有缺口、凹口。"}]}],"t":"ngicaw"}
+,"ngici%27":{"h":[{"d":[{"s":["`mangici'~"],"f":"(器物等)出現缺口、裂片兒。"}]}],"t":"ngici'"}
+,"ngiciw":{"h":[{"d":[{"s":["`mangiciw~"],"f":"(瓜果等)咬一口、剩半個兒。"}]}],"t":"ngiciw"}
+,"ngicngic":{"h":[{"d":[{"s":["`mi~`ngicngic~"],"f":"老鼠等啃吃，齧咬東西。"}]}],"t":"ngicngic"}
+,"ngicngicen":{"h":[{"d":[{"e":["￹`Ngicngicen~ `no~ `'edo~ `ko~ ê`pa~`ng~.￺￻老鼠把麵包齧咬。"],"f":"把…啃吃、齧咬。"}]}],"stem":"ngicngic","t":"ngicngicen"}
+,"ngida%27":{"h":[{"d":[{"s":["`ma~`ngida'~"],"f":"膽小，膽怯。怕生，怯眾。"}]}],"t":"ngida'"}
+,"ngidet":{"h":[{"d":[{"s":["`dinget~"],"f":"鼻涕。"}]}],"t":"ngidet"}
+,"ngidip":{"h":[{"d":[{"s":["`mingidip~"],"f":"窺視，窺探，偷看。"}]}],"t":"ngidip"}
+,"ngidipen":{"h":[{"d":[{"f":"把…窺視、窺探、偷看。"}]}],"stem":"ngidip","t":"ngidipen"}
+,"ngidot":{"h":[{"d":[{"s":["`nai~`dot~","`ma~`ngidot~"],"f":"怯生，怯場。"}]}],"t":"ngidot"}
+,"ngiep":{"h":[{"d":[{"s":["`mangiep~"],"f":"(嘴巴等)扭曲，凹陷，壓癟。"}]}],"t":"ngiep"}
+,"ngiha%27":{"h":[{"d":[{"f":"嗓音，聲音。"}]}],"t":"ngiha'"}
+,"ngihaw":{"h":[{"d":[{"s":["`ma~`ngihaw~"],"f":"凹陷、壓癟一大口子。"}]}],"t":"ngihaw"}
+,"ngihef":{"h":[{"d":[{"s":["`ma~`ngihef~"],"f":"因缺齒致使嘴巴凹陷。"}]}],"t":"ngihef"}
+,"ngihot":{"h":[{"d":[{"s":["`mi~`ngihot~","`ma~`ngihot~`ay~"],"f":"掏挖、空心。"}]}],"t":"ngihot"}
+,"ngihoten":{"h":[{"d":[{"f":"把…摳個口子。"}]}],"stem":"ngihot","t":"ngihoten"}
+,"ngilay":{"h":[{"d":[{"s":["`ma~`ngilay~"],"f":"說話大舌頭，結巴，口吃，口齒不清。"}]}],"t":"ngilay"}
+,"ngilos":{"h":[{"d":[{"s":["`mangilos~"],"e":["￹`Pakakaay~ `ko~ `ngilos~ `no~ `faloco'~ `ira~.￺￻他的內心醜惡之極。"],"f":"醜陋，醜惡，陰險，心術不正。"}]}],"t":"ngilos"}
+,"ngingic":{"h":[{"d":[{"s":["`ngingit~","`mi~`ngingic~"],"f":"一點一點地吃。"}]}],"t":"ngingic"}
+,"ngingicen":{"h":[{"d":[{"s":["`ngingiten~"],"f":"把…一點一點地吃。"}]}],"stem":"ngingic","t":"ngingicen"}
+,"ngingit":{"h":[{"d":[{"s":["`ngingic~","`mingingit~"],"f":"一點一點地吃。"}]}],"t":"ngingit"}
+,"ngingiten":{"h":[{"d":[{"s":["`ngingicen~"],"f":"把…一點一點地吃。"}]}],"stem":"ngingit","t":"ngingiten"}
+,"ngingoy":{"h":[{"d":[{"s":["`mingingoy~"],"f":"洗澡，洗浴。"}]}],"t":"ngingoy"}
+,"ngingoyan":{"h":[{"d":[{"s":["`pi~`ngingoy~`an~","`liloc~","`ino'~"],"f":"洗澡、洗浴的地方。"}]}],"stem":"ngingoy","t":"ngingoyan"}
+,"ngingoyen":{"h":[{"d":[{"f":"讓…洗澡、洗浴，請洗澡吧，洗浴吧。"}]}],"stem":"ngingoy","t":"ngingoyen"}
+,"ngiraw":{"h":[{"d":[{"s":["`mingiraw~"],"f":"參加慶典宴會，赴宴。"}]}],"t":"ngiraw"}
+,"ngirawen":{"h":[{"d":[{"e":["￹`Ngirawen~ `ko~ `^epah~ !￺￻赴宴討酒喝！"],"f":"請赴宴。"}]}],"stem":"ngiraw","t":"ngirawen"}
+,"ngirawsa":{"h":[{"d":[{"e":["￹`Ngirawsa~ `canira~ `romadiw~ `a~ `minokay~.￺￻他們像赴宴似的唱歌回去。"],"f":"參加宴會似的，赴宴一樣。"}]}],"stem":"ngiraw","t":"ngirawsa"}
+,"ngiriw":{"h":[{"d":[{"s":["`ma~`ngiriw~"],"f":"瘦小，瘦弱。"}]}],"t":"ngiriw"}
+,"ngirngir":{"h":[{"d":[{"s":["`mingirngir~"],"f":"撓癢，搔癢。"}]}],"t":"ngirngir"}
+,"ngirngiren":{"h":[{"d":[{"f":"把(給)… 撓癢、搔癢。"}]}],"stem":"ngirngir","t":"ngirngiren"}
+,"ngiro":{"h":[{"d":[{"s":["`ringo~","`mingiro~"],"f":"烤火取暖。"}]}],"t":"ngiro"}
+,"ngiroen":{"h":[{"d":[{"f":"把(給)…烤火取暖。"}]}],"stem":"ngiro","t":"ngiroen"}
+,"ngisngis":{"h":[{"d":[{"f":"鬍子，鬍鬚。"}]}],"t":"ngisngis"}
+,"ngitangit":{"h":[{"d":[{"s":["`mingitangit~"],"f":"懇求，央求。"}]}],"t":"ngitangit"}
+,"ngitangiten":{"h":[{"d":[{"e":["￹`Cima~ `ko~ `ngitangiten~ `iso~ `saw~?￺￻你要向誰懇求呢？","￹`Ngitangiten~ `nira~ `ko~ `hemay~ `a~ `komaen~.￺￻他要年糕吃。","￹`Tangicsa~ `ngitangiten~ `no~ `kapah~ `ko~ `kaying~ `ci~`nira~.￺￻年青人哭著向她央求。"],"f":"把(向)… 懇求、央求。"}]}],"stem":"ngitangit","t":"ngitangiten"}
+,"ngitid":{"h":[{"d":[{"s":["`mi~`ngitid~"],"f":"用嘴叼銜東西。"}]}],"t":"ngitid"}
+,"ngitiden":{"h":[{"d":[{"e":["￹`Ngitiden~ `no~ `waco~ `ko~ `cokap~ `ira~.￺￻狗把他的鞋叼走。"],"f":"把…叼銜。"}]}],"stem":"ngitid","t":"ngitiden"}
+,"ngitir":{"h":[{"d":[{"s":["`ma~`ngitir~"],"f":"套住一點點。"}]}],"t":"ngitir"}
+,"ngitngit":{"h":[{"d":[{"s":["`mingitngit~"],"f":"啃吃，齧咬。"}]}],"t":"ngitngit"}
+,"ngitngiten":{"h":[{"d":[{"e":["￹`Ngitngiten~ `no~ `siri~ `ko~ `tolak~ `no~ `rengos~ `a~ `komaen~.￺￻羊把草皮啃吃。"],"f":"把…啃吃、齧咬。"}]}],"stem":"ngitngit","t":"ngitngiten"}
+,"ngitngithan":{"h":[{"d":[{"e":["￹`Awa~ `a~ `maala~ `ko~ `kakaenen~, `ngitngithan~ `to~ `no~ `tomay~ `ko~ `tolak~ `no~ `kilang~ `ato~ `lamit~ `no~ `rengos~ `a~ `komaen~.￺￻沒有東西可吃，熊於是就吃樹皮和草裉。"],"f":"特地把…啃吃、齧咬。"}]}],"stem":"ngitngit","t":"ngitngithan"}
+,"ngito%27":{"h":[{"d":[{"s":["`mi~`ngito'~"],"f":"缺齒，拔牙。"}]}],"t":"ngito'"}
+,"ngito%27en":{"h":[{"d":[{"e":["￹`Ngito'en~ `no~ `ising~ `ko~ `malaholay~(`ma~`nahal~`ay~)`a~ `wadis~.￺￻醫生把蛀牙拔掉。"],"f":"把(牙齒)拔去。"}]}],"stem":"ngito'","t":"ngito'en"}
+,"ngiwal":{"h":[{"d":[{"s":["`mi~`ngiwal~"],"f":"撬，摳。"}]}],"t":"ngiwal"}
+,"ngiwalen":{"h":[{"d":[{"f":"把…撬去、摳去。"}]}],"stem":"ngiwal","t":"ngiwalen"}
+,"ngiwit":{"h":[{"d":[{"s":["`ma~`ngiwit~"],"f":"歪嘴。"}]}],"t":"ngiwit"}
+,"ngiwngiw":{"h":[{"d":[{"s":["`mingiwngiw~"],"f":"掏耳朵，挖耳朵；說人家的壞話。"}]}],"t":"ngiwngiw"}
+,"ngiwngiwen":{"h":[{"d":[{"e":["￹`Ngiwngiwen~ `nora~ `wawa~ `ko~ `tangila~ `ira~.￺￻那個孩子要掏自己的耳朵。"],"f":"把(耳朵)掏了。"}]}],"stem":"ngiwngiw","t":"ngiwngiwen"}
+,"ngiwngiwhan":{"h":[{"d":[{"e":["￹`Caenget~ `ko~ `tangila~ `'i~,`ngiwngiwhan~ `ira~.￺￻當她耳朵發癢的時候，她特地掏了掏耳朵。"],"f":"特地把…一掏，於是就把(耳朵)掏淨。"}]}],"stem":"ngiwngiw","t":"ngiwngiwhan"}
+,"ngiya%27":{"h":[{"d":[{"s":["`mangiya'~"],"f":"因負載過重而散架。"}]}],"t":"ngiya'"}
+,"ngiyangi%27":{"h":[{"d":[{"s":["`mi~`ngiyangi'~"],"f":"搖動，搖擺。"}]}],"t":"ngiyangi'"}
+,"ngiyangi%27en":{"h":[{"d":[{"e":["￹`Aka~ `ngiyangi'en~ `koni~ `a~ `kilang~.￺￻不要搖這棵樹！"],"f":"把…搖動、搖擺。"}]}],"stem":"ngiyangi'","t":"ngiyangi'en"}
+,"ngiyaw":{"h":[{"d":[{"f":"貓叫聲。喵喵叫。"}]}],"t":"ngiyaw"}
+,"ngo%27ot":{"h":[{"d":[{"s":["`mi~`ngo'ot~"],"f":"滿足，心滿意足。"}]}],"t":"ngo'ot"}
+,"ngo%27oten":{"h":[{"d":[{"e":["￹`Ca~ `ngo'oten~ `naira~.￺￻他們感到不滿足。"],"f":"對…感到滿足。"}]}],"stem":"ngo'ot","t":"ngo'oten"}
+,"ngocedis":{"h":[{"d":[{"s":["`mangocedis~"],"f":"呲牙咧嘴，大牙暴露在外。"}]}],"t":"ngocedis"}
+,"ngocih":{"h":[{"d":[{"s":["`mangocih~"],"f":"(人)切嘴。"}]}],"t":"ngocih"}
+,"ngodangod":{"h":[{"d":[{"s":["`ngohangoh~","`mingodangod~"],"f":"牙齒、柱子等鬆動、鬆弛、活動。"}]}],"t":"ngodangod"}
+,"ngodangoden":{"h":[{"d":[{"s":["`ngohangohen~"],"f":"把…鬆動、鬆弛。"}]}],"stem":"ngodangod","t":"ngodangoden"}
+,"ngodo":{"h":[{"d":[{"s":["`mangodo~"],"f":"害羞，害臊，羞恥；客氣，禮讓，尊敬。"}]}],"t":"ngodo"}
+,"ngohah":{"h":[{"d":[{"e":["￹`O~ `ngohah~ `no~ `wawa~ `ako~ `kora~ `makapahay~ `a~ `kaying~.￺￻那漂亮的小姐是我兒子的女朋友。"],"f":"朋友，情人。"}]}],"t":"ngohah"}
+,"ngohangoh":{"h":[{"d":[{"s":["`ngodangod~","`mingohangoh~"],"f":"牙齒、柱子等鬆動、鬆弛。"}]}],"t":"ngohangoh"}
+,"ngohangohen":{"h":[{"d":[{"s":["`ngodangoden~"],"e":["￹`Ngohangohen~ `to~ `naira~ `ko~ `'adipel~.￺￻他們把籬笆鬆動了。"],"f":"把…鬆弛、鬆動。"}]}],"stem":"ngohangoh","t":"ngohangohen"}
+,"ngohed":{"h":[{"d":[{"f":"齲齒，蟲牙。"}]}],"t":"ngohed"}
+,"ngoraran":{"h":[{"d":[{"s":["`langel~`ngelan~"],"f":"手腕的關節。"}]}],"stem":"ngongor","t":"ngoraran"}
+,"ngorefit":{"h":[{"d":[{"s":["`mi~`ngorefit~"],"f":"孩子努嘴、撇嘴。"}]}],"t":"ngorefit"}
+,"ngorefiten":{"h":[{"d":[{"f":"對…努嘴、撇嘴。"}]}],"stem":"ngorefit","t":"ngorefiten"}
+,"ngorngor":{"h":[{"d":[{"s":["`mi~`ngorngor~"],"f":"豬等動物用鼻子翻土、拱土。"}]}],"t":"ngorngor"}
+,"ngorngoren":{"h":[{"d":[{"f":"把(土)拱起來，翻起來。"}]}],"stem":"ngorngor","t":"ngorngoren"}
+,"ngoset":{"h":[{"d":[{"s":["`dinget~"],"f":"鼻涕。"}]}],"t":"ngoset"}
+,"ngosingos":{"h":[{"d":[{"s":["`ngosngos~","`mi~`ngosingos~"],"f":"生吃瓜果、蔬菜。"}]}],"t":"ngosingos"}
+,"ngosingosen":{"h":[{"d":[{"s":["`ngosngosen~"],"f":"把…生吃。"}]}],"stem":"ngosingos","t":"ngosingosen"}
+,"ngosngos":{"h":[{"d":[{"s":["`ngosingos~","`mingosngos~"],"f":"生吃瓜果、蔬菜。"}]}],"t":"ngosngos"}
+,"ngosngosen":{"h":[{"d":[{"s":["`ngosingosen~"],"f":"把…生吃。"}]}],"stem":"ngosngos","t":"ngosngosen"}
+,"ngoso%27":{"h":[{"d":[{"f":"鼻子。"}]}],"t":"ngoso'"}
+,"ngota":{"h":[{"d":[{"s":["`mingota~"],"f":"渾濁，污濁。"}]}],"t":"ngota"}
+,"ngotaen":{"h":[{"d":[{"e":["￹`Ngotaen~ `no~ `wawa~ `ko~ `nanom~ `no~ `ciwkeng~.￺￻孩子把水缸裏的水攪渾。"],"f":"把…弄渾、攪渾。"}]}],"stem":"ngota","t":"ngotaen"}
+,"ngoto":{"h":[{"d":[{"s":["`mangangoto~"],"e":["￹`Mangangoto~ `ko~ `nama~`ramod~`ay~.￺￻這對夫妻相對附耳。"],"f":"兩人相對附耳。"}]}],"t":"ngoto"}
+,"ngotoc":{"h":[{"d":[{"e":["￹`Aka~ `patedo~ `a~ `mifalah~ `to~ `ngotoc~.￺￻不要亂丟煙蒂。"],"f":"煙頭，煙蒂。"}]}],"t":"ngotoc"}
+,"ngowi%27":{"h":[{"d":[{"s":["`ma~`ngowi'~"],"e":["￹`Ngowi'sa~ `kora~ `kolong~ `to~ `cahiw~ `nira~.￺￻這頭牛餓得哞哞叫。"],"f":"牛叫聲。哞。"}]}],"t":"ngowi'"}
+,"ngoyangoy":{"h":[{"d":[{"f":"搖動，搖晃。"}]}],"t":"ngoyangoy"}
+,"ngoyangoyen":{"h":[{"d":[{"e":["￹`Ngoyangoyen~ `ako~ `kiso~ `a~ `mipalal~.￺￻我要把你搖醒。","￹`Aka~ `ngoyangoyen~ `ko~ `paliding~ `ako~.￺￻不要搖動我的車。"],"f":"把…搖動、搖晃。"}]}],"stem":"ngoyangoy","t":"ngoyangoyen"}
+,"ngoyngoy":{"h":[{"d":[{"s":["`ongong~"],"e":["￹`Maliyas~ `no~ `wawa~ `nira~, `hgoyngoysa~ `ko~ `tangic~ `nona~ `ina~.￺￻因孩子離開，這位母親傷心痛哭。"],"f":"傷心大哭，痛哭。"}]}],"t":"ngoyngoy"}
+,"ngoyos":{"h":[{"d":[{"e":["￹`Mafana'~ `ko~ `ngoyos~ `ira~.￺￻她口齒伶俐。","￹`Tatiih~ `ko~ `ngoyos~ `ira~.￺￻他說話傷人。"],"f":"嘴，嘴巴；口齒。"}]}],"t":"ngoyos"}
+,"ni":{"h":[{"d":[{"s":["`mi~"],"f":"前綴。"}]},{"d":[{"e":["￹`Tilid~ `niKa~`c~`aw~.￺￻Kacaw(卡兆)的書。","￹`Pacing~ `ni~`wama~.￺￻父親的漁槍。"],"f":"前綴。表示人名詞和親屬稱謂詞的領有格形態。"}]},{"d":[{"s":["`mi~"],"f":"前綴。後面加 -an"}]}],"t":"ni"}
+,"nia":{"h":[{"d":[{"s":["`niya~"],"f":"指示代詞，領有格形態。這，這個，這些；這個的，這些的。"}]}],"t":"nia"}
+,"niayin":{"h":[{"d":[{"s":["`ma~`inayin~"],"f":"鴨行貌，跩。"}]}],"t":"niayin"}
+,"nihar":{"h":[{"d":[{"s":["`manihar~"],"f":"黎明，拂曉，天亮。"}]}],"t":"nihar"}
+,"nika":{"h":[{"d":[{"s":["`mika~"],"f":"前綴。"}]}],"t":"nika"}
+,"nikar":{"h":[{"d":[{"s":["`ma~`nikar~"],"f":"趕早起來做飯。"}]}],"t":"nikar"}
+,"nikaw":{"h":[{"d":[{"s":["`manikaw~"],"f":"缺乏，匱乏。"}]}],"t":"nikaw"}
+,"nikawra":{"h":[{"d":[{"s":["`kawra~","`nikawrira~"],"e":["￹`Ta'angayay~ `ko~ `fali~ `anini~ `'i~, `nikawra~ `cowa~ `ka~`si^enaw~.￺￻今天風大，但是不冷。"],"f":"連接詞。但是，可是，然而。"}]}],"t":"nikawra"}
+,"nikawrira":{"h":[{"d":[{"s":["`kawra~","`nikawra~"],"e":["￹`Kilimen~ `naira~ `a~ `talacowacowa~ `a~ `mipatapal~, `nikawrira~ `awaay~ `ko~ `maan~ `aca~ `a~ `ca'of~.￺￻他們到處喊著尋找，可是卻沒有什麼回音。"],"f":"連接詞。但是，可是，然而。"}]}],"t":"nikawrira"}
+,"niki":{"h":[{"d":[{"s":["`miki~"],"f":"前綴。"}]}],"t":"niki"}
+,"nikifi":{"h":[{"d":[{"f":"青春痘〈日語借詞〉。"}]}],"t":"nikifi"}
+,"nikiw":{"h":[{"d":[{"s":["`minikiw~"],"f":"翻動東西，翻箱倒櫃。"}]}],"t":"nikiw"}
+,"nikiwen":{"h":[{"d":[{"f":"把…翻動、翻箱倒櫃。"}]}],"stem":"nikiw","t":"nikiwen"}
+,"nikutay":{"h":[{"d":[{"f":"領帶〈日語借詞〉。"}]}],"t":"nikutay"}
+,"nima":{"h":[{"d":[{"f":"人稱疑問代詞。領有格形態。誰，誰的。"}]}],"t":"nima"}
+,"nina%27":{"h":[{"d":[{"s":["`'imer~","`mi~`nina'~"],"f":"節儉，節約。"}]}],"t":"nina'"}
+,"nina%27en":{"h":[{"d":[{"s":["`'imeren~"],"f":"把…節儉、節約。"}]}],"stem":"nina'","t":"nina'en"}
+,"ningkiw":{"h":[{"d":[{"f":"洋娃娃〈日語借詞〉。"}]}],"t":"ningkiw"}
+,"ninip":{"h":[{"d":[{"f":"啜飲，一口一口地喝。"}]}],"t":"ninip"}
+,"ninipen":{"h":[{"d":[{"f":"把…啜飲、一口一口地喝。"}]}],"stem":"ninip","t":"ninipen"}
+,"ninir":{"h":[{"d":[{"f":"逐步接近、靠近、達到目標。"}]}],"t":"ninir"}
+,"niniren":{"h":[{"d":[{"s":["`nonor~","`nornor~","`no~`noen~","`nor~`noren~","`mininir~"],"f":"逐步把…接近、靠近、達到。"}]}],"stem":"ninir","t":"niniren"}
+,"nipa":{"h":[{"d":[{"s":["`mi~`pa~"],"f":"前綴。"}]}],"t":"nipa"}
+,"nipi":{"h":[{"d":[{"s":["`mi~`pi~"],"f":"前綴。"}]}],"t":"nipi"}
+,"nira":{"h":[{"d":[{"s":["`ni~`ira~","`ningra~"],"f":"第三人稱代詞。單數，領有格、獨立式形態。他，他的；她，她的；它，它的。"}]}],"t":"nira"}
+,"nisa":{"h":[{"d":[{"s":["`misa~"],"f":"前綴。"}]}],"t":"nisa"}
+,"nisnis":{"h":[{"d":[{"s":["`minisnis~"],"f":"割草，鏟草，割田埂草。"}]}],"t":"nisnis"}
+,"nisnisen":{"h":[{"d":[{"f":"把(草)割去、剷除。"}]}],"stem":"nisnis","t":"nisnisen"}
+,"niwaniw":{"h":[{"d":[{"s":["`kapkap~","`miniwaniw~"],"f":"涮鍋。"}]},{"d":[{"f":"稻田除草。"}]}],"t":"niwaniw"}
+,"niwaniwen":{"h":[{"d":[{"e":["￹`Niwaniwen~ `ko~ `dangah~.￺￻把鍋涮一涮。"],"f":"把…洗涮。"}]},{"d":[{"f":"薅草。"}]}],"stem":"niwaniw","t":"niwaniwen"}
+,"niwsu":{"h":[{"d":[{"s":["`sinpon~〈日語借詞〉"],"f":"新聞〈日英語借詞〉。"}]}],"t":"niwsu"}
+,"niya":{"h":[{"d":[{"s":["`nia~"],"f":"指示代詞。領有格形態。這，這個，這些；這個的，這些的。"}]}],"t":"niya"}
+,"niyah":{"h":[{"d":[{"f":"自己，自身，自個兒。"}]}],"t":"niyah"}
+,"niyani%27":{"h":[{"d":[{"s":["`seksek~","`mi~`niyani'~"],"f":"搖動麻袋使之裝的更多、更扎實。"}]}],"t":"niyani'"}
+,"niyani%27en":{"h":[{"d":[{"s":["`sekseken~"],"f":"把…搖動使之裝的更多、更扎實。"}]}],"stem":"niyani'","t":"niyani'en"}
+,"niyaro%27":{"h":[{"d":[{"f":"部落，村莊，聚落，社。"}]}],"stem":"aro'","t":"niyaro'"}
+,"niyaroyaro%27":{"h":[{"d":[{"e":["￹`Tayra~ `kita~ `i~ `niyaroyaro'~ `no~ `'Amis~.￺￻我們去阿美族的各個村子裏。"],"f":"各個部落、村莊。"}]}],"tag":"[疊 1]","stem":"niyaro'","t":"niyaroyaro'"}
+,"no":{"h":[{"d":[{"f":"前綴。表示領屬、領有、所有等意義。Notimolan南方的。Noyanan 此後，從那時候起。"}]},{"d":[{"s":["`nona~"],"f":"從，自從，從… 開始。"}]},{"d":[{"f":"結構助詞。主要表示："},{"e":["￹`Wa'a~ `no~ `kolong~.￺￻牛角。","￹`Niyaro'~ `no~ `'Amis~.￺￻阿美族的部落。"],"f":"領屬，領有，所有。"},{"e":["￹`Matengilay~ `to~ `no~ `wawa~ `ko~ `honi~ `no~ `'ayam~.￺￻孩子聽見了鳥的叫聲。"],"f":"被動行為的受動者。"},{"e":["￹`Miseti'an~ `ni~ `kaka~ `koya~ `waco~.￺￻哥哥把那只狗打了。"],"f":"處置行為的施動者。"}]}],"t":"no"}
+,"no%27amisan":{"h":[{"d":[{"e":["￹`No'amisan~ `no~ `'alo~.￺￻河的北邊，北岸。"],"f":"北方，某地以北。"}]}],"stem":"'amis","t":"no'amisan"}
+,"no%27eno%27":{"h":[{"d":[{"s":["`na~`'eno~","`no'no'~","`ma~`'eno'~"],"f":"傷口潰瘍、腐爛、潰爛。"}]}],"t":"no'eno'"}
+,"no%27i":{"h":[{"d":[{"s":["`ma~`no'i~"],"f":"就地打滾 , 翻滾。"}]}],"t":"no'i"}
+,"no%27no%27":{"h":[{"d":[{"s":["`na~`'eno~","`no'eno'~","`mano'no'~"],"f":"傷口潰瘍、腐爛、潰爛。"}]}],"t":"no'no'"}
+,"nocik":{"h":[{"d":[{"s":["`locik~","`mi~`nocik~"],"f":"扒拉開(鍋裏的飯)。"}]}],"t":"nocik"}
+,"nociken":{"h":[{"d":[{"s":["`lociken~"],"f":"把…扒拉開。"}]}],"stem":"nocik","t":"nociken"}
+,"nohatini":{"h":[{"d":[{"f":"現在，當今。"},{"f":"那麼，那樣吧。"}]}],"stem":"tini","t":"nohatini"}
+,"nohatira":{"h":[{"d":[{"f":"現在，當今。"},{"f":"那麼，這樣，如此。"}]}],"stem":"tira","t":"nohatira"}
+,"nohir":{"h":[{"d":[{"s":["`ma~`nohir~"],"f":"(因事故)在地上打滾、翻滾。"}]}],"t":"nohir"}
+,"noka":{"h":[{"d":[{"s":["`monoka~"],"f":"紡紗，撚線。"}]}],"t":"noka"}
+,"noka%27oripan":{"h":[{"d":[{"f":"有生以來，一生。"}]}],"stem":"'orip","t":"noka'oripan"}
+,"nokaen":{"h":[{"d":[{"f":"把(紗線)紡織、撚線。"}]}],"stem":"noka","t":"nokaen"}
+,"nokay":{"h":[{"d":[{"f":"回去，回家。"}]}],"t":"nokay"}
+,"nokayen":{"h":[{"d":[{"f":"把…(送)回去、回家，回去吧，回家吧。"}]}],"stem":"nokay","t":"nokayen"}
+,"noli":{"h":[{"d":[{"f":"醬糊〈日語借詞〉。"}]}],"t":"noli"}
+,"nona":{"h":[{"d":[{"e":["￹`O~ `loma'~ `nona~ `tamdaw~.￺￻這個人的房子。"],"f":"指示代詞 noni 與助詞 a 連讀的形態。這，這個，這些；這個的，這些的。"}]}],"t":"nona"}
+,"noneng":{"h":[{"d":[{"s":["`ma~`noneng~"],"f":"小心愛護不使損壞，珍重，保重。"}]}],"t":"noneng"}
+,"nongki":{"h":[{"d":[{"f":"舒適，舒服，休閒，安逸。"}]}],"tag":"[日本語借詞]","t":"nongki"}
+,"noni":{"h":[{"d":[{"s":["`nonini~"],"e":["￹`Sasing~ `noni~ `a~ `kaying~.￺￻這個小姐的相片。"],"f":"指示代詞。領格形態。這，這個，這些；這個的，這些的。"}]}],"t":"noni"}
+,"nonini":{"h":[{"d":[{"s":["`noni~"],"f":"指示代詞。領格形態。這，這個，這些；這個的，這些的。"}]}],"t":"nonini"}
+,"nono%27":{"h":[{"d":[{"s":["`manono'~"],"f":"炫耀，誇耀。"}]}],"t":"nono'"}
+,"nonoh":{"h":[{"d":[{"s":["`minonoh~"],"f":"要東西，撿拾破爛東西。"}]}],"t":"nonoh"}
+,"nonohen":{"h":[{"d":[{"e":["￹`Falahen~ `iso~, `nonohen~ `ako~.￺￻你丟我撿。"],"f":"向他人要東西，把…撿拾起來。"}]}],"stem":"nonoh","t":"nonohen"}
+,"nonol":{"h":[{"d":[{"f":"脛骨，小腿。"}]}],"t":"nonol"}
+,"nonor":{"h":[{"d":[{"s":["`ni~`rnir~","`nornor~","`minonor~"],"f":"逐步接近、靠近、達到目標。"}]}],"t":"nonor"}
+,"nonoren":{"h":[{"d":[{"s":["`ni~`rniren~","`nor~`noren~"],"f":"向…逐步接近、靠近、達到。"}]}],"stem":"nonor","t":"nonoren"}
+,"nora":{"h":[{"d":[{"s":["`noranan~","`norira~"],"f":"指示代詞。領有格形態。那，那個，那些；那個的，那些的。"}]}],"t":"nora"}
+,"noranan":{"h":[{"d":[{"s":["`nora~","`norira~"],"f":"指示代詞。領有格形態。那，那個，那些；那個的，那些的。"}]}],"t":"noranan"}
+,"norira":{"h":[{"d":[{"s":["`nora~","`noranan~"],"f":"指示代詞。領有格形態。那，那個，那些；那個的，那些的。"}]}],"t":"norira"}
+,"notimolan":{"h":[{"d":[{"e":["￹`Notimolan~ `no~ `'alo~.￺￻河的南邊，南岸。"],"f":"南方，某處以南。"}]}],"stem":"timol","t":"notimolan"}
+,"noya":{"h":[{"d":[{"f":"指示代詞。領有格形態。那，那個，那些；那個的，那些的。"}]}],"t":"noya"}
+,"noyanan%20saan":{"h":[{"d":[{"f":"(短語)。從那以後，此後，然後。"}]}],"t":"noyanan saan"}
+,"noyanan%20to":{"h":[{"d":[{"f":"(短語)。此後，然後。"}]}],"t":"noyanan to"}
+}

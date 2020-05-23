@@ -1,0 +1,7 @@
+{"Nafakoan":{"h":[{"d":[{"f":"部落名稱，今台灣花蓮市花崗山地一帶。"}]}],"t":"Nafakoan"}
+,"Nakilangan":{"h":[{"d":[{"f":""}]}],"t":"Nakilangan"}
+,"Namoh":{"h":[{"d":[{"f":"阿美族男性人名。"}]}],"t":"Namoh"}
+,"Nanokesan":{"h":[{"d":[{"f":""}]}],"t":"Nanokesan"}
+,"Natawran":{"h":[{"d":[{"f":"部落名稱。今台灣花蓮市田埔。"}]}],"t":"Natawran"}
+,"Nayil":{"h":[{"d":[{"e":["￹`Nayil~ `a~ `'alo~.￺￻尼羅河[英語借詞]。"],"f":"尼羅河。"}]}],"t":"Nayil"}
+}

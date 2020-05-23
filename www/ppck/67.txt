@@ -1,0 +1,7 @@
+{"Cikor":{"h":[{"d":[{"s":["`cikor~"],"f":"￹￺Refer to `cikor~￻詳見 `cikor~"}]}],"t":"Cikor"}
+,"Cikowa%27ay":{"h":[{"d":[{"s":["`kowa'~"],"f":"￹￺name of an Amis village￻池上鄉雷光部落之名"}]}],"t":"Cikowa'ay"}
+,"Cingaloan":{"h":[{"d":[{"s":["`cingaloan~"],"f":"￹￺Refer to `cingaloan~￻詳見 `cingaloan~"}]}],"t":"Cingaloan"}
+,"Ciokangan":{"h":[{"d":[{"s":["`ciokangan~"],"f":"￹￺Refer to `ciokangan~￻詳見 `ciokangan~"}]}],"t":"Ciokangan"}
+,"Ciriyahan":{"h":[{"d":[{"s":["`ciriyahan~"],"f":"￹￺Refer to `ciriyahan~￻詳見 `ciriyahan~"}]}],"t":"Ciriyahan"}
+,"Ciwidian":{"h":[{"d":[{"s":["`widi~"],"f":"￹￺place that has leeches * name of an Amis village￻產水蛭的地方，花蓮縣壽豐鄉水璉部落名"}]}],"t":"Ciwidian"}
+}

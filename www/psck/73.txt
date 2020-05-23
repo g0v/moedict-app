@@ -1,0 +1,7 @@
+{"Inafaran":{"h":[{"d":[{"f":"部落名稱，今台灣台東市卑南鄉嘉豐部落。"}]}],"t":"Inafaran"}
+,"Indiyan":{"h":[{"d":[{"e":["￹`Tayniay~ `ko~ `Indiyan~ `a~ `tamdaw~ `a~ `makero~.￺￻印地安人來此跳舞。"],"f":"印第安，印第安人。(英語借詞)"}]}],"t":"Indiyan"}
+,"Ining":{"h":[{"d":[{"e":["￹`Mangata~ `niyam~ `ko~ `Ining~ `a~ `niyaro'~.￺￻我們離康樂很近。"],"f":"部落名稱，今台灣台東市康樂村。"}]}],"t":"Ining"}
+,"Into":{"h":[{"d":[{"e":["￹`Caayho~ `ka~ `tayra~ `kako~ `i~ `Into~.￺￻我未曾到過印度。"],"f":"印度。"}]}],"tag":"[英語借詞]","t":"Into"}
+,"Israil":{"h":[{"d":[{"e":["￹`Tayra~ `kako~ `i~ `Israil~ `anomamiheca~ `a~ `mikapot~ `to~ `sa'opo~.￺￻我明年要到以色列出席會議。"],"f":"以色列國，以色列人。( 英語借詞 )。"}]}],"t":"Israil"}
+,"Iwatan":{"h":[{"d":[{"s":["`Ponon~","`Manowan~"],"e":["￹`Hali~`'adop~ `ko~ `Iwatan~.￺￻布農族是善於打獵的民族。"],"f":"台灣布農族人。"}]}],"t":"Iwatan"}
+}

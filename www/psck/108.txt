@@ -1,0 +1,906 @@
+{"l":{"h":[{"d":[{"f":"阿美語輔音之一。屬舌尖中濁邊音，音值為[l]。"}]}],"t":"l"}
+,"la":{"h":[{"d":[{"f":"前綴。主要表示："},{"e":["￹`la'alilis~￺￻變成鷹；lakapah 長大成人。"],"f":"變成，演變成。"},{"e":["￹`Lacoyacoy~￺￻大橋組。"],"f":"(雙方)彼此互為，互相結成某種關係。lawidang 成為朋友；lakayat 手拉手；年齡階梯組織各組之名稱之前加之。如"},{"f":"具有某種突出的特性、品質。lata'ang 自大，自負；lamo'cel 公正，誠實。"}]}],"t":"la"}
+,"la%27afa%27afas":{"h":[{"d":[{"s":["`mala'afa'afas~"],"e":["￹`La'afa'afas~ `to~ `mali~.￺￻爭球。"],"f":"大家互相爭搶、搶奪。"}]}],"tag":"[疊 2]","stem":"'afas","t":"la'afa'afas"}
+,"la%27afa%27afassa":{"h":[{"d":[{"e":["￹`Mi'orong~ `sa~ `to~ `kakaenen~ ,`la'afa'afassa~ `cangra~ `a~ `tayra~.￺￻一說去挑糧食，他們就爭先恐後地去。","￹`Ma'orad~ `itiya~ , `la'afa'afassa~ `kami~ `tayra~ `ingataay~ `a~ `patiyamay~ `a~ `mikilidong~.￺￻當時一下雨，我們就搶著去商店近處避雨。"],"f":"大家互相爭奪著，爭先恐後地。"}]}],"tag":"[疊 2]","stem":"'afas","t":"la'afa'afassa"}
+,"la%27afas":{"h":[{"d":[{"s":["`mala'afas~"],"e":["￹`La'afas~ `to~ `kakaenen~ `ko~ `pakoyoc~ `a~ `tamdaw~.￺￻窮人爭食。"],"f":"雙方互相搶，彼此爭奪。"}]}],"stem":"'afas","t":"la'afas"}
+,"la%27afo":{"h":[{"d":[{"s":["`mala~`'afo~"],"e":["￹`La'afo~ `ko~ `kasoy~.￺￻木材燒成灰燼。"],"f":"燒成灰燼，變成灰。"}]}],"stem":"'afo","t":"la'afo"}
+,"la%27afosa":{"h":[{"d":[{"e":["￹`La'afosa~ `ko~ `lotok~ `ato~ `talod~ `icowacowa~.￺￻森林和草地處處被燒成灰燼。"],"f":"燒成灰燼似的。"}]}],"stem":"'afo","t":"la'afosa"}
+,"la%27ecaan":{"h":[{"d":[{"s":["`mala'ecaan~"],"e":["￹`Mala'ecaan~ `ko~ `tireng~ `no~ `mamo~.￺￻阿媽久病不癒。"],"f":"變得不健康、多病，久病不癒。"}]}],"stem":"'eca","t":"la'ecaan"}
+,"la%27ed":{"h":[{"d":[{"e":["￹`Ka~`kahaden~ `ko~ `la'ed~ `no~ `'anip~.￺￻秧距寬一點。"],"f":"距離，間隔。"}]}],"t":"la'ed"}
+,"la%27eto":{"h":[{"d":[{"s":["`mala~`'eto~"],"e":["￹`Mala~`'eto~ `i~ `dadaya~ `ko~ `widang~ `ako~.￺￻昨晚我的朋友斷氣。"],"f":"斷氣，嚥氣，死亡。"}]},{"d":[{"f":"醜陋。"}]}],"t":"la'eto"}
+,"la%27il":{"h":[{"d":[{"e":["￹`O~ `la'il~ `ko~ `sa~`farod~.￺￻用白藤當繩子。"],"f":"白藤。"}]}],"t":"la'il"}
+,"la%27is":{"h":[{"d":[{"s":["`mi~`la'is~"],"e":["￹`La'is~ `to~ `fakeloh~.￺￻投擲石頭。"],"f":"投擲，拋出去，投出去。"}]},{"d":[{"s":["`cila'is~"],"f":"仇恨、結仇。"}]}],"t":"la'is"}
+,"la%27isa%27isal":{"h":[{"d":[{"s":["`mala~`'isa~`'isal~"],"e":["￹`La'isa'isal~ `to~ `kakaenen~.￺￻分配食物。"],"f":"大家彼此平分、分享。"}]}],"tag":"[疊]","stem":"'isal","t":"la'isa'isal"}
+,"la%27isa%27isalsa":{"h":[{"d":[{"e":["￹`La'isa'isalsa~ `to~ `kalipahakan~.￺￻分享快樂。"],"f":"大家就彼此平分、分享起來。"}]}],"tag":"[疊]","stem":"'isal","t":"la'isa'isalsa"}
+,"la%27isal":{"h":[{"d":[{"s":["`mala'isal~"],"e":["￹`La'isal~ `to~ `sapaloma~.￺￻分配種子。"],"f":"彼此平分、分享。"}]}],"stem":"'isal","t":"la'isal"}
+,"la%27isen":{"h":[{"d":[{"e":["￹`La'isen~ `ko~ `kafong~ `i~ `lalan~.￺￻把帽子投擲在路邊。"],"f":"把某物投擲出去。"}]}],"stem":"la'is","t":"la'isen"}
+,"la%27itad":{"h":[{"d":[{"s":["`mala'itad~"],"e":["￹`La'itad~ `ko~ `kohaw~.￺￻湯凝結成塊兒。"],"f":"凝固，凝結成塊兒。"}]},{"d":[{"s":["`'alitad~","`mala'itad~"],"f":"結塊。"}]}],"stem":"'itad","t":"la'itad"}
+,"la%27odot":{"h":[{"d":[{"s":["`mala'odot~","`ma~`cacokah~"],"e":["￹`Mala'odot~ `ko~ `kolong~.￺￻牛在打鬥。"],"f":"兩人互相吵架、打架。"}]}],"stem":"'odot","t":"la'odot"}
+,"la%27om":{"h":[{"d":[{"s":["`mila'om~"],"e":["￹`La'om~ `to~ `payso~.￺￻浪費錢。"],"f":"浪費，荒廢，消耗。"}]}],"t":"la'om"}
+,"la%27omen":{"h":[{"d":[{"e":["￹`Aka~ `la'omen~ `ko~ `nanom~.￺￻不要浪費水。"],"f":"把東西浪費、荒廢、消耗。"}]}],"stem":"la'om","t":"la'omen"}
+,"la%27oteng":{"h":[{"d":[{"s":["`mala'oteng~"],"e":["￹`Mala'oteng~ `no~ `'orad~ `ko~ `riko'~ `ako~.￺￻我的衣服被雨淋透了。"],"f":"浸透，濕透。"}]}],"stem":"'oteng","t":"la'oteng"}
+,"la%27owap":{"h":[{"d":[{"s":["`mala~`'owap~"],"e":["￹`Paka~`yra~ `a~ `mi~`la'owap~.￺￻從那裡跨越。"],"f":"跨越。"}]},{"d":[{"s":["`mi~`la'owap~"],"f":"無禮。"}]}],"t":"la'owap"}
+,"la%27pa":{"h":[{"d":[{"e":["￹`Masoni~ `ko~ `la'pa~ .￺￻號角響了。"],"f":"喇叭，號角。"}]}],"tag":"[日語借詞]","t":"la'pa"}
+,"la%5Eeno":{"h":[{"d":[{"s":["`sa~`^sa~"],"e":["￹`I~ `la^eno~ `no~ `kilang~ `a~ `maro'~.￺￻在樹下坐。"],"f":"下面，底下。"}]}],"t":"la^eno"}
+,"laawa":{"h":[{"d":[{"s":["`malaawa~"],"e":["￹`Laawa~ `ko~ `'poc~.￺￻無價值。"],"f":"變得沒有，一文不值。"}]}],"stem":"awa","t":"laawa"}
+,"lacaan":{"h":[{"d":[{"s":["`la'caan~","`malacaan~"],"e":["￹`Ma~`to'as~`to~ `cingra~ `lacaan~ `sato~ `ko~ `tireng~.￺￻年邁了積勞成疾。"],"f":"積勞成疾，痼疾。"}]}],"stem":"caan","t":"lacaan"}
+,"lacal":{"h":[{"d":[{"s":["`mi~`lacal~"],"e":["￹`Lacal~ `to~ `'ongcoy~ `a~ `mi~`tloc~.￺￻跳躍巨石。"],"f":"越過，跨過。"}]}],"t":"lacal"}
+,"lacalen":{"h":[{"d":[{"e":["￹`Lacalen~ `niyam~ `ko~ `'alo~.￺￻我們躍過河床。"],"f":"把某處越過、跨越。"}]}],"stem":"lacal","t":"lacalen"}
+,"lacecay":{"h":[{"d":[{"s":["`malacecay~"],"e":["￹`Lacecay~ `saan~ `ko~ `kaen~ `niyam~.￺￻我們同吃。"],"f":"變成一個，團結一致，統一。"}]}],"stem":"cecay","t":"lacecay"}
+,"lacecayen":{"h":[{"d":[{"e":["￹`Lacecayen~ `ita~ `ko~ `faloco'~ `nga'~ `ci'icel~.￺￻我們心要往一處想，才有力量。"],"f":"把某某一致起來，統一起來。"}]}],"stem":"cecay","t":"lacecayen"}
+,"laci%27":{"h":[{"d":[{"s":["`mala~`ci'~"],"e":["￹`Mala~`ci'~ `ko~ `koreng~.￺￻陶甕有裂縫。"],"f":"縫隙，裂縫，從裂縫中洩漏。"}]}],"t":"laci'"}
+,"lacidek":{"h":[{"d":[{"s":["`malacidek~"],"e":["￹`Lacidek~ `sa~ `cangra~ `a~ `mafuti'~.￺￻他們分床睡。"],"f":"彼此分居、分離、分開。"}]}],"stem":"cidek","t":"lacidek"}
+,"lacik":{"h":[{"d":[{"e":["￹`Totomen~ `ko~ `lacik~.￺￻點臘燭。"],"f":"蠟燭。日本語借詞losok。"}]}],"tag":"[閩南語借詞]","t":"lacik"}
+,"lacinowas":{"h":[{"d":[{"s":["`licinowas~","`malacinowas~"],"e":["￹`Malacinowas~ `ko~ `rakat~ `ita~.￺￻我們分開走。"],"f":"彼此分開，分離，產生分歧。"}]}],"stem":"cinowas","t":"lacinowas"}
+,"laciw":{"h":[{"d":[{"e":["￹`Mi'alay~ `to~ `laciw~ `ko~ `wawa~ `a~ `pakaen~ `to~ `kolung~.￺￻牧童揹收音機放牛。"],"f":"收音機。"}]}],"tag":"[日語借詞]","t":"laciw"}
+,"lacyo":{"h":[{"d":[{"f":"收音機〈日語借詞〉。"}]}],"t":"lacyo"}
+,"lada%27":{"h":[{"d":[{"s":["`aheng~","`milada'~"],"e":["￹`Milada'~ `to~ `cinah~.￺￻借鹽巴。"],"f":"向別人討、索要(東西)。"}]}],"t":"lada'"}
+,"lada%27en":{"h":[{"d":[{"e":["￹`Lada'en~ `no~ `wawa~ `ci~ `wina~ `to~ `'odax~.￺￻小孩向媽媽要糖。"],"f":"向別人討、索要(東西)。"}]}],"stem":"lada'","t":"lada'en"}
+,"ladac":{"h":[{"d":[{"s":["`ropay~","`miladac~"],"f":"弄平，整平，弄平坦。"}]}],"t":"ladac"}
+,"ladacen":{"h":[{"d":[{"e":["￹`Ladacen~ `ko~ `sacapoxan~.￺￻整秧苗田。"],"f":"把某處弄平、整平。"}]}],"stem":"ladac","t":"ladacen"}
+,"lades":{"h":[{"d":[{"s":["`milades~","`lifawa~"],"e":["￹`Lades~ `saan~ `ko~ `doka'~ `ningra~.￺￻他的傷口有感染。"],"f":"感染，腫起來。"}]}],"t":"lades"}
+,"ladesen":{"h":[{"d":[{"e":["￹`Ladesen~ `ningra~ `ko~ `tao~ `to~ `kefing~.￺￻他把天花傳染給人。"],"f":"把疾病傳染別人。"}]}],"stem":"lades","t":"ladesen"}
+,"ladiw":{"h":[{"d":[{"s":["`radiw~"],"e":["￹`Makapah~ `ko~ `ladiw~ `nona~ `kaying~.￺￻這女孩唱的歌真好。"],"f":"歌，歌曲，音樂。"}]}],"t":"ladiw"}
+,"ladiwsa":{"h":[{"d":[{"s":["`radiw~"],"e":["￹`Ladiwsa~ `cangra~ `tahadadaya~.￺￻他們唱著歌直到入夜。"],"f":"唱著，唱起來。"}]}],"stem":"ladiw","t":"ladiwsa"}
+,"ladom":{"h":[{"d":[{"s":["`radom~","`mi~`ladom~"],"e":["￹`Ladom~ `to~ `nanom~ `no~ `riyal~.￺￻去挑海水。"],"f":"挑水，汲水，提手。"}]}],"t":"ladom"}
+,"ladomen":{"h":[{"d":[{"e":["￹`Ladomen~ `ako~ `ko~ `na~`nanom~`en~ `niyam~.￺￻我把要飲用的水挑來。"],"f":"把水挑來。"}]}],"stem":"ladom","t":"ladomen"}
+,"laecel":{"h":[{"d":[{"s":["`na~`'ecel~","`mala~`ecel~"],"e":["￹`Mi~`laecel~ `kako~ `a~ `masofoc~ `to~ `wawa~.￺￻我憋一口氣使力孩子生出來。"],"f":"憋一口氣一下使力出來。"}]}],"t":"laecel"}
+,"lafa%27":{"h":[{"d":[{"s":["`mi~`lafa'~","`ko^eko~","`lefud~","`takop~"],"f":"追，追趕，追逐。"}]}],"t":"lafa'"}
+,"lafa%27en":{"h":[{"d":[{"e":["￹`Lafa'en~ `niyam~ `cangra~ !￺￻我們一定要追他們！"],"f":"把某某追趕，追逐。"}]}],"stem":"lafa'","t":"lafa'en"}
+,"lafac":{"h":[{"d":[{"s":["`mala~`fac~","`milaliw~"],"e":["￹`Mala~`fac~ `ko~ `kolong~.￺￻牛逃跑了。","￹`Ka~`mleng~ `ko~ `toda~,`cepethan~ `mala~`fac~ `to~.￺￻鰻魚很滑抓到了又溜掉。"],"f":"(動物)逃脫，溜掉。"}]}],"t":"lafac"}
+,"lafades":{"h":[{"d":[{"s":["`mala~`fades~"],"e":["￹`Tatiih~ `ko~ `mihecaan~ `lafades~ `saan~ `ko~ `'orip~ `niyam~.￺￻流年不好我們真磨難。"],"f":"經受折磨、磨難，接受試練。"}]}],"stem":"fades","t":"lafades"}
+,"lafali":{"h":[{"d":[{"s":["`mala~`fali~"],"e":["￹`Lafali~ `saan~ `koya~ `to'em~.￺￻雲變成風。"],"f":"變成風。"}]}],"stem":"fali","t":"lafali"}
+,"lafalifali":{"h":[{"d":[{"s":["`mala~`fali~`fali~"],"e":["￹`Lafalifali~ `sato~ `ko~ `sowal~ `iso~.￺￻你的話像風無影。"],"f":"變成一陣風似的，比喻極端不重視。"}]}],"tag":"[疊 2]","stem":"fali","t":"lafalifali"}
+,"lafang":{"h":[{"d":[{"e":["￹`Sasepat~ `ko~ `lafang~ `niyam~.￺￻我們有四個客人。"],"f":"客人，客訪。"}]}],"t":"lafang"}
+,"lafao":{"h":[{"d":[{"s":["`malafao~"],"e":["￹`Lafao~ `saan~ `cangra~ `a~ `malikaka~.￺￻他們兄弟相互照顧。"],"f":"彼此互相依靠，相依為命。"}]},{"d":[{"e":["￹`Awa~ `ko~ `malitengay~ `lafao~ `sato~ `ko~ `'orip~.￺￻老人不在世了生活感到悽涼。"],"f":"比喻人口很少的家庭。"}]}],"stem":"fao","t":"lafao"}
+,"lafaosa":{"h":[{"d":[{"e":["￹`Lafaosa~ `koya~ `malawinaay~ `tatosa~ `a~ `maro'~.￺￻她們母女兩人就相依為命地住在一起。"],"f":"彼此相依為命地(生活)。"}]}],"stem":"fao","t":"lafaosa"}
+,"lafay":{"h":[{"d":[{"e":["￹`Caliwen~ `ko~ `lafay~ `na~ `Osay~.￺￻向 Osay 借菜盤。"],"f":"陶製容器，菜盤。"}]}],"t":"lafay"}
+,"lafel":{"h":[{"d":[{"s":["`malafel~","`ngafel~"],"e":["￹`Malafel~ `ko~ `topi~.￺￻鴿子飛走了。"],"f":"(鳥獸受驚嚇)逃竄，溜走。"}]}],"t":"lafel"}
+,"lafi":{"h":[{"d":[{"s":["`malafi~"],"e":["￹`O~ `lafi~ `ita~ `koni~.￺￻這是我們的晚餐。"],"f":"晚餐，吃晚餐。"}]}],"t":"lafi"}
+,"lafii":{"h":[{"d":[{"e":["￹`O~ `lafii~ `ko~ `sakatahira~ `ako~ `i~ `loma'~.￺￻我到家時間是半夜了。"],"f":"深夜，午夜，下半夜。"}]}],"t":"lafii"}
+,"lafiifii":{"h":[{"d":[{"e":["￹`Minokay~ `kako~ `to~ `lafiifii~.￺￻我每個深夜要回去。"],"f":"每個深夜、午夜。"}]}],"tag":"[疊 2]","stem":"lafii","t":"lafiifii"}
+,"lafin":{"h":[{"d":[{"e":["￹`Tayni~ `i~ `loma'~ `niyam~ `a~ `milafin~.￺￻來我家過夜。"],"f":"過夜，寄宿，住宿。"}]}],"t":"lafin"}
+,"lafinen":{"h":[{"d":[{"e":["￹`Lafinen~ `itini~ `anini~ !￺￻今天在此過夜吧！"],"f":"要求對方在某處過夜、住宿。"}]}],"stem":"lafin","t":"lafinen"}
+,"lafinsa":{"h":[{"d":[{"s":["`milafin~"],"e":["￹`To'man~ `to~ `ko~ `romi'ad~ , `lafinsa~ `to~ `cangra~ `i~ `fatad~ `no~ `lalan~.￺￻天黑了，他們就在半路上露宿。"],"f":"就這樣過夜、住宿。"}]}],"stem":"lafin","t":"lafinsa"}
+,"lafir":{"h":[{"d":[{"e":["￹`Lafir~ `ko~ `telec~ `ako~.￺￻我腰帶是皮製的。"],"f":"皮革，皮製品。"}]}],"t":"lafir"}
+,"lafiwfiway":{"h":[{"d":[{"e":["￹`Manga'ay~ `a~ `mala~`safarod~ `ko~ `lafiwfiway~.￺￻木苧麻可當繩索。"],"f":"蘆葦，木苧麻，四脈苧麻。"}]}],"stem":"fiwfiw","t":"lafiwfiway"}
+,"lafiyaw":{"h":[{"d":[{"s":["`malafiyaw~"],"e":["￹`Makapah~ `kami~ `a~ `malafiyaw~.￺￻我們敦親睦鄰。"],"f":"彼此相鄰，互為鄰居。"}]}],"stem":"fiyaw","t":"lafiyaw"}
+,"lafo":{"h":[{"d":[{"e":["￹`Ira~ `ko~ `lafo~ `noni~ `a~ `loma'~.￺￻這間房子有邪氣。"],"f":"邪氣，褐崇，邪惡。"}]}],"t":"lafo"}
+,"lafofo":{"h":[{"d":[{"s":["`mala~`fofo~"],"e":["￹`Mala~`fofo~ `kami~ `aci~ `Lekal~.￺￻我與 Lekal 為祖孫關係。"],"f":"指雙方是祖孫關係。"}]}],"t":"lafofo"}
+,"lafong":{"h":[{"d":[{"s":["`milafong~"],"f":"覆蓋，掩埋，收藏。"}]}],"t":"lafong"}
+,"lafongen":{"h":[{"d":[{"e":["￹`Lafongen~ `ningra~ `koya~ `tapangan~ `noya~ `sapal~.￺￻他把種曲的根部蓋起來。","￹`Aira~ `to~ `ko~ `'ada~ `niyam~, `lafongen~ `ko~ `kakaenen~ `niyam~ !￺￻敵人要來了，把我們的糧食埋起來吧！"],"f":"把某物覆蓋、收藏，掩埋起來。"}]}],"stem":"lafong","t":"lafongen"}
+,"lafonghan":{"h":[{"d":[{"e":["￹`Ma~`ma'orad~ `to~, `lafonghan~ `nangra~ `ko~ `panay~ `i~ `pa~`putal~.￺￻快要下雨了，他們於是把院子裡的稻穀蓋起來。"],"f":"就把某覆蓋、掩埋，收藏起來。"}]}],"stem":"lafong","t":"lafonghan"}
+,"lafot":{"h":[{"d":[{"s":["`cefot~","`milafot~"],"e":["￹`Malafot~ `ko~ `keliw~.￺￻線斷了。"],"f":"(線等)斷。"}]}],"t":"lafot"}
+,"lafoten":{"h":[{"d":[{"e":["￹`Lafoten~ `ko~ `ka~`'led~.￺￻把線弄斷。"],"f":"把(線)扯斷、弄斷。"}]}],"stem":"lafot","t":"lafoten"}
+,"laha%27":{"h":[{"d":[{"s":["`lekal~","`milaha'~"],"e":["￹`Laha'~ `saan~ `ko~ `tangic~ `noya~ `wawa~ `i~ `tokos~.￺￻那孩子在山上嚎啕大哭。"],"f":"大聲喊叫，吼叫，尖叫。"}]}],"t":"laha'"}
+,"laha%27en":{"h":[{"d":[{"e":["￹`Aka~ `laha'en~ `kako~ !￺￻不要對我大喊大叫。"],"f":"對某某喊叫、吼叫、尖叫。"}]}],"stem":"laha'","t":"laha'en"}
+,"lahad":{"h":[{"d":[{"s":["`lomahad~"],"e":["￹`Lomahad~ `ko~ `sapal~.￺￻菜種長出來了。"],"f":"生長，培育，長大。"}]}],"t":"lahad"}
+,"lahakelong":{"h":[{"d":[{"s":["`malahakelong~"],"e":["￹`Lahakelong~ `saan~ `cangra~ `a~ `tara~ `Posung~.￺￻他們一起到台東。"],"f":"彼此相隨，結伴而行。"}]}],"stem":"hakelong","t":"lahakelong"}
+,"lahakelongsa":{"h":[{"d":[{"e":["￹`Lahakelongsa~ `koya~ `tatosaay~ `a~ `mihitefo~ `i~ `fanaw~.￺￻那兩個人就彼此一起跳進湖泊裡。"],"f":"彼此相隨地、一起地(做)。"}]}],"stem":"hakelong","t":"lahakelongsa"}
+,"lahat":{"h":[{"d":[{"s":["`mala~`hat~"],"e":["￹`Ira~ `ko~ `lahat~ `to~ `pipalomaan~ `to~ `kenaw~ `i~ `lafal~ `ako~.￺￻在我的園裡還有空隙可種蔥蒜。"],"f":"空隙，縫隙。"}]}],"t":"lahat"}
+,"lahawad":{"h":[{"d":[{"s":["`lasawad~","`malahawad~"],"e":["￹`Tatiih~ `ko~ `tawki~ `nangra~ `saka~ `lahawad~ `saan~ `cangra~ `a~ `matayal~.￺￻他們老闆對他們不好所以他們離開工作。"],"f":"逐漸放棄、停止，消失。"}]}],"stem":"hawad","t":"lahawad"}
+,"lahecad":{"h":[{"d":[{"s":["`malahecad~"],"e":["￹`Lahecad~ `sanay~ `ko~ `pipanayan~ `ita~ `a~ `romi'ad~.￺￻我們割稻的時間一樣。"],"f":"變得一樣，彼此一樣，相同，相等。"}]}],"stem":"hecad","t":"lahecad"}
+,"lahecadsa":{"h":[{"d":[{"e":["￹`Lahecadsa~ `ko~ `pacako~ `nangra~ `a~ `tatosa~.￺￻他們兩人同時地回答。"],"f":"彼此一樣地，同時地(做)。"}]}],"stem":"hecad","t":"lahecadsa"}
+,"laheci":{"h":[{"d":[{"s":["`malaheci~"],"e":["￹`Malaheci~ `nangra~ `ko~ `pitilid~.￺￻他們完成學業 。"],"f":"結果，完成，實現。"}]}],"stem":"heci","t":"laheci"}
+,"lahecien":{"h":[{"d":[{"e":["￹`Lahecien~ `ko~ `tayal~ `iso~.￺￻把你的工作完成吧。","￹`Lahecien~ `kora~ `omah~ `a~ `mikangkang~ `to~ `cecay~ `a~ `romi'ad~.￺￻一天把那塊田地犁好。"],"f":"把某事使出結果、完成。"}]}],"stem":"heci","t":"lahecien"}
+,"lahedaw":{"h":[{"d":[{"s":["`malahedaw~"],"e":["￹`Caay~ `kafana'an~ `lahedaw~ `saan~ `koya~ `tamdaw~.￺￻在不知不覺中那人消失了。"],"f":"消失，不見了。"}]}],"t":"lahedaw"}
+,"lahedawlahdawsa":{"h":[{"d":[{"e":["￹`Lahedawlahdawsa~ `to~ `ko~ `nga'ayay~ `a~ `matatodongay~ `a~ `mihecaan~.￺￻合適的好年華已經一去不復返了。"],"f":"逐步地消失、不見了。"}]}],"tag":"[疊 1]","stem":"lahedaw","t":"lahedawlahdawsa"}
+,"lahedawsa":{"h":[{"d":[{"e":["￹`Lahedawsa~ `ko~ `faloco'~.￺￻沒興趣。","￹`Lahedawsa~ `ko~ `impic~ `ako~ `isawni~.￺￻我的鉛筆剛才不翼而飛了。","￹`Lahedawsa~ `to~ `ko~ `nga'ayay~ `matatodongay~ `a~ `mihecaan~.￺￻就這樣錯過了好的年頭。"],"f":"自然而然消失了，不翼而飛，就這樣消失了。"}]}],"stem":"lahedaw","t":"lahedawsa"}
+,"laheker":{"h":[{"d":[{"s":["`mala~`heker~"],"e":["￹`Laheker~ `kako~ `to~ `lalok~ `no~ `wawa~ `ako~.￺￻我對孩子的勤奮甚為興奮。"],"f":"愉快，興奮，高興。"}]}],"t":"laheker"}
+,"lahod":{"h":[{"d":[{"s":["`dahod~"],"e":["￹`Mihafhaf~ `to~ `lahod~.￺￻吮吸水氣兒。"],"f":"蒸汽，水氣。"}]}],"t":"lahod"}
+,"lahok":{"h":[{"d":[{"s":["`malahok~"],"e":["￹`I~ `tokos~ `ko~ `lahok~ `ita~.￺￻我們在山上吃中餐。"],"f":"午餐。"}]}],"t":"lahok"}
+,"lahol":{"h":[{"d":[{"s":["`malahol~","`nahol~","`poni'~"],"e":["￹`Caayka~ `lahol~ `ko~ `so'ka~.￺￻塑膠不會腐爛。"],"f":"腐爛，蛀掉。"}]}],"t":"lahol"}
+,"laholol":{"h":[{"d":[{"e":["￹`Malaholol~ `kami~ `ato~ `fiyaw~.￺￻我們與鄰居彼此和睦。"],"f":"彼此和睦、融洽，相敬如賓。"}]}],"stem":"holol","t":"laholol"}
+,"lahololsa":{"h":[{"d":[{"e":["￹`Lahololsa~ `awa~ `ko~ `kihar~ `ningra~ `a~ `maro'~.￺￻合家團圓，他毫無牽掛地生活著。"],"f":"彼此和睦、融洽地相處。"}]}],"stem":"holol","t":"lahololsa"}
+,"lahongti":{"h":[{"d":[{"s":["`mala~`hongti~"],"e":["￹`Lahongti~ `sa~ `cingra~ `no~ `Taiwan~.￺￻他當上台灣的總統。"],"f":"當上皇帝、國王、總統。"}]}],"stem":"hongti","t":"lahongti"}
+,"lahoper":{"h":[{"d":[{"s":["`mala~`hoper~"],"e":["￹`Sengel~ `han~ `i~ `nanom~ `ko~ `'ikay~ `a~ `sapaiyo~ `lahoper~ `sanay~.￺￻把顆粒的藥放入水中就被分解。"],"f":"變成粉末，分解，崩潰。"}]}],"stem":"hoper","t":"lahoper"}
+,"lahorac":{"h":[{"d":[{"s":["`malahorac~"],"e":["￹`Lahorac~ `no~ `'orip~.￺￻無聊的人生。"],"f":"變成或導致中間空虛，無聊，沒有意義。"}]}],"stem":"horac","t":"lahorac"}
+,"lakacaw":{"h":[{"d":[{"e":["￹`Maolah~ `a~ `makero~ `ko~ `lakacaw~.￺￻老年婦女組喜愛跳舞。"],"f":"古代阿美族人女性年齡組織級別，老年婦女組。"}]}],"stem":"kacaw","t":"lakacaw"}
+,"lakahemaw":{"h":[{"d":[{"s":["`mala~`kahmaw~"],"e":["￹`Mala~`lada'~ `cangra~ `to~ `'inorong~ `saka~ `lakahemaw~ `sato~ `ko~ `rakat~ `nangra~ `a~ `minokay~.￺￻他們分擔重量所以回去時就顯得輕鬆些。"],"f":"變得份量很輕，變得輕鬆、容易。"}]}],"stem":"kahemaw","t":"lakahemaw"}
+,"lakaka":{"h":[{"d":[{"s":["`mala~`kaka~"],"e":["￹`Mala~`kaka~ `niyam~ `cangra~.￺￻他們成為我們的長輩。"],"f":"成為長者、長輩、上級。"}]}],"stem":"kaka","t":"lakaka"}
+,"lakasang":{"h":[{"d":[{"f":"降落傘〈日語借詞〉。"}]}],"t":"lakasang"}
+,"lakatosa":{"h":[{"d":[{"s":["`malakatosa~"],"e":["￹`Lakatosa~ `to~ `omah~.￺￻分兩塊田。"],"f":"變成兩部分、兩半兒。"}]}],"stem":"tosa","t":"lakatosa"}
+,"lakatosaay":{"h":[{"d":[{"f":"變成兩部分了、兩半兒了。"},{"e":["￹`Lakatosaay~ `to~ `ka~`cawas~`ay~.￺￻分西瓜成兩半兒。"],"f":"指把東西分兩部分、兩半兒的(人)。"}]}],"stem":"tosa","t":"lakatosaay"}
+,"lakatosaen":{"h":[{"d":[{"e":["￹`Caayka~ `nga'ay~ `a~ `lakatosaen~ `ko~ `faloco'~ `namo~.￺￻你們的心不可分成兩半兒的。"],"f":"把某物分成兩部分。"}]}],"stem":"tosa","t":"lakatosaen"}
+,"lakaw":{"h":[{"d":[{"s":["`hadec~"],"e":["￹`Falahen~ `ko~ `lakaw~.￺￻去丟垃圾。"],"f":"垃圾，廢物，廢品。"}]}],"t":"lakaw"}
+,"lakawas":{"h":[{"d":[{"s":["`mala~`kawas~"],"e":["￹`Tadamaanay~ `cingra~ `yo~ `ma~`'orip~`ho~ `saka~ `lakawas~ `saan~ `a~ `ka~`hemek~`en~ `no~ `tamdaw~.￺￻他生前待人真好所以人們尊他為神明。"],"f":"成為神明、上帝，也指成為鬼魂、妖魔。"}]}],"stem":"kawas","t":"lakawas"}
+,"lakayakay":{"h":[{"d":[{"s":["`malakayakay~"],"e":["￹`Ci~ `Hani~ `ko~ `malakayakay~ `no~ `mita~.￺￻我們請約翰作媒人。"],"f":"媒人。"}]},{"d":[{"f":"當成橋。"}]}],"stem":"kayakay","t":"lakayakay"}
+,"lakec":{"h":[{"d":[{"s":["`milakec~","`lakec~","`milakec~"],"e":["￹`Ta'angay~ `ko~ `'orad~, `lakec~ `han~ `niyam~ `ko~ `'alo~.￺￻傾盆大雨我們要涉水渡河。","￹`Caayka~ `pakafilo~ `ko~ `waco~ `ako~ `a~ `milakec~ `to~ `'alo~.￺￻我的狗沒辦法渡河。"],"f":"涉水，渡河。"}]}],"t":"lakec"}
+,"lakecen":{"h":[{"d":[{"e":["￹`Lakecen~ `nangra~ `ko~ `'alo~ `a~ `mi'adop~.￺￻他們要渡河打獵。"],"f":"溪河要渡過去。"}]}],"stem":"lakec","t":"lakecen"}
+,"lakelaw":{"h":[{"d":[{"s":["`longlong~"],"e":["￹`Totomen~ `ako~ `ko~ `lakelaw~.￺￻我點燃火把。"],"f":"火把，燈籠。"}]}],"t":"lakelaw"}
+,"lakelawen":{"h":[{"d":[{"e":["￹`Lakelawen~ `niyam~ `ko~ `takora'ay~ `to~ `dadayadaya~.￺￻我們夜夜打著火把照(捉)田雞。"],"f":"把火把或燈籠打起來照射。"}]}],"stem":"lakelaw","t":"lakelawen"}
+,"lakis":{"h":[{"d":[{"s":["`mi~`lakis~"],"e":["￹`Mala~`kis~ `ko~ `'oning~ `no~ `mocu'~.￺￻牆壁殘留污點。"],"f":"留傳，留存。"}]}],"t":"lakis"}
+,"lakisen":{"h":[{"d":[{"e":["￹`Lakisen~ `nangra~ `ko~ `remes~ `no~ `fafoy~ `i~ `lalan~.￺￻他們把山豬的血殘留在路上。"],"f":"把某物留傳、留存下來。"}]}],"stem":"lakis","t":"lakisen"}
+,"lakiting":{"h":[{"d":[{"s":["`malakiting~"],"e":["￹`Malakiting~ `a~ `makero~.￺￻跳舞要牽手。"],"f":"彼此拉手，互相牽引。"}]}],"stem":"kiting","t":"lakiting"}
+,"lakitingsa":{"h":[{"d":[{"e":["￹`Lakitingsa~ `to~ `cangra~ `tatosa~ `a~ `patatikol~ `a~ `minokay~.￺￻他們兩人手拉手地返回了。"],"f":"彼此手拉手地，互相牽引著。"}]}],"stem":"kiting","t":"lakitingsa"}
+,"laklak":{"h":[{"d":[{"s":["`malaklak~"],"e":["￹`Malaklak~ `ko~ `dafong~ `ako~.￺￻我物品零亂。"],"f":"散亂，零亂，雜亂無章。"}]}],"t":"laklak"}
+,"laklaken":{"h":[{"d":[{"e":["￹`Aka~ `laklaken~ `ko~ `sapitilid~ `itini~ !￺￻文具不要亂放在這裡！","￹`Laklaken~ `ningra~ `ko~ `maamaan~ `i~ `pa~`'nan~ `a~ `miteli~.￺￻他把什麼東西隨便放在地板上。"],"f":"把某物弄亂、亂放一氣，隨意放置。"}]}],"stem":"laklak","t":"laklaken"}
+,"laklaklalan":{"h":[{"d":[{"e":["￹`Mifuting~ `kami~ `i~ `laklaklalan~.￺￻我們在河床捕魚。"],"f":"河床，河灘。"}]}],"tag":"[疊 1]","stem":"laklal","t":"laklaklalan"}
+,"laklal":{"h":[{"d":[{"e":["￹`Mi~`fakeloh~ `cangra~ `i~ `laklal~.￺￻他們在河灘上撿石頭。"],"f":"河灘，亂石灘。"}]}],"t":"laklal"}
+,"lakoli":{"h":[{"d":[{"s":["`malakoli~"],"e":["￹`Malakoli~ `no~ `pa~`yrang~ `ko~ `kaka~ `ako~.￺￻我姐姐替漢人幫傭。"],"f":"當苦力、佣人、打工仔。"}]}],"stem":"koli","t":"lakoli"}
+,"lakota":{"h":[{"d":[{"e":["￹`Mikalic~ `to~ `lakota~.￺￻騎駱駝。"],"f":"駱駝。"}]},{"d":[{"f":"木製耘田器。"}]}],"tag":"[日語借詞]","t":"lakota"}
+,"lakowit":{"h":[{"d":[{"s":["`milakowit~"],"e":["￹`Milakowit~ `kami~ `to~ `lima~ `a~ `lotok~.￺￻我們躍過五座山。"],"f":"越過山嶺，翻山越嶺。"}]}],"t":"lakowit"}
+,"lakowiten":{"h":[{"d":[{"e":["￹`Lakowiten~ `to~ `nangra~ `ko~ `pinaay~ `a~ `tokos~.￺￻他們翻過了多少高山。"],"f":"把山嶺越過、翻越。"}]}],"stem":"lakowit","t":"lakowiten"}
+,"lakuda":{"h":[{"d":[{"f":"駱駝〈日語借詞〉。"}]}],"t":"lakuda"}
+,"lala%27":{"h":[{"d":[{"s":["`fulad~"],"e":["￹`Ma~`trepto~ `ko~ `lala'~ `ningra~.￺￻她停經了。"],"f":"月經，經期。"}]}],"t":"lala'"}
+,"lala%27ed":{"h":[{"d":[{"e":["￹`Pito~ `a~ `mihecaan~ `ko~ `lala'ed~ `niyam~ `a~ `malikaka~.￺￻我們兄弟相隔七年。"],"f":"彼此間的距離，間隔。"}]}],"tag":"[疊 2]","stem":"la'ed","t":"lala'ed"}
+,"lala%27em":{"h":[{"d":[{"f":"口腔上齶。"},{"e":["￹`Lala'em~ `a~ `ngiha'~.￺￻摩擦聲。"],"f":"空間，空隙。"}]}],"t":"lala'em"}
+,"lala%27is":{"h":[{"d":[{"s":["`mala~`la'is~","`lalood~"],"e":["￹`Mala~`la'is~ `ato~ `fiyaw~ `a~ `niyaro'~.￺￻與鄰村戰亂。"],"f":"彼此互相投擲，戰場上布陣打仗。"}]}],"tag":"[疊 2]","stem":"la'is","t":"lala'is"}
+,"lala%27isen":{"h":[{"d":[{"e":["￹`O~ `ada~ `ko~ `lala'isen~ `ita~.￺￻我們要攻戰敵人。"],"f":"要投擲，要投擲的(對像)。"}]}],"tag":"[疊 2]","stem":"la'is","t":"lala'isen"}
+,"lala%27omen":{"h":[{"d":[{"s":["`la~`lasawaden~"],"e":["￹`Awaay~ `ko~ `lala'omen~ `a~ `payso~.￺￻沒有可浪費的錢。"],"f":"即將浪費、荒廢，即將浪費、荒廢的(東西)。"}]}],"tag":"[疊 2]","stem":"la'om","t":"lala'omen"}
+,"lala%27owapen":{"h":[{"d":[{"s":["`lalakowiten~","`mi~`la'owap~"],"e":["￹`O~ `tokos~ `na~ `Aki~ `ko~ `lala'owapen~.￺￻要跨越 Aki 的山。"],"f":"要跨越，要跨越的(對象)。"}]}],"tag":"[疊 2]","stem":"la'owap","t":"lala'owapen"}
+,"lalacalen":{"h":[{"d":[{"e":["￹`O~ `lalacalen~ `no~ `mita~ `koya~ `omah~ `ni~ `Kacaw~.￺￻我們要躍過卡棗的田園。"],"f":"即將越過、跨過，即將越過、跨過的(目標)。"}]}],"tag":"[疊 2]","stem":"lacal","t":"lalacalen"}
+,"lalad":{"h":[{"d":[{"s":["`milalad~"],"e":["￹`Milalad~ `ko~ `kalitang~.￺￻蜿豆蔓延而長。"],"f":"(蔓藤)伸長，爬行，蔓延。"}]}],"t":"lalad"}
+,"lalada%27en":{"h":[{"d":[{"e":["￹`O~ `lalada'en~ `a~ `panay~.￺￻要索討的稻米。"],"f":"即將討要、索要，即將討要、索要的(東西)。"}]}],"tag":"[疊 2]","stem":"lada'","t":"lalada'en"}
+,"laladacen":{"h":[{"d":[{"s":["`raropayen~"],"e":["￹`O~ `fanaw~ `ko~ `laladacen~.￺￻這池塘要弄平。"],"f":"要整平、弄平，要整平、弄平的(土地)。"}]}],"tag":"[疊 2]","stem":"lalac","t":"laladacen"}
+,"laladen":{"h":[{"d":[{"e":["￹`Laladen~ `no~ `fadiso'so'~ `kora~ `hecek~.￺￻葡萄藤把那根柱子攀援上去。"],"f":"把某物攀援、爬行上去。"}]}],"stem":"lalad","t":"laladen"}
+,"laladesen":{"h":[{"d":[{"e":["￹`Adihay~ `ko~ `laladesen~ `a~ `adada~ `nani~ `romaroma~ `a~ `kitakit~.￺￻國外有許多病將傳染。"],"f":"即將傳染，即將傳染的(疾病)。"}]}],"tag":"[疊 2]","stem":"lades","t":"laladesen"}
+,"laladomen":{"h":[{"d":[{"s":["`raradomen~"],"e":["￹`O~ `laladomen~ `ako~ `koni~.￺￻這是我要挑的(水)。"],"f":"要挑水、汲水，要挑來、汲來的(水)。"}]}],"tag":"[疊 2]","stem":"ladom","t":"laladomen"}
+,"lalafa%27en":{"h":[{"d":[{"e":["￹`O~ `lalafa'en~ `niyam~ `koya~ `mala~`facay~ `a~ `kolong~.￺￻我們要追趕那逃跑的牛。"],"f":"要追趕、追逐，要追趕、追逐的(對像)。"}]}],"tag":"[疊 2]","stem":"lafa'","t":"lalafa'en"}
+,"lalafinen":{"h":[{"d":[{"e":["￹`Omaan~ `ko~ `lalafinen~ `i~ `loma'~ `na~ `Osay~ `saw~?￺￻你在吳賽家過夜作什麼？"],"f":"要過夜、寄宿，要過夜、寄宿的(對像，地方)。"}]}],"tag":"[疊 2]","stem":"lafin","t":"lalafinen"}
+,"lalafongen":{"h":[{"d":[{"e":["￹`Lalafongen~ `nangra~ `a~ `lamlo~.￺￻他們即將收藏的小米。"],"f":"即將覆蓋、收藏，即將覆蓋、收藏的(對像)。"}]}],"tag":"[疊 2]","stem":"lafong","t":"lalafongen"}
+,"lalafoten":{"h":[{"d":[{"e":["￹`Lalafoten~ `a~ `towaso~.￺￻要弄斷的繩索。"],"f":"即將弄斷，即將弄斷的(對像，如繩、線)。"}]}],"tag":"[疊 2]","stem":"lafot","t":"lalafoten"}
+,"lalaha%27en":{"h":[{"d":[{"e":["￹`O~ `lalaha'en~ `cingra~ `a~ `mipatapal~.￺￻要大聲呼叫他。"],"f":"要大聲喊叫，要大聲喊叫叱責的(對像)。"}]}],"tag":"[疊 2]","stem":"laha'","t":"lalaha'en"}
+,"lalahecien":{"h":[{"d":[{"e":["￹`Lalahecien~ `a~ `tayal~.￺￻就要完成的任務。"],"f":"即將完成、實現，即將完成、實現的(事情)。"}]}],"tag":"[疊 2]","stem":"heci","t":"lalahecien"}
+,"lalakatosaen":{"h":[{"d":[{"e":["￹`Lalakatosaen~ `a~ `misalilam~.￺￻要分配成兩份。"],"f":"要分成兩部分、兩半兒，要分成兩部分、兩半兒的(東西)。"}]}],"tag":"[疊 2]","stem":"tosa","t":"lalakatosaen"}
+,"lalakaw":{"h":[{"d":[{"s":["`milalakaw~"],"e":["￹`Mi~`la~`lakw~ `to~ `sa~`kitalo'an~.￺￻為建工寮備材料。"],"f":"籌備建築材料。"}]}],"t":"lalakaw"}
+,"lalakawen":{"h":[{"d":[{"e":["￹`Lalakawen~ `niyam~ `ko~ `kilang~ `to~ `sa~`kipadiyongan~.￺￻我們為建豬舍備建料。"],"f":"把建築材料準備起來。"}]}],"stem":"lalakaw","t":"lalakawen"}
+,"lalakecen":{"h":[{"d":[{"s":["`hahakecen~"],"e":["￹`O~ `'alo~ `no~ `Torik~ `ko~ `lalakecen~.￺￻要渡都歷河。"],"f":"要涉渡、渡河，要涉渡、渡河的(對像)。"}]}],"tag":"[疊 2]","stem":"lakec","t":"lalakecen"}
+,"lalakelawen":{"h":[{"d":[{"e":["￹`O~ `kalang~ `ko~ `lalakelawen~.￺￻用火把撿螃蟹。"],"f":"要打著火把、燈籠照，要打著火把、燈籠照的(對像)。"}]}],"tag":"[疊 2]","stem":"lakelaw","t":"lalakelawen"}
+,"lalakisen":{"h":[{"d":[{"e":["￹`O~ `simal~ `ko~ `lalakisen~.￺￻把油留存。"],"f":"要留傳、留存，要留傳、留存的(東西)。"}]}],"tag":"[疊 2]","stem":"lakis","t":"lalakisen"}
+,"lalaklaken":{"h":[{"d":[{"e":["￹`O~ `kasoy~ `ko~ `lalaklaken~ `a~ `mipawali~.￺￻把木材散開來曬。"],"f":"即將隨便放，即將隨便放的(東西)。"}]}],"tag":"[疊 2]","stem":"laklak","t":"lalaklaken"}
+,"lalakowiten":{"h":[{"d":[{"e":["￹`O~ `Arepis~ `a~ `lotok~ `ko~ `lalakowiten~.￺￻攀越阿爾卑斯山。"],"f":"要翻越、越過，要翻越、越過的(山嶺)。"}]}],"tag":"[疊 2]","stem":"lakowit","t":"lalakowiten"}
+,"lalal":{"h":[{"d":[{"s":["`rarar~"],"e":["￹`O~ `lalal~ `ko~ `sapi~`kaomah~ `to~ `kodasing~.￺￻用小石鋤鋤花生。"],"f":"古代用石刃磨製的農具，小石鋤。"}]}],"t":"lalal"}
+,"lalaladen":{"h":[{"d":[{"e":["￹`O~ `lalaladen~ `no~ `loni~ `koni~ `a~ `langla~.￺￻這個屋簷是胡瓜要攀緣的地方。"],"f":"要攀緣、爬上去，要攀緣、爬上去的(目標)。"}]}],"tag":"[疊 2]","stem":"lalad","t":"lalaladen"}
+,"lalalakawen":{"h":[{"d":[{"e":["￹`O~ `^li'~ `ko~ `lalalakawen~.￺￻預備茅草建屋。"],"f":"要籌備建房，要籌備建房的(材料)。"}]}],"tag":"[疊 2]","stem":"lalakaw","t":"lalalakawen"}
+,"lalalangen":{"h":[{"d":[{"e":["￹`Kiso~ `ko~ `lalalangen~ `ako~.￺￻我要勸阻妳。"],"f":"要勸阻、勸止，要勸阻、勸止的(對像)。"}]}],"tag":"[疊 2]","stem":"lalang","t":"lalalangen"}
+,"lalalaten":{"h":[{"d":[{"e":["￹`Lalalaten~ `a~ `omah~.￺￻要丈量的田地。"],"f":"要測量、丈量，要測量、丈量的(對像)。"}]}],"tag":"[疊 2]","stem":"lalat","t":"lalalaten"}
+,"lalalikelen":{"h":[{"d":[{"e":["￹`Lalalikelen~ `ako~ `ko~ `cokap~ `ningra~.￺￻他的鞋我就要偷偷抽掉的。"],"f":"要偷偷抽掉，要偷偷抽掉的(東西)。"}]}],"tag":"[疊 2]","stem":"lalikel","t":"lalalikelen"}
+,"lalalingsa":{"h":[{"d":[{"e":["￹`Lalalingsa~ `cingra~ `i~ `takar~.￺￻他躺在床上呻吟起來。"],"f":"呻吟著，不斷呻吟著。"}]}],"tag":"[疊 2]","stem":"laling","t":"lalalingsa"}
+,"lalaliwen":{"h":[{"d":[{"e":["￹`Lalaliwen~ `a~ `'a'adopen~.￺￻要逃走的野獸。"],"f":"要逃走、溜掉，要逃走、溜掉的(對像)。"}]}],"stem":"laliw","t":"lalaliwen"}
+,"lalaloen":{"h":[{"d":[{"e":["￹`Lalaloen~ `ni~ `wina~ `a~ `felac~.￺￻媽媽要浸泡的米。"],"f":"要浸泡、漬水，要浸泡、漬水的(東西)。"}]}],"tag":"[疊 2]","stem":"lalo","t":"lalaloen"}
+,"lalamecen":{"h":[{"d":[{"e":["￹`Lalamecen~ `a~ `konga~.￺￻要捏的地瓜。"],"f":"要抓、拿，要抓、拿的(對像)。"}]}],"tag":"[疊 2]","stem":"lamec","t":"lalamecen"}
+,"lalameloan":{"h":[{"d":[{"e":["￹`Palomaen~ `ko~ `kowa'~ `i~ `lalameloan~.￺￻在小米地種上木瓜。"],"f":"小米地，粟田。"}]}],"tag":"[疊 2]","stem":"lamelo","t":"lalameloan"}
+,"lalamlamen":{"h":[{"d":[{"e":["￹`O~ `lalamlamen~ `to~ `otung~ `a~ `miciyan~ `ko~ `kalitang~.￺￻蜿豆要摻麵粉一起炸。"],"f":"要摻混進去，要摻混進去的(東西)。"}]}],"tag":"[疊 2]","stem":"lamlam","t":"lalamlamen"}
+,"lalamo":{"h":[{"d":[{"s":["`malalamo~"],"e":["￹`Malalamo~ `ko~ `waco~.￺￻狗在交配。"],"f":"動物相互交配。"}]}],"tag":"[疊 2]","stem":"lamo","t":"lalamo"}
+,"lalamot":{"h":[{"d":[{"e":["￹`O~ `payso~ `ko~ `lalamot~ `ako~.￺￻我要撿錢。"],"f":"要揀、撿，要揀、撿的(東西)。"}]}],"tag":"[疊 2]","stem":"lamot","t":"lalamot"}
+,"lalan":{"h":[{"d":[{"e":["￹`Lalan~ `no~ `ma~`ncel~.￺￻山羌的路。"],"f":"路、道路，門路。"}]}],"t":"lalan"}
+,"lalanangen":{"h":[{"d":[{"e":["￹`O~ `radiw~ `nangra~ `ko~ `lalanangen~.￺￻他們的歌很煩擾人。"],"f":"要煩擾、騷擾，要煩擾、騷擾的(對像)。"}]}],"tag":"[疊 2]","stem":"lanang","t":"lalanangen"}
+,"lalang":{"h":[{"d":[{"s":["`milalang~"],"e":["￹`Awaay~ `ko~ `milalang~ `to~ `katayni~ `iso~.￺￻沒人會阻止你來。"],"f":"勸阻，勸止，禁止。"}]}],"t":"lalang"}
+,"lalangasen":{"h":[{"d":[{"e":["￹`Lalangasen~ `a~ `ca'ang~ `no~ `nanges~.￺￻芒果要修剪的枝子。"],"f":"要砍伐、修剪，要砍伐、修剪的(樹枝)。"}]}],"tag":"[疊 2]","stem":"langas","t":"lalangasen"}
+,"lalangaw":{"h":[{"d":[{"s":["`talangaw~"],"e":["￹`Ma~`hitefu~ `no~ `lalangaw~ `ko~ `kakaenen~.￺￻食物被蒼蠅爬過。"],"f":"蒼蠅。"}]}],"t":"lalangaw"}
+,"lalangen":{"h":[{"d":[{"e":["￹`Kinapina~ `lalangen~ `no~ `tao~ `cingra~ , `cowa~ `ka~ `pitengil~.￺￻別人勸他多少次，他都不聽。"],"f":"把某某勸阻、勸止。"}]}],"stem":"lalang","t":"lalangen"}
+,"lalango":{"h":[{"d":[{"s":["`damay~"],"e":["￹`Adihay~ `ko~ `lalango~ `i~ `'ongcoy~.￺￻石頭上有許多青苔。"],"f":"苔，青苔。"}]}],"t":"lalango"}
+,"lalaocan":{"h":[{"d":[{"s":["`sefi'~","`soraratan~"],"e":["￹`Masa'opo~ `i~ `lalaocan~.￺￻在會議室集合。"],"f":"集會所，議事廳，會議室。"}]}],"tag":"[疊 2]","stem":"laoc","t":"lalaocan"}
+,"lalaocen":{"h":[{"d":[{"e":["￹`Paka~`yniay~ `i~ `kiloma'an~ `ko~ `lalaocen~ `ita~.￺￻我們會議的議題是有關豐年節相關事宜。"],"f":"要聚會議事，要聚會議定的(議題)。"}]}],"tag":"[疊 2]","stem":"laoc","t":"lalaocen"}
+,"lalaopen":{"h":[{"d":[{"e":["￹`Lalaopen~ `koya~ `misakasakay~ `to~ `'anip~ `a~ `maymay~.￺￻要追趕那踐踏稻秧的鴉子。"],"f":"要追趕、驅逐，要追趕、驅逐的(對像)。"}]}],"tag":"[疊 2]","stem":"laop","t":"lalaopen"}
+,"lalaoseden":{"h":[{"d":[{"e":["￹`O~ `lalaoseden~ `no~ `kitakit~ `ko~ `caayka~ `dademak~ `a~ `kikay~.￺￻國家要將不運轉的機器報廢。"],"f":"即將浪費、荒廢，即將浪費、荒廢的(東西)。"}]}],"tag":"[疊 2]","stem":"laosed","t":"lalaoseden"}
+,"lalapacen":{"h":[{"d":[{"e":["￹`O~ `lalapacen~ `ko~ `'aol~ `a~ `mala~`'itis~.￺￻把竹片劈成片狀作叉子。"],"f":"要劈成片狀，要劈成片狀的(竹子)。"}]}],"tag":"[疊 2]","stem":"lapac","t":"lalapacen"}
+,"lalaplapen":{"h":[{"d":[{"e":["￹`O~ `lalaplapen~ `a~ `koko'~.￺￻要趕走的雞。"],"f":"要趕走、驅逐，要趕走、驅逐的(對像)。"}]}],"tag":"[疊 2]","stem":"laplap","t":"lalaplapen"}
+,"lalarohrohen":{"h":[{"d":[{"e":["￹`O~ `tokos~ `no~ `Koladot~ `ko~ `lalarohrohen~.￺￻要燒樟原山。"],"f":"即將放火焚燒，即將放火焚燒的(山林等)。"}]}],"tag":"[疊 2]","stem":"rohroh","t":"lalarohrohen"}
+,"lalasilen":{"h":[{"d":[{"e":["￹`O~ `polong~ `no~ `ni~`yaro~ `ko~ `lalasilen~.￺￻傳遞信息到全村。"],"f":"即將傳遞信息，即將傳遞信息的(對像)。"}]}],"tag":"[疊 2]","stem":"lasil","t":"lalasilen"}
+,"lalasolen":{"h":[{"d":[{"e":["￹`O~ `lalasolen~ `cangra~ `a~ `pa~`tayra~.￺￻讓他們先去。"],"f":"要提前、先行，要提前、先行的(對像)。"}]}],"tag":"[疊 2]","stem":"lasol","t":"lalasolen"}
+,"lalasongen":{"h":[{"d":[{"e":["￹`O~ `lalasongen~ `ko~ `adadaay~ `a~ `tamdaw~.￺￻要探視病人。"],"f":"要探訪、拜訪，要探訪、拜訪的(人)。"}]}],"tag":"[疊 2]","stem":"lasong","t":"lalasongen"}
+,"lalat":{"h":[{"d":[{"s":["`milalat~","`miditek~","`fakciw~"],"e":["￹`Mo^tep~ `a~ `laya'~ `ko~ `lalat~ `nona~ `omah~.￺￻這塊田有十個手臂長。"],"f":"用手臂或尺子丈量。"}]}],"t":"lalat"}
+,"lalataken":{"h":[{"d":[{"e":["￹`O~ `'a'anipen~ `ko~ `lalataken~.￺￻要耙平將要插秧的田。"],"f":"要用耘田器耙平，要耙平的(田地)。"}]}],"tag":"[疊 2]","stem":"latak","t":"lalataken"}
+,"lalatangen":{"h":[{"d":[{"e":["￹`Onini~ `ko~ `lalatangen~ `to~ `sapa'aca~ `to~ `dateng~.￺￻量這斗米來付菜錢。"],"f":"要用容器斗量，要斗量的(穀物)。"}]}],"tag":"[疊 2]","stem":"latang","t":"lalatangen"}
+,"lalatawen":{"h":[{"d":[{"e":["￹`Ma~`herekto~ `a~ `mi~`faliw~ `o~ `lalatawen~ `kona~ `lotok~.￺￻這片山都砍伐好了是要焚燒的。"],"f":"要大火焚燒，要焚燒的(山林)。"}]}],"tag":"[疊 2]","stem":"lataw","t":"lalatawen"}
+,"lalaten":{"h":[{"d":[{"e":["￹`Lalaten~ `ako~ `ko~ `tireng~ `iso~.￺￻我量量你的身材。","￹`lalaten~ `kona~ `kilang~ , `pinaay~ `a~ `laya'~?￺￻丈量一下這根木頭，多少尺？"],"f":"把某物丈量。"}]}],"stem":"lalat","t":"lalaten"}
+,"lalato%27en":{"h":[{"d":[{"e":["￹`O~ `lalato'en~ `koni~ `a~ `ka~`^eled~.￺￻要拉斷的繩索。"],"f":"要拉斷、弄斷，要拉斷的(東西)。"}]}],"tag":"[疊 2]","stem":"lato'","t":"lalato'en"}
+,"lalawaten":{"h":[{"d":[{"e":["￹`Lalawaten~ `a~ `lihi~.￺￻要跨出去的田埂。"],"f":"要跨出去，要跨步出去的(目標)。"}]}],"tag":"[疊 2]","stem":"lawat","t":"lalawaten"}
+,"lalawisen":{"h":[{"d":[{"e":["￹`O~ `lalawisen~ `a~ `heci~ `no~ `kidafes~.￺￻伸手摘的石榴。"],"f":"要伸出去鉤取，要伸手去拿的(東西)。"}]}],"tag":"[疊 2]","stem":"lawis","t":"lalawisen"}
+,"lalaya%27en":{"h":[{"d":[{"e":["￹`O~ `maan~ `ko~ `lalaya'en~ `iso~?￺￻你伸手做什麼？"],"f":"要伸展雙臂丈量，要伸展雙臂丈量的(東西)。"}]}],"tag":"[疊 2]","stem":"laya'","t":"lalaya'en"}
+,"lalayalen":{"h":[{"d":[{"e":["￹`Lalayalen~ `i~ `moco'~.￺￻要懸掛在牆上。"],"f":"要懸掛、擱置起來，要懸掛、擱置起來的(東西)。"}]}],"tag":"[疊 2]","stem":"layal","t":"lalayalen"}
+,"lalayapen":{"h":[{"d":[{"e":["￹`O~ `lalayapen~ `a~ `nga'ayay~ `a~ `pinangan~ `no~ `'Amis~.￺￻要接受美好的阿美族美德。"],"f":"要伸手承接、接受，要承接、接受的(東西)。"}]}],"tag":"[疊 2]","stem":"layap","t":"lalayapen"}
+,"lalecaden":{"h":[{"d":[{"e":["￹`Lalecaden~ `ko~ `radiw~ `niyam~.￺￻請與我們同唱應和。"],"f":"應和而唱吧。"}]}],"stem":"lecad","t":"lalecaden"}
+,"lalecafi%27en":{"h":[{"d":[{"e":["￹`O~ `piropay~ `to~ `sera~ `ko~ `lalecafi'en~ `a~ `tayal~.￺￻填土是極須搶先要做的事。"],"f":"要搶先做，要搶先做的(對像、事情)。"}]}],"tag":"[疊 2]","stem":"lecafi'","t":"lalecafi'en"}
+,"lalecengen":{"h":[{"d":[{"e":["￹`O~ `papah~ `no~ `kida~ `ko~ `lalecengen~.￺￻要修整釋迦葉。"],"f":"要修整、修剪，要修整、修剪的(東西)。"}]}],"tag":"[疊 2]","stem":"leceng","t":"lalecengen"}
+,"lalefeken":{"h":[{"d":[{"e":["￹`O~ `lalefeken~ `no~ `kikay~ `koninni~ `a~ `fakeloh~.￺￻這石頭要用機器爆裂。"],"f":"要裂開，要推倒的(東西)。"}]}],"tag":"[疊 2]","stem":"lefek","t":"lalefeken"}
+,"lalefoen":{"h":[{"d":[{"e":["￹`Mari'angay~ `a~ `tamdaw~ `ko~ `lalefoen~.￺￻去攻擊那壞人。"],"f":"要襲擊、爭鬥打倒，要襲擊、打倒的(對像)。"}]}],"tag":"[疊 2]","stem":"lefo","t":"lalefoen"}
+,"lalefohen":{"h":[{"d":[{"e":["￹`Ma'icangay~ `a~ `^li'~ `i~ `lotok~ `ko~ `lalefohen~.￺￻燒山上那乾燥的茅草 ."],"f":"要加大火力燒，要加大火力燒的(東西)。"}]}],"tag":"[疊 2]","stem":"lefoh","t":"lalefohen"}
+,"laleko":{"h":[{"d":[{"e":["￹`Masamaanay~ `ko~ `laleko~ `no~ `fafikfik~ `saw~?￺￻壁虎的樣是怎麼樣的呢？"],"f":"長相，樣式，模式，規格。"}]}],"t":"laleko"}
+,"lalekoan":{"h":[{"d":[{"e":["￹`Makapah~ `ko~ `lalekoan~ `nonini~ `a~ `riko'~.￺￻這件衣服的樣式滿好看。"],"f":"樣式、模式、規格的類別。"}]}],"stem":"laleko","t":"lalekoan"}
+,"lalen":{"h":[{"d":[{"s":["`malalen~"],"e":["￹`Malalen~ `ko~ `palilam~ `i~ `cangra~`an~.￺￻平分給他們。"],"f":"(指內容與形式)一樣，沒有區別。"}]}],"t":"lalen"}
+,"lalenafen":{"h":[{"d":[{"e":["￹`On~ `lalenafen~ `ko~ `mapicpicay~ `a~ `padal~.￺￻那破裂的牆要油漆。"],"f":"要浸染、油刷，要浸染、油刷的(對像、東西)。"}]}],"tag":"[疊 2]","stem":"lenaf","t":"lalenafen"}
+,"lalenakan":{"h":[{"d":[{"e":["￹`Iraay~ `ko~ `lalenakan~ `no~ `topi~ `i~ `oma~`omahan~ `na~ `Hani~.￺￻約翰的田園裡有養鴿場。"],"f":"育種場，繁殖場。"}]}],"tag":"[疊 2]","stem":"lenak","t":"lalenakan"}
+,"lalenaken":{"h":[{"d":[{"e":["￹`O~ `lalenaken~ `ko~ `nga'ayay~ `a~ `demak~ `ningra~.￺￻要傳播他的善行。"],"f":"要傳播、繁衍，要傳播、繁衍的(對像)。"}]}],"tag":"[疊 2]","stem":"lenak","t":"lalenaken"}
+,"lalengatan":{"h":[{"d":[{"s":["`lalingatoan~"],"e":["￹`Paka~`yraay~ `i~ `ka~`polin~ `no~ `otopay~ `nangra~ `ko~ `lalengatan~.￺￻他們車禍成為肇因。"],"f":"事端的原因、導火線。"}]}],"tag":"[疊 2]","stem":"lengat","t":"lalengatan"}
+,"lalengaten":{"h":[{"d":[{"e":["￹`Mararid~ `a~ `lalengaten~ `no~ `tao~ `ko~ `finacadan~ `ita~.￺￻我們的民族常受挑戰。"],"f":"要挑釁、挑戰，要挑釁、挑戰的(對像)。"}]}],"tag":"[疊 2]","stem":"lengat","t":"lalengaten"}
+,"lalengawan":{"h":[{"d":[{"e":["￹`Lalengawan~ `no~ `'alo~.￺￻河的源頭。","￹`O~ `maan~ `ko~ `lalengawan~ `nona~ `fangafang~.￺￻爭議的根源何在呢？"],"f":"起源，根源，淵源。"}]}],"tag":"[疊 2]","stem":"lengaw","t":"lalengawan"}
+,"lalengelen":{"h":[{"d":[{"e":["￹`O~ `lalengelen~ `a~ `felac~.￺￻要浸泡的米。"],"f":"要浸泡，要浸泡的(東西)。"}]}],"tag":"[疊 2]","stem":"lengel","t":"lalengelen"}
+,"lalepelen":{"h":[{"d":[{"e":["￹`Lalepelen~ `ako~ `ko~ `malonem~.￺￻我要追捕的水鹿。"],"f":"要追捕，要追捕的(對像)。"}]}],"tag":"[疊 2]","stem":"lepel","t":"lalepelen"}
+,"lalepeten":{"h":[{"d":[{"e":["￹`Lalepeten~ `a~ `koko'~.￺￻要抓的雞。"],"f":"要捕捉、抓住，要捕捉、抓住的(對像)。"}]}],"tag":"[疊 2]","stem":"lepet","t":"lalepeten"}
+,"lales":{"h":[{"d":[{"s":["`malales~","`tales~"],"e":["￹`Malales~ `ko~ `funus~.￺￻腰刀不利。"],"f":"(刀)鈍，不利。"}]}],"t":"lales"}
+,"lalesi%27":{"h":[{"d":[{"s":["`malalesi'~"],"e":["￹`Malalesi'~ `ko~ `ka~`^emangay~ `a~ `midangoy~.￺￻游泳時孩子們相互潑水。"],"f":"彼此互相潑水。"}]}],"tag":"[疊 2]","stem":"lesi'","t":"lalesi'"}
+,"lalesilesi%27sa":{"h":[{"d":[{"e":["￹`Lalesilesi'sa~ `ko~ `kapah~ `no~ `Tafalong~ `ato~ `Fata'an~. `Tafalong~￺￻部落和 Fata'an 部落的年輕人互相間潑起水來了。"],"f":"大家彼此互相潑著水。"}]}],"tag":"[疊 2]","stem":"lesi'","t":"lalesilesi'sa"}
+,"lalet":{"h":[{"d":[{"s":["`mala~`let~"],"e":["￹`Mala~`let~ `ko~ `fatac~ `no~ `tefus~.￺￻甘蔗的節很均勻。"],"f":"均勻，一致。"}]}],"t":"lalet"}
+,"laleteken":{"h":[{"d":[{"s":["`fafadakasen~"],"e":["￹`O~ `laleteken~ `iso~ `a~ `toel~ `koni~.￺￻這是你要砍的茄冬樹。"],"f":"要砍伐，要砍伐的(樹木等)。"}]}],"tag":"[疊 2]","stem":"letek","t":"laleteken"}
+,"laletepen":{"h":[{"d":[{"e":["￹`Laletepen~ `ko~ `mitakaway~ `to~ `konga~.￺￻去抓那偷地瓜的人。"],"f":"要抓緊趕上，要抓緊趕上的(對像)。"}]}],"tag":"[疊 2]","stem":"letep","t":"laletepen"}
+,"laletlet":{"h":[{"d":[{"s":["`ma~`letlet~"],"e":["￹`Mala~`letlet~ `ko~ `takaraw~ `nangra~.￺￻他們的高度不分上下。"],"f":"彼此相同，不分高低。"}]}],"tag":"[疊 2]","stem":"letlet","t":"laletlet"}
+,"laletohen":{"h":[{"d":[{"e":["￹`Laletohen~ `i~ `lotok~ `ko~ `midatengay~.￺￻我們在山上對採菜的大聲嚎叫。"],"f":"大聲嚎叫、怒吼，要大聲嚎叫、怒吼的(對像)。"}]}],"tag":"[疊 2]","stem":"letoh","t":"laletohen"}
+,"lali%27":{"h":[{"d":[{"e":["￹`Matomes~ `ko~ `lali'~ `i~ `facal~.￺￻水田裡滿多污泥。"],"f":"(指流水淤積物)污泥，污物。"}]}],"t":"lali'"}
+,"lali%27atat":{"h":[{"d":[{"s":["`mala~`li'atat~"],"e":["￹`Malalifet~ `to~ `lali'atat~.￺￻競走比賽。"],"f":"競走，賽跑。"}]}],"tag":"[疊 2]","stem":"'atat","t":"lali'atat"}
+,"lali%27ay":{"h":[{"d":[{"s":["`malali'ay~"],"e":["￹`Malali'ay~ `kami~ `a~ `tatosa~.￺￻我們和解了。"],"f":"彼此諒解，和解。"}]}],"tag":"[疊 2]","stem":"li'ay","t":"lali'ay"}
+,"lali%27elan":{"h":[{"d":[{"e":["￹`Hopacem~ `ko~ `lali'elan~.￺￻把頸部洗淨。"],"f":"領子，項圈，頸部。"}]}],"tag":"[疊 2]","stem":"li'el","t":"lali'elan"}
+,"lali%27op":{"h":[{"d":[{"s":["`lalo'op~","`malali'op~"],"e":["￹`Malali'op~ `to~ `pa~`papacem~ `kako~.￺￻我每天清晨洗臉。"],"f":"洗臉。"}]}],"t":"lali'op"}
+,"lali%27open":{"h":[{"d":[{"s":["`lalo'open~"],"e":["￹`Lali'open~ `ko~ `laway~ `iso~ !￺￻洗洗你的臉吧！"],"f":"把臉洗一洗。"}]}],"stem":"lali'op","t":"lali'open"}
+,"lalicay":{"h":[{"d":[{"s":["`malalicay~"],"e":["￹`Adihay~ `ko~ `nika~ `lalicay~ `niyam~ `to~ `paka~`yniay~ `i~ `'orip~ `no~ `'Amis~.￺￻我們討論許多有關阿美族的生活。"],"f":"彼此相互問，磋商，商談。"}]}],"tag":"[疊 2]","stem":"licay","t":"lalicay"}
+,"lalicayen":{"h":[{"d":[{"e":["￹`Iraay~ `ko~ `maan~ `a~ `lalicayen~ `iso~ `han~?￺￻你有什麼要問的問題嗎？"],"f":"要詢問、提問，要詢問、提問的(事情)。"}]}],"tag":"[疊 2]","stem":"licay","t":"lalicayen"}
+,"laliclicen":{"h":[{"d":[{"e":["￹`O~ `laliclicen~ `ako~ `cingra~.￺￻我須質問他。"],"f":"要質問、審問，要質問、審問的(對像)。"}]}],"tag":"[疊 2]","stem":"liclic","t":"laliclicen"}
+,"lalicoden":{"h":[{"d":[{"s":["`lalicohen~"],"e":["￹`Lalicoden~ `ko~ `pa~`cek~ `i~ `lifel~ `no~ `paliding~.￺￻要拔掉車輪的釘子。"],"f":"要拔出、抽出，要拔出、抽出的(東西)。"}]}],"tag":"[疊 2]","stem":"licod","t":"lalicoden"}
+,"lalicohen":{"h":[{"d":[{"e":["￹`O~ `cadada~ `ko~ `lalicohen~.￺￻那架子拆下。"],"f":"要拆除、脫離，要拆除、脫離下來的(東西)。"}]}],"tag":"[疊 2]","stem":"licoh","t":"lalicohen"}
+,"lalidaliden":{"h":[{"d":[{"e":["￹`Lalidaliden~ `ko~ `sacapoxan~.￺￻要攤平秧田 ."],"f":"要弄平、攤平、碾平，要弄平、攤平、碾平的(對像)。"}]}],"tag":"[疊 2]","stem":"lidalid","t":"lalidaliden"}
+,"lalidec":{"h":[{"d":[{"s":["`kakidec~"],"e":["￹`Saheto~ `o~ `lalidec~ `ko~ `kasoy~ `ako~ `a~ `mikasoy~.￺￻我所砍的柴都是大花柴。"],"f":"九芎花，大花柴。"}]}],"t":"lalidec"}
+,"lalidefen":{"h":[{"d":[{"e":["￹`Lalidefen~ `a~ `loma'~.￺￻要關上門的房屋。"],"f":"要關起來，要緊閉；要關閉、緊閉的(門戶)。"}]}],"tag":"[疊 2]","stem":"lidef","t":"lalidefen"}
+,"lalidingan":{"h":[{"d":[{"s":["`mahod~"],"e":["￹`Lalidingan~ `to~ `manto~.￺￻蒸饅頭的籠屜。"],"f":"蒸煮食物的工具，蒸蘢，蒸屜。"}]}],"tag":"[疊 2]","stem":"liding","t":"lalidingan"}
+,"lalidoen":{"h":[{"d":[{"e":["￹`Lalidoen~ `a~ `talakal~.￺￻要去巡視查看的套獸圈兒。"],"f":"要巡查、查看，要巡查、查看的(對像)。"}]}],"tag":"[疊 2]","stem":"lido","t":"lalidoen"}
+,"lalidongen":{"h":[{"d":[{"e":["￹`Lalidongen~ `a~ `panay~ `kora~.￺￻那是要收回歸攏在一起的稻子。"],"f":"要收回、歸攏在一起，要收回、歸攏在一起的。"}]}],"tag":"[疊 2]","stem":"lidong","t":"lalidongen"}
+,"lalifelifet":{"h":[{"d":[{"s":["`malalifelifet~"],"e":["￹`Malalifelifet~ `ko~ `kapah~ `a~ `micolo'~ `to~ `amoto~.￺￻年輕人扛洋灰比賽。"],"f":"(指眾人、多方之問)互相競爭、競賽、比賽。"}]}],"tag":"[疊 2]","stem":"lifet","t":"lalifelifet"}
+,"lalifet":{"h":[{"d":[{"f":"彼此競爭，競賽，比賽。"}]}],"tag":"[疊 2]","stem":"lifet","t":"lalifet"}
+,"lalifeten":{"h":[{"d":[{"e":["￹`Lalifeten~ `a~ `tilid~.￺￻要考試的課文。"],"f":"要試探、試驗、考驗、考驗、較量，要考驗、較量的(對像)。"}]}],"tag":"[疊 2]","stem":"lifet","t":"lalifeten"}
+,"laliflifen":{"h":[{"d":[{"e":["￹`Laliflifen~ `no~ `wawa~ `a~ `mali~.￺￻小孩要藏起來的球。"],"f":"要隱藏、藏匿，要隱藏、藏匿的(東西)。"}]}],"tag":"[疊 2]","stem":"liflif","t":"laliflifen"}
+,"lalifoken":{"h":[{"d":[{"e":["￹`O~ `cokap~ `ko~ `lalifoken~.￺￻要撿鞋子。"],"f":"要撿拾，要撿拾的(遺物)。"}]}],"tag":"[疊 2]","stem":"lifok","t":"lalifoken"}
+,"lalifonen":{"h":[{"d":[{"e":["￹`O~ `no~ `toloay~ `a~ `romi'ad~ `ko~ `lalifonen~.￺￻三天的報酬。"],"f":"要領薪水酬報，要領的、酬報的(酬金)。"}]}],"tag":"[疊 2]","stem":"lifon","t":"lalifonen"}
+,"lalifongohen":{"h":[{"d":[{"e":["￹`Lalifongohen~ `niyam~ `a~ `'ada~.￺￻我們即將去征討砍頭的敵人。"],"f":"即將獵首、砍頭，即將獵首、砍頭的(對像)。"}]}],"tag":"[疊 2]","stem":"fongoh","t":"lalifongohen"}
+,"lalihayen":{"h":[{"d":[{"e":["￹`Oya~ `ma~`'arolay~ `no~ `nanom~ `ko~ `lalihayen~.￺￻為被水衝走的舉行追思禮拜。"],"f":"即將做禮拜，即將禮拜的(對像)。"}]}],"tag":"[疊 2]","stem":"lihay","t":"lalihayen"}
+,"lalihiwen":{"h":[{"d":[{"e":["￹`Lalihiwen~ `no~ `riyal~ `konini~ `a~ `lawac~.￺￻將被海水沖蝕沖垮的邊際。"],"f":"即將沖蝕沖塌的(對像)。"},{"f":"受欺壓的。"}]}],"tag":"[疊 2]","stem":"lihiw","t":"lalihiwen"}
+,"lalikaten":{"h":[{"d":[{"e":["￹`Lalikaten~ `a~ `talod~.￺￻就要點火燒的雜草。"],"f":"要點燃、點上火，要點燃、點上火的(東西)。"}]}],"tag":"[疊 2]","stem":"likat","t":"lalikaten"}
+,"lalikawan":{"h":[{"d":[{"e":["￹`Ma~`herekayto~ `a~ `lalikawan~.￺￻已完成纏繞起來的線圈兒。"],"f":"纏繞起來的線圈兒。"}]}],"tag":"[疊 2]","stem":"likaw","t":"lalikawan"}
+,"lalikawen":{"h":[{"d":[{"e":["￹`Lalikawen~ `ni~ `kaka~ `a~ `walay~.￺￻姊姊要纏繞的毛線。"],"f":"即將纏繞成圈，即將纏繞成圈的(毛織物)。"}]}],"tag":"[疊 2]","stem":"likaw","t":"lalikawen"}
+,"lalikeden":{"h":[{"d":[{"e":["￹`Lalikeden~ `i~ `tektek~ `a~ `ka~`^eled~.￺￻要盤繞在短柱的繩子。"],"f":"要盤繞、盤捲，要盤繞、盤捲起來的(東西)。"}]}],"tag":"[疊 2]","stem":"liked","t":"lalikeden"}
+,"lalikel":{"h":[{"d":[{"s":["`malalikel~"],"e":["￹`Caayka~ `lalikel~ `to~ `paliding~ `kami~.￺￻我們並不各自擁有車子。"],"f":"彼此抽出來平分，各自有分。"}]}],"tag":"[疊 2]","stem":"likel","t":"lalikel"}
+,"lalikelen":{"h":[{"d":[{"e":["￹`Lalikelen~ `nangra~ `koya~ `cokap~.￺￻他們各有一雙鞋子。"],"f":"要平分，要抽出來平分的(東西)。"}]}],"tag":"[疊 2]","stem":"likel","t":"lalikelen"}
+,"lalikelhan":{"h":[{"d":[{"e":["￹`Lalikelhan~ `noya~ `malikakaay~ `mi'alay~ `ko~ `tafo~.￺￻那些兄弟就各自拿了飯盒。"],"f":"就把某物抽出來平分。"}]}],"tag":"[疊 2]","stem":"likel","t":"lalikelhan"}
+,"lalikelikel":{"h":[{"d":[{"s":["`malalikelikel~"],"e":["￹`Malalikelikel~ `kami~ `to~ `kafuti'an~.￺￻我們各有床位。"],"f":"大家互相把某物拿出來分配了。"}]}],"tag":"[疊 2]","stem":"likel","t":"lalikelikel"}
+,"lalikid":{"h":[{"d":[{"s":["`malalikid~"],"e":["￹`Lalikid~ `sa~ `makero~.￺￻一起牽手跳舞。"],"f":"大家互相手拉手跳舞，彼此拉手共舞。"}]},{"d":[{"f":"北部阿美人以團結慶功為主旨的傳統祭舞。"}]}],"tag":"[疊 2]","stem":"likid","t":"lalikid"}
+,"lalikiden":{"h":[{"d":[{"e":["￹`Lalikiden~ `no~ `nanom~ `a~ `kasoy~.￺￻將被水沖走的木材。"],"f":"即將沖刷流走，即將沖刷流走的(對像)。"}]}],"tag":"[疊 2]","stem":"likid","t":"lalikiden"}
+,"lalikol":{"h":[{"d":[{"s":["`lalikolan~"],"f":"指動物的胞衣。"}]}],"tag":"[疊 2]","stem":"likol","t":"lalikol"}
+,"lalikolan":{"h":[{"d":[{"s":["`lalikol~"],"f":"指動物的胞衣。"}]}],"tag":"[疊 2]","stem":"likol","t":"lalikolan"}
+,"lalikoten":{"h":[{"d":[{"e":["￹`Lalikoten~ `no~ `waco~ `a~ `fafoy~.￺￻獵犬要包圍的野豬。"],"f":"要包圍，要包圍的(對像)。"}]}],"tag":"[疊 2]","stem":"likot","t":"lalikoten"}
+,"lalilamen":{"h":[{"d":[{"e":["￹`Lalilamen~ `ko~ `payso~ `niyam~.￺￻我們這些錢要分配下去了。","￹`Lalilamen~ `a~ `'odax~.￺￻即將均分給大家的糖果。"],"f":"即將分配、分領，即將分配、分領的(東西)。"}]}],"tag":"[疊 2]","stem":"lilam","t":"lalilamen"}
+,"lalilecen":{"h":[{"d":[{"e":["￹`Lalilecen~ `a~ `mikedec~.￺￻要栓緊。"],"f":"即將捻緊、扭緊，即將捻緊、扭緊的(東西，如螺絲釘)。"}]}],"tag":"[疊 2]","stem":"lilec","t":"lalilecen"}
+,"lalilidan":{"h":[{"d":[{"e":["￹`O~ `cinaw~ `ko~ `lalilidan~.￺￻籃子作抬舉的東西。"],"f":"兩人共同抬舉的東西。"}]}],"tag":"[疊 2]","stem":"lilid","t":"lalilidan"}
+,"laliliden":{"h":[{"d":[{"e":["￹`Laliliden~ `a~ `fokeloh~.￺￻要抬起來的石頭。"],"f":"兩人要抬舉，要抬舉的(東西)。"}]}],"tag":"[疊 2]","stem":"lilid","t":"laliliden"}
+,"lalilifonen":{"h":[{"d":[{"e":["￹`O~ `no~ `toloay~ `a~ `fulad~ `ko~ `lalilifonen~ `ako~.￺￻我要領三個月的薪水。"],"f":"要領取工資，要領取的(工資、酬金等)。"}]}],"tag":"[疊 2]","stem":"lifon","t":"lalilifonen"}
+,"lalilis":{"h":[{"d":[{"s":["`mala~`lilis~"],"e":["￹`Mala~`lilis~ `cangra~ `to~ `tafok~.￺￻他們兩人一起扛沙子。"],"f":"兩人一起扛、支撐。"}]}],"tag":"[疊 2]","stem":"lilis","t":"lalilis"}
+,"laliliten":{"h":[{"d":[{"e":["￹`Laliliten~ `a~ `sipsip~.￺￻要用錐子鑽煙管。"],"f":"要用錐子鑽，要用錐子鑽的(東西)。"}]}],"tag":"[疊 2]","stem":"lilit","t":"laliliten"}
+,"laliliwen":{"h":[{"d":[{"e":["￹`O~ `ngasaw~ `ko~ `laliliwen~.￺￻邀親屬協助蓋房子。"],"f":"一個一個通知或連絡召集。"}]}],"tag":"[疊 2]","stem":"liliw","t":"laliliwen"}
+,"lalilocen":{"h":[{"d":[{"e":["￹`Lalilocen~ `a~ `nanom~.￺￻洗浴用的水。"],"f":"即將洗浴、洗澡，即將洗浴、洗澡的(對像)。"}]}],"tag":"[疊 2]","stem":"liloc","t":"lalilocen"}
+,"lalima":{"h":[{"d":[{"e":["￹`Lalima~ `ko~ `safa~ `ako~.￺￻我有五個弟弟。"],"f":"五人，五個人。"}]}],"tag":"[疊 2]","stem":"lima","t":"lalima"}
+,"lalimaay":{"h":[{"d":[{"f":"有五人。"},{"e":["￹`Lalimaay~ `ko~ `wawa~ `nira~.￺￻他有五個孩子。","￹`Lalimaay~ `a~ `kapah~.￺￻五個青年。"],"f":"五個人的。"}]}],"tag":"[疊 2]","stem":"lima","t":"lalimaay"}
+,"lalimaden":{"h":[{"d":[{"e":["￹`Lalimaden~ `a~ `'ongcoy~.￺￻要搬運的石頭。"],"f":"即將移動、搬動，即將移動、搬動的(對像)。"}]}],"tag":"[疊 2]","stem":"limad","t":"lalimaden"}
+,"lalimeken":{"h":[{"d":[{"e":["￹`Lalimeken~ `a~ `tamdaw~.￺￻要躲藏的人。"],"f":"即將躲藏，即將躲藏的(對像)。"}]}],"tag":"[疊 2]","stem":"limek","t":"lalimeken"}
+,"lalimelaen":{"h":[{"d":[{"e":["￹`Lalimelaen~ `ko~ `romi'ad~.￺￻愛惜光陰。"],"f":"即將珍惜、疼愛，即將珍惜、疼愛的(對像)。"}]}],"tag":"[疊 2]","stem":"limela","t":"lalimelaen"}
+,"lalinahen":{"h":[{"d":[{"e":["￹`Lalinahen~ `iso~ `a~ `kamaro'an~.￺￻你要搬走的坐位。"],"f":"要搬走、遷移，要搬走、遷移的(對像)。"}]}],"tag":"[疊 2]","stem":"linah","t":"lalinahen"}
+,"laling":{"h":[{"d":[{"s":["`malaling~"],"e":["￹`Caayka~ `pakafilo~ `to~ `adada~ `cingra~ `laling~ `saan~ `to~ `lafii~.￺￻他半夜忍不住疼痛就呻吟起來。"],"f":"呻吟，沈吟。"}]}],"t":"laling"}
+,"lalingatoan":{"h":[{"d":[{"s":["`lalengawan~"],"e":["￹`O~ `maan~ `ko~ `lalingatoan~?￺￻起因是什麼。","￹`Iraan~ `ko~ `lalingatoan~ `no~ `palang~ `a~ `komaen~ `to~ `tafo~ `tahanini~.￺￻那就是烏鴉至今吃乾糧的緣故。"],"f":"起因，緣故，根源，起源。"}]}],"tag":"[疊 2]","stem":"lingato","t":"lalingatoan"}
+,"lalingatoen":{"h":[{"d":[{"s":["`lalengatoan~"],"e":["￹`Paka~`yni~ `ko~ `lalingatoen~ `a~ `matayal~.￺￻從此處開始工作。"],"f":"即將開始、啟程，即將開始、啟程的(事情)。"}]}],"tag":"[疊 2]","stem":"lingato","t":"lalingatoen"}
+,"lalingkingen":{"h":[{"d":[{"e":["￹`I~ `tokos~ `na~ `Talod~ `ko~ `lalingkingen~.￺￻在達路斯的田園摘龍眼。"],"f":"要摘龍眼，要摘下來的龍眼。"}]}],"tag":"[疊 2]","stem":"lingking","t":"lalingkingen"}
+,"lalingkiwen":{"h":[{"d":[{"e":["￹`O~ `lalingkiwen~ `a~ `koni~.￺￻這是要收摘的辣椒。"],"f":"要收摘辣椒，要收摘的辣椒。"}]}],"tag":"[疊 2]","stem":"lingkiw","t":"lalingkiwen"}
+,"lalingkoen":{"h":[{"d":[{"e":["￹`Icowa~ `ko~ `lalingkoen~?￺￻那裡要摘下來的蘋果。"],"f":"要摘蘋果，要摘下來的蘋果。"}]}],"tag":"[疊 2]","stem":"lingko","t":"lalingkoen"}
+,"lalingoden":{"h":[{"d":[{"e":["￹`Lalingoden~ `no~ `tamdaw~ `ko~ `makeroay~.￺￻人門圍觀舞者。"],"f":"要圍觀、觀望，要圍觀、觀望的(對像)。"}]}],"tag":"[疊 2]","stem":"lingod","t":"lalingoden"}
+,"lalingowaen":{"h":[{"d":[{"e":["￹`Lalingowaen~ `niyam~ `a~ `tamdaw~ `cingra~.￺￻他是我們要理睬的人。"],"f":"要打招呼，要打招呼的(對像)。"}]}],"tag":"[疊 2]","stem":"lingowa","t":"lalingowaen"}
+,"lalinik":{"h":[{"d":[{"e":["￹`Lalinik~ `no~ `kafuti'an~.￺￻床底下。"],"f":"下面，底下，底層。"}]}],"tag":"[疊 2]","stem":"linik","t":"lalinik"}
+,"laliniken":{"h":[{"d":[{"f":"要不辭而別、偷偷溜走，要不辭而別、偷偷溜走的(對像)。"}]}],"tag":"[疊 2]","stem":"linik","t":"laliniken"}
+,"lalipalawen":{"h":[{"d":[{"e":["￹`Ano~ `caayka~ `pisa'icel~ `a~ `minanam~ `kamo~ `to~ `tilid~ `no~ `Amilika~, `o~ `lalipalawen~ `no~ `tao~ `kamo~ `a~ `mafana'~.￺￻妳們不加強練英文別人則會強過妳們。"],"f":"即將乘其不意而行事，即將乘機突然採取行動的(對像)。"}]}],"tag":"[疊 2]","stem":"palaw","t":"lalipalawen"}
+,"lalipayen":{"h":[{"d":[{"s":["`lalihayen~"],"e":["￹`Ini~ `a~ `loma'~ `ko~ `lalipayen~.￺￻就在這家禮拜。"],"f":"即將做禮拜，即將禮拜的(對像)。"}]}],"tag":"[疊 2]","stem":"lipay","t":"lalipayen"}
+,"lalipoten":{"h":[{"d":[{"e":["￹`Lalipoten~ `a~ `fingkes~.￺￻要捲起來的煙葉。"],"f":"要捲起來，要捲起來的(東西，如香煙)。"}]}],"tag":"[疊 2]","stem":"lipot","t":"lalipoten"}
+,"lalipowaken":{"h":[{"d":[{"e":["￹`Lalipowaken~ `no~ `fali~.￺￻要被風剖開。"],"f":"要剖開、裂開，要剖開、裂開的(東西)。"}]}],"tag":"[疊 2]","stem":"powak","t":"lalipowaken"}
+,"laliw":{"h":[{"d":[{"s":["`milaliw~"],"e":["￹`Matalaw~ `to~ `singsi~ `ko~ `mitiliday~ `saka~ `laliw~ `saan~.￺￻學生們怕老師因此逃跑了。"],"f":"逃跑，溜走。"}]}],"t":"laliw"}
+,"laliwen":{"h":[{"d":[{"e":["￹`O~ `ta~`tayni~ `ko~ `faki~,`laliwen~ `namo~ !￺￻伯父要來了，你們怎麼要離去呢？"],"f":"要離開、逃脫。"}]}],"stem":"laliw","t":"laliwen"}
+,"laliyangen":{"h":[{"d":[{"e":["￹`O~ `laliyangen~ `niyam~ `ko~ `pi~`ocor~ `no~ `tapang~.￺￻我們要違抗上級派我們去。"],"f":"要違抗、爭議，要違抗、反駁的(對像)。"}]}],"tag":"[疊 2]","stem":"liyang","t":"laliyangen"}
+,"laliyas":{"h":[{"d":[{"s":["`malaliyas~"],"e":["￹`Ano~ `caay~ `ka~ `nga'ay~ `ko~ `faloco'~ `namo~ `i~, `laliyas~ `han~ `ko~ `nga'ay~.￺￻你們若不同心倒不如分開的好。"],"f":"彼此離開，分離。"}]}],"tag":"[疊 2]","stem":"liyas","t":"laliyas"}
+,"laliyasen":{"h":[{"d":[{"e":["￹`Ma~`lponto~ `ko~ `tayal~ `itini~ `laliyasen~ `niyam~ `koni~ `a~ `katayalan~.￺￻我們完成這裡的工作我們要離開這裡。"],"f":"即將離開、讓開，即將離開、讓開的(對像)。"}]}],"tag":"[疊 2]","stem":"liyas","t":"laliyasen"}
+,"laliyawen":{"h":[{"d":[{"e":["￹`Laliyawen~ `a~ `mitopa~.￺￻要重新蓋章。"],"f":"要重複、重新(做);要重複、重新(做)的。"}]}],"tag":"[疊 2]","stem":"liyaw","t":"laliyawen"}
+,"laliyoc":{"h":[{"d":[{"e":["￹`Ma~`celak~ `ko~ `hana~ `no~ `laliyoc~.￺￻百百紅花盛開。"],"f":"百百紅。"}]}],"t":"laliyoc"}
+,"laliyocen":{"h":[{"d":[{"e":["￹`Laliyocen~ `a~ `piked~ `no~ `lalan~.￺￻要走回頭的路口。","￹`Laliyocen~ `ko~ `poto~ `a~ `mikedec~.￺￻要扭緊螺絲。"],"f":"要迴轉回來，要回頭走來，扭緊。"}]}],"tag":"[疊 2]","stem":"liyoc","t":"laliyocen"}
+,"laliyoken":{"h":[{"d":[{"e":["￹`Laliyoken~ `no~ `taylin~ `a~ `pala~ `koni~.￺￻警察要巡視的地區。"],"f":"要巡視、巡邏，要巡視、巡邏的(對像)。"}]}],"tag":"[疊 2]","stem":"liyok","t":"laliyoken"}
+,"laliyonen":{"h":[{"d":[{"e":["￹`O~ `laliyonen~ `ko~ `talipa'an~ `no~ `koliciw~ `ta~ `comikay~.￺￻要轉動腳踏車板才會跑。"],"f":"要旋轉、轉動，要旋轉、要旋轉、轉動的(東西，如風車)。"}]}],"tag":"[疊 2]","stem":"liyon","t":"laliyonen"}
+,"laliyoten":{"h":[{"d":[{"e":["￹`O~ `laliyoten~ `ko~ `faloco'~ `iso~.￺￻你的心要轉變。"],"f":"要扭轉、轉變，要扭轉、轉變的(對像)。"}]}],"tag":"[疊 2]","stem":"liyot","t":"laliyoten"}
+,"lalo":{"h":[{"d":[{"s":["`milalo~"],"e":["￹`Milalo~ `to~ `felac~.￺￻浸泡糯米。"],"f":"浸泡，漬水(糯米)。"}]}],"t":"lalo"}
+,"lalo%27op":{"h":[{"d":[{"s":["`lali'op~","`malalo'op~"],"f":"洗臉。"}]}],"t":"lalo'op"}
+,"lalo%27open":{"h":[{"d":[{"s":["`lali'open~"],"e":["￹`Lalo'open~ `i~ `fanaw~.￺￻在魚池洗臉。"],"f":"要求對方洗洗臉，把臉洗一洗。"}]}],"stem":"lalo'op","t":"lalo'open"}
+,"laloalo":{"h":[{"d":[{"e":["￹`Ira~ `i~ `fanaw~ `ko~ `laloalo~.￺￻池塘有水蛙。"],"f":"水蛙。"}]}],"t":"laloalo"}
+,"lalocoken":{"h":[{"d":[{"e":["￹`Lalocoken~ `a~ `nanom~.￺￻要連結的水。"],"f":"要連結、連接，要學習的對象、要連接的(東西)。"}]}],"tag":"[疊 2]","stem":"locok","t":"lalocoken"}
+,"lalodasen":{"h":[{"d":[{"e":["￹`Lalodasen~ `ko~ `wa'a~ `no~ `kolong~.￺￻要烙傷牛角。"],"f":"即將烙傷、燙傷，即將烙傷、燙傷的(對像)。"}]}],"tag":"[疊 2]","stem":"lodas","t":"lalodasen"}
+,"lalodisan":{"h":[{"d":[{"s":["`lalosidan~"],"e":["￹`Lalodisan~ `no~ `loma'~.￺￻傢俱。"],"f":"行李，日常用品。"}]}],"tag":"[疊 2]","stem":"lodis","t":"lalodisan"}
+,"lalodoten":{"h":[{"d":[{"e":["￹`Lalodoten~ `a~ `tilo~.￺￻要收攏的魚網。"],"f":"即將收網，即將回收的網。"}]}],"tag":"[疊 2]","stem":"lodot","t":"lalodoten"}
+,"laloecan":{"h":[{"d":[{"e":["￹`Nengen~ `makalat~ `no~ `laloecan~.￺￻小心不要被毒蛇咬。"],"f":"一種毒蛇名稱。"}]}],"t":"laloecan"}
+,"laloen":{"h":[{"d":[{"e":["￹`Laloen~ `ko~ `doway~.￺￻把糯米泡了。"],"f":"把米浸泡、漬水。"}]}],"stem":"lalo","t":"laloen"}
+,"laloficen":{"h":[{"d":[{"e":["￹`Laloficen~ `a~ `kakaenen~.￺￻要撿起來的糧食。"],"f":"要拾撿，要拾撿的(遺物)。"}]}],"tag":"[疊 2]","stem":"lofic","t":"laloficen"}
+,"lalofoten":{"h":[{"d":[{"e":["￹`Lalofoten~ `a~ `kilang~.￺￻要砍掉的樹。"],"f":"要砍斷、砍掉，要砍斷、砍掉的(東西)。"}]}],"tag":"[疊 2]","stem":"lofot","t":"lalofoten"}
+,"lalohaken":{"h":[{"d":[{"e":["￹`Lalohaken~ `kona~ `sera~ `pipalomaan~ `to~ `kodasing~.￺￻要將這地鬆開以便種稙花生。"],"f":"即將鬆土，即將耘鬆的(土地)。"}]}],"tag":"[疊 2]","stem":"lohak","t":"lalohaken"}
+,"lalok":{"h":[{"d":[{"s":["`malalok~"],"e":["￹`Malalok~ `a~ `matayal~ `ko~ `fafahi~ `ako~.￺￻我太太很認真工作。"],"f":"認真，用功，勤奮，孜孜不倦。"}]}],"t":"lalok"}
+,"lalokesen":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `lalokesen~ `i~ `tireng~ `iso~.￺￻你身上沒什麼可誹謗的。"],"f":"要誹謗、嘲弄，要誹謗、嘲弄的(對像)。"}]}],"tag":"[疊 2]","stem":"lokes","t":"lalokesen"}
+,"lalokiyolen":{"h":[{"d":[{"e":["￹`Lalokiyolen~ `kona~ `waya~ `a~ `mi~`kdec~.￺￻這鋼索要繞圈弄緊。"],"f":"要拐彎、繞圈，要拐彎、繞圈的(東西)。"}]}],"tag":"[疊 2]","stem":"lokiyol","t":"lalokiyolen"}
+,"lalolayhan":{"h":[{"d":[{"e":["￹`Cowa~ `ka~`nga'ay~ `a~ `lalolayhan~ `cingra~ `toni~ `a~ `demak~.￺￻不能為此事一再地勞累他。"],"f":"一再地勞累別人，使人勞累。"}]}],"tag":"[疊 2]","stem":"lolay","t":"lalolayhan"}
+,"laloloden":{"h":[{"d":[{"e":["￹`Laloloden~ `a~ `sikal~.￺￻要席捲起來的草席。"],"f":"要捲、席捲，要捲起來的(東西)。"}]}],"tag":"[疊 2]","stem":"lolod","t":"laloloden"}
+,"lalolohen":{"h":[{"d":[{"e":["￹`Cima~ `ko~ `lalolohen~ `iso~ `to~ `nika~ `apa~ `no~ `faloco'~.￺￻你心不正要怪誰。"],"f":"要遷怒發泄情緒，要遷怒的(對像；即替罪羊)。"}]}],"tag":"[疊 2]","stem":"loloh","t":"lalolohen"}
+,"lalololen":{"h":[{"d":[{"e":["￹`Lalololen~ `a~ `omah~.￺￻要回復的田園。"],"f":"要歸還、回復，要歸還、回復的(對像)。"}]}],"tag":"[疊 2]","stem":"lolol","t":"lalololen"}
+,"lalolongen":{"h":[{"d":[{"e":["￹`Lalolongen~ `a~ `'asisiw~.￺￻要捆成捆兒的稻草。"],"f":"要捆成捆兒，要捆成捆兒的(東西)。"}]}],"tag":"[疊 2]","stem":"lolong","t":"lalolongen"}
+,"laloma%27":{"h":[{"d":[{"e":["￹`Asiken~ `ko~ `laloma'~.￺￻掃室內。"],"f":"宅內，屋裡，家裡。"}]}],"tag":"[疊 2]","stem":"loma'","t":"laloma'"}
+,"laloma%27an":{"h":[{"d":[{"e":["￹`Laloma'an~ `no~ `ka~`kita~`an~.￺￻酋長本家、祖家。"],"f":"家族，親戚，氏族。"}]}],"tag":"[疊 2]","stem":"loma'","t":"laloma'an"}
+,"lalomeken":{"h":[{"d":[{"e":["￹`Lalomeken~ `no~ `tao~ `kiso~.￺￻你會被人揍死。"],"f":"要狠揍、暗殺，要狠揍、暗殺的(對像)。"}]}],"tag":"[疊 2]","stem":"lomek","t":"lalomeken"}
+,"lalonah":{"h":[{"d":[{"s":["`alonah~","`kakonah~"],"e":["￹`Masarayaray~ `ko~ `rakat~ `no~ `lalonah~.￺￻螞蟻整隊行進。"],"f":"螞蟻。"}]}],"t":"lalonah"}
+,"lalong":{"h":[{"d":[{"e":["￹`Patireng~ `to~ `lalong~ `i~ `omah~.￺￻在田裡建涼棚。"],"f":"(臨時建起來的)小屋，田寮，涼棚。"}]}],"t":"lalong"}
+,"lalongeden":{"h":[{"d":[{"e":["￹`Lalongeden~ `a~ `kasoy~.￺￻要點燃的木材。"],"f":"要點燃，要點燃的(東西，如火把)。"}]}],"tag":"[疊 2]","stem":"longed","t":"lalongeden"}
+,"lalonohen":{"h":[{"d":[{"e":["￹`Lalonohen~ `a~ `waco~.￺￻要脫毛的狗。"],"f":"要脫毛、褪毛，要脫毛、褪毛的(對像)。"}]}],"tag":"[疊 2]","stem":"lonoh","t":"lalonohen"}
+,"lalonolen":{"h":[{"d":[{"e":["￹`Lalonolen~ `a~ `demak~.￺￻要接下去及時做的工作。"],"f":"即將趕上、及時做，即將趕上、及時做的(對像)。"}]}],"tag":"[疊 2]","stem":"lonol","t":"lalonolen"}
+,"lalood":{"h":[{"d":[{"s":["`ka~`ciferang~`an~"],"e":["￹`Midangoy~ `ko~ `ka~`^emangay~ `i~ `riyal~ `to~ `lalood~.￺￻夏天孩子們在海裡游泳。"],"f":"夏天。"}]},{"d":[{"s":["`malalood~"],"e":["￹`Malalood~ `ko~ `Kowaping~ `ato~ `Dipong~.￺￻中國與日本交戰。"],"f":"彼此相互攻擊，交戰。"}]}],"tag":"[疊 2]","stem":"lood","t":"lalood"}
+,"laloodan":{"h":[{"d":[{"s":["`kalaloodan~"],"e":["￹`Macahiw~ `ko~ `tamdaw~ `i~ `kalaloodan~.￺￻戰爭時期人們很饑餓。"],"f":"戰爭時期。"}]}],"tag":"[疊 2]","stem":"lood","t":"laloodan"}
+,"lalooden":{"h":[{"d":[{"e":["￹`Lalooden~ `niyam~ `a~ `niyaro'~.￺￻我們要討伐的部落。"],"f":"即將討伐、進攻，即將討伐的(對像)。"}]}],"tag":"[疊]","stem":"lood","t":"lalooden"}
+,"lalopela%27":{"h":[{"d":[{"s":["`tahoper~"],"e":["￹`Mipodpod~ `to~ `lalopela'~.￺￻揀地衣菜。"],"f":"一種地衣名稱。可食用。"}]}],"t":"lalopela'"}
+,"lalosida%27en":{"h":[{"d":[{"e":["￹`Lalosida'en~ `a~ `matayal~.￺￻並肩工作。"],"f":"即將並肩並立，即將並肩並立的(對像)。"}]}],"tag":"[疊 2]","stem":"losida'","t":"lalosida'en"}
+,"lalosidan":{"h":[{"d":[{"s":["`lalodisan~"],"e":["￹`Aka~ `sidayen~ `ko~ `lalosidan~.￺￻不要遺失行李。"],"f":"行李，日常用品。"}]}],"tag":"[疊 2]","stem":"losid","t":"lalosidan"}
+,"lalosimeten":{"h":[{"d":[{"s":["`saso~`meten~"],"e":["￹`Lalosimeten~ `a~ `riko'~.￺￻要整理的衣服。"],"f":"即將重新整理、整修，即將整修、整理的(東西)。"}]}],"tag":"[疊 2]","stem":"losimet","t":"lalosimeten"}
+,"lalosiyangen":{"h":[{"d":[{"e":["￹`O~ `lalosiyangen~ `ko~ `nga'ayay~ `a~ `demak~ `ningra~.￺￻他的善行須傳播。"],"f":"即將傳播、傳遞，即將傳播的(消息)。"}]}],"tag":"[疊 2]","stem":"losiyang","t":"lalosiyangen"}
+,"lalotaloten":{"h":[{"d":[{"e":["￹`Lalotaloten~ `a~ `sarosaros~.￺￻要銼齒的鋸子。"],"f":"要銼，要鋸的。"}]}],"tag":"[疊 2]","stem":"lotalot","t":"lalotaloten"}
+,"lalotloten":{"h":[{"d":[{"e":["￹`Lalotloten~ `ko~ `moraraway~ `a~ `tilid~ `i~ `dadokap~.￺￻在紙上寫錯的要揉皺。"],"f":"即將揉皺，即將揉皺的(東西，如紙張等)。"}]}],"tag":"[疊 2]","stem":"lotlot","t":"lalotloten"}
+,"lalowanen":{"h":[{"d":[{"e":["￹`Lalowanen~ `ko~ `matayalay~.￺￻裁員。"],"f":"即將減去、扣除，即將減去、扣除的(東西)。"}]}],"tag":"[疊 2]","stem":"lowan","t":"lalowanen"}
+,"lalowiden":{"h":[{"d":[{"s":["`dawaen~"],"e":["￹`Lalowiden~ `ko~ `'ada~.￺￻征服敵人。"],"f":"即將征服，即將征服的(對像)。"}]}],"tag":"[疊 2]","stem":"lowid","t":"lalowiden"}
+,"lama%27":{"h":[{"d":[{"s":["`mala~`ma'~"],"e":["￹`Mala~`ma'~ `ko~ `kamay~ `nona~ `wawa~.￺￻這孩子的手髒兮兮的。"],"f":"髒，髒兮兮的。"}]}],"t":"lama'"}
+,"lamal":{"h":[{"d":[{"s":["`namal~"],"e":["￹`Totomen~ `ko~ `lamal~.￺￻點火。"],"f":"火。"}]}],"t":"lamal"}
+,"lamec":{"h":[{"d":[{"s":["`mi~`lamec~"],"e":["￹`Mala~`mec~ `ako~ `kiso~.￺￻我抓到你。"],"f":"抓，拿。"}]}],"t":"lamec"}
+,"lamecen":{"h":[{"d":[{"e":["￹`Lamecen~ `no~ `wawa~ `ko~ `coco~ `no~ `ina~.￺￻孩子抓著母親的奶。"],"f":"把某物抓、拿住。"}]}],"stem":"lamec","t":"lamecen"}
+,"lameloen":{"h":[{"d":[{"e":["￹`Lameloen~ `ko~ `lamlo~.￺￻收割小米吧。"],"f":"把小米收割，收割小米吧。"}]}],"stem":"lamelo","t":"lameloen"}
+,"lamelomloan":{"h":[{"d":[{"s":["`lalameloan~"],"e":["￹`Mi~`comoli~ `i~ `lamelo~`meloan~.￺￻在小米地撿蝸牛。"],"f":"小米地。"}]}],"tag":"[疊 2]","stem":"lamelo","t":"lamelomloan"}
+,"lamit":{"h":[{"d":[{"e":["￹`Masadak~ `ko~ `lamit~ `no~ `kilang~ `nani~ `'ongcoy~.￺￻樹根由巨石縫出來。"],"f":"根，根部，根基。"}]}],"t":"lamit"}
+,"lamlam":{"h":[{"d":[{"s":["`camol~","`mi~`lamlam~"],"e":["￹`Mi~`lamlam~ `ko~ `ma~`ngirosay~ `a~ `tamdaw~ `i~ `sa'opo~ `niyam~.￺￻有搗蛋份子參入我們的會中。"],"f":"混合，混雜，摻混。"}]}],"t":"lamlam"}
+,"lamlamen":{"h":[{"d":[{"f":"把某物摻混、混雜進去。"}]}],"stem":"lamlam","t":"lamlamen"}
+,"lamlo":{"h":[{"d":[{"s":["`hafay~","`faridaw~"],"e":["￹`Mipaloma~ `to~ `lamlo~.￺￻種小米。"],"f":"粟，小米。"}]}],"t":"lamlo"}
+,"lamo":{"h":[{"d":[{"e":["￹`Malalamo~ `ko~ `waco~ `i~ `lalan~.￺￻狗在馬路上交配。"],"f":"(動物)交尾，交配。"}]}],"t":"lamo"}
+,"lamok":{"h":[{"d":[{"s":["`malamok~"],"e":["￹`Malamok~ `ko~ `wa'ay~ `ako~.￺￻我腳受砂燙。"],"f":"砂子被太陽曬熱，燙腳。"}]}],"t":"lamok"}
+,"lamot":{"h":[{"d":[{"s":["`ramot~","`mi~`lamot~","`miramot~"],"e":["￹`Mi~`lamot~ `to~ `matefaday~ `a~ `dateng~.￺￻撿起調落的菜。"],"f":"揀，撿，拿。"}]}],"t":"lamot"}
+,"lamoten":{"h":[{"d":[{"e":["￹`Lamoten~ `no~ `wawa~ `ko~ `masidayay~ `no~ `tao~ `a~ `payso~.￺￻孩童撿起別人遺失的錢。"],"f":"把某物揀、撿起來。"}]}],"stem":"lamot","t":"lamoten"}
+,"lampu":{"h":[{"d":[{"f":"油燈〈日語借詞〉。"}]}],"t":"lampu"}
+,"lanal":{"h":[{"d":[{"s":["`mala~`nal~"],"e":["￹`Mala~`nal~ `ko~ `tokos~ `i~ `kafaliyosan~.￺￻颱風期間有土石流。"],"f":"(被流水、冰雪)浸蝕而坍塌。"}]}],"t":"lanal"}
+,"lanang":{"h":[{"d":[{"s":["`milanang~","`hadang~"],"e":["￹`Aka~ `ka~ `lanang~ `to~ `tayniay~ `a~ `lafang~.￺￻不要對訪客厭煩。"],"f":"煩擾，騷擾。"}]}],"t":"lanang"}
+,"lanangen":{"h":[{"d":[{"e":["￹`Ma~ `lanangen~ `kami~ `to~ `alawaw~ `no~ `wawa~.￺￻我們對孩子的吵鬧聲而煩。"],"f":"把某某煩擾、騷擾。"}]}],"stem":"lanang","t":"lanangen"}
+,"lananom":{"h":[{"d":[{"s":["`malananom~"],"e":["￹`Malananom~ `ko~ `koli~.￺￻冰溶成水。"],"f":"溶化，溶解。"}]}],"stem":"nanom","t":"lananom"}
+,"langal":{"h":[{"d":[{"s":["`malangal~","`mangangal~"],"f":"(嚼檳榔時)嘴唇或舌頭被石灰灼傷。"}]}],"t":"langal"}
+,"langas":{"h":[{"d":[{"s":["`mi~`langas~"],"e":["￹`Mi~`langas~ `to~ `lingko~.￺￻蘋果剪枝。"],"f":"砍伐、修剪(樹枝)。"}]}],"t":"langas"}
+,"langasen":{"h":[{"d":[{"e":["￹`Langasen~ `ko~ `ca'ang~ `no~ `wirok~.￺￻把柚子的樹枝剪掉。"],"f":"把(樹枝等)砍伐、修剪。"}]}],"stem":"langas","t":"langasen"}
+,"langat":{"h":[{"d":[{"s":["`lengat~","`mi~`langat~"],"e":["￹`Mi~`langat~ `to~ `tao~.￺￻向別人挑戰。"],"f":"(因口角向對方)挑釁，挑戰。"}]}],"t":"langat"}
+,"langaten":{"h":[{"d":[{"e":["￹`Langaten~ `niyam~ `a~ `mimali~ `cangra~.￺￻我們打球與他們挑戰。"],"f":"向對方挑釁、挑戰。"}]}],"stem":"langat","t":"langaten"}
+,"langdaw":{"h":[{"d":[{"e":["￹`Langdaw~ `ko~ `kakarayan~.￺￻藍天。"],"f":"青色，綠色，藍色。"}]}],"t":"langdaw"}
+,"langdaway":{"h":[{"d":[{"f":"呈青色、綠色、藍色。"},{"e":["￹`Langdaway~ `ko~ `riyal~.￺￻大海碧藍。"],"f":"青的、綠的、藍的。"}]}],"stem":"langdaw","t":"langdaway"}
+,"langkes":{"h":[{"d":[{"e":["￹`Ci~ `langkes~ `ko~ `felac~.￺￻白米有砂粒。"],"f":"(米、飯裡摻雜)砂子、砂粒。"}]}],"t":"langkes"}
+,"langlang":{"h":[{"d":[{"s":["`mala~`nglang~"],"e":["￹`Mala~`nglang~ `ko~ `adada~ `no~ `fitoka~ `ako~.￺￻我胃痛得更嚴重。"],"f":"病情、傷口加重、惡化。"}]}],"t":"langlang"}
+,"langod":{"h":[{"d":[{"e":["￹`Langod~ `no~ `riyal~.￺￻大海的波浪。"],"f":"波浪，浪濤，浪花。"}]}],"t":"langod"}
+,"langodos":{"h":[{"d":[{"s":["`lingodos~","`malangodos~","`ma~`lingodos~"],"e":["￹`Maherek~ `a~ `makero~ `cingra~ `i~ `malangodos~ `cingra~.￺￻她舞跳過後就流鼻血了。"],"f":"流鼻血。"}]}],"t":"langodos"}
+,"langtal":{"h":[{"d":[{"s":["`lantal~"],"e":["￹`Todohen~ `ko~ `langtal~.￺￻燒殘株。"],"f":"(砍伐後的)殘株。"}]}],"t":"langtal"}
+,"langto":{"h":[{"d":[{"s":["`lanto~"],"f":"灰燼，未燃燼的灰火。"}]}],"t":"langto"}
+,"langtoen":{"h":[{"d":[{"s":["`lantoen~"],"e":["￹`Langtoen~ `ako~ `kona~ `tinafakan~ `no~ `'ongto~.￺￻我要把這一煙斗菸絲抽完。"],"f":"把某物燒焦、燃燼。"}]}],"stem":"langto","t":"langtoen"}
+,"lanhi":{"h":[{"d":[{"f":"鰱魚。"}]}],"tag":"[閩南語借詞]","t":"lanhi"}
+,"laningko":{"h":[{"d":[{"f":"內衣〈日語借詞〉。"}]}],"t":"laningko"}
+,"lanos":{"h":[{"d":[{"s":["`milanos~"],"f":"(給機器)加油，添油。"}]}],"t":"lanos"}
+,"lanosen":{"h":[{"d":[{"e":["￹`Lanosen~ `ko~ `kikay~ `to~ `simal~.￺￻給機器加加油。","￹`Lanosen~ `ko~ `koliciw~ `ako~ !￺￻給我的腳踏車加點油吧！"],"f":"給機器等加油潤滑。"}]}],"stem":"lanos","t":"lanosen"}
+,"lantal":{"h":[{"d":[{"s":["`langtal~","`rantar~"],"e":["￹`Todohen~ `ko~ `lantal~.￺￻燒殘株。"],"f":"(砍伐後的)殘株。"}]}],"t":"lantal"}
+,"lanto":{"h":[{"d":[{"f":"灰燼，未燒燼的炭火。=> langto。"}]}],"t":"lanto"}
+,"lantoen":{"h":[{"d":[{"e":["￹`Lantoen~ `koya~ `kilang~.￺￻把木頭燒燼。"],"f":"把某物燒燼、燒焦。"}]}],"stem":"lanto","t":"lantoen"}
+,"lao%27edengan":{"h":[{"d":[{"e":["￹`Malingad~ `kita~ `to~ `lao'edengan~.￺￻我們在黎明出發。"],"f":"(月亮出現前)大地一片黑暗、漆黑。"}]}],"stem":"'edeng","t":"lao'edengan"}
+,"laoc":{"h":[{"d":[{"e":["￹`Sa'opoen~ `ko~ `laoc~ `no~ `tefus~.￺￻把甘蔗末葉集中起來。"],"f":"(竹子、蘆葦等)最末節與葉子之間的部分。"}]},{"d":[{"s":["`lomaoc~","`milaoc~"],"e":["￹`Malaoc~ `i~ `sefi~.￺￻在集會所集會。"],"f":"開會，議事。"}]}],"t":"laoc"}
+,"laocen":{"h":[{"d":[{"e":["￹`Laocen~ `ci~ `Kolas~ `a~ `masa'opo~.￺￻邀 Kolas 來開會。"],"f":"召集某某開會、議事。"}]}],"stem":"laoc","t":"laocen"}
+,"laop":{"h":[{"d":[{"s":["`malaola~"],"e":["￹`Caayka~ `laop~ `ko~ `'ayam~.￺￻抓不著鳥。"],"f":"趕走，驅趕，圍住。"}]}],"t":"laop"}
+,"laopen":{"h":[{"d":[{"e":["￹`Laopen~ `ko~ `maymay~ !￺￻把鴨子趕走吧！","￹`Laopen~ `ita~ `ko~ `kolong~ `a~ `mipananom~.￺￻我們把牛趕去找水喝。"],"f":"把某某驅趕，趕走。"}]}],"stem":"laop","t":"laopen"}
+,"laosed":{"h":[{"d":[{"s":["`la'omen~"],"e":["￹`Laosed~ `to~ `sapaloma~.￺￻浪費種子。"],"f":"浪費，荒廢。"}]}],"t":"laosed"}
+,"lapac":{"h":[{"d":[{"e":["￹`O~ `lapac~ `no~ `'aol~.￺￻竹片。"],"f":"(細長的)竹片。"}]}],"t":"lapac"}
+,"lapacen":{"h":[{"d":[{"e":["￹`Lapacen~ `ko~ `sapi'adipel~.￺￻把竹子劈成竹片做籬笆。"],"f":"把竹子劈成竹片。"}]}],"stem":"lapac","t":"lapacen"}
+,"lapalopalo":{"h":[{"d":[{"s":["`malapalopalo~"],"e":["￹`Lapalopalo~ `sa~ `ko~ `kapah~ `to~ `paka~`yniay~ `toya~ `kaying~.￺￻那些年輕人為了小姐而相互鬥毆。"],"f":"大家互相投擲打群架。"}]}],"tag":"[疊 2]","stem":"palo","t":"lapalopalo"}
+,"lapdit":{"h":[{"d":[{"s":["`mala~`pdit~"],"e":["￹`Lapdit~ `saan~ `ko~ `konga~ `ato~ `tali~ `a~ `tangtangen~.￺￻把地瓜和芋頭煮成一起會黏成一團。"],"f":"黏成一團。"}]}],"t":"lapdit"}
+,"laplap":{"h":[{"d":[{"s":["`milaplap~","`fafahoyen~"],"e":["￹`Milaplap~ `to~ `koko'~.￺￻趕雞。"],"f":"驅趕，驅逐。"}]}],"t":"laplap"}
+,"laplapen":{"h":[{"d":[{"s":["`fohafohen~"],"e":["￹`Aka~ `to~ `laplapen~ `kako~ !￺￻不要趕走我！","￹`Laplapen~ `ko~ `koko'~ `i~ `papotal~ !￺￻把院外的雞趕走！"],"f":"把某物趕走、驅逐。"}]}],"stem":"laplap","t":"laplapen"}
+,"lapo%27i":{"h":[{"d":[{"s":["`malapo'i~"],"e":["￹`Mala~`poi'~ `ko~ `mararamoday~.￺￻夫妻爭吵。"],"f":"互相責罵，吵架。"}]}],"stem":"po'i","t":"lapo'i"}
+,"lapolapotan":{"h":[{"d":[{"e":["￹`Mi~`comoli~ `i~ `lapolapotan~.￺￻在蕃薯蔓裡撿蝸牛。"],"f":"蕃薯蔓。"}]}],"tag":"[疊 2]","stem":"lapot","t":"lapolapotan"}
+,"larohroh":{"h":[{"d":[{"s":["`mi~`larohroh~"],"f":"打雷、雷電。"}]}],"t":"larohroh"}
+,"lasa":{"h":[{"d":[{"e":["￹`Lasa~ `no~ `mahod~.￺￻蒸籠的屜子"],"f":"屜子。"}]}],"t":"lasa"}
+,"lasak":{"h":[{"d":[{"s":["`malasak~"],"e":["￹`Adihay~ `ko~ `lasak~ `no~ `payso~.￺￻錢的支出很多。"],"f":"漏出，流出，泄漏。"}]}],"t":"lasak"}
+,"lasang":{"h":[{"d":[{"s":["`malasang~"],"e":["￹`Caayka~ `lasang~ `kako~.￺￻我沒有醉。"],"f":"酒醉，醉了。"}]}],"t":"lasang"}
+,"lasawad":{"h":[{"d":[{"s":["`malasawad~"],"e":["￹`Malasawad~ `ko~ `sa'opo~ `anini~.￺￻今天取消會議。"],"f":"消失，取消。"}]}],"stem":"sawad","t":"lasawad"}
+,"lasil":{"h":[{"d":[{"s":["`liliw~","`milasil~"],"e":["￹`Milasil~ `kako~ `i~ `cingraan~.￺￻我傳遞信息給他。"],"f":"逐個地傳遞信息。"}]}],"t":"lasil"}
+,"lasilen":{"h":[{"d":[{"e":["￹`Lasilen~ `ko~ `finawlan~ `papililiw~.￺￻逐家逐戶地通知鄉親，叫他們互助勞動。"],"f":"逐個地傳遞信息。"}]}],"stem":"lasil","t":"lasilen"}
+,"lasingfang":{"h":[{"d":[{"f":"指南針，羅盤〈日語借詞〉。"}]}],"t":"lasingfang"}
+,"lasinol":{"h":[{"d":[{"s":["`laso'er~","`malasinol~"],"e":["￹`Malasinol~ `ko~ `koli~.￺￻冰融化。"],"f":"融化。"}]}],"t":"lasinol"}
+,"laso%27er":{"h":[{"d":[{"s":["`malaso'er~"],"e":["￹`Malaso'er~ `ko~ `koli~ `i~ `nanom~.￺￻冰塊在水裡溶解。"],"f":"溶化，溶解。"}]}],"stem":"so'er","t":"laso'er"}
+,"lasol":{"h":[{"d":[{"s":["`mi~`lasol~"],"e":["￹`I~ `lasol~ `kiso~ `a~ `mi~`patara~.￺￻你先作預備。"],"f":"提前，先行，先走。"}]}],"t":"lasol"}
+,"lasolen":{"h":[{"d":[{"e":["￹`Lasolen~ `a~ `panokay~ `ko~ `malasangay~.￺￻讓酒醉的先走。"],"f":"使某某先行，先走。"}]}],"stem":"lasol","t":"lasolen"}
+,"lasong":{"h":[{"d":[{"s":["`mi~`lasong~"],"e":["￹`Tayni~ `ko~ `ka~`kita~`an~ `a~ `mi~`lasong~.￺￻村長來此探訪。"],"f":"探訪，拜訪。"}]}],"t":"lasong"}
+,"lasongen":{"h":[{"d":[{"e":["￹`Lasongen~ `niyam~ `ko~ `mararomay~ `a~ `tamdaw~.￺￻我們拜訪傷心的人。"],"f":"把某某探訪、拜訪。"}]}],"stem":"lasong","t":"lasongen"}
+,"lasot":{"h":[{"d":[{"f":"陷入泥沼。"}]},{"d":[{"e":["￹`Malasot~ `ko~ `wa'ay~ `ako~ `i~ `henothenotan~.￺￻我腳陷入泥沼裡。"],"f":"陷入，嵌入，插入。"}]}],"t":"lasot"}
+,"lasota%27":{"h":[{"d":[{"e":["￹`Mala~`sota'~ `ko~ `amoto~.￺￻水泥變成泥巴似的。"],"f":"變成泥巴似的。"}]}],"stem":"sota'","t":"lasota'"}
+,"lasota%27aysa":{"h":[{"d":[{"s":["`mala~`sota'~"],"e":["￹`Samsamen~ `no~ `tao~ `a~ `mitekol~ `to~ `sota'~ `konini~ `a~ `wawa~ ,`lasota'aysa~ `ko~ `tireng~ `nira~.￺￻這個小孩受到別人欺凌，投擲一身泥土，像泥人似的。"],"f":"成泥人似的。"}]}],"stem":"sota'","t":"lasota'aysa"}
+,"lasoten":{"h":[{"d":[{"f":"使某某陷入泥沼。"}]}],"stem":"lasot","t":"lasoten"}
+,"lasotlasotsa":{"h":[{"d":[{"e":["￹`Lasotlasotsa~ `a~ `maleneng~ `koya~ `tamina~.￺￻那隻船逐漸逐漸地沈沒下去。"],"f":"逐漸陷入、沈沒泥沼。"}]}],"tag":"[疊 2]","stem":"lasot","t":"lasotlasotsa"}
+,"lasotsa":{"h":[{"d":[{"e":["￹`Lasotsa~ `ci~`nira~ `a~ `pakapakih~.￺￻他一下就陷進去掩沒了膝蓋部位。"],"f":"一下子陷入、沈沒了。"}]}],"stem":"lasot","t":"lasotsa"}
+,"lasto":{"h":[{"d":[{"f":"最後一個，賽跑時的最後衝刺〈英語借詞〉。"}]}],"t":"lasto"}
+,"lata%27":{"h":[{"d":[{"e":["￹`Misanga'~ `to~ `lata'~.￺￻做木片引火。"],"f":"(引火的)木片。"}]}],"t":"lata'"}
+,"lata%27ang":{"h":[{"d":[{"s":["`lita'ang~","`malata'ang~"],"e":["￹`Lata'ang~ `cingra~ `to~ `nika~ `cingangan~ `no~ `wawa~ `ningra~.￺￻他因孩子成名而驕傲。"],"f":"感到驕傲，引以為榮，自豪。"}]}],"stem":"ta'ang","t":"lata'ang"}
+,"lata%27angsa":{"h":[{"d":[{"e":["￹`Lata'angsa~ `a~ `pasowal~ `to~ `tao~.￺￻很自負地告訴別人。"],"f":"很驕傲的樣子，自負起來。"}]}],"stem":"ta'ang","t":"lata'angsa"}
+,"latak":{"h":[{"d":[{"e":["￹`Milatak~ `to~ `omah~.￺￻用平田器平田。"],"f":"平田器。"}]},{"d":[{"e":["￹`Maolah~ `a~ `komaen~ `to~ `latak~ `ko~ `fafahi~ `ako~.￺￻我太太喜歡吃楊桃。"],"f":"楊桃。"}]}],"tag":"[閩南語借詞]","t":"latak"}
+,"lataken":{"h":[{"d":[{"e":["￹`Lataken~ `ko~ `omah~.￺￻用平田器平田。"],"f":"把水田耙平。"}]}],"stem":"latak","t":"lataken"}
+,"latang":{"h":[{"d":[{"e":["￹`Palalenen~ `ko~ `latang~ `a~ `misorot~ `to~ `felac~.￺￻取米時要公正的斗量。"],"f":"(計量單位)斗、升。"},{"f":"收會費。"}]}],"t":"latang"}
+,"latangen":{"h":[{"d":[{"e":["￹`Latangen~ `ko~ `panay~ `to~ `sa~`^to~.￺￻用斗把稻子量一量。"],"f":"用斗、升等容器量入或徵收穀物。"}]}],"stem":"latang","t":"latangen"}
+,"lataw":{"h":[{"d":[{"f":"藤繩子。"}]}],"t":"lataw"}
+,"latek":{"h":[{"d":[{"s":["`alatek~","`matiya~"],"e":["￹`mafasaway~ `to~ `latek~ `ko~ `dateng~ , `fa^deten~ `ho~ !￺￻菜也許涼了，加熱一下吧！","￹`Cowa~ `kaolah~ `cingra~ `toni~ `a~ `kaying~ `latek~.￺￻他大概不愛這個小姐了。"],"f":"也許，可能，大概。"}]}],"t":"latek"}
+,"lati%27":{"h":[{"d":[{"s":["`mala~`ti'~"],"e":["￹`Mala~`ti'~ `koni~ `wawa~.￺￻這孩子中邪了。"],"f":"因中邪而患病。"}]}],"t":"lati'"}
+,"lati%27il":{"h":[{"d":[{"s":["`malati'il~"],"e":["￹`Malati'il~ `ko~ `wawa~ `a~ `misalama~ `i~ `pitilidan~.￺￻小孩在學校遊玩時打架。"],"f":"小孩找籍口打架、鬧事。"}]}],"stem":"ti'il","t":"lati'il"}
+,"latiih":{"h":[{"d":[{"s":["`mala~`tiih~"],"e":["￹`Mala~`tiih~ `ko~ `demak~ `iso~.￺￻你失誤了。"],"f":"因犯禁而招致懲罰，失策，失誤，錯誤百出。"}]}],"t":"latiih"}
+,"lato%27":{"h":[{"d":[{"s":["`lafot~","`mi~`lato'~"],"e":["￹`Awaay~ `ko~ `lato'~ `no~ `safalod~.￺￻繩索沒斷。"],"f":"拉斷，斷裂。"}]}],"t":"lato'"}
+,"lato%27en":{"h":[{"d":[{"s":["`lafoten~"],"e":["￹`Lato'~ `no~ `waco~ `ko~ `waya~.￺￻狗將狗鏈弄斷。"],"f":"把某物拉斷、弄裂。"}]}],"stem":"lato'","t":"lato'en"}
+,"latoc":{"h":[{"d":[{"e":["￹`Padengen~ `ko~ `latoc~.￺￻把火把熄滅。"],"f":"火把，火炬，未燒完的木頭。"}]}],"t":"latoc"}
+,"latoh":{"h":[{"d":[{"s":["`ratah~","`pala~`tah~"],"f":"講述、講故事、演說。"}]},{"d":[{"e":["￹`Sakacecay~ `a~ `latoh~.￺￻第一章。"],"f":"章節、一段。"}]}],"t":"latoh"}
+,"latolo":{"h":[{"d":[{"s":["`mala~`tolo~"],"e":["￹`Ma~`cacolok~ `a~ `latolo~ `kami~ `a~ `matayal~.￺￻我們分三班工作。"],"f":"變成或分成三份。"}]}],"stem":"tolo","t":"latolo"}
+,"latoloen":{"h":[{"d":[{"e":["￹`Latoloen~ `ako~ `a~ `pasacefacefang~ `cangra~.￺￻我把他們編成三組了。"],"f":"把某物分成三份。"}]}],"stem":"tolo","t":"latoloen"}
+,"lawa":{"h":[{"d":[{"s":["`milawa~"],"e":["￹`Awaay~ `ko~ `lawa~ `niyam~ `a~ `miharateng~.￺￻我們沒遺忘。"],"f":"遺漏，遺忘，錯過。"}]},{"d":[{"s":["`lofic~"],"f":"指田地上遺落的花生或稻穗。"}]}],"t":"lawa"}
+,"lawac":{"h":[{"d":[{"e":["￹`Lawac~ `no~ `riyal~.￺￻海岸，海邊。","￹`Lawac~ `no~ `omah~.￺￻田邊，田界。"],"f":"邊緣，邊界，岸邊。"}]}],"t":"lawac"}
+,"lawaen":{"h":[{"d":[{"e":["￹`Lawaen~ `ningra~ `ko~ `mi~`sowal~`an~ `iso~.￺￻他把你交代的話漏掉了。","￹`Aka~ `lawaen~ `konini~ `a~ `demak~ !￺￻不要把這件事遺忘了！"],"f":"把某物某事遺漏，遺忘。"}]}],"stem":"lawa","t":"lawaen"}
+,"lawal":{"h":[{"d":[{"s":["`kalawal~"],"e":["￹`Mi~`lawal~ `kita~ `i~ `lotok~.￺￻我們去山上抓飛鼠。"],"f":"飛鼠。"}]}],"t":"lawal"}
+,"lawas":{"h":[{"d":[{"e":["￹`Paroen~ `i~ `lawas~ `ko~ `nanom~.￺￻把水盛入竹筒裡。"],"f":"盛水用的竹筒。"}]}],"t":"lawas"}
+,"lawat":{"h":[{"d":[{"f":"(兩足之間的距離)一跨"},{"e":["￹`Tolo~ `a~ `lawat~.￺￻三跨步。"],"f":"計量單位。步。"},{"s":["`mi~`lawat~"],"f":"跨步，跨出去。"}]}],"t":"lawat"}
+,"lawaten":{"h":[{"d":[{"e":["￹`Lawaten~ `konini~ `a~ `tolis~.￺￻請跨出這條線。"],"f":"把某目標跨出去，請跨出去。"}]}],"stem":"lawat","t":"lawaten"}
+,"laway":{"h":[{"d":[{"s":["`pising~"],"e":["￹`Makapah~ `ko~ `laway~ `no~ `fafahi~ `iso~.￺￻你太太的面貌很漂亮。"],"f":"臉，容顏。"}]}],"t":"laway"}
+,"lawidawidangsa":{"h":[{"d":[{"e":["￹`Nga'ayay~ `ko~ `faloco'~ `a~ `tamdaw~ , `cowa~ `pisafana'~ `cowa~ `pisamsam~ `to~ `tao~ , `lawidawidangsa~ `canira~.￺￻心地善良的人，不欺騙也不欺侮他人，他們彼此友好相處。"],"f":"彼此成為朋友那樣，彼此友好相處。"}]}],"tag":"[疊 2]","stem":"widang","t":"lawidawidangsa"}
+,"lawilewilet":{"h":[{"d":[{"s":["`mala~`wile~`wilet~"],"f":"扭結纏繞在一起，打結。"}]}],"tag":"[疊 2]","stem":"wilet","t":"lawilewilet"}
+,"lawis":{"h":[{"d":[{"s":["`rawis~","`mi~`lawis~"],"e":["￹`Mi~`lawis~ `ko~ `wawa~ `to~ `riko'~.￺￻孩子在鉤取衣服。"],"f":"鉤取(東西)。"}]}],"t":"lawis"}
+,"lawisen":{"h":[{"d":[{"e":["￹`Lawisen~ `ko~ `fadiso'so'~ `a~ `komaen~.￺￻把葡萄鉤來吃。"],"f":"把某物鉤取。"}]}],"stem":"lawis","t":"lawisen"}
+,"lawla":{"h":[{"d":[{"s":["`mala~`wla~"],"e":["￹`Mafana'~ `a~ `mala~`wla~ `cingra~.￺￻他會帶歡樂。"],"f":"快樂，歡樂，歡慶。"}]}],"t":"lawla"}
+,"lawpan":{"h":[{"d":[{"s":["`tawki~〈閩南語借詞〉"],"f":"主人，老闆〈漢語借詞〉。"}]}],"t":"lawpan"}
+,"laya%27":{"h":[{"d":[{"e":["￹`Tosa~ `a~ `laya'~.￺￻兩庹。","￹`Tolo~ `laya'~ `koni~ `a~ `falat~.￺￻這根房樑有三庹長。"],"f":"計量單位。(兩臂伸長的距離)一庹。"},{"f":"伸展兩臂丈量。"},{"s":["`milaya'~"],"e":["￹`Milaya'~ `to~ `Sapafeli~.￺￻接受禮物。"],"f":"領受。"}]}],"t":"laya'"}
+,"laya%27en":{"h":[{"d":[{"e":["￹`Laya'en~ `koni~ `a~ `falat~.￺￻把這根房樑丈量一下。"],"f":"伸展兩臂把某物丈量。"},{"e":["￹`Laya'en~ `ko~ `nafaloco'an~ `ningra~.￺￻你就接受他的好意吧！"],"f":"接受吧！"}]}],"stem":"laya'","t":"laya'en"}
+,"layal":{"h":[{"d":[{"f":"把東西懸掛起來。"},{"s":["`milayal~"],"f":"把東西擱置起來。"}]}],"t":"layal"}
+,"layalen":{"h":[{"d":[{"f":"把某物懸掛起來。"},{"e":["￹`Layalen~ `ko~ `maceleday~ `a~ `panay~.￺￻把成捆的稻子掛起來。","￹`Layalen~ `niyam~ `koya~ `kowang~ `a~ `mi~`tli~.￺￻我們把火槍放好了。"],"f":"把某物擱置起來，放好。"}]}],"stem":"layal","t":"layalen"}
+,"layap":{"h":[{"d":[{"s":["`milayap~"],"e":["￹`Caayka~ `tatodong~ `kiso~ `a~ `milayap~.￺￻你不配領受。"],"f":"接受，承接。"}]}],"t":"layap"}
+,"layapen":{"h":[{"d":[{"e":["￹`Layapen~ `niyam~ `ko~ `sapakaolah~ `no~ `singsi~.￺￻我們領受老師的贈禮 ."],"f":"把某物接受、接納、承接。"}]}],"stem":"layap","t":"layapen"}
+,"laylay":{"h":[{"d":[{"s":["`lalan~"],"e":["￹`Ma^edeng~ `itini~ `ko~ `laylay~ `no~ `ma~`ncel~.￺￻這裡必是山羌出沒之處。"],"f":"野獸經過或出沒的路線。"}]}],"t":"laylay"}
+,"laymay":{"h":[{"d":[{"s":["`malaymay~"],"e":["￹`Caay~ `ka~ `tomerep~ `ko~ `laymay~ `ni~ `mamo~.￺￻奶奶嘮叨。"],"f":"嘮叨，話匣子。"}]}],"t":"laymay"}
+,"layong":{"h":[{"d":[{"e":["￹`Ma'araw~ `ako~ `i~ `lotok~ `ko~ `layong~.￺￻我在山上看到獅子。"],"f":"獅子。"}]}],"tag":"[日話借詞]","t":"layong"}
+,"layta":{"h":[{"d":[{"f":"打火機〈日語借詞〉。"}]}],"t":"layta"}
+,"lecad":{"h":[{"d":[{"s":["`milecad~"],"e":["￹`Awaay~ `ko~ `lecad~ `ako~ `a~ `mitilid~.￺￻我沒同學。"],"f":"(領唱後)和唱，應和，同級，相同，一樣。"}]}],"t":"lecad"}
+,"lecafi%27":{"h":[{"d":[{"s":["`mi~`lecafi'~"],"e":["￹`Mafodo'~ `toya~ `dadaya~ `lecafi'~ `sa~ `kami~ `a~ `mikalic~ `to~ `kilang~.￺￻當晚下大雨我們衝上去爬樹。"],"f":"衝上去，搶先，競爭。"}]}],"t":"lecafi'"}
+,"lecafi%27en":{"h":[{"d":[{"e":["￹`Lecafi'en~ `niyam~ `koya~ `tao~ `a~ `comikay~.￺￻我們搶先他人賽跑。"],"f":"衝上去或搶先把事情做了。"}]}],"stem":"lecafi'","t":"lecafi'en"}
+,"lecafi%27han":{"h":[{"d":[{"e":["￹`Lecafi'han~ `namo~ `canira~ `a~ `mipatay~.￺￻你們就衝上去把他們殺了。"],"f":"就衝上去先下手吧。"}]}],"stem":"lecafi'","t":"lecafi'han"}
+,"leceng":{"h":[{"d":[{"s":["`mi~`leceng~"],"e":["￹`Mi~`leceng~ `to~ `fokes~.￺￻剪髮。"],"f":"剪，修剪。"}]}],"t":"leceng"}
+,"lecengen":{"h":[{"d":[{"e":["￹`Lecengen~ `ko~ `kilang~.￺￻修整樹木。"],"f":"把某物修剪、修整。"}]}],"stem":"leceng","t":"lecengen"}
+,"lecep":{"h":[{"d":[{"s":["`recep~","`ma~`lecep~"],"e":["￹`Mi~`lecep~ `ko~ `nanom~ `i~ `lingka~.￺￻水滲入紅磚裡。"],"f":"滲進去，深入。"}]}],"t":"lecep"}
+,"lecik":{"h":[{"d":[{"s":["`ma~`lecik~"],"e":["￹`Hadimeren~ `ko~ `lecik~ `no~ `namal~.￺￻小心火星。"],"f":"(火星或碎物)散濺，濺發。"}]}],"t":"lecik"}
+,"leda%27":{"h":[{"d":[{"s":["`maleda'~"],"e":["￹`Maleda'~ `ko~ `foti'~ `i~ `laeno~ `no~ `kilang~.￺￻在樹下休息會熟睡。"],"f":"沈睡，熟睡。"}]}],"t":"leda'"}
+,"ledef":{"h":[{"d":[{"s":["`edef~","`maledef~"],"e":["￹`Maledef~ `a~ `mafana'~ `ko~ `tamdamdaw~ `ci~ `sa~`fuloan~.￺￻人們都知道 Safulo 這個人。"],"f":"遍佈，普及，充分。"}]}],"t":"ledef"}
+,"ledefen":{"h":[{"d":[{"s":["`edefen~"],"f":"把展開，蔓延。"}]}],"stem":"ledef","t":"ledefen"}
+,"ledek":{"h":[{"d":[{"f":"寒氣。"}]}],"t":"ledek"}
+,"ledo":{"h":[{"d":[{"s":["`maledo~"],"e":["￹`Maledo~ `ko~ `ni~`polol~`an~ `iso~.￺￻你的線圈很完整。"],"f":"上下一般粗，完整，徹底。"}]}],"t":"ledo"}
+,"lefek":{"h":[{"d":[{"s":["`malefek~"],"e":["￹`Lefek~ `sa~ `ko~ `fadahong~.￺￻屋頂有裂痕。"],"f":"有裂痕，倒塌。"}]}],"t":"lefek"}
+,"lefeken":{"h":[{"d":[{"e":["￹`Lefeken~ `ko~ `kilang~.￺￻把樹砍倒。"],"f":"使某物裂開、倒塌。"}]}],"stem":"lefek","t":"lefeken"}
+,"lefis":{"h":[{"d":[{"s":["`mi~`lefis~"],"e":["￹`Ma~`lefis~ `ko~ `sakofit~.￺￻紐扣調了。"],"f":"摘下(紐扣)，搶走，丟掉。"}]},{"d":[{"e":["￹`Ma~`lefis~ `ko~ `cecay~ `a~ `wawa~ `ako~.￺￻我死了一個小孩。"],"f":"歿，死了。"}]}],"t":"lefis"}
+,"lefisen":{"h":[{"d":[{"e":["￹`Lefisen~ `ko~ `focacing~.￺￻摘下嫩檳榔。"],"f":"把(紐扣)摘下，使之脫落。"}]}],"stem":"lefis","t":"lefisen"}
+,"lefit":{"h":[{"d":[{"s":["`refit~","`ma~`lefit~"],"f":"(衣物等)扯破，撕開。"}]}],"t":"lefit"}
+,"lefo":{"h":[{"d":[{"s":["`milefo~"],"e":["￹`Milefo~ `cingra~ `i~ `takowanan~.￺￻他把我壓倒在下。"],"f":"襲擊，打架，兩人爭鬥時把對手擊倒壓在下面。"}]}],"t":"lefo"}
+,"lefod":{"h":[{"d":[{"s":["`milefod~"],"e":["￹`Pi~`kapot~ `to~ `tao~ `a~ `milefod~ `to~ `takolil~.￺￻與別人一起去追兔子。"],"f":"(賽跑)猛追。"}]}],"t":"lefod"}
+,"lefoden":{"h":[{"d":[{"e":["￹`Lefoden~ `ko~ `kapah~ `no~ `Torik~.￺￻競跑時猛追都歷的青年。"],"f":"(賽跑時)把對手猛追。"}]}],"stem":"lefod","t":"lefoden"}
+,"lefoen":{"h":[{"d":[{"e":["￹`Lefoen~ `no~ `lokedaw~ `kako~ `isawni~ `a~ `maseka'~.￺￻剛才我受到豹子襲擊而昏倒。"],"f":"把某某擊倒壓在下面。"}]}],"stem":"lefo","t":"lefoen"}
+,"lefoh":{"h":[{"d":[{"s":["`milefoh~"],"f":"加大火力燒，猛燒。"}]}],"t":"lefoh"}
+,"lefohen":{"h":[{"d":[{"e":["￹`Lefohen~ `ko~ `namal~.￺￻加大火力。"],"f":"加大火力把某物猛燒。"}]}],"stem":"lefoh","t":"lefohen"}
+,"lefot":{"h":[{"d":[{"s":["`patek~"],"e":["￹`Tolo~ `a~ `lefot~.￺￻三千。","￹`Limaay~ `a~ `lefot~ `ko~￺￻(tamdaw no)","￹`pitilidan~ `niyam~.￺￻我們學校有五千人。"],"f":"千，一千。"}]}],"t":"lefot"}
+,"lekairair":{"h":[{"d":[{"s":["`ma~`lekairaira~"],"e":["￹`Lekairair~ `ko~ `dafong~ `nangra~.￺￻他們應有盡有。"],"f":"應有盡有，樣樣齊全。"}]}],"tag":"[疊 2]","stem":"ira","t":"lekairair"}
+,"lekakawa":{"h":[{"d":[{"e":["￹`Do^doen~ `ko~ `nga'ayay~ `a~ `lekakawa~ `no~ `'Amis~.￺￻持守阿美族之美好風範。"],"f":"祭典，法規，社會倫理。"}]}],"t":"lekakawa"}
+,"lekal":{"h":[{"d":[{"s":["`malekal~"],"e":["￹`Milekal~ `to~ `finawlan~.￺￻向群眾呼喊。","￹`Ma~`fokil~ `a~ `milekal~ `kona~ `waco~.￺￻這隻狗不會狂叫。"],"f":"喊叫，叫嚷。"}]}],"t":"lekal"}
+,"lemed":{"h":[{"d":[{"s":["`ni~`tiir~","`sintiih~"],"e":["￹`Tatiih~ `ko~ `lemed~ `ako~.￺￻我作惡夢。"],"f":"夢，夢占，運氣。"}]}],"t":"lemed"}
+,"lemek":{"h":[{"d":[{"s":["`ma~`lemek~"],"e":["￹`Ma~`rpet~ `no~ `tao~ `ko~ `nika~ `lemek~ `nangra~.￺￻他們通姦被抓到。"],"f":"通姦，暗行惡事。"}]}],"t":"lemek"}
+,"lenaf":{"h":[{"d":[{"s":["`milenaf~"],"e":["￹`Caayho~ `ka~ `lenaf~ `ko~ `ciko~.￺￻角落尚未漆上。"],"f":"浸染，塗染，刷漆。"}]}],"t":"lenaf"}
+,"lenafen":{"h":[{"d":[{"e":["￹`Lenafen~ `to~ `kohecalay~ `ko~ `laloma'~.￺￻裡面漆白色。"],"f":"給某物塗染、刷漆。"}]}],"stem":"lenaf","t":"lenafen"}
+,"lenak":{"h":[{"d":[{"s":["`milenak~","`tnak~"],"e":["￹`Malenak~ `i~ `fiyaw~ `ko~ `demak~ `iso~.￺￻你的事情被傳到鄰舍。"],"f":"傳播，繁殖。"}]}],"t":"lenak"}
+,"lenaken":{"h":[{"d":[{"e":["￹`Lenaken~ `ningra~ `ko~ `sowal~ `itaowanan~.￺￻他把話傳播到別人那裡。","￹`Lenaken~ `ko~ `kolong~ `niyam~.￺￻讓我們的牛繁殖。"],"f":"使某物傳播、繁殖。"}]}],"stem":"lenak","t":"lenaken"}
+,"leneng":{"h":[{"d":[{"s":["`teneng~","`maleneng~","`moleneng~"],"e":["￹`Maleneng~ `ko~ `tamina~.￺￻船沉下了。"],"f":"沈沒，沈淪。"}]}],"t":"leneng"}
+,"lengac":{"h":[{"d":[{"f":"月桃草。"},{"f":"美人蕉。"},{"s":["`'engac~"],"e":["￹`Tafoen~ `to~ `lengac~ `ko~ `hemay~.￺￻用月桃葉包飯。"],"f":"蝴蝶花。"}]}],"t":"lengac"}
+,"lengat":{"h":[{"d":[{"s":["`langat~","`langat~","`milengat~"],"e":["￹`Caay~ `pilengat~ `kami~.￺￻我們不會挑釁。"],"f":"挑戰，肇端，導致，引發(事故)。"}]}],"t":"lengat"}
+,"lengaten":{"h":[{"d":[{"s":["`langaten~"],"e":["￹`Lengaten~ `ningra~ `ko~ `tao~.￺￻他向人挑釁。"],"f":"挑起事端，向某某挑戰。"}]}],"stem":"lengat","t":"lengaten"}
+,"lengaw":{"h":[{"d":[{"s":["`malengaw~"],"e":["￹`Ma~`hadak~`to~ `ko~ `lengaw~ `no~ `kodasing~.￺￻花生發芽了。"],"f":"發芽，萌芽，復活。"}]}],"t":"lengaw"}
+,"lenged":{"h":[{"d":[{"s":["`^enged~","`'enged~"],"e":["￹`Tlien~ `i~ `lenged~ `ko~ `sioy~.￺￻把鍋子放在鍋圈裡。"],"f":"鍋墊，鍋圈兒。"}]}],"t":"lenged"}
+,"lengel":{"h":[{"d":[{"s":["`milengel~","`senger~"],"e":["￹`Milengel~ `to~ `sacapoxen~.￺￻浸泡秧苗。"],"f":"浸，泡。"}]}],"t":"lengel"}
+,"lengelen":{"h":[{"d":[{"e":["￹`Lengelen~ `a~ `pasafon~ `ko~ `riko'~.￺￻把衣服用肥皂泡起來 ."],"f":"把某物浸、泡。"}]}],"stem":"lengel","t":"lengelen"}
+,"lenlen":{"h":[{"d":[{"s":["`ma~`lenlen~"],"e":["￹`Tata'ang~ `ko~ `lenlen~.￺￻大洪水。"],"f":"洪水氾濫、淹沒。"}]}],"t":"lenlen"}
+,"leno":{"h":[{"d":[{"s":["`maleno~"],"e":["￹`maleno~ `ko~ `riyal~.￺￻海漲潮。"],"f":"漲水，漲潮。"}]}],"t":"leno"}
+,"lepel":{"h":[{"d":[{"s":["`milepel~"],"e":["￹`Milepel~ `to~ `koko'~.￺￻抓雞。"],"f":"追捕，圍捕。"}]}],"t":"lepel"}
+,"lepelen":{"h":[{"d":[{"e":["￹`Lepelen~ `no~ `waco~ `a~ `ma^emin~ `koya~ `fafoy~.￺￻所有的狗都去追捕野豬。"],"f":"把某某追捕。"}]}],"stem":"lepel","t":"lepelen"}
+,"lepet":{"h":[{"d":[{"s":["`mi~`lepet~","`repet~"],"e":["￹`Lepet~ `to~ `pacikayay~ `to~ `otopay~ `ko~ `taylin~.￺￻警查抓超速的機車騎士。"],"f":"抓捕，逮捕。"}]}],"t":"lepet"}
+,"lepeten":{"h":[{"d":[{"s":["`peloc~","`repoc~","`malepon~"],"e":["￹`Lepeten~ `to~ `ko~ `panganganay~ `a~ `tamdaw~.￺￻報名的已額滿。"],"f":"足額，滿額。"}]}],"stem":"lepet","t":"lepeten"}
+,"lepoc":{"h":[{"d":[{"s":["`peloc~","`ma~`lepoc~"],"e":["￹`Ma~`lepoc~ `kora~ `wawa~ `a~ `mitilid~.￺￻那小孩留級了。"],"f":"留級，降級，鬆脫。"}]}],"t":"lepoc"}
+,"lepon":{"h":[{"d":[{"e":["￹`Malepon~ `to~ `a~ `pafeli~ `ko~ `lifon~.￺￻工資已付完了。"],"f":"結束，完成。"}]}],"t":"lepon"}
+,"lesa%27":{"h":[{"d":[{"s":["`malesa'~"],"e":["￹`Malesa'~ `ko~ `kohaw~.￺￻湯流下來。"],"f":"漏、植物液汁流淌出來。"}]}],"t":"lesa'"}
+,"lesi%27":{"h":[{"d":[{"s":["`milesi'~"],"e":["￹`Milesi'~ `i~ `'alo~.￺￻在河裡濺水。"],"f":"潑水，濺水。"}]}],"t":"lesi'"}
+,"lesi%27en":{"h":[{"d":[{"e":["￹`Lesi'en~ `a~ `paino'~ `ko~ `kolong~.￺￻潑水讓牛洗浴。"],"f":"向某某潑水、濺水。"}]},{"d":[{"e":["￹`Lesi'en~ `to~ `nanom~ `ko~ `kolong~.￺￻用水濺牛。"],"f":"向某某潑水、濺水。"}]}],"stem":"lesi'","t":"lesi'en"}
+,"lesles":{"h":[{"d":[{"s":["`ma~`lesles~"],"e":["￹`Ma~`lesles~ `ko~ `remes~ `a~ `masadak~.￺￻血流下來。"],"f":"外流，流溢，溢出。"}]}],"t":"lesles"}
+,"leso%27":{"h":[{"d":[{"s":["`lesa'~","`ma~`leso'~"],"e":["￹`ma~`leso'~ `ko~ `pa~`^tang~.￺￻水桐落水。"],"f":"漏水，滴水。"}]}],"t":"leso'"}
+,"letek":{"h":[{"d":[{"s":["`miletek~"],"e":["￹`Letek~ `to~ `kilang~.￺￻砍樹木。"],"f":"砍伐(樹木)。"}]}],"t":"letek"}
+,"leteken":{"h":[{"d":[{"s":["`'aol~"],"e":["￹`Leteken~ `kona~ `'awol~ `ma~`io'onoc~.￺￻把這根竹子砍下來做肩擔用。"],"f":"把(樹木等)砍下來。"}]}],"stem":"letek","t":"leteken"}
+,"letep":{"h":[{"d":[{"s":["`miletep~"],"e":["￹`Maletep~ `no~ `tao~ `ko~ `pi~`takaw~ `iso~.￺￻人家發現你偷東西。"],"f":"發覺，發現，找到。"}]}],"t":"letep"}
+,"letepen":{"h":[{"d":[{"e":["￹`Letepen~ `koya~ `mitamakoay~ `a~ `tamdaw~.￺￻去抓抽煙的人。"],"f":"把某物趕上、發覺、發現。"}]}],"stem":"letep","t":"letepen"}
+,"leto":{"h":[{"d":[{"s":["`ma~`leto~"],"e":["￹`Ma~`leto~ `kako~.￺￻我肚子發脹。"],"f":"發脹，膨脹，脹氣。"}]}],"t":"leto"}
+,"letoh":{"h":[{"d":[{"s":["`'owang~","`miletoh~"],"e":["￹`Miletoh~ `ko~ `layong~ `i~ `lotok~.￺￻獅子在山中吼叫。"],"f":"吼叫，怒嚎。"}]}],"t":"letoh"}
+,"letohen":{"h":[{"d":[{"e":["￹`Letohen~ `no~ `waco~ `ko~ `mitakaway~.￺￻狗向偷東西的吼叫"],"f":"對某某吼叫、怒嚎。"}]}],"stem":"letoh","t":"letohen"}
+,"letosa":{"h":[{"d":[{"e":["￹`Letosa~ `ko~ `'acofel~ `i~ `laloma'~.￺￻煙霧在屋裡擴散開來。"],"f":"膨脹起來，擴散開來。"}]}],"stem":"leto","t":"letosa"}
+,"li%27an":{"h":[{"d":[{"s":["`so'ot~","`somo'ot~","`pa~`tkenan~"],"e":["￹`Tolo~ `a~ `li'an~ `ko~ `'aca~ `nona~ `riko'~.￺￻這件衣服三佰元。"],"f":"(數量詞)。一百，百。"}]}],"t":"li'an"}
+,"li%27ay":{"h":[{"d":[{"s":["`mili'ay~"],"e":["￹`Mili'ay~ `kako~ `i~ `cingraan~.￺￻我與他和解。"],"f":"諒解，和好。"}]}],"t":"li'ay"}
+,"li%27ayen":{"h":[{"d":[{"e":["￹`Li'ayen~ `ako~ `cingra~.￺￻我與他求和。"],"f":"要求跟某某和好、和解，和好吧。"}]}],"stem":"li'ay","t":"li'ayen"}
+,"li%27el":{"h":[{"d":[{"e":["￹`Hopacen~ `ko~ `li'el~.￺￻把頸子洗乾淨。"],"f":"脖子，頸部。"}]}],"t":"li'el"}
+,"li%27emi":{"h":[{"d":[{"s":["`ma~`li'emi~"],"f":"迸發，濆濺，冒泡兒。"}]}],"t":"li'emi"}
+,"li%5Eepah":{"h":[{"d":[{"s":["`mi~`li^pah~"],"e":["￹`Palafang~ `kami~ `a~ `mi~`li^epah~.￺￻赴宴喝喜酒。"],"f":"赴宴討酒吃。"}]}],"stem":"^epah","t":"li^epah"}
+,"li%5Eetec":{"h":[{"d":[{"s":["`ki^tec~"],"e":["￹`Li^etec~ `ko~ `romi'ad~.￺￻天涼了。"],"f":"涼，冷，冰冷。"}]},{"d":[{"s":["`ki^etec~"],"f":"冷涼，冰冷。"}]}],"t":"li^etec"}
+,"li%5Eetecay":{"h":[{"d":[{"f":"涼了，冷了，冰冷了。"},{"s":["`ki^etecay~"],"e":["￹`Li^etecay~ `a~ `nanom~.￺￻冰水。"],"f":"涼的，冷的，冰冷的。"}]}],"stem":"li^etec","t":"li^etecay"}
+,"li-":{"h":[{"d":[{"f":"(前綴)。主要表示："},{"f":"索求，索取。linamal 取火，取火種。"},{"e":["￹`lifongoh~￺￻斬頭，砍頭。li'ayam 捉鳥，掏鳥窩，受罰。"],"f":"通過某種手段(工具)得到，奪取。如"},{"f":"拔取，剔除(某物)。如lilamit 拔根；litingal 剔牙垢。"},{"e":["￹`lineknek~￺￻搖晃瓶子而後使裡面的污物沈澱下來。"],"f":"使用強制手段達到某種目的。如"},{"f":"分割。如 litosa 二分之一。"}]}],"t":"li-"}
+,"lica%27es":{"h":[{"d":[{"e":["￹`Ci~ `lica'es~ `ko~ `korol~ `no~ `kolong~.￺￻牛背上有蝨子卵。"],"f":"蝨子卵。"}]}],"t":"lica'es"}
+,"licang":{"h":[{"d":[{"s":["`'icang~","`ma~`licang~"],"f":"乾燥，乾涸。"}]}],"t":"licang"}
+,"licay":{"h":[{"d":[{"s":["`milicay~"],"e":["￹`Awaay~ `ko~ `paca'ofay~ `to~ `licay~ `ningra~.￺￻無人回答他的問題。"],"f":"問，詢問，提問。"}]}],"t":"licay"}
+,"licayen":{"h":[{"d":[{"e":["￹`Licayen~ `ci~ `Kolas~.￺￻去問古拉斯先生吧。","￹`Licayen~ `ko~ `singsi~ `to~ `tilid~.￺￻向老師請教課業。"],"f":"向某某詢問，提問。"}]}],"stem":"licay","t":"licayen"}
+,"licing":{"h":[{"d":[{"e":["￹`'Arawi~ `matapa'~ `no~ `licing~.￺￻小心被碎片割傷。"],"f":"碎片。"}]}],"t":"licing"}
+,"licinowas":{"h":[{"d":[{"s":["`liwasak~","`ma~`licinowas~"],"f":"散開，裂開，離開。"}]}],"t":"licinowas"}
+,"liclic":{"h":[{"d":[{"s":["`mi~`liclic~"],"e":["￹`Samaanay~ `ko~ `liclic~ `no~ `singsi~.￺￻老師質問的怎麼樣？"],"f":"訊問，審問，質問。"}]}],"t":"liclic"}
+,"liclicen":{"h":[{"d":[{"e":["￹`Liclicen~ `no~ `tapang~ `kora~ `sufitay~.￺￻長官要盤問那位士兵。"],"f":"把某某審問，質問。"}]}],"stem":"liclic","t":"liclicen"}
+,"licod":{"h":[{"d":[{"s":["`dicoh~","`mi~`licod~","`hodoc~"],"f":"(從某附屬物中)拔出，抽出。"}]}],"t":"licod"}
+,"licoden":{"h":[{"d":[{"s":["`dicohen~","`sodocen~"],"e":["￹`Licoden~ `ko~ `pa~`cek~.￺￻把釘子拔掉。"],"f":"把某物所屬物體中拔出、抽出。"}]}],"stem":"licod","t":"licoden"}
+,"licoh":{"h":[{"d":[{"s":["`milicoh~"],"e":["￹`Milicoh~ `to~ `falat~.￺￻拆除橫樑。"],"f":"拆除，使之脫離。"}]}],"t":"licoh"}
+,"licohen":{"h":[{"d":[{"e":["￹`Licohen~ `ko~ `lifer~ `no~ `paliding~.￺￻拆掉輪胎。"],"f":"把某物拆除，使之脫離。"}]}],"stem":"licoh","t":"licohen"}
+,"lidalid":{"h":[{"d":[{"s":["`mi~`lidalid~","`ropay~","`sa~`yar~"],"e":["￹`Rayaen~ `ko~ `pi~`lidalid~.￺￻耙平。"],"f":"弄平，耙平，攤平，碾平。"}]}],"t":"lidalid"}
+,"lidaliden":{"h":[{"d":[{"e":["￹`Lidaliden~ `ko~ `pi~`'anipen~.￺￻要把要插秧的田耙平。"],"f":"把某物耙平、攤平、碾平。"}]}],"stem":"lidalid","t":"lidaliden"}
+,"lidateng":{"h":[{"d":[{"e":["￹`Ka~`tiihay~ `a~ `ka~`lakasoyen~ `ko~ `lidateng~.￺￻刺樹不能當柴燒。"],"f":"刺樹。俗稱“咬人狗”。"}]}],"stem":"dateng","t":"lidateng"}
+,"lidep":{"h":[{"d":[{"e":["￹`Mi~`rpet~ `to~ `ciwciw~ `ko~ `lidep~.￺￻老鷹抓小雞。"],"f":"鷹，老鷹，鳶。"}]}],"t":"lidep"}
+,"lido":{"h":[{"d":[{"s":["`milido~"],"e":["￹`Milido~ `to~ `tarakal~.￺￻巡查陷阱。"],"f":"巡查陷阱。"}]}],"t":"lido"}
+,"lidoen":{"h":[{"d":[{"e":["￹`Lidoen~ `iso~ `koya~ `talakal~.￺￻你去巡查一下套獸圈。"],"f":"把陷阱等物巡查、查看。"}]}],"stem":"lido","t":"lidoen"}
+,"lidong":{"h":[{"d":[{"s":["`milidong~"],"e":["￹`Ka~`i~ `lidong~ `no~ `kilang~ `a~ `malahok~.￺￻在樹蔭處吃中餐。"],"f":"蔭涼處，樹蔭處，背蔭。"}]}],"t":"lidong"}
+,"lidongen":{"h":[{"d":[{"e":["￹`Lidongen~ `kora~ `mipawalian~ `niyam~ `a~ `panay~.￺￻把我們曬的稻穀收回來。"],"f":"把曬的穀物收攏、收回。"}]}],"stem":"lidong","t":"lidongen"}
+,"lies":{"h":[{"d":[{"s":["`ma~`lies~"],"f":"(因病)感到寒慄。"}]}],"t":"lies"}
+,"lifanges":{"h":[{"d":[{"s":["`milifanges~"],"e":["￹`Milifanges~ `to~ `mi'adopan~.￺￻剝下獵物的皮。"],"f":"剝皮。"}]}],"stem":"fanges","t":"lifanges"}
+,"lifar":{"h":[{"d":[{"f":"野生果樹。"}]}],"t":"lifar"}
+,"lifawa":{"h":[{"d":[{"s":["`lofawa~","`malifawa~"],"e":["￹`Malifawa~ `ko~ `kaci'ing~ `ako~.￺￻我下額腫痛。"],"f":"長瘤，腫起來。"}]}],"stem":"fawa","t":"lifawa"}
+,"lifes":{"h":[{"d":[{"e":["￹`ma~`lifes~ `kita~.￺￻吹北風。"],"f":"北風。"}]}],"t":"lifes"}
+,"lifet":{"h":[{"d":[{"s":["`'alifet~"],"f":"試探，試驗，考驗。"},{"s":["`milifet~"],"e":["￹`Aka~ `ka~ `pidah~ `to~ `lifet~.￺￻不怕考驗。"],"f":"抵制，抵抗。"}]}],"t":"lifet"}
+,"lifeten":{"h":[{"d":[{"f":"對某某進行考驗、考核。"},{"e":["￹`Lifeten~ `cangra~ `to~ `no~ `'Amis~ `a~ `sowal~.￺￻考考他們的阿美族話。"],"f":"對某某抵抗。"}]}],"stem":"lifet","t":"lifeten"}
+,"liflif":{"h":[{"d":[{"s":["`mili~ﬂ`if~"],"e":["￹`if~ `to~ `payso~ `ko~ `malitengay~.￺￻老人藏私房錢。"],"f":"隱藏，藏匿。Miliﬂ"}]}],"t":"liflif"}
+,"liflifen":{"h":[{"d":[{"e":["￹`ifen~ `no~ `wawa~ `ko~ `mali~ `i~ `ka~`linik~ `no~ `kafuti'an~.￺￻小孩把球藏匿在床底下。","￹`Liflifen~ `ko~ `wawa~ `iso~ !￺￻把你的孩子藏起來吧！"],"f":"把某某隱藏起來。Liﬂ"}]}],"stem":"liflif","t":"liflifen"}
+,"lifoh":{"h":[{"d":[{"e":["￹`O~ `sapakaen~ `to~ `malonem~ `ko~ `lifoh~.￺￻小麻可供鹿吃。"],"f":"(樹)小麻，山黃麻。"}]}],"t":"lifoh"}
+,"lifok":{"h":[{"d":[{"s":["`milifok~"],"e":["￹`Malifok~ `ako~ `ko~ `hangkaci~.￺￻我撿到手帕。"],"f":"拾到、撿到(遺物)，撿便易。"}]}],"t":"lifok"}
+,"lifonen":{"h":[{"d":[{"e":["￹`Palifonen~ `ningra~ `kami~ `to~ `na~`romi'ad~`an~.￺￻他發給我們一天的工資。"],"f":"向某某發酬金。"}]}],"stem":"lifon","t":"lifonen"}
+,"lifong":{"h":[{"d":[{"e":["￹`Adihay~ `ko~ `lifong~ `no~ `itiyaayho~ `a~ `tamdaw~.￺￻過去的人有許多傳染病。"],"f":"傳染病，瘟疫。"}]}],"t":"lifong"}
+,"lifongoh":{"h":[{"d":[{"s":["`milifongoh~"],"e":["￹`Caay~ `pi~`lifongoh~ `ko~ `'Amis~ `a~ `tamdaw~.￺￻阿美族沒有砍人頭的。"],"f":"砍人頭，斬首。"}]}],"stem":"fongoh","t":"lifongoh"}
+,"lifongohen":{"h":[{"d":[{"e":["￹`Lifongohen~ `ko~ `'ada~.￺￻向仇敵獵頭。"],"f":"把頭砍了、獵取了。"}]}],"stem":"fongoh","t":"lifongohen"}
+,"lifot":{"h":[{"d":[{"s":["`malifot~","`kalifotan~"],"e":["￹`Aka~ `ka~ `lifot~ `kiso~ `i~ `takowanan~.￺￻別對我厭煩。"],"f":"麻煩，困擾。"}]}],"t":"lifot"}
+,"lifowas":{"h":[{"d":[{"s":["`malifowas~","`mala~`fiyas~"],"e":["￹`Malifowas~ `ko~ `kohaw~.￺￻湯滿溢了。"],"f":"擴散，輻射，撒落四方。"}]}],"stem":"fowas","t":"lifowas"}
+,"lihaf":{"h":[{"d":[{"e":["￹`Tatiih~ `ko~ `lihaf~ `iso~ `i~ `niyaro'~.￺￻在部落你的謠言不好。"],"f":"閒話，謠言，傳聞。"}]}],"t":"lihaf"}
+,"lihal":{"h":[{"d":[{"s":["`nihar~","`monihal~"],"e":["￹`Minokay~ `kako~ `to~ `lihal~.￺￻我黎明回來。"],"f":"拂曉，黎明。"}]}],"t":"lihal"}
+,"lihalih":{"h":[{"d":[{"s":["`ma~`lihalih~","`kihakih~"],"e":["￹`Ma~`lihalih~ `ko~ `kafer~ `nona~ `kapah~.￺￻這個年輕人的褲子鬆姱。"],"f":"(把柄)鬆動，鬆脫，搖動。"}]}],"t":"lihalih"}
+,"lihaw":{"h":[{"d":[{"s":["`rihaw~","`ma~`lihaw~"],"e":["￹`Ma~`lihaw~ `ko~ `wawa~ `to~ `pi~`tatangic~`an~.￺￻孩子哭啞了。"],"f":"沙啞，嘶啞。"}]}],"t":"lihaw"}
+,"lihay":{"h":[{"d":[{"s":["`lipay~〈漢語借詞〉"],"f":"禮拜〈日語借詞〉。"}]},{"d":[{"s":["`lipay~"],"e":["￹`Mapolong~ `ko~ `paro~ `no~ `loma'~ `niyam~ `a~ `milihay~.￺￻我們全家人都作禮拜。"],"f":"禮拜。"}]}],"t":"lihay"}
+,"lihayen":{"h":[{"d":[{"e":["￹`Lihayen~ `niyam~ `ko~ `ma~`paesay~ `a~ `loma'~.￺￻我們去喪家禮拜。"],"f":"去做禮拜吧。"}]}],"stem":"lihay","t":"lihayen"}
+,"liheco":{"h":[{"d":[{"s":["`diheco~","`ma~`liheco~"],"e":["￹`Liheco~ `ko~ `tamdaw~ `i~ `Kyokay~.￺￻教會人多真擁擠。"],"f":"緊密，擁擠。"}]}],"t":"liheco"}
+,"lihenaw":{"h":[{"d":[{"s":["`ma~`lihenaw~"],"e":["￹`Lihenaw~ `kako~ `to~ `'orip~.￺￻我對生命感到不安。"],"f":"懼怕，恐懼，不安。"}]}],"t":"lihenaw"}
+,"lihiw":{"h":[{"d":[{"s":["`milihiw~"],"e":["￹`Malihiw~ `no~ `nanom~ `ko~ `omah~.￺￻田被水沖蝕。"],"f":"沖蝕而坍塌，欺騙。"}]}],"t":"lihiw"}
+,"lihiwen":{"h":[{"d":[{"e":["￹`Lihiwen~ `no~ `nanom~ `ko~ `lawac~ `no~ `omah~.￺￻把田的角落沖蝕。","￹`Lihiwen~ `no~ `pa~`yrang~ `ko~ `na~ `malitengay~.￺￻這位老人被 payrang 欺騙。"],"f":"把某物沖塌，把某人騙了。"}]}],"stem":"lihiw","t":"lihiwen"}
+,"lihoc":{"h":[{"d":[{"s":["`ma~`lihoc~"],"e":["￹`Ma~`lihoc~ `ko~ `omah~.￺￻水田被水沖蝕像彎曲狀。"],"f":"泥土被沖蝕狀，彎曲狀。"}]}],"t":"lihoc"}
+,"lihoway":{"h":[{"d":[{"s":["`kihoway~","`ma~`lihoway~"],"e":["￹`Lihoway~ `kona~ `cokap~.￺￻鞋子很鬆。"],"f":"(因尺寸太大)鬆弛，寬鬆。"}]}],"t":"lihoway"}
+,"likaf":{"h":[{"d":[{"s":["`milikaf~"],"e":["￹`Aka~ `pilikaf~ `to~ `tao~.￺￻不要諷刺人。"],"f":"誹謗，中傷，評語。"}]}],"t":"likaf"}
+,"likafen":{"h":[{"d":[{"e":["￹`Aka~ `likafen~ `ko~ `tao~ `a~ `somowal~.￺￻說話不要諷刺別人。"],"f":"把某某中傷、誹謗。"}]}],"stem":"likaf","t":"likafen"}
+,"likat":{"h":[{"d":[{"e":["￹`Ma~`tdi~ `ko~ `likat~ `nona~ `dawdaw~.￺￻這座燈很亮。"],"f":"光，光亮，火光。"}]}],"t":"likat"}
+,"likaten":{"h":[{"d":[{"e":["￹`Likaten~ `ko~ `namal~.￺￻把火點起來。","￹`Likaten~ `ningra~ `ko~ `ma'icangay~ `a~ `talod~.￺￻他把乾草點燃了。","￹`Likaten~ `ko~ `dingki~ `no~ `loma'~.￺￻把家裡電燈點亮。"],"f":"把某物點燃。"}]}],"stem":"likat","t":"likaten"}
+,"likaw":{"h":[{"d":[{"e":["￹`Cecay~ `a~ `likaw~ `ko~ `walay~.￺￻線一圈。"],"f":"計量單位。圈兒，一圈兒。"},{"s":["`milikaw~"],"f":"纏繞成圈兒。"}]},{"d":[{"f":"蜿蜒曲折。"}]}],"t":"likaw"}
+,"likawen":{"h":[{"d":[{"e":["￹`Likawen~ `ni~ `kaka~ `ko~ `walay~.￺￻姊姊把線繞成圈。"],"f":"把某物纏繞成圈狀。"}]}],"stem":"likaw","t":"likawen"}
+,"liked":{"h":[{"d":[{"s":["`mi~`liked~"],"e":["￹`Ma~`liked~ `ko~ `safalod~ `no~ `waco~.￺￻狗鍊被盤繞。"],"f":"盤繞，盤捲。"}]}],"t":"liked"}
+,"likeden":{"h":[{"d":[{"e":["￹`Likeden~ `nangra~ `ko~ `pi~`so'ot~ `to~ `marad~.￺￻他們把鐵索盤捲起來。"],"f":"把某物盤繞、盤捲起來。"}]}],"stem":"liked","t":"likeden"}
+,"likel":{"h":[{"d":[{"s":["`mi~`likel~"],"e":["￹`Palilamen~ `to~ `kahacecay~ `a~ `likel~.￺￻分配給每人一份。","￹`Ini~ `ko~ `miso~ `a~ `likel~.￺￻你分配到的一份在這裡。"],"f":"抽取，分配，被分配到的一份。"}]}],"t":"likel"}
+,"likelen":{"h":[{"d":[{"s":["`ro^no^~"],"e":["￹`Palikelen~ `kami~ `to~ `tayal~.￺￻分配工作給我們。"],"f":"把某物分配。"}]}],"stem":"likel","t":"likelen"}
+,"likelon":{"h":[{"d":[{"s":["`ma^epod~","`ma~`likelon~"],"e":["￹`Maliklon~ `ko~ `saka~ `tayra~ `i~ `fanaw~ `a~ `lalan~.￺￻往池子的路是下坡的。"],"f":"下坡，(從高往低)下去。"}]}],"t":"likelon"}
+,"likes":{"h":[{"d":[{"e":["￹`Laplapen~ `ko~ `likes~.￺￻把蚊子趕出。"],"f":"蚊子。"}]}],"t":"likes"}
+,"likid":{"h":[{"d":[{"s":["`milikid~"],"e":["￹`Malikid~ `no~ `nanom~ `ko~ `tafo~ `ako~.￺￻我的便當被水沖走。"],"f":"沖走，流走，流失。"}]}],"t":"likid"}
+,"likiden":{"h":[{"d":[{"e":["￹`Likiden~ `no~ `nanom~ `ko~ `datung~ `i~ `kafodo'an~.￺￻下大雨巨木被水沖走。"],"f":"把某物沖走、流走。"}]}],"stem":"likid","t":"likiden"}
+,"likisi":{"h":[{"d":[{"f":"歷史〈日語借詞〉。"}]}],"t":"likisi"}
+,"likoda":{"h":[{"d":[{"s":["`malikoda~"],"e":["￹`Maolah~ `ko~ `lafang~ `a~ `minengneng~ `to~ `likoda~ `niyam~.￺￻來賓喜歡我們的舞姿。"],"f":"阿美族人傳統的慶功祭舞。"}]}],"t":"likoda"}
+,"likodo":{"h":[{"d":[{"f":"唱片〈日語借詞〉。"}]}],"t":"likodo"}
+,"likoko%27":{"h":[{"d":[{"e":["￹`Ira~ `ko~ `lafang~ `mi~`likoko'~ `kami~.￺￻有訪客我們就捉雞。"],"f":"捉雞。"}]}],"stem":"koko'","t":"likoko'"}
+,"likong":{"h":[{"d":[{"f":"離婚〈日語借詞〉。"}]}],"t":"likong"}
+,"likot":{"h":[{"d":[{"s":["`liyot~","`milikot~"],"e":["￹`Milikot~ `ko~ `'ada~ `i~ `titaanan~.￺￻敵人圍攻我們。"],"f":"包圍，圍剿。"}]},{"d":[{"s":["`kalolo~"],"f":"洗頭髮。"}]}],"t":"likot"}
+,"likoten":{"h":[{"d":[{"e":["￹`Likoten~ `to~ `niyam~ `ko~ `niyaro'~ `no~ `'ada~.￺￻我們把敵人的村子圍起來。","￹`Likoten~ `no~ `niyam~ `ko~ `omah~.￺￻我們把田地圍起來。"],"f":"圍起來，圍攻，圍剿。"}]}],"stem":"likot","t":"likoten"}
+,"likothan":{"h":[{"d":[{"e":["￹`Likothan~ `noya~ `lotong~ `koya~ `pawli~ `caay~ `ka~`sapiliyas~`an~.￺￻那些猴子來了就把香蕉包圍起來，不想離開。"],"f":"就把某某包圍起來。"}]}],"stem":"likot","t":"likothan"}
+,"likowat":{"h":[{"d":[{"s":["`milikowat~"],"f":"跨步測量長度。"}]}],"stem":"kowat","t":"likowat"}
+,"likowaten":{"h":[{"d":[{"e":["￹`Likowaten~ `a~ `milalat~.￺￻跨步測量。"],"f":"跨步把某距離測量。"}]}],"stem":"kowat","t":"likowaten"}
+,"likowaw":{"h":[{"d":[{"s":["`mi~`likowaw~","`likakahong~"],"e":["￹`Tayra~ `kita~ `i~ `minato~ `a~ `mi~`likowaw~.￺￻我們去魚港抓飛魚。"],"f":"抓飛魚。"}]}],"stem":"kowaw","t":"likowaw"}
+,"likowawen":{"h":[{"d":[{"e":["￹`Likowawen~ `niyam~ `i~ `riyal~.￺￻我們在海上抓飛魚。"],"f":"把飛魚捉住。"}]}],"stem":"kowaw","t":"likowawen"}
+,"lilac":{"h":[{"d":[{"s":["`lilic~","`ma~`lilac~"],"e":["￹`Ci~`lilac~ `kona~ `wawa~.￺￻這孩子不乾淨。"],"f":"污垢，污穢，不乾淨。"}]}],"t":"lilac"}
+,"lilal":{"h":[{"d":[{"e":["￹`Mafuti'~ `kako~ `i~ `lilal~ `to~ `kalahokan~.￺￻中午我在竹編床台睡覺。"],"f":"竹編床台。"}]}],"t":"lilal"}
+,"lilam":{"h":[{"d":[{"s":["`kilac~","`mililam~"],"e":["￹`Ala^mang~ `kita~ `to~ `lilam~.￺￻我們都分一點。"],"f":"分領，份兒。"}]}],"t":"lilam"}
+,"lilamal":{"h":[{"d":[{"s":["`mi~`lilamal~"],"e":["￹`Mi~`lilamal~ `ci~ `Looh~ `i~ `fiyaw~ `a~ `talo'an~. `Looh~￺￻向隔壁的工寮借火種。"],"f":"取火，取火種。"}]}],"stem":"lamal","t":"lilamal"}
+,"lilamalen":{"h":[{"d":[{"e":["￹`I~ `parod~ `a~ `mi~`lilamal~.￺￻從爐灶取火種。"],"f":"把火種取來。"}]}],"stem":"lamal","t":"lilamalen"}
+,"lilamen":{"h":[{"d":[{"e":["￹`Lilamen~ `kora~ `'odax~.￺￻把那些糖果分了吧。"],"f":"把某物分配。"}]}],"stem":"lilam","t":"lilamen"}
+,"lilamit":{"h":[{"d":[{"s":["`mi~`lilamit~"],"e":["￹`Lilamithan~ `niyam~ `ko~ `'icep~.￺￻我們拔除檳榔根。"],"f":"拔根，除根。"}]}],"stem":"lamit","t":"lilamit"}
+,"lilamiten":{"h":[{"d":[{"e":["￹`Lilamiten~ `ko~ `pi~`kaomah~.￺￻在田裡除草要斬草除根 ."],"f":"把根部拔除、拔掉。"}]}],"stem":"lamit","t":"lilamiten"}
+,"lilec":{"h":[{"d":[{"s":["`mi~`lilec~"],"e":["￹`Kdecen~ `a~ `mi~`lilec~ `ko~ `poto~.￺￻螺絲要捻緊。"],"f":"捻、扭(螺絲等)。"}]}],"t":"lilec"}
+,"lilecen":{"h":[{"d":[{"e":["￹`Lilecen~ `to~ `tolaypa~.￺￻用螺絲起子捻緊。"],"f":"把(螺絲等)捻了、扭了。"}]}],"stem":"lilec","t":"lilecen"}
+,"lileng":{"h":[{"d":[{"s":["`malileng~"],"e":["￹`malileng~ `ko~ `tangal~ `ako~.￺￻我頭暈。"],"f":"旋轉，暈眩。"}]}],"t":"lileng"}
+,"lilid":{"h":[{"d":[{"s":["`mililid~"],"e":["￹`Tatosa~ `kita~ `a~ `mililid~.￺￻我們兩人抬。"],"f":"抬，扛，支撐。"}]}],"t":"lilid"}
+,"liliden":{"h":[{"d":[{"e":["￹`Liliden~ `nangra~ `pa~`tayra~ `i~ `riyal~ `koya~ `hemay~ `ato~ `^epah~ `ato~ `titi~.￺￻他們把那些米糕、酒、肉抬著送到海邊。"],"f":"把某物抬、扛起來。"}]}],"stem":"lilid","t":"liliden"}
+,"lilidhan":{"h":[{"d":[{"e":["￹`Lilidhan~ `ningra~ `kako~ `a~ `mihawikid~ `a~ `romakat~.￺￻他就把我撐起來帶著走了。"],"f":"就把某物抬扛起來。"}]}],"stem":"lilid","t":"lilidhan"}
+,"lilifon":{"h":[{"d":[{"s":["`mililifon~"],"e":["￹`Mililifon~ `kami~ `anocila~.￺￻明天我領薪。"],"f":"領酬金、工薪。"}]}],"stem":"lifon","t":"lilifon"}
+,"lilifonen":{"h":[{"d":[{"e":["￹`Lilifonen~ `i~ `tawki~.￺￻去向老闆領薪水。"],"f":"把酬金、工薪領取。"}]}],"stem":"lifon","t":"lilifonen"}
+,"lilis":{"h":[{"d":[{"e":["￹`Lilis~ `no~ `riyal~.￺￻海岸。"],"f":"邊緣，邊沿。"}]}],"t":"lilis"}
+,"lilit":{"h":[{"d":[{"f":"女性長者的小布帶頭飾。"}]},{"d":[{"e":["￹`Ofangen~ `to~ `lilit~.￺￻用錐子鑽洞。"],"f":"錐子，改錐，鑽孔器。"}]}],"t":"lilit"}
+,"liliten":{"h":[{"d":[{"e":["￹`Liliten~ `ko~ `pi~`farodan~ `to~ `keliw~.￺￻用錐子鑽綁繩子的地方。"],"f":"用鑽孔器等給某物鑽孔。"}]}],"stem":"lilit","t":"liliten"}
+,"liliw":{"h":[{"d":[{"f":"挨家挨戶逐個傳告消息。"},{"s":["`rasil~","`mililiw~"],"f":"蓋房子時男子幫工互助。"}]}],"t":"liliw"}
+,"liliwen":{"h":[{"d":[{"e":["￹`Liliwen~ `namo~ `ci~ `Kolas~ `a~ `misaloma'~.￺￻你們去幫助古拉斯先生蓋房子吧。"],"f":"幫助把房子造起來。"}]}],"stem":"liliw","t":"liliwen"}
+,"liloc":{"h":[{"d":[{"s":["`ino'~","`mi~`liloc~"],"e":["￹`Mi~`liloc~ `kako~.￺￻我去洗澡。"],"f":"洗澡，洗浴。"}]}],"t":"liloc"}
+,"lilocen":{"h":[{"d":[{"e":["￹`Palilocen~ `ko~ `wawa~.￺￻給孩子洗澡。"],"f":"給某某洗澡、洗浴，洗澡去吧。"}]}],"stem":"liloc","t":"lilocen"}
+,"lilom":{"h":[{"d":[{"s":["`ma~`lilom~"],"e":["￹`Ma~`lilom~ `ko~ `rakat~ `ni~ `ina~ `ako~ `to~ `nika~ `adada~ `no~ `tireng~ `ningra~.￺￻我媽因病走路有些不穩。"],"f":"行走時重心不穩的樣子，軟弱無力。"}]}],"t":"lilom"}
+,"lilu":{"h":[{"d":[{"f":"鐵軌〈日語借詞〉。"}]}],"t":"lilu"}
+,"lima":{"h":[{"d":[{"e":["￹`Lima~ `a~ `kilang~.￺￻五棵樹。"],"f":"五，五個(物品)。"}]}],"t":"lima"}
+,"limaay":{"h":[{"d":[{"f":"有五個的。"},{"e":["￹`Limaay~ `ko~ `tilid~.￺￻書五本。","￹`Limaay~ `ko~ `loma'~ `ako~.￺￻我有五間房子。","￹`Limaay~ `a~ `kowang~.￺￻五把火槍。"],"f":"有五個(物品)"}]}],"stem":"lima","t":"limaay"}
+,"limad":{"h":[{"d":[{"s":["`mi~`limad~","`linah~"],"e":["￹`Ma~`limad~ `no~ `kakonah~ `ko~ `'odax~.￺￻螞蟻可以搬動糖果。"],"f":"移動，搬動。"}]}],"t":"limad"}
+,"limadac":{"h":[{"d":[{"s":["`kimadac~"],"e":["￹`Limadac~ `ko~ `funus~ `iso~.￺￻你的刀很光滑。"],"f":"光滑，滑溜。"}]}],"t":"limadac"}
+,"limadacay":{"h":[{"d":[{"f":"光滑，滑溜。"},{"e":["￹`Limadacay~ `a~ `fakeloh~.￺￻光滑石。"],"f":"光滑的，滑溜的。"}]}],"stem":"limadac","t":"limadacay"}
+,"limaden":{"h":[{"d":[{"e":["￹`Limaden~ `niyam~ `ko~ `cokoi~.￺￻我們搬動桌子。"],"f":"把某物移動、搬動。"}]}],"stem":"limad","t":"limaden"}
+,"limaen":{"h":[{"d":[{"e":["￹`Limaen~ `ako~ `ko~ `tafo~.￺￻我要來五件包包。"],"f":"特別預備五個(物品)。"}]}],"stem":"lima","t":"limaen"}
+,"limaw":{"h":[{"d":[{"e":["￹`Awa~ `ko~ `limaw~ `ako~ `inacila~.￺￻我昨天沒有空閒。"],"f":"空閒、範圍。"}]}],"t":"limaw"}
+,"limcedan":{"h":[{"d":[{"s":["`kaying~"],"e":["￹`O~ `limcedan~ `ko~ `wawa~ `ako~.￺￻我有未婚女兒。"],"f":"未婚女子，少女。"}]}],"stem":"mced","t":"limcedan"}
+,"limek":{"h":[{"d":[{"s":["`milimek~"],"e":["￹`Milimek~ `i~ `talo'an~ `ko~ `wawa~.￺￻孩子躲在工寮。"],"f":"躲藏，隱藏，逃避。"}]}],"t":"limek"}
+,"limeken":{"h":[{"d":[{"e":["￹`Limeken~ `kora~ `wawa~ `i~ `kaikor~ `ni~ `wina~ `ningra~.￺￻把那個小孩藏在他母親的後面。"],"f":"把某某隱藏、藏匿。"}]}],"stem":"limek","t":"limeken"}
+,"limeksa":{"h":[{"d":[{"e":["￹`Limeksa~ `koya~ `'oner~ `i~ `ci~ `dmetay~ `a~ `tapangan~ `no~ `kilang~.￺￻那條蛇一直隱藏在樹根處的荊棘裡。"],"f":"隱藏起來，就躲避著。"}]}],"stem":"limek","t":"limeksa"}
+,"limela":{"h":[{"d":[{"e":["￹`Limela~ `to~ `wawa~.￺￻疼愛孩子。"],"f":"愛惜，珍愛。"}]}],"t":"limela"}
+,"limelaen":{"h":[{"d":[{"e":["￹`Limelaen~ `cingra~ `toni~ `a~ `toko~.￺￻他感到這顆田螺很珍惜。"],"f":"對某某感到珍惜、愛惜。"}]}],"stem":"limela","t":"limelaen"}
+,"limood":{"h":[{"d":[{"s":["`kimood~","`limoloay~"],"e":["￹`Limood~ `ko~ `ta^ko'~.￺￻頭笠是圓的。"],"f":"圓形，圓的。"}]}],"t":"limood"}
+,"limooday":{"h":[{"d":[{"e":["￹`Limooday~ `a~ `'adicaw~.￺￻圓的光滑石。"],"f":"呈圓形，圓的。"}]}],"stem":"limood","t":"limooday"}
+,"limpo":{"h":[{"d":[{"e":["￹`Micakay~ `to~ `limpo~.￺￻去買蓮霧。","￹`Paloma~ `kako~ `to~ `limpo~.￺￻我種植蓮霧。"],"f":"蓮霧樹，蓮霧果。"}]}],"tag":"[閩南語借詞]","t":"limpo"}
+,"linah":{"h":[{"d":[{"s":["`milinah~"],"e":["￹`Malinah~ `ko~ `aro'~ `niyam~.￺￻我們遷居了。"],"f":"遷移，移動，搬遷。"}]}],"t":"linah"}
+,"linahen":{"h":[{"d":[{"s":["`filiden~"],"e":["￹`Linahen~ `noya~ `malitengay~ `koni~ `a~ `tokos~.￺￻老人把這座山搬走。","￹`Linahen~ `niyam~ `ko~ `kowang~ `a~ `mitoker~ `tora~ `tayniay~ `a~ `'ada~.￺￻我們移動火槍抵抗來犯之敵。"],"f":"把某物遷移、移動走。"}]}],"stem":"linah","t":"linahen"}
+,"linalin":{"h":[{"d":[{"e":["￹`O~ `linalin~ `ko~ `dateng~ `no~ `matayalay~.￺￻工人吃海藻菜。"],"f":"一種海藻，可食用。"}]}],"t":"linalin"}
+,"linay":{"h":[{"d":[{"e":["￹`Hawikiden~ `ko~ `linay~ `a~ `mitilid~.￺￻帶傘去學校。"],"f":"油傘。"}]}],"t":"linay"}
+,"linci":{"h":[{"d":[{"f":"日臨時〈日語借詞〉。"}]}],"t":"linci"}
+,"linciw":{"h":[{"d":[{"f":"鄰長〈日語借詞〉。"}]}],"t":"linciw"}
+,"lincu":{"h":[{"d":[{"f":"鏡頭，廣角鏡〈日語借詞〉。"}]}],"t":"lincu"}
+,"lineknek":{"h":[{"d":[{"s":["`palineknek~"],"f":"傾訴某事。"}]},{"d":[{"s":["`mi~`lineknek~","`ma~`halineknek~"],"f":"採取人工方法使水中污垢沈澱下來。"}]}],"t":"lineknek"}
+,"linekneken":{"h":[{"d":[{"e":["￹`Linekneken~ `ko~ `'apol~ `no~ `nanom~.￺￻把水的石灰質沉澱下來。"],"f":"把水中污物沈澱下來。"}]}],"stem":"neknek","t":"linekneken"}
+,"lingad":{"h":[{"d":[{"s":["`malingad~"],"e":["￹`O~ `dadaya~ `ko~ `saka~ `lingad~ `niyam~.￺￻我們夜間工作。"],"f":"開始工作，上工，上班，啟程，出發。"}]}],"t":"lingad"}
+,"lingat":{"h":[{"d":[{"s":["`cipat~","`kipat~","`kupa~"],"f":"黏住，黏貼。"}]}],"t":"lingat"}
+,"lingato":{"h":[{"d":[{"s":["`malingato~"],"e":["￹`I~ `dadaya~ `a~ `malingato~ `kami~.￺￻昨夜開工。"],"f":"開始做事。"}]}],"stem":"ngato","t":"lingato"}
+,"lingatoen":{"h":[{"d":[{"e":["￹`Lingatoen~ `ita~ `a~ `matayal~￺￻我們開始做吧。"],"f":"開始做吧。"}]}],"stem":"ngato","t":"lingatoen"}
+,"lingesa%27":{"h":[{"d":[{"s":["`lingasa'~","`singara'~","`sasi~`ngara'an~"],"e":["￹`Pakaenen~ `ko~ `waco~ `to~ `lingesa'~ `no~ `futing~.￺￻把魚鰓給狗吃。"],"f":"魚鰓，鰓孔。"}]}],"t":"lingesa'"}
+,"lingka":{"h":[{"d":[{"s":["`cenga~"],"f":"紅磚〈日語借詞〉。"}]},{"d":[{"e":["￹`O~ `lingka~ `ko~ `moco'~ `no~ `loma'~ `niyam~.￺￻我們家的牆是用紅磚沏成的。"],"f":"紅磚。"}]}],"t":"lingka"}
+,"lingking":{"h":[{"d":[{"e":["￹`Pakaenen~ `ako~ `ko~ `wawa~ `to~ `lingking~.￺￻我給孩子吃龍眼。"],"f":"龍眼樹，龍眼。"}]}],"tag":"[閩南語借詞]","t":"lingking"}
+,"lingkingen":{"h":[{"d":[{"e":["￹`Lingkingen~ `koya~ `marohemay~.￺￻去採熟的龍眼。"],"f":"把龍眼摘下來。"}]}],"stem":"lingking","t":"lingkingen"}
+,"lingkiw":{"h":[{"d":[{"e":["￹`Tenasen~ `to~ `lingkiw~ `ko~ `futing~.￺￻吃魚要沾辣椒。"],"f":"辣椒。"}]}],"t":"lingkiw"}
+,"lingkiwen":{"h":[{"d":[{"e":["￹`Lingkiwen~ `koya~ `i~ `omah~`ay~.￺￻去田裡把辣椒摘下來。"],"f":"把辣椒摘下來。"}]}],"stem":"lingkiw","t":"lingkiwen"}
+,"lingko":{"h":[{"d":[{"f":"蘋果〈日語借詞〉。"}]},{"d":[{"e":["￹`Malofic~ `ko~ `heci~ `no~ `lingko~.￺￻蘋果結實纍纍。"],"f":"蘋果樹，蘋果。"}]}],"t":"lingko"}
+,"lingkoen":{"h":[{"d":[{"e":["￹`Lingkoen~ `a~ `pakaenen~ `to~ `lafang~.￺￻我們摘蘋果給客人吃。"],"f":"把蘋果摘下來。"}]}],"stem":"lingko","t":"lingkoen"}
+,"lingling":{"h":[{"d":[{"e":["￹`Mi~`lingling~ `ko~ `lalangaw~ `to~ `odah~..￺￻蒼蠅聚集垂涎著糖果。"],"f":"覬覦，非分的貪念，聚集，簇擁在某物周圍。"}]}],"t":"lingling"}
+,"lingod":{"h":[{"d":[{"e":["￹`Tatiih~ `a~ `milingod~ `to~ `malasangay~.￺￻不可圍觀酒醉的人。"],"f":"圍觀，觀望。"}]}],"t":"lingod"}
+,"lingoden":{"h":[{"d":[{"s":["`milingod~"],"e":["￹`Lingoden~ `koya~ `ma~`sontoray~ `no~ `tosiya~ `a~ `tamdaw~.￺￻我們圍觀那被車撞的人。"],"f":"把某某圍觀。"}]}],"stem":"lingod","t":"lingoden"}
+,"lingowaen":{"h":[{"d":[{"e":["￹`Lingowaen~ `ningra~ `kako~.￺￻他關照我。"],"f":"對某某關照，照顧。"}]}],"stem":"lingowa","t":"lingowaen"}
+,"lingses":{"h":[{"d":[{"s":["`ma~`lingeses~"],"e":["￹`Lingses~ `kako~ `to~ `pinangan~ `ningra~.￺￻他的行為令人驚恐。"],"f":"令人驚恐、噁心。"}]}],"t":"lingses"}
+,"lingsesen":{"h":[{"d":[{"e":["￹`Lingsesen~ `kako~ `a~ `paka'araw~ `to~ `remes~.￺￻當我看見血就感到噁心。"],"f":"感到噁心。"}]}],"stem":"lingses","t":"lingsesen"}
+,"lingwa":{"h":[{"d":[{"s":["`milingowa~"],"e":["￹`Mi~`lingwa~ `ko~ `Kyokay~ `to~ `pakoyoc~ `a~ `tamdaw~.￺￻教會照顧窮人。"],"f":"理睬，關照，照顧。"}]}],"t":"lingwa"}
+,"linik":{"h":[{"d":[{"f":"底下，底層。"},{"e":["￹`Ira~ `i~ `linik~ `no~ `cokap~ `ko~ `payso~.￺￻鞋底有錢。"],"f":"不辭而行，偷偷溜走。"}]}],"t":"linik"}
+,"liniken":{"h":[{"d":[{"e":["￹`Liniken~ `a~ `tayni~.￺￻偷偷來此。"],"f":"偷偷地不被人察覺地行事。"}]}],"stem":"linik","t":"liniken"}
+,"liniksa":{"h":[{"d":[{"e":["￹`Toya~ `dadaya~ `liniksa~ `cingra~ `tayra~ `ci~ `Sa~`lataw~`an~ `a~ `midi'i~ `a~ `mafuti'~.￺￻那天夜裡，她就偷偷地到薩拉道先生那裡同枕共眠。"],"f":"情不自禁地偷偷地行事。"}]}],"stem":"linik","t":"liniksa"}
+,"linpo":{"h":[{"d":[{"s":["`limfo~","`limpo~"],"f":"蓮霧樹，蓮霧果。"}]}],"tag":"[閩南語借詞]","t":"linpo"}
+,"linsiw":{"h":[{"d":[{"f":"練習〈日語借詞〉。"}]}],"t":"linsiw"}
+,"lintoking":{"h":[{"d":[{"f":"X 光〈日語借詞〉。"}]}],"t":"lintoking"}
+,"liomah":{"h":[{"d":[{"s":["`mi~`liomah~"],"e":["￹`Mi~`liomah~ `i~ `'alo~`'aloan~.￺￻在河川地開墾。"],"f":"擴大田地，拓墾。"}]}],"stem":"omah","t":"liomah"}
+,"liomahen":{"h":[{"d":[{"e":["￹`Liomahen~ `i~ `lawac~ `no~ `riyal~.￺￻在海邊開墾。"],"f":"把田地擴大，開墾。"}]}],"stem":"omah","t":"liomahen"}
+,"lipa":{"h":[{"d":[{"f":"長方形，矩形。"}]},{"d":[{"e":["￹`kilang~ `a~ `lipa~.￺￻木箱子。"],"f":"木箱，箱子。"}]}],"t":"lipa"}
+,"lipahak":{"h":[{"d":[{"s":["`malipahak~"],"e":["￹`Lipahak~ `kami~ `to~ `katayni~ `iso~.￺￻你的來到令人歡欣。"],"f":"喜悅，歡欣，愉快。"}]}],"t":"lipahak"}
+,"lipalaw":{"h":[{"d":[{"s":["`malipalaw~"],"e":["￹`Malipalaw~ `nangra~ `kita~ `a~ `minokay~.￺￻他偷偷的回去。"],"f":"動作迅速，出其不意，出人意外。"}]}],"stem":"palaw","t":"lipalaw"}
+,"lipalawen":{"h":[{"d":[{"e":["￹`Lipalawen~ `ningra~ `ko~ `'ada~ `a~ `milaliw~.￺￻他出其不意地甩掉敵人逃跑了。"],"f":"乘人不備、出其不意地行事。"}]}],"stem":"palaw","t":"lipalawen"}
+,"lipalawhan":{"h":[{"d":[{"e":["￹`Lipalawhan~ `ako~ `koya~ `lokedaw~ `a~ `mikotang~.￺￻我出其不意地刺殺豹子。"],"f":"就乘其不備地行事。"}]}],"stem":"palaw","t":"lipalawhan"}
+,"lipaw":{"h":[{"d":[{"s":["`ma~`lipaw~"],"e":["￹`Adihay~ `ko~ `lipaw~ `ako~ `to~ `sapico'ay~ `to~ `'ada~.￺￻我有許多計謀對抗敵人。"],"f":"謀劃，策劃，伺機而動。"}]}],"t":"lipaw"}
+,"lipay":{"h":[{"d":[{"s":["`lihay~"],"f":"禮拜〈漢語借詞〉。"}]},{"d":[{"s":["`lihay~"],"e":["￹`Tosa~ `a~ `lipay~ `ko~ `hanhan~ `ako~.￺￻我有兩週的假期。"],"f":"禮拜，禮拜天，星期日。"}]}],"t":"lipay"}
+,"lipayen":{"h":[{"d":[{"e":["￹`Lipayen~ `ko~ `kawas~.￺￻敬拜神明。"],"f":"做禮拜。"}]}],"t":"lipayen"}
+,"lipot":{"h":[{"d":[{"s":["`milipot~"],"e":["￹`Milipot~ `to~ `tamako~.￺￻捲菸葉。"],"f":"捲起來，包裹，捲烟。"}]},{"d":[{"e":["￹`Ci~`ca^edong~ `to~ `lipot~.￺￻穿短褲。"],"f":"短褲。"}]}],"t":"lipot"}
+,"lipoten":{"h":[{"d":[{"e":["￹`Lipoten~ `ningra~ `i~ `tireng~ `ko~ `tana~.￺￻他把毯子包裹身上。"],"f":"把某物包裹起來。"}]}],"stem":"lipot","t":"lipoten"}
+,"lipothan":{"h":[{"d":[{"e":["￹`Lipothan~ `ningra~ `koya~ `wawa~ `to~ `kiradom~ `a~ `mipafafa~.￺￻他於是用布把孩子捲起來揹走了。"],"f":"就把某某包起來。"}]}],"stem":"lipot","t":"lipothan"}
+,"lipowak":{"h":[{"d":[{"s":["`milipowak~"],"e":["￹`Malipowak~ `ko~ `tinai'~ `noya~ `futing~.￺￻魚的腸子裂開。"],"f":"猛然剖開、裂開。"}]},{"d":[{"s":["`malipowak~"],"f":"分開，散開。"}]}],"stem":"powak","t":"lipowak"}
+,"lipowaken":{"h":[{"d":[{"e":["￹`Lipowaken~ `koya~ `fafoy~.￺￻把豬剖開來。"],"f":"把某物一下剖開、裂開。"}]}],"stem":"powak","t":"lipowaken"}
+,"lirengos":{"h":[{"d":[{"s":["`milirengos~"],"e":["￹`Milirengos~ `kami~ `i~ `omah~.￺￻我們在山上拔草。"],"f":"拔草。"}]}],"stem":"rengos","t":"lirengos"}
+,"lirengosen":{"h":[{"d":[{"e":["￹`Lirengosen~ `niyam~ `koya~ `omah~ `anini~.￺￻今天我們要把那塊田地的草拔了。"],"f":"把草拔了。"}]}],"stem":"rengos","t":"lirengosen"}
+,"lisaot":{"h":[{"d":[{"s":["`malisaot~","`sa'opo~","`lisafon~"],"e":["￹`Mikapot~ `kako~ `to~ `lisaot~ `no~ `finawlan~.￺￻我參與部落的聚會。"],"f":"聚會，開會討論，磋商。"}]}],"t":"lisaot"}
+,"lisi":{"h":[{"d":[{"f":"利息〈漢語借詞〉。"}]}],"t":"lisi"}
+,"lisin":{"h":[{"d":[{"f":"祭祀，奉祀，祈禱。"},{"s":["`paysin~"],"e":["￹`Pi~`do^do~ `to~ `lisin~ `no~ `'Amis~.￺￻要遵守阿美族的祭禮。"],"f":"禁忌，詛咒。"}]}],"t":"lisin"}
+,"lisinan":{"h":[{"d":[{"e":["￹`Adihay~ `ko~ `lisin~ `no~ `'Amis~.￺￻阿美族有許多祭祀。","￹`O~ `lisinan~ `a~ `romiad~.￺￻祭祀日"],"f":"祭祀、節日慶典的類別。"}]}],"stem":"lisin","t":"lisinan"}
+,"liso%27":{"h":[{"d":[{"s":["`miliso'~"],"e":["￹`Tayniay~ `ko~ `faki~ `a~ `miliso'~ `to~ `ina~ `ako~.￺￻舅舅有來探視我母親。"],"f":"探視，探望，訪問，拜訪。"}]}],"t":"liso'"}
+,"liso%27en":{"h":[{"d":[{"e":["￹`Liso'en~ `ako~ `koya~ `widang~ `ako~.￺￻我去探望一下我的朋友。"],"f":"把某某探視、訪問。"}]}],"stem":"liso'","t":"liso'en"}
+,"liso%27so%27":{"h":[{"d":[{"s":["`mi~`liso'so'~"],"e":["￹`Mi~`liso'so'~ `to~ `nanom~.￺￻把水過濾。"],"f":"過濾，濾乾。"}]}],"stem":"so'so'","t":"liso'so'"}
+,"liso%27so%27en":{"h":[{"d":[{"e":["￹`Liso'so'en~ `i~ `pa~`putal~ `ko~ `ma~`cpa'ay~ `a~ `riko'~ `iso~.￺￻把你濕的衣服在外頭濾乾。"],"f":"把某物過濾、濾乾水份。"}]}],"stem":"so'so'","t":"liso'so'en"}
+,"lisok":{"h":[{"d":[{"s":["`lisi~〈漢語借詞〉"],"f":"利息〈日語借詞〉。"}]}],"t":"lisok"}
+,"lita%27ang":{"h":[{"d":[{"s":["`lata'ang~","`malita'ang~","`sa~`podah~"],"e":["￹`O~ `lita'ang~ `ningra~ `a~ `mafana'~ `a~ `mangodo~ `ko~ `wawa~ `to~ `mato'asay~.￺￻他因孩子很尊敬長者而驕傲。"],"f":"驕傲，自豪，引以為榮。"}]}],"stem":"ta'ang","t":"lita'ang"}
+,"lita%27i":{"h":[{"d":[{"s":["`mi~`lita'i~"],"e":["￹`Mi~`litai'~ `kami~ `i~ `pakolongan~.￺￻我們在牛舍積肥。"],"f":"拾糞，積肥。"}]}],"stem":"ta'i","t":"lita'i"}
+,"lita%27ien":{"h":[{"d":[{"e":["￹`Lita'ien~ `koya~ `masidsiday~ `no~ `kolong~ `i~ `lalan~.￺￻把在馬路上的牛糞拾起來。"],"f":"把糞拾起來。"}]}],"stem":"ta'i","t":"lita'ien"}
+,"litafad":{"h":[{"d":[{"s":["`mi~`litafad~"],"f":"斬獲人頭，獵首，得到戰利品。"}]}],"stem":"tafad","t":"litafad"}
+,"litafaden":{"h":[{"d":[{"e":["￹`Litafaden~ `ita~ `ko~ `ka~`keri~`keridan~ `no~ `'ada~.￺￻我們把敵人的領袖們斬首。"],"f":"把某某人頭斬獲，獲取戰利品。"}]}],"t":"litafaden"}
+,"litahom":{"h":[{"d":[{"s":["`ma~`litahom~"],"e":["￹`Ma~`litahom~ `kita~ `a~ `masa'opo~.￺￻我們圍著開會。"],"f":"聚集圍繞。"}]}],"t":"litahom"}
+,"litangal":{"h":[{"d":[{"s":["`militangal~"],"e":["￹`Militangal~ `ko~ `ada~ `itiyaho~.￺￻過去敵人會砍頭。"],"f":"砍頭，獵首。"}]}],"stem":"tangal","t":"litangal"}
+,"litangalen":{"h":[{"d":[{"f":"把某某人頭砍下來。"}]}],"stem":"tangal","t":"litangalen"}
+,"litangalhan":{"h":[{"d":[{"f":"就把某某人頭砍下來。"}]}],"stem":"tangal","t":"litangalhan"}
+,"litelitengan":{"h":[{"d":[{"e":["￹`O~ `sowal~ `no~ `litelitengan~.￺￻古老話，古代的傳說。"],"f":"古老的年代，古代。"}]}],"tag":"[疊 1]","stem":"liteng","t":"litelitengan"}
+,"litemoh":{"h":[{"d":[{"s":["`militemoh~"],"e":["￹`Mi~`litmoh~ `ko~ `fafahi~ `ako~.￺￻我太太迎接我。"],"f":"遇見，迎接。"}]}],"t":"litemoh"}
+,"litemohen":{"h":[{"d":[{"e":["￹`Litemohen~ `niyam~ `ko~ `widang~.￺￻我們要迎接朋友。","￹`Litemohen~ `kako~ `haw~ !￺￻請來迎接我吧！"],"f":"把某某迎接、接見。"}]}],"stem":"litemoh","t":"litemohen"}
+,"liteng":{"h":[{"d":[{"s":["`to'as~"],"e":["￹`Caayka~ `liteng~ `a~ `ne~`nengen~ `kiso~.￺￻看起來你沒老。"],"f":"年老，長老，古老。"}]}],"t":"liteng"}
+,"liteng%20ho":{"h":[{"d":[{"s":["`litengan~ `ho~"],"e":["￹`Iraay~ `i~ `tilid~ `no~ `liteng~ `ho~ `ko~ `hatiniay~ `a~ `demak~.￺￻在古書上有這樣的記載。"],"f":"(短語)。遠古時代，上古時。"}]}],"t":"liteng ho"}
+,"litengan":{"h":[{"d":[{"e":["￹`Do^edoen~ `ko~ `nga'ayay~ `a~ `pinangan~ `no~ `litengan~.￺￻遵守傳統的好風範。"],"f":"古代，古時，傳統。"}]}],"stem":"liteng","t":"litengan"}
+,"litengan%20ho":{"h":[{"d":[{"s":["`liteng~ `ho~"],"f":"(短語)。遠古時代，上古時。"}]}],"t":"litengan ho"}
+,"liti":{"h":[{"d":[{"s":["`poki~","`pa'eno~"],"e":["￹`Ka~ `kalimelaan~ `no~ `fafahi~`an~ `ko~ `liti~.￺￻女性疼惜陰蒂。"],"f":"女性生殖器，陰蒂。"}]}],"t":"liti"}
+,"liti%27":{"h":[{"d":[{"f":"閹割。"}]}],"t":"liti'"}
+,"liti%27en":{"h":[{"d":[{"e":["￹`Liti'en~ `ko~ `okang~.￺￻把牛閹割。","￹`Liti'en~ `ko~ `tangalawan~.￺￻閹雄雞。"],"f":"把生殖器閹割，行割禮。"}]}],"stem":"liti'","t":"liti'en"}
+,"litina%27ian":{"h":[{"d":[{"e":["￹`litina'ian~ `no~ `futing~.￺￻魚的內臟。"],"f":"內臟。"}]}],"stem":"tina'i","t":"litina'ian"}
+,"litingal":{"h":[{"d":[{"s":["`litingas~","`mi~`litingal~"],"e":["￹`Mi~`litingal~ `kako~.￺￻我剔牙。"],"f":"剔牙，剔除牙垢。"}]}],"stem":"tingal","t":"litingal"}
+,"litingalen":{"h":[{"d":[{"s":["`litingasen~"],"e":["￹`Litingalen~ `no~ `wawa~ `ko~ `tingal~ `ningra~.￺￻孩子在剔牙。"],"f":"把牙垢剔除，把某某牙垢剔去。"}]}],"stem":"tingal","t":"litingalen"}
+,"litingas":{"h":[{"d":[{"s":["`litingal~"],"f":"剔牙，剔除牙垢。"}]}],"stem":"tingas","t":"litingas"}
+,"litingasen":{"h":[{"d":[{"s":["`litingalen~"],"f":"把牙垢剔除，給某某剔除。"}]}],"stem":"tingas","t":"litingasen"}
+,"litod":{"h":[{"d":[{"s":["`militod~"],"e":["￹`Mafana'~ `cingra~ `a~ `militod~ `to~ `'afinung~.￺￻他很會摘椰子果。"],"f":"摘穗，摘下，拔下來。"}]}],"t":"litod"}
+,"litoden":{"h":[{"d":[{"e":["￹`Litoden~ `ko~ `panay~.￺￻摘稻穗。","￹`Litoden~ `ko~ `fadiso'so'~.￺￻把葡萄摘收下來。","￹`Litoden~ `ako~ `ko~ `pa~`cek~.￺￻我把釘子拔出來。"],"f":"把果實摘下來，拔下來。"}]}],"stem":"litod","t":"litoden"}
+,"litohok":{"h":[{"d":[{"s":["`ma~`litohok~"],"e":["￹`Makapah~ `ko~ `wawa~ `litohok~ `saan~.￺￻那嬰孩胖嘟嘟的很好看。"],"f":"(初生嬰兒)胖嘟嘟的。"}]}],"t":"litohok"}
+,"litosa":{"h":[{"d":[{"e":["￹`Ma~`litosa~ `ko~ `omah~ `niyam~ `to~ `palilam~ `no~ `mato'asay~.￺￻老人把田分兩半給我們。"],"f":"一分為二，分成兩部分。"}]}],"stem":"tosa","t":"litosa"}
+,"litosaen":{"h":[{"d":[{"e":["￹`Litosaen~ `ningra~ `ko~ `'icep~ `a~ `mingiciw~.￺￻他把檳榔咬成兩半兒。"],"f":"把某物分成兩部分，一分為二。"}]}],"stem":"tosa","t":"litosaen"}
+,"litox":{"h":[{"d":[{"f":"台灣特產，俗稱“大頭茶”樹。"}]}],"t":"litox"}
+,"liwa":{"h":[{"d":[{"e":["￹`Kawiten~ `ko~ `liwa~ `i~ `cofer~.￺￻把刀鞘的帶飾鈎編好。"],"f":"刀鞘的帶飾。"}]}],"t":"liwa"}
+,"liwal":{"h":[{"d":[{"s":["`pacakay~","`pa'aca~","`miliwal~"],"e":["￹`Miliwal~ `kako~ `to~ `dateng~.￺￻我在賣菜。"],"f":"賣，售出，販賣。"}]}],"t":"liwal"}
+,"liwalen":{"h":[{"d":[{"e":["￹`Liwalen~ `ako~ `ko~ `tosiya~ `i~ `taowan~.￺￻我把汽車賣給人家。"],"f":"把某物賣、出售。"}]}],"stem":"liwal","t":"liwalen"}
+,"liwasak":{"h":[{"d":[{"s":["`lopisak~","`licinowas~","`maliwasak~"],"e":["￹`Matalaw~ `to~ `tamdaw~ `ko~ `koko'~ `liwasak~ `saan~.￺￻雞怕人就分散了。"],"f":"散開，分散。"}]}],"t":"liwasak"}
+,"liway":{"h":[{"d":[{"s":["`miliway~"],"e":["￹`Miliway~ `kako~ `to~ `cecay~ `a~ `lipay~.￺￻我禁食一週。"],"f":"禁食，戒食，絕食。"}]}],"t":"liway"}
+,"liwayen":{"h":[{"d":[{"e":["￹`Liwayen~ `namo~ `to~ `lima~ `a~ `romi'ad~.￺￻你們必須絕食五天。"],"f":"要求某某禁食、絕食。"}]}],"stem":"liway","t":"liwayen"}
+,"liwih":{"h":[{"d":[{"s":["`ma~`liwih~"],"e":["￹`Ma~`liwih~ `ko~ `rakat~ `ningra~.￺￻他走路不正。"],"f":"不正，歪歪扭扭。"}]}],"t":"liwih"}
+,"liwkang":{"h":[{"d":[{"s":["`hotilo~〈日語借詞〉"],"f":"旅館〈日語借詞〉。"}]}],"t":"liwkang"}
+,"liyad":{"h":[{"d":[{"e":["￹`Sakatolo~ `a~ `liyad~.￺￻第三章(課、節)。"],"f":"指事物的組成部分、單元。如(一) 章、節、課。"}]}],"t":"liyad"}
+,"liyal":{"h":[{"d":[{"s":["`riyal~"],"e":["￹`Midangoy~ `i~ `liyal~.￺￻去海裡游泳。"],"f":"海，海洋。"}]}],"t":"liyal"}
+,"liyang":{"h":[{"d":[{"s":["`maliyang~"],"e":["￹`Maliyang~ `to~ `sowal~ `ako~ `cangra~.￺￻他們反對我的意見。"],"f":"倔強，執拗，固執。"}]}],"t":"liyang"}
+,"liyangen":{"h":[{"d":[{"e":["￹`Cowa~ `ka~`nga'ay~ `a~ `liyangen~ `ko~ `sowal~ `no~ `tapang~ !￺￻我們不好違抗首領的話！"],"f":"違抗、對抗。"}]}],"stem":"liyang","t":"liyangen"}
+,"liyas":{"h":[{"d":[{"s":["`miliyas~"],"e":["￹`Mararom~ `kako~ `to~ `piliyas~ `no~ `idang~ `ako~.￺￻朋友的離去我心難過。"],"f":"離開，讓開。"}]}],"t":"liyas"}
+,"liyasen":{"h":[{"d":[{"e":["￹`Liyasen~ `ko~ `paliding~ !￺￻要躲開車子！","￹`Liyasen~ `ko~ `tatiihay~ `a~ `demak~.￺￻要遠離壞的行為。","￹`Liyasen~ `ita~ `to~ `miming~ `ko~ `lalan~.￺￻我們要讓開一點道路。"],"f":"要求離開、讓開。"}]}],"stem":"liyas","t":"liyasen"}
+,"liyaw":{"h":[{"d":[{"s":["`miliyaw~"],"e":["￹`Miliyaw~ `kako~ `a~ `tayni~.￺￻我會再來。"],"f":"重複，重新做，重新來。"}]}],"t":"liyaw"}
+,"liyawen":{"h":[{"d":[{"e":["￹`Liyawen~ `a~ `midatok~ `patengilen~ `ho~ `kako~.￺￻再彈個曲子給我聽。","￹`Liyawen~ `a~ `milikat~ `ko~ `namal~.￺￻重新把火點燃。","￹`Liyawen~ `heca~ `a~ `somowal~.￺￻請再說一次。"],"f":"重新把某事做一次，重新來。"}]}],"stem":"liyaw","t":"liyawen"}
+,"liyoc":{"h":[{"d":[{"s":["`miliyoc~"],"e":["￹`Miliyoc~ `kako~ `to~ `paliding~.￺￻我在轉動車子。"],"f":"轉動，旋轉，盤旋。"}]}],"t":"liyoc"}
+,"liyocen":{"h":[{"d":[{"e":["￹`Liyocen~ `ko~ `pikedec~.￺￻扭緊。"],"f":"把某物轉過來、旋轉。"}]}],"stem":"liyoc","t":"liyocen"}
+,"liyochan":{"h":[{"d":[{"f":"於是把某物轉動、旋轉。"}]}],"stem":"liyoc","t":"liyochan"}
+,"liyocsa":{"h":[{"d":[{"e":["￹`Tado~ `liyocsa~ `koya~ `faliyos~.￺￻颱風轉向了。"],"f":"不自覺地轉過來，旋轉起來。"}]}],"stem":"liyoc","t":"liyocsa"}
+,"liyok":{"h":[{"d":[{"e":["￹`Liyok~ `no~ `loma'~.￺￻房子四周。"],"f":"四周，周圍。"}]}],"t":"liyok"}
+,"liyoken":{"h":[{"d":[{"e":["￹`Liyoken~ `ko~ `pakolongan~.￺￻牛舍四週巡視一番。"],"f":"把某處四周環繞、巡視。"}]}],"stem":"liyok","t":"liyoken"}
+,"liyoliyonsa":{"h":[{"d":[{"s":["`liyonliyonsa~"],"e":["￹`Liyoliyonsa~ `ko~ `'acocol~.￺￻駝螺不停地旋轉起來。"],"f":"不停地旋轉起來。"}]}],"tag":"[疊 1]","stem":"liyon","t":"liyoliyonsa"}
+,"liyon":{"h":[{"d":[{"s":["`mi~`liyon~","`ni~`yor~","`liwliw~"],"e":["￹`Maliyon~ `ko~ `tangal~ `ako~.￺￻我頭暈。"],"f":"(指水平面上)轉動，旋轉，盤旋。"}]}],"t":"liyon"}
+,"liyonen":{"h":[{"d":[{"e":["￹`Liyonen~ `ko~ `kikay~.￺￻發動引擎。"],"f":"把某物轉動，旋轉。"}]}],"stem":"liyon","t":"liyonen"}
+,"liyonliyonsa":{"h":[{"d":[{"s":["`liyoliyonsa~"],"e":["￹`Liyonliyonsa~ `ko~ `polopila~ `no~ `hikoki~.￺￻飛機的螺旋槳不停地旋轉著。"],"f":"不停地轉動、旋轉。"}]}],"tag":"[疊 1]","stem":"liyon","t":"liyonliyonsa"}
+,"liyot":{"h":[{"d":[{"s":["`mi~`liyot~"],"f":"扭轉，轉動。"}]}],"t":"liyot"}
+,"liyoten":{"h":[{"d":[{"e":["￹`Liyoten~ `no~ `ka~`^emangay~ `to~ `kamay~ `ko~ `koliciw~.￺￻孩子用手轉動單車。"],"f":"把某物扭轉、轉動。"}]}],"stem":"liyot","t":"liyoten"}
+,"lo%27lo%27":{"h":[{"d":[{"s":["`lowalo'~","`ma~`lo'lo'~"],"e":["￹`Mi~`lo'lo'~ `kako~ `to~ `ngoyos~.￺￻我漱口。"],"f":"嗽口。"}]}],"t":"lo'lo'"}
+,"lo%27od":{"h":[{"d":[{"f":"公牛壯碩的頸背。"}]}],"t":"lo'od"}
+,"lo%5Eelo%27":{"h":[{"d":[{"s":["`lowalo'~","`lo'lo'~","`ma~`loelo'~"],"e":["￹`Mi~`lo^elo'~ `kako~ `to~ `pa~`papacem~.￺￻我每晨都漱口。"],"f":"嗽口。"}]}],"t":"lo^elo'"}
+,"lo%5Eengel":{"h":[{"d":[{"s":["`ko^engel~"],"e":["￹`Lo^engel~ `ko~ `faloco'~.￺￻心軟。"],"f":"柔軟，柔弱，軟弱。"}]}],"t":"lo^engel"}
+,"lo%5Eengelay":{"h":[{"d":[{"f":"柔軟，柔弱，軟弱。"},{"s":["`ko'engelay~"],"e":["￹`Lo^engelay~ `a~ `tefo'~.￺￻嫩筍。"],"f":"柔軟的、柔弱的。"}]}],"stem":"lo^engel","t":"lo^engelay"}
+,"lo%5Eeteng":{"h":[{"d":[{"s":["`ko^eteng~"],"e":["￹`Lo^eteng~ `kona~ `hemay~.￺￻這飯有黏性。"],"f":"黏，有黏性。"}]}],"t":"lo^eteng"}
+,"lo%5Eetengay":{"h":[{"d":[{"f":"黏了，有黏性。"},{"s":["`ko^etengay~"],"e":["￹`Lo^etengay~ `a~ `tali~.￺￻有黏性的芋頭。"],"f":"黏的。"}]}],"stem":"lo^eteng","t":"lo^etengay"}
+,"lo%5Eetimay":{"h":[{"d":[{"e":["￹`Lo^etimay~ `ko~ `pising~ `ningra~.￺￻他臉色蒼白。"],"f":"褐色，棕色。"}]}],"t":"lo^etimay"}
+,"lo%5Eetimayay":{"h":[{"d":[{"f":"呈褐色、棕色。"},{"e":["￹`Lo^etimayay~ `a~ `ka~`kafang~.￺￻棕色大衣。"],"f":"褐色的、棕色的。"}]}],"stem":"lo^etimay","t":"lo^etimayay"}
+,"locok":{"h":[{"d":[{"s":["`mala~`liting~","`rocok~","`milocok~"],"f":"連結，連在一起。"}]}],"t":"locok"}
+,"locoken":{"h":[{"d":[{"f":"把某物連結在一起，繼承或傳給後代。"}]}],"stem":"locok","t":"locoken"}
+,"lodak":{"h":[{"d":[{"e":["￹`O~ `katalawan~ `no~ `tamdamdaw~ `ko~ `lodak~.￺￻人們都怕百步蛇。"],"f":"百步蛇。"}]}],"t":"lodak"}
+,"lodas":{"h":[{"d":[{"s":["`milodas~"],"e":["￹`Malodas~ `ko~ `kamay~ `ni~ `Kolas~.￺￻古拉斯的手被燙傷。"],"f":"灼傷，燙傷。"}]}],"t":"lodas"}
+,"lodasen":{"h":[{"d":[{"e":["￹`Lodasen~ `ningra~ `ko~ `kamay~ `ningra~.￺￻他把自己的手灼傷。"],"f":"把某某灼傷、燙傷。"}]}],"stem":"lodas","t":"lodasen"}
+,"lodi%27":{"h":[{"d":[{"e":["￹`Makapah~ `ko~ `lodi'~ `to~ `herek~ `no~ `lahok~.￺￻午後的彩霞真美。"],"f":"雲霞，彩霞。"}]}],"t":"lodi'"}
+,"lodihang":{"h":[{"d":[{"s":["`wakihang~","`fadihang~"],"e":["￹`Tata'ang~ `ko~ `lodihang~ `nona~ `Kiwkay~.￺￻這教會的回音很大。"],"f":"回音，回響。"}]}],"t":"lodihang"}
+,"lodis":{"h":[{"d":[{"e":["￹`Malodis~ `to~ `kafaliyosan~.￺￻颱風會有大浪。"],"f":"海嘯，怒濤，大風浪。"}]},{"d":[{"s":["`mi~`lodis~","`milosid~"],"f":"安排，處理，照顧。"}]}],"t":"lodis"}
+,"lodot":{"h":[{"d":[{"s":["`milodot~"],"e":["￹`Milodot~ `kami~ `to~ `salil~.￺￻我們收網。"],"f":"收網，收回(套獸圈等)。"}]}],"t":"lodot"}
+,"lodoten":{"h":[{"d":[{"e":["￹`Lodoten~ `ko~ `tilo~.￺￻把魚網收回來。"],"f":"把網兒收攏。"}]}],"stem":"lodot","t":"lodoten"}
+,"lofa":{"h":[{"d":[{"e":["￹`Midakaw~ `kami~ `to~ `lofa~.￺￻我們騎驢子。"],"f":"驢。"}]}],"tag":"[日語借詞]","t":"lofa"}
+,"lofades":{"h":[{"d":[{"s":["`fades~","`ma~`lofades~"],"e":["￹`Ma~`lofades~ `ko~ `waco~ `to~ `katayni~ `niyam~.￺￻我們一來狗就四處逃散。"],"f":"(動物受驚嚇)四處逃散。"}]}],"t":"lofades"}
+,"lofang":{"h":[{"d":[{"s":["`kalas~"],"e":["￹`O~ `ka~`kangodoen~ `no~ `mita~ `ko~ `lofang~.￺￻我們應尊敬長者。"],"f":"對七十歲以上長老的尊稱。"}]}],"t":"lofang"}
+,"lofawa":{"h":[{"d":[{"s":["`lifawa~","`malofawa~"],"e":["￹`Malofawa~ `ko~ `cepi'~ `ako~.￺￻我的腿腫起來。"],"f":"腫脹，長瘤子。"}]}],"stem":"fawa","t":"lofawa"}
+,"lofayas":{"h":[{"d":[{"s":["`malofayas~"],"e":["￹`Malofayas~ `ko~ `cadada~ `to~ `ka~`kareteng~ `no~ `miparoan~.￺￻架子放太重的物品而散架了。"],"f":"散架，散箍。"}]}],"t":"lofayas"}
+,"lofic":{"h":[{"d":[{"s":["`milofic~"],"e":["￹`Milofic~ `kami~ `to~ `konga~.￺￻我們去撿地瓜。"],"f":"拾、撿(遺漏的花生、蕃薯、稻穗等)。"}]},{"d":[{"s":["`malofic~"],"e":["￹`Malofic~ `ko~ `heci~ `no~ `pala~`micu~.￺￻波羅蜜結實纍纍。"],"f":"結實纍纍。"}]}],"t":"lofic"}
+,"loficen":{"h":[{"d":[{"s":["`faroyosen~"],"e":["￹`Loficen~ `ko~ `materakay~ `a~ `lamlo~.￺￻把掉落的小米拾起來。"],"f":"把遺物拾、撿起來。"}]}],"stem":"lofic","t":"loficen"}
+,"lofis":{"h":[{"d":[{"s":["`malofis~","`lefis~"],"e":["￹`Malofis~ `ko~ `hana~.￺￻花落了。"],"f":"(鈕扣、鎖鍊等)脫落。"}]}],"t":"lofis"}
+,"loflof":{"h":[{"d":[{"s":["`malo~ﬂ`of~"],"e":["￹`Mangiyangi~ `no~ `fali~ `ha~ `ma~`loflof~ `ko~ `hecek~ `i~ `matini~.￺￻柱子被風吹動現在有些鬆動了。"],"f":"(木板等)搖動，鬆動。"}]}],"t":"loflof"}
+,"lofoc":{"h":[{"d":[{"e":["￹`Paroen~ `i~ `lofoc~ `ko~ `felac~.￺￻把米放入袋裡。"],"f":"布袋，袋子。"}]}],"t":"lofoc"}
+,"lofong":{"h":[{"d":[{"e":["￹`Pa~`taynien~ `ko~ `lofong~.￺￻把雨具帶來。"],"f":"雨具，皮革斗篷。"}]}],"t":"lofong"}
+,"lofot":{"h":[{"d":[{"s":["`mi~`lofot~","`letek~","`keton~"],"f":"砍，砍削，砍掉。"}]}],"t":"lofot"}
+,"lofoten":{"h":[{"d":[{"e":["￹`Lofoten~ `koni~ `a~ `kilang~.￺￻把這棵樹砍掉。"],"f":"把某物砍掉、削掉。"}]}],"stem":"lofot","t":"lofoten"}
+,"lohak":{"h":[{"d":[{"s":["`malohak~","`rocak~"],"f":"稀鬆，鬆土。"}]}],"t":"lohak"}
+,"lohaken":{"h":[{"d":[{"e":["￹`Lohaken~ `ko~ `palomaan~ `to~ `tefus~.￺￻把種植甘蔗的土鬆一鬆。"],"f":"把土鬆一鬆，鬆鬆土。"}]}],"stem":"lohak","t":"lohaken"}
+,"lokedaw":{"h":[{"d":[{"e":["￹`Sa~`no~ `lokedaw~ `saan~ `ko~ `cikay~ `ningra~.￺￻他跑步像豹那麼快。"],"f":"豹子，也指虎。"}]}],"t":"lokedaw"}
+,"lokelon":{"h":[{"d":[{"s":["`likelon~","`ma~`lokelon~"],"e":["￹`Tahira~ `i~ `talo'an~ `maliklon~ `a~ `miradom~.￺￻到了工寮後下坡去挑水。"],"f":"走下坡，下坡。"}]}],"t":"lokelon"}
+,"lokes":{"h":[{"d":[{"s":["`milokes~"],"e":["￹`Aka~ `pilokes~ `to~ `cimacimaan~.￺￻不要對任何人攻訐。"],"f":"誹謗，攻訐。"}]}],"t":"lokes"}
+,"lokesen":{"h":[{"d":[{"e":["￹`Ano~ `lokesen~ `no~ `nima~ `kiso~ `aka~ `paco'ay~.￺￻若有人對你攻訐你可不必理會。"],"f":"把某某誹謗、嘲弄。"}]}],"stem":"lokes","t":"lokesen"}
+,"lokidet":{"h":[{"d":[{"s":["`ma~`lokedet~"],"e":["￹`Lokidet~ `saan~ `to~ `si^naw~ `ko~ `posi~.￺￻貓因冷而縮身。"],"f":"發皺而收縮。"}]}],"t":"lokidet"}
+,"lokiyo":{"h":[{"d":[{"e":["￹`Maolah~ `kako~ `a~ `komaen~ `to~ `lokiyo~.￺￻我愛吃洋蔥。"],"f":"洋蔥。"}]}],"tag":"[閩南語借詞]","t":"lokiyo"}
+,"lokiyol":{"h":[{"d":[{"s":["`milokiyol~"],"e":["￹`Milokiyol~ `a~ `tayra~ `i~ `loma'~ `na~ `Cupay~.￺￻要轉個灣才到Cupay(朱百)的家。"],"f":"拐彎，轉彎。"}]}],"t":"lokiyol"}
+,"lokiyolen":{"h":[{"d":[{"e":["￹`Lokiyolen~ `niyam~ `a~ `palalan~ `to~ `nanom~.￺￻我們拐彎引水道。"],"f":"把某處拐彎、轉彎，請拐彎、轉彎。"}]}],"stem":"lokiyol","t":"lokiyolen"}
+,"lokol":{"h":[{"d":[{"s":["`mi~`lokol~"],"e":["￹`Mi~`lokol~ `to~ `tatodong~ `no~ `hecek~ `a~ `'aol~.￺￻切開如柱子高的竹子。"],"f":"按一定的長度切斷開。"}]}],"t":"lokol"}
+,"lokolen":{"h":[{"d":[{"e":["￹`Lokolen~ `konini~ `a~ `tefus~.￺￻按一定的長度把甘蔗斷開。"],"f":"按一定的長度把某物斷開。"}]}],"stem":"lokol","t":"lokolen"}
+,"lokot":{"h":[{"d":[{"e":["￹`Mitangtang~ `to~ `lokot~ `ko~ `fafahi~ `ako~.￺￻我太太正煮山蘇菜。"],"f":"野菜名稱。俗稱“山蘇”。"}]}],"t":"lokot"}
+,"lolang":{"h":[{"d":[{"s":["`rorang~"],"e":["￹`O~ `sapakaen~ `to~ `diyong~ `ko~ `lolang~.￺￻檞樹可供豬吃。"],"f":"楮樹，檞樹。"}]}],"t":"lolang"}
+,"lolay":{"h":[{"d":[{"s":["`rolay~","`malolay~"],"e":["￹`Hadidien~ `ko~ `lolay~.￺￻忍一下累。"],"f":"勞累，疲倦，疲乏。"}]}],"t":"lolay"}
+,"lolayen":{"h":[{"d":[{"e":["￹`Ma~`litengayto~ `ko~ `wama~ , `aka~ `lolayen~ `cingra~ !￺￻父親老了，不要拖累他！"],"f":"拖累他人，使人勞累。"}]}],"stem":"lolay","t":"lolayen"}
+,"lolaysa":{"h":[{"d":[{"e":["￹`Lolaysa~ `a~ `mikakilim~.￺￻那麼辛苦地找著。","￹`Lolaysa~ `ci~ `Ma~`di~ `to~ `nano~ `ka'oripan~.￺￻瑪蒂一生辛辛苦苦的。"],"f":"辛辛苦苦，那麼辛苦、艱難。"}]}],"stem":"lolay","t":"lolaysa"}
+,"lolo":{"h":[{"d":[{"f":"紫，紫色。"}]}],"t":"lolo"}
+,"lolod":{"h":[{"d":[{"s":["`milolod~"],"e":["￹`Milolod~ `kako~ `to~ `kafuti'an~.￺￻我收睡袋。"],"f":"捲起來。"}]}],"t":"lolod"}
+,"loloden":{"h":[{"d":[{"e":["￹`Loloden~ `ko~ `sikal~.￺￻把涼蓆捲起來。"],"f":"把某物捲起來。"}]}],"stem":"lolod","t":"loloden"}
+,"lolodhan":{"h":[{"d":[{"e":["￹`Lolodhan~ `ako~ `ko~ `sa~`wfan~ , `a~ `pateli~ `i~ `kafekang~.￺￻我就把棉被捲好放在上面。"],"f":"就把某物捲起來。"}]}],"stem":"lolod","t":"lolodhan"}
+,"loloh":{"h":[{"d":[{"s":["`roroh~","`miloloh~","`mi~`roroh~"],"e":["￹`Miloloh~ `cangra~ `i~ `takowanan~.￺￻他們都怪我。"],"f":"遷怒於人，嫁禍於人。"}]},{"d":[{"s":["`rorox~"],"f":"舊茅草。"}]}],"t":"loloh"}
+,"lolohen":{"h":[{"d":[{"e":["￹`Saadadasa~ `ko~ `faloco'~ `ningra~ , `lolohen~ `ningra~ `ko~ `fafahi~ `ningra~.￺￻他內心痛苦不堪，就找妻子發洩怒氣。"],"f":"把怒氣、怨氣向別人發洩。"}]}],"stem":"loloh","t":"lolohen"}
+,"lolol":{"h":[{"d":[{"s":["`nokas~","`cofay~","`patiko~","`mi~`lolol~"],"f":"歸還，回復。"}]}],"t":"lolol"}
+,"lololen":{"h":[{"d":[{"e":["￹`Lololen~ `koya~ `micaliwan~ `iso~ `a~ `kangkang~.￺￻把你借的犛還我。"],"f":"把某物歸還、回復。"}]}],"stem":"lolol","t":"lololen"}
+,"lolong":{"h":[{"d":[{"e":["￹`Pitoay~ `a~ `lolong~ `ko~ `militodan~ `ako~ `a~ `lamlo~.￺￻我摘了七捆小米穗。"],"f":"(量詞)。一捆，一把。"}]}],"t":"lolong"}
+,"lolongen":{"h":[{"d":[{"e":["￹`Lolongen~ `ko~ `panay~.￺￻把稻子捆成一捆。"],"f":"把某物捆成一捆、一把。"}]}],"stem":"lolong","t":"lolongen"}
+,"lolop":{"h":[{"d":[{"s":["`'adipel~","`sanga'~","`rangat~"],"e":["￹`^Edefen~ `ko~ `lolop~.￺￻把籬笆關起來。"],"f":"籬笆，圍牆，柵欄。"}]}],"t":"lolop"}
+,"lolotokan":{"h":[{"d":[{"s":["`lalotokan~"],"e":["￹`Mafuti'~ `kami~ `i~ `lolotokan~.￺￻我們在山林中睡覺。"],"f":"山林裡，森林裡。"}]}],"tag":"[疊 1]","stem":"lotok","t":"lolotokan"}
+,"loma%27":{"h":[{"d":[{"f":"家，房子。"},{"f":"巢穴，窩兒。"},{"e":["￹`O~ `loma'~ `ni~ `Panay~ `koni~.￺￻這是Panay 的家。","￹`Loma'~ `no~ `facacenal~.￺￻蜂巢。","￹`Loma'~ `no~ `cidal~.￺￻日暈、日蝕。","￹`Loma'~ `no~ `fulad~.￺￻月暈、月蝕。"],"f":"日、月暈。"}]}],"t":"loma'"}
+,"lomahad":{"h":[{"d":[{"e":["￹`Lomahad~ `to~ `ko~ `wawa~ `iso~.￺￻你的孩子發育了。","￹`Lomahad~ `ko~ `mipalomaan~ `ako~ `a~ `capox~.￺￻我種的秧苗長起來了。","￹`Lomahad~ `to~ `ko~ `wawa~ `no~ `tao~.￺￻別人的小孩長大了。"],"f":"生長，發育。"}]}],"stem":"lahad","t":"lomahad"}
+,"lomaing":{"h":[{"d":[{"s":["`komaing~","`kowaming~"],"e":["￹`Lomaing~ `ko~ `sapad~.￺￻木板很軟。"],"f":"柔弱，無精打彩。"}]}],"t":"lomaing"}
+,"lomaingay":{"h":[{"d":[{"f":"柔弱，無精打彩了。"},{"e":["￹`Lomaingay~ `ko~ `kero~ `ningra~.￺￻她舞跳得很柔。"],"f":"柔弱的，無精打彩的。"}]}],"stem":"lomaing","t":"lomaingay"}
+,"lomaloma%27":{"h":[{"d":[{"e":["￹`Iraay~ `ko~ `'alili~ `no~ `lomaloma'~, `pina'angan~ `to~ `panay~ `ato~ `lamlo~.￺￻家家有倉庫儲存稻粟。"],"f":"家家戶戶，每一家。"}]}],"tag":"[疊 1]","stem":"loma'","t":"lomaloma'"}
+,"lomaoc":{"h":[{"d":[{"s":["`laoc~"],"e":["￹`Lomaoc~ `kami~ `i~ `pi~`kayki~`an~.￺￻我們在會議室開會。"],"f":"開會，議事。"}]}],"stem":"maoc","t":"lomaoc"}
+,"lomaocay":{"h":[{"d":[{"f":"開會，議事了。"},{"e":["￹`Lomaocay~ `ko~ `singsi~.￺￻先生正在開會。"],"f":"與會者，議事者，議員，人民代表。"}]}],"stem":"maoc","t":"lomaocay"}
+,"lomataw":{"h":[{"d":[{"s":["`molataw~"],"f":"流氓〈閩南語借詞〉。"}]},{"d":[{"f":"不務正業的人，流氓。"}]}],"t":"lomataw"}
+,"lomek":{"h":[{"d":[{"s":["`lemek~","`fenges~","`milomek~"],"e":["￹`Malomek~ `no~ `tao~ `cingra~.￺￻他被人毒打。"],"f":"毒打，狠揍，暗殺。"}]}],"t":"lomek"}
+,"lomeken":{"h":[{"d":[{"s":["`fenges~."],"e":["￹`Lomeken~ `kona~ `tatiihay~ `a~ `tamdaw~ !￺￻狠打這壞蛋！","￹`Lomeken~ `ita~ `koya~ `lokedaw~ `a~ `mi~`sti'~.￺￻我們把那頭虎豹毒打了一頓。"],"f":"把某某毒打、狠揍。"}]}],"stem":"lomek","t":"lomeken"}
+,"lomidic":{"h":[{"d":[{"e":["￹`Lomidic~ `ko~ `pakah~ `no~ `waco~.￺￻狗的腰部長肉。"],"f":"上膘，長肉。"}]}],"t":"lomidic"}
+,"lomidicay":{"h":[{"d":[{"f":"上膘、長肉。"},{"e":["￹`Lomidicay~ `i~ `ngoso'~ `no~ `siri~.￺￻羊鼻上長肉。"],"f":"指上膘的(牲口)"}]}],"stem":"lomidic","t":"lomidicay"}
+,"lomoh":{"h":[{"d":[{"e":["￹`I~ `lidong~ `no~ `lomoh~ `kami~ `a~ `pahanhan~.￺￻我們在榕樹陰下休息。"],"f":"對葉榕。橡樹。"}]}],"t":"lomoh"}
+,"lomowad":{"h":[{"d":[{"f":"起床，起來。"},{"e":["￹`^Enem~ `ko~ `toki~ `to~ `papacem~ , `lomowad~ `kami~ `a~ `ma~`^min~.￺￻早上六點鐘，我們都起床。","￹`Paceremay~ `ko~ `ka~`^mangay~ `a~ `lomowad~.￺￻少年組早早出發了。"],"f":"動身，啟程。"}]}],"stem":"lowad","t":"lomowad"}
+,"lomowaday":{"h":[{"d":[{"f":"起床了，起來了。"},{"f":"動身了，啟程了。"},{"f":"指起床的(人)。"},{"e":["￹`Lomowaday~ `a~ `tara~ `lotok~ `ca~ `mama~ `ako~.￺￻我父親與家人都上山了。"],"f":"指動身、啟程的(人)。"}]}],"stem":"lowad","t":"lomowaday"}
+,"lonan":{"h":[{"d":[{"e":["￹`O~ `lonan~ `no~ `Dipong~.￺￻日本船。"],"f":"輪船。"}]}],"t":"lonan"}
+,"lonayi%27":{"h":[{"d":[{"s":["`layic~","`safet~"],"e":["￹`Faloden~ `to~ `lonayi'~ `ko~ `waco~.￺￻把狗銬上鍊條。"],"f":"鎖鍊，鍊條。"}]}],"t":"lonayi'"}
+,"lonen":{"h":[{"d":[{"s":["`'atoray~"],"e":["￹`Mararid~ `anini~ `a~ `mihecaan~ `ko~ `lonen~.￺￻今年地震頻繁。"],"f":"地震。"}]}],"t":"lonen"}
+,"longalong":{"h":[{"d":[{"s":["`malongalong~"],"e":["￹`Longalong~ `ko~ `papah~ `no~ `to'er~.￺￻枷苳樹葉盛茂。"],"f":"茂密，茂盛。"}]}],"t":"longalong"}
+,"longalongsa":{"h":[{"d":[{"e":["￹`Longalongsa~ `ko~ `papah~ `noni~ `a~ `'aol~.￺￻這株竹子的葉子長得那麼茂密。"],"f":"茂密地，密匝匝，一片茂密。"}]}],"stem":"longalong","t":"longalongsa"}
+,"longed":{"h":[{"d":[{"s":["`milonged~"],"f":"點燃(火把)。"}]}],"t":"longed"}
+,"longeden":{"h":[{"d":[{"e":["￹`Longeden~ `ko~ `namal~.￺￻點火。"],"f":"把(火把)點燃。"}]}],"stem":"longed","t":"longeden"}
+,"longlong":{"h":[{"d":[{"s":["`dawdaw~"],"e":["￹`Totomen~ `ko~ `longlong~.￺￻點上火把。"],"f":"火把，火炬。"}]}],"t":"longlong"}
+,"longoc":{"h":[{"d":[{"s":["`ma~`longoc~"],"e":["￹`Pasifana'en~ `to~ `longoc~ `ita~ `ko~ `singsi~.￺￻告訴老師我們的請求。"],"f":"懇求，要求，哀求。"}]}],"t":"longoc"}
+,"lonic":{"h":[{"d":[{"s":["`mi~`lonic~","`ronic~"],"e":["￹`Lonic~ `to~ `kolang~.￺￻揉芥菜。"],"f":"揉、搓。"}]}],"t":"lonic"}
+,"lonicen":{"h":[{"d":[{"e":["￹`Lonicen~ `ko~ `saytaw~.￺￻去揉蘿蔔。"],"f":"把某物揉、搓。"}]}],"stem":"lonic","t":"lonicen"}
+,"lono%27":{"h":[{"d":[{"s":["`ma~`lono'~"],"e":["￹`Ma~`lono'~ `ko~ `doka'~.￺￻傷口化膿。"],"f":"傷口化膿、流膿。"}]}],"t":"lono'"}
+,"lonoh":{"h":[{"d":[{"s":["`milonoh~"],"e":["￹`Malonoh~ `ko~ `fanoh~ `no~ `waco~.￺￻狗毛脫落。"],"f":"脫毛、褪毛。"}]}],"t":"lonoh"}
+,"lonohen":{"h":[{"d":[{"e":["￹`Lonohen~ `ko~ `fanoh~ `no~ `posi~.￺￻把貓毛給脫落。"],"f":"給某某脫毛、褪毛。"}]}],"stem":"lonoh","t":"lonohen"}
+,"lonok":{"h":[{"d":[{"s":["`mi~`lonok~"],"e":["￹`Lonok~ `saan~ `cingra~ `a~ `matayal~.￺￻他默默工作。"],"f":"獨自做事，默默耕耘。"}]}],"t":"lonok"}
+,"lonoken":{"h":[{"d":[{"e":["￹`Lonoken~ `a~ `mi'atal~ `ko~ `hakhak~ !￺￻請自己盛糯米飯(吃)吧！"],"f":"要求對方自動地做、默默地做事。"}]}],"stem":"lonok","t":"lonoken"}
+,"lonol":{"h":[{"d":[{"s":["`milonol~"],"e":["￹`Milonol~ `a~ `mitilid~.￺￻認真讀書。"],"f":"緊接著做，一直做到完成，不半途而廢。"}]}],"t":"lonol"}
+,"lonolen":{"h":[{"d":[{"e":["￹`Lonolen~ `no~ `mipacpacay~ `a~ `tamdaw~ `ko~ `miritritan~ `a~ `panay~ `a~ `mipacpac~.￺￻打稻穀的人緊接著把割下來的稻子打好了。"],"f":"緊接著把某事做好。"}]}],"stem":"lonol","t":"lonolen"}
+,"lonolhan":{"h":[{"d":[{"e":["￹`Lonolhan~ `ningra~ `a~ `milaheci~ `ko~ `tayal~.￺￻他認真完成工作。"],"f":"就緊接著把某做了，就把事做好了。"}]}],"stem":"lonol","t":"lonolhan"}
+,"lood":{"h":[{"d":[{"s":["`milood~"],"e":["￹`Tata'ang~ `ko~ `lood~ `i~ `ka~`Dipongan~.￺￻日據時代有大戰爭。"],"f":"戰爭，打仗，攻擊，攻伐。"}]}],"t":"lood"}
+,"looden":{"h":[{"d":[{"e":["￹`Looden~ `niyam~ `cangra~ !￺￻我們一定討伐他們！"],"f":"對某某實施征伐、攻擊。"}]}],"stem":"lood","t":"looden"}
+,"looh":{"h":[{"d":[{"s":["`pawli~"],"e":["￹`Mikakic~ `to~ `looh~ `ko~ `lotong~.￺￻猴子爬上香蕉樹。"],"f":"香蕉樹。"}]}],"t":"looh"}
+,"loohloohan":{"h":[{"d":[{"s":["`sa~`looh~`an~","`pa~`pawlian~"],"e":["￹`Mala~`lafa'~ `ko~ `lotong~ `i~ `loohloohan~.￺￻猴子在芭蕉園裡相追逐。"],"f":"香蕉園。"}]}],"tag":"[疊 1]","stem":"looh","t":"loohloohan"}
+,"lopas":{"h":[{"d":[{"e":["￹`Ko^esang~ `ko~ `heci~ `no~ `lopas~.￺￻桃果很甜。"],"f":"桃子，桃子樹。"}]}],"t":"lopas"}
+,"lopeng":{"h":[{"d":[{"e":["￹`Mipaloma~ `to~ `lopeng~.￺￻種綠肥。"],"f":"金合歡樹。"}]}],"t":"lopeng"}
+,"lopet":{"h":[{"d":[{"s":["`ma~`lopet~","`ditek~"],"e":["￹`Ma~`lopet~ `ko~ `pipaloma~ `iso~.￺￻妳種的太密了。"],"f":"緊密，密集。"}]}],"t":"lopet"}
+,"lopiko":{"h":[{"d":[{"s":["`ma~`lopiko~"],"e":["￹`Matatala~ `kital~ `lopiko~.￺￻我們在叉路相會。"],"f":"呈交叉狀，彎路，交叉路口。"}]}],"stem":"piko","t":"lopiko"}
+,"lopilop":{"h":[{"d":[{"s":["`ma~`lopilop~"],"e":["￹`Lopilop~ `saan~ `ko~ `rakat~ `ningra~ `a~ `malasang~.￺￻他酒醉時走路東倒西歪。"],"f":"歪歪扭扭，東倒西歪。"}]}],"t":"lopilop"}
+,"lopini%27":{"h":[{"d":[{"s":["`ropini'~","`ma~`lopini'~"],"e":["￹`Tosaen~ `ko~ `lonini~.￺￻分兩組。","￹`Maolah~ `ko~ `anini~`ay~ `a~ `kapah~ `a~ `mi~`lopini'~ `to~ `fokes~.￺￻現代年輕人喜歡把頭髮分髮。"],"f":"(頭髮形狀)分開，分髮；分組，分類。"}]}],"t":"lopini'"}
+,"lopisak":{"h":[{"d":[{"s":["`liwasak~","`fades~","`malopisak~"],"e":["￹`Lopisak~ `saan~ `ko~ `'ayam~.￺￻鳥散了。"],"f":"分散，擴散，輻射。"}]}],"t":"lopisak"}
+,"lopitok":{"h":[{"d":[{"e":["￹`O~ `lopitok~ `ko~ `mi~`coro'an~ `ako~ `a~ `panokay~.￺￻我搬運白藤回家。"],"f":"竹子，白藤。"}]}],"t":"lopitok"}
+,"lopitokan":{"h":[{"d":[{"e":["￹`Lopitokan~ `ko~ `sanga'ayay~ `a~ `sapitolik~.￺￻編竹用白藤最好。"],"f":"白藤種類。"}]}],"stem":"lopitok","t":"lopitokan"}
+,"losa%27":{"h":[{"d":[{"e":["￹`Taha~ `losa'~ `kako~ `a~ `paka'araw~ `to~ `tingso~ `no~ `wawa~ `ako~.￺￻我看到孩子成績而落淚 ."],"f":"眼淚。"}]}],"t":"losa'"}
+,"losalosayan":{"h":[{"d":[{"s":["`lalosayan~"],"e":["￹`Maomah~ `kami~ `i~ `losalosayan~.￺￻我們在果園工作。"],"f":"果園。"}]}],"tag":"[疊 1]","stem":"losay","t":"losalosayan"}
+,"losay":{"h":[{"d":[{"e":["￹`Mi~`pacakay~ `kami~ `to~ `losay~ `imatini~.￺￻我們現在在賣水果。"],"f":"果樹，水果；也指莊稼。"}]}],"t":"losay"}
+,"losid":{"h":[{"d":[{"e":["￹`Milosid~ `to~ `kita~.￺￻我們作預備。"],"f":"服飾，裝飾品，也指日常用品、行李。"}]}],"t":"losid"}
+,"losida%27":{"h":[{"d":[{"s":["`mi~`losida'~"],"e":["￹`Losida'~ `a~ `tayra~ `i~ `pitilidan~.￺￻並肩上學。"],"f":"並肩，並立，並行，並排。"}]}],"t":"losida'"}
+,"losida%27en":{"h":[{"d":[{"e":["￹`Losida'en~ `nangra~ `a~ `mafuti'~.￺￻與他們並排睡覺。"],"f":"要求跟某某並肩站立或行走。"}]}],"stem":"losisa'","t":"losida'en"}
+,"losiden":{"h":[{"d":[{"s":["`milosid~"],"e":["￹`Losiden~ `ningra~ `koya~ `pa~`pakatim~ `a~ `kaying~.￺￻她們把新娘打扮起來。"],"f":"用服飾品裝飾打扮。"}]}],"stem":"losid","t":"losiden"}
+,"losimet":{"h":[{"d":[{"s":["`solimet~","`milosimet~"],"e":["￹`Milosimet~ `kami~ `to~ `taheka~.￺￻我們整理餐食。"],"f":"整理，整修。"}]}],"t":"losimet"}
+,"losimeten":{"h":[{"d":[{"s":["`solimeten~"],"e":["￹`Losimeten~ `ko~ `kafuti'an~.￺￻整理房間。"],"f":"把散亂的東西整理、整修。"}]}],"stem":"losimet","t":"losimeten"}
+,"losiyang":{"h":[{"d":[{"s":["`milosiyang~"],"e":["￹`Malosiyang~ `ko~ `ngangan~ `iso~.￺￻妳的名被傳播。"],"f":"傳播，傳遞，引證。"}]},{"d":[{"e":["￹`Nga'ay~ `ko~ `losiyang~ `no~ `miso~.￺￻你很有成就。"],"f":"人品，成就，評語。"}]}],"t":"losiyang"}
+,"losiyangen":{"h":[{"d":[{"e":["￹`Losiyangen~ `ko~ `nga'ayay~ `a~ `ratoh~.￺￻去傳好消息。"],"f":"把消息傳播、傳遞、引證。"}]}],"stem":"losiyang","t":"losiyangen"}
+,"loso%27":{"h":[{"d":[{"s":["`maloso'~"],"e":["￹`Hato~ `loso'~ `ko~ `sinoot~.￺￻流汗滿身。"],"f":"流淌流水(淚水、汗水)。"}]}],"t":"loso'"}
+,"loso%27sa":{"h":[{"d":[{"e":["￹`Loso'sa~ `ko~ `losa'~ `a~ `miikor~.￺￻揮淚而別。","￹`Loso'sa~ `ko~ `losa'~ `to~ `hemek~ `ningra~.￺￻他因為高興而流淚。"],"f":"流淌著，汗水淋漓，淚水潸潸。"}]}],"stem":"loso'","t":"loso'sa"}
+,"losok":{"h":[{"d":[{"e":["￹`Telien~ `i~ `sifo'~ `ko~ `losok~.￺￻把蠟燭放中間。"],"f":"蠟燭。"}]}],"tag":"[日語借詞]","t":"losok"}
+,"losoko":{"h":[{"d":[{"f":"蠟蠋〈日語借詞〉。"}]}],"t":"losoko"}
+,"lotalot":{"h":[{"d":[{"s":["`rotarot~","`mi~`lotalot~","`rosaros~"],"e":["￹`Mi~`lotalot~ `to~ `sarosaros~.￺￻鋸。"],"f":"鋸。"}]}],"t":"lotalot"}
+,"lotaloten":{"h":[{"d":[{"e":["￹`Cowa~ `to~ `ka~`sinang~ `koni~ `a~ `sarosaros~ , `lotaloten~ `ako~.￺￻這把鋸子不快，我把它銼一銼。"],"f":"把某物銼一銼。"}]}],"stem":"lotalot","t":"lotaloten"}
+,"lotiil":{"h":[{"d":[{"s":["`malotiil~"],"e":["￹`Lotiil~ `sa~ `ko~ `dateng~.￺￻菜都縮了。"],"f":"(蔬菜燙過開水)收縮、枯萎。"}]}],"t":"lotiil"}
+,"lotlot":{"h":[{"d":[{"s":["`milotlot~"],"e":["￹`Malotlot~ `ko~ `riko'~ `ako~.￺￻衣服皺了。"],"f":"揉皺，揉壞。"}]}],"t":"lotlot"}
+,"lotloten":{"h":[{"d":[{"e":["￹`Lotloten~ `kona~ `kiladom~.￺￻把布料揉皺。"],"f":"把……揉皺。"}]}],"stem":"lotlot","t":"lotloten"}
+,"lotok":{"h":[{"d":[{"e":["￹`Ira~ `ko~ `lotong~ `i~ `lotok~.￺￻山林有猴子。"],"f":"山林，森林。"}]}],"t":"lotok"}
+,"lotolotokan":{"h":[{"d":[{"s":["`lalotokan~"],"e":["￹`Mo^cel~`^cel~ `ko~ `kilang~ `i~ `lotolotokan~.￺￻山林中的樹木都很筆直。"],"f":"山林，山嶺。"}]}],"tag":"[疊 1]","stem":"lotok","t":"lotolotokan"}
+,"lotong":{"h":[{"d":[{"e":["￹`Misa~`telocteloc~ `ko~ `lotong~.￺￻猴子在跳躍著。"],"f":"猴子，猿猴。"}]}],"t":"lotong"}
+,"lotongan":{"h":[{"d":[{"e":["￹`Ono~ `Dipongan~ `a~ `lotongan~ `konini~.￺￻這是日本種的猴子。"],"f":"猴子的種類。"}]}],"stem":"lotong","t":"lotongan"}
+,"lotongay":{"h":[{"d":[{"e":["￹`Mi~`lingid~ `ko~ `totoy~ `to~ `lotongay~.￺￻小狗靠近小嬰孩。"],"f":"嬰兒，初生的嬰兒。"}]}],"stem":"lotong","t":"lotongay"}
+,"lowad":{"h":[{"d":[{"s":["`lomowad~"],"e":["￹`O~ `lowad~ `niyam~ `a~ `talalotok~ `koni~.￺￻我們這事要前往山上的時辰。"],"f":"起來，啟程，出發。"}]}],"t":"lowad"}
+,"lowalo%27":{"h":[{"d":[{"s":["`lo'lo'~","`ma~`lowalo'~"],"e":["￹`Mi~`lowalo'~ `to~ `wadis~.￺￻漱齒。"],"f":"嗽口。"}]}],"t":"lowalo'"}
+,"lowan":{"h":[{"d":[{"s":["`milowan~"],"e":["￹`Milowan~ `to~ `lifon~.￺￻扣薪。"],"f":"減去，扣除，刪去。"}]}],"t":"lowan"}
+,"lowanen":{"h":[{"d":[{"e":["￹`Lowanen~ `ko~ `dafong~ `iso~ !￺￻要扣除你的的財產！"],"f":"把某物減去、扣除。"}]}],"stem":"lowan","t":"lowanen"}
+,"lowid":{"h":[{"d":[{"s":["`tapi'~","`dawa'~","`mi~`lowid~"],"e":["￹`Mala~`wid~ `no~ `tao~ `kono~ `mita~ `a~ `mimaliay~.￺￻我們的球隊被對方打敗。"],"f":"打勝，打敗，征服。"}]},{"d":[{"e":["￹`Mi~`lowid~ `to~ `'ada~.￺￻征服敵人。"],"f":"打敗，征服。"}]}],"t":"lowid"}
+,"lowiden":{"h":[{"d":[{"e":["￹`Lowiden~ `ko~ `'ada~ !￺￻打敗敵人！"],"f":"把某某戰勝、征服。"}]}],"stem":"lowid","t":"lowiden"}
+,"loylec":{"h":[{"d":[{"s":["`sokiyaw~","`ma~`loylec~"],"e":["￹`Tomireng~ `a~ `miloylec~ `to~ `kolor~.￺￻站立伸腰。"],"f":"伸懶腰。"}]}],"t":"loylec"}
+,"luingtay":{"h":[{"d":[{"s":["`tipu~〈日語借詞〉"],"f":"錄音帶〈國語借詞〉。"}]}],"t":"luingtay"}
+}

@@ -1,0 +1,507 @@
+{"r":{"h":[{"d":[{"f":"阿美語輔音之一，音值為 [ r ]，屬舌尖中濁顫音。處在詞尾位置有長音化傾向。"}]}],"t":"r"}
+,"ra":{"h":[{"d":[{"f":"raya 的簡形。那，那個，那些。"}]}],"t":"ra"}
+,"ra%27emed":{"h":[{"d":[{"s":["`ra'emih~"],"f":"柔軟，柔滑。"}]}],"t":"ra'emed"}
+,"ra%27emeday":{"h":[{"d":[{"f":"柔軟了，柔滑了。"},{"s":["`ra'emihay~"],"f":"柔軟的，柔滑的。"}]}],"stem":"ra'emed","t":"ra'emeday"}
+,"ra%27emih":{"h":[{"d":[{"s":["`ra'emed~"],"f":"柔軟，柔滑。"}]}],"t":"ra'emih"}
+,"ra%27emihay":{"h":[{"d":[{"e":["￹`Ra'emihay~ `ko~ `tadasay~ `iso~ , `makapahay~ `a~ `en~`engen~.￺￻你的頭巾很柔軟，又好看。"],"f":"柔軟了，柔滑了。"},{"s":["`ra'emeday~"],"e":["￹`Ra'emihay~ `a~ `kiradom~.￺￻軟布。"],"f":"柔軟的，柔滑的。"}]}],"stem":"ra'emih","t":"ra'emihay"}
+,"ra%27es%27es":{"h":[{"d":[{"e":["￹`Ano~ `mikimad~ `ko~ `ka~`kita~`an~ `awa~ `ko~ `ra'es'es~ `ilalomaan~ `no~ `sfi'~.￺￻頭目講話時在集會所內一點聲音都沒有。"],"f":"輕聲。"}]}],"t":"ra'es'es"}
+,"ra%27esodan":{"h":[{"d":[{"f":"嗚咽，啜泣。"}]}],"t":"ra'esodan"}
+,"ra%27it":{"h":[{"d":[{"f":"獠牙。"}]},{"d":[{"f":"倒鈎。"}]}],"t":"ra'it"}
+,"ra%27opic":{"h":[{"d":[{"f":"淋濕，濕透。"}]}],"stem":"'opic","t":"ra'opic"}
+,"ra%27opicsa":{"h":[{"d":[{"e":["￹`Ra'opicsa~ `ko~ `tireng~ `to~ `nanom~.￺￻他身上濕淋淋的都是水。"],"f":"淋地濕濕的樣子，濕淋淋的。"}]}],"stem":"'opic","t":"ra'opicsa"}
+,"ra%27ra%27":{"h":[{"d":[{"f":"豆，紅豆。"}]}],"t":"ra'ra'"}
+,"ra%27ra%27an":{"h":[{"d":[{"f":"豆子、紅豆的種類。"}]}],"stem":"ra'ra'","t":"ra'ra'an"}
+,"raang":{"h":[{"d":[{"f":"(動物)母的，雌性。"}]}],"t":"raang"}
+,"raaraay":{"h":[{"d":[{"e":["￹`Iraay~ `to~ `koya~ `'ayam~ `i~ `raaraay~.￺￻在遙遠的地方有隻鳥兒。"],"f":"遙遠，很遠很遠。"}]}],"tag":"[疊 1]","stem":"raay","t":"raaraay"}
+,"raaraayay":{"h":[{"d":[{"e":["￹`O~ `raaraayay~ `a~ `tamdaw~ `a~ `ira~ `a~ `taira~ `mieneng~ `toya~ `kawas~ `a~ `futing~.￺￻遙遠的人都來看那條神魚。"],"f":"遙遠了，很遠很遠了。遙遠的。"}]}],"tag":"[疊 1]","stem":"raay","t":"raaraayay"}
+,"raay":{"h":[{"d":[{"e":["￹`Ma'araw~ `ako~ `ci~`nira~ `i~ `raay~.￺￻我在遠處看見他。"],"f":"遠處。"}]}],"t":"raay"}
+,"raciwang":{"h":[{"d":[{"f":"衣服脊縫下面開氣洞。"}]}],"t":"raciwang"}
+,"radac":{"h":[{"d":[{"s":["`maradac~"],"f":"平坦的地面。"}]}],"t":"radac"}
+,"radiw":{"h":[{"d":[{"f":"歌，歌曲。"}]}],"t":"radiw"}
+,"radiwan":{"h":[{"d":[{"f":"歌、歌曲的種類。"}]}],"stem":"radiw","t":"radiwan"}
+,"radiwen":{"h":[{"d":[{"e":["￹`Ca~ `ka~`nga'ay~ `a~ `radiwen~ `ko~ `radiw~ `iso~ !￺￻你的歌不好唱！"],"f":"把…唱起來。"}]}],"stem":"radiw","t":"radiwen"}
+,"radom":{"h":[{"d":[{"s":["`miradom~"],"f":"挑水，擔水。"}]}],"t":"radom"}
+,"radomen":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `nanom~ `i~ `ciwkeng~ , `radomen~ `to~ `a~ `tala'alo~ !￺￻水缸裏沒水了，你去河裏挑水吧！"],"f":"把…挑來，去挑水吧！"}]}],"stem":"radom","t":"radomen"}
+,"raep":{"h":[{"d":[{"f":"下水道。"}]}],"t":"raep"}
+,"rafar":{"h":[{"d":[{"f":"休耕的山坡地，原野地。"}]}],"t":"rafar"}
+,"rafas":{"h":[{"d":[{"e":["￹`Ira~ `to~ `ko~ `rafas~ `a~ `komaen~.￺￻吃有富餘了。"],"f":"富餘，有剩餘，額外的。"}]}],"t":"rafas"}
+,"rafay":{"h":[{"d":[{"f":"缸，水壺，缽頭。"}]}],"t":"rafay"}
+,"rafi%27":{"h":[{"d":[{"s":["`fafas~","`rafiyas~","`ma~`rafi'~"],"f":"溢出，泛濫。"}]}],"t":"rafi'"}
+,"rafin":{"h":[{"d":[{"s":["`mi~`rafin~"],"f":"過夜。"}]}],"t":"rafin"}
+,"rafir":{"h":[{"d":[{"f":"皮革，皮製品，皮帶。"}]}],"t":"rafir"}
+,"rafiyas":{"h":[{"d":[{"s":["`fafas~","`rafir~","`ma~`rafiyas~"],"f":"溢出，泛濫。"}]}],"t":"rafiyas"}
+,"rafor":{"h":[{"d":[{"f":"曬乾的煙葉或切絲的煙葉，塞入煙斗內點火來抽。"}]}],"t":"rafor"}
+,"rafraf":{"h":[{"d":[{"s":["`marafraf~"],"f":"火勢熊熊。"}]}],"t":"rafraf"}
+,"rahed":{"h":[{"d":[{"f":"蛋黃，蟹黃。"}]}],"t":"rahed"}
+,"rahid":{"h":[{"d":[{"s":["`mirahid~"],"f":"節約，節省，節儉。"}]}],"t":"rahid"}
+,"rahiden":{"h":[{"d":[{"e":["￹`Rahiden~ `ko~ `nanom~!￺￻要節約用水！","￹`Rahiden~ `a~ `komaen~ `ko~ `kakaenen~ , `aka~ `pi~`saloya~ !￺￻吃飯要節約糧食，不要浪費！"],"f":"把…節約、節省下來。"}]}],"stem":"rahid","t":"rahiden"}
+,"rahidhan":{"h":[{"d":[{"e":["￹`Rahidhan~ `ko~ `nanom~ `ato~ `tingki~ !￺￻水電要特別節省！"],"f":"特地把…節約、節省、節儉。"}]}],"stem":"rahid","t":"rahidhan"}
+,"rahkad":{"h":[{"d":[{"s":["`mi~`rahkad~"],"f":"蒸，煮。"}]}],"t":"rahkad"}
+,"rahkaden":{"h":[{"d":[{"e":["￹`Rahkaden~ `ko~ `titi~ `sapakaen~ `to~ `malitengay~.￺￻把肉煮了給老人吃。"],"f":"把…蒸煮。"}]}],"stem":"rahkad","t":"rahkaden"}
+,"rahker":{"h":[{"d":[{"s":["`ma~`rahker~"],"f":"高興，興奮。"}]}],"t":"rahker"}
+,"rahmed":{"h":[{"d":[{"s":["`cepa'~","`'opic~","`senger~","`ma~`rahmed~"],"f":"淋透，淋濕。"}]}],"t":"rahmed"}
+,"rahod":{"h":[{"d":[{"f":"蒸氣，濕氣。"}]}],"t":"rahod"}
+,"rahoday":{"h":[{"d":[{"f":"簡單，容易，輕而易舉。"}]}],"t":"rahoday"}
+,"rahodayay":{"h":[{"d":[{"e":["￹`Rahodayay~ `ko~ `no~ `mako~ `a~ `dademak~.￺￻我的工作很簡單的。"],"f":"簡單了，容易了。"},{"e":["￹`Caay~ `ko~ `rahodayay~ `hatiniay~ `a~ `tayal~.￺￻這項工作不是輕而易舉的。"],"f":"簡單的，容易的。"}]}],"stem":"rahoday","t":"rahodayay"}
+,"rahrah":{"h":[{"d":[{"s":["`ma~`'ecak~","`ma~`rahrah~"],"e":["￹`Ma~`rahrah~ `to~ `ko~ `panay~.￺￻稻子成熟了。"],"f":"金黃色，也指稻穀成熟。"}]}],"t":"rahrah"}
+,"raka":{"h":[{"d":[{"f":"礁石，珊瑚，岩石。"}]}],"t":"raka"}
+,"rakad":{"h":[{"d":[{"e":["￹`Rakad~ `no~ `tefos~.￺￻甘蔗渣。"],"f":"渣，渣滓。"}]}],"t":"rakad"}
+,"rakam":{"h":[{"d":[{"s":["`ma~`rakam~"],"f":"赤腳走路腳底刺痛難行的樣子。"}]}],"t":"rakam"}
+,"rakar":{"h":[{"d":[{"f":"魚籠，魚筌。"}]}],"t":"rakar"}
+,"rakarak":{"h":[{"d":[{"s":["`ma~`rakarak~"],"f":"遊蕩，流浪。"}]}],"t":"rakarak"}
+,"rakaran":{"h":[{"d":[{"f":"魚籠、魚筌的種類。"}]}],"stem":"rakar","t":"rakaran"}
+,"rakat":{"h":[{"d":[{"e":["￹`Cedengen~ `ko~ `rakat~ !￺￻請慢走！"],"f":"步行，走路。"}]}],"t":"rakat"}
+,"rakaten":{"h":[{"d":[{"e":["￹`Rakaten~ `niyam~ `a~ `tayni~ !￺￻我們要步行來！","￹`Tatiih~ `koni~ `a~ `lalan~ `rakaten~.￺￻這條路難走。"],"f":"請步行，特地走路。"}]}],"stem":"rakat","t":"rakaten"}
+,"rakes":{"h":[{"d":[{"f":"樟腦，樟腦樹。"}]}],"t":"rakes"}
+,"rakesen":{"h":[{"d":[{"f":"把樟腦採集、砍伐。"}]}],"stem":"rakes","t":"rakesen"}
+,"rama%27":{"h":[{"d":[{"s":["`mi~`rama'~"],"f":"毫無節制，毫無頭緒。"}]}],"t":"rama'"}
+,"rama%27en":{"h":[{"d":[{"e":["￹`Aka~ `rama'en~ `ko~ `wawa~ `a~ `mipakaen~.￺￻不要毫無節制地餵孩子。"],"f":"毫無節制地把…做。"}]}],"stem":"rama'","t":"rama'en"}
+,"ramah":{"h":[{"d":[{"f":"嘴巴流口水的痕迹。"}]}],"t":"ramah"}
+,"ramet":{"h":[{"d":[{"s":["`mi~`ramet~"],"f":"緊握拳頭。"}]}],"t":"ramet"}
+,"rameten":{"h":[{"d":[{"e":["￹`Rameten~ `ako~ `ka~ `kamay~ `ira~ !￺￻我要緊握他的手！"],"f":"把…緊緊握住。"}]}],"stem":"ramet","t":"rameten"}
+,"rami%27":{"h":[{"d":[{"s":["`demi'~"],"f":"廚房。"}]},{"d":[{"f":"用來起火的乾草、點火。"}]}],"t":"rami'"}
+,"rami%27en":{"h":[{"d":[{"e":["￹`Matatodongay~ `ko~ `romi'ad~ , `rami'en~ `nyiam~ !￺￻時間差不多了，我們做飯吧！"],"f":"把(炊火)點燃，點火做飯吧。"}]}],"stem":"rami'","t":"rami'en"}
+,"ramo%27":{"h":[{"d":[{"s":["`ma~`ramo'~"],"f":"損壞不堪。"}]}],"t":"ramo'"}
+,"ramod":{"h":[{"d":[{"s":["`mararamod~"],"f":"配偶。"}]}],"t":"ramod"}
+,"ramot":{"h":[{"d":[{"s":["`miramot~"],"f":"揀取，撿東西。"}]}],"t":"ramot"}
+,"ramoten":{"h":[{"d":[{"e":["￹`Ramoten~ `ko~ `lakaw~ !￺￻把垃圾撿起來！"],"f":"把…撿取。"}]}],"stem":"ramot","t":"ramoten"}
+,"ramothan":{"h":[{"d":[{"e":["￹`Ramothan~ `noya~ `wawa~ `koya~ `kasoy~ , `a~ `panokay~.￺￻小孩特地揀取木柴帶回家。"],"f":"特地把…撿拾、揀取。"}]}],"stem":"ramot","t":"ramothan"}
+,"rana":{"h":[{"d":[{"f":"山腳，山麓。"}]},{"d":[{"s":["`parana~"],"f":"根基、底部。"}]}],"t":"rana"}
+,"ranam":{"h":[{"d":[{"f":"早餐，早飯。"}]}],"t":"ranam"}
+,"ranap":{"h":[{"d":[{"e":["￹`Ranap~ `no~ `'icep~.￺￻檳榔花的外殼。"],"f":"指初長的檳榔花。"}]}],"t":"ranap"}
+,"rangi":{"h":[{"d":[{"s":["`mirangi~"],"f":"相似，相象，類似。"}]}],"t":"rangi"}
+,"rangien":{"h":[{"d":[{"e":["￹`Rangien~ `no~ `wawa~ `ko~ `wayway~ `no~ `wama~ `ato~ `wina~.￺￻小孩模仿父母的舉止。"],"f":"把…模仿、複製。"}]}],"stem":"rangi","t":"rangien"}
+,"rangrang":{"h":[{"d":[{"s":["`mi~`rangrang~"],"f":"把東西張開烘烤，燻製。"}]}],"t":"rangrang"}
+,"rangrangen":{"h":[{"d":[{"e":["￹`Rangrangen~ `ko~ `titi~ `no~ `siri~.￺￻烤羊肉。"],"f":"把…烘烤。"}]}],"stem":"rangrang","t":"rangrangen"}
+,"ranih":{"h":[{"d":[{"s":["`maranih~"],"f":"可以勝任、完成。"}]}],"t":"ranih"}
+,"ranikay":{"h":[{"d":[{"s":["`narikay~"],"e":["￹`Ranikay~ `a~ `comikay~ `ko~ `toki~.￺￻時間過得快。","￹`Ranikay~ `to~ `kako~ `a~ `minokay~ , `aka~ `to~ `ka~`tango'or~ `takowanan~ !￺￻我很快會回來的，不要惦念我！"],"f":"快，迅速。"}]}],"t":"ranikay"}
+,"ranikayay":{"h":[{"d":[{"s":["`narikayay~"],"f":"快了，迅速了。快的，迅速的。"}]}],"stem":"ranikay","t":"ranikayay"}
+,"ranikayen":{"h":[{"d":[{"s":["`na~`rikayen~"],"e":["￹`Ranikayen~ `a~ `minokay~ !￺￻快點回來吧！"],"f":"把(速度)加快、加速。"}]}],"stem":"ranikay","t":"ranikayen"}
+,"rao%27":{"h":[{"d":[{"f":"無患子，肥皂樹。"}]}],"t":"rao'"}
+,"rao%27en":{"h":[{"d":[{"e":["￹`Rao'en~ `niyam~ `hasapifaca'~ `to~ `riko'~.￺￻我們要去採無患子做洗衣服用。"],"f":"把無患子採集下來，去採集無患子吧！"}]}],"stem":"rao'","t":"rao'en"}
+,"raod":{"h":[{"d":[{"s":["`miraod~"],"f":"走近，接近，靠近。"}]}],"t":"raod"}
+,"raoden":{"h":[{"d":[{"e":["￹`Raoden~ `kako~ `a~ `maro'~ !￺￻請靠近我坐下！"],"f":"把…走近、靠近、接近。"}]}],"stem":"raod","t":"raoden"}
+,"raodhan":{"h":[{"d":[{"e":["￹`Raodhan~ `niyam~ `a~ `mieneng~.￺￻我們特地走近看一看。"],"f":"特地把…走近、靠近、接近。"}]}],"stem":"raod","t":"raodhan"}
+,"rapic":{"h":[{"d":[{"s":["`ma~`rapic~"],"f":"涉嫌，牽連。"}]}],"t":"rapic"}
+,"rapiyac":{"h":[{"d":[{"s":["`dapiyac~"],"f":"石板，磐石。"}]}],"t":"rapiyac"}
+,"raponay":{"h":[{"d":[{"f":"山鴿子。"}]}],"t":"raponay"}
+,"rapot":{"h":[{"d":[{"s":["`rapic~","`mirapot~"],"f":"牽連、涉及。"}]}],"t":"rapot"}
+,"rapoten":{"h":[{"d":[{"f":"把…牽連、涉及。"}]},{"d":[{"e":["￹`Rapoten~ `kako~ `a~ `misasing~ !￺￻對準我照相吧！"],"f":"包含在內。"}]}],"stem":"rapot","t":"rapoten"}
+,"rara":{"h":[{"d":[{"s":["`ma~`rara~"],"f":"慢吞吞，漫不經心。"}]}],"t":"rara"}
+,"rara%27":{"h":[{"d":[{"s":["`ma~`rara'~"],"f":"延遲，耽擱，等得太久。"}]}],"t":"rara'"}
+,"raracam":{"h":[{"d":[{"f":"三角螺。"}]}],"stem":"raracan","t":"raracam"}
+,"raracamen":{"h":[{"d":[{"f":"把三角螺捕捉，去撿拾三角螺吧！"}]}],"stem":"raracanen","t":"raracamen"}
+,"raradiwen":{"h":[{"d":[{"e":["￹`Raradiwen~ `kora~ `kaying~.￺￻要為小姐唱歌了。"],"f":"要唱歌。"},{"e":["￹`O~ `nga'ayay~ `a~ `tengilen~ `ko~ `raradiwen~ `niyam~.￺￻我們要唱的歌好聽。"],"f":"指要唱的歌。"}]}],"tag":"[疊 2]","stem":"radiw","t":"raradiwen"}
+,"raradomen":{"h":[{"d":[{"e":["￹`O~ `raradomen~ `no~ `ina~ `i~ `tatefonan~.￺￻母親要在井裡挑水。"],"f":"要去挑水。"},{"e":["￹`Nga'ayay~ `ko~ `raradomen~ `ako~.￺￻我要挑的水好。"],"f":"指要挑的水。"}]}],"tag":"[疊 2]","stem":"radom","t":"raradomen"}
+,"rarafos":{"h":[{"d":[{"f":"一種海草的名稱，像雞冠肉。"}]}],"t":"rarafos"}
+,"rarafosen":{"h":[{"d":[{"e":["￹`Rarafosen~ `hasapakaen~ `to~ `diyong~.￺￻撈海草當餵豬飼料。"],"f":"把(海草)撈出來。"}]}],"stem":"rarafos","t":"rarafosen"}
+,"rarahiden":{"h":[{"d":[{"e":["￹`Rarahiden~ `ita~ `ko~ `nanom~ `ato~ `tingki~ !￺￻我們即將實施水電節省。"],"f":"要節約、節省。"},{"e":["￹`Rarahiden~ `a~ `kakaenen~.￺￻要節省下來的食品。"],"f":"指要節約、節省的(東西)。"}]}],"tag":"[疊 2]","stem":"rahid","t":"rarahiden"}
+,"rarahkaden":{"h":[{"d":[{"e":["￹`O~ `rarahkaden~ `ako~ `ko~ `titi~ `no~ `kolong~.￺￻我要去煮牛肉。"],"f":"要蒸煮。"},{"f":"指要蒸煮的(東西)"}]}],"tag":"[疊 2]","stem":"rahkad","t":"rarahkaden"}
+,"rarakaten":{"h":[{"d":[{"e":["￹`O~ `rarakaten~ `naira~ `kora~ `lalan~.￺￻他們要走那條路。"],"f":"要行走。"},{"e":["￹`Rarakaten~ `a~ `lalan~.￺￻要走的路。"],"f":"指要行走的(路程)。"}]}],"tag":"[疊 2]","stem":"rakat","t":"rarakaten"}
+,"raramod":{"h":[{"d":[{"e":["￹`O~ `cima~ `ko~ `raramod~ `ira~ `saw~?￺￻他的配偶是誰？"],"f":"結婚，配偶。"}]}],"tag":"[疊 2]","stem":"ramod","t":"raramod"}
+,"raramodsa":{"h":[{"d":[{"e":["￹`Ano~ `makahi~ `ci~ `wina~ , `raramodsa~ `to~ `kamo~ !￺￻如果母親同意，那麼就結為夫妻吧！"],"f":"於是就結婚。"}]}],"tag":"[疊 2]","stem":"ramod","t":"raramodsa"}
+,"rarangian":{"h":[{"d":[{"e":["￹`Rarangian~ `a~ `tamdaw~.￺￻楷模"],"f":"相似，塑造形象的對象。"}]}],"tag":"[疊 2]","stem":"rangi","t":"rarangian"}
+,"raraoden":{"h":[{"d":[{"e":["￹`O~ `raraoden~ `ako~ `kiso~.￺￻我即將走近你。"],"f":"要靠近、接近。"},{"f":"指要靠近、接近的(對象)。"}]}],"tag":"[疊 2]","stem":"raod","t":"raraoden"}
+,"rarapa":{"h":[{"d":[{"f":"大黃牛。"}]}],"t":"rarapa"}
+,"rarapoten":{"h":[{"d":[{"e":["￹`O~ `rarapoten~ `ira~ `kora~ `kapah~.￺￻要包含那位年青人。"],"f":"要涉及，要牽連。"},{"f":"指要包含的，牽連的(對象、目標)。"}]}],"tag":"[疊 2]","stem":"rapot","t":"rarapoten"}
+,"rarar":{"h":[{"d":[{"f":"小鋤頭。"}]}],"t":"rarar"}
+,"rarararen":{"h":[{"d":[{"e":["￹`O~ `Rarararen~ `ako~ `koya~ `lamlo~`an~ `anini~.￺￻今天我要給小米地鋤耕。"],"f":"要用小鋤耕耘。"},{"e":["￹`Rarararen~ `a~ `sadatengan~.￺￻要鋤耕的菜地。"],"f":"指要用小鋤耕耘的(莊稼)。"}]}],"tag":"[疊 2]","stem":"rarar","t":"rarararen"}
+,"rararen":{"h":[{"d":[{"e":["￹`Rararen~ `niyam~ `ko~ `sakongaan~.￺￻我們用小鋤耕耘蕃薯地。"],"f":"用小鋤把…耕耘。"}]}],"stem":"rarar","t":"rararen"}
+,"rarasa":{"h":[{"d":[{"e":["￹`Rarasa~ `ci~`nira~ `a~ `romakat~.￺￻他慢吞吞地走。"],"f":"慢吞吞地做事。"}]}],"stem":"rara'","t":"rarasa"}
+,"rarasi%27en":{"h":[{"d":[{"s":["`raraso'en~","`lalesi'~`en~"],"e":["￹`O~ `rarasi'en~ `ko~ `hana~.￺￻要給花灑水。"],"f":"要潑水、灑水。"},{"e":["￹`Rarasi'en~ `a~ `paenan~.￺￻要灑水的地板。"],"f":"指要潑水、灑水的(對象)。"}]}],"tag":"[疊]","stem":"rasi'","t":"rarasi'en"}
+,"raraso%27en":{"h":[{"d":[{"f":"要潑水、灑水。"},{"s":["`rarasi'en~"],"f":"指要潑水、灑水的(對象)。"}]}],"tag":"[疊 2]","stem":"raso'","t":"raraso'en"}
+,"raratohen":{"h":[{"d":[{"e":["￹`O~ `raratohen~ `ako~ `koya~ `ma'odangay~ `a~ `tamdaw~.￺￻我要告發那個違法亂紀的人。"],"f":"要告狀、報告，講述。"},{"e":["￹`Raratohen~ `a~ `tamdaw~.￺￻即將被告發的人。"],"f":"指要告狀、報告的。"}]}],"tag":"[疊 2]","stem":"ratoh","t":"raratohen"}
+,"raraw":{"h":[{"d":[{"e":["￹`O~ `raraw~ `to~ `ako~ `itiya~ `kisowanan~.￺￻那時，我對不起你了。"],"f":"錯誤，不對，對不起。"}]}],"t":"raraw"}
+,"rarawisen":{"h":[{"d":[{"e":["￹`Rarawisen~ `no~ `wawa~ `ko~ `'afinong~.￺￻孩子要去勾取椰子。"],"f":"要勾取東西。"},{"e":["￹`Rarawisen~ `ako~ `a~ `'icep~.￺￻我要勾取的檳榔。"],"f":"指要勾取的(東西)。"}]}],"tag":"[疊 2]","stem":"rawis","t":"rarawisen"}
+,"rarawrawsa":{"h":[{"d":[{"e":["￹`Rarawrawsa~ `ko~ `salikaka~ `to~ `pakainiay~ `i~ `mi~`kapatay~ `no~ `tomok~.￺￻弟兄們為頭目之死而困擾著。"],"f":"處於困擾不止的狀態，慌亂。"}]}],"tag":"[疊 2]","stem":"rawraw","t":"rarawrawsa"}
+,"raraya%27":{"h":[{"d":[{"e":["￹`Raraya'~ `koni~ `a~ `'atikak~.￺￻這條蚯蚓長。"],"f":"長，漫長。"}]}],"t":"raraya'"}
+,"rare%27afas":{"h":[{"d":[{"s":["`ma~`rare'afas~"],"f":"互相搶劫、搶奪。"}]}],"tag":"[疊 2]","stem":"re'afas","t":"rare'afas"}
+,"rarecepen":{"h":[{"d":[{"e":["￹`O~ `rarecepen~ `no~ `kaka~ `ko~ `riko'~.￺￻姊姊要把衣服浸濕。"],"f":"要浸濕。"},{"e":["￹`Rarecepen~ `a~ `riko'~ `koni~.￺￻這是要浸濕的衣服。"],"f":"指要浸濕的。"}]}],"tag":"[疊 2]","stem":"recep","t":"rarecepen"}
+,"rareciken":{"h":[{"d":[{"e":["￹`Rareciken~ `ko~ `panay~ `anini~.￺￻今天要碾稻穀。"],"f":"有碾碎、弄碎。"},{"e":["￹`Rareciken~ `a~ `emi~.￺￻要碾碎的麥子。"],"f":"指要碾碎、弄碎的(東西)。"}]}],"tag":"[疊 2]","stem":"recik","t":"rareciken"}
+,"rarecrecen":{"h":[{"d":[{"e":["￹`O~ `rarecrecen~ `no~ `kaka~ `kora~ `fangfang~.￺￻哥哥要箍那隻大木桶。"],"f":"要箍起來。"},{"e":["￹`Rarecrecen~ `a~ `paetang~.￺￻要加箍的桶子。"],"f":"指要箍起來的(物件)。"}]}],"tag":"[疊]","stem":"recrec","t":"rarecrecen"}
+,"raredeken":{"h":[{"d":[{"f":"要施魔力。"},{"f":"指要施法的(對象)。"}]}],"tag":"[疊 2]","stem":"redek","t":"raredeken"}
+,"rarekenen":{"h":[{"d":[{"e":["￹`Cowa~ `rarekenen~ `ko~ `rarekenen~ `ako~ `itini~.￺￻我不會在這裡摁壓的。"],"f":"要摁壓、壓制。"},{"f":"指要摁壓、壓制的(對象)。"}]}],"tag":"[疊 2]","stem":"reken","t":"rarekenen"}
+,"rarekep":{"h":[{"d":[{"s":["`ma~`rarekep~"],"f":"對接，吻合，合縫。"}]}],"tag":"[疊 2]","stem":"rekep","t":"rarekep"}
+,"rarekih":{"h":[{"d":[{"f":"跛腳。"}]}],"tag":"[疊 2]","stem":"rekih","t":"rarekih"}
+,"rarekoen":{"h":[{"d":[{"e":["￹`O~ `rarekoen~ `ita~ `ko~ `dademaken~.￺￻我們要把工作完成。"],"f":"要完成既定計劃。"},{"e":["￹`Rarekoen~ `a~ `tayal~.￺￻要完成的任務。"],"f":"指要完成的(任務)。"}]}],"tag":"[疊 2]","stem":"reko","t":"rarekoen"}
+,"rarem":{"h":[{"d":[{"e":["￹`Tayra~ `i~ `rarem~.￺￻去河的下游。","￹`O~ `rarem~ `ak~ `ci~`nira~.￺￻他是我的後輩。"],"f":"河的下游；低層次，下層次；晚輩，下輩；下級。"}]}],"t":"rarem"}
+,"rarenacen":{"h":[{"d":[{"s":["`rarenasen~","`ca~`cadiwen~"],"e":["￹`O~ `rarenacen~ `ko~ `sapikilang~ `a~ `funus~.￺￻要去把砍樹的刀磨一下。"],"f":"要磨利、磨快。"},{"e":["￹`Rarenacen~ `a~ `pawtaw~.￺￻要磨利的斧頭。"],"f":"指要磨利、磨快的(刀器)。"}]}],"tag":"[疊 2]","stem":"renac","t":"rarenacen"}
+,"rarenafen":{"h":[{"d":[{"e":["￹`O~ `rarenafen~ `ako~ `ko~ `padal~ `no~ `loma'~.￺￻我要把房子的牆壁粉刷一下。"],"f":"要塗抹、粉刷(油漆)。"},{"e":["￹`Rarenafen~ `a~ `loma'~.￺￻要粉刷的房子。"],"f":"指要塗抹、粉刷的(物件)。"}]}],"tag":"[疊 2]","stem":"renaf","t":"rarenafen"}
+,"rarenasen":{"h":[{"d":[{"s":["`rarenacen~","`ca~`cadiwen~"],"e":["￹`Rarenasen~ `ko~ `po'ot~.￺￻小刀要磨快一下。"],"f":"要磨利、磨快。"},{"e":["￹`Rarenasen~ `a~ `funus~.￺￻要磨利的刀。"],"f":"指要磨利、磨快的(物件)。"}]}],"tag":"[疊 2]","stem":"renas","t":"rarenasen"}
+,"rarengecay":{"h":[{"d":[{"f":"天牛。"}]}],"t":"rarengecay"}
+,"rarengecen":{"h":[{"d":[{"e":["￹`O~ `rarengecen~ `ko~ `'asisiw~.￺￻要把稻草鍘斷一下。"],"f":"要剪斷、切斷(草等)。"},{"e":["￹`Rarengecen~ `a~ `talod~.￺￻要剪斷的青草。"],"f":"指要剪斷、切斷的(物件)。"}]}],"tag":"[疊 2]","stem":"rengec","t":"rarengecen"}
+,"rarengosan":{"h":[{"d":[{"s":["`rengorengosan~"],"e":["￹`Ira~ `ko~ `'oner~ `i~ `rarengosan~.￺￻草叢裡有蛇。"],"f":"草叢裏。"}]}],"tag":"[疊 2]","stem":"rengos","t":"rarengosan"}
+,"rarenoken":{"h":[{"d":[{"f":"要接近、逗留。"},{"s":["`raraoden~"],"f":"指要接近、逗留的(地方、對象)。"}]}],"tag":"[疊 2]","stem":"renok","t":"rarenoken"}
+,"rarepaten":{"h":[{"d":[{"e":["￹`O~ `rarepaten~ `ira~ `ko~ `koliciw~ `ako~.￺￻他要損壞我的腳踏車。"],"f":"即將弄壞、損壞。"},{"e":["￹`Rarepaten~ `a~ `kikay~.￺￻即將破壞的機器。( 保留 )"],"f":"指即將弄壞、損壞的(物件)。"}]}],"tag":"[疊 2]","stem":"repat","t":"rarepaten"}
+,"rarepelen":{"h":[{"d":[{"f":"要損壞、弄壞。"},{"s":["`rarepaten~"],"f":"指要損壞、弄壞的(物件)。"}]}],"tag":"[疊 2]","stem":"repel","t":"rarepelen"}
+,"rarepeten":{"h":[{"d":[{"e":["￹`O~ `rarepeten~ `a~ `'ayam~￺￻(sofitay)cinira. 即將抓住的鳥。"],"f":"要抓住、逮捕。"},{"e":["￹`Rarepeten~ `a~ `tamdaw~.￺￻要抓的人。"],"f":"指要抓住、逮捕的(對象)。"}]}],"tag":"[疊 2]","stem":"repet","t":"rarepeten"}
+,"rarepingan":{"h":[{"d":[{"e":["￹`Maro'ay~ `kako~ `i~ `rarepingan~ `ira~.￺￻我住在他隔壁。"],"f":"隔壁、鄰居所在。"}]}],"tag":"[疊 2]","stem":"reping","t":"rarepingan"}
+,"rarepingen":{"h":[{"d":[{"e":["￹`O~ `rarepingen~ `ko~ `lalosidan~ `iso~.￺￻你的行李要放隔壁。"],"f":"要放旁邊。"},{"e":["￹`Rarepingen~ `a~ `tilid~.￺￻要放旁邊的書本。"],"f":"指要放旁邊的(物件)。"}]}],"tag":"[疊 2]","stem":"reping","t":"rarepingen"}
+,"raresapen":{"h":[{"d":[{"f":"要散播、彌漫。"},{"f":"指要散播、彌漫的(東西)。"}]},{"d":[{"f":"要蠕動、爬行。"},{"f":"指要蠕動、爬行的(小動物)。"}]}],"tag":"[疊 2]","stem":"resap","t":"raresapen"}
+,"raresresen":{"h":[{"d":[{"e":["￹`Raresresen~ `ako~ `ko~ `rafor~.￺￻我要把煙葉切絲。"],"f":"要切絲兒。"},{"e":["￹`Raresresen~ `a~ `rafor~.￺￻切細的煙絲。"],"f":"指要切絲的(東西)。"}]}],"tag":"[疊 2]","stem":"resres","t":"raresresen"}
+,"raretepen":{"h":[{"d":[{"e":["￹`O~ `raretepen~ `ako~ `ci~`nira~.￺￻我要及時趕上他。"],"f":"要趕上、遇上。"},{"f":"指趕上、遇上的(對象)。"}]}],"tag":"[疊 2]","stem":"retep","t":"raretepen"}
+,"rareti%27en":{"h":[{"d":[{"e":["￹`O~ `rareti'en~ `no~ `sayho~ `ko~ `marad~.￺￻工匠要把鐵器火煉一下。"],"f":"要鍛冶、冶煉。"},{"e":["￹`Rareti'en~ `a~ `funus~.￺￻要鍛煉的刀。"],"f":"指要鍛冶、冶煉的(東西)。"}]}],"tag":"[疊 2]","stem":"reti'","t":"rareti'en"}
+,"raretreten":{"h":[{"d":[{"e":["￹`O~ `raretreten~ `ako~ `kora~ `rafir~ `to~ `po'ot~.￺￻我要把這張皮革用小刀割下來。"],"f":"要用小刀切割。"},{"e":["￹`Raretreten~ `a~ `titi~.￺￻要割下來的肉。"],"f":"指要切割的(東西)。"}]}],"tag":"[疊 2]","stem":"retret","t":"raretreten"}
+,"rari%27eriden":{"h":[{"d":[{"f":"要領導、引導。"},{"s":["`kakeriden~","`raridriden~"],"f":"指要領導、引導的(對象)。"}]}],"tag":"[疊 2]","stem":"ri'erid","t":"rari'eriden"}
+,"rari%27iwen":{"h":[{"d":[{"e":["￹`O~ `rari'iwen~ `ako~ `ko~ `wadis~.￺￻我要牙齒刷一刷。"],"f":"要刷牙、染齒。"},{"e":["￹`Rari'iwen~ `a~ `wadis~.￺￻要刷刷的牙齒。"],"f":"指要洗刷、染色的(物件，牙齒)。"}]}],"tag":"[疊 2]","stem":"ri'iw","t":"rari'iwen"}
+,"raricaricen":{"h":[{"d":[{"e":["￹`O~ `raricaricen~ `kora~ `dateng~.￺￻要把這菜揉成鹹菜。"],"f":"要搓、揉。"},{"e":["￹`O~ `maan~ `ko~ `raricaricen~ `ira~ `saw~?￺￻他要搓揉什麼呢？"],"f":"指要搓、揉的(東西)。"}]}],"tag":"[疊 2]","stem":"ricaric","t":"raricaricen"}
+,"raricay":{"h":[{"d":[{"f":"畫眉鳥。"}]}],"t":"raricay"}
+,"raricingen":{"h":[{"d":[{"f":"要破碎、弄碎。"},{"s":["`rareciken~"],"f":"指要破碎、弄碎的(東西)。"}]}],"tag":"[疊 2]","stem":"ricing","t":"raricingen"}
+,"rarid":{"h":[{"d":[{"s":["`mi~`rarid~"],"f":"經常，連續。"}]}],"t":"rarid"}
+,"rariden":{"h":[{"d":[{"e":["￹`Rariden~ `a~ `mihatatanam~ `a~ `somowal~ !￺￻一定經常練習說話！","￹`Rariden~ `ko~ `tayal~ `iso~ !￺￻把你的工作繼續下去吧！"],"f":"把…經常、連續做。"}]}],"stem":"rarid","t":"rariden"}
+,"raridriden":{"h":[{"d":[{"f":"要引導、領導。"},{"s":["`kakeriden~"],"f":"指要引導、領導的(對象)。"}]}],"tag":"[疊 2]","stem":"ridrid","t":"raridriden"}
+,"raridsa":{"h":[{"d":[{"e":["￹`Masamaanay~ `raridsa~ `tolo~ `a~ `folad~ `a~ `makedal~.￺￻不知何故，一連三個月乾旱。"],"f":"處於經常、連續的狀態。"}]}],"stem":"rarid","t":"raridsa"}
+,"rarifowasen":{"h":[{"d":[{"f":"要滿出來，溢出來。"},{"f":"指滿出來、溢出來的的(東西)。"}]}],"tag":"[疊]","stem":"rifowas","t":"rarifowasen"}
+,"rarihnacen":{"h":[{"d":[{"e":["￹`O~ `rarihnacen~ `no~ `posi~ `ko~ `kanoos~ `ira~.￺￻貓要把自己的的爪子舔一舔。"],"f":"要舔。"},{"f":"指要舔的(對象)。"}]}],"tag":"[疊 2]","stem":"rihnac","t":"rarihnacen"}
+,"rarikah":{"h":[{"d":[{"f":"蜈蚣。"}]}],"t":"rarikah"}
+,"rarikahan":{"h":[{"d":[{"f":"蜈蚣的種類。"}]}],"stem":"rarikah","t":"rarikahan"}
+,"rarikaoten":{"h":[{"d":[{"e":["￹`O~ `rarikaoten~ `kona~ `'aol~.￺￻要把這根竹子弄彎。"],"f":"要彎曲、弄彎。"},{"e":["￹`Rarikaoten~ `a~ `marad~.￺￻要弄彎的鐵條。"],"f":"指要彎曲、弄彎的(東西)。"}]}],"tag":"[疊 2]","stem":"rikaot","t":"rarikaoten"}
+,"rarikapen":{"h":[{"d":[{"f":"要吊唁、吊慰。"},{"f":"指要吊唁、吊慰的(對象)。"}]}],"tag":"[疊 2]","stem":"rikap","t":"rarikapen"}
+,"rarikiten":{"h":[{"d":[{"e":["￹`O~ `rarikiten~ `no~ `wawa~ `ci~ `wina~ `ira~.￺￻孩子就要跟上他媽媽。"],"f":"要跟腳、跟隨。"},{"e":["￹`Rarikiten~ `a~ `tamdaw~.￺￻要跟隨的人。"],"f":"指跟腳、跟隨的(對象)。"}]}],"tag":"[疊 2]","stem":"rikit","t":"rarikiten"}
+,"rarikor":{"h":[{"d":[{"e":["￹`I~ `rarikor~ `ci~ `nira~ `a~ `maro'~.￺￻他在後面坐。"],"f":"在後面、後頭。"}]}],"tag":"[疊 2]","stem":"rikor","t":"rarikor"}
+,"rarikoraren":{"h":[{"d":[{"f":"要回憶、考證。"},{"e":["￹`Rarikoraren~ `ko~ `no~ `to'as~ `a~ `'orip~.￺￻要查考祖先的生活。"],"f":"指要回憶、考證的(事情)。"}]}],"tag":"[疊 2]","stem":"rikorar","t":"rarikoraren"}
+,"rarikowaten":{"h":[{"d":[{"f":"要翻轉東西。"},{"f":"指要翻轉的(東西)。"}]}],"tag":"[疊 2]","stem":"rikowat","t":"rarikowaten"}
+,"rarima":{"h":[{"d":[{"s":["`mararima~"],"f":"吃力，費勁。"}]}],"t":"rarima"}
+,"rarimaan":{"h":[{"d":[{"s":["`ka~`rarima~`an~"],"e":["￹`Rarimaan~ `ko~ `dademaken~ `iso~.￺￻你的事情令人費勁。"],"f":"令人吃力、費勁的事情。"}]}],"stem":"rarima","t":"rarimaan"}
+,"rarimok":{"h":[{"d":[{"s":["`mararimok~"],"f":"團團轉緊張地做事。"}]}],"t":"rarimok"}
+,"rarimowang":{"h":[{"d":[{"s":["`ma~`rarimowang~"],"f":"有很多的、成群的、大量的。"}]}],"t":"rarimowang"}
+,"rarina%27en":{"h":[{"d":[{"e":["￹`O~ `rarina'en~ `koni~ `a~ `tilid~.￺￻這本書即將出版。"],"f":"要出版、印刷。"},{"e":["￹`O~ `rarina'en~ `ko~ `radiw~ `ita~.￺￻我們的歌譜即將印刷。"],"f":"指要出版、印刷的(東西)。"}]}],"tag":"[疊 2]","stem":"rina'","t":"rarina'en"}
+,"raringaringen":{"h":[{"d":[{"f":"太陽即將下山。"},{"f":"指即將下山的(太陽)。"}]}],"tag":"[疊 2]","stem":"ringaring","t":"raringaringen"}
+,"raringaten":{"h":[{"d":[{"e":["￹`O~ `raringaten~ `ko~ `yopaw~ `i~ `tatikamian~.￺￻要把郵票貼在信封上。"],"f":"要粘貼。"},{"e":["￹`Raringaten~ `a~ `padakopak~.￺￻要粘貼的紙張。"],"f":"指要粘貼的。"}]}],"tag":"[疊 2]","stem":"ringat","t":"raringaten"}
+,"raringien":{"h":[{"d":[{"f":"要模仿、複製。"},{"s":["`rarinien~"],"f":"指要模仿、複製的(物件)。"}]}],"tag":"[疊 2]","stem":"ringi","t":"raringien"}
+,"raringoen":{"h":[{"d":[{"e":["￹`Sienawen~ `kako~ , `o~ `raringoen~ `kora~ `taringoan~.￺￻我感到冷，要去暖爐那裡烤一烤。"],"f":"要烤火取暖。"},{"f":"指要烤火取暖的(物件)。"}]}],"tag":"[疊 2]","stem":"ringo","t":"raringoen"}
+,"raringosa":{"h":[{"d":[{"e":["￹`Sienawen~ `kora~ `malitengay~ `a~ `tamdaw~ `raringosa~.￺￻那個老人感到冷，就一直烤著火取暖。"],"f":"處於烤火取暖的狀態，一直烤著火。"}]}],"tag":"[疊 2]","stem":"ringo","t":"raringosa"}
+,"raringringen":{"h":[{"d":[{"e":["￹`O~ `raringringen~ `no~ `ina~ `ko~ `ra'ra~ , `sapakaen~ `to~ `wawa~ `ira~.￺￻媽媽要去炒豆子給她的孩子吃。","￹`Raringringen~ `a~￺￻Raringringen a kodasing."],"f":"要炒豆子。"}]}],"tag":"[疊 2]","stem":"ringring","t":"raringringen"}
+,"rarinien":{"h":[{"d":[{"f":"要模仿、複製。"},{"s":["`raringien~"],"f":"指要模仿、複製的(物件)。"}]}],"tag":"[疊 2]","stem":"rini","t":"rarinien"}
+,"raripa%27en":{"h":[{"d":[{"f":"要踩踏。"},{"f":"指要踩踏的(對象)。"}]}],"tag":"[疊 2]","stem":"ripa'","t":"raripa'en"}
+,"rariparipen":{"h":[{"d":[{"f":"要塗抹、沾抹。"},{"s":["`raroparopen~"],"f":"指要塗抹、沾抹的(物件)。"}]}],"tag":"[疊 2]","stem":"riparip","t":"rariparipen"}
+,"rarisrisen":{"h":[{"d":[{"s":["`minisnis~","`mi~`cakcak~"],"e":["￹`Rarisrisen~ `kora~ `sadatengan~.￺￻要把菜園剷草。"],"f":"要剷草除根。"},{"f":"指要剷草除根的(對象)。"}]},{"d":[{"s":["`rasirsiren~","`rasilsilen~"],"f":"要按順序整理、安排、分配。"}]}],"tag":"[疊 2]","stem":"risris","t":"rarisrisen"}
+,"raritingen":{"h":[{"d":[{"f":"要連接、鈎在一起。"},{"f":"指要連接、鈎在一起的(物件)。"}]}],"tag":"[疊 2]","stem":"riting","t":"raritingen"}
+,"raritiriting":{"h":[{"d":[{"s":["`ma~`raritiriting~"],"f":"彼此互相連接起來。"}]}],"tag":"[疊 2]","stem":"riting","t":"raritiriting"}
+,"raritosen":{"h":[{"d":[{"e":["￹`O~ `raritosen~ `ira~.￺￻她決心要去抽籤。"],"f":"要抽籤、抓鬮。"},{"f":"指要抽籤、抓鬮的(對象)。"}]}],"tag":"[疊 2]","stem":"ritos","t":"raritosen"}
+,"raritritan":{"h":[{"d":[{"s":["`piritritan~"],"e":["￹`O~ `raritritan~ `to~ `panay~ `a~ `romi'ad~.￺￻收割稻子的日子裡。"],"f":"收割莊稼的地方、時間。"}]}],"tag":"[疊 2]","stem":"ritrit","t":"raritritan"}
+,"raritriten":{"h":[{"d":[{"e":["￹`O~ `raritriten~ `naira~ `kora~ `panay~.￺￻他們要在收割稻子。"],"f":"要收割。"},{"e":["￹`Raritriten~ `a~ `lamlo~.￺￻即將收割的小米。"],"f":"指要收割的(作物)。"}]}],"tag":"[疊 2]","stem":"ritrit","t":"raritriten"}
+,"rariwariwen":{"h":[{"d":[{"f":"即將攪亂。"},{"f":"指要攪亂的(物件)。"}]}],"tag":"[疊 2]","stem":"riwariw","t":"rariwariwen"}
+,"rariyaden":{"h":[{"d":[{"f":"要接續不斷。"},{"f":"指要接續不斷的(物件)。"}]}],"tag":"[疊 2]","stem":"riyad","t":"rariyaden"}
+,"raro%27iten":{"h":[{"d":[{"f":"要開始收割。"},{"f":"指開始要收割的(物件，如小米)。"}]}],"tag":"[疊 2]","stem":"ro'it","t":"raro'iten"}
+,"rarocoken":{"h":[{"d":[{"e":["￹`O~ `rarocoken~ `ira~ `ko~ `maamaan~ `a~ `dafongan~.￺￻他即將繼承各種財產。"],"f":"要遺傳、繼承、傳承。"},{"e":["￹`Rarocoken~ `a~ `omah~.￺￻要傳承的田地。"],"f":"指要遺傳、繼承、傳承的(物件)。"}]}],"tag":"[疊 2]","stem":"rocok","t":"rarocoken"}
+,"rarocorocokhan":{"h":[{"d":[{"e":["￹`Rarocorocokhan~ `no~ `wawa~ `no~ `wa~`wakona~ `omah~.￺￻這些田地要代代相傳下去。"],"f":"特地把…代代相傳。"}]}],"tag":"[疊 2]","stem":"rocok","t":"rarocorocokhan"}
+,"rarofoen":{"h":[{"d":[{"e":["￹`O~ `rarofoen~ `kora~ `koko'~ `ato~ `maymay~.￺￻即將把這些雞和鴨關起來。"],"f":"要禁閉、籠罩。"},{"e":["￹`Rarofoen~ `a~ `tamdaw~.￺￻要禁閉的人。"],"f":"指要禁閉、籠罩的(對象)。"}]}],"tag":"[疊 2]","stem":"rofo","t":"rarofoen"}
+,"raroharohen":{"h":[{"d":[{"f":"要催促、敦促。"},{"f":"指要催促、敦促的(對象)。"}]}],"tag":"[疊 2]","stem":"roharoh","t":"raroharohen"}
+,"rarohod":{"h":[{"d":[{"f":"大馬蜂。"}]}],"t":"rarohod"}
+,"rarohoen":{"h":[{"d":[{"e":["￹`O~ `rarohoen~ `ko~ `loma'~ `no~ `Futod~ `a~ `tamdaw~.￺￻雅美人的房子要蹲踞著(進去)。"],"f":"要蹲踞、彎腰。"},{"f":"指要蹲踞、彎腰的(地方)。"}]}],"tag":"[疊 2]","stem":"roho","t":"rarohoen"}
+,"rarohofen":{"h":[{"d":[{"f":"要居喪。"},{"f":"指要居喪的(對象)。"}]}],"tag":"[疊 2]","stem":"rohof","t":"rarohofen"}
+,"rarohroh":{"h":[{"d":[{"f":"隆隆聲。"}]}],"t":"rarohroh"}
+,"rarokawiten":{"h":[{"d":[{"f":"要勾取東西。"},{"s":["`kakorawiten~","`rarongawiten~"],"f":"指要勾取的(東西)。"}]}],"tag":"[疊 2]","stem":"rokawit","t":"rarokawiten"}
+,"rarokicen":{"h":[{"d":[{"f":"用撒嬌的態度去刁難、為難。"},{"f":"指要刁難、為難的(物件)。"}]}],"tag":"[疊 2]","stem":"rokic","t":"rarokicen"}
+,"rarokirok":{"h":[{"d":[{"s":["`ma~`rarokirok~"],"f":"出力、激烈，龍爭虎鬥。"}]}],"t":"rarokirok"}
+,"rarokitacen":{"h":[{"d":[{"f":"要拉長、延長。"},{"s":["`nanayaten~"],"f":"指要拉長、延長的。"}]}],"tag":"[疊 2]","stem":"rokitac","t":"rarokitacen"}
+,"rarokoh":{"h":[{"d":[{"f":"海龜，甲魚。"}]}],"t":"rarokoh"}
+,"rarokohan":{"h":[{"d":[{"f":"海龜、甲魚的種類。"}]}],"stem":"rarokoh","t":"rarokohan"}
+,"rarokroken":{"h":[{"d":[{"f":"要煮開、沸騰。"},{"e":["￹`Rarokroken~ `a~ `nanom~.￺￻即將沸騰的水。"],"f":"指要煮開、沸騰的(東西)。"}]}],"tag":"[疊 2]","stem":"rokrok","t":"rarokroken"}
+,"rarom":{"h":[{"d":[{"s":["`mararom~"],"f":"悲傷，悔恨。"}]}],"t":"rarom"}
+,"raromicen":{"h":[{"d":[{"e":["￹`O~ `raromicen~ `ako~ `ko~ `riko'~ `no~ `wawa~.￺￻我要把孩子的衣服搓洗一下。"],"f":"要揉搓、摩擦。"},{"f":"指要揉搓、摩擦的(物件)。"}]}],"tag":"[疊 2]","stem":"romic","t":"raromicen"}
+,"raromromen":{"h":[{"d":[{"e":["￹`Maraod~ `to~ `ko~ `ka~`kero~`an~ , `o~ `raromromen~ `ako~.￺￻舞會時間快到了，我要把火點起來。"],"f":"要點燃火。"},{"f":"指要點燃的火。"}]}],"tag":"[疊 2]","stem":"romrom","t":"raromromen"}
+,"raromsa":{"h":[{"d":[{"e":["￹`Raromsa~ `ci~ `nira~ `a~ `tomangic~.￺￻她悲傷地哭起來。"],"f":"處於悲傷的狀態，悲傷起來。"}]}],"stem":"rarom","t":"raromsa"}
+,"rarong":{"h":[{"d":[{"f":"茅舍，簡易房，帳棚。"}]}],"t":"rarong"}
+,"rarongawiten":{"h":[{"d":[{"f":"要勾取東西。"},{"s":["`kakorawiten~","`rarokawiten~"],"f":"指要勾取的(東西)。"}]}],"tag":"[疊 2]","stem":"rongawit","t":"rarongawiten"}
+,"raronicen":{"h":[{"d":[{"e":["￹`Raronicen~ `ira~ `ko~ `kolang~.￺￻她要揉芥菜。"],"f":"要揉搓(鹹菜)。"},{"f":"指要揉搓的(蔬菜)。"}]}],"tag":"[疊 2]","stem":"ronic","t":"raronicen"}
+,"raroparopen":{"h":[{"d":[{"f":"要塗抹、塗鴉。"},{"f":"指要塗抹、沾抹的(物件)。"}]}],"tag":"[疊 2]","stem":"roparop","t":"raroparopen"}
+,"raropayen":{"h":[{"d":[{"e":["￹`O~ `raropayen~ `ko~ `sera~ `a~ `misalalanan~.￺￻要把所修的路面整平。"],"f":"要弄平坦。"},{"f":"指要弄平的(對象、地方)。"}]}],"tag":"[疊 2]","stem":"ropay","t":"raropayen"}
+,"raropit":{"h":[{"d":[{"s":["`ma~`raropit~"],"f":"傷口癒合。"}]}],"t":"raropit"}
+,"raropitsa":{"h":[{"d":[{"f":"傷口呈癒合狀態。"}]}],"stem":"raropit","t":"raropitsa"}
+,"raroroden":{"h":[{"d":[{"f":"要追蹤、追究。"},{"f":"指要追蹤、跟蹤的(對象)。"}]}],"tag":"[疊 2]","stem":"rorod","t":"raroroden"}
+,"rarorohen":{"h":[{"d":[{"f":"即將遷怒。"},{"f":"指要遷怒卸責的(對象)。"}]}],"tag":"[疊 2]","stem":"roroh","t":"rarorohen"}
+,"rarosarosen":{"h":[{"d":[{"e":["￹`O~ `rarosarosen~ `koni~ `a~ `sapad~.￺￻要把這塊木板鋸一鋸。。"],"f":"要鋸斷。"},{"e":["￹`O~ `maan~ `ko~ `rarosarosen~ `iso~?￺￻你要鋸什麼？"],"f":"指要鋸斷的(東西)"}]}],"tag":"[疊 2]","stem":"rosaros","t":"rarosarosen"}
+,"rarot":{"h":[{"d":[{"s":["`ma~`rarot~"],"f":"出發，起程。"}]}],"t":"rarot"}
+,"rarotaroten":{"h":[{"d":[{"f":"要揉搓。"},{"s":["`raromicen~"],"f":"指要揉搓的。"}]}],"tag":"[疊 2]","stem":"rotarot","t":"rarotaroten"}
+,"raroyaroy":{"h":[{"d":[{"s":["`ma~`raroyaroy~"],"f":"平衡。"}]}],"t":"raroyaroy"}
+,"rasa":{"h":[{"d":[{"f":"箅子。( 竹器，用來托墊蒸犯飯的木曾瓦 )。"}]}],"t":"rasa"}
+,"rasi%27":{"h":[{"d":[{"s":["`mi~`rasi'~"],"f":"灑水，潑水。"}]},{"d":[{"s":["`raso'~","`mi~`rasi'~"],"f":"灑水。"}]}],"t":"rasi'"}
+,"rasi%27en":{"h":[{"d":[{"e":["￹`Rasi'en~ `ko~ `hana~ `ato~ `rengos~ `to~ `nanom~ !￺￻給花草澆澆水吧！"],"f":"給…灑水、潑水。"}]},{"d":[{"s":["`raso'en~"],"e":["￹`Rasi'en~ `ko~ `paenan~ `to~ `nanom~.￺￻給地板灑水。"],"f":"給…灑水，把…灑水。"}]}],"stem":"rasi'","t":"rasi'en"}
+,"rasiras":{"h":[{"d":[{"s":["`rasras~","`marasras~"],"f":"撒落，散落，掉落。"}]}],"t":"rasiras"}
+,"rasit":{"h":[{"d":[{"s":["`mi~`rasit~"],"f":"逐個告知、報信。"}]}],"t":"rasit"}
+,"rasiten":{"h":[{"d":[{"e":["￹`Rasiten~ `to~ `ako~ `ko~ `tamdamdaw~.￺￻我給每人報告了。"],"f":"給…逐個告知、報信，把…告知、報信。"}]}],"stem":"rasit","t":"rasiten"}
+,"rasmas":{"h":[{"d":[{"f":"小雨，毛毛雨。"}]}],"t":"rasmas"}
+,"rasmasan":{"h":[{"d":[{"f":"毛毛雨天氣。"}]}],"stem":"rasmas","t":"rasmasan"}
+,"rasmasen":{"h":[{"d":[{"f":"給…灑毛毛雨。"}]}],"stem":"rasmas","t":"rasmasen"}
+,"raso%27":{"h":[{"d":[{"s":["`rasi'~","`miraso'~"],"f":"灑水，噴水。"}]}],"t":"raso'"}
+,"raso%27en":{"h":[{"d":[{"s":["`rasi'en~"],"e":["￹`Raso'en~ `to~ `nanom~ `ko~ `finangay~ !￺￻給稻子灑水(祭祀)吧！"],"f":"把…灑水、噴水，把…灑水、噴水。"}]}],"stem":"raso'","t":"raso'en"}
+,"rasras":{"h":[{"d":[{"s":["`rasiras~","`marasras~"],"f":"撒落，散落。"}]}],"t":"rasras"}
+,"ratar":{"h":[{"d":[{"e":["￹`Ni~`sakaranam~ `ko~ `wina~ `i~ `ratar~.￺￻母親大清早做早餐。"],"f":"大清早，起個大早。"}]}],"t":"ratar"}
+,"ratoh":{"h":[{"d":[{"e":["￹`Ng'ayay~ `a~ `ratoh~.￺￻好新聞。"],"f":"新聞，消息。"}]}],"t":"ratoh"}
+,"ratohen":{"h":[{"d":[{"e":["￹`Ratohen~ `ako~ `ko~ `ka~`kita~`an~ `niyam~.￺￻我給我們的頭目報告。"],"f":"把…報告、呈報。"}]}],"stem":"ratoh","t":"ratohen"}
+,"ratohhan":{"h":[{"d":[{"e":["￹`Ratohhan~ `ako~ `ko~ `miso~ `to~ `demak~ `ira~.￺￻我特向你報告他的有關情況。"],"f":"特地把…報告、呈報。"}]}],"stem":"ratoh","t":"ratohhan"}
+,"rawac":{"h":[{"d":[{"s":["`mi~`rawac~"],"f":"周圍、四周。"}]}],"t":"rawac"}
+,"rawacen":{"h":[{"d":[{"e":["￹`Mana~ `rawacen~ `namo~ `saw~?￺￻你們如何固定房子的四周呢？"],"f":"把(房子四周)固定好。"}]}],"stem":"rawac","t":"rawacen"}
+,"rawang":{"h":[{"d":[{"e":["￹`Pinaay~ `ko~ `rawang~ `no~ `loma'~ `namo~?￺￻你們有幾間房子？"],"f":"房間，隔間。"}]}],"t":"rawang"}
+,"rawis":{"h":[{"d":[{"s":["`marawis~"],"f":"伸手或使用工具勾取遠處的東西。"}]}],"t":"rawis"}
+,"rawisen":{"h":[{"d":[{"e":["￹`Rawisen~ `ko~ `lopas~ `a~ `komaen~ !￺￻把桃子勾下來吃吧！","￹`Rawisen~ `ko~ `mali~ !￺￻把球拿下來！"],"f":"把…勾取。"}]}],"stem":"rawis","t":"rawisen"}
+,"rawishan":{"h":[{"d":[{"e":["￹`Rawishan~ `ako~ `ko~ `kasa~ `ira~ `a~ `ni~`pateli~ `i~ `e~`to~.￺￻我就把他的斗笠勾取下來放在桌子上。"],"f":"就把…勾取下來。"}]}],"stem":"rawis","t":"rawishan"}
+,"rawraw":{"h":[{"d":[{"s":["`marawraw~"],"f":"無頭緒，慌亂，不知所措。"}]}],"t":"rawraw"}
+,"rawrawsa":{"h":[{"d":[{"e":["￹`Rawrawsa~ `ko~ `faloco'~ `ako~.￺￻我心裡亂糟糟的。"],"f":"處於亂糟糟的、無頭緒的狀況。"}]}],"stem":"rawraw","t":"rawrawsa"}
+,"ray":{"h":[{"d":[{"f":"感歎詞。啊呀，呀！"}]}],"t":"ray"}
+,"rayaray":{"h":[{"d":[{"e":["￹`Pina~ `a~ `rayaray~ `ko~ `masa'opoay~ `a~ `tamdaw~?￺￻集合的人排幾列？"],"f":"排列，佇列。"}]}],"t":"rayaray"}
+,"rayas":{"h":[{"d":[{"s":["`marayas~"],"f":"平直，保持水平線。"}]}],"t":"rayas"}
+,"rayic":{"h":[{"d":[{"f":"鐵絲。"}]}],"t":"rayic"}
+,"rayican":{"h":[{"d":[{"f":"鐵絲的品種。"}]}],"stem":"rayic","t":"rayican"}
+,"rayray":{"h":[{"d":[{"e":["￹`Sakatolo~ `a~ `rayray~ `no~ `to'as~ `ko~ `wama~ `ako~.￺￻我父親是第三代。","￹`Ca~ `ka~`hapinang~ `ko~ `rayray~ `no~ `kimad~ `iso~.￺￻你的講稿脈絡不清。"],"f":"順序，次序，脈絡。"}]}],"t":"rayray"}
+,"recep":{"h":[{"d":[{"s":["`mirecep~"],"f":"滲透，浸濕、深入。"}]}],"t":"recep"}
+,"recepen":{"h":[{"d":[{"e":["￹`Recepen~ `ko~ `paenan~.￺￻把地板浸濕。"],"f":"把…滲透、浸濕、深入。"}]}],"stem":"recep","t":"recepen"}
+,"recik":{"h":[{"d":[{"s":["`recing~","`mi~`recik~"],"f":"破碎，碎片。"}]}],"t":"recik"}
+,"reciken":{"h":[{"d":[{"s":["`recingen~"],"f":"把…弄碎、破碎。"}]}],"stem":"recik","t":"reciken"}
+,"recrec":{"h":[{"d":[{"f":"鐵箍。"}]}],"t":"recrec"}
+,"recrecen":{"h":[{"d":[{"e":["￹`Recrecen~ `ko~ `pa~`'etang~ `ako~ `to~ `raic~.￺￻把我的水桶箍上鐵絲。"],"f":"用鐵箍把…箍起來。"}]}],"stem":"recrec","t":"recrecen"}
+,"reda%27":{"h":[{"d":[{"s":["`mareda'~"],"f":"熟睡，沈睡。"}]}],"t":"reda'"}
+,"reda%27sa":{"h":[{"d":[{"e":["￹`Reda'sa~ `ko~ `wawa~ `iso~ `a~ `mafuti'~.￺￻你的小孩睡得很熟。"],"f":"處於熟睡、沈睡狀態。"}]}],"stem":"reda'","t":"reda'sa"}
+,"redat":{"h":[{"d":[{"s":["`maredat~"],"f":"傷口撕裂似的疼痛，疼痛難耐。"}]}],"t":"redat"}
+,"redek":{"h":[{"d":[{"f":"魔力，靈力，超自然的力量。"}]}],"t":"redek"}
+,"redes":{"h":[{"d":[{"s":["`lades~","`ma~`redes~"],"f":"發腫，感染。"}]}],"t":"redes"}
+,"redih":{"h":[{"d":[{"s":["`ma~`redih~"],"f":"因潰爛而裂開。"}]}],"t":"redih"}
+,"redo":{"h":[{"d":[{"s":["`mi~`redo~"],"f":"始終如一，首尾如一，堅定不移。"}]}],"t":"redo"}
+,"redoen":{"h":[{"d":[{"e":["￹`Redoen~ `ko~ `olah~ `iso~ `to~ `fafahi~.￺￻你對太太的愛要始終如一。"],"f":"把…執著、堅定、始終如一地執行。"}]}],"stem":"redo","t":"redoen"}
+,"refay":{"h":[{"d":[{"s":["`marefay~"],"f":"不緊，鬆弛，鬆懈。"}]}],"t":"refay"}
+,"refong":{"h":[{"d":[{"f":"坑，洞穴。"}]}],"t":"refong"}
+,"refongen":{"h":[{"d":[{"e":["￹`Refongen~ `ko~ `tapang~ `nora~ `kilang~ !￺￻把那棵樹幹打個洞吧！"],"f":"把…挖坑、挖洞，把…打個洞。"}]}],"stem":"refong","t":"refongen"}
+,"rekad":{"h":[{"d":[{"e":["￹`Cecay~ `a~ `rekad~ `ko~ `papalidingen~.￺￻要裝載一車。","￹`Pina~ `a~ `rekad~ `ko~ `tatiliden~ `ako~?￺￻我要寫幾段？","￹`Tolo~ `a~ `rekad~ `ko~ `ta~`tayni~ `a~ `tamdaw~ `anini~.￺￻今天要來三個團體。"],"f":"指一個完整的單元、單位，如一台車、一個段落、一個團體等。"}]}],"t":"rekad"}
+,"rekec":{"h":[{"d":[{"f":"結實，變硬。"}]}],"t":"rekec"}
+,"reken":{"h":[{"d":[{"s":["`mi~`recek~"],"f":"用手摁壓。"}]}],"t":"reken"}
+,"rekenen":{"h":[{"d":[{"e":["￹`Rekenen~ `to~ `ako~ `ko~ `sapad~.￺￻我把木板壓下去了。"],"f":"把…摁壓。"}]}],"stem":"reken","t":"rekenen"}
+,"reko":{"h":[{"d":[{"s":["`mireko~"],"f":"彎曲 , 弄彎。"}]}],"t":"reko"}
+,"rekoen":{"h":[{"d":[{"e":["￹`Aka~ `rekoen~ `ita~ `ko~ `limo'ot~ `ira~.￺￻我們不要屈從他的訓示。"],"f":"把…彎曲。"}]}],"stem":"reko","t":"rekoen"}
+,"rekoh":{"h":[{"d":[{"s":["`ma~`rekoh~"],"f":"賦閑，無所事事。"}]}],"t":"rekoh"}
+,"remes":{"h":[{"d":[{"s":["`'ilang~"],"f":"血，血迹。"}]}],"t":"remes"}
+,"remesan":{"h":[{"d":[{"f":"有血的地方，血型。"}]}],"stem":"remes","t":"remesan"}
+,"remo%27":{"h":[{"d":[{"s":["`'emo'~"],"f":"年糕，米糕。"}]}],"t":"remo'"}
+,"rena%27":{"h":[{"d":[{"s":["`ma~`rena'~"],"f":"(挑擔子繩子太長)碰撞地面，碰沾地。"}]}],"t":"rena'"}
+,"renac":{"h":[{"d":[{"s":["`mirenac~"],"f":"磨刀。"}]}],"t":"renac"}
+,"renacen":{"h":[{"d":[{"e":["￹`Renacen~ `koni~ `a~ `funus~ !￺￻把這把刀磨利吧！"],"f":"把…磨利、磨快。"}]}],"stem":"renac","t":"renacen"}
+,"renaf":{"h":[{"d":[{"s":["`mirenaf~"],"f":"塗抹，粉刷，彌漫。"}]}],"t":"renaf"}
+,"renafen":{"h":[{"d":[{"e":["￹`Renafen~ `ko~ `loma'~ `niyam~ `to~ `sarenaf~.￺￻給我們的房子刷上油漆。"],"f":"把…塗抹、粉刷、彌漫。"}]}],"stem":"renaf","t":"renafen"}
+,"renas":{"h":[{"d":[{"s":["`cadiw~"],"f":"磨利，磨快。"}]}],"t":"renas"}
+,"renasen":{"h":[{"d":[{"s":["`cadiw~`en~"],"f":"把(刀器)磨利、磨快。"}]}],"stem":"renas","t":"renasen"}
+,"renec":{"h":[{"d":[{"s":["`marenec~"],"f":"膩，滿足，過癮，知足。"}]}],"t":"renec"}
+,"rengec":{"h":[{"d":[{"s":["`mi~`rengc~"],"f":"切斷，剪斷。"}]}],"t":"rengec"}
+,"rengecen":{"h":[{"d":[{"e":["￹`Rengecen~ `koni~ `a~ `walay~ `to~ `kalatim~.￺￻用剪刀把這條線剪斷。"],"f":"把…切斷、剪斷。"}]}],"stem":"rengec","t":"rengecen"}
+,"renget":{"h":[{"d":[{"f":"紅帶子，頭飾。"}]}],"t":"renget"}
+,"rengorengosan":{"h":[{"d":[{"e":["￹`Iray~ `ko~ `loma'~ `ira~ `i~ `rengorengosan~.￺￻他的家在那草叢中。"],"f":"在草叢中。"}]}],"tag":"[疊 2]","stem":"rengos","t":"rengorengosan"}
+,"rengos":{"h":[{"d":[{"f":"草。"}]}],"t":"rengos"}
+,"rengreng":{"h":[{"d":[{"s":["`marengreng~"],"f":"火力大，火旺。"}]}],"t":"rengreng"}
+,"reni%27":{"h":[{"d":[{"s":["`ma~`reni'~"],"f":"輪胎氣不足而壓癟。"}]}],"t":"reni'"}
+,"renok":{"h":[{"d":[{"s":["`raod~","`mirenok~"],"f":"聚集接近，靠近，逗留"}]}],"t":"renok"}
+,"renoken":{"h":[{"d":[{"s":["`raoden~"],"e":["￹`Renoken~ `ko~ `loma'~ `ni~ `faki~.￺￻要到舅舅家逗留一下。"],"f":"向…接近、靠近，把…接近、靠近。"}]}],"stem":"renok","t":"renoken"}
+,"repalopalo":{"h":[{"d":[{"s":["`ma~`repalopalo~"],"f":"互相撞擊、碰撞。"}]}],"tag":"[疊 1]","stem":"palo","t":"repalopalo"}
+,"repat":{"h":[{"d":[{"s":["`mirepat~"],"f":"毀壞，損壞。"}]}],"t":"repat"}
+,"repaten":{"h":[{"d":[{"e":["￹`Aka~ `repaten~ `ko~ `maamaan~ `no~ `tao~.￺￻不要損壞別人的東西。"],"f":"把…弄壞、損壞。"}]}],"stem":"repat","t":"repaten"}
+,"repel":{"h":[{"d":[{"s":["`mirepel~"],"f":"圍住，追捕。"}]}],"t":"repel"}
+,"repelen":{"h":[{"d":[{"e":["￹`Repelen~ `ko~ `posi~.￺￻去追捕貓。"],"f":"把(某人或動物)圍住，追捕。"}]}],"stem":"repel","t":"repelen"}
+,"repet":{"h":[{"d":[{"s":["`lepet~","`fo'ot~","`mirepet~"],"f":"抓住，逮捕。"}]}],"t":"repet"}
+,"repeten":{"h":[{"d":[{"e":["￹`Repeten~ `no~ `tayhing~ `ko~ `mitakaway~ `a~ `tamdaw~.￺￻警察把小偷抓獲。"],"f":"把…抓住、逮捕。"}]}],"stem":"repet","t":"repeten"}
+,"reping":{"h":[{"d":[{"f":"隔壁，鄰居，旁邊。"}]}],"t":"reping"}
+,"repingen":{"h":[{"d":[{"e":["￹`Repingen~ `ko~ `lafang~ `a~ `ma~`ro~?￺￻把客人安排在隔壁住下。"],"f":"把…安排在隔壁、旁邊。"}]}],"stem":"reping","t":"repingen"}
+,"resap":{"h":[{"d":[{"s":["`miresap~"],"f":"慢慢移動，散播，彌漫，遊蕩。"}]}],"t":"resap"}
+,"resapen":{"h":[{"d":[{"f":"把…慢慢移動、散播開來。"}]}],"stem":"resap","t":"resapen"}
+,"resres":{"h":[{"d":[{"s":["`miresres~"],"f":"切絲，切細。"}]}],"t":"resres"}
+,"resresen":{"h":[{"d":[{"e":["￹`Resresen~ `ko~ `tamako~.￺￻切煙絲。","￹`Resresen~ `ko~ `dateng~.￺￻把菜切細。"],"f":"把…切絲、切細。"}]}],"stem":"resres","t":"resresen"}
+,"retep":{"h":[{"d":[{"s":["`mi~`retep~"],"f":"趕上，遇見。"}]}],"t":"retep"}
+,"retepen":{"h":[{"d":[{"e":["￹`Retepen~ `ko~ `dademak~ `ira~.￺￻一定要趕上他做的事情。"],"f":"把…趕上、遇見。"}]}],"stem":"retep","t":"retepen"}
+,"retes":{"h":[{"d":[{"s":["`ma~`retes~"],"f":"慢慢溢出、流出。"}]}],"t":"retes"}
+,"reti%27":{"h":[{"d":[{"s":["`mi~`reti'~"],"f":"鍛冶，冶煉。"}]}],"t":"reti'"}
+,"reti%27en":{"h":[{"d":[{"e":["￹`Reti'en~ `koni~ `a~ `fodawan~ !￺￻把這塊銅煉一下！"],"f":"把…冶煉、火煉。"}]}],"stem":"reti'","t":"reti'en"}
+,"retret":{"h":[{"d":[{"s":["`mi~`retret~"],"f":"用小刀慢慢切割。"}]}],"t":"retret"}
+,"retreten":{"h":[{"d":[{"f":"把…慢慢切割。"}]}],"stem":"retret","t":"retreten"}
+,"ri%27ang":{"h":[{"d":[{"s":["`ma~`ri''ang~"],"f":"兇惡，兇狠。"}]}],"t":"ri'ang"}
+,"ri%27erid":{"h":[{"d":[{"s":["`kerid~","`ridrid~","`ri'erir~","`mi~`ri'erid~"],"f":"領導，引導，帶頭。"}]}],"t":"ri'erid"}
+,"ri%27eriden":{"h":[{"d":[{"s":["`keriden~","`ridriden~","`ri'eriren~"],"f":"把…領導、引導、帶領。"}]}],"stem":"ri'erid","t":"ri'eriden"}
+,"ri%27erir":{"h":[{"d":[{"s":["`kerid~","`ridrid~","`ri'erid~"],"f":"領導，引導，帶領。"}]}],"t":"ri'erir"}
+,"ri%27eriren":{"h":[{"d":[{"s":["`keriden~","`ridriden~","`ri'eriden~"],"f":"把…領導、引導、帶領。"}]}],"stem":"ri'erir","t":"ri'eriren"}
+,"ri%27iw":{"h":[{"d":[{"s":["`mi~`ri'iw~"],"f":"染齒，刷牙。"}]}],"t":"ri'iw"}
+,"ri%27iwen":{"h":[{"d":[{"e":["￹`Ri'iwen~ `ko~ `wadis~ `ira~ !￺￻把他的牙齒刷一刷吧！"],"f":"把…染齒、刷牙。"}]}],"stem":"ri'iw","t":"ri'iwen"}
+,"ricaric":{"h":[{"d":[{"s":["`mi~`ricaric~"],"f":"搓手。"}]}],"t":"ricaric"}
+,"ricaricen":{"h":[{"d":[{"f":"把…搓擦。"}]}],"stem":"ricaric","t":"ricaricen"}
+,"ricawa%27":{"h":[{"d":[{"s":["`ma~`ricawa'~"],"f":"叉開雙腿坐。"}]}],"t":"ricawa'"}
+,"ricing":{"h":[{"d":[{"s":["`recik~","`mi~`ricing~"],"f":"碎片，破碎。"}]}],"t":"ricing"}
+,"ricingen":{"h":[{"d":[{"s":["`reciken~"],"f":"把…弄碎、破碎。"}]}],"stem":"ricing","t":"ricingen"}
+,"rideken":{"h":[{"d":[{"f":"對…施魔法、念咒。"}]}],"stem":"redek","t":"rideken"}
+,"ridrid":{"h":[{"d":[{"s":["`kerid~","`ri'erid~","`ri'rir~","`mi~`ridrid~"],"f":"領導，引導，帶路。"}]}],"t":"ridrid"}
+,"ridriden":{"h":[{"d":[{"s":["`keriden~","`ri'eriden~","`ri'eriren~"],"f":"把…領導、引導、帶路。"}]}],"stem":"ridrid","t":"ridriden"}
+,"rifowas":{"h":[{"d":[{"s":["`mi~`rifowas~"],"f":"撒過去，分散開。"}]}],"stem":"fowas","t":"rifowas"}
+,"rifowasen":{"h":[{"d":[{"e":["￹`Rifowasen~ `ko~ `tafok~ `i~ `lalan~.￺￻把沙子撒在路上。"],"f":"把…撒過去、分散開。"}]}],"stem":"fowas","t":"rifowasen"}
+,"rihaday":{"h":[{"d":[{"e":["￹`Rihaday~ `ko~ `faloco'~ `noya~ `kapah~ , `salaw~ `romadiw~ `ci~`nira~ `a~ `romakat~.￺￻小夥子心情很愉快，所以走路唱著歌。"],"f":"安逸，平和，愉快。"}]}],"t":"rihaday"}
+,"rihadayay":{"h":[{"d":[{"e":["￹`Rihadayay~ `ko~ `rumi'ad~ `nona~ `malitengay~.￺￻老人的日子很安逸的。"],"f":"安逸的，平和的，愉快的。"}]}],"stem":"rihaday","t":"rihadayay"}
+,"rihaked":{"h":[{"d":[{"e":["￹`Rihaked~ `kako~ `ci~`niran~.￺￻我信賴他。"],"f":"信任，信賴。"}]}],"t":"rihaked"}
+,"rihakeday":{"h":[{"d":[{"e":["￹`Rihakeday~ `kako~ `to~ `widang~ `ako~.￺￻我信任我的朋友的。"],"f":"信任了，信賴了。"},{"e":["￹`Rihakeday~ `a~ `tamdaw~.￺￻可信賴的人。"],"f":"指信任者，信賴者。"}]}],"stem":"rihaked","t":"rihakeday"}
+,"riharih":{"h":[{"d":[{"s":["`ma~`riharih~"],"f":"拖著地面移動，曳地而行。"}]}],"t":"riharih"}
+,"riharihan":{"h":[{"d":[{"s":["`pa~`riharihan~"],"f":"拖地、曳地的地方。"}]}],"stem":"riharih","t":"riharihan"}
+,"rihaw":{"h":[{"d":[{"s":["`marihaw~"],"f":"沙啞，嘶啞。"}]}],"t":"rihaw"}
+,"rihawak":{"h":[{"d":[{"s":["`ma~`rihawak~"],"f":"叉開腿。"}]}],"t":"rihawak"}
+,"rihi":{"h":[{"d":[{"s":["`rixi'~"],"f":"田埂，田岸。"}]}],"t":"rihi"}
+,"rihnac":{"h":[{"d":[{"s":["`mi~`rihnac~"],"f":"用舌頭舔。"}]}],"t":"rihnac"}
+,"rihnacen":{"h":[{"d":[{"e":["￹`Rihnacen~ `ho~ `kahecid~ `han~?￺￻舔一下，鹹嗎？"],"f":"把…舔一舔。"}]}],"stem":"rihnac","t":"rihnacen"}
+,"rikap":{"h":[{"d":[{"s":["`mi~`rikap~"],"f":"吊慰，吊唁。"}]}],"t":"rikap"}
+,"rikapen":{"h":[{"d":[{"f":"把…吊慰、吊唁。"}]}],"stem":"rikap","t":"rikapen"}
+,"rikec":{"h":[{"d":[{"e":["￹`Adihay~ `ko~ `rikec~ `no~ `katayalan~ `niyam~.￺￻我們公司的法則多。"],"f":"法則，法規，原則。"}]}],"t":"rikec"}
+,"rikit":{"h":[{"d":[{"s":["`mi~`rikit~"],"f":"跟腳兒，跟隨。"}]}],"t":"rikit"}
+,"rikiten":{"h":[{"d":[{"e":["￹`Rikiten~ `niyam~ `ci~`nira~ `a~ `romakat~.￺￻我們一定跟著他走。"],"f":"把…跟隨、跟從。"}]}],"stem":"rikit","t":"rikiten"}
+,"riko%27":{"h":[{"d":[{"e":["￹`Misamaanan~ `ko~ `riko'~ `iso~?￺￻你的衣服做成什麼樣子？","￹`Makapahay~ `koni~ `a~ `riko'~.￺￻這件衣服漂亮。"],"f":"衣服，衣物。"}]}],"t":"riko'"}
+,"rikom":{"h":[{"d":[{"f":"向內彎曲的動物角。"}]}],"t":"rikom"}
+,"rikor":{"h":[{"d":[{"s":["`ikor~"],"f":"以後，後面。"}]}],"t":"rikor"}
+,"rikoran":{"h":[{"d":[{"e":["￹`Rikoran~ `iso~ `'i~ ,`adada~ `ci~`nira~.￺￻你走以後，他病了。"],"f":"走以後，做某事以後。"}]}],"stem":"rikor","t":"rikoran"}
+,"rikorar":{"h":[{"d":[{"s":["`mi~`rikorar~"],"f":"回憶，重復他人所做的事。"}]}],"t":"rikorar"}
+,"rikoraren":{"h":[{"d":[{"e":["￹`Rikoraren~ `niyam~ `ko~ `romi'ad~ `no~ `to'as~.￺￻我們重復老一輩子的日子。"],"f":"回憶，把…重復。"}]}],"stem":"rikorar","t":"rikoraren"}
+,"rikowat":{"h":[{"d":[{"s":["`mirikowat~"],"f":"彎曲，弄彎。"}]},{"d":[{"s":["`mirikowat~"],"f":"把東西翻轉過來。"}]}],"t":"rikowat"}
+,"rikowaten":{"h":[{"d":[{"e":["￹`Aka~ `rikowaten~ `ko~ `sowal~.￺￻說話不要拐彎抹角。"],"f":"把…弄彎、彎曲。"}]},{"d":[{"f":"把…翻轉過來、翻過來。"}]}],"stem":"rikowat","t":"rikowaten"}
+,"rimadac":{"h":[{"d":[{"e":["￹`Rimadac~ `ko~ `papotal~ `niyam~ `to~ `namo~.￺￻我們的院子比你們的光滑。"],"f":"既平坦又光滑，平滑。"}]}],"t":"rimadac"}
+,"rimadacay":{"h":[{"d":[{"e":["￹`Rimadacay~ `ko~ `fanaw~ `i~ `'a'ayaw~ `no~ `loma'~ `ako~.￺￻我家前面的池塘平靜如鏡。"],"f":"平滑了，光滑了。"},{"e":["￹`Rimadacay~ `a~ `lryal~.￺￻平靜光亮的海。"],"f":"平滑的，光滑的。"}]}],"stem":"rimadac","t":"rimadacay"}
+,"rimood":{"h":[{"d":[{"e":["￹`Cecay~ `a~ `rimood~.￺￻一元。"],"f":"貨幣單位。元，圓。"}]}],"t":"rimood"}
+,"rina%27":{"h":[{"d":[{"s":["`mirina'~"],"f":"印刷，蓋章。"}]}],"t":"rina'"}
+,"rina%27en":{"h":[{"d":[{"e":["￹`Rina'en~ `ko~ `felih~ `na~ `codad~ `to~ `sarina'~!￺￻在書的背面蓋上印章吧！"],"f":"把…印刷、蓋章、出版。"}]}],"stem":"rina'","t":"rina'en"}
+,"rinafo":{"h":[{"d":[{"s":["`lafos~"],"f":"犁溝。"}]},{"d":[{"f":"準備做花圃、菜圃的地。"}]}],"t":"rinafo"}
+,"rinam":{"h":[{"d":[{"s":["`ma~`pac~"],"f":"遲到，落後；遲起。"}]}],"t":"rinam"}
+,"rinamay":{"h":[{"d":[{"f":"北斗星。"}]}],"t":"rinamay"}
+,"ringaring":{"h":[{"d":[{"s":["`miringaring~"],"f":"夕陽西下。"}]}],"t":"ringaring"}
+,"ringaringen":{"h":[{"d":[{"f":"太陽一定下山。"}]}],"stem":"ringaring","t":"ringaringen"}
+,"ringasa%27":{"h":[{"d":[{"f":"魚鰓。"}]}],"t":"ringasa'"}
+,"ringat":{"h":[{"d":[{"s":["`miringat~"],"f":"粘貼，沾上。"}]}],"t":"ringat"}
+,"ringaten":{"h":[{"d":[{"e":["￹`Ringaten~ `ko~ `padakopak~ `i~ `cafeng~.￺￻把紙貼在牆上。"],"f":"把…粘貼、沾上。"}]}],"stem":"ringat","t":"ringaten"}
+,"ringer":{"h":[{"d":[{"s":["`maringer~"],"f":"轉動，轉過來。"}]}],"t":"ringer"}
+,"ringi":{"h":[{"d":[{"s":["`rini~","`miringi~"],"f":"類似，酷似。"}]}],"t":"ringi"}
+,"ringid":{"h":[{"d":[{"f":"旁邊，側旁。"}]}],"t":"ringid"}
+,"ringien":{"h":[{"d":[{"s":["`rinien~"],"f":"把…模仿、複製。"}]}],"stem":"ringi","t":"ringien"}
+,"ringo":{"h":[{"d":[{"s":["`ngiro~","`miringo~"],"f":"烤火取暖。"}]}],"t":"ringo"}
+,"ringoen":{"h":[{"d":[{"e":["￹`Ringoen~ `noya~ `malitengay~ `ko~ `namal~ `i~ `parod~.￺￻老人在灶竈邊烤火取暖。"],"f":"把…烤火取暖。"}]}],"stem":"ringo","t":"ringoen"}
+,"ringring":{"h":[{"d":[{"s":["`miringring~"],"f":"炒(豆子)。"}]}],"t":"ringring"}
+,"ringringen":{"h":[{"d":[{"e":["￹`Ringringen~ `ko~ `kodasing~.￺￻把花生炒一炒。"],"f":"把…炒一炒。"}]}],"stem":"ringring","t":"ringringen"}
+,"rini":{"h":[{"d":[{"s":["`ringi~","`mi~`rini~"],"f":"類似，酷似。"}]}],"t":"rini"}
+,"rinien":{"h":[{"d":[{"s":["`ringien~"],"e":["￹`Aka~ `rinien~ `ko~ `ka~`romadiw~ `ira~ , `tatiih~ `a~ `nengnengen~ !￺￻不要模仿她唱歌的樣子，很難看的！"],"f":"把…模仿、複製。"}]}],"stem":"rini","t":"rinien"}
+,"rinom":{"h":[{"d":[{"f":"針。"}]}],"t":"rinom"}
+,"ripa%27":{"h":[{"d":[{"s":["`miripa'~"],"f":"踩踏。"}]}],"t":"ripa'"}
+,"ripa%27en":{"h":[{"d":[{"e":["￹`Aka~ `ripa'en~ `kako~ !￺￻不要踩我！"],"f":"把…踩踏。"}]}],"stem":"ripa'","t":"ripa'en"}
+,"ripa%27han":{"h":[{"d":[{"e":["￹`Ripa'han~ `ako~ `to~ `sa~`lipa'~ , `fengsa~ `a~ `mahoni~ `i~ `kemod~ `no~ `ofang~.￺￻我特地用腳掌一踩，洞裏好象有什麼東西嗡嗡地響起來。"],"f":"特地把…踩踏。"}]}],"stem":"ripa'","t":"ripa'han"}
+,"riparip":{"h":[{"d":[{"s":["`roparop~","`mi~`riparip~"],"f":"塗抹，沾抹。"}]}],"t":"riparip"}
+,"riparipen":{"h":[{"d":[{"s":["`roparopen~"],"f":"把…塗抹、沾抹。"}]}],"stem":"riparip","t":"riparipen"}
+,"riri%27":{"h":[{"d":[{"f":"蝗蟲，螞蚱。"},{"s":["`fafokod~"],"f":"餌食。"}]}],"t":"riri'"}
+,"risris":{"h":[{"d":[{"s":["`mi~`risris~"],"f":"剷除草根。"}]},{"d":[{"s":["`sarisris~"],"f":"模範，榜樣。"}]},{"d":[{"s":["`sirsir~","`silil~"],"f":"按順序整理、安排、分配。"}]}],"t":"risris"}
+,"risrisen":{"h":[{"d":[{"f":"把…剷草除根。"}]}],"stem":"risris","t":"risrisen"}
+,"ristolan":{"h":[{"d":[{"f":"餐廳、飯店〈英日語借詞〉。"}]}],"t":"ristolan"}
+,"riti":{"h":[{"d":[{"s":["`poki~"],"f":"女性生殖器。"}]}],"t":"riti"}
+,"riti%27":{"h":[{"d":[{"s":["`riti~"],"f":"女性生殖器，女陰。"}]}],"t":"riti'"}
+,"riting":{"h":[{"d":[{"s":["`mi~`riting~"],"f":"連接，勾住。"}]}],"t":"riting"}
+,"ritingen":{"h":[{"d":[{"f":"把…連接、勾住。"}]}],"stem":"riting","t":"ritingen"}
+,"ritos":{"h":[{"d":[{"s":["`miritos~"],"f":"抽出，抽籤。"}]}],"t":"ritos"}
+,"ritosen":{"h":[{"d":[{"e":["￹`Ritosen~ `to~ `ako~ `ko~ `vitos~.￺￻我已抽籤了。"],"f":"把…抽出、拔出。"}]}],"stem":"ritos","t":"ritosen"}
+,"ritrit":{"h":[{"d":[{"s":["`miritrit~"],"f":"割草。"}]}],"t":"ritrit"}
+,"ritriten":{"h":[{"d":[{"e":["￹`Ritriten~ `ko~ `panay~ `anini~.￺￻今天割稻子。"],"f":"把(稻、草)割去。"}]}],"stem":"ritrit","t":"ritriten"}
+,"riwac":{"h":[{"d":[{"f":"割肉的竹刀。"}]}],"t":"riwac"}
+,"riwacen":{"h":[{"d":[{"e":["￹`Riwacen~ `ko~ `titi~.￺￻把肉割下來。"],"f":"用竹刀把…割下來。"}]}],"stem":"riwac","t":"riwacen"}
+,"riwang":{"h":[{"d":[{"s":["`mi~`riwang~"],"f":"用木頭或竹子隔間。"}]}],"t":"riwang"}
+,"riwangen":{"h":[{"d":[{"e":["￹`Riwangen~ `ko~ `loma'~ `ako~ `to~ `'aol~ `a~ `cokis~.￺￻給我的房子用竹子隔間。"],"f":"給…做隔間。"}]}],"stem":"riwang","t":"riwangen"}
+,"riwariw":{"h":[{"d":[{"s":["`miriwariw~"],"f":"攪亂，擾亂。"}]}],"t":"riwariw"}
+,"riwariwen":{"h":[{"d":[{"e":["￹`Riwariwen~ `no~ `wawa~ `ko~ `nanom~ `no~ `tefon~.￺￻孩子把井水攪亂。","￹`Riwariwen~ `kora~ `mipawalian~ `i~ `fasolan~ `a~ `lamlo~.￺￻把曬在藤席上的小米攪一攪。"],"f":"把…攪亂、擾亂。"}]}],"stem":"riwariw","t":"riwariwen"}
+,"riwariwhan":{"h":[{"d":[{"e":["￹`Riwariwhan~ `ira~ `koya~ `cinamalay~ `a~ `'afo~ `a~ `mikorih~.￺￻他就把帶火的木炭攪得亂七八糟。"],"f":"特地把…攪亂、攪動。"}]}],"stem":"riwariw","t":"riwariwhan"}
+,"rixi%27":{"h":[{"d":[{"s":["`rihi~"],"f":"田埂。"}]}],"t":"rixi'"}
+,"riyad":{"h":[{"d":[{"s":["`liyad~"],"e":["￹`Sakalima~ `a~ `riyad~.￺￻第五章。"],"f":"指一個完整的單元，如章、節、課。"}]}],"t":"riyad"}
+,"riyaden":{"h":[{"d":[{"s":["`liyad~`en~"],"f":"把…連續、持續下去。"}]}],"stem":"riyad","t":"riyaden"}
+,"riyah":{"h":[{"d":[{"s":["`mariyah~"],"f":"東方欲曉，曙色。"}]}],"t":"riyah"}
+,"riyo":{"h":[{"d":[{"f":"女性手臂環。"}]}],"t":"riyo"}
+,"riyoan":{"h":[{"d":[{"f":"女性手臂環的種類。"}]}],"stem":"riyo","t":"riyoan"}
+,"ro%27is":{"h":[{"d":[{"s":["`rowis~","`ma~`ro'is~"],"f":"流(血、淚等)。"}]}],"t":"ro'is"}
+,"ro%27issa":{"h":[{"d":[{"s":["`rowissa~"],"e":["￹`Ro'issa~ `ko~ `losa'~ `ira~ `a~ `tomangic~.￺￻她哭得淚水汪汪的。"],"f":"處於流出來的狀態。"}]}],"stem":"ro'is","t":"ro'issa"}
+,"ro%27it":{"h":[{"d":[{"s":["`miro'it~"],"f":"收割小米。"}]}],"t":"ro'it"}
+,"ro%27iten":{"h":[{"d":[{"e":["￹`Ma~`ma'orad~ `ko~ `romi'ad~ , `aka~ `ro'iten~ !￺￻天要下雨了，不要收割小米！"],"f":"把(小米)收割。"}]}],"stem":"ro'it","t":"ro'iten"}
+,"rocek":{"h":[{"d":[{"s":["`mirocek~"],"f":"整個地、完整地擁有、佔有遺產。"}]}],"t":"rocek"}
+,"roceken":{"h":[{"d":[{"f":"把遺產完全擁有、佔有。"}]}],"stem":"rocek","t":"roceken"}
+,"rocewi":{"h":[{"d":[{"s":["`sapa~`'eciw~"],"f":"噓聲，吹哨聲。"}]}],"t":"rocewi"}
+,"rociwa%27":{"h":[{"d":[{"s":["`ma~`rociwa'~"],"f":"箕踞，一種不禮貌的坐姿。"}]}],"t":"rociwa'"}
+,"rocod":{"h":[{"d":[{"s":["`ma~`rocod~"],"f":"專心，專注。"}]}],"t":"rocod"}
+,"rocok":{"h":[{"d":[{"s":["`mirocok~"],"f":"遺傳，傳承。"}]}],"t":"rocok"}
+,"rocoken":{"h":[{"d":[{"e":["￹`Rocoken~ `ita~ `ko~ `nga'ayay~ `a~ `demak~.￺￻我們要把好的行為傳承下去。"],"f":"把…遺傳，傳承。"}]}],"stem":"rocok","t":"rocoken"}
+,"rodiheng":{"h":[{"d":[{"s":["`lodihang~"],"f":"回聲，回響。"}]}],"t":"rodiheng"}
+,"rodis":{"h":[{"d":[{"e":["￹`Ta'angayay~ `ko~ `rodis~ `anini~.￺￻今天浪濤很大。"],"f":"浪濤，波濤。"}]}],"t":"rodis"}
+,"roen":{"h":[{"d":[{"s":["`noer~","`mi~`roen~"],"f":"摁壓。"}]}],"t":"roen"}
+,"roenen":{"h":[{"d":[{"s":["`noeren~"],"e":["￹`Adadaay~ `ko~ `kolol~ `ako~ ,`roenen~ `hena~ !￺￻我背上疼痛，給我摁一摁吧！"],"f":"把…摁壓。"}]}],"stem":"roen","t":"roenen"}
+,"rofiyas":{"h":[{"d":[{"s":["`ma~`rofiyas~"],"f":"溢出。"}]}],"t":"rofiyas"}
+,"rofo":{"h":[{"d":[{"s":["`mirofo~"],"f":"坐牢、關閉，籠罩。"}]}],"t":"rofo"}
+,"rofoen":{"h":[{"d":[{"e":["￹`Rofoen~ `ko~ `maymay~,`komaen~ `na~ `to~ `panay~.￺￻要把鴨子關起來，免得吃稻子。"],"f":"把…關閉、籠罩。"}]}],"stem":"rofo","t":"rofoen"}
+,"roharoh":{"h":[{"d":[{"s":["`coracor~","`miroharoh~"],"f":"催促，敦促，逼迫。"}]}],"t":"roharoh"}
+,"roharohen":{"h":[{"d":[{"s":["`coracor~"],"e":["￹`Roharohen~ `ko~ `wawa~ `a~ `papi~`mitilid~.￺￻催孩子去學習。"],"f":"把…催促、逼迫去做事。"}]}],"stem":"roharoh","t":"roharohen"}
+,"rohem":{"h":[{"d":[{"s":["`marohem~"],"f":"指果實成熟。"}]}],"t":"rohem"}
+,"rohnac":{"h":[{"d":[{"s":["`dihnac~","`kohnac~"],"f":"光滑。"}]}],"t":"rohnac"}
+,"rohnacay":{"h":[{"d":[{"f":"光滑了。"},{"s":["`dihnacay~","`kohnacay~"],"f":"光滑的。"}]}],"stem":"rohnac","t":"rohnacay"}
+,"roho":{"h":[{"d":[{"s":["`maroho~"],"f":"彎腰，蹲踞。"}]}],"t":"roho"}
+,"rohof":{"h":[{"d":[{"s":["`mirohof~"],"f":"居喪。"}]}],"t":"rohof"}
+,"rohofen":{"h":[{"d":[{"f":"把…居喪守孝。"}]}],"stem":"rohof","t":"rohofen"}
+,"rohorohosa":{"h":[{"d":[{"e":["￹`Rohorohosa~ `ci~`nira~ `a~ `maomah~.￺￻他彎腰作農事。","￹`Rohos~ `sa~ `ko~ `wama~ `ira~ `a~ `mihanek~ `ta~ `ciyak~.￺￻他父親彎下腰去聞那南瓜。"],"f":"一直處於彎腰。"}]}],"tag":"[疊 1]","stem":"roho","t":"rohorohosa"}
+,"rohroh":{"h":[{"d":[{"s":["`marohroh~"],"f":"指火力噴發的響聲，隆隆聲。"}]}],"t":"rohroh"}
+,"rokawit":{"h":[{"d":[{"s":["`mi~`rokawit~"],"f":"鈎，鈎住。"}]}],"t":"rokawit"}
+,"rokawiten":{"h":[{"d":[{"e":["￹`Rokawiten~ `ira~ `ko~ `riko'~ `iso~.￺￻他把你的衣服鈎住。"],"f":"把…鈎住。"}]}],"stem":"kawit","t":"rokawiten"}
+,"rokic":{"h":[{"d":[{"s":["`mirokic~"],"f":"撒嬌刁難，為難。"}]}],"t":"rokic"}
+,"rokicen":{"h":[{"d":[{"e":["￹`Aka~ `rokicen~ `ko~ `nga'ayay~ `a~ `tamdaw~.￺￻不要為難好人。"],"f":"撒嬌把…刁難、為難。"}]}],"stem":"rokic","t":"rokicen"}
+,"rokicsa":{"h":[{"d":[{"e":["￹`Rokicsa~ `ci~`nira~ `kitaanan~.￺￻他對我們那麼刁難。"],"f":"呈撒嬌刁難、為難的狀態 , 刁難著。"}]}],"stem":"rokic","t":"rokicsa"}
+,"rokirok":{"h":[{"d":[{"s":["`mi~`rokirok~"],"f":"使勁，出力，激烈。"}]}],"t":"rokirok"}
+,"rokiroken":{"h":[{"d":[{"e":["￹`Rokiroken~ `iso~ `a~ `mi'iwas~ `ko~ `tamina~ !￺￻請你使勁划船！"],"f":"請使勁、出力，使勁、出力把…做。"}]}],"stem":"rokirok","t":"rokiroken"}
+,"rokirokhan":{"h":[{"d":[{"f":"特別地把…用力、出力、使勁(做)。"}]}],"stem":"rokirok","t":"rokirokhan"}
+,"rokitac":{"h":[{"d":[{"s":["`mirokitac~"],"f":"伸長，延長，拉長。"}]}],"t":"rokitac"}
+,"rokitacen":{"h":[{"d":[{"e":["￹`Rokitacen~ `ko~ `ni~`palalan~`an~ `niyam~ `toya~ `iraay~.￺￻要把我們修築的道路延伸到遠處。"],"f":"把…伸長、延長、拉長。"}]}],"stem":"rokitac","t":"rokitacen"}
+,"rokoh":{"h":[{"d":[{"s":["`marokoh~"],"f":"舊病復發。"}]}],"t":"rokoh"}
+,"rokrok":{"h":[{"d":[{"s":["`mirokrok~"],"f":"(水)沸騰。"}]}],"t":"rokrok"}
+,"rokroken":{"h":[{"d":[{"e":["￹`Rokroken~ `ko~ `nanom~!￺￻把水煮開吧！"],"f":"把…煮開、沸騰。"}]}],"stem":"rokrok","t":"rokroken"}
+,"roma":{"h":[{"d":[{"e":["￹`O~ `roma~ `tamdaw~ `'i~ `maolah~ `ci~`nira~`an~ , `o~ `roma~ `'i~ `caay~ `kaolah~.￺￻有別的人喜歡他，也有的人不喜歡。"],"f":"別的，另外。"},{"e":["￹`O~ `roma~ `sato~ , `mafana'~ `ko~ `ka~`emangay~ `no~ `'Amis~ `a~ `patado~ `to~ `mato'asay~ `a~ `mi'orong~ `to~ `'inorong~.￺￻此外，阿美族少年會體恤老年人，常替代年長者挑東西。"],"f":"此外，除此以外。"},{"e":["￹`To~ `roma~ `'i~ `mararom~ `kako~.￺￻有時候，我感到悲傷。","￹`O~ `roma~ `a~ `romi'ad~ `tayniay~ `aca~ `ci~`nira~.￺￻另一天，他又來了。"],"f":"有時候，另一天。"}]}],"t":"roma"}
+,"romadiw":{"h":[{"d":[{"e":["￹`Maolah~ `ko~ `kaying~ `a~ `romadiw~.￺￻姑娘喜歡唱歌。"],"f":"唱歌，歌唱。"}]}],"stem":"radiw","t":"romadiw"}
+,"romadiway":{"h":[{"d":[{"e":["￹`Romadiway~ `canira~.￺￻他們在唱歌。"],"f":"唱歌了，唱著歌。"},{"f":"指唱歌者，歌手。"}]}],"stem":"radiw","t":"romadiway"}
+,"romakat":{"h":[{"d":[{"e":["￹`Romakat~ `canira~ `a~ `tayni~.￺￻他們走路來。"],"f":"走路，行走。"}]}],"stem":"rakat","t":"romakat"}
+,"romakatay":{"h":[{"d":[{"e":["￹`Romakatay~ `ko~ `lafang~ `a~ `ma~`emin~.￺￻客人都用走的。"],"f":"走著，行走了。"},{"f":"指行走者。"}]}],"stem":"rakat","t":"romakatay"}
+,"romaroma":{"h":[{"d":[{"e":["￹`O~ `romaroma~ `ko~ `niyaro'~ `ita~.￺￻我們的村莊各具特色。","￹`Adihayay~ `ko~ `romaroma~ `a~ `camol~ `nona~ `hemay~ `a~ `felac~ , `salaw~ `'acekaw~ `cakanga'ay~ `a~ `kaenen~.￺￻糯米飯的種種雜質很多，所以很硬，不好吃。"],"f":"泛指其他種種不同的。"}]}],"tag":"[疊 1]","stem":"roma","t":"romaroma"}
+,"romi%27ad":{"h":[{"d":[{"f":"白天，白晝。"},{"e":["￹`Iraay~ `ko~ `romi'ad~ `iso~ `han~?￺￻你有時間嗎？"],"f":"時間。"},{"e":["￹`Ma~`samaan~ `ko~ `romi'ad~ `anini~?￺￻今天天氣如何？"],"f":"天氣。"}]}],"t":"romi'ad"}
+,"romi%27ami%27ad":{"h":[{"d":[{"e":["￹`Mitilid~ `kami~ `to~ `no~ `'Amis~ `a~ `sowal~ `to~ `romi'ami'ad~.￺￻我們天天學習阿美族語。"],"f":"天天，每一天。"}]}],"tag":"[疊 1]","stem":"romi'ad","t":"romi'ami'ad"}
+,"romic":{"h":[{"d":[{"s":["`rotaroto~","`mi~`romic~"],"f":"用手揉搓。"}]}],"t":"romic"}
+,"romicen":{"h":[{"d":[{"s":["`rotaroten~"],"e":["￹`Romicen~ `ko~ `tarof~ `ako~ `a~ `mifaca'~ !￺￻把我的被子洗一洗吧！"],"f":"把…揉搓。"}]}],"stem":"romic","t":"romicen"}
+,"romirom":{"h":[{"d":[{"s":["`ma~`romirom~"],"f":"火苗即將熄滅忽時明忽暗的樣子。"}]}],"t":"romirom"}
+,"romoho":{"h":[{"d":[{"e":["￹`Romoho~ `kora~ `malitengay~ `a~ `romakat~.￺￻那個老人彎腰走著。"],"f":"彎腰，蹲踞。"}]}],"stem":"roho","t":"romoho"}
+,"romohoay":{"h":[{"d":[{"e":["￹`Romohoay~ `ci~`nira~ `i~ `awtal~ `a~ `ni~`tamako~.￺￻他蹲在屋外吸煙。"],"f":"彎腰了，蹲踞著。"},{"e":["￹`Ci~ `wama~ `ko~ `romohoay~ `han~?￺￻蹲著的是父親嗎？"],"f":"指彎腰者，蹲踞者。"}]}],"stem":"roho","t":"romohoay"}
+,"romot":{"h":[{"d":[{"s":["`ringawet~","`maromot~"],"f":"狹窄，縮小，路窄。"}]}],"t":"romot"}
+,"romrom":{"h":[{"d":[{"s":["`miromrom~"],"f":"點燃火。"}]}],"t":"romrom"}
+,"romromen":{"h":[{"d":[{"e":["￹`Romromen~ `no~ `kapah~ `ko~ `namal~ `i~ `awtal~ `no~ `sefi~.￺￻青年在會所外面把火點燃。","￹`Romromen~ `ko~ `namal~ ,`ma~`makero~ `kami~ !￺￻點上篝火吧，我們要跳舞了！"],"f":"把…點燃。"}]}],"stem":"romrom","t":"romromen"}
+,"ronang":{"h":[{"d":[{"s":["`mironang~"],"f":"沼澤，泥塘，池塘。"}]}],"t":"ronang"}
+,"ronem":{"h":[{"d":[{"s":["`fadem~"],"f":"墳地，墳墓。"}]}],"t":"ronem"}
+,"rongawit":{"h":[{"d":[{"s":["`korawit~","`mirongawit~"],"f":"用工具勾取東西。"}]}],"stem":"ngawit","t":"rongawit"}
+,"rongawiten":{"h":[{"d":[{"s":["`korawiten~"],"f":"把…勾取。"}]}],"stem":"ngawit","t":"rongawiten"}
+,"rongoh":{"h":[{"d":[{"s":["`ma~`rongoh~"],"f":"低語，交頭接耳說話。"}]}],"t":"rongoh"}
+,"rongorongohsa":{"h":[{"d":[{"e":["￹`Rongorongohsa~ `canira~ `a~ `caciyaw~.￺￻他們在交頭接耳講話。"],"f":"處於交頭接耳的狀況。"}]}],"tag":"[疊 1]","stem":"rongoh","t":"rongorongohsa"}
+,"roni":{"h":[{"d":[{"f":"絲瓜。"}]}],"t":"roni"}
+,"ronic":{"h":[{"d":[{"s":["`lonic~","`mironic~"],"f":"揉搓。"}]}],"t":"ronic"}
+,"ronicen":{"h":[{"d":[{"f":"把…揉搓。"}]}],"stem":"ronic","t":"ronicen"}
+,"ronirom":{"h":[{"d":[{"s":["`ka~`ronirom~"],"f":"刺桐樹。"}]}],"t":"ronirom"}
+,"ronong":{"h":[{"d":[{"f":"鯉魚。"}]}],"t":"ronong"}
+,"roparop":{"h":[{"d":[{"s":["`riparip~","`miroparop~"],"f":"塗抹，沾抹。"}]}],"t":"roparop"}
+,"roparopen":{"h":[{"d":[{"s":["`riparipen~"],"e":["￹`Roparopen~ `ko~ `laway~ `ira~ `to~ `sota'~ !￺￻給他臉上抹泥巴！"],"f":"把…塗抹。"}]}],"stem":"roparop","t":"roparopen"}
+,"roparophan":{"h":[{"d":[{"f":"特地把…塗抹。"}]}],"stem":"roparop","t":"roparophan"}
+,"ropay":{"h":[{"d":[{"s":["`miropay~"],"f":"攤平，整平。"}]}],"t":"ropay"}
+,"ropayen":{"h":[{"d":[{"e":["￹`Adihayay~ `ko~ `fokeloh~ `itini~ , `ca~ `ka~`nga'ay~ `a~ `ropayen~.￺￻這裏石頭多，不容易弄平。"],"f":"把…攤平、整平。"}]}],"stem":"ropay","t":"ropayen"}
+,"ropera":{"h":[{"d":[{"s":["`ma~`ropera~"],"f":"指堆積雜物的樣子。"}]}],"t":"ropera"}
+,"ropesa%27":{"h":[{"d":[{"s":["`ma~`ropesa'~"],"f":"濺濕。"}]}],"t":"ropesa'"}
+,"rorang":{"h":[{"d":[{"f":"構樹，俗稱“鹿子樹”。"}]}],"t":"rorang"}
+,"roray":{"h":[{"d":[{"s":["`maroray~"],"f":"疲倦，勞累，辛苦。"}]}],"t":"roray"}
+,"roriyac":{"h":[{"d":[{"s":["`torirac~"],"f":"滑倒，打個趔趄。"}]}],"t":"roriyac"}
+,"roriyacay":{"h":[{"d":[{"f":"滑倒了。"},{"s":["`toriyacay~"],"f":"指滑倒者。"}]}],"stem":"roriyac","t":"roriyacay"}
+,"rorod":{"h":[{"d":[{"s":["`mirorod~"],"f":"追蹤，跟蹤。"}]}],"t":"rorod"}
+,"rorodan":{"h":[{"d":[{"s":["`pirorodan~"],"f":"追蹤的地方。"}]}],"stem":"rorod","t":"rorodan"}
+,"roroden":{"h":[{"d":[{"e":["￹`Roroden~ `niyam~ `canira~.￺￻我們把他們追蹤。"],"f":"把…追蹤、追隨。"}]}],"stem":"rorod","t":"roroden"}
+,"rorodhan":{"h":[{"d":[{"e":["￹`Rorodhan~ `noya~ `waco~ `koya~ `nalikolan~ `no~ `fafoy~.￺￻那條狗就特地追蹤山豬的的腳迹。"],"f":"特地把…追蹤。"}]}],"stem":"rorod","t":"rorodhan"}
+,"roroh":{"h":[{"d":[{"s":["`loloh~","`mi~`roroh~"],"f":"怪罪、遷怒他們。"}]}],"t":"roroh"}
+,"rorohen":{"h":[{"d":[{"s":["`lolohen~"],"f":"把…怪罪他人、遷怒。"}]}],"stem":"roroh","t":"rorohen"}
+,"rorong":{"h":[{"d":[{"e":["￹`Tolo~ `a~ `rorong~ `ko~ `'asisiw~.￺￻三捆稻草。"],"f":"捆成捆兒。"}]}],"t":"rorong"}
+,"rorongen":{"h":[{"d":[{"e":["￹`Rorongen~ `ko~ `panay~.￺￻把稻子捆起來。"],"f":"把…捆成捆兒。"}]}],"stem":"rorong","t":"rorongen"}
+,"rorox":{"h":[{"d":[{"f":"指翻修房子所遺棄的舊茅草。"},{"f":"loloh。"}]}],"t":"rorox"}
+,"rosaros":{"h":[{"d":[{"s":["`mirosaros~"],"f":"鋸東西。"}]}],"t":"rosaros"}
+,"rosarosen":{"h":[{"d":[{"e":["￹`Rosarosen~ `koni~ `a~ `sapad~.￺￻把這塊木板鋸掉。"],"f":"把…鋸斷。"}]}],"stem":"rosaros","t":"rosarosen"}
+,"rosok":{"h":[{"d":[{"f":"蠟燭。"}]}],"tag":"[日語借詞]","t":"rosok"}
+,"rosolisolit":{"h":[{"d":[{"s":["`ma~`rosolisolit~"],"f":"爭先恐後，競爭。"}]}],"tag":"[疊 1]","stem":"solit","t":"rosolisolit"}
+,"rosolisolitsa":{"h":[{"d":[{"e":["￹`Rosolisolitsa~ `ko~ `kolong~ `a~ `mahadak~ `nani~`pakolongan~.￺￻牛爭先恐後地從牛棚裡出來。"],"f":"爭先恐後地，競爭。"}]}],"tag":"[疊 1]","stem":"solit","t":"rosolisolitsa"}
+,"rotarot":{"h":[{"d":[{"s":["`romic~","`mi~`rotarot~"],"f":"用手揉搓。"}]}],"t":"rotarot"}
+,"rotaroten":{"h":[{"d":[{"s":["`romicen~"],"f":"把…揉搓。"}]}],"stem":"rotarot","t":"rotaroten"}
+,"roto":{"h":[{"d":[{"f":"背袋，背包，網兜。"}]}],"t":"roto"}
+,"rowak":{"h":[{"d":[{"f":"海鰻。"}]}],"t":"rowak"}
+,"rowis":{"h":[{"d":[{"s":["`ro'is~"],"f":"流(血、汗等)。"}]}],"t":"rowis"}
+,"rowissa":{"h":[{"d":[{"s":["`ro'issa~"],"e":["￹`Rowissa~ `ko~ `losa'~ `ira~.￺￻他的眼淚情不自禁地流出來。"],"f":"情不自禁地流出來。"}]}],"stem":"rowis","t":"rowissa"}
+}

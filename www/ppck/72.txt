@@ -1,0 +1,3 @@
+{"Harawan":{"h":[{"d":[{"s":["`harawan~"],"f":"￹￺Refer to `harawan~￻詳見 `harawan~"}]}],"t":"Harawan"}
+,"Holam":{"h":[{"d":[{"s":["`holam~"],"f":"￹￺Refer to `holam~￻詳見 `holam~"}]}],"t":"Holam"}
+}

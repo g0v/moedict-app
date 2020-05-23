@@ -1,4 +1,4 @@
-#Sat Sep 01 10:15:53 CST 2018
-base.0=/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Sat May 23 18:03:40 CEST 2020
+base.0=/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
-file.0=/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
+file.0=/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

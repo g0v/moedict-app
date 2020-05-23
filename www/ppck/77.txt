@@ -1,0 +1,6 @@
+{"Mancelan":{"h":[{"d":[{"s":["`Ma~`ngcelan~"],"f":"￹￺Refer to `Mangcelan~￻詳見 `Mangcelan~"}]}],"t":"Mancelan"}
+,"Mangcelan":{"h":[{"d":[{"s":["`Ma~`ncelan~"],"f":"￹￺name of an Amis village￻玉里松浦村之名"}]}],"t":"Mangcelan"}
+,"Matadim":{"h":[{"d":[{"s":["`matadim~"],"f":"￹￺Refer to `matadim~￻詳見 `matadim~"}]}],"t":"Matadim"}
+,"Mingkok":{"h":[{"d":[{"s":["`holam~"],"f":"￹￺Refer to `holam~￻詳見 `holam~"}]}],"t":"Mingkok"}
+,"Molisaka":{"h":[{"d":[{"s":["`molisaka~"],"f":"￹￺Refer to `molisaka~￻詳見 `molisaka~"}]}],"t":"Molisaka"}
+}

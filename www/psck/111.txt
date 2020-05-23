@@ -1,0 +1,102 @@
+{"o":{"h":[{"d":[{"f":"阿美語母音之一。屬舌面圓唇母音，音值為 [ o ~ u ]，有 [ u、o ] 等變體。單獨作詞首或詞尾時喉塞化。"}]}],"t":"o"}
+,"o%20honi%20to%20noyanan":{"h":[{"d":[{"e":["￹`O~ `honi~ `to~ `noyanan~ `ira~ `koya~ `siri~ `paka~`yni~ `a~ `romakat~.￺￻過了一會兒，有隻羊經過這裏。"],"f":"( 短語。) 從那時起，過了一會兒。"}]}],"t":"o honi to noyanan"}
+,"o%20roma%20sato":{"h":[{"d":[{"f":"( 短語。)"},{"e":["￹`O~ `roma~ `sato~ `icowaay~ `ko~ `kofa~ `namo~ `itini~?￺￻另外，你們的鎮公所在哪裡呢？","￹`O~ `roma~ `sato~ `ano~ `maro'~ `icowacowa~ `'i~ , `caay~ `ka~`nga'ay~ `a~ `miki'ayaw~ `to~ `kamaro'an~ `no~ `tao~.￺￻舉例說吧，不管在哪裡坐，都不能去搶他人的座位。"],"f":"另外，舉例說。"},{"e":["￹`Onini~ `a~ `Malataw~ `i~, `o~ `mi~`'adahay~ `to~ `adada~ `a~ `kawas~, `o~ `milooday~ `a~ `kawas~, `o~ `roma~ `sato~ `o~ `pinokayan~ `no'orip~ `no~ `tamdaw~ `sanay~ `ko~ `latoh~ `no~ `to'as~.￺￻根據神話傳說這位 Malataw(瑪拉道)神，是治病之神，是戰鬥之神，而且是人生的歸宿所在。"],"f":"而且，況且。"}]}],"t":"o roma sato"}
+,"o%27edengan":{"h":[{"d":[{"e":["￹`O'edengan~ `kiso~ `ko~ `taira~, `cowa~ `ka~`taira~ `ko~ `tao~.￺￻只有你去，別人不去。","￹`O'edengan~ `kita~ `tatosa~ `ko~ `mitamakoay~.￺￻只有我們兩人吸煙。","￹`O'edengan~ `a~ `nga'ayay~ `a~ `widang~ `ako~ `ci~`nira~.￺￻他是我唯一的好朋友。"],"f":"只有，僅有，惟有。"}]}],"stem":"'edeng","t":"o'edengan"}
+,"ociya":{"h":[{"d":[{"f":"茶，茶葉。"}]}],"tag":"[日語借詞]","t":"ociya"}
+,"ocoli":{"h":[{"d":[{"f":"找零〈日語借詞〉。"}]},{"d":[{"f":"零錢，找錢。"}]}],"t":"ocoli"}
+,"ocor":{"h":[{"d":[{"f":"派遣，差遣；命令，打發。"}]}],"t":"ocor"}
+,"ocoren":{"h":[{"d":[{"e":["￹`Ocoren~ `ko~ `wawa~ `iso~.￺￻命令你的孩子去吧！","￹`Ocoren~ `no~ `kawas~ `ci~ `Yso~.￺￻上帝把耶穌派遣去。","￹`Maraod~ `ko~ `kalahokan~ , `ocoren~ `ko~ `cecay~ `a~ `tamdaw~ `papiala~ `to~ `sakalahok~.￺￻到午餐時間，打發一個人去取午餐。"],"f":"把…派遣、差遣、打發。"}]}],"stem":"ocor","t":"ocoren"}
+,"ocyaya":{"h":[{"d":[{"s":["`ucyaya~"],"f":"茶室，妓女戶〈日語借詞〉。"}]}],"t":"ocyaya"}
+,"odas":{"h":[{"d":[{"f":"腿骨，脛骨，股骨。"}]}],"t":"odas"}
+,"odo%27":{"h":[{"d":[{"e":["￹`Odo'~ `no~ `fidac~.￺￻蚌珠。"],"f":"瑪瑙，翡翠。"}]}],"t":"odo'"}
+,"ofa":{"h":[{"d":[{"f":"大衣〈日語借詞〉。"}]}],"t":"ofa"}
+,"ofang":{"h":[{"d":[{"s":["`'epong~","`fohang~"],"e":["￹`Ofang~ `no~ `ngoso'~.￺￻鼻孔。","￹`Ofang~ `no~ `riko'~.￺￻衣服的破洞。"],"f":"洞穴，孔眼，窟窿。"}]}],"t":"ofang"}
+,"ofasang":{"h":[{"d":[{"f":"姑媽，舅媽〈日語借詞〉。"}]}],"t":"ofasang"}
+,"ofin":{"h":[{"d":[{"s":["`paofinan~"],"f":"郵件，郵信，信件。"}]}],"tag":"[日語借詞]","t":"ofin"}
+,"oh":{"h":[{"d":[{"f":"驚歎詞。表示驚歎、驚訝、驚奇。"}]}],"t":"oh"}
+,"ohot":{"h":[{"d":[{"s":["`maohot~"],"f":"耽誤，延誤。"}]}],"t":"ohot"}
+,"ok%27okhan":{"h":[{"d":[{"e":["￹`Ca~ `to~ `ka~`'emet~ `ko~ `sakakomaenaw~ `ira~ , `ok'okhan~ `to~ `ira~ `koya~ `'epah~ `a~ `komaen~.￺￻他忍不住想喝，就大口大口地把酒喝了。"],"f":"特地把…吞飲。"}]}],"stem":"'ok'ok","t":"ok'okhan"}
+,"okang":{"h":[{"d":[{"s":["`ukang~"],"f":"公牛〈閩南語借詞〉。"}]},{"d":[{"f":"公牛。(閩南話借詞)。"},{"e":["￹`Okang~ `a~ `^efa~.￺￻公馬。","￹`Okang~ `a~ `siri~.￺￻公羊。"],"f":"公的，雄性。"}]}],"t":"okang"}
+,"okos":{"h":[{"d":[{"s":["`maokos~"],"f":"炫耀，誇耀。"}]}],"t":"okos"}
+,"okosen":{"h":[{"d":[{"f":"把(向)…炫耀、誇耀。"}]}],"stem":"okos","t":"okosen"}
+,"olah":{"h":[{"d":[{"f":"愛，喜愛，喜歡。"}]}],"t":"olah"}
+,"olahen":{"h":[{"d":[{"e":["￹`Olahen~ `ko~ `wawa~ `iso~ !￺￻一定要愛你的孩子！"],"f":"把…喜愛、喜歡，要愛，必須愛。"}]}],"stem":"olah","t":"olahen"}
+,"olat":{"h":[{"d":[{"f":"血脈，腱子，筋。"}]}],"t":"olat"}
+,"olatek":{"h":[{"d":[{"s":["`maolatek~"],"f":"過份，過量，超過限度。"}]}],"t":"olatek"}
+,"oles":{"h":[{"d":[{"f":"野狼。"}]}],"t":"oles"}
+,"oli":{"h":[{"d":[{"f":"打發，派遣。"}]}],"t":"oli"}
+,"oli%27":{"h":[{"d":[{"e":["￹`Oli'~ `piradom~ `to~ !￺￻去吧，去打水！"],"f":"感歎詞。表示打發、命令等意義；也用於表示驅趕、吆喝牲口。"}]}],"t":"oli'"}
+,"olien":{"h":[{"d":[{"f":"把…打發、派遣。"}]}],"stem":"oli","t":"olien"}
+,"olif":{"h":[{"d":[{"f":"橄欖樹。"}]}],"tag":"[日語借詞]","t":"olif"}
+,"olili":{"h":[{"d":[{"e":["￹`Olili~ `pipakaen~ `to~ `kolong~!￺￻去吧，去放牛！"],"f":"感歎詞。表示招呼或邀請他人前往。請去，去吧。"}]}],"t":"olili"}
+,"olin":{"h":[{"d":[{"f":"絆倒，摔倒，跌倒。"}]}],"t":"olin"}
+,"olinen":{"h":[{"d":[{"s":["`mi~`olin~"],"f":"把…摔倒、絆倒。"}]}],"stem":"olin","t":"olinen"}
+,"olokang":{"h":[{"d":[{"f":"風琴〈英日語借詞〉。"}]}],"t":"olokang"}
+,"omah":{"h":[{"d":[{"f":"農田，田地，田園。"}]}],"t":"omah"}
+,"omaing":{"h":[{"d":[{"f":"柔軟，柔弱，軟弱無力。"}]}],"t":"omaing"}
+,"omaingay":{"h":[{"d":[{"f":"柔軟了，柔弱了，軟弱無力了。"},{"s":["`komaing~","`komaingay~"],"f":"指柔軟、柔弱、軟弱無力的(東西)。"}]}],"stem":"omaing","t":"omaingay"}
+,"omi":{"h":[{"d":[{"f":"烏梅。"},{"f":"梅花"}]}],"tag":"[日語借詞]","t":"omi"}
+,"omi%27":{"h":[{"d":[{"s":["`maomi'~"],"f":"柔軟，柔順，仁慈；凋謝。"}]}],"t":"omi'"}
+,"ona":{"h":[{"d":[{"s":["`oni~","`onini~"],"f":"指示代詞，基本格。oni 與 a 的連讀形態。(是)這，這個，這些。"}]}],"t":"ona"}
+,"onaon":{"h":[{"d":[{"s":["`maonaon~"],"f":"流水緩慢。"}]}],"t":"onaon"}
+,"oncing":{"h":[{"d":[{"f":"運費〈日語借詞〉。"}]}],"t":"oncing"}
+,"ongay":{"h":[{"d":[{"s":["`lotong~"],"f":"猿猴，猴子。"}]}],"t":"ongay"}
+,"ongiyong":{"h":[{"d":[{"s":["`ongong~"],"e":["￹`Ongiyong~ `soko~ `tangic~ `nora~ `faki~ `to~ `patay~ `no~ `fafahi~ `ningra~.￺￻那位舅舅因妻子過世而號啕大哭。"],"f":"哭泣聲，號啕大哭。"}]}],"t":"ongiyong"}
+,"ongiyongsa":{"h":[{"d":[{"s":["`ongongsa~"],"f":"處於嗚嗚哭泣的狀態。"}]}],"stem":"ongiyong","t":"ongiyongsa"}
+,"ongkak":{"h":[{"d":[{"f":"音樂〈日語借詞〉。"}]}],"t":"ongkak"}
+,"ongkaktay":{"h":[{"d":[{"f":"音樂隊〈日語借詞〉。"}]}],"t":"ongkaktay"}
+,"ongong":{"h":[{"d":[{"s":["`ongiyong~"],"f":"哭泣聲，號啕大哭。"}]}],"t":"ongong"}
+,"ongongsa":{"h":[{"d":[{"s":["`ongiyongsa~"],"e":["￹`Ongongsa~ `kora~ `wawa~ `a~ `tomangic~ `a~ `minokay~.￺￻那個孩子嗚嗚地哭著回去了。","￹`Maherek~ `to~ `a~ `somowal~ `ka~ `kaying~ , `ongongsa~ `a~ `tomangic~.￺￻姑娘一說完，情不自禁地號啕大哭。"],"f":"嗚嗚哭泣起來。"}]}],"stem":"ongong","t":"ongongsa"}
+,"ongpang":{"h":[{"d":[{"s":["`unpang~","`mi~`ongpang~"],"f":"搬運〈日語借詞〉。"}]}],"t":"ongpang"}
+,"ongto":{"h":[{"d":[{"s":["`'ongto~"],"f":"煙斗。"}]}],"t":"ongto"}
+,"ongtokay":{"h":[{"d":[{"f":"運動會。"}]}],"tag":"[日語借詞]","t":"ongtokay"}
+,"oni":{"h":[{"d":[{"s":["`onini~"],"f":"指示代詞，基本格。(是)這，這個，這些。"}]}],"t":"oni"}
+,"oni%20ko%20saka":{"h":[{"d":[{"f":"( 短語。) 所以，因此之故，正因為這樣。"}]}],"t":"oni ko saka"}
+,"onic":{"h":[{"d":[{"f":"挑食，偏食(好吃的食物)；挑挑揀揀，嫌不好。"}]}],"t":"onic"}
+,"onicen":{"h":[{"d":[{"e":["￹`Aka~ `onicen~ `ita~ `a~ `ciriko'~ `to~ `cisatapiday~ `a~ `riko'~.￺￻我們不要嫌棄穿有補丁的衣服。"],"f":"把…挑揀、挑食、嫌棄。"}]}],"stem":"onic","t":"onicen"}
+,"onih":{"h":[{"d":[{"s":["`fao~"],"f":"蟲，毛毛蟲。"}]}],"t":"onih"}
+,"onini":{"h":[{"d":[{"s":["`oni~"],"f":"指示代詞，基本格。(是)這，這個，這些。"}]}],"t":"onini"}
+,"oninian":{"h":[{"d":[{"f":"指示代詞，基本格。(是)這，這個，這些。"}]}],"t":"oninian"}
+,"onoh":{"h":[{"d":[{"s":["`lonoh~","`maonoh~隨意行事，任意做事"],"f":"脫毛，褪毛。"}]}],"t":"onoh"}
+,"onto":{"h":[{"d":[{"f":"運動〈日語借詞〉。"}]}],"t":"onto"}
+,"ontoing":{"h":[{"d":[{"f":"運動員。"}]}],"tag":"[日語借詞]","t":"ontoing"}
+,"ontokay":{"h":[{"d":[{"f":"運動會〈日語借詞〉。"}]}],"t":"ontokay"}
+,"oo%27":{"h":[{"d":[{"f":"腳、腿。"}]}],"t":"oo'"}
+,"oo%27l":{"h":[{"d":[{"f":"霧、霧水。"},{"f":"西風。"}]}],"t":"oo'l"}
+,"opih":{"h":[{"d":[{"s":["`opin~"],"f":"飛禽的羽毛。"}]}],"t":"opih"}
+,"opin":{"h":[{"d":[{"s":["`opih~"],"f":"羽毛。"}]}],"t":"opin"}
+,"opo":{"h":[{"d":[{"s":["`taring~"],"f":"堆積，重疊。"}]}],"t":"opo"}
+,"opoh":{"h":[{"d":[{"s":["`dopoh~","`ma~`pooh~"],"f":"趕累，勤勉，勤勞。"}]}],"t":"opoh"}
+,"ora":{"h":[{"d":[{"s":["`orira~"],"f":"指示代詞。基本格。那，那個，那些。"}]}],"t":"ora"}
+,"ora%20ko%20saka":{"h":[{"d":[{"f":"( 短語 )。因此之故，因為那個緣故。"}]}],"t":"ora ko saka"}
+,"oraan":{"h":[{"d":[{"f":"指示代詞。基本格。那，那個，那些。"}]}],"stem":"ora","t":"oraan"}
+,"oraf":{"h":[{"d":[{"s":["`pateras~","`patedo~","`ma~`oraf~"],"f":"隨便亂說話。"}]}],"t":"oraf"}
+,"orasaka":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `ratoh~ `to~ `pakainiay~ `to~ `iloma'ay~ `ako~ ,`orasaka~ `maroray~ `kako~ `a~ `miharateng~.￺￻我沒有得到家裏的消息，所以想起來很難過。","￹`Ira~ `ko~ `oles~ `i~ `lotok~, `orasaka~ `caka~ `pa~`telas~ `kako~ `a~ `maomah~ `i~ `lotok~.￺￻因為山林裏有野狼，所以我不隨便去那裏工作。"],"f":"。所以，因此。"}]}],"tag":"[連接詞]","t":"orasaka"}
+,"orat":{"h":[{"d":[{"f":"患夢遊症。"},{"s":["`maorat~"],"f":"迷糊，迷茫。"}]}],"t":"orat"}
+,"oratsa":{"h":[{"d":[{"e":["￹`Oratsa~ `kako~ `to~ `sowal~ `ni~`Lahuk~.￺￻我對 Lahuk (拉霍克)的話感到迷惑。"],"f":"迷惑不解的樣子，感到困惑。"}]}],"stem":"orat","t":"oratsa"}
+,"oray":{"h":[{"d":[{"f":"臥具，毛毯，被褥。"}]}],"t":"oray"}
+,"ori%27":{"h":[{"d":[{"s":["`ma~`ori'~"],"f":"嬰兒溢奶、吐奶。"}]}],"t":"ori'"}
+,"orira":{"h":[{"d":[{"s":["`ora~"],"f":"指示代詞。基本格。那，那個，那些。"}]}],"t":"orira"}
+,"oriraan":{"h":[{"d":[{"s":["`orira~"],"f":"指示代詞。基本格。那，那個，那些。"}]}],"t":"oriraan"}
+,"oror":{"h":[{"d":[{"s":["`mi~`oror~"],"f":"促使，催促，打發，派遣。"}]}],"t":"oror"}
+,"ororen":{"h":[{"d":[{"e":["￹`Ororen~ `ko~ `wawa~ `ira~ `pataira~ `i~ `faed~ `no~ `atol~.￺￻把他們的孩子叫到石階上面。"],"f":"把…派遣、指派。"}]}],"stem":"oror","t":"ororen"}
+,"osa":{"h":[{"d":[{"s":["`miosa~"],"f":"走近，靠近，接近。"}]}],"t":"osa"}
+,"osaen":{"h":[{"d":[{"f":"把…走近、靠近、接近。"}]}],"stem":"osa","t":"osaen"}
+,"osing":{"h":[{"d":[{"f":"五分錢(銀幣)。"}]}],"tag":"[閩南話借詞]","t":"osing"}
+,"osos":{"h":[{"d":[{"s":["`ma~`osos~"],"f":"靜悄悄，一片寧靜。"}]}],"t":"osos"}
+,"osoy":{"h":[{"d":[{"s":["`ma~`osoy~"],"f":"慢〈日語借詞〉。"}]},{"d":[{"s":["`ma~`osoy~","`cedeng~"],"f":"慢、緩慢、遲到。"}]}],"t":"osoy"}
+,"osyongac":{"h":[{"d":[{"f":"過新年〈日語借詞〉。"}]}],"t":"osyongac"}
+,"ota%27":{"h":[{"d":[{"s":["`mi~`ota'~"],"f":"嘔吐。"}]}],"t":"ota'"}
+,"ota%27en":{"h":[{"d":[{"f":"把…吐出來，嘔吐出來。"}]}],"stem":"ota'","t":"ota'en"}
+,"otofay":{"h":[{"d":[{"f":"摩托車〈日語借詞〉。"}]},{"d":[{"f":"機車，摩托車。"}]}],"t":"otofay"}
+,"owa%27":{"h":[{"d":[{"f":"嘔吐聲。哇！"}]}],"t":"owa'"}
+,"oway":{"h":[{"d":[{"f":"老人對男孩子的昵稱。相當於漢語的“好孩子”。"}]}],"t":"oway"}
+,"oy":{"h":[{"d":[{"f":"感歎詞。表示招呼、呼喚等意義。喂！"}]}],"t":"oy"}
+,"oya":{"h":[{"d":[{"f":"指示代詞。基本格。那，那個，那些。"}]}],"t":"oya"}
+,"oyahan":{"h":[{"d":[{"e":["￹`Oyahan~ `fali~ `ta'angy~ , `oyahan~ `tapelik~ `'akawang~.￺￻當時呀，風大，浪高。"],"f":"敍述故事情景的口頭語。當時呀，那個時候呀。"}]}],"stem":"oya","t":"oyahan"}
+,"oyanan":{"h":[{"d":[{"f":"指示代詞。基本格。那，那個，那些。"}]}],"stem":"oya","t":"oyanan"}
+,"oyanan%20ho":{"h":[{"d":[{"f":"(短語)。還是那樣，依然，依舊。"}]}],"t":"oyanan ho"}
+,"oyanan%20to":{"h":[{"d":[{"f":"(短語)。那個時候，從那以後。"}]}],"t":"oyanan to"}
+,"oysang":{"h":[{"d":[{"f":"舅舅，叔叔〈日語借詞〉。"}]}],"t":"oysang"}
+,"oytaming":{"h":[{"d":[{"s":["`fitaming~〈日語借詞〉"],"f":"維他命〈漢語借詞〉。"}]}],"t":"oytaming"}
+}

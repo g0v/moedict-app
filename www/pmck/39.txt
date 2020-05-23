@@ -1,0 +1,20 @@
+{"%27a%27ad":{"h":[{"d":[{"s":["`'ad'ad~","`wadwad~"],"f":"étaler : (pour faire sécher)"}]}],"t":"'a'ad"}
+,"%27a%27adopen":{"h":[{"d":[{"f":"gibier; bête sauvage : qu'on peut chasser."}]}],"t":"'a'adopen"}
+,"%27a%27agian":{"h":[{"d":[{"f":"occasion."}]}],"t":"'a'agian"}
+,"%27a%27am":{"h":[{"d":[{"f":"bouillie claire de riz : eau de riz."}]}],"t":"'a'am"}
+,"%27a%27at":{"h":[{"d":[{"f":"gémissements de femme en couches."}]}],"t":"'a'at"}
+,"%27a%27co":{"h":[{"d":[{"type":"S","f":"pressé (?)"}]}],"t":"'a'co"}
+,"%27aca":{"h":[{"d":[{"f":"prix; mérite : pour les saints"}]}],"t":"'aca"}
+,"%27acam":{"h":[{"d":[{"s":["`'alcam~"],"f":"roseau : (utilisé pour les cloisons des maisons et comme bois de chauffage = ferini (phaseolus radium)"}]}],"t":"'acam"}
+,"%27acaw":{"h":[{"d":[{"s":["`kadafo~"],"type":"S","f":"herbe; gendre : gendre ou belle fille allant habiter chez le conjoint."}]}],"t":"'acaw"}
+,"%27acfel":{"h":[{"d":[{"s":["`acofel~"],"e":["￹tfod saan ko 'acfel = sa molol sa ko 'acfel = masatrocay a 'acfel￻colonne de fumée"],"f":"fumée"}]}],"t":"'acfel"}
+,"%27acicim":{"h":[{"d":[{"f":"acide; aigre"}]}],"t":"'acicim"}
+,"%27acis":{"h":[{"d":[{"s":["`'asic~","`'asit~"],"f":"être à sec"},{"e":["￹ma'acisay a fafahiyan￻femme stérile"],"f":"stérile"}]}],"t":"'acis"}
+,"%27aciyos":{"h":[{"d":[{"s":["`ariyot~"],"e":["￹'aciyos no talodo' (tarodo')￻sillons circulaires des doigts;"],"f":"sillons"},{"f":"épis de cheveux en rond."}]}],"t":"'aciyos"}
+,"%27acocol":{"h":[{"d":[{"s":["`riger~"],"f":"toupie"}]}],"t":"'acocol"}
+,"%27ad%27ad":{"h":[{"d":[{"s":["`wadwad~"],"f":"étaler: (pour faire sécher)"}]}],"t":"'ad'ad"}
+,"%27ada":{"h":[{"d":[{"s":["`mili'ada~","`mali'ada~","`pali'ada~"],"f":"être en guerre; faire la guerre"}]}],"t":"'ada"}
+,"%27adadogac":{"h":[{"d":[{"s":["`'ararogac~"],"f":"scarabée: (noir et blanc : ceram bycerada)"}]}],"t":"'adadogac"}
+,"%27adapaw":{"h":[{"d":[{"s":["`salipaw~","`samamaw~"],"f":"flammèche"}]}],"t":"'adapaw"}
+,"%27adas":{"h":[{"d":[{"s":["`'asad~"],"f":"grain de riz"},{"f":"grain de millet"}]}],"t":"'adas"}
+}

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/pierre/SRC/moedict-app/platforms/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/pierre/SRC/moedict-app/platforms/android/app/src/debug/jniLibs"/></dataSet></merger>

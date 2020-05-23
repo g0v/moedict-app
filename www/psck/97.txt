@@ -1,0 +1,372 @@
+{"a":{"h":[{"d":[{"f":"阿美語元音之一，系展唇、後低舌面元音，音值為[a]，[a/a]等變體。a 元音處於音節開頭與收尾時，有輕微喉塞化，讀如['a]、[a']。用法如下："},{"f":"前綴詞。一般表示人的數目或其他附加意義。aenem 六個人，aira 即將有，aikor 在後面。"},{"e":["￹`Ci~ `Kacaw~ `aci~ `Panay~.￺￻Kacaw 和 Panay。","￹`Kako~ `ato~ `kiso~.￺￻我與你。","￹`Ona~ `faki~ `atora~ `mamo~.￺￻這位爺爺和那位婆婆。"],"f":"連接詞。連接人名詞、人稱代詞主格形態，或者以指示代詞為修飾語的詞組，表示如、與、跟、以及等意義。"},{"f":"結構助詞。表示："},{"e":["￹`Kilang~ `a~ `kayakay~.￺￻木橋。","￹`Mi'adopay~ `a~ `tamdaw~.￺￻獵人。"],"f":"(1)修飾關係。"},{"e":["￹`Ta'angayay~ `a~ `kohecalay~.￺￻又大又白。"],"f":"(2)並列關係。"},{"e":["￹`Talariyal~ `a~ `mifuting~.￺￻去海上打魚。m 補充關係。","￹`Karetengay~ `a~ `tatoyen~.￺￻提起來很重。"],"f":"(3)連動關係。"},{"e":["￹`Akaka~ `komaen~, `ma~`waraka~!￺￻不要吃，會中毒的！","￹`Ma~`polina~ `kiso~ `i~ `a'aloan~!￺￻小心啊，你要掉到河裡去啊！"],"f":"語氣助詞。放在動詞之後，並與之連讀，表示提醒對方警惕和提防即將出現的險情。"},{"e":["￹`A~! `cima~ `ko~ `matefaday~ `saw~?￺￻啊！誰掉下去了？"],"f":"感嘆詞。表示驚訝、驚奇、驚嘆。"}]}],"t":"a"}
+,"a%27efeken":{"h":[{"d":[{"s":["`fenges~","`mi~`'efek~"],"e":["￹`A'efeken~ `ko~ `ma~`liangay~ `a~ `tamdaw~.￺￻要狠狠揍的壞人。"],"f":"要猛揍、狠打的(對像)。"}]}],"stem":"'efek","t":"a'efeken"}
+,"a%27iw":{"h":[{"d":[{"s":["`ci~`tpi'~"],"f":"膽小的人。"}]}],"t":"a'iw"}
+,"a%27nengen":{"h":[{"d":[{"e":["￹`O~ `a'nengen~ `iso~ `kora~ `a~ `pa~`hana~`an~.￺￻那是你要參觀的花園。"],"f":"要看或參觀的(對像)。"}]}],"stem":"'eneng","t":"a'nengen"}
+,"a%27nengsa":{"h":[{"d":[{"e":["￹`Mana~ `a'nengsa~ `takowanan~?￺￻為什麼一直看著我？"],"f":"一直看著。"}]}],"stem":"'eneng","t":"a'nengsa"}
+,"a%5Eef%5Eefay":{"h":[{"d":[{"s":["`cacesces~","`ka~`^fefay~"],"e":["￹`Ma'araw~ `ako~ `ko~ `a^ef^efay~ `i~ `lotok~.￺￻我在山上看到眼鏡蛇。"],"f":"眼鏡蛇。"}]}],"t":"a^ef^efay"}
+,"aadahen":{"h":[{"d":[{"e":["￹`O~ `adada~ `no~ `fitoka~ `ko~ `aadahen~ `ako~.￺￻我要去醫治胃病。"],"f":"要治療、診治的(疾病)。"}]}],"tag":"[疊 2]","stem":"adah","t":"aadahen"}
+,"aahowiden":{"h":[{"d":[{"s":["`aarayen~"],"e":["￹`Kiso~ `ko~ `aahowiden~ `niyam~!￺￻我們要感謝你呀！"],"f":"要感謝、感激的(對像)。"}]}],"tag":"[疊 2]","t":"aahowiden"}
+,"aalaen":{"h":[{"d":[{"e":["￹`O~ `maan~ `ko~ `aalaen~ `ita~?￺￻我們要拿什麼東西？","￹`O~ `impic~ `ko~ `aalaen~ `ako~.￺￻我要拿鉛筆。"],"f":"要拿的，要拿來的。"}]}],"tag":"[疊 2]","stem":"ala","t":"aalaen"}
+,"aalomaylayen":{"h":[{"d":[{"e":["￹`O~ `aalomaylayen~ `iso~ `han~?￺￻你要去採山藤嗎？"],"f":"要採集山藤。"},{"s":["`alolaylay~"],"e":["￹`Adihay~ `to~ `ko~ `aalomaylayen~ `ako~.￺￻我要採的山藤很多的。"],"f":"指要採集的山藤。"}]}],"tag":"[疊 2]","stem":"alomaylay","t":"aalomaylayen"}
+,"aarayen":{"h":[{"d":[{"s":["`aahowiden~"],"f":"要感謝。"}]}],"t":"aarayen"}
+,"aaro%27en":{"h":[{"d":[{"e":["￹`O~ `aaro'en~ `ako~ `koni~.￺￻這是我要坐的座位。"],"f":"要坐，要坐的位置。"}]}],"tag":"[疊 2]","stem":"aro'","t":"aaro'en"}
+,"aaro%27sa":{"h":[{"d":[{"e":["￹`Aaro'sa~ `to~ `cangra~ `i~ `salawacan~ `no~ `'alo~ `a~ `makesem~.￺￻他們就這樣坐在河邊發愁。"],"f":"坐著，老坐著，一直坐著。"}]}],"tag":"[疊 2]","stem":"aro'","t":"aaro'sa"}
+,"aasiken":{"h":[{"d":[{"e":["￹`O~ `papotal~ `ko~ `aasiken~.￺￻要掃外面。","￹`O~ `papotal~ `ko~ `aasiken~ `nangra~.￺￻他們要打掃屋外的院子。"],"f":"要打掃的、要掃除的。"}]}],"tag":"[疊 2]","stem":"asik","t":"aasiken"}
+,"aasipen":{"h":[{"d":[{"e":["￹`Pina~ `a~ `lekad~ `ko~ `aasipen~ `ako~?￺￻我要朗讀幾段呢？","￹`O~ `aasipen~ `iso~ `a~ `tikami~.￺￻這是你要讀的信。"],"f":"要朗讀的、要朗誦的。"}]}],"tag":"[疊 2]","stem":"asip","t":"aasipen"}
+,"aatiwen":{"h":[{"d":[{"e":["￹`Aatiwen~ `a~ `pitaw~.￺￻要拿起來的鋤頭。"],"f":"要提攜的、要提起來的。"}]}],"tag":"[疊 2]","stem":"atiw","t":"aatiwen"}
+,"aca":{"h":[{"d":[{"e":["￹`Cecay~ `aca~ `ko~ `wawa~ `ako~.￺￻我只有一個孩子。"],"f":"只有，只是，僅僅是，唯有。"},{"e":["￹`Awa~ `ko~ `mimimiming~ `aca~ `a~ `fali~.￺￻哪怕一點點風也沒有。"],"f":"即使…也…，哪怕…也…。"},{"e":["￹`Aana~ `tayni~ `aca~?￺￻怎麼又來了？"],"f":"又，再。"}]}],"t":"aca"}
+,"acah":{"h":[{"d":[{"e":["￹`Acah~! `ka~ `ta'angay~ `nona~ `pacifaran~!￺￻哇，這個港口真大呀？","￹`Acah~! `kona~ `kamaro'an~ `makapahay~!￺￻這個座位漂亮極了！"],"f":"(感嘆詞)。表示發自內心的驚嘆、讚美。"}]}],"t":"acah"}
+,"acang":{"h":[{"d":[{"s":["`kaacangan~","`rimorak~","`maacang~"],"e":["￹`O~ `kaacangan~ `a~ `romi'ad~.￺￻歡欣的日子。"],"f":"歡慶，宴慶，狂歡。Aacangan 令人喜慶的日子或事情。"}]}],"t":"acang"}
+,"acedah":{"h":[{"d":[{"s":[""],"e":["￹`Pakaka~ `ko~ `acedah~ `nona~￺￻辣椒。這個辣椒非常辣。凶狠，心狠手辣。","￹`Acedah~ `ko~ `mata~ `ningra~.￺￻他的眼神很凶。"],"f":"辣味。"},{"f":"ka^edah。"}]}],"t":"acedah"}
+,"acedahay":{"h":[{"d":[{"e":["￹`Acedahay~ `a~ `titi~.￺￻辣肉。指凶狠的，心狠手辣的(人)。"],"f":"有辣味，辣的。"}]}],"stem":"acedah","t":"acedahay"}
+,"acedahen":{"h":[{"d":[{"e":["￹`Acedahen~ `kora~ `dateng~!￺￻給那盤菜加點辣吧！"],"f":"搞辣一點，弄辣一點，加點辣。"}]}],"stem":"acedah","t":"acedahen"}
+,"acedet":{"h":[{"d":[{"f":"使之火烙、燙傷。"}]}],"stem":"cedet","t":"acedet"}
+,"acek":{"h":[{"d":[{"f":"污穢，醜惡。"},{"s":["`maacek~"],"e":["￹`Maacek~ `kako~ `to~ `kadit~.￺￻我對髒很厭惡。"],"f":"令人惡心，嫌惡。"}]}],"t":"acek"}
+,"acinomoto":{"h":[{"d":[{"e":["￹`Pa~`acinomoto~`en~ `ko~ `dateng~.￺￻菜要加一點味精。"],"f":"味精，味素〈日語借詞〉。"}]}],"t":"acinomoto"}
+,"aciyah":{"h":[{"d":[{"e":["￹`Aciyah~ `makapahay~ `kona~ `kaying~!￺￻啊，這位小姐真漂亮！"],"f":"(感嘆詞)。表示讚嘆不已。"}]}],"t":"aciyah"}
+,"acohod":{"h":[{"d":[{"s":["`alafoh~","`tahfod~"],"e":["￹`Mafiyok~ `no~ `fali~ `ko~ `acohod~.￺￻灰塵被風吹著。"],"f":"塵土，塵埃，灰塵。"}]}],"t":"acohod"}
+,"ada":{"h":[{"d":[{"s":["`dada~"],"e":["￹`Ada~ `micomod~ `i~ `loma'~ `niyam~.￺￻請進我們家。"],"f":"請來吧！有請！"}]}],"t":"ada"}
+,"adada":{"h":[{"d":[{"e":["￹`O~ `maan~ `ko~ `adada~ `iso~ `saw~?￺￻你有什麼病呢？"],"f":"疾病，疼痛，傷痛。"},{"e":["￹`adada~ `ko~ `fitoka~ `no~ `wama~.￺￻父親的胃疼痛。"],"f":"患病，受傷。"},{"e":["￹`Adada~ `ko~ `faloco'~ `ako~.￺￻我內心很痛苦。"],"f":"痛苦，難過。"}]}],"t":"adada"}
+,"adadaay":{"h":[{"d":[{"f":"正在患病、疼痛。"},{"f":"指病患者，傷痛者。"}]}],"stem":"adada","t":"adadaay"}
+,"adadaen":{"h":[{"d":[{"e":["￹`adadaen~ `to~ `fongoh~ `kako~,`cowa~ `ka~`mawmah~ `kako~ `anini~.￺￻我今天感到頭痛，不去工作了。"],"f":"感到疼痛。"}]}],"stem":"adada","t":"adadaen"}
+,"adah":{"h":[{"d":[{"s":["`maadah~"],"e":["￹`maadah~ `ko~ `doka'~ `ako~.￺￻我傷口癒合。"],"f":"痊癒。"}]}],"t":"adah"}
+,"adahen":{"h":[{"d":[{"e":["￹`Adahen~ `no~ `ising~ `ko~ `adada~ `ni~ `ina~ `ako~.￺￻醫生要治好我母親的病。"],"f":"把(病、痛)治痊癒，去治好病吧。"}]}],"stem":"adah","t":"adahen"}
+,"adahi":{"h":[{"d":[{"e":["￹`Adahi~ `to~ `ko~ `fana'~ `ako~.￺￻我的知識有所進步。"],"f":"有一點進步，稍有長進。"},{"s":["`idahi~"],"e":["￹`Adahi~ `to~ `miming~ `ko~ `'orip~ `niyam~.￺￻我們的家境好一點。"],"f":"稍好。"}]}],"t":"adahi"}
+,"adaneng":{"h":[{"d":[{"f":"廣闊，遼闊。"},{"s":["`ataneng~"],"e":["￹`Adaneng~ `ko~ `fana'~ `no~ `ka~`kita'an~ `niyam~.￺￻我們部落領袖(頭目)的閱歷很豐富。"],"f":"比喻做的農事多，或閱歷豐富。"}]}],"t":"adaneng"}
+,"adanengay":{"h":[{"d":[{"e":["￹`Adanengay~ `ko~ `lalan~.￺￻廣闊的道路。"],"f":"廣闊的，遼闊的。"},{"e":["￹`Adanengay~ `ko~ `fana'~ `ako~.￺￻我知道的很多。"],"f":"指做的農事多的，或閱歷豐富的。"}]}],"stem":"adaneng","t":"adanengay"}
+,"adang":{"h":[{"d":[{"e":["￹`adang~ `sa~ `kako~ `i~ `cingraan~.￺￻我對他感到厭煩。"],"f":"厭煩。"}]}],"t":"adang"}
+,"adapaw":{"h":[{"d":[{"s":["`'adapaw~","`mi~`sfeng~","`mi~`adapaw~"],"e":["￹`Ira~ `ko~ `'ada~ `mi~ `adapaw~ `it~`itaanan~.￺￻有敵人在埋伏。"],"f":"埋伏，伏擊。"}]}],"t":"adapaw"}
+,"aday":{"h":[{"d":[{"e":["￹`Mafana'~ `tono~ `takowanan~ `ci~ `aday~ `ningra~.￺￻她的小女孩真懂事。"],"f":"對女孩子的愛稱、昵稱：囡囡，乖孩子。"}]}],"t":"aday"}
+,"adayaw":{"h":[{"d":[{"e":["￹`Adayaw~ `katayni~ `takowaan~!￺￻乖孩子，來我這裡吧！"],"f":"乖孩子。"}]}],"stem":"aday","t":"adayaw"}
+,"adayay":{"h":[{"d":[{"s":["`sini'adaay~"],"e":["￹`Adayay~ `kako~ `to~ `manikaway~ `a~ `tamdaw~.￺￻我很同情窮人。"],"f":"同情，可憐，憐憫。"}]}],"stem":"aday","t":"adayay"}
+,"adeses":{"h":[{"d":[{"f":"微弱的聲音。"},{"e":["￹`Adeses~ `sa~ `cangra~ `a~ `caciyaw~.￺￻他們在竊竊私語。"],"f":"竊竊私語。"}]}],"t":"adeses"}
+,"adesesay":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `adesesay~ `i~ `pa~`putal~.￺￻屋外悄然無聲的。"],"f":"有一點聲音的。"}]}],"t":"adesesay"}
+,"adi":{"h":[{"d":[{"e":["￹`Adi~!`makapah~ `cingra~.￺￻啊！她真美啊。","￹`Makapahay~ `cingra~.￺￻她很漂亮。"],"f":"(感嘆詞)。表示讚美、驚嘆。"}]}],"t":"adi"}
+,"adiadihay":{"h":[{"d":[{"e":["￹`Adiadihay~ `ko~ `kalang~ `itira~.￺￻那裡的螃蟹越來越多。"],"f":"越來越多。"}]}],"tag":"[疊 2]","stem":"adihay","t":"adiadihay"}
+,"adifat":{"h":[{"d":[{"s":["`miadifat~"],"e":["￹`Miadifat~ `to~ `lalan~ `no~ `tomay~.￺￻阻擋大熊的來路。"],"f":"阻擋、封鎖。"}]}],"t":"adifat"}
+,"adihay":{"h":[{"d":[{"e":["￹`Adihay~ `ko~ `'a'adopen~ `i~ `tokos~.￺￻山上動物很多。","￹`Wata~! `ka~ `adihay~ `no~ `fokeloh~!￺￻啊！石頭真多！"],"f":"(指人以外的事物)很多。"}]}],"t":"adihay"}
+,"adihayay":{"h":[{"d":[{"e":["￹`Adihayay~ `ko~ `'ayam~ `tora~ `kilang~.￺￻那棵樹上鳥很多。"],"f":"有很多。"},{"e":["￹`Ma'araw~ `to~ `no~ `wawa~ `ko~ `adihayay~ `a~ `hikoki~￺￻(外來語). 孩子看見很多的飛機。"],"f":"多的，很多的。"}]}],"stem":"adihay","t":"adihayay"}
+,"adihayen":{"h":[{"d":[{"e":["￹`Adihayen~ `ko~ `mikaenan~ `makena~, `aka~ `ka~ `ngodo~ `kiso~!￺￻多吃一些沒關係的，請你不要客氣！"],"f":"多一點，請多(給)一點。"}]}],"stem":"adihay","t":"adihayen"}
+,"aeli%27en":{"h":[{"d":[{"e":["￹`I~ `omah~ `na~ `Kacaw~ `ko~ `a'eli'en~.￺￻要割下來的茅草在卡兆先生的田裡。"],"f":""}]}],"tag":"[疊 2]","stem":"'eli'","t":"aeli'en"}
+,"aepinen":{"h":[{"d":[{"e":["￹`Aepinen~ `ako~ `kiso~.￺￻我要去告你的。"],"f":"要告發、告狀，要告發、告狀的(對像)。"}]}],"stem":"'epin","t":"aepinen"}
+,"afa":{"h":[{"d":[{"e":["￹`O~ `afa~ `ako~ `cingra~.￺￻他是我弟弟(或妹妹)。"],"f":"safa 的簡稱。"}]}],"t":"afa"}
+,"afaaw":{"h":[{"d":[{"s":["`sa~`faaw~"],"e":["￹`Afaaw~ `o~ `cima~ `ko~ `ngangan~ `iso~ `saw~?￺￻小弟弟(小妹妹)，你叫什麼名字呀？"],"f":"弟妹呀。"}]}],"stem":"afa","t":"afaaw"}
+,"afelaw":{"h":[{"d":[{"e":["￹`Afelaw~ `ko~ `dateng~.￺￻菜很淡。"],"f":"淡，不鹹。"}]}],"t":"afelaw"}
+,"afelaway":{"h":[{"d":[{"s":["`afesa'~","`afesa'ay~","`kafesa'~"],"e":["￹`Aefelaway~ `koni~ `a~ `dateng~,`pa~`cinahen~!￺￻這菜很淡，加鹽吧！"],"f":"淡的，不鹹的。指淡的(菜肴、食品)。"}]}],"stem":"afelaw","t":"afelaway"}
+,"afengfeng":{"h":[{"d":[{"e":["￹`Afengfeng~ `ko~ `lalangaw~ `a~ `ma~`'fer~.￺￻蒼蠅發出嗡嗡的聲音而飛。"],"f":"嗡嗡的聲音此起彼落。"}]}],"stem":"fengfeng","t":"afengfeng"}
+,"afesa%27":{"h":[{"d":[{"e":["￹`Afesa'~ `ko~ `mitangtangan~ `iso~ `a~ `titi~.￺￻你煮的肉太淡。"],"f":"味淡，不鹹。"},{"e":["￹`Afesa'~ `ko~ `sowal~ `noya~ `tapang~.￺￻那位長官的話太乏味。"],"f":"平淡無味。"}]}],"t":"afesa'"}
+,"afesa%27ay":{"h":[{"d":[{"s":["`afelaway~","`afelaw~"],"f":"指淡的，平淡無味的。"}]}],"stem":"afesa'","t":"afesa'ay"}
+,"afet":{"h":[{"d":[{"s":["`^afet~"],"e":["￹`Paroen~ `ko~ `afet~ `i~ `kowang~.￺￻把彈藥放入槍管裡。"],"f":"火藥，炸藥，彈藥。"}]}],"t":"afet"}
+,"afih":{"h":[{"d":[{"e":["￹`Pakaenen~ `ko~ `koko'~ `to~ `afih~.￺￻餵米糠給雞吃。"],"f":"米糠，粗糠。"}]}],"t":"afih"}
+,"ahecid":{"h":[{"d":[{"s":["`kahecid~."],"e":["￹`Mana~ `ahecid~ `sa~ `ko~ `kohaw~ `ako~?￺￻我做的湯怎麼這樣鹹？"],"f":"鹹，有鹽味。"}]}],"t":"ahecid"}
+,"aheciday":{"h":[{"d":[{"e":["￹`Aheciday~ `to~ `ko~ `dateng~, `aka~ `pa~`cinahen~.￺￻菜很鹹了，不要放鹽了。"],"f":"鹹的。"},{"s":["`kaheciday~"],"e":["￹`Aheciday~ `a~ `saytaw~.￺￻鹹蘿蔔。"],"f":"鹹的。"}]}],"stem":"ahecid","t":"aheciday"}
+,"ahokaw":{"h":[{"d":[{"s":["`rarikah~"],"e":["￹`Aka~ `papi~`kapaen~ `ko~ `ka~`^emangay~ `to~ `ahokaw~.￺￻不要讓小孩摸到蜈蜙。"],"f":"蜈蚣。"}]}],"t":"ahokaw"}
+,"ahowid":{"h":[{"d":[{"s":["`alay~"],"e":["￹`Ahowid~ `to~ `ruray~ `iso~￺￻。謝謝你的辛勞。"],"f":"感謝，感激。"}]}],"t":"ahowid"}
+,"ahowiday":{"h":[{"d":[{"f":"心滿意足。"}]}],"stem":"ahowid","t":"ahowiday"}
+,"ahowiden":{"h":[{"d":[{"e":["￹`Ahowiden~ `no~ `mitiliday~ `ko~ `singsi~.￺￻學生要向老師深表謝意。"],"f":"一定感謝，深表謝意(對像)。"}]}],"stem":"ahowid","t":"ahowiden"}
+,"ai":{"h":[{"d":[{"s":["`ay~"],"e":["￹`Ai~! `kona~ `wawa~.￺￻噯！這個孩子。"],"f":"(感嘆詞)。"}]}],"t":"ai"}
+,"aikor":{"h":[{"d":[{"e":["￹`Maro'~ `ko~ `safa~ `iso~ `i~ `aikor~.￺￻你弟弟坐在後面。"],"f":"在後面，在背後。"}]}],"tag":"[疊 2]","stem":"ikor","t":"aikor"}
+,"aikoren":{"h":[{"d":[{"e":["￹`Aikoren~ `paaro'~ `ko~ `wawa~.￺￻讓小孩子坐後面。"],"f":"讓…在後面。"}]}],"tag":"[疊 2]","stem":"ikor","t":"aikoren"}
+,"ailangen":{"h":[{"d":[{"e":["￹`O~ `panay~ `ko~ `ailangen~ `ako~ `anini~.￺￻我今天要碾磨稻穀。"],"f":"要碾磨的(穀物) 。"}]}],"tag":"[疊 2]","stem":"ilang","t":"ailangen"}
+,"aimengen":{"h":[{"d":[{"e":["￹`O~ `ma~`ri'~ `angay~ `a~ `tamdaw~ `ko~ `aimengen~.￺￻要把壞人監禁。"],"f":"要禁閉、監禁的(對像)。"}]}],"tag":"[疊 2]","stem":"imeng","t":"aimengen"}
+,"aingid":{"h":[{"d":[{"e":["￹`I~ `ingid~ `ako~ `cingra~.￺￻他在我旁邊。","￹`Aingidsa~ `a~ `maro'~ `ko~ `mala~`ngohah~`ay~.￺￻戀人緊靠著坐在一起。"],"f":"近靠著，相鄰，鄰座。"}]}],"tag":"[疊 2]","stem":"ingid","t":"aingid"}
+,"aira":{"h":[{"d":[{"f":"即將有，會有。"},{"e":["￹`Aira~ `to~ `ko~ `widang~ `ako~.￺￻我朋友就要來了。"],"f":"即將來到，要來，會來。"}]}],"tag":"[疊 2]","stem":"ira","t":"aira"}
+,"airaay":{"h":[{"d":[{"f":"要有了，會有的。"},{"e":["￹`O~ `cima~ `ko~ `airaay~?￺￻誰要來了？"],"f":"要來了，要來的。"}]}],"tag":"[疊 2]","stem":"ira","t":"airaay"}
+,"aitini":{"h":[{"d":[{"e":["￹`Aitini~ `a~ `misalama~.￺￻就在此遊玩。"],"f":"老在這裡，就在這裡。"}]}],"tag":"[疊 2]","stem":"tini","t":"aitini"}
+,"aitiniay":{"h":[{"d":[{"f":"老在這裡的，就在這裡的(對像)，從這裡來的。"}]}],"tag":"[疊 2]","stem":"tini","t":"aitiniay"}
+,"aitinihan":{"h":[{"d":[{"e":["￹`Kalikien~ `a~ `mina'ang~ `kona~ `'adas~,`aitinihan~ `ma~`kaenaw~ `no~ `'ayam~.￺￻快把這些稻穀收起來，老放在這裡，會被鳥吃掉的。"],"f":"老放在這裡，長時間地放置此地。"}]}],"tag":"[疊 2]","stem":"tini","t":"aitinihan"}
+,"aitinisa":{"h":[{"d":[{"e":["￹`Ano~ `aitinisa~ `kako~ `i~ `Takidis~, `cowa~ `ko~ `ma~`malakakomodan~ `kako~.￺￻我要是老住在 Takidis，就當不了領袖了。"],"f":"老放在這裡，長時期地擱置著。"}]}],"tag":"[疊 2]","stem":"tini","t":"aitinisa"}
+,"aitira":{"h":[{"d":[{"e":["￹`Aitira~ `cangra~ `a~ `masa'opo~.￺￻他們就在那裡集會。"],"f":"在那裡，就在那裡。"}]}],"tag":"[疊 2]","stem":"tira","t":"aitira"}
+,"aitiraay":{"h":[{"d":[{"e":["￹`Aitiraay~ `cangra~ `a~ `malahok~.￺￻他們就在那裡吃飯。"],"f":"在那裡的，就從那裡的(對像)。"}]}],"tag":"[疊 2]","stem":"tira","t":"aitiraay"}
+,"aitirahan":{"h":[{"d":[{"e":["￹`Aitirahan~ `kora~ `titi~ `ma~`ngitid~ `no~ `waco~.￺￻把肉老是放那裡會被狗叼走。"],"f":"老是在那裡，長時間地擱置那裡。"}]}],"tag":"[疊 2]","stem":"tira","t":"aitirahan"}
+,"aitirasa":{"h":[{"d":[{"e":["￹`Aitirasa~ `kora~ `kaying~ `a~ `romadiw~.￺￻那位小姐老在那裡唱歌。"],"f":"一直在那裡，長時間地擱置著。"}]}],"tag":"[疊 2]","stem":"tira","t":"aitirasa"}
+,"aitoen":{"h":[{"d":[{"s":["`aolien~","`aocoren~"],"e":["￹`Itohan~ `ako~ `cingra~ `a~ `talaloma'~ `namo~.￺￻我要派他去你家。"],"f":"要打發、差遣的(對像)。"}]}],"tag":"[疊 2]","stem":"ito","t":"aitoen"}
+,"aix":{"h":[{"d":[{"e":["￹`Aix~! `paka~`kakoy~ `kiso~ `toni~ `a~ `fokeloh~ `han~?￺￻啊，你真能抬舉這塊石頭嗎？"],"f":"(感嘆詞)。表示懷疑、難以置信。"}]}],"t":"aix"}
+,"ak%27ak":{"h":[{"d":[{"s":["`'ak'ak~、`anekak~"],"e":["￹`Komaen~ `ko~ `ak'ak~ `to~ `ciwciw~.￺￻烏鴉會吃小雞。"],"f":"烏鴉。"}]}],"t":"ak'ak"}
+,"aka":{"h":[{"d":[{"e":["￹`Aka~ `pi~`tamako~!￺￻不要抽煙！","￹`Aka~ `toka~ `a~ `matayal~.￺￻工作不要偷懶！","￹`Aka~ `seti'en~ `ko~ `wawa~!￺￻不要打孩子！"],"f":"不要，不准，不許可。"}]}],"t":"aka"}
+,"aka%20ka%5Eca":{"h":[{"d":[{"e":["￹`Aka~ `ka~`^ca~ `kapinanom~.￺￻不能不喝水。","￹`Aka~ `ka~`^ca~ `katayra~ `kiso~ `anocila~.￺￻你明天非去不可。"],"f":"不能不，非…不可。"}]}],"t":"aka ka^ca"}
+,"aka%20to":{"h":[{"d":[{"e":["￹`Aka~ `to~ `katayni~.￺￻不要來了。"],"f":"(短語)。不必了，不用了。"}]}],"stem":"aka","t":"aka to"}
+,"akacingki":{"h":[{"d":[{"e":["￹`Matekes~ `konini~ `a~ `akacingki~.￺￻紅藥水的價錢很貴。"],"f":"紅藥水〈日語借詞〉。"}]}],"t":"akacingki"}
+,"akaho":{"h":[{"d":[{"e":["￹`Akaho~,`mi~`'adop~`ho~ `kita~.￺￻等一下，我們先去打獵。"],"f":"稍等，等一等，等一下。"},{"e":["￹`Akaho~ `katayra~ `salikaka~.￺￻兄弟暫且不要去。"],"f":"先別，暫且不要。"}]}],"t":"akaho"}
+,"akasi":{"h":[{"d":[{"f":"見證〈日語借詞〉。"}]}],"t":"akasi"}
+,"akedi":{"h":[{"d":[{"s":["`iki~"],"e":["￹`Akedi~!`ka~`ta'angay~ `nona~ `konga~!￺￻啊，好大一塊蕃薯！"],"f":"(感嘆詞)。表示讚嘆。"}]}],"t":"akedi"}
+,"aki":{"h":[{"d":[{"e":["￹`Aki~! `kona~ `wawa~ `kasini'adaan~!￺￻啊，這孩子真可憐！"],"f":"(感嘆詞)。表示同情。"}]}],"t":"aki"}
+,"akihani":{"h":[{"d":[{"s":["`ayahani~"],"e":["￹`Ma'ari~ `ako~ `ko~ `kaysing~, `akihani~.￺￻我弄破碗真可惜。"],"f":"令人可惜、惋惜。"}]}],"t":"akihani"}
+,"ako":{"h":[{"d":[{"e":["￹`O~ `fafahi~ `ako~ `ci~ `Akiko~. `Akiko~￺￻是 我太太。"],"f":"我的。第一人稱代詞，單數，領有格形態。"}]}],"t":"ako"}
+,"akoma":{"h":[{"d":[{"f":"魔鬼〈日語借詞〉。"}]}],"t":"akoma"}
+,"akong":{"h":[{"d":[{"f":"(閩南語借詞)。Paroen i"},{"s":["`wakong~","`wataw~"],"e":["￹`akong~ `ko~ `kohaw~.￺￻把湯盛在大碗裡。"],"f":"大碗。"},{"e":["￹`Ci~ `Tarod~ `ko~ `akong~ `ako~.￺￻我的祖父是 Tarod。"],"f":"阿公，爺爺，祖父。(閩南語借詞)。"}]}],"t":"akong"}
+,"akudyong":{"h":[{"d":[{"f":"手風琴〈日語借詞〉。"}]}],"t":"akudyong"}
+,"ala":{"h":[{"d":[{"e":["￹`Ala~ `to~ `pa~`cek~.￺￻我去那鐵釘。"],"f":"拿，取。"}]}],"t":"ala"}
+,"ala%27amamokomokotsa":{"h":[{"d":[{"e":["￹`Ala'amamokomokotsa~ `ko~ `waco'~ `i~ `moco'~.￺￻狗一隻隻蜷臥在屋角。"],"f":"一個個蜷縮著身軀。"}]}],"tag":"[疊 1]","stem":"'amamokot","t":"ala'amamokomokotsa"}
+,"ala%27eneeneng":{"h":[{"d":[{"e":["￹`Ala'eneeneng~ `ko~ `kapah~ `tora~ `kaying~.￺￻年輕人個個跟著去看那位小姐。"],"f":"個個跟著去看。"}]}],"tag":"[疊 2]","stem":"'eneng","t":"ala'eneeneng"}
+,"ala%27eneenenghan":{"h":[{"d":[{"e":["￹`Ala'eneenenghan~ `no~ `kapah~ `ko~ `fa'lohay~ `a~ `paso~.￺￻年輕人就湧上去參觀新巴士。"],"f":"個個跟著去看吧。"}]}],"tag":"[疊 2]","stem":"'eneng","t":"ala'eneenenghan"}
+,"ala%27eneenengsa":{"h":[{"d":[{"e":["￹`Alaeneenengsa~ `ko~ `tamdamdaw~ `to~ `sarakatay~ `a~ `comikayay~.￺￻人們跟著去看跑第一名的人。"],"f":"個個都看著。"}]}],"tag":"[疊 2]","stem":"'eneng","t":"ala'eneenengsa"}
+,"ala%27iri%27iring":{"h":[{"d":[{"f":"一個個都斜著頭瞪眼。"}]}],"tag":"[疊 2]","stem":"'iring","t":"ala'iri'iring"}
+,"ala%27iri%27iringsa":{"h":[{"d":[{"s":["`pawing~","`tawi'ing~","`mala~`'~ `iring~"],"e":["￹`Ala'iri'iringsa~ `ko~ `tamdamdaw~ `a~ `miharateng~.￺￻人們都歪著腦袋在思考。"],"f":"一個個都斜著頭。"}]}],"tag":"[疊 2]","t":"ala'iri'iringsa"}
+,"ala-":{"h":[{"d":[{"f":"前綴。主要表示："},{"f":"均分，各得(多少)。alacecay 每人得一個。"},{"f":"均等，佈滿，到處都是。"},{"e":["￹`alakitinkitngsa~ `amakero~￺￻大家手拉手地跳舞。"],"f":"(各參與者相繼進行的群體性動作行為)各自紛紛地，大家一個接一個地跟著做。"}]}],"t":"ala-"}
+,"alaalahan":{"h":[{"d":[{"e":["￹`Alaalahan~ `nangra~ `ko~ `'onoc~ `ako~.￺￻他們任意把我的扁擔拿走。"],"f":"隨意拿走。"}]}],"tag":"[疊 1]","stem":"ala","t":"alaalahan"}
+,"alaca%27nga%27ngaw":{"h":[{"d":[{"e":["￹`Alaca'ng'ngaw~ `cangra~ `a~ `minengneng~ `to~ `'ayam~.￺￻他們一個個相繼張眼抬頭看鳥。"],"f":"一個個相繼張眼看。"}]}],"tag":"[疊 2]","stem":"ca'ngaw","t":"alaca'nga'ngaw"}
+,"alaca%27nga%27ngawsa":{"h":[{"d":[{"s":["`mi~`ca'ngaw~."],"e":["￹`Alaca'nga'ngawsa~ `ko~ `kolong~ `a~ `ma~`^min~, `ca~ `ka~ `komaen~ `to~ `rengos~.￺￻牛一隻隻都抬著頭張望，不吃草。"],"f":"一個個張眼抬頭看著。"}]}],"tag":"[疊 2]","stem":"ca'ngaw","t":"alaca'nga'ngawsa"}
+,"alacecay":{"h":[{"d":[{"e":["￹`Alacecay~ `a~ `kaysing~ `ko~ `tamdamdaw~.￺￻每人平均各得一碗。","￹`Cililamay~ `kami~ `alacecay~ `to~ `ka~`ngpi~.￺￻我們每人分到一支鋼筆。"],"f":"均分一個，平均每人得一個。"}]}],"stem":"cecay","t":"alacecay"}
+,"alacecayen":{"h":[{"d":[{"e":["￹`Alacecayen~ `ni~ `wama~ `kora~ `wawa~ `to~ `pawli~.￺￻父親給孩子每人分一根香蕉。"],"f":"每人要各分得一個。"}]}],"stem":"cecay","t":"alacecayen"}
+,"alaceficefis":{"h":[{"d":[{"s":["`la'afa'afas~","`micefis~"],"e":["￹`Alaceficefis~ `sa~ `cangra~ `a~ `panokay~ `to~ `lalosidan~.￺￻他們互相搶著把東西拿回家去。"],"f":"互相瞬間抽取，互相搶東西。"}]}],"tag":"[疊 2]","stem":"cefis","t":"alaceficefis"}
+,"alacefocefo%27":{"h":[{"d":[{"e":["￹`Alacefocefo'~ `ko~ `wawa~ `a~ `midangoy~.￺￻孩子一個個爭相往下跳水游泳。"],"f":"一個個爭相往下跳。"}]}],"tag":"[疊 2]","stem":"cefo'","t":"alacefocefo'"}
+,"alacefocefo%27sa":{"h":[{"d":[{"s":["`cefocefo'sa~"],"e":["￹`Alacefocefo'sa~ `ko~ `takola'~ `i~ `nanom~.￺￻青蛙一隻隻噗咚噗咚地跳下水。"],"f":"於是一個個噗咚噗咚跳下水。"}]}],"tag":"[疊 1]","stem":"cefo'","t":"alacefocefo'sa"}
+,"alacekecekem":{"h":[{"d":[{"f":"被刺得疼痛難耐，一陣陣疼痛。"}]}],"tag":"[疊 2]","stem":"cekem","t":"alacekecekem"}
+,"alacekecekemsa":{"h":[{"d":[{"e":["￹`Alacekecekemsa~ `ko~ `kapal~ `ako~.￺￻刺扎在我手掌上，感到陣陣刺痛。"],"f":"感到一陣陣刺痛。"}]}],"tag":"[疊 2]","stem":"cekem","t":"alacekecekemsa"}
+,"alacokocokon":{"h":[{"d":[{"e":["￹`Alacokocokon~ `saan~ `kami~ `to~ `kuwa'~.￺￻我們個個跟著去木瓜。"],"f":"個個跟著去捅。"}]}],"tag":"[疊 2]","stem":"cokon","t":"alacokocokon"}
+,"alacokocokonhan":{"h":[{"d":[{"e":["￹`Alacokocokonhan~ `no~ `'alomanay~ `a~ `tamdaw~ `to~ `'aol~ `koya~ `mali~.￺￻許多人用竹竿爭先恐後地去捅那粒球。"],"f":"於是個個跟著去捅。"}]}],"tag":"[疊 2]","stem":"cokon","t":"alacokocokonhan"}
+,"alacokocokonsa":{"h":[{"d":[{"s":["`micokong~"],"e":["￹`Alacokocokonsa~ `kami~ `toya~ `mafuti'ay~ `a~ `diyong~.￺￻我們個個自覺地去捅那睡著的豬。"],"f":"個個自覺地去捅著。"}]}],"tag":"[疊 2]","stem":"cokon","t":"alacokocokonsa"}
+,"alacomocomod":{"h":[{"d":[{"e":["￹`Alacomocomod~ `saan~ `ko~ `ka'emangay~ `a~ `mieneng~ `to~ `ika~ `i~ `ki~`kiciw~.￺￻孩子們一個跟著一個地走進戲院看電影。"],"f":"一個跟著一個進去。"}]}],"tag":"[疊 2]","stem":"comod","t":"alacomocomod"}
+,"alacomocomodhan":{"h":[{"d":[{"s":["`cemod~","`micomod~"],"e":["￹`Alacomocomodhan~ `no~ `wawa~ `ko~ `pisalamaan~.￺￻孩子們個個進去了娛樂場。"],"f":"一個個走進去吧。"}]}],"tag":"[疊 2]","stem":"comod","t":"alacomocomodhan"}
+,"alaen":{"h":[{"d":[{"e":["￹`Alaen~ `ko~ `tilid~ `iso~ `a~ `minokay~.￺￻你要把書拿回去。","￹`Alaen~ `ko~ `pitaw~.￺￻把鋤頭拿來。"],"f":"把 --- 拿來、取來、把 --- 拿著。"},{"e":["￹`Alaen~ `ko~ `futing~ `minokay~.￺￻要把魚戴回去。"],"f":"戴著。"}]}],"stem":"ala","t":"alaen"}
+,"alaf%5Eafa":{"h":[{"d":[{"e":["￹`Alaf^afa~ `ko~ `nanom~.￺￻溫水。"],"f":"(水)溫熱，微熱，有熱度。"}]}],"t":"alaf^afa"}
+,"alaf%5Eafaay":{"h":[{"d":[{"e":["￹`Alaf^afaay~ `ko~ `nanom~ `i~ `fintang~.￺￻臉盆的水有點熱了。"],"f":"(水)溫熱了，有點熱了。"},{"s":["`fala'fa~"],"f":"溫熱的(水)。"}]}],"stem":"alaf^afa","t":"alaf^afaay"}
+,"alafengfengsa":{"h":[{"d":[{"e":["￹`Alafengfengsa~ `to~ `i~ `kemod~ `no~ `ufang~ `ko~ `honi~￺￻/soni no rarohod a matngil."],"f":"嗡嗡的聲音此起彼落地嚮著。"}]}],"stem":"fengfeng","t":"alafengfengsa"}
+,"alafoh":{"h":[{"d":[{"s":["`acohod~","`tahfod~"],"e":["￹`Tihtihen~ `ko~ `alafoh~.￺￻把灰塵拍掉。"],"f":"塵埃，灰塵。"}]}],"t":"alafoh"}
+,"alahafhafhaf":{"h":[{"d":[{"f":"個個在張嘴吸氣，風迎面吹來。"}]}],"tag":"[疊 1]","stem":"hafhaf","t":"alahafhafhaf"}
+,"alahafhafhafsa":{"h":[{"d":[{"s":["`mihafhaf~"],"e":["￹`Alahafhafhafsa~ `cangra~ `a~ `mi~`helop~ `toya~ `lahod~.￺￻他們個個跟著都在張嘴吸著蒸氣。"],"f":"於是個個都在張嘴吸氣。"}]}],"tag":"[疊 1]","stem":"hafhaf","t":"alahafhafhafsa"}
+,"alahan":{"h":[{"d":[{"s":["`miala~"],"e":["￹`Alahan~ `ako~ `ko~ `cinah~ `i~ `ka~`la^no~ `no~ `cadada~.￺￻我就把架子下面的鹽取來了。"],"f":"就把東西拿來。"}]}],"stem":"ala","t":"alahan"}
+,"alakad":{"h":[{"d":[{"e":["￹`Mitamako~ `ko~ `malitengay~ `to~ `alakad~.￺￻老人抽菸卷。"],"f":"菸草葉片煙卷。"}]}],"t":"alakad"}
+,"alakawikawit":{"h":[{"d":[{"e":["￹`Alakawikawit~ `to~ `salil~ `ko~ `mifutingay~.￺￻漁夫都在補網。"],"f":"每一個人都在編織。"}]}],"tag":"[疊 2]","stem":"kawit","t":"alakawikawit"}
+,"alakawikawitsa":{"h":[{"d":[{"s":["`mikawit~","`kakawit~"],"e":["￹`Alakawikawitsa~ `to~ `sa~`ilil~ `ko~ `pangcah~.￺￻阿美族的人都在編織著漁網。"],"f":"每一個人都在編織著。"}]}],"tag":"[疊 2]","stem":"kawit","t":"alakawikawitsa"}
+,"alakitikiting":{"h":[{"d":[{"e":["￹`Alakitikiting~ `ko~ `kapah~ `a~ `milakec~ `to~ `alo'~.￺￻年輕人彼此手拉手渡河。"],"f":"每個人都彼此手拉手。"}]}],"tag":"[疊 2]","stem":"kiting","t":"alakitikiting"}
+,"alakitikitingsa":{"h":[{"d":[{"s":["`mikiting~"],"e":["￹`Ano~ `malikoda~ `ko~ `kapah~ `i~, `alakitikitingsa~ `i~ `aikor~ `nangra~ `ko~ `kaying~.￺￻假如年輕人跳集體舞蹈時，小姐們就手拉著手在他們的後面。"],"f":"每個人都手拉手地(跳舞)。"}]}],"tag":"[疊 2]","stem":"kiting","t":"alakitikitingsa"}
+,"alalasolasot":{"h":[{"d":[{"e":["￹`Alalasolasot~ `saan~ `ko~ `tamdaw~ `i~ `henothenotan~.￺￻每一個人都陷入泥沼裡。"],"f":"一個跟著一個陷下去。"}]}],"tag":"[疊 2]","stem":"lasot","t":"alalasolasot"}
+,"alalasolasotsa":{"h":[{"d":[{"s":["`codimek~","`milasot~","`malasot~"],"e":["￹`Alalasolasotsa~ `koya~ `^do~ `i~ `lalinik~ `no~ `'atol~.￺￻那些老鼠一隻隻跟著鑽到石堆底下(躲起來)。"],"f":"一個跟著一個地鑽進去。"}]}],"tag":"[疊 2]","stem":"lasot","t":"alalasolasotsa"}
+,"alalinglingling":{"h":[{"d":[{"e":["￹`Alalinglingling~ `ko~ `lalangaw~ `to~ `odah~.￺￻蒼蠅個個聚集在糖果周圍上。"],"f":"(蒼蠅、昆蟲等)爬滿，聚集，簇擁在某物周圍，個個垂涎。"}]}],"tag":"[疊 2]","stem":"lingling","t":"alalinglingling"}
+,"alalinglinglingsa":{"h":[{"d":[{"s":["`lingod~","`ma~`lingling~"],"e":["￹`Ano~ `masadak~ `ko~ `lotong~ `i~ `lotolotokan~,`alalinglinglingsa~ `to~ `kakaenen~.￺￻猴子如果從山林出來，就彼此在一起，垂涎著食物。"],"f":"(蒼蠅、昆蟲等)在某物周圍爬滿、聚集、簇擁著，個個垂涎著。"}]}],"tag":"[疊 2]","stem":"lingling","t":"alalinglinglingsa"}
+,"alamifafa":{"h":[{"d":[{"e":["￹`Alamifafa~ `ko~ `tamdaw~ `to~ `wawa~ `a~ `comikay~.￺￻每人各揹著孩子跑步。"],"f":"每人各揹著。"}]}],"stem":"fafa","t":"alamifafa"}
+,"alamifafaay":{"h":[{"d":[{"e":["￹`Alamifafaay~ `sa~ `to~ `ka'emangay~ `ko~ `wama~.￺￻父親們各揹著幼小的兒童。"],"f":"每人身上各揹著。"},{"e":["￹`Alamifafaay~ `sa~ `to~ `wawa~ `ko~ `lotong~.￺￻猴子們背著小猴。"],"f":"指身上各有負擔的揹負者。"}]}],"stem":"fafa","t":"alamifafaay"}
+,"alamitatoy":{"h":[{"d":[{"f":"每人手中都提著。"}]}],"stem":"tatoy","t":"alamitatoy"}
+,"alamitatoyay":{"h":[{"d":[{"e":["￹`Ona~ `tatoloay~ `a~ `kapah~, `alamitatoyay~ `cangra~ `to~ `cecay~ `a~ `pana'~.￺￻這三位年輕人，他們每人手中各拿著一把箭。"],"f":"每人手中都提著。"},{"s":["`tatiw~","`mitatoy~"],"e":["￹`Alamitatoyay~ `to~ `pitaw~ `a~ `matayalay~.￺￻都是提著鋤頭的農人。"],"f":"指手中各有提攜的主事者(人)。"}]}],"stem":"tatoy","t":"alamitatoyay"}
+,"alaneng":{"h":[{"d":[{"s":["`rihi~","`tadina~"],"e":["￹`Minisnis~ `to~ `alaneng~.￺￻除田埂的草。","￹`Ci~ `Alaneng~ `ko~ `ngangan~ `ni~ `ina~ `ako~.￺￻我媽媽的名字叫Alaneng。"],"f":"田埂、安全島、女性名字。"}]}],"t":"alaneng"}
+,"alaninininip":{"h":[{"d":[{"s":["`'enip~","`'inip~","`mininip~"],"e":["￹`Alaninininip~ `to~ `kohaw~.￺￻每個人輪著啜一小口湯。"],"f":"每個人輪著啜一小口。"}]}],"tag":"[疊 2]","stem":"ninip","t":"alaninininip"}
+,"alaninininiphan":{"h":[{"d":[{"e":["￹`Alaninininiphan~ `niyam~ `koni~ `a~ `takid~.￺￻這一杯我們就一小口一小口地輪流啜飲。"],"f":"每個人就輪流啜飲。"}]}],"tag":"[疊 2]","stem":"ninip","t":"alaninininiphan"}
+,"alaninininipsa":{"h":[{"d":[{"e":["￹`Alaninininipsa~ `ko~ `malitengay~ `to~ `^pah~.￺￻老人們輪著一小口一小口地喝酒。"],"f":"每個人輪流啜飲著。"}]}],"tag":"[疊 2]","stem":"ninip","t":"alaninininipsa"}
+,"alanokanokay":{"h":[{"d":[{"e":["￹`Pakatengil~ `cangra~ `to~ `sowal~ `i~,`alanokanokay~ `sato~.￺￻他們聽到消息後就一個個紛紛回去了。"],"f":"一個個紛紛回去了。"}]}],"tag":"[疊 2]","stem":"nokay","t":"alanokanokay"}
+,"alanokanokaysa":{"h":[{"d":[{"s":["`minokay~"],"e":["￹`Ma'isang~ `to~ `cangra~, `alanokanokaysa~ `cangra~.￺￻他們感到厭煩，就一個個相繼回去。"],"f":"一個跟著一個紛紛回家。"}]}],"tag":"[疊 2]","stem":"nokay","t":"alanokanokaysa"}
+,"alapatapatay":{"h":[{"d":[{"f":"相繼死亡。"}]}],"tag":"[疊 2]","t":"alapatapatay"}
+,"alapatapataysa":{"h":[{"d":[{"e":["￹`Alapatapataysa~ `ko~ `tamdaw~ `to~ `lifong~.￺￻人們因瘟疫而相繼死亡。"],"f":"一個個相繼死去。"}]}],"tag":"[疊 2]","t":"alapatapataysa"}
+,"alapatedotedo":{"h":[{"d":[{"f":"一個個不守規矩。"}]}],"tag":"[疊 1]","stem":"tedo","t":"alapatedotedo"}
+,"alapatedotedosa":{"h":[{"d":[{"e":["￹`Alapatdotdosa~ `cangra~ `a~ `mipasowal~ `to~ `ifaloco'ay~ `nangra~.￺￻他們每個人都毫無顧忌地說出心裡的話。"],"f":"個個毫無顧忌地(做)。"}]}],"tag":"[疊 1]","stem":"tedo","t":"alapatedotedosa"}
+,"alapatootoor":{"h":[{"d":[{"f":"一個跟著一個，彼此跟隨。"}]}],"tag":"[疊 2]","stem":"toor","t":"alapatootoor"}
+,"alapatootoorsa":{"h":[{"d":[{"s":["`mitoor~"],"e":["￹`Alapatootoorsa~ `ko~ `tamdamdaw~ `to~ `sowal~ `no~ `mato'asay~.￺￻人們個個呼應老人的話(做)。"],"f":"一個跟隨一個，順從而行。"}]}],"tag":"[疊 2]","stem":"toor","t":"alapatootoorsa"}
+,"alapekapekaw":{"h":[{"d":[{"f":"個個爭先恐後拔腿就跑。"}]}],"tag":"[疊 2]","stem":"pekaw","t":"alapekapekaw"}
+,"alapkapkawsa":{"h":[{"d":[{"e":["￹`Alapkapkawsa~ `cangra~ `a~ `milaliw~.￺￻他們個個拔腿逃跑了。"],"f":"一個個就爭先恐後拔腿就跑。"}]}],"tag":"[疊 2]","stem":"pekaw","t":"alapkapkawsa"}
+,"alapolipolin":{"h":[{"d":[{"f":"一個個跌倒在地。"}]}],"tag":"[疊 2]","t":"alapolipolin"}
+,"alapolipolinsa":{"h":[{"d":[{"s":["`mipolin~","`mapolin~"],"e":["￹`Alapolipolinsa~ `a~ `tahafikod~ `koya~ `ka~`emangay~ `a~ `ma~`^min~.￺￻那些小孩都被絆住，一個個跌倒在地。"],"f":"一個個就相繼跌倒在地。"}]}],"tag":"[疊 2]","t":"alapolipolinsa"}
+,"alaremes":{"h":[{"d":[{"s":["`'irang~"],"f":"到處是血，血跡斑斑。"}]}],"stem":"remes","t":"alaremes"}
+,"alaremesay":{"h":[{"d":[{"e":["￹`Alaremesay~ `koya~ `fokeloh~.￺￻石頭上沾滿血跡。"],"f":"到處都是血。"},{"e":["￹`Alaremesay~ `a~ `fonus~.￺￻沾滿血跡的刀。"],"f":"指沾滿鮮血的、血跡斑斑的。"}]}],"stem":"remes","t":"alaremesay"}
+,"alarongorongoh":{"h":[{"d":[{"f":"個個相互交頭接耳。"}]}],"tag":"[疊 2]","stem":"rongoh","t":"alarongorongoh"}
+,"alarongorongohsa":{"h":[{"d":[{"e":["￹`Alarongorongohsa~ `cangra~ `a~ `caciyaw~.￺￻他們彼此間交頭接耳、竊竊私語。"],"f":"個個就交頭接耳，竊竊私語。"}]}],"tag":"[疊 2]","stem":"rongoh","t":"alarongorongohsa"}
+,"alasa%27amamokomokot":{"h":[{"d":[{"f":"一個個蜷曲著身軀。"}]}],"tag":"[疊 2]","stem":"'amamokot","t":"alasa'amamokomokot"}
+,"alasa%27amamokomokotsa":{"h":[{"d":[{"s":["`ala'amamokomokotsa~","`ala'amamokomokot~","`ma'amamokot~"],"f":"一個個就蜷曲著身軀。"}]}],"tag":"[疊 2]","stem":"'amamokot","t":"alasa'amamokomokotsa"}
+,"alasadasadak":{"h":[{"d":[{"e":["￹`Alasadasadak~ `ko~ `kolong~ `nani~ `pakolongan~.￺￻牛群從牛舍裡一頭跟一頭紛紛走出來。"],"f":"個個相繼出來。"}]}],"tag":"[疊 2]","stem":"sadak","t":"alasadasadak"}
+,"alasolosolot":{"h":[{"d":[{"s":["`misolot~"],"f":"一個個擁上去拉。"}]}],"tag":"[疊 2]","stem":"solot","t":"alasolosolot"}
+,"alasolosolothan":{"h":[{"d":[{"e":["￹`Alasolosolothan~ `nangra~ `koya~ `tamdaw~ `a~ `mipasadak~.￺￻於是他們一個個擁上去把那個人拉出來。"],"f":"於是一個跟著一個擁上去拉拽。"}]}],"tag":"[疊 2]","stem":"solot","t":"alasolosolothan"}
+,"alasolosolotsa":{"h":[{"d":[{"s":["`misolot~"],"e":["￹`Alasolosolotsa~ `cangra~ `to~ `towaso~.￺￻他們一個個擁上去拉著大繩子。"],"f":"一個個擁上去拉著。"}]}],"tag":"[疊 2]","stem":"solot","t":"alasolosolotsa"}
+,"alatek":{"h":[{"d":[{"e":["￹`Mafasaway~ `to~ `alatek~.￺￻(菜)也許早涼了。","￹`Maolah~ `cangra~ `alatek~ `tona~ `pusi~.￺￻他們大概愛這隻貓。"],"f":"可能，也許，大概。"}]}],"t":"alatek"}
+,"alateketekek":{"h":[{"d":[{"f":"一個個紛紛啄著、叮著。"}]}],"tag":"[疊 2]","stem":"tekek","t":"alateketekek"}
+,"alateketekeksa":{"h":[{"d":[{"e":["￹`Ngoyangoyen~ `nangra~ `koya~ `'aol~, `alateketekeksa~ `ko~ `ac~`acengal~ `a~ `marasras~ `i~ `fongoh~ `i~ `laway~ `nangra~.￺￻他們一搖動那根竹子，蜜蜂蜂擁而上叮在頭及臉上。"],"f":"一個個紛紛啄、叮著。"}]}],"tag":"[疊 2]","stem":"tekek","t":"alateketekeksa"}
+,"alateletelep":{"h":[{"d":[{"f":"一個個先後倒下來。"}]}],"tag":"[疊 2]","stem":"telep","t":"alateletelep"}
+,"alateletelepsa":{"h":[{"d":[{"s":["`payak~","`pingko~","`mitelep~"],"e":["￹`Alateletelepsa~ `koya~ `tatoloay~ `a~ `tamdaw~ `i~ `tafok~.￺￻那三個人先後倒在沙地上。"],"f":"一個個就倒了下來。"}]}],"tag":"[疊 2]","stem":"telep","t":"alateletelepsa"}
+,"alatofififific":{"h":[{"d":[{"f":"每個人都來拉扯，每個人都用手拉扯。"}]}],"tag":"[疊 2]","stem":"tofific","t":"alatofififific"}
+,"alatofifififichan":{"h":[{"d":[{"e":["￹`Alatofifififichan~ `nangra~ `koya~ `tanginga~ `noya~ `wawa~.￺￻她們每個人都來拉扯那個小孩的耳朵。"],"f":"每個人都來拉扯著。"}]}],"tag":"[疊 2]","stem":"tofific","t":"alatofifififichan"}
+,"alatofififificsa":{"h":[{"d":[{"s":["`tofafac~","`mitofific~"],"e":["￹`Alatofififificsa~ `to~ `riko'~.￺￻人人都在拉扯衣服。"],"f":"每個人就都拉扯起來。"}]}],"tag":"[疊 2]","stem":"tofific","t":"alatofififificsa"}
+,"alatolo":{"h":[{"d":[{"e":["￹`Alatolo~ `kami~ `to~ `tama'~.￺￻我們每人分到三份獵物。"],"f":"每人分得三個。"}]}],"stem":"tolo","t":"alatolo"}
+,"alatoloay":{"h":[{"d":[{"f":"每人分得三個了。"},{"e":["￹`Alatoloay~ `a~ `koren~ `to~ `^epah~ `ko~ `sapasorot~ `no~ `lomaloma'~.￺￻平均每戶捐出三醰酒。"],"f":"指每人各分到的三個(東西)。"}]}],"stem":"tolo","t":"alatoloay"}
+,"alatoloen":{"h":[{"d":[{"e":["￹`Alatoloen~ `ako~ `kamo~ `to~ `'odax~.￺￻我給你們每人三個糖果。"],"f":"把東西每人平均分三個。"}]}],"stem":"tolo","t":"alatoloen"}
+,"alem%27em":{"h":[{"d":[{"e":["￹`Alem'em~ `aca~ `ko~ `koror~ `ni~ `mama~.￺￻父親的背部又酸痛。"],"f":"肌肉酸痛，全身疼痛。"}]}],"t":"alem'em"}
+,"alem%27emay":{"h":[{"d":[{"f":"肌肉酸痛起來了，全身疼痛了。"},{"e":["￹`Alem'emay~ `ko~ `tireng~ `ako~.￺￻我全身疼痛了。"],"f":"指肌肉酸痛的、全身疼痛的。"}]}],"stem":"alem'em","t":"alem'emay"}
+,"alem%27emen":{"h":[{"d":[{"e":["￹`Alem'emen~ `kako~ `to~ `oo'~.￺￻我感到腿部酸痛。"],"f":"感到肌肉酸痛，感到全身疼痛。"}]}],"stem":"alem'em","t":"alem'emen"}
+,"aleni%27":{"h":[{"d":[{"s":["`alenih~","`ka~`^nih~","`ani'ih~"],"f":"內急，想大便。"}]}],"t":"aleni'"}
+,"aleni%27ay":{"h":[{"d":[{"s":["`alenihay~","`ka~`^nihay~"],"f":"內急了，想大便了。"}]}],"stem":"aleni'","t":"aleni'ay"}
+,"alenih":{"h":[{"d":[{"s":["`alenih~","`ka~`^nih~"],"e":["￹`alenih~ `cingra~.￺￻他內急。"],"f":"內急，想大便。"}]}],"t":"alenih"}
+,"alenihay":{"h":[{"d":[{"f":"內急的，想大便了。"},{"s":["`aleni'ay~","`ka~`^nihay~"],"e":["￹`Alenihay~ `kako~.￺￻我想大便。"],"f":"指內急、想大便的。"}]}],"stem":"alenih","t":"alenihay"}
+,"ali":{"h":[{"d":[{"e":["￹`Cocoen~ `ko~ `safa~, `ali~!￺￻要給弟弟餵奶呀！"],"f":"語氣助詞。表示：啊！呀！"}]}],"t":"ali"}
+,"aliki":{"h":[{"d":[{"s":["`kaliki~"],"e":["￹`Pakaka~ `ko~ `aliki~ `ningra~ `a~ `romakat~.￺￻他走路速度特別快。"],"f":"速度快，快速。"}]}],"t":"aliki"}
+,"alikiay":{"h":[{"d":[{"e":["￹`Alikiay~ `koya~ `takolil~ `a~ `comikay~.￺￻那隻兔子跑得快。"],"f":"速度很快的。"},{"e":["￹`Alikiay~ `a~ `kapah~.￺￻速度跑得快的年輕人。"],"f":"指跑得快、走得快的。"}]}],"stem":"aliki","t":"alikiay"}
+,"alikien":{"h":[{"d":[{"e":["￹`Alikien~ `a~ `romakat~!￺￻走快點！","￹`Alikien~ `a~ `micomod~!￺￻快點進去！"],"f":"把速度、動作加快點，加速。"}]}],"stem":"aliki","t":"alikien"}
+,"alili":{"h":[{"d":[{"s":["`'ariri~"],"e":["￹`Taringen~ `ko~ `panay~ `i~ `alili~.￺￻把米堆放在倉庫裡。"],"f":"穀倉，倉庫。"}]}],"t":"alili"}
+,"alimaced":{"h":[{"d":[{"s":["`alimoced~"],"f":"肌肉酸痛。"}]}],"t":"alimaced"}
+,"alimacedan":{"h":[{"d":[{"e":["￹`Alimacedan~ `cingra~ `to~ `nika~ `comikay~ `inacila~.￺￻他昨天跑得肌肉酸痛。"],"f":"指強烈運動或勞作後的肌肉酸痛。"}]}],"stem":"alimaced","t":"alimacedan"}
+,"alingato":{"h":[{"d":[{"s":["`ahowiday~","`ahowid~","`aray~"],"f":"謝謝，感謝〈日語借詞〉。"}]},{"d":[{"e":["￹`mananam~ `ko~ `Ripon~ `a~ `tamdaw~ `a~ `somowal~ `to~ `alingato~.￺￻日本人常說謝謝。"],"f":"感謝，多謝，謝謝。"}]}],"t":"alingato"}
+,"alingatoen":{"h":[{"d":[{"s":["`aahowiden~","`aarayen~"],"e":["￹`Alingatoen~ `ko~ `matayalay~ `a~ `tamdaw~￺￻對工作的人一定要感謝。","￹`Alingatoen~ `ako~ `ko~ `widang~ `ako~!￺￻我要感謝我的朋友！","￹`Alingatoen~ `ako~ `kiso~!￺￻我十分感謝你！"],"f":"要感謝、感激，要感謝、感激的。"}]}],"tag":"[疊 2]","stem":"alingato","t":"alingatoen"}
+,"alinongnong":{"h":[{"d":[{"s":["`anongnong~"],"e":["￹`Mikilang~ `kako~ `to~ `saki~ `alinongnong~.￺￻我去伐木做房屋脊樑。"],"f":"房屋脊樑。"}]}],"t":"alinongnong"}
+,"alipel":{"h":[{"d":[{"s":["`rangat~","`'adipel~"],"e":["￹`no~ `waco~ `ko~ `alipel~.￺￻籬笆被狗挖了洞。"],"f":"籬笆。Matepong(ma^epong)"}]}],"t":"alipel"}
+,"aliw":{"h":[{"d":[{"s":["`widang~"],"e":["￹`Tayra~ `kami~ `i~ `loma'~ `ni~ `aliw~.￺￻我們到朋友家。"],"f":"朋友，伙伴。"}]}],"t":"aliw"}
+,"aliwatec":{"h":[{"d":[{"s":["`'aliwatec~","`sasi~`fed~","`sasi~`fud~"],"e":["￹`Aliwatec~ `ko~ `keliw~ `ako~.￺￻我的毛線擰絞。"],"f":"擰絞、彎曲、變形。"}]}],"t":"aliwatec"}
+,"alodaw":{"h":[{"d":[{"s":["`'afo~"],"e":["￹`Micakay~ `kami~ `to~ `alodaw~.￺￻我們去買灰肥料。"],"f":"灰燼，灰肥料。"}]}],"t":"alodaw"}
+,"alomi":{"h":[{"d":[{"s":["`fadito~"],"f":"鋁〈日語借詞〉。"}]}],"t":"alomi"}
+,"alonah":{"h":[{"d":[{"s":["`kakonah~","`lalonah~"],"e":["￹`Marikec~ `ko~ `alonah~.￺￻螞蟻很團結。"],"f":"螞蟻。"}]}],"t":"alonah"}
+,"alopal":{"h":[{"d":[{"s":["`'alopal~"],"e":["￹`Marohem~ `to~ `ko~ `alopal~.￺￻柿子熟了。"],"f":"柿子。"}]}],"t":"alopal"}
+,"aloponay":{"h":[{"d":[{"s":["`kado'engay~","`ka'ongtoay~"],"e":["￹`Milimek~ `i~ `pongkang~ `ko~ `aloponay~.￺￻翠鳥躲在洞裡。"],"f":"翠鳥。"}]}],"t":"aloponay"}
+,"also":{"h":[{"d":[{"s":["`ka~`^eso'~"],"f":"好吃、可口。"}]}],"t":"also"}
+,"alto":{"h":[{"d":[{"f":"詩班第二部，女低音〈英語借詞〉。"}]}],"t":"alto"}
+,"ama":{"h":[{"d":[{"s":["`ma~`mu~","`fofo~"],"e":["￹`Awaayto~ `ko~ `ama~ `ako~.￺￻我奶奶不在人間了。"],"f":"祖母，奶奶。(閩南語借詞)。"}]}],"t":"ama"}
+,"amaanen":{"h":[{"d":[{"e":["￹`Amaanen~ `kona~ `demak~?￺￻這事情要怎麼辦？"],"f":"怎麼辦，怎樣做。"}]}],"t":"amaanen"}
+,"amah":{"h":[{"d":[{"s":["`sa~`^edah~","`sa~`^emah~","`kahemaw~"],"e":["￹`Amah~ `ko~ `rakat~ `no~ `pusi~.￺￻貓的步伐很輕。"],"f":"輕，輕微。"}]}],"t":"amah"}
+,"amahay":{"h":[{"d":[{"f":"輕的，"},{"s":["`sa~`^edahay~","`sa~`^emahay~","`kahemaway~"],"e":["￹`Tada~ `amahay~ `kiso~.￺￻你太輕了。"],"f":"輕微的。"}]}],"stem":"amah","t":"amahay"}
+,"amahen":{"h":[{"d":[{"s":["`sa~`^edahen~","`sa~`^emahen~","`ka~`hemawen~"],"e":["￹`Amahen~ `a~ `romakat~!￺￻走路請輕一點！","￹`Amahen~ `ko~ `honi~!￺￻聲音輕一點！"],"f":"放輕點。"}]}],"stem":"amah","t":"amahen"}
+,"amamokot":{"h":[{"d":[{"s":["`'amamokot~"],"e":["￹`Si^enawen~ `kako~,`amamokot~ `sa~ `a~ `mafuti'~‬.￺￻我感到冷就蜷身而睡。"],"f":"身軀蜷曲貌。"}]}],"t":"amamokot"}
+,"amanal":{"h":[{"d":[{"s":["`'amanal~","`'akonal~","`'anal~"],"e":["￹`Amanal~ `kona~ `lotok~.￺￻這座山光禿禿的。"],"f":"光禿禿，寸草不生。"}]}],"t":"amanal"}
+,"amanalay":{"h":[{"d":[{"s":["`'amanalay~"],"e":["￹`Amanalay~ `a~ `lotok~.￺￻光禿禿的山。"],"f":"光禿禿的、寸草不長的。"}]}],"stem":"amanal","t":"amanalay"}
+,"amecid":{"h":[{"d":[{"f":"公猴，大雄猴。"}]}],"t":"amecid"}
+,"amin":{"h":[{"d":[{"f":"阿們〈希臘語/拉丁文借詞〉。"}]}],"t":"amin"}
+,"amoko%27":{"h":[{"d":[{"s":["`amoto'~"],"e":["￹`Mana~ `amoko'~ `konini~ `a~ `kotang~?￺￻這把矛槍為什麼這樣短？"],"f":"短，短小。"}]}],"t":"amoko'"}
+,"amoko%27ay":{"h":[{"d":[{"e":["￹`Amoko'ay~ `to~ `mamang~ `ko~ `ca~`ca'dongan~.￺￻衣袖短了一點。","￹`Amoko'ay~ `a~ `ka~`^red~.￺￻短的繩子。"],"f":"短的，短小的。"}]}],"stem":"amoko'","t":"amoko'ay"}
+,"amoko%27en":{"h":[{"d":[{"e":["￹`Amoko'en~ `ko~ `oo'~ `no~ `'to~!￺￻把桌腳弄短。"],"f":"削短，縮短。"}]}],"stem":"amoko'","t":"amoko'en"}
+,"amoot":{"h":[{"d":[{"s":["`tapedak~","`maamoot~"],"e":["￹`Halafin~ `to~ `ma'orad~,`sa~`amootsato~ `ko~ `riko'~.￺￻下了很久的雨衣服都發了。"],"f":"霉味，發霉。"}]}],"t":"amoot"}
+,"amoraw":{"h":[{"d":[{"s":["`'aporaw~","`mataring~"],"e":["￹`Amoraw~ `ko~ `tafok~.￺￻沙堆積得很高。"],"f":"堆積得很高、很尖。"}]}],"t":"amoraw"}
+,"amorawen":{"h":[{"d":[{"e":["￹`Amorawen~ `ko~ `panay~!￺￻把稻穀堆起來！"],"f":"把東西堆積起來。"}]}],"stem":"amoraw","t":"amorawen"}
+,"amoto":{"h":[{"d":[{"s":["`siminto~〈日語常用借詞借詞〉"],"f":"水泥〈閩南語借詞〉。"}]},{"d":[{"e":["￹`'amoto~ `a~ `pa~`'nan~.￺￻水泥地板。"],"f":"水泥，洋灰。"}]}],"t":"amoto"}
+,"amuhuan":{"h":[{"d":[{"f":"〈閩南語借詞〉。紅毛蕃，泛指歐美人種。"}]}],"t":"amuhuan"}
+,"ana":{"h":[{"d":[{"e":["￹`Ana~ `mapolin~ `kako~.￺￻哎喲！我差一點就跌倒。"],"f":"(驚嘆詞)。表示害怕或一不留神的驚呼語。"}]}],"t":"ana"}
+,"ana%27i":{"h":[{"d":[{"s":["`nanay~"],"e":["￹`Ana'i~! `malaheci~ `kona~ `demak~.￺￻但願這事能成就。"],"f":"希望，但願。"}]}],"t":"ana'i"}
+,"anakex":{"h":[{"d":[{"s":["`anako'~"],"f":""}]}],"t":"anakex"}
+,"anako%27":{"h":[{"d":[{"s":["`anakex~"],"f":"(感嘆詞)。表示痛苦時的呼叫與呻吟。"}]}],"t":"anako'"}
+,"analal":{"h":[{"d":[{"s":["`maanalal~"],"e":["￹`Caayho~ `katahini~ `cangra~, `analal~ `ko~ `faloco'~ `ako~.￺￻他們尚未到來我心裡焦急。"],"f":"焦急，躁急。"}]}],"t":"analal"}
+,"ananay":{"h":[{"d":[{"f":"(後綴)。主要加在含有前綴 sapi-、saka- 的派生詞詞根之後，"},{"e":["￹如`sapi~`nanom~`ananay~￺￻想喝水。","￹`saka~`futi'~`ananay~￺￻想睡覺。","￹`saka'oradananay~￺￻天要下雨的樣子。"],"f":"表示願望、推測、估量等意義。"},{"e":["￹`cipaodo'ananay~￺￻好像嵌瑪瑙寶石似的。"],"f":"好像，好似，似的。"}]}],"t":"ananay"}
+,"anapal":{"h":[{"d":[{"s":["`adapaw~","`hokhok~","`mianapal~"],"e":["￹`Mianapal~ `kiso~ `i~ `tokos~.￺￻你在山上埋伏。"],"f":"埋伏，打伏擊戰。"}]}],"t":"anapal"}
+,"anaway":{"h":[{"d":[{"e":["￹`Anaway~! `maferfer~ `to~ `no~ `fali~ `ko~ `fadahong~ `no~ `loma'~!￺￻啊呀，房頂被風吹跑了！"],"f":"(感嘆詞)。表示遭遇險情的驚呼、驚嘆。"}]}],"t":"anaway"}
+,"ancohay":{"h":[{"d":[{"s":["`kancoh~"],"e":["￹`Ancohay~ `koni~ `a~ `ka~`misi'~`an~.￺￻這個便池的尿臭味是很重的。"],"f":"有尿臭味的。"}]}],"stem":"ancoh","t":"ancohay"}
+,"angah":{"h":[{"d":[{"s":["`kaniw~","`mangah~","`maangah~"],"e":["￹`Angah~ `ko~ `sowal~ `nona~ `wawa~.￺￻這孩子說謊話。"],"f":"謊言，虛偽，欺騙。"}]}],"t":"angah"}
+,"angang":{"h":[{"d":[{"e":["￹`Mi~`angang~ `kona~ `fayi~.￺￻巫婆在驅邪。"],"f":"(指巫師作法)，驅邪、趕鬼、通靈，旨在醫病。"}]}],"t":"angang"}
+,"angatiw":{"h":[{"d":[{"s":["`'angat~","`maangatiw~"],"e":["￹`Mapidah~ `kami~ `a~ `mimali~ `angatiw~ `ha~ `niyam~ `ko~ `fokes~.￺￻我們球隊輸球，我們就剃光。"],"f":"剃光，刮光。"}]}],"t":"angatiw"}
+,"angih":{"h":[{"d":[{"e":["￹`Miangih~ `ko~ `tao~ `i~ `takowanan~.￺￻別人在恐嚇我。"],"f":"嚇唬，恐嚇。"}]}],"t":"angih"}
+,"angihen":{"h":[{"d":[{"s":["`miangih~"],"e":["￹`Angihen~ `ako~ `kora~ `lotong~.￺￻我要去嚇唬那隻猴子。"],"f":"要嚇唬。"}]}],"stem":"angih","t":"angihen"}
+,"angil":{"h":[{"d":[{"s":["`maangil~"],"e":["￹`Awaay~ `ko~ `angil~ `ako~.￺￻我提不起精神。"],"f":"精神、勁兒。"}]}],"t":"angil"}
+,"angki":{"h":[{"d":[{"e":["￹`Angkien~ `ko~ `Cudad~.￺￻背書。"],"f":"背誦，暗記〈日語借詞〉。"}]}],"t":"angki"}
+,"angko":{"h":[{"d":[{"f":"密語，暗語〈日語借詞〉。"}]}],"t":"angko"}
+,"angliw":{"h":[{"d":[{"s":["`'angliw~"],"e":["￹`Angliw~ `ko~ `hemay~.￺￻飯有餿味。"],"f":"飯餿味，餿飯。"}]}],"t":"angliw"}
+,"angpaw":{"h":[{"d":[{"f":"紅包〈閩南語借詞〉。"}]},{"d":[{"e":["￹`Mililam~ `to~ `angpaw~ `ano~ `pafilongan~.￺￻過年領紅包。"],"f":"紅包(閩南語借詞)。"}]}],"t":"angpaw"}
+,"ani%27ih":{"h":[{"d":[{"s":["`alenih~","`ka~`^enih~"],"f":"大便內急。"}]}],"t":"ani'ih"}
+,"anini":{"h":[{"d":[{"e":["￹`O~ `ilisin~ `no~ `niyam~ `anini~.￺￻今天是我們的豐年節。"],"f":"今天。"},{"e":["￹`Anini~ `a~ `fulad~.￺￻這個月份，當月。","￹`anini~ `a~ `mihecaan~.￺￻這個年份，今年，當年。"],"f":"當今，現在。"}]}],"t":"anini"}
+,"anini%20saan":{"h":[{"d":[{"e":["￹`Anini~ `saan~ `ma~`hapinang~`to~ `ko~ `faloco'~ `iso~.￺￻近來我已經知道你的心意。"],"f":"(短語)。就是今天、近來，最近以來。"}]}],"t":"anini saan"}
+,"aniwac":{"h":[{"d":[{"s":["`naniwac~"],"e":["￹`Mitangtang~ `to~ `aniwac~.￺￻煮綠豆。"],"f":"綠豆。"}]}],"t":"aniwac"}
+,"annay":{"h":[{"d":[{"f":"招待〈日語借詞〉。"}]}],"t":"annay"}
+,"ano":{"h":[{"d":[{"f":"前綴。表示："},{"f":"即將，就要(進行)。anosawni 馬上，立即，立刻。"},{"f":"未來。anocila 明天。anoromamiheca 明年。"}]}],"t":"ano"}
+,"anoca":{"h":[{"d":[{"e":["￹`Pakalonan~ `anoca~ `midangoy~?￺￻搭船或是游泳？"],"f":"(連接詞)。表示：或者，或是。"}]}],"t":"anoca"}
+,"anocila":{"h":[{"d":[{"e":["￹`Miseking~ `kami~ `anocila~.￺￻我們明天考試。"],"f":"明天。"},{"s":["`ancila~"],"e":["￹`Talacowa~ `kamo~ `anocila~?￺￻後天你們去哪裡？"],"f":"另一天，後天。"}]}],"stem":"cila","t":"anocila"}
+,"anocila%20no%20cila":{"h":[{"d":[{"e":["￹`Mikadafo~ `kako~ `anocila~ `no~ `cila~.￺￻我大後天要出嫁。"],"f":"(短語)。後天，大後天，另外的日子。"}]}],"t":"anocila no cila"}
+,"anocima":{"h":[{"d":[{"e":["￹`Anocima~ `ko~ `kahemekan~ `iso~?￺￻到底你欣賞誰？"],"f":"可能是誰，也許是誰。"}]}],"stem":"cima","t":"anocima"}
+,"anocima%20sa":{"h":[{"d":[{"e":["￹`Ya~！ `widang~！￺￻anocima sa kako!"],"f":"(短語)。以為是誰呢。"}]}],"t":"anocima sa"}
+,"anocima%20sa%20kako":{"h":[{"d":[{"s":["`anocima~ `sa~"],"e":["￹`Anocima~ `sa~ `kako~, `o~ `kiso~ `ha~ `idangaw~!￺￻我以為是誰，原來是你呀！"],"f":"(短語)。我以為是誰。"}]}],"t":"anocima sa kako"}
+,"anodadaya":{"h":[{"d":[{"e":["￹`Talacowa~ `kiso~ `misalama~ `anodadaya~ `saw~?￺￻今晚你要去哪裡玩？"],"f":"今晚，今夜。"}]}],"stem":"dadaya","t":"anodadaya"}
+,"anodafak":{"h":[{"d":[{"s":["`papacem~"],"e":["￹`Anodafak~ `mi'anip~ `kami~.￺￻明天我們要插秧。"],"f":"第二天清晨，翌日晨。"}]}],"stem":"dafak","t":"anodafak"}
+,"anohacowa":{"h":[{"d":[{"e":["￹`Anohacowa~ `a~ `masa'opo~?￺￻什麼時候集合？","￹`Anohacowa~ `kiso~ `a~ `tayni~ `anocila~ ?￺￻你明天什麼時候來？"],"f":"(指未來的)什麼時候，何時。"},{"f":"無論什麼時候，永遠。"}]}],"t":"anohacowa"}
+,"anohakowa":{"h":[{"d":[{"f":"指未來的什麼時候，何時"},{"e":["￹`Anohakowa~ `a~ `romi'ad~ `tayra~ `sato~ `kami~.￺￻不一定哪一天我們會去。"],"f":"不知何時，不一定哪一天。"}]}],"stem":"hakowa","t":"anohakowa"}
+,"anohakowa%20a%20romi%27ad":{"h":[{"d":[{"e":["￹`Anohakowa~ `a~ `romi'ad~ `i~, `o~ `ma~`malaheci~ `konini~ `a~ `demak~.￺￻總有一天這件事會完成的。"],"f":"(短語)。總有一天。"}]}],"t":"anohakowa a romi'ad"}
+,"anohatini":{"h":[{"d":[{"f":"如果這樣的話，倘若如此。"},{"e":["￹`Anohatini~ `misa~`tapang~`to~ `kita~!￺￻那麼現在我們開始吧！"],"f":"那麼現在，此刻，這時候。"}]}],"stem":"tini","t":"anohatini"}
+,"anohatira":{"h":[{"d":[{"f":"如果那樣的話。"},{"e":["￹`anohatira~ `i~, `paterashan~ `a~ `milicay~ `ko~ `tamdaw~.￺￻那麼，你就隨便去問人吧。"],"f":"那麼。"}]}],"stem":"tira","t":"anohatira"}
+,"anohatira%20aca":{"h":[{"d":[{"e":["￹`Anohatira~ `aca~,`kako~ `ko~ `mi~`kotay~.￺￻那樣的話，我來代理。"],"f":"(短語)。那樣的話。"}]}],"t":"anohatira aca"}
+,"anohoni":{"h":[{"d":[{"s":["`anosawni~"],"e":["￹`Fa'det~ `to~ `anohoni~, `h^longen~ `ako~ `ko~ `riko'~.￺￻一會兒天熱了，我就把衣服脫下來。"],"f":"一會兒，即刻，馬上就。"}]}],"stem":"honi","t":"anohoni"}
+,"anolafii":{"h":[{"d":[{"e":["￹`Anolafii~ `ko~ `saka~ `kerah~ `no~ `riyal~.￺￻海水退潮時間在半夜會。"],"f":"在半夜，在深夜。"}]}],"stem":"lafii","t":"anolafii"}
+,"anolatek":{"h":[{"d":[{"e":["￹`Anolatek~ `i~, `tayra~ `i~ `toko~`tokosan~ `a~ `mi'adop~.￺￻有時上山打獵。"],"f":"有時候。"}]}],"t":"anolatek"}
+,"anomamiheca":{"h":[{"d":[{"e":["￹`Mimaan~ `kiso~ `anomamiheca~ `saw~?￺￻明年你要做什麼(工作)呢？"],"f":"明年。"}]}],"stem":"miheca","t":"anomamiheca"}
+,"anopa%27aliwacan":{"h":[{"d":[{"e":["￹`Anopa'aliwacan~ `i~, `o~ `pi~`ilisin~`an~.￺￻假日時，是豐年節。"],"f":"假日。"}]}],"stem":"'aliwac","t":"anopa'aliwacan"}
+,"anopapacem":{"h":[{"d":[{"s":["`anodafak~"],"e":["￹`Pina~ `ko~ `toki~ `kamo~ `a~ `talapitilidan~ `anopapacem~?￺￻明天早上你們幾點到學校？"],"f":"明天早上、翌日晨。"}]}],"stem":"papacem","t":"anopapacem"}
+,"anoroma":{"h":[{"d":[{"e":["￹`Anoroma~ `miheca~.￺￻明年。","￹`Anoroma~ `fulad~.￺￻下個月。"],"f":"(未來的)另一個。"}]}],"stem":"roma","t":"anoroma"}
+,"anoroma%20miheca":{"h":[{"d":[{"e":["￹`Anoroma~ `miheca~ `miliyaw~ `haca~ `ko~ `miso~ `a~ `tayni~, `makenaay~ `saw~!￺￻明年你再來這裡，怎麼樣呢！"],"f":"(短語)。下一個年度，明年。"}]}],"t":"anoroma miheca"}
+,"anosaan":{"h":[{"d":[{"e":["￹`Anosaan~ `pacaliwen~ `ako~ `kiso~ `to~ `payso~.￺￻如果那樣的話，我借錢給你。"],"f":"如果正如你說的那樣、那麼…；如果那樣的話、那麼…。"}]}],"stem":"sa","t":"anosaan"}
+,"anosamaan":{"h":[{"d":[{"e":["￹`Anosamaan~ `aca~?￺￻會出現什麼變化呢？"],"f":"可能出現的變化。"},{"e":["￹`Anosamaan~ `aca~ `tanamen~ `ita~ `a~ `milicay~ `cangra~.￺￻無論如何我們試著詢問他們。"],"f":"不管怎麼樣，無論如何。"}]}],"t":"anosamaan"}
+,"anosawni":{"h":[{"d":[{"s":["`anohoni~"],"e":["￹`Ira~ `to~ `anosawni~ `ci~ `Kolas~. `Kolas~￺￻馬上就來。","￹`Mafuti'~ `to~ `kako~ `anosawni~.￺￻我一會兒就去睡覺。"],"f":"等一會兒、馬上、立刻。"}]}],"stem":"sawni","t":"anosawni"}
+,"anta%27":{"h":[{"d":[{"e":["￹`Aanta'~ `ko~ `holo~.￺￻飯未熟。","￹`Anta'~ `ho~ `ko~ `titi~.￺￻肉還沒有煮熟。"],"f":"生的，還沒有成熟的。"}]}],"t":"anta'"}
+,"anta%27ay":{"h":[{"d":[{"e":["￹`Aanta'ay~ `koni~ `a~ `hemay~.￺￻這個飯是生的。"],"f":"生的，還沒有熟的。"},{"s":["`manta'~"],"e":["￹`Anta'ay~ `ko~ `patay~.￺￻橫死。"],"f":"指橫死者，暴卒者。"}]}],"stem":"anta'","t":"anta'ay"}
+,"antang":{"h":[{"d":[{"f":"銅〈閩南語借詞〉。"}]}],"t":"antang"}
+,"antina":{"h":[{"d":[{"f":"天線〈日語借詞〉。"}]}],"t":"antina"}
+,"aocoran":{"h":[{"d":[{"e":["￹`Kiso~ `ko~ `aocoran~ `niyam~ `a~ `miki~`fi~.￺￻我派你去站崗。"],"f":"派遣、命令去執行任務的(對像)。"}]}],"tag":"[疊 2]","stem":"ocor","t":"aocoran"}
+,"aocoren":{"h":[{"d":[{"s":["`aolien~","`miocor~"],"e":["￹`Ci~ `Kacaw~ `ko~ `aocoren~ `ako~ `a~ `tamdaw~.`Kacaw~￺￻是我要派去的人。"],"f":"要派遣的、打發的(對像)。"}]}],"tag":"[疊 2]","stem":"ocor","t":"aocoren"}
+,"aokosen":{"h":[{"d":[{"s":["`miokos~"],"e":["￹`Caka~ `samaan~ `ko~ `demak~ `ningra~, `o~ `maan~ `ko~ `aokosen~.￺￻他沒什麼作為，有甚好誇讚的。"],"f":"要炫耀的、誇耀的。"}]}],"tag":"[疊 2]","stem":"okos","t":"aokosen"}
+,"aolahen":{"h":[{"d":[{"s":["`maolah~"],"e":["￹`O~ `aolahen~ `a~ `wawa~ `cingra~.￺￻他是值得喜歡心疼的孩子。","￹`O~ `aolahen~ `ita~ `ko~ `tao~.￺￻我們要對別人普施愛心。"],"f":"要愛的、喜歡的(對像)。"}]}],"tag":"[疊 2]","stem":"olah","t":"aolahen"}
+,"aolien":{"h":[{"d":[{"s":["`ito~","`ito~`en~","`aitoen~","`aocoren~","`mioli~"],"e":["￹`Cima~ `ko~ `aolien~ `ita~ `a~ `tamdaw~?￺￻我們要派誰呢？"],"f":"要打發的、差遣的(對像)。"}]}],"tag":"[疊 2]","stem":"oli","t":"aolien"}
+,"aonicen":{"h":[{"d":[{"s":["`mionic~"],"e":["￹`O~ `maan~ `ko~ `aonicen~ `iso~ `to~ `kakaenen~.￺￻你要挑什麼食呢？"],"f":"偏食的(美味佳餚)。"}]}],"tag":"[疊 2]","stem":"onic","t":"aonicen"}
+,"apa":{"h":[{"d":[{"s":["`pla~","`fola~","`maapa~"],"e":["￹`Apa~ `saan~ `ko~ `faloco'~ `ako~.￺￻我的心很亂。"],"f":"愚蠢，傻瓜，瘋子。"}]}],"t":"apa"}
+,"apac":{"h":[{"d":[{"f":"睡懶覺，晚起床。"},{"s":["`otang~","`maapac~"],"e":["￹`Maapac~ `ko~ `katayni~ `ako~.￺￻我來遲了。"],"f":"遲到，落後。"}]}],"t":"apac"}
+,"apek":{"h":[{"d":[{"s":["`pekpek~","`ti'ti'~","`miapek~"],"e":["￹`Apeken~ `ko~ `'ongcoy~.￺￻把磐石敲打。"],"f":"用手、工具敲打、打碎。"}]}],"t":"apek"}
+,"apelah":{"h":[{"d":[{"e":["￹`Apelah~ `ko~ `fokes~ `ako~ `to~ `alafoh~.￺￻我頭髮上因灰塵而變灰色。"],"f":"灰色，深顏色。"}]}],"t":"apelah"}
+,"apelahay":{"h":[{"d":[{"e":["￹`Apelahay~ `ko~ `cengel~ `nora~ `kiradom~.￺￻那塊布的顏色深了。"],"f":"顏色深了。"},{"e":["￹`Apelahay~ `a~ `kafer~.￺￻深灰色的褲子。"],"f":"深顏色的，灰色的。"}]}],"stem":"apelah","t":"apelahay"}
+,"apener":{"h":[{"d":[{"e":["￹`Pakaka~ `ko~ `apener~ `ningra~.￺￻他太矮。"],"f":"矮，矮小，低矮。"}]}],"t":"apener"}
+,"apeneray":{"h":[{"d":[{"f":"矮的，低矮。"},{"s":["`po^ner~"],"e":["￹`Kolong~ `ko~ `apeneray~ `to~ `'fa~.￺￻牛比馬矮。"],"f":"矮小的。"}]}],"stem":"apener","t":"apeneray"}
+,"apet":{"h":[{"d":[{"e":["￹`O~ `apet~ `ako~ `ci~ `Noro~.￺￻諾魯是我的連襟。"],"f":"同胞配偶之間的互稱，連襟。"}]}],"t":"apet"}
+,"apicemod":{"h":[{"d":[{"s":["`papicomod~"],"e":["￹`Sedisa~ `ko~ `singsi~ `a~ `apicemod~ `i~ `laloma'~ `toya~ `wawa~.￺￻老師微笑著叫孩子進屋裏。"],"f":"讓人進來、叫進來。"}]}],"stem":"cemod","t":"apicemod"}
+,"apid":{"h":[{"d":[{"f":"堵塞的地方。"}]}],"t":"apid"}
+,"apilid":{"h":[{"d":[{"s":["`'apilis~"],"e":["￹`Mapolin~ `cingra~ `i~ `apilid~.￺￻他在山坡地跌倒。"],"f":"斜坡，山坡。"}]}],"t":"apilid"}
+,"apipa%27icep":{"h":[{"d":[{"s":["`tataroan~"],"e":["￹`Oni~ `a~ `sapi~`pa'icep~ `to~ `malitengay~.￺￻這個是供給老人用的檳榔籐盤。"],"f":"給檳榔、放檳榔使用的器具。"}]}],"stem":"'icep","t":"apipa'icep"}
+,"apiyan":{"h":[{"d":[{"e":["￹`Maapiyan~ `kora~ `tamdaw~.￺￻那人沒精打彩。"],"f":"鴉片〈閩南語借詞〉。"}]},{"d":[{"e":["￹`Aka~ `pi~`hlot~ `to~ `apiyan~.￺￻不可吸食鴉片。"],"f":"鴉片，毒片。(閩南語借詞)。"}]}],"t":"apiyan"}
+,"araaw":{"h":[{"d":[{"e":["￹`Araaw~ `kona~ `demak~.￺￻這事很無聊。"],"f":"無所事事，無聊。"}]}],"t":"araaw"}
+,"araw%27aw":{"h":[{"d":[{"s":["`ngarawngaw~","`ma~`araw'aw~"],"e":["￹`Araw'aw~ `ko~ `papotal~.￺￻外面很吵。"],"f":"喧嚷，喧鬧，喧囂。"}]}],"t":"araw'aw"}
+,"aray":{"h":[{"d":[{"s":["`kansiya~","`ahowid~"],"e":["￹`Aray~ `to~ `pipadang~ `iso~.￺￻謝謝妳的協助。"],"f":"感謝，感激。"}]}],"t":"aray"}
+,"arayen":{"h":[{"d":[{"s":["`ahowid~","`ka~`nsiyaen~"],"e":["￹`Arayen~ `ko~ `singsi~.￺￻對老師深表謝意。"],"f":"要深表感謝。"}]}],"stem":"aray","t":"arayen"}
+,"arayhan":{"h":[{"d":[{"e":["￹`Arayhan~ `ako~ `kiso~!￺￻我對你十分感謝！"],"f":"十分感謝、感激。"}]}],"stem":"aray","t":"arayhan"}
+,"arekah":{"h":[{"d":[{"s":["`carekah~."],"e":["￹`Arekah~ `ko~ `kapal~ `iso~.￺￻你的手掌很粗糙。"],"f":"手撫摸時粗糙感。"}]}],"t":"arekah"}
+,"arekahay":{"h":[{"d":[{"e":["￹`Arekahay~ `koni~ `a~ `sikal~.￺￻這草蓆是很粗糙的。"],"f":"很粗糙的。"},{"s":["`carekahay~"],"f":"粗糙的。"}]}],"stem":"arekah","t":"arekahay"}
+,"arenganget":{"h":[{"d":[{"s":["`'anganget~","`miarenganget~"],"e":["￹`Arenganget~ `ko~ `fanoh~ `no~ `siri~.￺￻羊毛是捲的。"],"f":"毛髮捲曲、捲縮。"}]}],"t":"arenganget"}
+,"arfayto":{"h":[{"d":[{"f":"半工半讀，打工〈日語借詞〉。"}]}],"t":"arfayto"}
+,"ari":{"h":[{"d":[{"e":["￹`Awaay~ `ari~!￺￻沒有吧！"],"f":"(語氣助詞)。表示應答。"}]}],"t":"ari"}
+,"ariwawa":{"h":[{"d":[{"s":["`cara~"],"f":"打擾，妨礙他人。"}]}],"t":"ariwawa"}
+,"aro%27":{"h":[{"d":[{"f":"坐。"},{"s":["`ma~`ro~"],"e":["￹`Caka~ `a'alafin~ `ko~ `aro'~ `niyam~.￺￻我們坐不久。"],"f":"居住，駐紮。"}]}],"t":"aro'"}
+,"aro%27en":{"h":[{"d":[{"e":["￹`Aro'en~ `ako~ `ko~ `'anengang~ `ni~ `Kacaw~.￺￻我把卡照的椅子坐了。"],"f":"把位置坐了。"},{"e":["￹`Aro'en~ `itini~!￺￻請坐這裡！"],"f":"請坐下。"}]}],"stem":"aro'","t":"aro'en"}
+,"aro%27sa":{"h":[{"d":[{"e":["￹`Aro'sa~ `a~ `caciyaw~.￺￻坐著說話。","￹`Aro'sa~ `a~ `pa~`sla'~ `i~ `ka~`la^no~ `no~ `kilang~.￺￻在樹底下坐著休息。"],"f":"坐著，坐下來。"}]}],"stem":"aro'","t":"aro'sa"}
+,"arodaw":{"h":[{"d":[{"s":["`'olaw~","`koheting~"],"f":"黑，黑色。"}]}],"t":"arodaw"}
+,"arodaway":{"h":[{"d":[{"f":"黑了。"},{"e":["￹`Arodaway~ `ko~ `cengel~ `no~ `tosiya~ `ako~.￺￻我車子是黑色的。"],"f":"黑的，黑顏色的。"}]}],"stem":"arodaw","t":"arodaway"}
+,"as":{"h":[{"d":[{"e":["￹`As~,`o~ `maan~ `ko~ `misa~`'lian~ `ningra~ `hokini~?￺￻啊，他到底要求什麼呢？"],"f":"(感嘆詞)。表示懷疑、不解。"}]}],"t":"as"}
+,"asali":{"h":[{"d":[{"f":"乾脆〈日語借詞〉。"}]}],"t":"asali"}
+,"asfareto":{"h":[{"d":[{"f":"瀝青，柏油柏油路〈日語借詞〉。"}]}],"t":"asfareto"}
+,"asi":{"h":[{"d":[{"s":["`maasi~","`pa~`tosi~"],"e":["￹`Maasi~ `ko~ `ka~`cedah~.￺￻過辣的。"],"f":"過度，過分。"}]}],"t":"asi"}
+,"asik":{"h":[{"d":[{"f":"掃地，掃除。"}]}],"t":"asik"}
+,"asiken":{"h":[{"d":[{"e":["￹`Asiken~ `ako~ `ko~ `pa~`^nan~.￺￻我把地板掃一掃。"],"f":"把地清掃。"},{"s":["`miasik~"],"e":["￹`Asiken~ `ko~ `pa~`putal~!￺￻請打掃庭院！"],"f":"請打掃。"}]}],"stem":"asik","t":"asiken"}
+,"asimaan":{"h":[{"d":[{"e":["￹`Asimaan~ `kako~ `toni~ `a~ `demak~.￺￻我對此事抱無所謂的態度。"],"f":"無所謂，隨便，不當一回事。"}]}],"t":"asimaan"}
+,"asimaanay":{"h":[{"d":[{"e":["￹`Asimaanay~ `kako~ `to~ `sowal~ `ira~.￺￻我對他的說法無所謂了。"],"f":"隨隨便便，無所謂了。"},{"e":["￹`Asimaanay~ `a~ `tamdaw~.￺￻隨隨便便的人。"],"f":"指凡事隨便、不重視的(人)。"}]}],"stem":"asimaan","t":"asimaanay"}
+,"asimaanhan":{"h":[{"d":[{"e":["￹`Ano~ `asimaanhan~ `kaciriko'~,`cowa~ `ka~`nga'ay~.￺￻如果穿著過於隨便不好。"],"f":"隨隨便便。"}]}],"stem":"asimaan","t":"asimaanhan"}
+,"asip":{"h":[{"d":[{"s":["`miasip~"],"e":["￹`miasip~ `to~ `sinpong~.￺￻閱讀報紙。"],"f":"念誦，朗讀，閱讀。"}]}],"t":"asip"}
+,"asipen":{"h":[{"d":[{"e":["￹`Asipen~ `no~ `singsi~ `ko~ `sakatosa~ `a~ `liyad~.￺￻老師朗讀第二課。'Asiro 台東市豐年地區。"],"f":"把(課文)念誦、朗讀。"}]}],"stem":"asip","t":"asipen"}
+,"aso%27":{"h":[{"d":[{"s":["`ka~`^eso'~","`'aredet~"],"e":["￹`Awaay~ `ko~ `aso'~.￺￻沒有好吃的。"],"f":"好吃，美味。"}]}],"t":"aso'"}
+,"ata":{"h":[{"d":[{"e":["￹`Ata~, `tayra~ `a~ `misalama~!￺￻走，一起去玩耍吧！"],"f":"(表示招呼對方一同前往)走吧！一起走吧！"}]}],"t":"ata"}
+,"ataen":{"h":[{"d":[{"e":["￹`Ataen~ `ningra~ `koya~ `wawa~ `a~ `minokay~.￺￻他邀請那些孩子一起走回家。"],"f":"招呼伙伴一起走。"}]}],"stem":"ata","t":"ataen"}
+,"atalimay":{"h":[{"d":[{"f":"活該，當然的事〈日語借詞〉。"}]}],"t":"atalimay"}
+,"ataneng":{"h":[{"d":[{"f":"寬廣，廣闊，遼闊。"},{"s":["`adaneng~"],"e":["￹`Ataneng~ `ko~ `omah~ `ni~ `Songlay~.￺￻宋萊先生的農地很廣。"],"f":"做的農事很多，或閱歷廣。"}]}],"t":"ataneng"}
+,"atanengay":{"h":[{"d":[{"e":["￹`Atanengay~ `ko~ `karomakatan~ `a~ `lalan~.￺￻要走的道路是很寬的。"],"f":"寬廣的、廣闊的。"},{"s":["`adanengay~"],"e":["￹`Atanengay~ `ko~ `mikaomahan~ `ningra~.￺￻他做的農地很廣。","￹`Atanengay~ `ko~ `mi'osian~ `ako~ `a~ `tilid~.￺￻我閱讀的書很多。"],"f":"很多，或閱歷很廣。"}]}],"stem":"ataneng","t":"atanengay"}
+,"atef":{"h":[{"d":[{"s":["`tarakal~"],"f":"圈套。"}]}],"t":"atef"}
+,"atefed":{"h":[{"d":[{"s":["`ni~`adifat~","`ni~`'eteng~","`miatefed~"],"e":["￹`Miatefed~ `ko~ `tawo~ `to~ `lalan~ `ako~.￺￻別人阻擋了我的路。"],"f":"阻止，遏止，妨礙。"}]}],"t":"atefed"}
+,"ati":{"h":[{"d":[{"e":["￹`Ati~, `liliden~ `ita~ `koni~ `a~ `kilang~.￺￻來吧，我們抬這根木頭。"],"f":"表示招呼或邀請同伴過來。"}]}],"t":"ati"}
+,"ati%27ih":{"h":[{"d":[{"s":["`atih~"],"f":"表示不好了之驚嘆語。"}]}],"t":"ati'ih"}
+,"atih":{"h":[{"d":[{"s":["`ati'ih~"],"e":["￹`Atih~, `ca~ `ka~`nga'ay~!￺￻啊呀，不好！"],"f":"(感嘆詞)。表示不好之驚訝、驚嘆。"}]}],"t":"atih"}
+,"atira":{"h":[{"d":[{"e":["￹`Atira~, `atira~! `ta~`tayni~ `to~ `ko~ `tosiya~!￺￻閃開，閃開！汽車要來了！"],"f":"(感嘆詞)。表示招呼他人走開、躲避。"}]}],"t":"atira"}
+,"atiw":{"h":[{"d":[{"s":["`tatiw~","`miatiw~"],"e":["￹`Miatiw~ `kako~ `to~ `ka~`pang~.￺￻我提行李。"],"f":"手提，提攜。"}]}],"t":"atiw"}
+,"atiwen":{"h":[{"d":[{"e":["￹`Atiwen~ `ako~ `kora~ `cayna~, `piparoan~ `to~ `dateng~.￺￻我把籃子提來裝菜。"],"f":"把東西提起來。"}]}],"stem":"atiw","t":"atiwen"}
+,"ato":{"h":[{"d":[{"e":["￹`Wama~ `ato~ `wina~.￺￻父親和母親。","￹`Cidal~ `ato~ `fulad~ `ato~ `fu'is~.￺￻太陽、月亮和星星。"],"f":"(連接詞)。表示：和，與，跟，以及。"}]}],"t":"ato"}
+,"atod":{"h":[{"d":[{"s":["`fadokos~","`fadokoy~"],"e":["￹`Mitangtang~ `i~ `lotok~ `ci~ `ina~ `to~ `atod~.￺￻媽在山上煮地瓜湯。"],"f":"蕃薯湯，地瓜湯。"}]}],"t":"atod"}
+,"atol":{"h":[{"d":[{"s":["`'atol~."],"e":["￹`Ma~`tli~ `i~ `atol~ `ko~ `teking~.￺￻火柴放置在石堆裡。"],"f":"石堆。"}]}],"t":"atol"}
+,"atrac":{"h":[{"d":[{"s":["`korah~"],"e":["￹`Atrac~ `ko~ `podac~ `no~ `tali~.￺￻竽頭的皮是褐色的","￹-`aw~ (後綴)表示：￺￻sapinanomaw","￹想喝水￺￻sakatayraaw"],"f":"褐色。"}]}],"t":"atrac"}
+,"aw":{"h":[{"d":[{"e":["￹`Aw~! `tada~ `nga'ay~ `ko~ `faloco'~ `iso~.￺￻啊，你的心意真好。"],"f":"(感嘆詞)。"}]}],"t":"aw"}
+,"awa":{"h":[{"d":[{"e":["￹`Awa~ `ko~ `tamdaw~.￺￻沒有人。","￹`Awa~ `ko~ `kihar~.￺￻無憂無慮，自由自在。"],"f":"無，沒有。"},{"e":["￹`Awa~ `a~ `ma~`hera~.￺￻沒發現。","￹`Awaho~ `a~ `ma'araw~.￺￻尚未看見過。"],"f":"否定副詞。沒有，沒。"}]}],"t":"awa"}
+,"awa%20ko%20cecacecay%20aca":{"h":[{"d":[{"e":["￹`Awa~ `ko~ `cecacecay~ `aca~ `a~ `tamdaw~.￺￻一個人也沒有。","￹`Awa~ `ko~ `mamamamang~ `aca~￺￻(短語)。一點也沒有，哪怕一點點也沒有。","￹`Awa~ `ko~ `mamamamang~ `aca~ `a~ `fali~.￺￻一點風也沒有。"],"f":"(短語)。一個也沒有，哪怕一個也沒有。"}]}],"t":"awa ko cecacecay aca"}
+,"awa%20ko%20mimimiming%20aca":{"h":[{"d":[{"e":["￹`Awa~ `ko~ `mimimiming~ `aca~ `a~ `honi~.￺￻連一點聲音都沒有。"],"f":"(短語)。一點也沒有，哪怕一點點也沒有。"}]}],"t":"awa ko mimimiming aca"}
+,"awa%20ko%20pakahecaday":{"h":[{"d":[{"e":["￹`Awa~ `ko~ `pakahecaday~ `to~ `tayal~ `ningra~.￺￻沒人能比得上他工作的能力。","￹`Awa~ `ko~ `pakahecaday~ `to~ `kaliki~ `ako~.￺￻沒有人能趕上我的速度。"],"f":"(短語)。沒有人能像那樣的，沒有人能達到那個水平。"}]}],"t":"awa ko pakahecaday"}
+,"awa%20to%20ko%20%5Eepoc":{"h":[{"d":[{"e":["￹`Awa~ `to~ `ko~ `^epoc~, `to~ `na~ `demak~.￺￻沒辦法做這個工作。沒有用，毫無用處。","￹`Awa~ `to~ `ko~ `^epoc~ `to~ `hatiniay~ `a~ `sowal~.￺￻這樣的話沒什麼用處。"],"f":"(短語)。沒辦法，毫無價值。"}]}],"t":"awa to ko ^epoc"}
+,"awaawasa":{"h":[{"d":[{"e":["￹`Awaawasa~ `a~ `tayni~ `cingra~.￺￻他一直沒來。"],"f":"什麼也沒有地，就這樣一直沒來。一無所有地。"}]}],"tag":"[疊 1]","stem":"awa","t":"awaawasa"}
+,"awaay":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `fali~.￺￻沒有風了。","￹`Awaay~ `ko~ `pising~ `ningra~ `anini~.￺￻他今天沒面子了。"],"f":"沒有了，沒有的。"},{"e":["￹`Awaay~ `ko~ `ramod~.￺￻未婚者。"],"f":"沒有的(人)。"}]}],"stem":"awa","t":"awaay"}
+,"awaay%20ko%20%5Eepoc":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `^epoc~ `ko~ `katayal~ `ako~.￺￻我做這個沒意義。"],"f":"(短語)。沒有用處，沒有價值。"}]}],"t":"awaay ko ^epoc"}
+,"awaay%20ko%20kihar":{"h":[{"d":[{"e":["￹`Awaay~ `ko~ `kihar~ `a~ `romadiw~.￺￻我無憂無慮的唱歌。"],"f":"(短語)。自由自在地。"}]}],"t":"awaay ko kihar"}
+,"awakay":{"h":[{"d":[{"s":["`'asidaw~","`'awakay~"],"e":["￹`Makaen~ `ko~ `awakay~ `no~ `lapot~.￺￻地瓜葉的莖部可以吃。"],"f":"莖，莖部。"}]}],"t":"awakay"}
+,"awasaca":{"h":[{"d":[{"e":["￹`Awasaca~ `a~ `makilim~ `ako~ `koya~ `masidayay~ `a~ `kolong~.￺￻我怎麼找也找不到那頭丟失的牛。"],"f":"怎麼也沒有，還是沒有。"}]}],"t":"awasaca"}
+,"awid":{"h":[{"d":[{"e":["￹`Caka~ `filo~ `awid~.￺￻沒辦法。"],"f":"(超過承受力)過度，過量的感嘆語。"},{"s":["`selal~","`kapot~(同年齡階層)"],"e":["￹`Cima~ `ko~ `awid~ `namo~?￺￻你們是那一級的？"],"f":"阿美族男性年齡組織中同一級別的成員。指同輩、同窗、好友中的排行。"}]}],"t":"awid"}
+,"awtal":{"h":[{"d":[{"s":["`pa~`putal~"],"e":["￹`Maro'~ `i~ `awtal~ `ko~ `tamdaw~.￺￻人們坐在屋外。"],"f":"庭院，屋外，外面。"}]}],"t":"awtal"}
+,"ax%27ax":{"h":[{"d":[{"e":["￹`Ax'ax~ `ko~ `tiyad~.￺￻肚子好脹。"],"f":"肚子脹，飽脹。"}]}],"t":"ax'ax"}
+,"ax%27axsa":{"h":[{"d":[{"s":["`ma~`ax'ax~"],"e":["￹`Tada~ `adihay~ `ko~ `mikaenan~ `ako~, `ax'axsa~ `ko~ `tiyad~ `ako~.￺￻我吃過量了，肚子脹脹的。"],"f":"肚子脹鼓鼓的。"}]}],"stem":"ax'ax","t":"ax'axsa"}
+,"axiyan":{"h":[{"d":[{"s":["`apiyan~"],"e":["￹`Ma~`xiyan~ `cingra~ `to~ `tamako~.￺￻他煙癮大。"],"f":"煙癮大(閩南語借詞)。"}]}],"t":"axiyan"}
+,"ay":{"h":[{"d":[{"e":["￹`Ay~, `ay~,`adayaw~ `ako~!￺￻唉，唉，我的小女孩呀！"],"f":"(感嘆詞)。表示惋惜與哀傷。"}]}],"t":"ay"}
+,"aya":{"h":[{"d":[{"e":["￹`Aya~, `marorayay~ `kiso~ `haw~!￺￻啊呀，你累了吧！"],"f":"(感嘆詞)。表示同情、憐憫與關心。"}]}],"t":"aya"}
+,"ayah":{"h":[{"d":[{"e":["￹`Ayah~,`kalikiay~ `ko~ `rakat~ `ningra~!￺￻啊呀，他走路真快啊！"],"f":"(感嘆詞)。表驚奇、驚呀。"}]}],"t":"ayah"}
+,"aycen":{"h":[{"d":[{"s":["`kang~〈日語借詞〉"],"f":"癌症〈漢語借詞〉。"}]}],"t":"aycen"}
+,"aycu":{"h":[{"d":[{"f":"暗號〈日語借詞〉。"}]}],"t":"aycu"}
+,"ayi":{"h":[{"d":[{"s":["`miayi~"],"e":["￹`Miayi~ `to~ `'odax~ `ko~ `wawa~.￺￻孩子伸手要糖。"],"f":"(伸手向對方索取東西)拿來，給我！"}]}],"t":"ayi"}
+,"ayiw":{"h":[{"d":[{"e":["￹`Adiday~ `i~ `'alo~`'aloan~ `ko~ `ayiw~ `a~ `midangoy~.￺￻河裡很多鱔魚。"],"f":"鱔魚。"}]}],"t":"ayiw"}
+,"aylong":{"h":[{"d":[{"f":"熨斗〈日語借詞〉。"}]},{"d":[{"e":["￹`Mafana'~ `miaylong~ `ko~ `fafahi~ `ako~.￺￻我太太會燙衣服。","￹`Mi'aca~ `to~ `aylong~.￺￻買熨斗。"],"f":"熨斗(日本語借詞)。"}]}],"t":"aylong"}
+,"ayo":{"h":[{"d":[{"e":["￹`Ayo~, `adada~ `ko~ `tiyad~ `ako~!￺￻哎喲，我的肚子好痛！"],"f":"表示痛苦與哀傷(感嘆詞，閩南語借詞)。"}]}],"t":"ayo"}
+,"aysacu":{"h":[{"d":[{"f":"打招呼〈日語借詞〉。"}]}],"t":"aysacu"}
+,"aysekrim":{"h":[{"d":[{"e":["￹`Komaen~ `to~ `aysekrim~.￺￻吃冰淇淋。"],"f":"冰淇淋(英語借詞)。"}]}],"t":"aysekrim"}
+,"aysklim":{"h":[{"d":[{"f":"冰淇淋〈日英語借詞〉。"}]}],"t":"aysklim"}
+}

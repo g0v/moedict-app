@@ -1,0 +1,22 @@
+{"x":{"h":[{"d":[{"f":"阿美語的輔音之一。屬舌面後清擦音，音值 [ x ]。x 在阿美語中出現頻率不多，在詞尾位置時有輕微送氣現象。"}]}],"t":"x"}
+,"xa%27xa%27":{"h":[{"d":[{"s":["`ci~`'eci~"],"f":"水溝，溝渠。"}]}],"t":"xa'xa'"}
+,"xaxaw":{"h":[{"d":[{"f":"除草工具，小鋤。"}]}],"t":"xaxaw"}
+,"xaxawen":{"h":[{"d":[{"f":"用小鋤把…除草。"}]}],"stem":"xaxaw","t":"xaxawen"}
+,"xaxaxawen":{"h":[{"d":[{"f":"要用小鋤除草。"},{"f":"指要用小鋤除草的(莊稼)。"}]}],"tag":"[疊 2]","stem":"xaxaw","t":"xaxaxawen"}
+,"xaxeraen":{"h":[{"d":[{"f":"即將發現、尋找。"},{"f":"指要發現、尋找的(物件)。"}]}],"tag":"[疊 2]","stem":"xera","t":"xaxeraen"}
+,"xaxiraxiren":{"h":[{"d":[{"f":"要砍取制木塞的樹木。"},{"f":"指要砍取的(樹木)。"}]}],"tag":"[疊 2]","stem":"xiraxir","t":"xaxiraxiren"}
+,"xaxixawen":{"h":[{"d":[{"f":"要捕捉海龜、海鼈。"},{"f":"指要捕捉的(海龜、海鼈)。"}]}],"tag":"[疊 2]","stem":"xixaw","t":"xaxixawen"}
+,"xaxonen":{"h":[{"d":[{"f":"要吃麵條、米粉。"},{"f":"指要吃的(麵條、米粉)。"}]}],"tag":"[疊 2]","stem":"xon","t":"xaxonen"}
+,"xera":{"h":[{"d":[{"s":["`mi~`xera~"],"f":"發現，尋找。"}]}],"t":"xera"}
+,"xeraen":{"h":[{"d":[{"f":"把…發現、尋找。"}]}],"stem":"xera","t":"xeraen"}
+,"xerxer":{"h":[{"d":[{"s":["`maxerxer~"],"f":"紡車聲。"}]}],"t":"xerxer"}
+,"xerxersa":{"h":[{"d":[{"f":"紡車嗡嗡地叫著。"}]}],"stem":"xerxer","t":"xerxersa"}
+,"xiraxir":{"h":[{"d":[{"f":"一種樹的名稱。其木質可制木塞。"}]}],"t":"xiraxir"}
+,"xiraxiren":{"h":[{"d":[{"f":"把…砍取。"}]}],"stem":"xiraxir","t":"xiraxiren"}
+,"xiwxiw":{"h":[{"d":[{"s":["`ma~`xiwxiw~"],"f":"鼻息聲。"}]}],"t":"xiwxiw"}
+,"xixaw":{"h":[{"d":[{"f":"海龜，海鼈。"}]}],"t":"xixaw"}
+,"xixawen":{"h":[{"d":[{"f":"把海龜、海鼈捕捉。"}]}],"stem":"xixaw","t":"xixawen"}
+,"xiyan":{"h":[{"d":[{"f":"(鴉片、毒品的)煙癮。"}]}],"t":"xiyan"}
+,"xon":{"h":[{"d":[{"f":"麵條，米粉。"}]}],"t":"xon"}
+,"xonen":{"h":[{"d":[{"f":"吃麵條、米粉吧！"}]}],"stem":"xon","t":"xonen"}
+}

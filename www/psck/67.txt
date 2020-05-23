@@ -1,0 +1,22 @@
+{"Cawi%27":{"h":[{"d":[{"e":["￹`O~ `kalala'ed~ `no~ `Posong~ `ato~ `Kalingko~ `ko~ `Cawi'~.￺￻靜蒲是花東的界限。"],"f":"部落名稱，今台灣花蓮縣豐濱鄉靜埔村。"},{"s":["`mi~`cawi'~"],"e":["￹`Caay~ `ka~ `lesem~ `kako~ `a~ `mi~`cawi'~ `tisowanan~.￺￻我不忍心與你分手。"],"f":"分離處，被河流分隔的地方，分手。"}]}],"t":"Cawi'"}
+,"Cifoloay":{"h":[{"d":[{"f":"部落名稱。今台灣花蓮縣壽豐鄉崩坎地區。"}]}],"t":"Cifoloay"}
+,"Cihafayan":{"h":[{"d":[{"f":"部落名稱。今台灣花蓮縣鳳林鎮中興地區。"}]}],"t":"Cihafayan"}
+,"Cikadaan":{"h":[{"d":[{"f":"部落名稱。"},{"f":"今台灣台東縣長濱鄉南溪部落地區。"}]}],"t":"Cikadaan"}
+,"Cikasowan":{"h":[{"d":[{"f":"部落名稱。今台灣花蓮縣壽豐鄉溪口村。(原七腳川部落)"}]}],"t":"Cikasowan"}
+,"Cikatopay":{"h":[{"d":[{"f":"阿美族氏族名，居住東海岸的大港口，馬稼海、大俱來、石寧埔、白守蓮、蔴荖漏等部落。"}]}],"t":"Cikatopay"}
+,"Cikor":{"h":[{"d":[{"f":"地名。花蓮縣壽豐鄉蕃薯坑村。"}]}],"t":"Cikor"}
+,"Cilangasan":{"h":[{"d":[{"f":"地區名稱，今台灣花蓮縣豐濱鄉境內的貓公山。"}]}],"t":"Cilangasan"}
+,"Cinang":{"h":[{"d":[{"f":"部落名稱，今台灣花蓮縣壽豐鄉池南部落。"}]}],"t":"Cinang"}
+,"Cingaloan":{"h":[{"d":[{"f":"部落名稱，今台灣花蓮縣鳳林鎮鳳信村。"}]}],"t":"Cingaloan"}
+,"Cinkosiyo":{"h":[{"d":[{"f":"鎮公所。"}]}],"tag":"[日語音譯借詞]","t":"Cinkosiyo"}
+,"Ciokangan":{"h":[{"d":[{"f":"部落名稱，今台灣台東縣長濱鄉長光村。"}]}],"t":"Ciokangan"}
+,"Cipalangan":{"h":[{"d":[{"f":"地名，烏鴉山；一說老鷹山。"}]}],"t":"Cipalangan"}
+,"Cipawkan":{"h":[{"d":[{"f":"部落名稱，今花蓮市德安里。"}]}],"t":"Cipawkan"}
+,"Cirakayan":{"h":[{"d":[{"f":"部落名稱，今台灣花蓮縣鳳林鎮山興部落。"}]}],"t":"Cirakayan"}
+,"Cirokohay":{"h":[{"d":[{"f":"部落名稱，今台灣台東縣成功鎮芝田部落。"}]}],"t":"Cirokohay"}
+,"Ciwidian":{"h":[{"d":[{"e":["￹`Mikadafo~ `kako~ `i~ `Ciwidian~.￺￻我要入贅到水璉村。"],"f":"部落名稱，今台灣花蓮縣壽豐鄉水璉村。"},{"f":"阿美族氏族名之一。"}]}],"t":"Ciwidian"}
+,"Ciwlo":{"h":[{"d":[{"e":["￹`O~ `Ciwlo~ `no~ `Falangaw~ `Kiwkay~ `ko~ `fafahi~ `ako~.￺￻我太太是馬蘭教會的長老。","￹`Ci~`wlokiwkay~￺￻長老教會。[日語借詞]。","￹`O~ `Poksi~ `no~ `Falangaw~ `Ci~`wlokiwkay~ `kako~.￺￻我是馬蘭長老教會的牧師。"],"f":"教會長老。"}]}],"tag":"[日語借詞]","t":"Ciwlo"}
+,"Co":{"h":[{"d":[{"e":["￹`O~ `Co~ `a~ `fidacadan~ `cingra~.￺￻他是鄒族。"],"f":"台灣鄒族，鄒人(古稱曹族)。"}]}],"t":"Co"}
+,"Congaw":{"h":[{"d":[{"f":"台灣泰雅族人，鯨面人。"}]}],"t":"Congaw"}
+,"Copo":{"h":[{"d":[{"f":"部落名稱，現花蓮市之國福里。"}]}],"t":"Copo"}
+}

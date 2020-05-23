@@ -1,0 +1,190 @@
+{"i":{"h":[{"d":[{"f":"阿美語元音之一。屬展唇、高前舌面元音，音值為[i]，有[ira]等變體。i 在 '、h 之後一般讀[I]，在 '、h 之前一般讀[ie]。"}]},{"d":[{"f":"(前綴)。主要表示："},{"f":"存在，所在。"},{"e":["￹`I~ `papacem~￺￻今天早晨。","￹`I~ `lafii~￺￻昨夜。","￹`I~ `mamiheca~￺￻去年。"],"f":"指剛剛過去的時間，在…時。Itira 在那裡。I tokos 在山上。I toros 在膝蓋。"}]},{"d":[{"e":["￹`Mikasoy~ `i~ `tokos~.￺￻在山上砍柴。","￹`Micomod~ `to~ `ko~ `posi~ `i~ `laloma'~.￺￻貓進屋裡了。"],"f":"(前置詞)。在(某處)，位於，所在。"}]}],"t":"i"}
+,"i%27a%27ayaw":{"h":[{"d":[{"e":["￹`I'a'ayaw~ `kiso~,`pasifana'en~ `kako~ `to~ `lalan~.￺￻你在前面指引我道路(怎麼走)。"],"f":"在前面，在前方。"}]}],"stem":"'ayaw","t":"i'a'ayaw"}
+,"i%27a%27ayaway":{"h":[{"d":[{"f":"在前面，在前方。"},{"e":["￹`I'a'ayaway~ `cangra~ `a~ `romakat~.￺￻他們在前面走著。"],"f":"指在前面的(對像)。"}]}],"stem":"'ayaw","t":"i'a'ayaway"}
+,"i%27ayaw":{"h":[{"d":[{"f":"在以前，先前，古時候。"},{"e":["￹`I'ayaw~ `a~ `romi'ad~.￺￻前天，前些日子。","￹`I'ayaw~ `a~ `mihecaan~.￺￻前年，前些年。","￹`I'ayaw~ `ira~ `ko~ `kangic~ `saan~ `ko~ `sowal~.￺￻傳說古時候有龍。","￹`I'ayaw~ `no~ `pakawasan~.￺￻在神廟前。"],"f":"在前面。"}]}],"stem":"'ayaw","t":"i'ayaw"}
+,"i%27ayaway":{"h":[{"d":[{"f":"在以前，在前面。"},{"e":["￹`O~ `cima~ `ko~ `i'ayaway~ `ningra~ `saw~?￺￻他前面的人是誰？"],"f":"指以前的、前面的。"}]}],"stem":"'ayaw","t":"i'ayaway"}
+,"i%27ayawen":{"h":[{"d":[{"e":["￹`I'ayawen~ `to~ `a~ `miritrit~ `kora~ `ma~`rahrah~`ay~ `a~ `panay~.￺￻首先把成熟的稻子先收割了。"],"f":"提前，首先把事情做了。"}]}],"stem":"'ayaw","t":"i'ayawen"}
+,"i%27ic":{"h":[{"d":[{"e":["￹`Ma~`lngaw~ `i~ `kilang~ `ko~ `i'ic~.￺￻香菇長在木頭上。"],"f":"寄生在朽木上的香菇。"}]}],"t":"i'ic"}
+,"iadadaho":{"h":[{"d":[{"e":["￹`Sarimorimoksa~ `kako~ `iadadaho~ `cingra~.￺￻他生病時我十分焦急不安。"],"f":"(短語)。生病時，發病時。"}]}],"stem":"adada","t":"iadadaho"}
+,"iaikor":{"h":[{"d":[{"e":["￹`Iaikor~ `ako~ `cingra~ `a~ `romakat~.￺￻他在我後面行走。"],"f":"在後面，以後。"}]}],"stem":"ikor","t":"iaikor"}
+,"iaikoray":{"h":[{"d":[{"f":"在後面，以後。"},{"e":["￹`Iaikoray~ `cingra~ `a~ `maro'~.￺￻他 在後面坐著。","￹`O~ `cima~ `ko~ `iaikoray~ `iso~ `saw~?￺￻在你後面的(人)是誰？"],"f":"指在後面的、以後的(對像)。"}]}],"stem":"ikor","t":"iaikoray"}
+,"iaoma%27":{"h":[{"d":[{"s":["`laloma'~."],"e":["￹`Iaoma'~ `ci~ `safa~ `a~ `mafuti'~.￺￻妹妹在屋裡睡覺。"],"f":"在屋裡。"}]}],"stem":"aoma'","t":"iaoma'"}
+,"iaoma%27ay":{"h":[{"d":[{"f":"在屋裡。"},{"e":["￹`Iaoma'ay~ `ko~ `wina~ `iso~ `han~?￺￻你母親在屋裡嗎？","￹`Kako~ `ko~ `iaoma'ay~, `kiso~ `ko~ `ipaputalay~.￺￻我在屋裡，你在屋外。"],"f":"指在屋裡的(對像)"}]}],"stem":"aoma'","t":"iaoma'ay"}
+,"iawtal":{"h":[{"d":[{"e":["￹`Iraay~ `ko~ `widang~ `ako~ `iawtal~.￺￻我的朋友在院外了。"],"f":"在屋外，在院外，在外面。"}]}],"stem":"awtal","t":"iawtal"}
+,"iawtalay":{"h":[{"d":[{"f":"在屋外，在院外，在外面。"},{"e":["￹`O~ `waco~ `ko~ `iawtalay~.￺￻狗在外面。"],"f":"指在屋外、院外、外面的(對像)。"}]}],"stem":"awtal","t":"iawtalay"}
+,"icalay":{"h":[{"d":[{"e":["￹`Pa~`ktingen~ `icalay~ `ko~ `kolong~.￺￻把牛套上繩。"],"f":"套繩，拉偏套。"}]}],"stem":"calay","t":"icalay"}
+,"icalayen":{"h":[{"d":[{"e":["￹`icalayen~ `ko~ `pikedec~.￺￻在套繩上綁緊。"],"f":"套上繩吧，給某牲口套繩。"}]}],"stem":"calay","t":"icalayen"}
+,"ici%20das":{"h":[{"d":[{"f":"一打〈日語借詞〉。"}]}],"t":"ici das"}
+,"icifa":{"h":[{"d":[{"f":"市場〈日語借詞〉。"}]},{"d":[{"e":["￹`Macakay~ `to~ `sasimi~ `i~ `icifa~.￺￻在市場買生魚片。"],"f":"市場。( 日語借詞 )"}]}],"t":"icifa"}
+,"icifang":{"h":[{"d":[{"f":"第一名〈日語借詞〉。"}]}],"t":"icifang"}
+,"icifar":{"h":[{"d":[{"e":["￹`Icifar~ `a~ `matayal~ `cingra~.￺￻他在輪船上工作。"],"f":"在輪船上。"}]}],"stem":"cifar","t":"icifar"}
+,"icifaray":{"h":[{"d":[{"f":"在輪船上。"},{"e":["￹`Icifaray~ `ci~ `wama~ `ako~ `a~ `dademak~.￺￻我父親在輪船上作。"],"f":"指船員，船夫。"}]}],"stem":"cifar","t":"icifaray"}
+,"icila":{"h":[{"d":[{"s":["`inacila~"],"e":["￹`Icila~ `kako~ `a~ `minokay~.￺￻昨天我才回來。"],"f":"(指剛過去的日子)昨天，前天，前幾天。"}]}],"stem":"cila","t":"icila"}
+,"iciwkeciwkengan":{"h":[{"d":[{"e":["￹`Ira~ `ko~ `canli'~ `iciwkeciwkengan~.￺￻水缸裡有田螺。"],"f":"在水缸裡。"}]}],"tag":"[疊 2]","stem":"ciwkeng","t":"iciwkeciwkengan"}
+,"icowa":{"h":[{"d":[{"e":["￹`Icowa~ `a~ `mitilid~?￺￻在哪裡讀書？","￹`Icowa~ `a~ `misalama~ `anocila~?￺￻明天要在哪裡玩耍？"],"f":"在哪裡，在何處。"}]}],"stem":"cowa","t":"icowa"}
+,"icowaay":{"h":[{"d":[{"f":"在哪裡，在何處。"},{"e":["￹`Icowaay~ `cingra~ `anohatini~?￺￻他現在在哪裡了？","￹`O~ `no~ `icowaay~ `a~ `tamdaw~ `kiso~?￺￻你是哪裡人？"],"f":"哪裡的(人)"}]}],"stem":"cowa","t":"icowaay"}
+,"icowacowa":{"h":[{"d":[{"e":["￹`Talacowaay~ `kamo~? `Kilimen~ `ako~ `kamo~ `icowacowa~.￺￻你們到底去哪裡了？我到處去找你們。","￹`Iraay~ `ko~ `tamdaw~ `icowacowa~.￺￻到處都有人。"],"f":"到處，處處。"}]}],"tag":"[疊 1]","stem":"cowa","t":"icowacowa"}
+,"icowaen":{"h":[{"d":[{"e":["￹`Icowaen~ `a~ `mikilim~ `cangra~?￺￻在哪裡找他？","￹`Icowaenho~ `a~ `miparo~ `kona~ `adihayay~ `a~ `ra~`racan~ `kini~?￺￻這許多小海螺還往哪裡裝呢？"],"f":"把某物放在哪裡、何處。"}]}],"stem":"cowa","t":"icowaen"}
+,"idadaya":{"h":[{"d":[{"e":["￹`mimaanay~ `kamo~ `idadaya~?￺￻你們昨天晚上做什麼了？"],"f":"昨天晚上，昨夜。"}]}],"stem":"dadaya","t":"idadaya"}
+,"idafdaf":{"h":[{"d":[{"e":["￹`Idafdaf~ `kako~ `a~ `pakaen~ `to~ `kolong~.￺￻我在平原放牛。"],"f":"在平地，在平原。"}]}],"stem":"dafdaf","t":"idafdaf"}
+,"idafdafay":{"h":[{"d":[{"f":"在平地，在平原。"},{"e":["￹`Idafdafay~ `a~ `omah~.￺￻在平地的田。"],"f":"指在平地的。"}]}],"stem":"dafdaf","t":"idafdafay"}
+,"idahi":{"h":[{"d":[{"s":["`idahi~","`nga'ayay~"],"e":["￹`Idahi~ `to~ `mamang~.￺￻好一點。"],"f":"稍好，稍強，略勝一籌。"}]},{"d":[{"s":["`idadi~"],"e":["￹`Idahi~ `to~ `mamang~ `ko~ `mako~ `to~ `na~ `Poraw~.￺￻生產的結果我的收益稍好。"],"f":"稍好，稍強，略勝一籌。"}]}],"stem":"dadi","t":"idahi"}
+,"idahiay":{"h":[{"d":[{"e":["￹`Idahiay~ `toya~ `imamihecay~.￺￻比去年的稍好一些。"],"f":"稍好，稍強，略勝一籌。"}]},{"d":[{"f":"稍好，稍強，略勝一籌。"},{"s":["`idahiay~"],"e":["￹`Idahiay~ `to~ `ko~ `adada~ `iso~ `han~?￺￻你的病好一些了嗎？","￹`Idahiay~ `to~ `toya~ `isawniay~.￺￻比剛才的好一些了。"],"f":"指稍好的、稍強的。"}]}],"stem":"dadi","t":"idahiay"}
+,"idang":{"h":[{"d":[{"e":["￹`Idang~, `o~ `cima~ `ko~ `ngangan~ `iso~?￺￻朋友，你叫什麼名字？"],"f":"(表示對稱)朋友。"}]}],"t":"idang"}
+,"idangaw":{"h":[{"d":[{"e":["￹`Idangaw~ `talacowa~ `kiso~ `saw~?￺￻朋友啊，你要去哪裡呢？"],"f":"(表示對稱)朋友啊。"}]}],"stem":"idang","t":"idangaw"}
+,"idek":{"h":[{"d":[{"s":["`tarakar~ `ni~ `idek~."],"e":["￹`Masadak~ `ko~ `idek~ `i~ `kakarayan~.￺￻天上有彩虹。"],"f":"彩虹，虹霓。"}]}],"t":"idek"}
+,"ifaed":{"h":[{"d":[{"f":"升高，上升了。"}]}],"t":"ifaed"}
+,"ifaeday":{"h":[{"d":[{"f":"升高，上升了。"},{"e":["￹`Ifaedayto~ `ko~ `cidal~.￺￻太陽升高了。"],"f":"指升高的、上升的(東西)。"}]}],"stem":"ifaed","t":"ifaeday"}
+,"ifangat":{"h":[{"d":[{"s":["`sino'et~、`ciferang~"],"e":["￹`Ifangat~ `ko~ `kolol~ `ako~.￺￻我汗流夾背。"],"f":"流汗。"}]}],"t":"ifangat"}
+,"ifenek":{"h":[{"d":[{"e":["￹`Ifenek~ `ko~ `wawa~ `ako~ `a~ `mitilid~.￺￻我的孩子讀書很努力。"],"f":"努力，勤奮，勤勉。"}]}],"t":"ifenek"}
+,"ifenekay":{"h":[{"d":[{"f":"努力，勤奮，勤勉。"},{"e":["￹`Ifenekay~ `a~ `wawa~.￺￻勤勉的孩子。"],"f":"指勤奮、努力的(人)。"}]}],"stem":"ifenek","t":"ifenekay"}
+,"ihacowa":{"h":[{"d":[{"e":["￹`Ihacowa~ `a~ `fulad~?￺￻哪一個月？","￹`Ihacowa~ `a~ `mihecaan~?￺￻哪一年？","￹`Ihacowa~ `a~ `tayni~?￺￻什麼時候來的？"],"f":"(指過去時間)何時，什麼時候。"}]}],"stem":"cowa","t":"ihacowa"}
+,"ihacowaay":{"h":[{"d":[{"f":"何時，什麼時候。"},{"e":["￹`Ihacowaay~ `cangra~ `a~ `tayra~?￺￻他們什麼時候去了？"],"f":"指什麼時候的。"}]}],"stem":"cowa","t":"ihacowaay"}
+,"ihoni":{"h":[{"d":[{"s":["`isawni~"],"e":["￹`Mi'adopay~ `ihoni~.￺￻剛才在打獵。"],"f":"剛才，方才，剛剛。"}]}],"stem":"honi","t":"ihoni"}
+,"iikor":{"h":[{"d":[{"e":["￹`Iikor~ `ako~ `cingra~ `hofocen~.￺￻他比我晚生出來。"],"f":"在後面，以後，後來。"}]}],"tag":"[疊 1]","stem":"ikor","t":"iikor"}
+,"iikoray":{"h":[{"d":[{"f":"在後面，以後面，後來。"},{"e":["￹`Awaay~ `ko~ `iikoray~ `ako~ `a~ `tamdaw~.￺￻我後面沒人。"],"f":"指在後面的。"}]}],"tag":"[疊 1]","stem":"ikor","t":"iikoray"}
+,"iingid":{"h":[{"d":[{"s":["`ngata~","`tepar~","`itihi~","`itatihi~"],"e":["￹`Iingid~ `a~ `maro'~.￺￻在旁邊坐。","￹`Iingid~ `iso~ `a~ `tomireng~.￺￻緊挨你旁邊站。"],"f":"在旁邊，靠近，緊挨著。"}]}],"stem":"ingid","t":"iingid"}
+,"iingiday":{"h":[{"d":[{"e":["￹`Iingiday~ `ni~ `wina~ `ko~ `wawa~ `a~ `ma~`futi~.￺￻孩子在母親身邊睡著。","￹`O~ `widang~ `ako~ `ko~ `iingiday~ `ni~ `Kolas~.￺￻緊挨著古拉斯先生是我的朋友。"],"f":"(在旁邊，靠近，緊挨著。(指在旁邊的、緊挨著的(對像)。"}]}],"stem":"ingid","t":"iingiday"}
+,"iingkay":{"h":[{"d":[{"f":"委員會。"}]}],"tag":"[日語借詞]","t":"iingkay"}
+,"ikafekang":{"h":[{"d":[{"s":["`fa~`fa^ed~"],"e":["￹`Mapateli~ `ikafekang~ `ko~ `cinah~.￺￻鹽巴已擺在上層。"],"f":"在上面，在上層。"}]}],"stem":"kafekang","t":"ikafekang"}
+,"ikafekangay":{"h":[{"d":[{"f":"在上面，在上層。"},{"e":["￹`Ikafekangay~ `no~ `tamina~ `ko~ `'orip~ `nangra~.￺￻他們在船上過生活。"],"f":"指在上面的。"}]}],"stem":"kafekang","t":"ikafekangay"}
+,"ikaka":{"h":[{"d":[{"e":["￹`Awa~ `ko~ `ikaka~ `a~ `nga'ay~ `tononi~ !￺￻沒有比這更好！","￹`Ikaka~ `takowanan~ `ko~ `olah~ `ningra~ `kisowanan~.￺￻他比我更愛你。"],"f":"更好，優越，勝過於。"}]}],"stem":"kaka","t":"ikaka"}
+,"ikakaay":{"h":[{"d":[{"f":"更好，優越，勝過於。"},{"e":["￹`Ikakaay~ `to~ `no~ `ikakarayan~ `ko~ `ka~`nga'ay~ `noya~ `romi'ad~ `nangra~.￺￻他們的好日子勝過於天上了。","￹`Oninian~ `ko~ `ikakaay~ `toni~ `a~ `dademaken~ `han~?￺￻有比這項工作更好更重要的嗎？"],"f":"指更好的、優越的。"}]}],"stem":"kaka","t":"ikakaay"}
+,"ikakaen":{"h":[{"d":[{"e":["￹`Ikakaen~ `ko~ `miso~ `i~ `takowanan~ `a~ `sini'ada~ `i~ `cingraan~ !￺￻請你要比我更加憐愛他！"],"f":"要求更好，超過、勝過(對方)。"}]}],"stem":"kaka","t":"ikakaen"}
+,"ikakang":{"h":[{"d":[{"f":"影畫館，電影院〈日語借詞〉。"}]}],"t":"ikakang"}
+,"ikemod":{"h":[{"d":[{"e":["￹`Ikemod~ `han~ `ningra~ `ko~ `ka~`'ilol~ `to~ `wawa~.￺￻她念子之心埋在心底。"],"f":"在裡面，在深處。"}]}],"stem":"kemod","t":"ikemod"}
+,"ikemoday":{"h":[{"d":[{"f":"在裡面，在深處。"},{"e":["￹`Caay~ `ka~ `'araw~ `ako~ `ko~ `ikemoday~ `a~ `harateng~ `iso~.￺￻我猜不透你的內心。"],"f":"在裡面的，在深處的。"}]}],"stem":"kemod","t":"ikemoday"}
+,"iki":{"h":[{"d":[{"s":["`syataw~〈閩南語借詞〉"],"f":"車站〈日語借詞〉。"}]},{"d":[{"e":["￹`Iki~ `kona~ `wawa~ `paka~`lafa'~ `to~ `fafoy~.￺￻這孩子真好能追到山豬。"],"f":"(感嘆詞)。表示讚嘆：太好了，太妙了。"}]}],"t":"iki"}
+,"ikicyo":{"h":[{"d":[{"f":"站長〈日語借詞〉。"}]}],"t":"ikicyo"}
+,"ikikilangan":{"h":[{"d":[{"e":["￹`Iraay~ `ko~ `'ayam~ `ikikilangan~.￺￻鳥在樹上了。"],"f":"在樹上。"}]}],"tag":"[疊 2]","stem":"kilang","t":"ikikilangan"}
+,"ikor":{"h":[{"d":[{"e":["￹`Ikor~ `no~ `tenok~ `no~ `lafii~.￺￻下半夜(深夜以後)。"],"f":"後，後面，以後。"}]}],"t":"ikor"}
+,"ikoray":{"h":[{"d":[{"f":"後，後面，以後。"},{"e":["￹`Ikoray~ `a~ `tamdaw~ `awaay~ `ko~ `lilam~.￺￻在後面的人領不到東西。"],"f":"指後面的、以後的。"}]}],"stem":"ikor","t":"ikoray"}
+,"ikoren":{"h":[{"d":[{"e":["￹`Ikoren~ `a~ `minengneng~.￺￻請回頭看。"],"f":"回頭，後來(做) 做。"},{"e":["￹`Ikoren~ `noya~ `kawas~ `no~ `riyal~ `a~ `somowal~ `ci~ `Sa~`lataw~`an~.￺￻海神最後特別交代薩拉大。"],"f":"最後特意"}]}],"stem":"ikor","t":"ikoren"}
+,"ilafii":{"h":[{"d":[{"e":["￹`O~ `cima~ `ko~ `iloma'ay~ `iso~ `ilafii~ `saw~?￺￻昨夜誰在你家裡？"],"f":"昨夜，昨晚。"}]}],"stem":"lafii","t":"ilafii"}
+,"ilalinik":{"h":[{"d":[{"e":["￹`Akaka~ `paroen~ `ilalinik~ `no~ `sato~ `ko~ `dawdaw~.￺￻不要把燈放在斗底下。","￹`Ilalinik~ `no~ `riyal~ `koya~ `^ekim~ `a~ `kaysing~.￺￻那隻金碗在海底下。"],"f":"在深處、底層、底下。"}]}],"stem":"linik","t":"ilalinik"}
+,"ilaloma%27":{"h":[{"d":[{"e":["￹`Kamaro'~ `ilaloma'~!￺￻請屋裡坐！"],"f":"在屋裡，在宅內。"}]}],"stem":"loma'","t":"ilaloma'"}
+,"ilaloma%27ay":{"h":[{"d":[{"f":"在屋裡，在宅內。"},{"e":["￹`Papina~ `ko~ `ilaloma'ay~?￺￻屋裡的人有多少？"],"f":"指在屋裡、宅內的(對像)。"}]}],"stem":"loma'","t":"ilaloma'ay"}
+,"ilamlomloan":{"h":[{"d":[{"e":["￹`Tayraay~ `kako~ `isawni~ `ilamlomloan~.￺￻我剛才去了小米地。"],"f":"小米地裡。"}]}],"tag":"[疊 2]","stem":"lamlo","t":"ilamlomloan"}
+,"ilang":{"h":[{"d":[{"f":"碾磨〈閩南語借詞〉。"}]},{"d":[{"e":["￹`Malalok~ `ko~ `itiyaayho~ `a~ `tamdaw~ `a~ `miilang~.￺￻過去的人勤於推磨。"],"f":"推磨，推碾子。"}]}],"t":"ilang"}
+,"ilangan":{"h":[{"d":[{"e":["￹`Misanga'~ `to~ `ilangan~ `ko~ `mama~ `ako~.￺￻我父親製作碾穀機。"],"f":"碾磨，碾穀機。"}]}],"stem":"ilang","t":"ilangan"}
+,"ilangen":{"h":[{"d":[{"s":["`tailangan~","`liyon~"],"e":["￹`Ilangen~ `ako~ `ko~ `panay~.￺￻我要把稻穀用碾穀機碾了。"],"f":"把穀物碾磨。"}]}],"stem":"ilang","t":"ilangen"}
+,"ilasol":{"h":[{"d":[{"e":["￹`Ilasol~ `kako~ `a~ `minokay~.￺￻我先走。"],"f":"先行，先走，提前走。"}]}],"stem":"lasol","t":"ilasol"}
+,"ilasolay":{"h":[{"d":[{"f":"先行，先走，提前走。"},{"e":["￹`Ilasolay~ `cingra~ `a~ `minokay~.￺￻他已先回家。"],"f":"指先行者。"}]}],"stem":"lasol","t":"ilasolay"}
+,"ilifita":{"h":[{"d":[{"f":"電梯〈日語/英語借詞〉。"}]}],"t":"ilifita"}
+,"ilil":{"h":[{"d":[{"s":["`mailil~","`nglic~"],"e":["￹`Ilil~ `sa~ `to~ `wadis~ `koya~ `waco~.￺￻狗在咬牙切齒。"],"f":"咬牙切齒。"}]}],"t":"ilil"}
+,"ilisin":{"h":[{"d":[{"s":["`likoda~"],"e":["￹`Malalok~ `ko~ `'Amis~ `a~ `mikapot~ `to~ `il~`ilsin~.￺￻阿美族人善於參加豐年節。"],"f":"豐年祭祀，豐年節。"}]}],"stem":"lisin","t":"ilisin"}
+,"iloh":{"h":[{"d":[{"s":["`miiloh~"],"f":"焚燒，燒山，火災。"}]}],"t":"iloh"}
+,"ilohen":{"h":[{"d":[{"e":["￹`Ilohen~ `ko~ `pi'adopan~ `anini~.￺￻今天焚燒獵場。"],"f":"把(山林)焚燒。"}]}],"stem":"iloh","t":"ilohen"}
+,"ilotoko":{"h":[{"d":[{"f":"帥哥，英俊瀟洒〈日語借詞〉。"}]}],"t":"ilotoko"}
+,"ima%27orip%20ho":{"h":[{"d":[{"e":["￹`Ima'orip~ `ho~ `sa'icelen~ `a~ `matayal~.￺￻活著時必須努力工作。"],"f":"(短語)生前。"}]}],"t":"ima'orip ho"}
+,"imah":{"h":[{"d":[{"s":["`maimah~","`ma'inal~"],"e":["￹`Maimah~ `cangra~ `i~ `takowan~.￺￻他們羨慕我。"],"f":"渴望，熱切希望，羡慕。"}]}],"t":"imah"}
+,"imalingato":{"h":[{"d":[{"e":["￹`Imalingato~ `kelkelsa~ `to~ `si^naw~.￺￻開始時，冷得直抖擻。"],"f":"開始階段，初始。"}]}],"stem":"ngato","t":"imalingato"}
+,"imamiheca":{"h":[{"d":[{"s":["`ilumamiheca~"],"e":["￹`Samaanay~ `kamo~ `imamiheca~?￺￻去年你們怎麼樣？"],"f":"去年。"}]}],"stem":"heca","t":"imamiheca"}
+,"imamihecaay":{"h":[{"d":[{"e":["￹`Adihayay~ `to~ `miming~ `ko~ `lifon~ `to~ `imamihecaay~.￺￻薪水比去年的多一些。"],"f":"去年的。"}]}],"stem":"heca","t":"imamihecaay"}
+,"imec":{"h":[{"d":[{"s":["`'emec~","`mi~`imec~"],"e":["￹`Awaay~ `ko~ `imec~ `saanay~ `to~ `wawa~ `no~ `tireng~.￺￻沒人掐死自己的孩子。"],"f":"掐死。"}]}],"t":"imec"}
+,"imecen":{"h":[{"d":[{"s":["`'imecen~"],"e":["￹`Imecen~ `a~ `mipatay~ `kora~ `fao~.￺￻掐死那隻蟲。"],"f":"把某某掐死。"}]}],"stem":"imec","t":"imecen"}
+,"imelaw":{"h":[{"d":[{"s":["`limlaw~"],"e":["￹`Imelaw~ `kiso~ `anosawni~ !￺￻你馬上就沒命了(你該死)！"],"f":"(表示憤恨至極的口頭語)要你的命，該死。"}]}],"t":"imelaw"}
+,"imeng":{"h":[{"d":[{"e":["￹`Miliso'~ `kami~ `to~ `imeng~.￺￻我們拜訪警察局。"],"f":"衙門，派出所。"}]}],"tag":"[閩南語借詞]","t":"imeng"}
+,"imengen":{"h":[{"d":[{"e":["￹`Imengen~ `cingra~ !￺￻把你關起來！","￹`Imengen~ `koni~ `a~ `tamdaw~ `i~ `ta'angayay~ `a~ `loma'~.￺￻把此人關進大牢！"],"f":"把某某禁閉，關起來。"}]}],"stem":"imeng","t":"imengen"}
+,"imes":{"h":[{"d":[{"s":["`pues~"],"e":["￹`Ci~ `imes~ `han~ `no~ `tao~ `kako~ `a~ `misamsam~.￺￻別人笑我矮子。"],"f":"矮子。"}]}],"t":"imes"}
+,"imit":{"h":[{"d":[{"s":["`kimit~","`mi~`imit~"],"f":"用手揉碎、撕碎。"}]}],"t":"imit"}
+,"imiten":{"h":[{"d":[{"e":["￹`Imiten~ `no~ `wawa~ `ko~ `ka~`dakopak~.￺￻孩子把紙撕碎。"],"f":"把某物揉碎、撕碎。"}]}],"stem":"imit","t":"imiten"}
+,"imong":{"h":[{"d":[{"f":"慰勞〈日語借詞〉。"}]}],"t":"imong"}
+,"imowa":{"h":[{"d":[{"e":["￹`Mi~`lasang~`ay~ `ko~ `imowa~.￺￻大麻會讓人暈。"],"f":"大麻。( 閩南語借詞 )"}]}],"t":"imowa"}
+,"impay":{"h":[{"d":[{"e":["￹`Paka~`layap~ `kako~ `to~ `impay~ `a~ `comikay~.￺￻我參賽得銀牌。"],"f":"銀牌。"}]}],"tag":"[漢語借詞]","t":"impay"}
+,"impi":{"h":[{"d":[{"e":["￹`Tatoyen~ `ko~ `impi~ `a~ `malingad~.￺￻工作時要帶圓鍬。"],"f":"圓鍬。( 閩南語借詞 )"}]}],"t":"impi"}
+,"impic":{"h":[{"d":[{"f":"鉛筆〈日語借詞〉。"}]},{"d":[{"e":["￹`Micakay~ `cingra~ `to~ `kahengangay~ `a~ `impic~.￺￻她去買一枝紅鉛筆。"],"f":"鉛筆。( 日語借詞 )"}]}],"t":"impic"}
+,"in":{"h":[{"d":[{"f":"(中加綴)。一般插入詞根的開頭輔音之後，主要表示：動作行為的必然產物。"},{"f":"經歷過某動作。作行為的對像。某動作行為經歷的特殊地方。"},{"f":"pinaro"},{"f":"裝進去的東西，內裝的物品，內容，內涵。"},{"f":"sinafel"},{"f":"煮炸過的食品。"},{"f":"'inorong"},{"f":"肩挑的擔子，負荷。"},{"f":"pina'orip"},{"f":"飼養的家禽家畜。"},{"f":"tina'i"},{"f":"腸子。"},{"f":"finariwan"},{"f":"人工砍伐過的初墾地。"}]}],"t":"in"}
+,"ina":{"h":[{"d":[{"e":["￹`Ci~ `Sunay~ `ko~ `ina~ `ako~.￺￻我母親叫蘇奈。"],"f":"(對稱)媽媽。"}]}],"t":"ina"}
+,"inaaw":{"h":[{"d":[{"e":["￹`Inaaw~ `ma'ilol~ `kako~ `i~ `tisowanan~.￺￻媽媽我好想妳。"],"f":"(對稱)媽媽呀，媽咪。"}]}],"stem":"ina","t":"inaaw"}
+,"inaciila":{"h":[{"d":[{"e":["￹`Mitefo'ay~ `ko~ `tao~ `inaciila~.￺￻前些日子有人來採竹筍。"],"f":"前天，前些日子，以前。"}]}],"stem":"cila","t":"inaciila"}
+,"inacila":{"h":[{"d":[{"e":["￹`Tayraay~ `kako~ `i~ `Posung~ `inacila~.￺￻昨天我去寶桑(台東)。"],"f":"昨天，不久前，前些日子。"}]}],"stem":"cila","t":"inacila"}
+,"inafaen":{"h":[{"d":[{"s":["`fafaen~"],"e":["￹`Pa~`inafaen~ `kako~ `tona~ `wawa~.￺￻幫我揹上這孩子。"],"f":"把某某揹負、馱起來。"}]}],"stem":"inafa","t":"inafaen"}
+,"inahacowa":{"h":[{"d":[{"e":["￹`Inahacowa~ `kako~ `a~ `micoco~ `to~ `wawa~?￺￻我什麼時候給孩子餵的奶？"],"f":"(指過去)什麼時候的。"}]}],"stem":"cowa","t":"inahacowa"}
+,"inaka":{"h":[{"d":[{"f":"偏僻之地，鄉下〈日語借詞〉。"}]}],"t":"inaka"}
+,"inaneng":{"h":[{"d":[{"e":["￹`Tada~ `inaneng~ `kora~ `kapah~ `a~ `matayal~.￺￻那位年青人工作十分認真。"],"f":"認真，勤勞，勤勉。"}]}],"t":"inaneng"}
+,"inanengay":{"h":[{"d":[{"f":"認真，勤勞，勤勉。"},{"e":["￹`Inanengay~ `ci~ `wama~ `a~ `maomah~.￺￻父親很認真地勞動著。","￹`Inanengay~ `ko~ `'Amis~ `a~ `finawlan~.￺￻阿美人是勤勞的民族。"],"f":"指認真的、勤勞的(對像)。"}]}],"stem":"inaneng","t":"inanengay"}
+,"inapil":{"h":[{"d":[{"s":["`inapir~"],"e":["￹`Pasanga'~ `kako~ `to~ `inapil~ `i~ `loma'~ `ni~ `Panay~.￺￻我到 Panay 家叫她做我的腰帶。"],"f":"男式傳統服的腰帶。"}]}],"t":"inapil"}
+,"incay":{"h":[{"d":[{"f":"空心菜〈閩南語借詞〉。"}]},{"d":[{"e":["￹`Maolah~ `ko~ `lafang~ `ako~ `a~ `komaen~ `to~ `incay~.￺￻我的客人喜歡吃空心菜。"],"f":"蕹菜，空心菜。(閩南語借詞)"}]}],"t":"incay"}
+,"incing":{"h":[{"d":[{"f":"引擎〈日語/英語借詞〉。"}]}],"t":"incing"}
+,"inget":{"h":[{"d":[{"s":["`firang~","`keter~","`ma~`inget~","`mafirang~","`ma~`cihi~"],"e":["￹`Caka~ `nga'ay~ `a~ `ma~`inget~ `ko~ `mala~ `faki~`ay~.￺￻當叔叔的不可生氣。"],"f":"生氣，發怒，責罵。"}]}],"t":"inget"}
+,"ingid":{"h":[{"d":[{"e":["￹`Ingid~ `han~ `noya~ `kaying~ `ko~ `ma~`lofa'inay~ `ningra~.￺￻那小姐挨近她的未婚夫。"],"f":"旁邊，靠近，挨著。"}]}],"t":"ingid"}
+,"ingir":{"h":[{"d":[{"s":["`'iring~","`maingir~"],"e":["￹`Capakafilo~ `cingra~ `tonini~ `a~ `demak~ `saka~ `ingir~ `sa~ `to~ `fongoh~.￺￻他無法完成這件事所以歪著頭垂頭喪氣。"],"f":"歪著腦袋，側頭。"}]}],"t":"ingir"}
+,"ingkang":{"h":[{"d":[{"f":"印章，圖章〈日語借詞〉。"}]}],"t":"ingkang"}
+,"ingki":{"h":[{"d":[{"f":"墨汁〈日語/英語借詞〉。"}]},{"d":[{"e":["￹`Omaan~ `a~ `cengeran~ `ko~ `ingki~ `iso~?￺￻你是用什麼顏色的墨汁。Ingkolis 英國，英語。( 英語借詞 )","￹`Minanam~ `ko~ `ka~`^emangay~ `to~ `Ingkolis~ `i~ `pitilidan~.￺￻學生在學校學英語。"],"f":"墨汁，墨水。"}]}],"t":"ingki"}
+,"ingkihoy":{"h":[{"d":[{"f":"香花〈閩南語借語〉。"}]}],"t":"ingkihoy"}
+,"inglo":{"h":[{"d":[{"e":["￹`Miritrit~ `ci~ `ina~ `to~ `inglo~ `i~ `omah~.￺￻媽媽在田裡割陸稻。"],"f":"旱稻，陸稻。"}]}],"t":"inglo"}
+,"ini":{"h":[{"d":[{"e":["￹`Ini~ `i~ `tataroan~ `ko~ `focacing~ `ato~ `fila'~ `ato~ `'apol~.￺￻小檳榔和荖葉、石灰在這個筐子裡。"],"f":"(指示代詞)。基本格形態。表示：這，這個，這些，這裡。"}]}],"t":"ini"}
+,"inik":{"h":[{"d":[{"s":["`lalinik~","`ainik~"],"e":["￹`I~ `inik~ `no~ `takar~.￺￻在床底下。"],"f":"底、底層、深處、裡面。"}]}],"t":"inik"}
+,"inini":{"h":[{"d":[{"s":["`ini~"],"f":"(指示代詞)。基本格形態。表示：這，這個，這些，這裡。"}]}],"t":"inini"}
+,"iniyaro%27":{"h":[{"d":[{"e":["￹`Adihay~ `iniyaro'~ `niyam~ `ko~ `makapahay~ `a~ `kaying~.￺￻我們村裡有美麗的小姐。"],"f":"在村子裡，在家鄉。"}]}],"stem":"aro'","t":"iniyaro'"}
+,"iniyaro%27ay":{"h":[{"d":[{"f":"在村子裡，在家鄉。"},{"e":["￹`Ma'ilol~ `kako~ `to~ `iniyaro'ay~ `a~ `faki~ `ato~ `mamo~.￺￻我想念家鄉的祖父和祖母。"],"f":"指在村子裡的，在家鄉的(人)。"}]}],"stem":"aro'","t":"iniyaro'ay"}
+,"ino%27":{"h":[{"d":[{"s":["`ngingoy~、","`liloc~、","`ma~`yno'~","`mino'~"],"e":["￹`Mino'~ `kami~ `i~ `onsing~.￺￻我們在溫泉洗澡。"],"f":"洗澡，洗浴。"}]}],"t":"ino'"}
+,"ino%27en":{"h":[{"d":[{"e":["￹`Ino'en~ `niyam~ `ko~ `fadisaw~.￺￻我們洗熱水澡。"],"f":"要求洗澡，請洗澡。"}]}],"stem":"ino'","t":"ino'en"}
+,"inoli":{"h":[{"d":[{"f":"禱告〈日語借詞〉。"}]}],"t":"inoli"}
+,"insacu":{"h":[{"d":[{"f":"印刷〈日語借詞〉。"}]}],"t":"insacu"}
+,"insoko":{"h":[{"d":[{"f":"遠足〈日語借詞〉。"}]}],"t":"insoko"}
+,"ipa":{"h":[{"d":[{"s":["`lopas~"],"f":"桃子。"}]},{"d":[{"s":["`ipi~"],"f":"桃子，枇杷樹。"}]},{"d":[{"e":["￹`Ipaen~ `ko~ `piteli~ `to~ `'ehong~.￺￻把書本側放。"],"f":"側邊。"}]}],"t":"ipa"}
+,"ipala":{"h":[{"d":[{"e":["￹`Ipala~ `a~ `mafuti'~.￺￻在野外露宿。","￹`Ipala~ `ko~ `pipakaenan~ `ita~ `to~ `kolong~.￺￻我們在郊外放牛。"],"f":"在荒郊野地。"}]}],"stem":"pala","t":"ipala"}
+,"ipalaay":{"h":[{"d":[{"f":"在荒郊野地。"},{"e":["￹`Ipalaay~ `a~ `'a'adopen~.￺￻野生動物。"],"f":"指在荒郊野地的，野生的。"}]}],"stem":"pala","t":"ipalaay"}
+,"ipapacem":{"h":[{"d":[{"e":["￹`Miasik~ `to~ `paenan~ `kako~ `ipapacem~.￺￻我今天早上掃地板。"],"f":"今天早上。"}]}],"stem":"papacem","t":"ipapacem"}
+,"ipapotal":{"h":[{"d":[{"s":["`iawtal~"],"e":["￹`Ipapotal~ `cangra~ `a~ `misalama~.￺￻他們在屋外玩耍。"],"f":"在屋外，在庭院裡。"}]}],"tag":"[疊 1]","stem":"potal","t":"ipapotal"}
+,"ipapotalay":{"h":[{"d":[{"f":"在屋外，在庭院裡。"},{"s":["`iawtalay~"],"e":["￹`Ipapotalay~ `ci~ `wina~ `mikawit~ `to~ `tafokod~.￺￻母親正在庭院裡織漁網。"],"f":"指在屋外的(對像)。"}]}],"tag":"[疊 1]","stem":"potal","t":"ipapotalay"}
+,"ipi":{"h":[{"d":[{"s":["`lopas~、`ipa~"],"f":"桃子，枇杷樹。"}]}],"t":"ipi"}
+,"ira":{"h":[{"d":[{"f":"有，具有。"},{"f":"在，存在。"},{"f":"來了，出現。"},{"e":["￹`Ira~ `ko~ `payso~ `ako~.￺￻我有錢。","￹`Ira~ `ko~ `kakaenen~ `no~ `loma'~ `niyam~.￺￻我們家有糧食。","￹`Ira~ `ilaloma'~ `koya~ `fa'inayan~.￺￻那個男人在屋裡。","￹`Ira~ `i~ `'alofo~ `ko~ `'icep~ `ako~.￺￻我的檳榔在口袋裡。","￹`Ira~ `to~ `cingra~ `a~ `tayni~.￺￻他來了。","￹`Ira~ `a~ `ma'araw~ `niyam~ `cangra~.￺￻我們看見他們來了。","￹`Ira~ `ko'ti'~！￺￻你看看，你真活該！"],"f":"你看看，活該！。"}]}],"t":"ira"}
+,"ira%20aya":{"h":[{"d":[{"f":"(短語)。好啊！"}]}],"t":"ira aya"}
+,"ira%20ko%20%27epoc":{"h":[{"d":[{"f":"(短語)有價值，有成果。"}]}],"t":"ira ko 'epoc"}
+,"ira%20ko%20laheci":{"h":[{"d":[{"f":"(短語)有結果，有辦法。"}]}],"t":"ira ko laheci"}
+,"ira%20sato":{"h":[{"d":[{"e":["￹`Mapolin~ `i~ `otopay~ `cingra~ `ira~ `sato~ `ti'nang~ `saan~.￺￻他騎機車倒下當時就仰身而倒。"],"f":"(短語)。當時，到了這地步，在那時候。"}]}],"t":"ira sato"}
+,"iraay":{"h":[{"d":[{"e":["￹`Ma~`pakting~ `iraay~ `ko~ `kolong~ `niyam~.￺￻我們的牛綁在遠處。"],"f":"在遠處，在遠的地方。"}]}],"stem":"ira","t":"iraay"}
+,"iraayay":{"h":[{"d":[{"f":"在遠處，在遠的地方。"},{"e":["￹`Cowa~ `ko~ `na~`nalikay~ `a~ `tahira~ `kita~ `i~ `lotok~ `nangra~ `iraayay~ `no~ `omah~ `niyam~ `ko~ `omah~ `nangra~.￺￻我們不會那麼快到他們的山上，因為他們的山上比我們還遠。"],"f":"指在遠處的。"}]}],"stem":"ira","t":"iraayay"}
+,"iraw":{"h":[{"d":[{"e":["￹`Iraw~ `hacikayen~ `oway~.￺￻好極了，小伙子跑快點。"],"f":"(語氣助詞)。好極了，太棒了！"}]},{"d":[{"e":["￹`Iraw~ `ko~ `loma'~ `ako~.￺￻我的家在那邊。"],"f":"那裡，那邊。"}]}],"t":"iraw"}
+,"iraway":{"h":[{"d":[{"e":["￹`Iraway~ `pafatis~ `sa~ `kiso~.￺￻十分感謝你還分享給我。"],"f":"表示由衷地感謝之意。"}]}],"t":"iraway"}
+,"iray":{"h":[{"d":[{"s":["`^eres~","`ma'iray~"],"f":"誇飾，炫耀。"}]}],"t":"iray"}
+,"iri":{"h":[{"d":[{"s":["`'i~"],"f":"(連接詞)。"}]}],"t":"iri"}
+,"irira":{"h":[{"d":[{"s":["`ira~"],"f":"(指示代詞)。基本格形態。那，那個，那些，那裡。"}]}],"t":"irira"}
+,"iris":{"h":[{"d":[{"s":["`salilit~"],"e":["￹`Makapah~ `ko~ `iris~ `no~ `cofel~ `iso~.￺￻你刀鞘上的彩繪真美。"],"f":"(刀把、劍鞘上的)彩繪，雕飾。"}]}],"t":"iris"}
+,"iro":{"h":[{"d":[{"e":["￹`Mamaanay~ `iro~ `tomangic~ `cingra~?￺￻他到底為什麼哭了？"],"f":"(語氣助詞)。表示：到底為什麼？為什麼如此？"}]}],"t":"iro"}
+,"iroma%20tini":{"h":[{"d":[{"s":["`imatini~"],"f":"(短語)。現在，此刻，此時。"}]}],"t":"iroma tini"}
+,"ironong":{"h":[{"d":[{"f":"擔子，重擔，負荷。"},{"f":"aka pakinalien to kaltengay a ironong cingra."},{"s":["`'inorong~"],"f":"不要給他很重的擔子。"}]}],"t":"ironong"}
+,"isakacowa":{"h":[{"d":[{"e":["￹`Isakacowa~ `ko~ `'a'acaen~ `iso~?￺￻你要買哪一件？","￹`Isakacowa~ `ko~ `singsi~ `namo~ `saw~?￺￻你們的先生是哪一位？"],"f":"(在許多物件、人物中詢問)哪一個、哪一件、哪一位、哪一邊。"}]}],"stem":"cowa","t":"isakacowa"}
+,"isani":{"h":[{"d":[{"s":["`isawni~","`isoni~"],"e":["￹`Ini~ `aca~ `kamo~ `isani~ `na~`taloma'~.￺￻你們剛回到家又來了。"],"f":"剛才，方才。"}]}],"t":"isani"}
+,"isarakat":{"h":[{"d":[{"e":["￹`Isarakat~ `mana~ `ca~ `ka~`kahi~?￺￻開頭時為什麼不同意？","￹`Isarakat~ `a~ `micemek~ `koya~ `lotong~.￺￻那隻猴子先鑽進來。"],"f":"首先，開頭，開始。"}]}],"stem":"rakat","t":"isarakat"}
+,"isaw":{"h":[{"d":[{"s":["`maisaw~"],"f":"沒胃口。"}]}],"t":"isaw"}
+,"isawni":{"h":[{"d":[{"e":["￹`Ira~ `cingra~ `isawni~.￺￻他剛才來。","￹`pi~`nanom~`ho~ `ako~ `isawni~.￺￻我剛喝過水。"],"f":"剛才，方才，剛剛。"}]}],"t":"isawni"}
+,"isawniay":{"h":[{"d":[{"e":["￹`Idahiayto~ `toya~ `isawniay~.￺￻比剛才的強一些。"],"f":"剛才的，方才的。"}]}],"stem":"isawni","t":"isawniay"}
+,"isi%27":{"h":[{"d":[{"e":["￹`O~ `isi'~ `no~ `kolong~ `koni~.￺￻這是牛的尿。"],"f":"尿，小便。"}]}],"t":"isi'"}
+,"ising":{"h":[{"d":[{"f":"醫生〈閩南語借詞〉。"}]},{"d":[{"f":"醫生。( 閩南語借詞 )。"}]}],"t":"ising"}
+,"iso":{"h":[{"d":[{"s":["`miso~","`kiso~"],"f":"(人稱代詞)。第二人稱，單數，領有格形態。你，你的。"}]}],"t":"iso"}
+,"ita":{"h":[{"d":[{"s":["`mita~","`kita~"],"e":["￹`O~ `widang~ `ita~ `cangra~.￺￻他們是我們的朋友。"],"f":"(人稱代詞)。第一人稱，複數，包括式，領有格形態。我們，我們的。"}]}],"t":"ita"}
+,"itahini%20aca":{"h":[{"d":[{"s":["`ikatahini~ `aca~"],"e":["￹`Itahini~ `aca~ `matalaway~ `to~ `si^enaw~, `mananamay~ `to~ `anohatini~.￺￻剛來這裡時怕冷，如今習慣了。"],"f":"(短語)。剛來到的時候。"}]}],"t":"itahini aca"}
+,"itayni":{"h":[{"d":[{"e":["￹`Itayni~ `kako~ `maherekay~ `to~ `ko~ `roma~ `a~ `niyaro'~ `a~ `mipanay~.￺￻我來的時候，別的村子已割完水稻了。"],"f":"來的時候，初來時。"}]}],"stem":"ini","t":"itayni"}
+,"itima":{"h":[{"d":[{"f":"施行巫術，念咒施法術。"}]}],"stem":"tima","t":"itima"}
+,"itini":{"h":[{"d":[{"e":["￹`Pa~`sla'~ `ho~ `itini~.￺￻在這裡休息一下。"],"f":"在這裡，在這兒。"}]}],"stem":"ini","t":"itini"}
+,"itiniay":{"h":[{"d":[{"f":"在這裡，在這兒。"},{"e":["￹`Itiniay~ `a~ `mikadafo~ `ko~ `safa~ `ako~.￺￻我妹妹嫁到這裡。"],"f":"指在這裡的。"}]}],"stem":"ini","t":"itiniay"}
+,"itinien":{"h":[{"d":[{"e":["￹`Itinienho~ !￺￻暫時放這裡！","￹`Itinien~ `a~ `pa~`tli~ `ko~ `amoto~.￺￻水泥擺在這裡。","￹`Itinien~ `cingra~ `i~ `sasifo'an~.￺￻把他安排在中間這個位置吧。"],"f":"要求安排於此，把某物放這裡吧。"}]}],"stem":"ini","t":"itinien"}
+,"itinihan":{"h":[{"d":[{"e":["￹`Itinihan~ `ita~ `ko~ `tolas~ `anini~, `minokay~ `to~ `kako~.￺￻今天我們就到此為止，我回去了。"],"f":"就到此，就把某物安置於此。"}]}],"stem":"ini","t":"itinihan"}
+,"itinitini":{"h":[{"d":[{"e":["￹`Itinitini~ `kita~ `i~ `tata'angay~ `a~ `tokay~ `a~ `maro'~.￺￻我們住在這些大都市裡。"],"f":"在這一帶，到處分佈。"}]}],"tag":"[疊 1]","stem":"ini","t":"itinitini"}
+,"itira":{"h":[{"d":[{"e":["￹`Tomireng~ `itira~.￺￻站在那裡。","￹`Itira~ `i~ `tongroh~ `no~ `loma'~ `ko~ `mali~.￺￻球在屋頂上面。"],"f":"在那裡，在那兒。"}]}],"stem":"ira","t":"itira"}
+,"itiraay":{"h":[{"d":[{"f":"在那裡，在那兒。"},{"e":["￹`O~ `cima~ `ko~ `itiraay~?￺￻在那裡的那位是誰？"],"f":"指在那裡的。"}]}],"stem":"ira","t":"itiraay"}
+,"itiraen":{"h":[{"d":[{"e":["￹`Itiraen~ `ko~ `pitaw~.￺￻把鋤頭放那裡吧。"],"f":"要求安置在那裡，把某物放那裡吧。"}]}],"stem":"ira","t":"itiraen"}
+,"itirahan":{"h":[{"d":[{"e":["￹`Itirahan~ `ningra~ `i~ `pa~`diyacay~ `a~ `fokeloh~ `a~ `mitilid~.￺￻他於是在大磐石上寫字。"],"f":"就把某物安置在那裡。"}]}],"stem":"ira","t":"itirahan"}
+,"itiraw":{"h":[{"d":[{"s":["`tiraw~"],"e":["￹`Itiraw~ `ko~ `ka~`maysi'an~.￺￻在那邊小尿。"],"f":"在那邊。"}]}],"t":"itiraw"}
+,"itiya":{"h":[{"d":[{"e":["￹`Itiya~ `a~ `romi'ad~.￺￻那天，當天。","￹`Itiya~ `a~ `mihecaan~.￺￻那年，當年。"],"f":"(指過去時間)那天，當時，那時。"}]}],"stem":"tiya","t":"itiya"}
+,"itiyaay":{"h":[{"d":[{"f":"古時候，很久以前。"},{"e":["￹`Akato~ `ka~ `somowal~ `to~ `no~ `itiyaay~ `a~ `demak~.￺￻舊事不要再重提。"],"f":"指古時候的(人、事)。"}]}],"stem":"tiya","t":"itiyaay"}
+,"itiyaayho":{"h":[{"d":[{"e":["￹`Itiyaayho~ `a~ `tamdaw~.￺￻上古之人。","￹`Itiyaayho~ `a~ `kimad~.￺￻傳說。"],"f":"(短語)。上古時，遠古時。"}]}],"t":"itiyaayho"}
+,"itiyaday":{"h":[{"d":[{"f":"在肚子裡。"},{"e":["￹`Itiyadayho~ `a~ `wawa~.￺￻胎兒。"],"f":"指在肚子裡的(對像)。"}]}],"stem":"tiyad","t":"itiyaday"}
+,"itiyahan":{"h":[{"d":[{"e":["￹`Itiyahan~ `to~ `nga'~ `mafana'~ `kiso~.￺￻到那時，你才能知道。","￹`Ma~`harek~ `a~ `mi'araw~ `to~ `ka~`cudo~, `itiyahan~ `to~ `ita~ `a~ `masasowal~.￺￻看完了電影，那時候我們再商談吧。"],"f":"到那時候再說。"}]}],"stem":"tiya","t":"itiyahan"}
+,"itiyaho":{"h":[{"d":[{"e":["￹`Itiyaho~ `awaay~ `ko~ `tamdaw~ `i~ `toko~`tokosan~ `a~ `maro'~.￺￻古時候，在山上還沒有人居住。"],"f":"(短語)。古時候，很久以前，那時候。"}]}],"t":"itiyaho"}
+,"ito":{"h":[{"d":[{"e":["￹`Katayal~ `ito~.￺￻去工作吧。"],"f":"(語氣助詞)。表示催促、敦促：去吧。"}]}],"t":"ito"}
+,"ito%20han":{"h":[{"d":[{"e":["￹`Ito~ `han~ `ako~ `cingra~ `a~ `talaloma'~ `namo~.￺￻我要派他去你家。"],"f":"打發。"}]}],"t":"ito han"}
+,"itokotokosan":{"h":[{"d":[{"s":["`itatokosan~"],"e":["￹`Milafin~ `ko~ `mi'adopay~ `itokotokosan~ `to~ `dadaya~.￺￻獵人晚上在山上過夜。"],"f":"在山上，在山裡。"}]}],"tag":"[疊 2]","stem":"tokos","t":"itokotokosan"}
+,"itowan":{"h":[{"d":[{"e":["￹`Paketingen~ `koya~ `itowan~ `a~ `kiradom~ `i~ `lawac~ `no~ `kafang~ `iso~.￺￻把斜紋布縫在你的大衣的邊沿。"],"f":"斜紋布。"}]}],"t":"itowan"}
+,"iwasi":{"h":[{"d":[{"f":"沙丁魚，鹹魚〈日語借詞〉。"}]}],"t":"iwasi"}
+,"iyaen":{"h":[{"d":[{"e":["￹`Ano~ `cowa~ `ka~`pilaliw~ `kiso~,`iyaen~ `ako~….￺￻你如果不離開，那麼我就(不客氣了)。"],"f":"那麼就…。"}]}],"t":"iyaen"}
+,"iyo":{"h":[{"d":[{"s":["`kosoli~〈日語借詞〉"],"f":"醫藥〈閩南語借詞〉。"}]},{"d":[{"e":["￹`Iyo~,`aka~ `katayra~ `han~ `kiso~ `maliyangay~.￺￻噯，跟你說別去你就不聽。"],"f":"(感嘆詞)。表示驚嘆：啊呀，喲。"}]},{"d":[{"s":["`sapaiyo~"],"e":["￹`Mi'aca~ `kako~ `to~ `saki~ `lalisan~ `a~ `iyo~.￺￻我去買感冒藥。"],"f":"藥，藥物。"}]}],"t":"iyo"}
+,"iyof":{"h":[{"d":[{"s":["`Mi~`'iyof~"],"e":["￹`Ma'iyof~ `no~ `fali~ `ko~ `kafong~.￺￻帽子被風吹掉。"],"f":"吹風，吹(火)。"}]}],"t":"iyof"}
+,"iyofen":{"h":[{"d":[{"e":["￹`'Iyofen~ `ko~ `losok~.￺￻把蠟燭吹熄。"],"f":"對某物吹風，把(火)吹滅。"}]}],"stem":"iyof","t":"iyofen"}
+,"iyop":{"h":[{"d":[{"s":["`mi~`iyop~"],"e":["￹`Ma^edengay~ `a~ `mi~`iyop~ `cingra~.￺￻他可以念咒治病。"],"f":"念咒治病。"}]}],"t":"iyop"}
+,"iyopen":{"h":[{"d":[{"e":["￹`Papi~ `iyopen~ `ko~ `cikawasay~ `to~ `adada~ `iso~.￺￻請巫師為你念咒治病。"],"f":"給某人念咒治病。"}]}],"stem":"iyop","t":"iyopen"}
+}

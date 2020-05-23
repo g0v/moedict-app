@@ -1,0 +1,10 @@
+{"Yami":{"h":[{"d":[{"f":"臺灣原住民族之一。雅美族。自稱Tawo(達悟)。"}]}],"t":"Yami"}
+,"Yincomin":{"h":[{"d":[{"e":["￹`O~ `ka~`hecacecay~ `a~ `tamdaw~ `no~ `Yincominco~.￺￻指台灣原住民族之個人。"],"f":"原住民。"}]}],"tag":"[漢語借詞]","t":"Yincomin"}
+,"Yincominco":{"h":[{"d":[{"e":["￹`O~ `maro'ay~ `i~ `Taiwan~ `a~ `polong~ `finacadan~ `a~ `Yincominco~.￺￻依中華民國政府頒布之『原住民族基本法』之定義，係指既存於台灣而為國家管轄內之傳統民族。"],"f":"原住民族。"}]}],"tag":"[漢語借詞]","t":"Yincominco"}
+,"Yincominco%20a%20Iingkaay%20no%20Sincengyin":{"h":[{"d":[{"f":"行政院原住民族委員會。(2014 年 2 月改為原住民族委員會)"}]}],"tag":"[漢語借詞]","t":"Yincominco a Iingkaay no Sincengyin"}
+,"Yinminhoy":{"h":[{"d":[{"f":"原民會(行政院原住民族委員會之簡稱)。"}]}],"tag":"[漢語借詞]","t":"Yinminhoy"}
+,"Yis":{"h":[{"d":[{"f":"耶穌〈希拉語/拉丁文/日語/借詞〉。"}]},{"d":[{"s":["`Yiso~"],"f":"耶穌。"}]}],"t":"Yis"}
+,"Yiso":{"h":[{"d":[{"s":["`Yis~"],"f":"耶穌。"}]}],"tag":"[漢語借詞]","t":"Yiso"}
+,"Yisu":{"h":[{"d":[{"f":"耶穌〈希拉語拉丁文"}]}],"t":"Yisu"}
+,"Yotaya":{"h":[{"d":[{"f":"猶太人。"}]}],"tag":"[日語借詞]","t":"Yotaya"}
+}

@@ -1,0 +1,3 @@
+{"Alapawan":{"h":[{"d":[{"s":["`alapawan~"],"f":"￹￺Refer to `alapawan~￻詳見 `alapawan~"}]}],"t":"Alapawan"}
+,"Arapanay":{"h":[{"d":[{"s":["`arapanay~"],"f":"￹￺Refer to `arapanay~￻詳見 `arapanay~"}]}],"t":"Arapanay"}
+}

@@ -1,0 +1,8 @@
+{"yafayaf":{"h":[{"d":[{"f":"￹￺to have several activites going at the same time￻在同一個時間做很多事情"},{"e":["￹`ma~`yafayaf~ `ko~ `rakat~ `nangra~.￺They walked several abreast.￻他們並行好幾列走路"],"f":"￹￺to walk several abreast taking up the whole road￻並肩走路佔滿整個道路"}]}],"t":"yafayaf"}
+,"yakyak":{"h":[{"d":[{"e":["￹`Aka~ `pa~`yakyak~`en~ `ko~ `sowal~.￺Don't gossip.￻不要亂散佈謠言"],"f":"￹￺to spread out in different directions * referring to negative speech * gossip￻宣傳，閒談，向不同方向撒佈。謠言"}]}],"t":"yakyak"}
+,"yamayam":{"h":[{"d":[{"f":"￹￺to blaze with large flames￻火焰，燦爍"}]}],"t":"yamayam"}
+,"yatayat":{"h":[{"d":[{"f":"￹￺to exercise￻活動筋骨"}]}],"t":"yatayat"}
+,"yo":{"h":[{"d":[{"f":"￹￺a response word - look * here￻反應詞，看！這裡！"}]}],"t":"yo"}
+,"yofing":{"h":[{"d":[{"e":["￹`Paka~`yofing~`en~ `ko~ `payso~ `a~ `pafeli~ `i~ `takowanan~.￺Send me money by mail.￻請將錢匯給我."],"f":"￹￺the post office * postman (from Japanese)￻郵局，郵差 (引自日語)"}]}],"t":"yofing"}
+,"yolinohawa":{"h":[{"d":[{"f":"￹￺Easter Lilly (from Japanese)￻百合花(引自日語)"}]}],"t":"yolinohawa"}
+}

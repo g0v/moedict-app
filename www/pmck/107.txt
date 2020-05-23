@@ -1,0 +1,3 @@
+{"kaacagan":{"h":[{"d":[{"s":["`acagan~"],"f":"festival"}]}],"t":"kaacagan"}
+,"kaacekan":{"h":[{"d":[{"s":["`acek~"],"f":"sale"}]}],"t":"kaacekan"}
+}

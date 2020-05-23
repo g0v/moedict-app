@@ -1,39 +1,39 @@
 [
     {
-        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat",
-        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi_icon.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/mipmap-ldpi/icon.png"
     },
     {
-        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat",
-        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png"
     },
     {
         "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon.png.flat",
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png"
     },
     {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-ldpi_screen.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
+    },
+    {
         "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon.png.flat",
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
-    },
-    {
-        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon.png.flat",
-        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png"
-    },
-    {
-        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-ldpi_screen.png.flat",
-        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
     },
     {
         "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-hdpi_screen.png.flat",
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
     },
     {
-        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat",
-        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_screen.png.flat",
-        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xhdpi_screen.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
     },
     {
         "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-ldpi_screen.png.flat",
@@ -44,19 +44,103 @@
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/mipmap-ldpi/icon.png"
     },
     {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon.png.flat",
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
     },
     {
         "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat",
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
     },
     {
+        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat",
+        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-hdpi_screen.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat",
+        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_screen.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat",
+        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-ldpi_screen.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-ldpi_screen.png.flat",
+        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon.png.flat",
+        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat",
+        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_screen.png.flat",
+        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/mipmap-ldpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xhdpi_screen.png.flat",
         "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
     },
     {
-        "merged": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat",
-        "source": "/Users/audreyt/w/moedict-webkit/app/platforms/android/app/src/main/res/xml/config.xml"
+        "merged": "/home/pierre/SRC/moedict-app/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/home/pierre/SRC/moedict-app/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
     }
 ]
