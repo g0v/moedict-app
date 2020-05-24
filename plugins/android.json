@@ -7,11 +7,11 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "org.audreyt.dict.moe"
-    },
     "cordova-plugin-splashscreen": {
-      "PACKAGE_NAME": "org.audreyt.dict.moe"
+      "PACKAGE_NAME": "org.audreyt.MoeDictAmis"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "org.audreyt.MoeDictAmis"
     }
   },
   "dependent_plugins": {}
