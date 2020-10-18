@@ -817,10 +817,12 @@ function init-autocomplete
       #return cb ((results.join(',') - /"/g) / ',')
 
 PUA2UNI = {
+### TWBLG
   \⿰𧾷百 : \𬦰
-  \⿸疒哥 : \󿗧
-  \⿰亻恩 : \󿌇
-  \⿰虫念 : \󿑂
+  \⿸疒哥 : \𰣻
+### Hakka
+  \⿰亻恩 : \𫣆
+  \⿰虫念 : \𬠖
   \⿺皮卜 : \󿕅
 }
 trs_lookup = (term,cb) ->
