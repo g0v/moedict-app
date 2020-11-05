@@ -384,12 +384,12 @@ function convert-pinyin-t (yin, isBody=true)
   poj = (yin.replace(/(o)([^.!?,\w\s\u2011]*)o/ig, '$1$2\u0358')
             .replace(/ts/g, 'ch')
             .replace(/Ts/g, 'Ch')
-            .replace(/u([^‑-\w\s]*)a/g, 'o$1a')
-            .replace(/u([^‑-\w\s]*)e/g, 'o$1e')
-            .replace(/i([^‑-\w\s]*)k($|[-\s])/g, 'e$1k$2')
-            .replace(/i([^‑-\w\s]*)ng/g, 'e$1ng')
-            .replace(/nn($|[‑-\s])/g, 'ⁿ$1')
-            .replace(/nnh($|[‑-\s])/g, 'hⁿ$1')
+            .replace(/u([^-‑\w\s]*)a/g, 'o$1a')
+            .replace(/u([^-‑\w\s]*)e/g, 'o$1e')
+            .replace(/i([^-‑\w\s]*)k($|[-‑\s])/g, 'e$1k$2')
+            .replace(/i([^-‑\w\s]*)ng/g, 'e$1ng')
+            .replace(/nn($|[-‑\s])/g, 'ⁿ$1')
+            .replace(/nnh($|[-‑\s])/g, 'hⁿ$1')
             .replace(/([ie])r/g, '$1\u0358')
             .replace(/\u030B/g, "\u0306") # 9th tone
   )
@@ -400,7 +400,8 @@ function tone-poj (poj)
   if poj is /([\u0300-\u0302\u0304\u0306\u0307\u030d])/
     tone = RegExp.$1
     poj -= /[\u0300-\u0302\u0304\u0306\u0307\u030d]/
-    return poj.replace(/(oa)([in])/i, "$1#{tone}$2") if poj is /oa[in]/i
+    return poj.replace(/(oa)([inht])/i, "$1#{tone}$2") if poj is /oa[inht]/i
+    return poj.replace(/(oe)([h])/i, "$1#{tone}$2") if poj is /oe[h]/i
     return poj.replace(/(o)/i, "$1#tone") if poj is /o/i
     return poj.replace(/(e)/i, "$1#tone") if poj is /e/i
     return poj.replace(/(a)/i, "$1#tone") if poj is /a/i
