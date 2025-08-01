@@ -1574,7 +1574,7 @@
       }, 1);
     };
     fetchStrokeXml = function(code, next, cb){
-      return $.get((isCordova ? http("stroke.moedict.tw/") : "utf8/") + code.toLowerCase() + ".xml", cb, "xml").fail(function(){
+      return $.get((isCordova && !DEBUGGING ? http("stroke.moedict.tw/") : "utf8/") + code.toLowerCase() + ".xml", cb, "xml").fail(function(){
         return $('svg:last').fadeOut('fast', function(){
           $('svg:last').remove();
           return next();
@@ -1643,7 +1643,7 @@
                 var url, dataType;
                 url = './json/';
                 dataType = 'json';
-                if (isCordova) {
+                if (isCordova && !DEBUGGING) {
                   if (window.DataView && window.ArrayBuffer) {
                     url = './bin/';
                     dataType = 'bin';

@@ -10,14 +10,20 @@ make # runs in http://127.0.0.1:8888/
 
 ## 建構 Android App
 
+安裝依賴
 ```bash
 npm install
 ```
 
+建置
 ```bash
 cordova build android
 ```
 
+近端運行(透過設備或摹擬器)
+```bash
+cordova run android
+```
 
 # 其他
 
