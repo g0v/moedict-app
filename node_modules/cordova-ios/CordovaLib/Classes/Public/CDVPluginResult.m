@@ -17,7 +17,7 @@
  under the License.
  */
 
-#import "CDVPluginResult.h"
+#import <Cordova/CDVPluginResult.h>
 #import "CDVJSON_private.h"
 #import "CDVDebug.h"
 
@@ -103,7 +103,7 @@ id messageFromMultipart(NSArray* theMessages)
 {
     self = [super init];
     if (self) {
-        status = [NSNumber numberWithInt:statusOrdinal];
+        status = @(statusOrdinal);
         message = theMessage;
         keepCallback = [NSNumber numberWithBool:NO];
     }

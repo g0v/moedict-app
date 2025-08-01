@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget android-versionCode="60002" id="org.audreyt.dict.moe" version="6.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="CDVWebViewEngine">
+        <param name="ios-package" value="CDVWebViewEngine" />
+    </feature>
+    <feature name="LaunchScreen">
+        <param name="ios-package" value="CDVLaunchScreen" />
+    </feature>
     <feature name="LocalStorage">
         <param name="ios-package" value="CDVLocalStorage" />
     </feature>
@@ -17,10 +23,6 @@
     </feature>
     <feature name="GestureHandler">
         <param name="ios-package" value="CDVGestureHandler" />
-        <param name="onload" value="true" />
-    </feature>
-    <feature name="SplashScreen">
-        <param name="ios-package" value="CDVSplashScreen" />
         <param name="onload" value="true" />
     </feature>
     <name>MoeDict</name>
@@ -59,18 +61,13 @@
     <icon height="100" src="res/icon/ios/icon-50@2x.png" width="100" />
     <icon height="167" src="res/icon/ios/icon-83.5@2x.png" width="167" />
     <icon height="1024" src="www/images/app-icon.png" width="1024" />
-    <splash src="res/screen/ios/Default@2x~universal~anyany.png" />
     <preference name="AllowInlineMediaPlayback" value="false" />
-    <preference name="BackupWebStorage" value="cloud" />
     <preference name="DisallowOverscroll" value="false" />
     <preference name="EnableViewportScale" value="false" />
-    <preference name="KeyboardDisplayRequiresUserAction" value="true" />
-    <preference name="MediaPlaybackRequiresUserAction" value="false" />
+    <preference name="MediaTypesRequiringUserActionForPlayback" value="none" />
     <preference name="SuppressesIncrementalRendering" value="false" />
     <preference name="SuppressesLongPressGesture" value="false" />
     <preference name="Suppresses3DTouchGesture" value="false" />
-    <preference name="GapBetweenPages" value="0" />
-    <preference name="PageLength" value="0" />
-    <preference name="PaginationBreakingMode" value="page" />
-    <preference name="PaginationMode" value="unpaginated" />
+    <preference name="SplashScreenDelay" value="3000" />
+    <preference name="SplashScreen" value="screen" />
 </widget>

@@ -18,7 +18,9 @@
  */
 
 #import <Cordova/CDVPlugin.h>
-#import <Cordova/CDVWhitelist.h>
+#import <Cordova/CDVAllowList.h>
+
+#define CDVWebViewNavigationType int
 
 typedef NS_ENUM(NSInteger, CDVIntentAndNavigationFilterValue) {
     CDVIntentAndNavigationFilterValueIntentAllowed,
@@ -28,7 +30,7 @@ typedef NS_ENUM(NSInteger, CDVIntentAndNavigationFilterValue) {
 
 @interface CDVIntentAndNavigationFilter : CDVPlugin <NSXMLParserDelegate>
 
-+ (CDVIntentAndNavigationFilterValue) filterUrl:(NSURL*)url intentsWhitelist:(CDVWhitelist*)intentsWhitelist navigationsWhitelist:(CDVWhitelist*)navigationsWhitelist;
-+ (BOOL)shouldOverrideLoadWithRequest:(NSURLRequest*)request navigationType:(UIWebViewNavigationType)navigationType filterValue:(CDVIntentAndNavigationFilterValue)filterValue;
-+ (BOOL)shouldOpenURLRequest:(NSURLRequest*)request navigationType:(UIWebViewNavigationType)navigationType;
++ (CDVIntentAndNavigationFilterValue) filterUrl:(NSURL*)url allowIntentsList:(CDVAllowList*)allowIntentsList navigationsAllowList:(CDVAllowList*)navigationsAllowList;
++ (BOOL)shouldOverrideLoadWithRequest:(NSURLRequest*)request navigationType:(CDVWebViewNavigationType)navigationType filterValue:(CDVIntentAndNavigationFilterValue)filterValue;
++ (BOOL)shouldOpenURLRequest:(NSURLRequest*)request navigationType:(CDVWebViewNavigationType)navigationType;
 @end

@@ -8,10 +8,7 @@
   },
   "installed_plugins": {
     "cordova-plugin-splashscreen": {
-      "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
-    },
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
+      "PACKAGE_NAME": "org.audreyt.dict.moe"
     }
   },
   "dependent_plugins": {}

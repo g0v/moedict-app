@@ -19,11 +19,6 @@
     under the License.
 */
 
-var versions = require('./lib/versions.js');
+const versions = require('./lib/versions.js');
 
-versions.get_apple_xcode_version().done(function (version) {
-    console.log(version);
-}, function(err) {
-    console.error(err);
-    process.exit(2);
-});
+versions.printOrDie('apple_xcode');

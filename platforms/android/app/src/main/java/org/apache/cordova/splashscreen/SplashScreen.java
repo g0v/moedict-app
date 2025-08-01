@@ -32,6 +32,7 @@ import android.view.Display;
 import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup.LayoutParams;
+import android.view.Window;
 import android.view.WindowManager;
 import android.view.animation.Animation;
 import android.view.animation.AlphaAnimation;
@@ -194,6 +195,7 @@ public class SplashScreen extends CordovaPlugin {
         } else if ("spinner".equals(id)) {
             if ("stop".equals(data.toString())) {
                 getView().setVisibility(View.VISIBLE);
+                getView().requestFocus();
             }
         } else if ("onReceivedError".equals(id)) {
             this.spinnerStop();
@@ -219,7 +221,7 @@ public class SplashScreen extends CordovaPlugin {
     private void removeSplashScreen(final boolean forceHideImmediately) {
         cordova.getActivity().runOnUiThread(new Runnable() {
             public void run() {
-                if (splashDialog != null && splashDialog.isShowing()) {
+        if (splashDialog != null && splashImageView != null && splashDialog.isShowing()) {//check for non-null splashImageView, see https://issues.apache.org/jira/browse/CB-12277
                     final int fadeSplashScreenDuration = getFadeDuration();
                     // CB-10692 If the plugin is being paused/destroyed, skip the fading and hide it immediately
                     if (fadeSplashScreenDuration > 0 && forceHideImmediately == false) {
@@ -238,7 +240,7 @@ public class SplashScreen extends CordovaPlugin {
 
                             @Override
                             public void onAnimationEnd(Animation animation) {
-                                if (splashDialog != null && splashDialog.isShowing()) {
+                                if (splashDialog != null && splashImageView != null && splashDialog.isShowing()) {//check for non-null splashImageView, see https://issues.apache.org/jira/browse/CB-12277
                                     splashDialog.dismiss();
                                     splashDialog = null;
                                     splashImageView = null;
@@ -314,15 +316,47 @@ public class SplashScreen extends CordovaPlugin {
 
                 // Create and show the dialog
                 splashDialog = new Dialog(context, android.R.style.Theme_Translucent_NoTitleBar);
-                // check to see if the splash screen should be full screen
-                if ((cordova.getActivity().getWindow().getAttributes().flags & WindowManager.LayoutParams.FLAG_FULLSCREEN)
-                        == WindowManager.LayoutParams.FLAG_FULLSCREEN) {
-                    splashDialog.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
+
+                // Check to see if the splash screen should be full screen.
+                // On first run, currently cordova hasn't set the window flags yet because it does it in
+                //  onWindowFocusChanged instead of onCreate. If that's the case, we'll fall back to the
+                //  Fullscreen preference. Hopefully it will get fixed so that cordova sets them in onCreate,
+                //  so that this fallback can be removed.
+                boolean isFullscreen = false;
+                int mainWindowFlags = cordova.getActivity().getWindow().getAttributes().flags;
+                boolean flagFullscreen = (mainWindowFlags & WindowManager.LayoutParams.FLAG_FULLSCREEN)
+                        == WindowManager.LayoutParams.FLAG_FULLSCREEN;
+                boolean flagForceNotFullscreen = (mainWindowFlags & WindowManager.LayoutParams.FLAG_FORCE_NOT_FULLSCREEN)
+                        == WindowManager.LayoutParams.FLAG_FORCE_NOT_FULLSCREEN;
+
+                // If cordova has set flags, one of these must be true.
+                if (flagFullscreen || flagForceNotFullscreen) {
+                    isFullscreen = flagFullscreen;
+                } else {
+                    // Cordova hasn't set flags, fall back to reading preference.
+                    isFullscreen = preferences.getBoolean("Fullscreen", false);
+                }
+
+                Window dialogWindow = splashDialog.getWindow();
+                if (isFullscreen) {
+                    dialogWindow.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                             WindowManager.LayoutParams.FLAG_FULLSCREEN);
                 }
                 splashDialog.setContentView(splashImageView);
                 splashDialog.setCancelable(false);
                 splashDialog.show();
+
+                if (isFullscreen) {
+                    // These must be set after .show() is called because they only work on visible views.
+                    // When the splashscreen hides, the app will revert to whatever was set in CordovaActivity
+                    dialogWindow.getDecorView().setSystemUiVisibility(
+                        View.SYSTEM_UI_FLAG_LAYOUT_STABLE
+                        | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
+                        | View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
+                        | View.SYSTEM_UI_FLAG_HIDE_NAVIGATION
+                        | View.SYSTEM_UI_FLAG_FULLSCREEN
+                        | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);
+                }
 
                 if (preferences.getBoolean("ShowSplashScreenSpinner", true)) {
                     spinnerStart();

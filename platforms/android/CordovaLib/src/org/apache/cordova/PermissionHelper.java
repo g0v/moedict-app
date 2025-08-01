@@ -66,7 +66,6 @@ public class PermissionHelper {
      *
      * @param plugin        The plugin the permission is being checked against
      * @param permission    The permission to be checked
-     *
      * @return              True if the permission has already been granted and false otherwise
      */
     public static boolean hasPermission(CordovaPlugin plugin, String permission) {
@@ -79,7 +78,9 @@ public class PermissionHelper {
         Arrays.fill(requestResults, PackageManager.PERMISSION_GRANTED);
 
         try {
+            // This one is deprecated - see https://github.com/apache/cordova-android/issues/592
             plugin.onRequestPermissionResult(requestCode, permissions, requestResults);
+            plugin.onRequestPermissionsResult(requestCode, permissions, requestResults);
         } catch (JSONException e) {
             LOG.e(LOG_TAG, "JSONException when delivering permissions results", e);
         }

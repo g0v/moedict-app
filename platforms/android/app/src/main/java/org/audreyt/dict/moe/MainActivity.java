@@ -20,6 +20,7 @@
 package org.audreyt.dict.moe;
 
 import android.os.Bundle;
+
 import org.apache.cordova.*;
 
 public class MainActivity extends CordovaActivity

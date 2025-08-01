@@ -23,9 +23,9 @@
 
 #include "build.xcconfig"
 
-GCC_PREPROCESSOR_DEFINITIONS = DEBUG=1
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) DEBUG=1
 
-// #include "build-extras.xcconfig"
+#include "build-extras.xcconfig"
 
 // (CB-11792)
 // @COCOAPODS_SILENCE_WARNINGS@ //

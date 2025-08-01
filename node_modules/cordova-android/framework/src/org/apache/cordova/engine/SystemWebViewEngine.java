@@ -110,10 +110,10 @@ public class SystemWebViewEngine implements CordovaWebViewEngine {
         nativeToJsMessageQueue.addBridgeMode(new NativeToJsMessageQueue.OnlineEventsBridgeMode(new NativeToJsMessageQueue.OnlineEventsBridgeMode.OnlineEventsBridgeModeDelegate() {
             @Override
             public void setNetworkAvailable(boolean value) {
-                //sometimes this can be called after calling webview.destroy() on destroy()
+                //sometimes this can be called after calling webView.destroy() on destroy()
                 //thus resulting in a NullPointerException
                 if(webView!=null) {
-                   webView.setNetworkAvailable(value); 
+                   webView.setNetworkAvailable(value);
                 }
             }
             @Override
@@ -155,28 +155,44 @@ public class SystemWebViewEngine implements CordovaWebViewEngine {
         String manufacturer = android.os.Build.MANUFACTURER;
         LOG.d(TAG, "CordovaWebView is running on device made by: " + manufacturer);
 
-        //We don't save any form data in the application
+        // We don't save any form data in the application
+        // @todo remove when Cordova drop API level 26 support
         settings.setSaveFormData(false);
-        settings.setSavePassword(false);
 
-        // Jellybean rightfully tried to lock this down. Too bad they didn't give us a whitelist
-        // while we do this
-        settings.setAllowUniversalAccessFromFileURLs(true);
+        if (preferences.getBoolean("AndroidInsecureFileModeEnabled", false)) {
+            //These settings are deprecated and loading content via file:// URLs is generally discouraged,
+            //but we allow this for compatibility reasons
+            LOG.d(TAG, "Enabled insecure file access");
+            settings.setAllowFileAccess(true);
+            settings.setAllowUniversalAccessFromFileURLs(true);
+            cookieManager.setAcceptFileSchemeCookies();
+        }
+
         settings.setMediaPlaybackRequiresUserGesture(false);
 
         // Enable database
         // We keep this disabled because we use or shim to get around DOM_EXCEPTION_ERROR_16
         String databasePath = webView.getContext().getApplicationContext().getDir("database", Context.MODE_PRIVATE).getPath();
         settings.setDatabaseEnabled(true);
-        settings.setDatabasePath(databasePath);
 
+        // The default is to use the module's debuggable state to decide if the WebView inspector
+        // should be enabled. However, users can configure InspectableWebView preference to forcefully enable
+        // or disable the WebView inspector.
+        String inspectableWebview = preferences.getString("InspectableWebview", null);
+        boolean shouldEnableInspector = false;
+        if (inspectableWebview == null) {
+            ApplicationInfo appInfo = webView.getContext().getApplicationContext().getApplicationInfo();
+            shouldEnableInspector = (appInfo.flags & ApplicationInfo.FLAG_DEBUGGABLE) != 0;
+        }
+        else if ("true".equals(inspectableWebview)) {
+            shouldEnableInspector = true;
+        }
 
-        //Determine whether we're in debug or release mode, and turn on Debugging!
-        ApplicationInfo appInfo = webView.getContext().getApplicationContext().getApplicationInfo();
-        if ((appInfo.flags & ApplicationInfo.FLAG_DEBUGGABLE) != 0) {
+        if (shouldEnableInspector) {
             enableRemoteDebugging();
         }
 
+        // @todo remove when Cordova drop API level 24 support
         settings.setGeolocationDatabasePath(databasePath);
 
         // Enable DOM storage
@@ -184,12 +200,6 @@ public class SystemWebViewEngine implements CordovaWebViewEngine {
 
         // Enable built-in geolocation
         settings.setGeolocationEnabled(true);
-
-        // Enable AppCache
-        // Fix for CB-2282
-        settings.setAppCacheMaxSize(5 * 1048576);
-        settings.setAppCachePath(databasePath);
-        settings.setAppCacheEnabled(true);
 
         // Fix for CB-1405
         // Google issue 4641
@@ -239,7 +249,7 @@ public class SystemWebViewEngine implements CordovaWebViewEngine {
 
 
     /**
-     * Load the url into the webview.
+     * Load the url into the WebView.
      */
     @Override
     public void loadUrl(final String url, boolean clearNavigationStack) {
@@ -278,7 +288,7 @@ public class SystemWebViewEngine implements CordovaWebViewEngine {
      */
     @Override
     public boolean goBack() {
-        // Check webview first to see if there is a history
+        // Check WebView first to see if there is a history
         // This is needed to support curPage#diffLink, since they are added to parentEngine's history, but not our history url array (JQMobile behavior)
         if (webView.canGoBack()) {
             webView.goBack();
