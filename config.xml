@@ -7,8 +7,6 @@
     <preference name="DisallowOverscroll" value="true"/>
     <preference name="HideKeyboardFormAccessoryBar" value="true"/>
     <preference name="AndroidInsecureFileModeEnabled" value="false" />
-    <preference name="scheme" value="http" />
-    <preference name="hostname" value="10.0.2.2:8888" />
     <content src="index.html" />
     <access origin="*" />
 </widget>
