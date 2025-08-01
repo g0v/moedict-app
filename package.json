@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cordova-android": "^14.0.1"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}

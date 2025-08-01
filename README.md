@@ -8,6 +8,17 @@
 make # runs in http://127.0.0.1:8888/
 ```
 
+## 建構 Android App
+
+```bash
+npm install
+```
+
+```bash
+cordova build android
+```
+
+
 # 其他
 
 `index.*.json` 為「重編國語辭典（修訂本）」的完整詞條清單。
