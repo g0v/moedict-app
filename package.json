@@ -1,0 +1,30 @@
+{
+	"name": "moedict-app",
+	"private": true,
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "tsc -b && vite build",
+		"build:android": "npm run prepare-data && npm run build && npx cap sync android",
+		"prepare-data": "sh scripts/prepare-data.sh",
+		"lint": "eslint ."
+	},
+	"dependencies": {
+		"@capacitor/ios": "^7.6.0",
+		"fuse.js": "^7.1.0",
+		"react": "^19.1.1",
+		"react-dom": "^19.1.1",
+		"react-router-dom": "^7.13.1"
+	},
+	"devDependencies": {
+		"@capacitor/android": "^7.2.0",
+		"@capacitor/cli": "^7.2.0",
+		"@capacitor/core": "^7.2.0",
+		"@types/react": "^19.1.10",
+		"@types/react-dom": "^19.1.7",
+		"@vitejs/plugin-react": "^5.0.0",
+		"typescript": "~5.8.3",
+		"vite": "^7.1.2"
+	}
+}

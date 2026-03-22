@@ -1,0 +1,16 @@
+node_modules/
+dist/
+
+# Dictionary data (too large for git; use prepare-data.sh)
+public/dictionary/
+public/assets-legacy/
+# stroke-json/ IS committed (minified, ~115MB, compresses well with git)
+
+# Capacitor generated
+android/app/src/main/assets/public/
+
+# IDE
+.idea/
+*.swp
+*.swo
+.DS_Store

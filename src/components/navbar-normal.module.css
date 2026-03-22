@@ -1,0 +1,131 @@
+.dropdownMenuRoot {
+  position: fixed;
+  left: 0;
+  z-index: 1000;
+
+  display: none;
+  flex-direction: column;
+  width: 100%;
+  max-height: calc(100vh - 50px);
+  overflow-y: auto;
+
+  padding: 5px 0;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+}
+
+.dropdownMenuRoot.open {
+  display: flex;
+}
+
+.dropdownMenuRoot a {
+  display: block;
+  padding: 6px 20px;
+  padding-right: 28px;
+
+  white-space: nowrap;
+  color: #333 !important;
+  text-decoration: none !important;
+}
+
+.dropdownMenuRoot li + li {
+  border-top: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.dropdownMenu {
+  list-style: none;
+}
+
+.dropdownMenu a {
+  padding-left: 0;
+}
+
+.dropdownSubmenu > a {
+  position: relative;
+}
+
+.dropdownSubmenu > a::after {
+  content: '▶';
+  position: absolute;
+  top: 50%;
+  right: 10px;
+
+  font-size: 10px;
+  transform: translateY(-50%);
+}
+
+.dropdownSubmenu > .dropdownMenu {
+  display: none;
+  padding-left: 10px;
+  margin-left: 10px;
+  border-left: 1px solid rgba(0, 0, 0, 0.15);
+  background-color: white;
+}
+
+.dropdownSubmenu.hover > .dropdownMenu,
+.dropdownSubmenu.pinned > .dropdownMenu {
+  display: block;
+}
+
+.dropdownSubmenu.hover > a,
+.dropdownSubmenu.pinned > a {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.dropdownSubmenu.hover > a::after,
+.dropdownSubmenu.pinned > a::after {
+  content: '▼';
+}
+
+@media (min-width: 768px) {
+  .dropdownMenuRoot {
+    left: auto;
+    width: fit-content;
+    min-width: 160px;
+  }
+
+  .dropdownMenuRoot a {
+    padding: 3px 20px;
+    padding-right: 28px;
+  }
+
+  .dropdownMenuRoot a:hover {
+    background-color: #f5f5f5;
+  }
+
+  .dropdownMenuRoot li + li {
+    border-top: none;
+  }
+
+  .dropdownMenu a {
+    padding-left: 20px;
+  }
+
+  .dropdownSubmenu > .dropdownMenu {
+    position: fixed;
+    padding: 5px 0;
+    padding-left: 0;
+    margin-left: 0;
+
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  }
+
+  .dropdownSubmenu.pinned {
+    outline: 1px solid #74b2e2;
+  }
+
+  .dropdownSubmenu.hover > a,
+  .dropdownSubmenu.pinned > a {
+    border-bottom: none;
+  }
+
+  .dropdownSubmenu.hover > a::after,
+  .dropdownSubmenu.pinned > a::after {
+    content: '▶';
+  }
+}
