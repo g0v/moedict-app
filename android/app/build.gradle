@@ -3,12 +3,20 @@ apply plugin: 'com.android.application'
 android {
     namespace "tw.moedict.app"
     compileSdk rootProject.ext.compileSdkVersion
+    signingConfigs {
+        release {
+            storeFile file(System.getenv("MOEDICT_KEYSTORE_PATH") ?: '../../../moedict-webkit/moedict-app/upload-keystore.jks')
+            storePassword System.getenv("MOEDICT_STORE_PASSWORD") ?: ''
+            keyAlias 'upload'
+            keyPassword System.getenv("MOEDICT_STORE_PASSWORD") ?: ''
+        }
+    }
     defaultConfig {
-        applicationId "tw.moedict.app"
+        applicationId "org.audreyt.dict.moe"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
-        versionName "1.0"
+        versionCode 60005
+        versionName "7.0.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
              // Files and dirs to omit from the packaged assets dir, modified to accommodate modern web apps.
@@ -18,6 +26,7 @@ android {
     }
     buildTypes {
         release {
+            signingConfig signingConfigs.release
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
