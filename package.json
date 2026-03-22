@@ -4,6 +4,7 @@
 	"version": "1.0.0",
 	"type": "module",
 	"scripts": {
+		"postinstall": "git submodule update --init --depth 1",
 		"dev": "vite",
 		"build": "tsc -b && vite build",
 		"build:android": "npm run prepare-data && npm run build && npx cap sync android",

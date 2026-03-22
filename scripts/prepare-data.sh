@@ -5,7 +5,7 @@
 
 set -e
 
-MOEDICT_TW="${MOEDICT_TW:-../moedict.tw}"
+MOEDICT_TW="${MOEDICT_TW:-moedict.tw}"
 
 if [ ! -d "$MOEDICT_TW/data/dictionary" ]; then
   echo "Error: Cannot find $MOEDICT_TW/data/dictionary"
