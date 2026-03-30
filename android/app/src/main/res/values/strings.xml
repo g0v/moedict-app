@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">萌典</string>
     <string name="title_activity_main">萌典</string>
-    <string name="package_name">tw.moedict.app</string>
-    <string name="custom_url_scheme">tw.moedict.app</string>
+    <string name="package_name">org.audreyt.dict.moe</string>
+    <string name="custom_url_scheme">org.audreyt.dict.moe</string>
 </resources>

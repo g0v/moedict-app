@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'tw.moedict.app',
+  appId: 'org.audreyt.dict.moe',
   appName: '萌典',
   webDir: 'dist',
   server: {
