@@ -8,6 +8,8 @@
 		"dev": "vite",
 		"build": "tsc -b && vite build",
 		"build:android": "npm run prepare-data && npm run build && npx cap sync android",
+		"build:ios": "npm run prepare-data && npm run build && npx cap sync ios",
+		"build:macos": "npm run build && sh scripts/build-macos.sh",
 		"prepare-data": "sh scripts/prepare-data.sh",
 		"lint": "eslint ."
 	},

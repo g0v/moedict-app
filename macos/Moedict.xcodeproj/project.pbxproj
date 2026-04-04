@@ -1,0 +1,261 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A10001000000000000000001 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10002000000000000000001 /* main.swift */; };
+		A10001000000000000000002 /* AppIcon.icns in Resources */ = {isa = PBXBuildFile; fileRef = A10002000000000000000002 /* AppIcon.icns */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A10002000000000000000001 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = main.swift; path = main.swift; sourceTree = SOURCE_ROOT; };
+		A10002000000000000000002 /* AppIcon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = AppIcon.icns; path = "萌典.app/Contents/Resources/AppIcon.icns"; sourceTree = SOURCE_ROOT; };
+		A10002000000000000000003 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = "萌典.app/Contents/Info.plist"; sourceTree = SOURCE_ROOT; };
+		A10002000000000000000010 /* 萌典.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "萌典.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		A10003000000000000000001 = {
+			isa = PBXGroup;
+			children = (
+				A10003000000000000000002 /* Moedict */,
+				A10003000000000000000003 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A10003000000000000000002 /* Moedict */ = {
+			isa = PBXGroup;
+			children = (
+				A10002000000000000000001 /* main.swift */,
+				A10003000000000000000004 /* Resources */,
+				A10002000000000000000003 /* Info.plist */,
+			);
+			name = Moedict;
+			sourceTree = "<group>";
+		};
+		A10003000000000000000003 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A10002000000000000000010 /* 萌典.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A10003000000000000000004 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A10002000000000000000002 /* AppIcon.icns */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A10004000000000000000001 /* Moedict */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A10006000000000000000003 /* Build configuration list for PBXNativeTarget "Moedict" */;
+			buildPhases = (
+				A10005000000000000000001 /* Sources */,
+				A10005000000000000000002 /* Resources */,
+				A10005000000000000000003 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Moedict;
+			productName = "萌典";
+			productReference = A10002000000000000000010 /* 萌典.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A10004000000000000000002 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = A10006000000000000000001 /* Build configuration list for PBXProject "Moedict" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = "zh-Hant";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				"zh-Hant",
+				en,
+				Base,
+			);
+			mainGroup = A10003000000000000000001;
+			productRefGroup = A10003000000000000000003 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A10004000000000000000001 /* Moedict */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A10005000000000000000001 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10001000000000000000001 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A10005000000000000000002 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10001000000000000000002 /* AppIcon.icns in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A10005000000000000000003 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A10007000000000000000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A10007000000000000000002 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		A10007000000000000000003 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "萌典.app/Contents/Info.plist";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2025 g0v contributors. CC BY-SA 4.0.";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = tw.moedict.app;
+				PRODUCT_NAME = "萌典";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		A10007000000000000000004 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "萌典.app/Contents/Info.plist";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2025 g0v contributors. CC BY-SA 4.0.";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = tw.moedict.app;
+				PRODUCT_NAME = "萌典";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A10006000000000000000001 /* Build configuration list for PBXProject "Moedict" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A10007000000000000000001 /* Debug */,
+				A10007000000000000000002 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A10006000000000000000003 /* Build configuration list for PBXNativeTarget "Moedict" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A10007000000000000000003 /* Debug */,
+				A10007000000000000000004 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+	};
+	rootObject = A10004000000000000000002 /* Project object */;
+}

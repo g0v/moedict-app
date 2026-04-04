@@ -32,7 +32,25 @@ cp "$MOEDICT_TW"/data/dictionary/=*.json  public/dictionary/ 2>/dev/null || true
 
 # Search indexes (for Fuse.js full-text search)
 mkdir -p public/search-index
-cp "$MOEDICT_TW"/public/search-index/*.json public/search-index/
+SEARCH_INDEX_DIR=""
+if ls "$MOEDICT_TW"/public/search-index/*.json >/dev/null 2>&1; then
+  SEARCH_INDEX_DIR="$MOEDICT_TW/public/search-index"
+elif ls "$MOEDICT_TW"/data/dictionary/search-index/*.json >/dev/null 2>&1; then
+  SEARCH_INDEX_DIR="$MOEDICT_TW/data/dictionary/search-index"
+elif [ -f "$MOEDICT_TW/scripts/build-search-index.mjs" ]; then
+  echo "Generating search indexes from $MOEDICT_TW ..."
+  node "$MOEDICT_TW/scripts/build-search-index.mjs"
+  if ls "$MOEDICT_TW"/data/dictionary/search-index/*.json >/dev/null 2>&1; then
+    SEARCH_INDEX_DIR="$MOEDICT_TW/data/dictionary/search-index"
+  else
+    echo "Error: Search index generation did not produce any JSON files"
+    exit 1
+  fi
+else
+  echo "Error: Cannot find search indexes in $MOEDICT_TW"
+  exit 1
+fi
+cp "$SEARCH_INDEX_DIR"/*.json public/search-index/
 
 # Legacy assets (CSS, JS, fonts for the original moedict-webkit styling)
 mkdir -p public/assets-legacy
