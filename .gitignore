@@ -4,6 +4,7 @@ dist/
 # Dictionary data (too large for git; use prepare-data.sh)
 public/dictionary/
 public/assets-legacy/
+public/search-index/
 # stroke-json/ IS committed (minified, ~115MB, compresses well with git)
 
 # Capacitor generated
