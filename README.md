@@ -12,7 +12,8 @@ moedict-app/
   moedict.tw/               ← git submodule（淺層 clone）
   capacitor.config.ts       ← 原生 App 設定
   scripts/prepare-data.sh   ← 從 submodule 複製辭典資料至 public/
-  android/ ios/ macos/      ← Capacitor 原生專案
+  android/ ios/             ← Capacitor 原生專案
+  macos/                    ← Swift WebView 殼（見 scripts/build-macos.sh，非 npx cap sync）
 ```
 
 兩個專案共用**完全相同**的 `src/`。離線行為由 `src/offline-api.ts` 以執行環境偵測自動切換：
@@ -72,16 +73,25 @@ npm run build:android  # prepare-data → tsc → vite build → cap sync
 
 然後用 Android Studio 開啟 `android/` 進行簽章與發佈。
 
-### 建置 iOS / macOS
+### 建置 iOS
 
 ```bash
 npm run build
-npx cap sync ios       # 或 npx cap sync macos
+npx cap sync ios
 ```
 
-然後用 Xcode 開啟對應目錄。
+然後用 Xcode 開啟 `ios/`（請用 `ios/App/App.xcworkspace`，不要開 `App.xcodeproj`）。
 
-note: 請用 `ios/App/App.xcworkspace` 開啟（不是開 App.xcodeproj）
+### 建置 macOS
+
+本專案**沒有**安裝 `@capacitor/macos`，因此 `npx cap sync macos` 會出現 `Platform macos not found`。macOS 版是以 `macos/main.swift` 與腳本組出 `.app`，請改用：
+
+```bash
+npm run build:macos    # 等同 npm run build && sh scripts/build-macos.sh
+# 或已建好 dist/ 時：sh scripts/build-macos.sh
+```
+
+產物為 `build/萌典.app/`。簽章與 MAS 流程見 `scripts/build-macos.sh` 檔頭註解。
 
 ## 技術架構
 
