@@ -127,6 +127,18 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         let config = WKWebViewConfiguration()
         let schemeHandler = LocalSchemeHandler(rootDirectory: distURL)
         config.setURLSchemeHandler(schemeHandler, forURLScheme: "app")
+        let capacitorShim = """
+        window.Capacitor = window.Capacitor || {
+            getPlatform: function () { return 'macos'; },
+            isNativePlatform: function () { return true; },
+        };
+        """
+        let script = WKUserScript(
+            source: capacitorShim,
+            injectionTime: .atDocumentStart,
+            forMainFrameOnly: true
+        )
+        config.userContentController.addUserScript(script)
 
         // Allow media playback without user gesture (for audio pronunciations)
         config.mediaTypesRequiringUserActionForPlayback = []
