@@ -9,9 +9,11 @@
     <key>CFBundleIdentifier</key>
     <string>tw.moedict.app</string>
     <key>CFBundleVersion</key>
-    <string>1.0</string>
+    <string>70006</string>
     <key>CFBundleShortVersionString</key>
-    <string>1.0</string>
+    <string>7.0.0</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.reference</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleExecutable</key>
