@@ -138,6 +138,9 @@ hdr "Clear logcat"
 adb logcat -c >/dev/null 2>&1 || true
 
 hdr "Launch app"
+# Wake screen + dismiss keyguard so a real device doesn't snap a black screenshot.
+adb shell input keyevent KEYCODE_WAKEUP >/dev/null 2>&1 || true
+adb shell wm dismiss-keyguard >/dev/null 2>&1 || true
 START_TS="$(date +%s)"
 LAUNCH_OUT="$(adb shell monkey -p "$PKG" -c android.intent.category.LAUNCHER 1 2>&1 || true)"
 echo "$LAUNCH_OUT"
@@ -185,9 +188,11 @@ if grep -E 'net::ERR_' "$LOGCAT_FILE" 2>/dev/null | grep -q "$BAD_PATHS"; then
   fail "net::ERR_* for a bundled data path"
   grep -E 'net::ERR_' "$LOGCAT_FILE" | grep "$BAD_PATHS" | head -n 10
 fi
-if grep -E 'chromium|Console' "$LOGCAT_FILE" 2>/dev/null | grep '404' | grep -q "$BAD_PATHS"; then
-  fail "404 for a bundled data path in chromium console"
-  grep -E 'chromium|Console' "$LOGCAT_FILE" | grep '404' | grep "$BAD_PATHS" | head -n 10
+# 404 detection: require the literal " 404 " or "=404" or "/404" around the number
+# to avoid catching log timestamp millis like "18:39:40.404".
+if grep -E 'chromium|Console' "$LOGCAT_FILE" 2>/dev/null | grep -E '( 404 |=404|/404[^0-9]|HTTP.{0,10}404|status.{0,10}404)' | grep -q "$BAD_PATHS"; then
+  fail "HTTP 404 for a bundled data path in chromium console"
+  grep -E 'chromium|Console' "$LOGCAT_FILE" | grep -E '( 404 |=404|/404[^0-9]|HTTP.{0,10}404|status.{0,10}404)' | grep "$BAD_PATHS" | head -n 10
 fi
 CAP_PIDS="$(grep -Eo 'Capacitor[^:]*: *pid=[0-9]+|pid=[0-9]+ .*Capacitor' "$LOGCAT_FILE" 2>/dev/null | head -n 5 || true)"
 CHR_PIDS="$(grep -E 'chromium' "$LOGCAT_FILE" 2>/dev/null | head -n 3 || true)"
@@ -204,6 +209,8 @@ hdr "Navigation probe: in-app route change to /t"
 adb shell am force-stop "$PKG" >/dev/null 2>&1 || true
 sleep 1
 adb logcat -c >/dev/null 2>&1 || true
+adb shell input keyevent KEYCODE_WAKEUP >/dev/null 2>&1 || true
+adb shell wm dismiss-keyguard >/dev/null 2>&1 || true
 adb shell monkey -p "$PKG" -c android.intent.category.LAUNCHER 1 >/dev/null 2>&1 || true
 sleep 3
 adb logcat -d >"$LOGCAT_FILE_T" 2>/dev/null || true
@@ -211,8 +218,9 @@ adb exec-out screencap -p >"$SCREEN_FILE_T" 2>/dev/null || true
 echo "second screenshot: $SCREEN_FILE_T"
 
 # Compare: lines in T snapshot that were not in the first snapshot, for the bad paths.
+# Same 404-pattern specificity as above.
 if [ -f "$LOGCAT_FILE" ] && [ -f "$LOGCAT_FILE_T" ]; then
-  NEW_ERRS="$(diff "$LOGCAT_FILE" "$LOGCAT_FILE_T" 2>/dev/null | grep '^>' | grep -E 'net::ERR_|FATAL EXCEPTION|404' | grep "$BAD_PATHS" || true)"
+  NEW_ERRS="$(diff "$LOGCAT_FILE" "$LOGCAT_FILE_T" 2>/dev/null | grep '^>' | grep -E 'net::ERR_|FATAL EXCEPTION|( 404 |=404|/404[^0-9]|HTTP.{0,10}404|status.{0,10}404)' | grep "$BAD_PATHS" || true)"
   if [ -n "$NEW_ERRS" ]; then
     fail "new errors after /t deep-link"
     echo "$NEW_ERRS" | head -n 10
