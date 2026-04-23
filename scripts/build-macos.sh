@@ -29,6 +29,7 @@ MACOS_DIR="$ROOT/macos"
 BUILD_DIR="$ROOT/build"
 APP_BUNDLE="$BUILD_DIR/萌典.app"
 ENTITLEMENTS="$MACOS_DIR/Moedict.entitlements"
+SWIFT_MODULE_CACHE="$BUILD_DIR/.swift-module-cache"
 
 # Ensure dist/ exists (run web build if needed)
 if [ ! -d "$ROOT/dist" ] || [ ! -f "$ROOT/dist/index.html" ]; then
@@ -37,10 +38,14 @@ if [ ! -d "$ROOT/dist" ] || [ ! -f "$ROOT/dist/index.html" ]; then
     npm run build
 fi
 
+mkdir -p "$BUILD_DIR"
+mkdir -p "$SWIFT_MODULE_CACHE"
+
 echo "Compiling main.swift..."
 swiftc \
     -target arm64-apple-macos13.0 \
     -sdk "$(xcrun --show-sdk-path --sdk macosx)" \
+    -module-cache-path "$SWIFT_MODULE_CACHE" \
     -O \
     -o "$BUILD_DIR/萌典-binary" \
     "$MACOS_DIR/main.swift"

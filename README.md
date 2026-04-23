@@ -84,14 +84,28 @@ npx cap sync ios
 
 ### 建置 macOS
 
-本專案**沒有**安裝 `@capacitor/macos`，因此 `npx cap sync macos` 會出現 `Platform macos not found`。macOS 版是以 `macos/main.swift` 與腳本組出 `.app`，請改用：
+本專案**沒有**安裝 `@capacitor/macos`，因此 `npx cap sync macos` 會出現 `Platform macos not found`。macOS 版是以 `macos/main.swift` 與腳本直接組出 `.app`，請改用：
 
 ```bash
-npm run build:macos    # 等同 npm run build && sh scripts/build-macos.sh
+npm run build:macos    # prepare-data → build → scripts/build-macos.sh
 # 或已建好 dist/ 時：sh scripts/build-macos.sh
 ```
 
-產物為 `build/萌典.app/`。簽章與 MAS 流程見 `scripts/build-macos.sh` 檔頭註解。
+`scripts/build-macos.sh` 會自動建立 `build/` 並把 Swift module cache 放在專案內，避免因使用者目錄權限造成編譯失敗。產物為 `build/萌典.app/`；簽章與 MAS 流程見腳本檔頭註解。
+
+建置完成後可直接用 Finder / `open` 啟動成品：
+
+```bash
+open build/萌典.app
+```
+
+若要用 Xcode 編輯或除錯 macOS 原生殼，請開啟專案：
+
+```bash
+open macos/Moedict.xcodeproj
+```
+
+注意：Xcode 專案對應的是 `macos/main.swift` 這個原生殼；`build/萌典.app` 仍是由 `scripts/build-macos.sh` 直接組裝出的成品，而不是由 Xcode 自動同步產生。
 
 ## 技術架構
 
