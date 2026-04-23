@@ -81,6 +81,8 @@ npx cap sync ios       # 或 npx cap sync macos
 
 然後用 Xcode 開啟對應目錄。
 
+note: 請用 `ios/App/App.xcworkspace` 開啟（不是開 App.xcodeproj）
+
 ## 技術架構
 
 ```
