@@ -12,10 +12,10 @@ android/app/src/main/assets/public/
 
 # build artifacts
 build/
+build_intel/
 
 # IDE
 .idea/
 *.swp
 *.swo
 .DS_Store
-

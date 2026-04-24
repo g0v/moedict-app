@@ -3,6 +3,7 @@
 #
 # Modes:
 #   sh scripts/build-macos.sh             # unsigned dev build (fast, legacy behaviour)
+#   sh scripts/build-macos.sh --intel     # unsigned Intel build in build_intel/
 #   sh scripts/build-macos.sh --sandbox   # signed with Apple Development cert
 #                                         # (App Sandbox entitlements; suitable for
 #                                         # local MAS smoke testing before submission)
@@ -14,22 +15,45 @@
 #                                         #   (and an "Apple Distribution: Audrey Tang"
 #                                         #    identity in the keychain)
 #
-# Produces: build/萌典.app/
+# Produces: build/萌典.app/ by default, or build_intel/萌典.app/ with --intel.
 
 set -e
 
-MODE="${1:-unsigned}"
-case "$MODE" in
-    --sandbox|--mas|unsigned) ;;
-    *) echo "Unknown mode: $MODE"; echo "Use --sandbox, --mas, or no flag for unsigned."; exit 2 ;;
-esac
+MODE="unsigned"
+ARCH="arm64"
+
+while [ "$#" -gt 0 ]; do
+    case "$1" in
+        --sandbox|--mas)
+            MODE="$1"
+            ;;
+        --intel|--x86_64)
+            ARCH="x86_64"
+            ;;
+        --arm64)
+            ARCH="arm64"
+            ;;
+        *)
+            echo "Unknown option: $1"
+            echo "Use --sandbox, --mas, --intel, --x86_64, --arm64, or no flag for unsigned arm64."
+            exit 2
+            ;;
+    esac
+    shift
+done
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 MACOS_DIR="$ROOT/macos"
-BUILD_DIR="$ROOT/build"
+if [ "$ARCH" = "x86_64" ]; then
+    BUILD_DIR="$ROOT/build_intel"
+else
+    BUILD_DIR="$ROOT/build"
+fi
 APP_BUNDLE="$BUILD_DIR/萌典.app"
 ENTITLEMENTS="$MACOS_DIR/Moedict.entitlements"
 SWIFT_MODULE_CACHE="$BUILD_DIR/.swift-module-cache"
+DEPLOYMENT_TARGET="${MOEDICT_MACOS_DEPLOYMENT_TARGET:-13.0}"
+TARGET="$ARCH-apple-macos$DEPLOYMENT_TARGET"
 
 # Ensure dist/ exists (run web build if needed)
 if [ ! -d "$ROOT/dist" ] || [ ! -f "$ROOT/dist/index.html" ]; then
@@ -41,9 +65,9 @@ fi
 mkdir -p "$BUILD_DIR"
 mkdir -p "$SWIFT_MODULE_CACHE"
 
-echo "Compiling main.swift..."
+echo "Compiling main.swift for $TARGET..."
 swiftc \
-    -target arm64-apple-macos13.0 \
+    -target "$TARGET" \
     -sdk "$(xcrun --show-sdk-path --sdk macosx)" \
     -module-cache-path "$SWIFT_MODULE_CACHE" \
     -O \

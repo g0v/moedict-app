@@ -11,7 +11,9 @@
 		"verify:android": "sh scripts/verify-apk.sh",
 		"smoke:android": "sh scripts/smoke-android.sh",
 		"build:ios": "npm run prepare-data && npm run build && npx cap sync ios",
-		"build:macos": "npm run prepare-data && npm run build && sh scripts/build-macos.sh",
+		"build:macos": "npm run prepare-data && npm run build && sh scripts/build-macos.sh && sh scripts/build-macos.sh --intel",
+		"build:macos:arm64": "npm run prepare-data && npm run build && sh scripts/build-macos.sh",
+		"build:macos:intel": "npm run prepare-data && npm run build && sh scripts/build-macos.sh --intel",
 		"prepare-data": "sh scripts/prepare-data.sh",
 		"lint": "eslint ."
 	},
