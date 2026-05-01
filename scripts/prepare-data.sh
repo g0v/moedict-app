@@ -26,6 +26,18 @@ cp -r "$MOEDICT_TW/data/dictionary/c"     public/dictionary/
 cp -r "$MOEDICT_TW/data/dictionary/h"     public/dictionary/
 cp -r "$MOEDICT_TW/data/dictionary/t"     public/dictionary/
 
+# Pinyin lookup indexes used by the sidebar's romanization search.
+# Without these, the packaged app can list Mandarin/Cross-Strait pinyin via
+# other local routes but Taiwanese/Hakka romanized searches return no suggestions.
+if [ -d "$MOEDICT_TW/data/dictionary/lookup/pinyin" ]; then
+  mkdir -p public/dictionary/lookup
+  cp -r "$MOEDICT_TW/data/dictionary/lookup/pinyin" public/dictionary/lookup/
+else
+  echo "Error: Cannot find $MOEDICT_TW/data/dictionary/lookup/pinyin"
+  echo "Run 'bun run build-pinyin-lookup' in the moedict.tw repo first"
+  exit 1
+fi
+
 # Top-level radical and category files
 cp "$MOEDICT_TW"/data/dictionary/@*.json  public/dictionary/ 2>/dev/null || true
 cp "$MOEDICT_TW"/data/dictionary/=*.json  public/dictionary/ 2>/dev/null || true

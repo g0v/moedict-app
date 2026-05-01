@@ -87,8 +87,25 @@ for lang in a c h t; do
   fi
 done
 
-# ---------- 6. Packed buckets ----------
-printf '\n== 6. Packed buckets (pack/pcck/phck/ptck) ==\n'
+# ---------- 6. Pinyin lookup indexes ----------
+printf '\n== 6. Pinyin lookup indexes ==\n'
+for path in \
+  "assets/public/dictionary/lookup/pinyin/t/TL/tsiah.json" \
+  "assets/public/dictionary/lookup/pinyin/t/DT/ziah.json" \
+  "assets/public/dictionary/lookup/pinyin/t/POJ/chiah.json" \
+  "assets/public/dictionary/lookup/pinyin/h/TH.json" \
+  "assets/public/dictionary/lookup/pinyin/h/PFS.json"
+do
+  if apk_has "$path"; then pass "$path present"
+  else                    fail "$path missing"
+  fi
+done
+APK_PINYIN=$(apk_count_under "assets/public/dictionary/lookup/pinyin/")
+DISK_PINYIN=$(disk_count "$PUBLIC/dictionary/lookup/pinyin")
+cmp_counts "  lookup/pinyin" "$APK_PINYIN" "$DISK_PINYIN"
+
+# ---------- 7. Packed buckets ----------
+printf '\n== 7. Packed buckets (pack/pcck/phck/ptck) ==\n'
 TOTAL_APK=0; TOTAL_DISK=0
 for b in pack pcck phck ptck; do
   apk_n=$(apk_count_under "assets/public/dictionary/$b/")
@@ -98,14 +115,14 @@ for b in pack pcck phck ptck; do
 done
 cmp_counts "  TOTAL buckets" "$TOTAL_APK" "$TOTAL_DISK"
 
-# ---------- 7. Stroke JSONs ----------
-printf '\n== 7. Stroke animation JSONs ==\n'
+# ---------- 8. Stroke JSONs ----------
+printf '\n== 8. Stroke animation JSONs ==\n'
 APK_STROKES=$(apk_count_glob "assets/public/stroke-json/" ".json")
 DISK_STROKES=$(find "$PUBLIC/stroke-json" -name '*.json' 2>/dev/null | wc -l | tr -d ' ')
 cmp_counts "  stroke-json/*.json" "$APK_STROKES" "$DISK_STROKES"
 
-# ---------- 8. Legacy assets ----------
-printf '\n== 8. Legacy assets (fonts/css/js/images) ==\n'
+# ---------- 9. Legacy assets ----------
+printf '\n== 9. Legacy assets (fonts/css/js/images) ==\n'
 for d in fonts css js images; do
   apk_n=$(apk_count_under "assets/public/assets-legacy/$d/")
   disk_n=$(disk_count "$PUBLIC/assets-legacy/$d")
@@ -118,6 +135,7 @@ printf 'APK:          %s\n' "$APK"
 printf 'APK size:     %s (%s bytes)\n' "$APK_HUMAN" "$APK_BYTES"
 printf 'APK entries:  %s\n' "$ENTRY_COUNT"
 printf 'Buckets:      %s files (expected %s on disk)\n' "$TOTAL_APK" "$TOTAL_DISK"
+printf 'Pinyin:       %s files (expected %s on disk)\n' "$APK_PINYIN" "$DISK_PINYIN"
 printf 'Strokes:      %s files (expected %s on disk)\n' "$APK_STROKES" "$DISK_STROKES"
 
 if [ "$FAIL" -eq 0 ]; then
