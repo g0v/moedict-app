@@ -7,7 +7,7 @@
     <key>CFBundleDisplayName</key>
     <string>萌典</string>
     <key>CFBundleIdentifier</key>
-    <string>tw.moedict.app</string>
+    <string>org.audreyt.dict.moe</string>
     <key>CFBundleVersion</key>
     <string>1</string>
     <key>CFBundleShortVersionString</key>

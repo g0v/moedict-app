@@ -131,7 +131,7 @@ case "$MODE" in
     --mas)
         if [ -z "${MOEDICT_MAS_PROFILE:-}" ] || [ ! -f "$MOEDICT_MAS_PROFILE" ]; then
             echo "MOEDICT_MAS_PROFILE must point to a .provisionprofile downloaded from the" >&2
-            echo "Apple Developer Portal (Mac App Store distribution profile for tw.moedict.app)." >&2
+            echo "Apple Developer Portal (Mac App Store distribution profile for org.audreyt.dict.moe)." >&2
             exit 1
         fi
         echo "Embedding provisioning profile..."
