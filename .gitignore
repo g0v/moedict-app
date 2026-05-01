@@ -19,3 +19,7 @@ build_intel/
 *.swp
 *.swo
 .DS_Store
+
+# Xcode user-specific state
+xcuserdata/
+*.xcuserstate
