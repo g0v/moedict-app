@@ -10,17 +10,17 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Commands
 
-Package manager here is **npm** (not Bun — that's upstream only). The wrapper's `package.json` is deliberately minimal.
+Package manager here is **bun** (matching upstream moedict.tw). The wrapper's `package.json` is deliberately minimal. Use `bunx` instead of `npx`, and `bun <file>` instead of `node <file>`.
 
 ```bash
-npm install              # also runs: git submodule update --init --depth 1
-npm run prepare-data     # stage dictionary/search-index/assets/strokes into public/
-npm run dev              # Vite dev server (runs against the symlinked src/)
-npm run build            # tsc -b && vite build
-npm run build:android    # prepare-data + build + cap sync android
-npm run build:ios        # prepare-data + build + cap sync ios
-npm run build:macos      # build + scripts/build-macos.sh (produces build/萌典.app)
-npm run lint             # eslint
+bun install              # also runs: git submodule update --init --depth 1
+bun run prepare-data     # stage dictionary/search-index/assets/strokes into public/
+bun dev                  # Vite dev server (runs against the symlinked src/)
+bun run build            # tsc -b && vite build
+bun run build:android    # prepare-data + build + cap sync android
+bun run build:ios        # prepare-data + build + cap sync ios
+bun run build:macos      # build + scripts/build-macos.sh (produces build/萌典.app)
+bun run lint             # eslint
 ```
 
 There are no tests in this wrapper. The upstream `moedict.tw/` submodule has its own three-tier test suite (unit / integration / e2e) — run those from inside the submodule.
@@ -28,7 +28,7 @@ There are no tests in this wrapper. The upstream `moedict.tw/` submodule has its
 ### Single-test / watch loops
 
 Not applicable at this layer. For iterating on UI logic, either:
-- run `npm run dev` here and hit the app in a browser (offline API activates in dev when `VITE_CLOUDFLARE_REMOTE_DEV` is unset), or
+- run `bun dev` here and hit the app in a browser (offline API activates in dev when `VITE_CLOUDFLARE_REMOTE_DEV` is unset), or
 - `cd moedict.tw` and use its own dev/test flow.
 
 ## Repository shape
@@ -56,7 +56,7 @@ moedict-app/
 Key things the layout implies:
 
 - **Don't edit `src/`** — it's a symlink. All React/TypeScript changes belong upstream in `moedict.tw/src/`. Commit there, pull the submodule bump here, re-run `prepare-data` if data files changed.
-- **`public/dictionary/`, `public/search-index/`, `public/assets-legacy/` are gitignored.** They are staged by `scripts/prepare-data.sh` from the submodule. A fresh clone has no data until you run `npm run prepare-data`.
+- **`public/dictionary/`, `public/search-index/`, `public/assets-legacy/` are gitignored.** They are staged by `scripts/prepare-data.sh` from the submodule. A fresh clone has no data until you run `bun run prepare-data`.
 - **`public/stroke-json/` IS committed** (see `.gitignore` comment). Don't regenerate it casually — `download-strokes.sh` hits a Rackspace CDN and is slow.
 - **`android/app/src/main/assets/public/` is gitignored** — Capacitor copies `dist/` into it during `cap sync`.
 
@@ -86,17 +86,17 @@ git commit -m "Update moedict.tw to <sha>"
 
 # If upstream changed files under data/ or scripts/build-search-index.mjs,
 # re-stage before building:
-npm run prepare-data
+bun run prepare-data
 ```
 
-The `postinstall` hook does `git submodule update --init --depth 1`, so `npm install` on a fresh clone is sufficient — no `--recurse-submodules` needed.
+The `postinstall` hook does `git submodule update --init --depth 1`, so `bun install` on a fresh clone is sufficient — no `--recurse-submodules` needed.
 
 ## Build dependencies
 
 `prepare-data.sh` expects this layout inside the submodule:
 
 - `moedict.tw/data/dictionary/{pack,pcck,phck,ptck,a,c,h,t}/` — required, hard error if missing
-- Search indexes: tries `moedict.tw/public/search-index/*.json`, then `moedict.tw/data/dictionary/search-index/*.json`, then falls back to running `node moedict.tw/scripts/build-search-index.mjs`. If upstream renames the script or output dir, update `prepare-data.sh`.
+- Search indexes: tries `moedict.tw/public/search-index/*.json`, then `moedict.tw/data/dictionary/search-index/*.json`, then falls back to running `bun moedict.tw/scripts/build-search-index.mjs`. If upstream renames the script or output dir, update `prepare-data.sh`.
 - `moedict.tw/data/assets/{css,js,fonts,images,styles.css}` — staged into `public/assets-legacy/` for the legacy moedict-webkit skin.
 
 The `build-macos.sh` script compiles `macos/main.swift` with `swiftc` (target arm64-apple-macos13.0), copies `Info.plist` and `AppIcon.icns` from `macos/萌典.app/`, and drops `dist/` into `Contents/Resources/public/`. It's not an Xcode project — it's hand-assembled. Don't expect `cap sync macos` to produce a shippable app; run the script instead.
