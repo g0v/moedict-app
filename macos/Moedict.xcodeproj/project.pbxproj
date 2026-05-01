@@ -63,6 +63,7 @@
 				A10005000000000000000001 /* Sources */,
 				A10005000000000000000002 /* Resources */,
 				A10005000000000000000003 /* Frameworks */,
+				A10005000000000000000004 /* Stage dist into Resources/public */,
 			);
 			buildRules = (
 			);
@@ -123,6 +124,28 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		A10005000000000000000004 /* Stage dist into Resources/public */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Stage dist into Resources/public";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e\nDIST=\"$SRCROOT/../dist\"\nDEST=\"$TARGET_BUILD_DIR/$WRAPPER_NAME/Contents/Resources/public\"\nif [ ! -f \"$DIST/index.html\" ]; then\n  echo \"error: $DIST/index.html not found \\u2014 run 'npm run build' from the repo root first\" >&2\n  exit 1\nfi\nrm -rf \"$DEST\"\nmkdir -p \"$(dirname \"$DEST\")\"\ncp -R \"$DIST/\" \"$DEST/\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		A10005000000000000000003 /* Frameworks */ = {
@@ -196,6 +219,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = P8PJ468WJ2;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = "萌典.app/Contents/Info.plist";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2025 g0v contributors. CC BY-SA 4.0.";
@@ -218,6 +242,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = P8PJ468WJ2;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = "萌典.app/Contents/Info.plist";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2025 g0v contributors. CC BY-SA 4.0.";
