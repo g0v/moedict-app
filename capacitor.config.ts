@@ -7,6 +7,7 @@ const config: CapacitorConfig = {
   server: {
     // Use the built-in Capacitor web server (no external URL)
     androidScheme: 'https',
+    iosScheme: 'https',
   },
   plugins: {
     StatusBar: {
