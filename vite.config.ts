@@ -22,6 +22,9 @@ export default defineConfig({
   define: {
     'import.meta.env.VITE_MOEDICT_SHA': JSON.stringify(getMoedictSha()),
   },
+  resolve: {
+    dedupe: ['react', 'react-dom'],
+  },
   build: {
     // Capacitor serves from local filesystem; use relative paths
     assetsDir: 'assets',
