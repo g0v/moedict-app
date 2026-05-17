@@ -103,8 +103,11 @@ class LocalSchemeHandler: NSObject, WKURLSchemeHandler {
 class AppDelegate: NSObject, NSApplicationDelegate {
     var window: NSWindow!
     var webView: WKWebView!
+    var schemeHandler: LocalSchemeHandler!
 
     func applicationDidFinishLaunching(_ notification: Notification) {
+        configureMainMenu()
+
         // Determine the dist directory
         let distPath: String
         if let resourcePath = Bundle.main.resourcePath,
@@ -125,7 +128,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
         // Configure WKWebView with custom scheme handler
         let config = WKWebViewConfiguration()
-        let schemeHandler = LocalSchemeHandler(rootDirectory: distURL)
+        schemeHandler = LocalSchemeHandler(rootDirectory: distURL)
         config.setURLSchemeHandler(schemeHandler, forURLScheme: "app")
         let capacitorShim = """
         window.Capacitor = window.Capacitor || {
@@ -179,6 +182,69 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
     func applicationSupportsSecureRestorableState(_ app: NSApplication) -> Bool {
         return true
+    }
+
+    private func configureMainMenu() {
+        let appName = ProcessInfo.processInfo.processName
+        let mainMenu = NSMenu()
+
+        let appMenuItem = NSMenuItem()
+        mainMenu.addItem(appMenuItem)
+
+        let appMenu = NSMenu(title: appName)
+        appMenuItem.submenu = appMenu
+        appMenu.addItem(
+            withTitle: "About \(appName)",
+            action: #selector(NSApplication.orderFrontStandardAboutPanel(_:)),
+            keyEquivalent: ""
+        )
+        appMenu.addItem(NSMenuItem.separator())
+
+        let servicesMenu = NSMenu(title: "Services")
+        NSApp.servicesMenu = servicesMenu
+        let servicesMenuItem = NSMenuItem(title: "Services", action: nil, keyEquivalent: "")
+        servicesMenuItem.submenu = servicesMenu
+        appMenu.addItem(servicesMenuItem)
+        appMenu.addItem(NSMenuItem.separator())
+
+        appMenu.addItem(
+            withTitle: "Hide \(appName)",
+            action: #selector(NSApplication.hide(_:)),
+            keyEquivalent: "h"
+        )
+        let hideOthersItem = appMenu.addItem(
+            withTitle: "Hide Others",
+            action: #selector(NSApplication.hideOtherApplications(_:)),
+            keyEquivalent: "h"
+        )
+        hideOthersItem.keyEquivalentModifierMask = [.command, .option]
+        appMenu.addItem(
+            withTitle: "Show All",
+            action: #selector(NSApplication.unhideAllApplications(_:)),
+            keyEquivalent: ""
+        )
+        appMenu.addItem(NSMenuItem.separator())
+        appMenu.addItem(
+            withTitle: "Quit \(appName)",
+            action: #selector(NSApplication.terminate(_:)),
+            keyEquivalent: "q"
+        )
+
+        let editMenuItem = NSMenuItem()
+        mainMenu.addItem(editMenuItem)
+
+        let editMenu = NSMenu(title: "Edit")
+        editMenuItem.submenu = editMenu
+        editMenu.addItem(withTitle: "Undo", action: Selector(("undo:")), keyEquivalent: "z")
+        let redoItem = editMenu.addItem(withTitle: "Redo", action: Selector(("redo:")), keyEquivalent: "z")
+        redoItem.keyEquivalentModifierMask = [.command, .shift]
+        editMenu.addItem(NSMenuItem.separator())
+        editMenu.addItem(withTitle: "Cut", action: #selector(NSText.cut(_:)), keyEquivalent: "x")
+        editMenu.addItem(withTitle: "Copy", action: #selector(NSText.copy(_:)), keyEquivalent: "c")
+        editMenu.addItem(withTitle: "Paste", action: #selector(NSText.paste(_:)), keyEquivalent: "v")
+        editMenu.addItem(withTitle: "Select All", action: #selector(NSText.selectAll(_:)), keyEquivalent: "a")
+
+        NSApp.mainMenu = mainMenu
     }
 }
 
