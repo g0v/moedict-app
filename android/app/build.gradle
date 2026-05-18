@@ -15,7 +15,7 @@ android {
         applicationId "org.audreyt.dict.moe"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 70011
+        versionCode 70012
         versionName "7.0.6"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
