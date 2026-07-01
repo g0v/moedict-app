@@ -100,7 +100,7 @@ class LocalSchemeHandler: NSObject, WKURLSchemeHandler {
 
 // MARK: - App Delegate
 
-class AppDelegate: NSObject, NSApplicationDelegate {
+class AppDelegate: NSObject, NSApplicationDelegate, WKUIDelegate {
     var window: NSWindow!
     var webView: WKWebView!
     var schemeHandler: LocalSchemeHandler!
@@ -149,6 +149,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         // Create WebView
         let contentRect = NSRect(x: 0, y: 0, width: 1024, height: 768)
         webView = WKWebView(frame: contentRect, configuration: config)
+        webView.uiDelegate = self
         webView.autoresizingMask = [.width, .height]
 
         // Enable back/forward navigation gestures
@@ -174,6 +175,63 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         webView.load(URLRequest(url: appURL))
 
         window.makeKeyAndOrderFront(nil)
+    }
+
+    // MARK: - WKUIDelegate (window.alert / window.confirm / window.prompt)
+    //
+    // WKWebView has no built-in JS dialogs; without a uiDelegate implementing
+    // these, `window.confirm()`/`alert()`/`prompt()` return immediately with
+    // `undefined`, which the web app's `if (!window.confirm(...)) return;`
+    // guards interpret as "cancelled" — silently blocking the action (e.g.
+    // clearing starred words / recent lookups). Bridge them to native NSAlert.
+
+    func webView(
+        _ webView: WKWebView,
+        runJavaScriptAlertPanelWithMessage message: String,
+        initiatedByFrame frame: WKFrameInfo,
+        completionHandler: @escaping () -> Void
+    ) {
+        let alert = NSAlert()
+        alert.messageText = message
+        alert.alertStyle = .informational
+        alert.addButton(withTitle: "確定")
+        alert.runModal()
+        completionHandler()
+    }
+
+    func webView(
+        _ webView: WKWebView,
+        runJavaScriptConfirmPanelWithMessage message: String,
+        initiatedByFrame frame: WKFrameInfo,
+        completionHandler: @escaping (Bool) -> Void
+    ) {
+        let alert = NSAlert()
+        alert.messageText = message
+        alert.alertStyle = .informational
+        alert.addButton(withTitle: "確定")
+        alert.addButton(withTitle: "取消")
+        let response = alert.runModal()
+        completionHandler(response == .alertFirstButtonReturn)
+    }
+
+    func webView(
+        _ webView: WKWebView,
+        runJavaScriptTextInputPanelWithPrompt prompt: String,
+        defaultText: String?,
+        initiatedByFrame frame: WKFrameInfo,
+        completionHandler: @escaping (String?) -> Void
+    ) {
+        let alert = NSAlert()
+        alert.messageText = prompt
+        alert.alertStyle = .informational
+        alert.addButton(withTitle: "確定")
+        alert.addButton(withTitle: "取消")
+        let input = NSTextField(frame: NSRect(x: 0, y: 0, width: 280, height: 24))
+        input.stringValue = defaultText ?? ""
+        alert.accessoryView = input
+        alert.window.initialFirstResponder = input
+        let response = alert.runModal()
+        completionHandler(response == .alertFirstButtonReturn ? input.stringValue : nil)
     }
 
     func applicationShouldTerminateAfterLastWindowClosed(_ application: NSApplication) -> Bool {
