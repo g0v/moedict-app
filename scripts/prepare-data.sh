@@ -72,6 +72,14 @@ cp -r "$MOEDICT_TW/data/assets/fonts"   public/assets-legacy/
 cp -r "$MOEDICT_TW/data/assets/images"  public/assets-legacy/
 cp "$MOEDICT_TW/data/assets/styles.css" public/assets-legacy/
 
+# PUA variant-headword font (MOE revised-dict.woff, 標楷體2) — referenced by
+# src/index.css @font-face at /fonts/revised-dict.woff for the 110 plane-15 PUA
+# variant headwords. Copied from the submodule's public/fonts/ (NOT data/assets).
+if [ -d "$MOEDICT_TW/public/fonts" ]; then
+  mkdir -p public/fonts
+  cp -r "$MOEDICT_TW/public/fonts/." public/fonts/
+fi
+
 # Stroke animation data (download if not already present)
 stroke_count=$(find public/stroke-json -name '*.json' 2>/dev/null | wc -l | tr -d ' ')
 if [ "$stroke_count" -lt 1000 ]; then
