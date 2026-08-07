@@ -21,6 +21,13 @@ build_intel/
 *.swo
 .DS_Store
 
+# Local Android SDK used for CLI builds in this worktree
+.android-sdk/
+
+# Local tool homes redirected out of sandboxed ~/Library paths
+.android-home/
+.gradle-user-home/
+
 # Xcode user-specific state
 xcuserdata/
 *.xcuserstate
