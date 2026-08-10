@@ -41,7 +41,7 @@ if (typeof window !== 'undefined' && (window as any).Capacitor) {
 | 臺灣客語 | 教育部《臺灣客語辭典》 | 14,000+ | `/:` |
 | 兩岸詞典 | 中華文化總會 | — | `/~` |
 
-另含英／法／德文對照（CC-CEDict、CFDict、HanDeDict）及 4,806 字的筆順動畫資料。
+另含英／法／德文對照（CC-CEDict、CFDict、HanDeDict）及 6,063 字的筆順動畫資料。
 
 ## 開發
 

@@ -51,7 +51,7 @@ moedict-app/
   index.html                      # wrapper-specific (favicons, OG tags, manifest)
   scripts/
     prepare-data.sh               # stages submodule data → public/
-    download-strokes.sh           # fetches U+4E00–U+9FFF stroke JSONs
+    download-strokes.sh           # syncs the exact R2 manifest-listed stroke corpus
     minify-strokes.mjs
     build-macos.sh                # assembles macos/萌典.app from dist/
   public/                         # populated by prepare-data.sh (gitignored)
@@ -66,7 +66,7 @@ Key things the layout implies:
 
 - **Don't edit `src/`** — it's a symlink. All React/TypeScript changes belong upstream in `moedict.tw/src/`. Commit there, pull the submodule bump here, re-run `prepare-data` if data files changed.
 - **`public/dictionary/`, `public/search-index/`, `public/assets-legacy/` are gitignored.** They are staged by `scripts/prepare-data.sh` from the submodule. A fresh clone has no data until you run `bun run prepare-data`.
-- **`public/stroke-json/` IS committed** (see `.gitignore` comment). Don't regenerate it casually — `download-strokes.sh` hits a Rackspace CDN and is slow.
+- **`public/stroke-json/` IS committed** (see `.gitignore` comment). `download-strokes.sh` reads the R2 corpus pointer/manifest, downloads only missing files with bounded concurrency, and validates the complete local corpus. Run it only when intentionally updating the bundled corpus.
 - **`android/app/src/main/assets/public/` is gitignored** — Capacitor copies `dist/` into it during `cap sync`.
 
 ## The key architectural trick: environment-detected offline API
