@@ -28,6 +28,13 @@ build_intel/
 .android-home/
 .gradle-user-home/
 
+# Owner-local private notes / drafts — never commit
+draft-reply-*.md
+draft-reply-bestian.md
+
+# Local screenshot scratch (device captures, not release assets)
+screenshots/
+
 # Xcode user-specific state
 xcuserdata/
 *.xcuserstate
