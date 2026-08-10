@@ -31,6 +31,12 @@ bun run lint             # eslint
   - `ANDROID_HOME=/Users/au/w/moedict-app/.android-sdk`
   - `GRADLE_USER_HOME=/Users/au/w/moedict-app/.gradle-user-home`
   - `ANDROID_USER_HOME=/Users/au/w/moedict-app/.android-home`
+- **Stroke corpus network sync is opt-in:** `public/stroke-json/` is committed (6,063 files from the authoritative R2 manifest). If the local count drifts from `STROKE_CORPUS_EXPECTED_COUNT`, `prepare-data.sh` warns and continues; it only downloads when `ALLOW_NETWORK=1` is set:
+  ```bash
+  ALLOW_NETWORK=1 sh scripts/download-strokes.sh
+  # or:
+  ALLOW_NETWORK=1 bun run prepare-data
+  ```
 
 There are no tests in this wrapper. The upstream `moedict.tw/` submodule has its own three-tier test suite (unit / integration / e2e) — run those from inside the submodule.
 
