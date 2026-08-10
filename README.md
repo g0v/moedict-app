@@ -67,11 +67,22 @@ git commit -m "Update moedict.tw submodule"
 
 ### 建置 Android APK
 
+Capacitor 7 的 Android 層編譯**需要 Java 21**（JDK 17 會在編譯時報 `invalid source release: 21` 錯誤）。`android/gradlew` 與相關建置腳本會自動透過 `scripts/env.sh` 載入 JDK 21 與專案本機 Android SDK / Gradle 設定：
+
 ```bash
-npm run build:android  # prepare-data → tsc → vite build → cap sync
+# 本機專案環境設定 (scripts/env.sh 自動載入)
+JAVA_HOME=/opt/homebrew/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home
+ANDROID_HOME=/Users/au/w/moedict-app/.android-sdk
+GRADLE_USER_HOME=/Users/au/w/moedict-app/.gradle-user-home
+ANDROID_USER_HOME=/Users/au/w/moedict-app/.android-home
 ```
 
-然後用 Android Studio 開啟 `android/` 進行簽章與發佈。
+```bash
+npm run build:android  # prepare-data → tsc → vite build → cap sync
+cd android && ./gradlew assembleDebug
+```
+
+發佈版本可以 Android Studio 開啟 `android/` 進行簽章與發佈。
 
 ### 建置 iOS
 

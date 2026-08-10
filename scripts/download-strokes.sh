@@ -1,11 +1,11 @@
 #!/bin/sh
 # Download all CJK stroke animation data for offline use.
 # Range: U+4E00–U+9FFF (CJK Unified Ideographs, ~20992 chars)
-# Source: Rackspace CDN used by the original moedict-webkit
+# Source: Cloudflare R2 (https://r2-assets.moedict.tw/stroke-json/{codepoint-hex}.json, also proxied at https://www.moedict.tw/api/stroke-json/{cp}.json)
 
 set -e
 
-CDN="https://829091573dd46381a321-9e8a43b8d3436eaf4353af683c892840.ssl.cf1.rackcdn.com"
+CDN="https://r2-assets.moedict.tw/stroke-json"
 OUTDIR="public/stroke-json"
 mkdir -p "$OUTDIR"
 

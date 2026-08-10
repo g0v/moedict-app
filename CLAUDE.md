@@ -23,6 +23,15 @@ bun run build:macos      # build + scripts/build-macos.sh (produces build/萌典
 bun run lint             # eslint
 ```
 
+### Environment & Prerequisites
+
+- **Java 21 required for Android:** Capacitor 7 requires JDK 21 (e.g. `/opt/homebrew/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home`). Lower versions (like JDK 17) fail during compilation.
+- **Environment Helper:** `scripts/env.sh` automatically resolves JDK 21 and sets repository-local paths (`ANDROID_HOME`, `GRADLE_USER_HOME`, `ANDROID_USER_HOME`). `android/gradlew`, `scripts/verify-apk.sh`, and `scripts/smoke-android.sh` auto-source `scripts/env.sh`.
+- **Local Android Environment settings:**
+  - `ANDROID_HOME=/Users/au/w/moedict-app/.android-sdk`
+  - `GRADLE_USER_HOME=/Users/au/w/moedict-app/.gradle-user-home`
+  - `ANDROID_USER_HOME=/Users/au/w/moedict-app/.android-home`
+
 There are no tests in this wrapper. The upstream `moedict.tw/` submodule has its own three-tier test suite (unit / integration / e2e) — run those from inside the submodule.
 
 ### Single-test / watch loops
