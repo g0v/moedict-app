@@ -9,9 +9,9 @@
     <key>CFBundleIdentifier</key>
     <string>org.audreyt.dict.moe</string>
     <key>CFBundleVersion</key>
-    <string>12</string>
+    <string>13</string>
     <key>CFBundleShortVersionString</key>
-    <string>7.0.8</string>
+    <string>7.1.0</string>
     <key>LSApplicationCategoryType</key>
     <string>public.app-category.reference</string>
     <key>CFBundlePackageType</key>
