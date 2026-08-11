@@ -89,6 +89,11 @@ APP_BASE_NAME=${0##*/}
 APP_HOME=$( cd -P "${APP_HOME:-./}" > /dev/null && printf '%s
 ' "$PWD" ) || exit
 
+# Source environment helper (JDK 21, ANDROID_HOME, etc.) if present
+if [ -f "$APP_HOME/../scripts/env.sh" ]; then
+    . "$APP_HOME/../scripts/env.sh"
+fi
+
 # Use the maximum available, or set MAX_FD != -1 to use that value.
 MAX_FD=maximum
 

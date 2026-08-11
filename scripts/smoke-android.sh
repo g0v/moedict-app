@@ -20,6 +20,9 @@ set -u
 # Resolve repo root (parent of scripts/).
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+if [ -f "$SCRIPT_DIR/env.sh" ]; then
+  . "$SCRIPT_DIR/env.sh"
+fi
 
 PKG="org.audreyt.dict.moe"
 # Note: applicationId (PKG) and namespace diverge in android/app/build.gradle,

@@ -23,6 +23,21 @@ bun run build:macos      # build + scripts/build-macos.sh (produces build/萌典
 bun run lint             # eslint
 ```
 
+### Environment & Prerequisites
+
+- **Java 21 required for Android:** Capacitor 7 requires JDK 21 (e.g. `/opt/homebrew/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home`). Lower versions (like JDK 17) fail during compilation.
+- **Environment Helper:** `scripts/env.sh` automatically resolves JDK 21 and sets repository-local paths (`ANDROID_HOME`, `GRADLE_USER_HOME`, `ANDROID_USER_HOME`). `android/gradlew`, `scripts/verify-apk.sh`, and `scripts/smoke-android.sh` auto-source `scripts/env.sh`.
+- **Local Android Environment settings:**
+  - `ANDROID_HOME=/Users/au/w/moedict-app/.android-sdk`
+  - `GRADLE_USER_HOME=/Users/au/w/moedict-app/.gradle-user-home`
+  - `ANDROID_USER_HOME=/Users/au/w/moedict-app/.android-home`
+- **Stroke corpus network sync is opt-in:** `public/stroke-json/` is committed (6,063 files from the authoritative R2 manifest). If the local count drifts from `STROKE_CORPUS_EXPECTED_COUNT`, `prepare-data.sh` warns and continues; it only downloads when `ALLOW_NETWORK=1` is set:
+  ```bash
+  ALLOW_NETWORK=1 sh scripts/download-strokes.sh
+  # or:
+  ALLOW_NETWORK=1 bun run prepare-data
+  ```
+
 There are no tests in this wrapper. The upstream `moedict.tw/` submodule has its own three-tier test suite (unit / integration / e2e) — run those from inside the submodule.
 
 ### Single-test / watch loops
@@ -42,7 +57,7 @@ moedict-app/
   index.html                      # wrapper-specific (favicons, OG tags, manifest)
   scripts/
     prepare-data.sh               # stages submodule data → public/
-    download-strokes.sh           # fetches U+4E00–U+9FFF stroke JSONs
+    download-strokes.sh           # syncs the exact R2 manifest-listed stroke corpus
     minify-strokes.mjs
     build-macos.sh                # assembles macos/萌典.app from dist/
   public/                         # populated by prepare-data.sh (gitignored)
@@ -57,7 +72,7 @@ Key things the layout implies:
 
 - **Don't edit `src/`** — it's a symlink. All React/TypeScript changes belong upstream in `moedict.tw/src/`. Commit there, pull the submodule bump here, re-run `prepare-data` if data files changed.
 - **`public/dictionary/`, `public/search-index/`, `public/assets-legacy/` are gitignored.** They are staged by `scripts/prepare-data.sh` from the submodule. A fresh clone has no data until you run `bun run prepare-data`.
-- **`public/stroke-json/` IS committed** (see `.gitignore` comment). Don't regenerate it casually — `download-strokes.sh` hits a Rackspace CDN and is slow.
+- **`public/stroke-json/` IS committed** (see `.gitignore` comment). `download-strokes.sh` reads the R2 corpus pointer/manifest, downloads only missing files with bounded concurrency, and validates the complete local corpus. Run it only when intentionally updating the bundled corpus.
 - **`android/app/src/main/assets/public/` is gitignored** — Capacitor copies `dist/` into it during `cap sync`.
 
 ## The key architectural trick: environment-detected offline API

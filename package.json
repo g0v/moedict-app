@@ -1,7 +1,7 @@
 {
 	"name": "moedict-app",
 	"private": true,
-	"version": "1.0.0",
+	"version": "7.1.0",
 	"type": "module",
 	"scripts": {
 		"postinstall": "git submodule update --init --depth 1",
