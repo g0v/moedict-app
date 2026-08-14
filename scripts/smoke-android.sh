@@ -26,13 +26,28 @@ if [ -f "$SCRIPT_DIR/env.sh" ]; then
   . "$SCRIPT_DIR/env.sh"
 fi
 
-PKG="org.audreyt.dict.moe"
-# Note: applicationId (PKG) and namespace diverge in android/app/build.gradle,
-# so the launcher class lives in tw.moedict.app.* rather than org.audreyt.dict.moe.*.
-# Use `monkey -p $PKG -c LAUNCHER` to avoid hardcoding the class name.
 DEFAULT_APK="$REPO_ROOT/android/app/build/outputs/apk/debug/app-debug.apk"
 APK_PATH="${1:-$DEFAULT_APK}"
 
+# Resolve AAPT and APKSIGNER from PATH or ANDROID_HOME
+AAPT_BIN="$(command -v aapt 2>/dev/null || true)"
+if [ -z "$AAPT_BIN" ] && [ -n "${ANDROID_HOME:-}" ] && [ -d "$ANDROID_HOME/build-tools" ]; then
+  AAPT_BIN="$(find "$ANDROID_HOME/build-tools" -name aapt 2>/dev/null | sort -V | tail -n1 || true)"
+fi
+
+APKSIGNER_BIN="$(command -v apksigner 2>/dev/null || true)"
+if [ -z "$APKSIGNER_BIN" ] && [ -n "${ANDROID_HOME:-}" ] && [ -d "$ANDROID_HOME/build-tools" ]; then
+  APKSIGNER_BIN="$(find "$ANDROID_HOME/build-tools" -name apksigner 2>/dev/null | sort -V | tail -n1 || true)"
+fi
+
+# Extract package name dynamically from APK if possible
+PKG=""
+if [ -f "$APK_PATH" ] && [ -n "$AAPT_BIN" ] && [ -x "$AAPT_BIN" ]; then
+  PKG="$("$AAPT_BIN" dump badging "$APK_PATH" 2>/dev/null | awk -F"'" '/package: name=/{print $2; exit}' || true)"
+fi
+if [ -z "$PKG" ]; then
+  PKG="org.audreyt.dict.moe.debug"
+fi
 LOGCAT_FILE="/tmp/moedict-smoke-logcat.txt"
 LOGCAT_FILE_T="/tmp/moedict-smoke-logcat-t.txt"
 SCREEN_FILE="/tmp/moedict-smoke-screen.png"
@@ -118,10 +133,93 @@ PRIOR_AIRPLANE="$(adb shell settings get global airplane_mode_on 2>/dev/null | t
 [ -z "$PRIOR_AIRPLANE" ] && PRIOR_AIRPLANE="0"
 echo "airplane_mode_on was: $PRIOR_AIRPLANE"
 
-hdr "Uninstall any prior install"
-adb uninstall "$PKG" >/dev/null 2>&1 || true
-echo "done."
+hdr "Safety check: inspect device installation of $PKG"
+echo "Target package: $PKG"
 
+# 1. Get signer certificate SHA-256 digest of the new APK
+APK_CERT_DIGEST=""
+APK_CERT_DN=""
+if [ -n "$APKSIGNER_BIN" ] && [ -x "$APKSIGNER_BIN" ]; then
+  APK_CERTS_RAW="$("$APKSIGNER_BIN" verify --print-certs "$APK_PATH" 2>/dev/null || true)"
+  APK_CERT_DIGEST="$(echo "$APK_CERTS_RAW" | awk -F': ' '/Signer #[0-9]+ certificate SHA-256 digest:/{print tolower($2); exit}' || true)"
+  APK_CERT_DN="$(echo "$APK_CERTS_RAW" | awk -F': ' '/Signer #[0-9]+ certificate DN:/{print $2; exit}' || true)"
+fi
+
+# 2. Check if the target package is already installed on the device
+INSTALLED_PATH="$(adb shell pm path "$PKG" 2>/dev/null | head -n1 | sed -e 's/^package://' | tr -d '\r\n' || true)"
+
+if [ -n "$INSTALLED_PATH" ]; then
+  echo "Package '$PKG' is ALREADY INSTALLED on device at: $INSTALLED_PATH"
+  
+  # Pull installed base.apk to inspect its signer
+  INSTALLED_CERT_DIGEST=""
+  INSTALLED_CERT_DN=""
+  INSTALLED_TEMP="/tmp/moedict-installed-check-$$.apk"
+  if adb pull "$INSTALLED_PATH" "$INSTALLED_TEMP" >/dev/null 2>&1; then
+    if [ -n "$APKSIGNER_BIN" ] && [ -x "$APKSIGNER_BIN" ]; then
+      INSTALLED_CERTS_RAW="$("$APKSIGNER_BIN" verify --print-certs "$INSTALLED_TEMP" 2>/dev/null || true)"
+      INSTALLED_CERT_DIGEST="$(echo "$INSTALLED_CERTS_RAW" | awk -F': ' '/Signer #[0-9]+ certificate SHA-256 digest:/{print tolower($2); exit}' || true)"
+      INSTALLED_CERT_DN="$(echo "$INSTALLED_CERTS_RAW" | awk -F': ' '/Signer #[0-9]+ certificate DN:/{print $2; exit}' || true)"
+    fi
+    rm -f "$INSTALLED_TEMP"
+  fi
+
+  echo "  Installed app signer : ${INSTALLED_CERT_DN:-unknown}"
+  echo "  Installed SHA-256    : ${INSTALLED_CERT_DIGEST:-unknown}"
+  echo "  New APK signer       : ${APK_CERT_DN:-unknown}"
+  echo "  New APK SHA-256      : ${APK_CERT_DIGEST:-unknown}"
+
+  SIGNERS_MATCH=0
+  if [ -n "$INSTALLED_CERT_DIGEST" ] && [ -n "$APK_CERT_DIGEST" ] && [ "$INSTALLED_CERT_DIGEST" = "$APK_CERT_DIGEST" ]; then
+    SIGNERS_MATCH=1
+  fi
+
+  if [ "$SIGNERS_MATCH" -eq 1 ]; then
+    echo "Signers MATCH. Safe to update/reinstall matching debug package."
+  else
+    echo "SIGNER MISMATCH / NON-DEBUG SIGNATURE DETECTED on target package '$PKG'!"
+    if [ "${ALLOW_DESTRUCTIVE_UNINSTALL:-0}" = "1" ] || [ "${ALLOW_UNINSTALL_STORE_APP:-0}" = "1" ]; then
+      echo "WARNING: Explicit opt-in set (ALLOW_DESTRUCTIVE_UNINSTALL=1)."
+      echo "Proceeding to uninstall '$PKG' (ALL SAVED USER DATA FOR THIS PACKAGE WILL BE LOST)..."
+      adb uninstall "$PKG" || true
+    else
+      printf '\n'
+      echo "================================================================================"
+      echo "SAFETY GUARD: REFUSING DESTRUCTIVE UNINSTALL ON TARGET DEVICE"
+      echo "================================================================================"
+      echo "Target package '$PKG' is ALREADY INSTALLED on this device, but its signer"
+      echo "differs from the APK being tested:"
+      echo ""
+      echo "  Installed signer : ${INSTALLED_CERT_DN:-unknown}"
+      echo "  Installed SHA-256: ${INSTALLED_CERT_DIGEST:-unknown}"
+      echo "  New APK signer   : ${APK_CERT_DN:-unknown}"
+      echo "  New APK SHA-256  : ${APK_CERT_DIGEST:-unknown}"
+      echo ""
+      echo "Because Android enforces signature compatibility (INSTALL_FAILED_UPDATE_INCOMPATIBLE),"
+      echo "installing over this package requires UNINSTALLING the existing app first."
+      echo ""
+      echo "HAZARD:"
+      echo "Uninstalling '$PKG' will PERMANENTLY DESTROY all existing app data, including:"
+      echo "  - Starred words (字詞記錄簿) in WebView localStorage"
+      echo "  - User preferences and search history"
+      echo "  - Offline cache"
+      echo ""
+      echo "HOW TO PROCEED:"
+      echo "1. Non-destructive side-by-side testing (RECOMMENDED):"
+      echo "   The debug build (org.audreyt.dict.moe.debug) has its own data sandbox and"
+      echo "   installs alongside the store app without touching its saved data."
+      echo ""
+      echo "2. Destructive override (if you INTENTIONALLY want to wipe the device install):"
+      echo "   Re-run with ALLOW_DESTRUCTIVE_UNINSTALL=1:"
+      echo "     ALLOW_DESTRUCTIVE_UNINSTALL=1 sh scripts/smoke-android.sh"
+      echo "================================================================================"
+      fail "Safety guard blocked destructive uninstall of '$PKG'"
+      exit 1
+    fi
+  fi
+else
+  echo "Package '$PKG' is not currently installed on device. Safe to proceed."
+fi
 hdr "Install APK"
 INSTALL_OUT="$(adb install -r "$APK_PATH" 2>&1 || true)"
 echo "$INSTALL_OUT"
