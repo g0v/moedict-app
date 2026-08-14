@@ -33,9 +33,30 @@ if [ "$NEED_JDK21" -eq 1 ]; then
 fi
 
 # 2. Android SDK & Gradle cache paths
-if [ -z "${ANDROID_HOME:-}" ]; then
-  if [ -d "$REPO_ROOT/.android-sdk" ]; then
-    export ANDROID_HOME="$REPO_ROOT/.android-sdk"
+# Repo-local .android-sdk wins over a pre-set ANDROID_HOME / ANDROID_SDK_ROOT
+# that points elsewhere, so a machine-global SDK cannot silently take over.
+_canon_dir() {
+  (cd "$1" 2>/dev/null && pwd)
+}
+
+LOCAL_SDK="$REPO_ROOT/.android-sdk"
+if [ -d "$LOCAL_SDK" ]; then
+  LOCAL_SDK_CANON="$(_canon_dir "$LOCAL_SDK")"
+  if [ -n "${ANDROID_HOME:-}" ]; then
+    HOME_CANON="$(_canon_dir "$ANDROID_HOME" || true)"
+    if [ "$HOME_CANON" != "$LOCAL_SDK_CANON" ]; then
+      echo "note: overriding ANDROID_HOME=${ANDROID_HOME} -> ${LOCAL_SDK_CANON}"
+      export ANDROID_HOME="$LOCAL_SDK_CANON"
+    fi
+  else
+    export ANDROID_HOME="$LOCAL_SDK_CANON"
+  fi
+  if [ -n "${ANDROID_SDK_ROOT:-}" ]; then
+    ROOT_CANON="$(_canon_dir "$ANDROID_SDK_ROOT" || true)"
+    if [ "$ROOT_CANON" != "$LOCAL_SDK_CANON" ]; then
+      echo "note: overriding ANDROID_SDK_ROOT=${ANDROID_SDK_ROOT} -> ${LOCAL_SDK_CANON}"
+      export ANDROID_SDK_ROOT="$LOCAL_SDK_CANON"
+    fi
   fi
 fi
 
