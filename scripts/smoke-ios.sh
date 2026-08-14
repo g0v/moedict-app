@@ -261,7 +261,7 @@ if ! xcrun simctl spawn "$UDID" log show \
     --last 10m >"$LOG_FILE" 2>&1 || true
 fi
 
-BAD_PATHS='/dictionary/\|/stroke-json/\|/search-index/\|/assets-legacy/'
+BAD_PATHS='/dictionary/\|/stroke-json/\|/search-index/\|/assets-legacy/\|/assets/fonts/\|/fonts/'
 if grep -E 'didFail' "$LOG_FILE" 2>/dev/null | grep -q "$BAD_PATHS"; then
   fail "Found failed resource loads (didFail) on bundled asset paths!"
   grep -E 'didFail' "$LOG_FILE" | grep "$BAD_PATHS" >&2

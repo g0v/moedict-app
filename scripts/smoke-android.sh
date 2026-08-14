@@ -5,7 +5,7 @@
 # flips airplane mode on, launches the app, waits for it to settle, and then
 # asserts via logcat + a screenshot that the webview came up without fatal
 # JS errors and without 404s on any bundled /dictionary/, /search-index/,
-# /stroke-json/, or /assets-legacy/ path.
+# /stroke-json/, /assets-legacy/, /assets/fonts/, or /fonts/ path.
 #
 # Assumptions:
 #   * An Android emulator or physical device is already connected (`adb devices`
@@ -182,14 +182,14 @@ if [ "$SCR_BYTES" -lt 10240 ]; then
 fi
 
 hdr "Logcat assertions"
-BAD_PATHS='/dictionary/\|/stroke-json/\|/search-index/\|/assets-legacy/'
+BAD_PATHS='/dictionary/\|/stroke-json/\|/search-index/\|/assets-legacy/\|/assets/fonts/\|/fonts/'
 if grep -q 'FATAL EXCEPTION' "$LOGCAT_FILE" 2>/dev/null; then
   fail "FATAL EXCEPTION in logcat"
   grep 'FATAL EXCEPTION' "$LOGCAT_FILE" | head -n 5
 fi
-if grep -E 'net::ERR_' "$LOGCAT_FILE" 2>/dev/null | grep -q "$BAD_PATHS"; then
-  fail "net::ERR_* for a bundled data path"
-  grep -E 'net::ERR_' "$LOGCAT_FILE" | grep "$BAD_PATHS" | head -n 10
+if grep -E 'net::ERR_|Unable to open asset URL' "$LOGCAT_FILE" 2>/dev/null | grep -q "$BAD_PATHS"; then
+  fail "net::ERR_* / Unable to open asset URL for a bundled data path"
+  grep -E 'net::ERR_|Unable to open asset URL' "$LOGCAT_FILE" | grep "$BAD_PATHS" | head -n 10
 fi
 # 404 detection: require the literal " 404 " or "=404" or "/404" around the number
 # to avoid catching log timestamp millis like "18:39:40.404".
@@ -235,7 +235,7 @@ echo "second screenshot: $SCREEN_FILE_T"
 # Compare: lines in T snapshot that were not in the first snapshot, for the bad paths.
 # Same 404-pattern specificity as above.
 if [ -f "$LOGCAT_FILE" ] && [ -f "$LOGCAT_FILE_T" ]; then
-  NEW_ERRS="$(diff "$LOGCAT_FILE" "$LOGCAT_FILE_T" 2>/dev/null | grep '^>' | grep -E 'net::ERR_|FATAL EXCEPTION|( 404 |=404|/404[^0-9]|HTTP.{0,10}404|status.{0,10}404)' | grep "$BAD_PATHS" || true)"
+  NEW_ERRS="$(diff "$LOGCAT_FILE" "$LOGCAT_FILE_T" 2>/dev/null | grep '^>' | grep -E 'net::ERR_|Unable to open asset URL|FATAL EXCEPTION|( 404 |=404|/404[^0-9]|HTTP.{0,10}404|status.{0,10}404)' | grep "$BAD_PATHS" || true)"
   if [ -n "$NEW_ERRS" ]; then
     fail "new errors after /t deep-link"
     echo "$NEW_ERRS" | head -n 10
