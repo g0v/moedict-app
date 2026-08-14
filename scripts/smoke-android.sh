@@ -197,6 +197,18 @@ if grep -E 'chromium|Console' "$LOGCAT_FILE" 2>/dev/null | grep -E '( 404 |=404|
   fail "HTTP 404 for a bundled data path in chromium console"
   grep -E 'chromium|Console' "$LOGCAT_FILE" | grep -E '( 404 |=404|/404[^0-9]|HTTP.{0,10}404|status.{0,10}404)' | grep "$BAD_PATHS" | head -n 10
 fi
+# Positive control: absence-of-failure is not enough. A passing 2026-08-14
+# emulator run logged Capacitor serving dictionary/pack/12.txt,
+# dictionary/a/xref.json, and stroke-json/840c.json. Require at least one
+# successful local request under those trees (not dictionary-corpus/, which
+# 404s and is not bundled).
+GOOD_SERVED="$(grep 'Handling local request: https://localhost/' "$LOGCAT_FILE" 2>/dev/null | grep -E '/dictionary/pack/|/dictionary/.*/xref|/stroke-json/|/search-index/' || true)"
+if [ -n "$GOOD_SERVED" ]; then
+  echo "positive control: bundled path served"
+  echo "$GOOD_SERVED" | sed -n '1,5p'
+else
+  fail "no successful bundled /dictionary/, /stroke-json/, or /search-index/ request in logcat"
+fi
 CAP_PIDS="$(grep -Eo 'Capacitor[^:]*: *pid=[0-9]+|pid=[0-9]+ .*Capacitor' "$LOGCAT_FILE" 2>/dev/null | head -n 5 || true)"
 CHR_PIDS="$(grep -E 'chromium' "$LOGCAT_FILE" 2>/dev/null | head -n 3 || true)"
 [ -n "$CAP_PIDS" ] && echo "Capacitor trace sample: $CAP_PIDS"

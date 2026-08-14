@@ -9,11 +9,13 @@
 #   2. Finds an available booted or shutdown iPhone simulator and boots it if needed.
 #   3. Installs the app bundle onto the simulator.
 #   4. Launches the app with bundle ID org.audreyt.dict.moe.
-#   5. Polls until the app process appears, then captures a screenshot.
+#   5. Polls until the installed bundle has actually been read
+#      (atime bump on /dictionary/ or /stroke-json/) AND a screenshot
+#      looks rendered — process existence is not webview readiness.
 #   6. Asserts via WebKit/simctl logs (from the launch timestamp) that no
-#      404s/didFail occur on bundled paths
-#      (/dictionary/, /search-index/, /stroke-json/, /assets-legacy/).
-#
+#      404s/didFail occur on bundled paths, AND that a bundled dictionary
+#      path was served successfully.
+
 # Exits 0 on success, 1 on any failure.
 
 set -u
@@ -25,7 +27,15 @@ PKG="org.audreyt.dict.moe"
 DEFAULT_APP="$REPO_ROOT/ios/App/build/Debug-iphonesimulator/App.app"
 # Ephemeral xcodebuild -derivedDataPath leftover from yesterday's hand-built sim.
 FALLBACK_APP="/tmp/moedict-ios-sim-derived/Build/Products/Debug-iphonesimulator/App.app"
-SETTLE_TIMEOUT="${SETTLE_TIMEOUT:-30}"
+SETTLE_TIMEOUT="${SETTLE_TIMEOUT:-45}"
+
+# Calibration 2026-08-14, iPhone 17 sim, 1206x2622 PNG:
+#   blank (status bar + home indicator only):  76093 bytes
+#   rendered 萌 entry (previous passing run): 783120 / 788587 bytes
+# A 200 KB floor sits well above chrome-only and well below a rendered page.
+# The 10 KB floor cannot catch a blank iOS screenshot (still ~76 KB).
+MIN_RENDERED_BYTES=200000
+
 
 if [ -n "${1:-}" ]; then
   APP_PATH="$1"
@@ -105,8 +115,32 @@ fi
 
 hdr "Launch App"
 echo "Launching $PKG on $UDID..."
+# Cold-start so the next atime sample is a real serve, not a leftover
+# from a process that already had the files mapped.
+xcrun simctl terminate "$UDID" "$PKG" >/dev/null 2>&1 || true
+INSTALLED_APP="$(xcrun simctl get_app_container "$UDID" "$PKG" app 2>/dev/null || true)"
+PROBE_XREF="$INSTALLED_APP/public/dictionary/a/xref.json"
+PROBE_PACK="$INSTALLED_APP/public/dictionary/pack/12.txt"
+PROBE_STROKE="$INSTALLED_APP/public/stroke-json/840c.json"
+if [ -z "$INSTALLED_APP" ] || [ ! -d "$INSTALLED_APP/public" ]; then
+  fail "could not resolve installed App.app container for $PKG"
+  exit 1
+fi
+atime_of() { stat -f %a "$1" 2>/dev/null || stat -c %X "$1" 2>/dev/null || echo 0; }
+# APFS relatime only updates atime after a quiet period, so a second
+# launch will not bump it unless we rewind the stamp first.
+reset_atime() { [ -f "$1" ] && touch -a -t 200001010101 "$1"; }
+reset_atime "$PROBE_XREF"
+reset_atime "$PROBE_PACK"
+reset_atime "$PROBE_STROKE"
+PRIOR_XREF="$(atime_of "$PROBE_XREF")"
+PRIOR_PACK="$(atime_of "$PROBE_PACK")"
+PRIOR_STROKE="$(atime_of "$PROBE_STROKE")"
+echo "probe atimes before launch: xref=$PRIOR_XREF pack=$PRIOR_PACK stroke=$PRIOR_STROKE"
+
+
 LAUNCH_TS="$(date '+%Y-%m-%d %H:%M:%S')"
-LAUNCH_OUT="$(xcrun simctl launch "$UDID" "$PKG" 2>&1 || true)"
+LAUNCH_OUT="$(xcrun simctl launch --terminate-running-process "$UDID" "$PKG" 2>&1 || true)"
 echo "$LAUNCH_OUT"
 echo "launch timestamp: $LAUNCH_TS"
 if echo "$LAUNCH_OUT" | grep -qE 'error:|Unable to find|not found|failed'; then
@@ -114,18 +148,87 @@ if echo "$LAUNCH_OUT" | grep -qE 'error:|Unable to find|not found|failed'; then
   exit 1
 fi
 
-hdr "Wait for app process"
-echo "timeout: ${SETTLE_TIMEOUT}s (poll launchctl / process list for $PKG or App)"
+png_looks_rendered() {
+  # $1 path  $2 byte size. Byte floor is the portable check; python3 (stdlib
+  # only) adds a pixel-diversity gate when present. No extra dependencies.
+  _png="$1"
+  _bytes="$2"
+  if [ "$_bytes" -lt "$MIN_RENDERED_BYTES" ]; then
+    return 1
+  fi
+  if ! command -v python3 >/dev/null 2>&1; then
+    return 0
+  fi
+  python3 - "$_png" <<'PY'
+import sys
+from struct import unpack
+from zlib import decompress
+path = sys.argv[1]
+data = open(path, "rb").read()
+if data[:8] != b"\x89PNG\r\n\x1a\n":
+    sys.exit(1)
+pos = 8
+w = h = ct = None
+idat = b""
+while pos < len(data):
+    ln = unpack(">I", data[pos:pos+4])[0]
+    typ = data[pos+4:pos+8]
+    chunk = data[pos+8:pos+8+ln]
+    pos += 12 + ln
+    if typ == b"IHDR":
+        w, h, _bit, ct = unpack(">IIBB", chunk[:10])
+    elif typ == b"IDAT":
+        idat += chunk
+if not w or ct not in (2, 6):
+    sys.exit(1)
+raw = decompress(idat)
+bpp = 4 if ct == 6 else 3
+stride = 1 + w * bpp
+rgb = set()
+nonzero = total = 0
+step = 3
+for y in range(80, max(81, h - 60), step):
+    row = raw[y * stride + 1:(y + 1) * stride]
+    for x in range(0, w, step):
+        r, g, b = row[x * bpp], row[x * bpp + 1], row[x * bpp + 2]
+        total += 1
+        if r | g | b:
+            nonzero += 1
+        rgb.add((r, g, b))
+# Blank 2026-08-14: unique_rgb=127, nonzero=0.1%.
+# Rendered: unique_rgb>=1078, nonzero>=12%.
+frac = (nonzero / total) if total else 0
+sys.exit(0 if len(rgb) >= 200 and frac >= 0.03 else 1)
+PY
+}
+
+hdr "Wait for rendered content"
+echo "timeout: ${SETTLE_TIMEOUT}s (poll screenshot + atime on bundled dictionary/stroke files)"
+echo "rendered floor: ${MIN_RENDERED_BYTES} bytes (blank~76KB, rendered~788KB on this sim)"
 ELAPSED=0
 APP_READY=0
+READ_HITS=""
 while [ "$ELAPSED" -lt "$SETTLE_TIMEOUT" ]; do
-  if xcrun simctl spawn "$UDID" launchctl list 2>/dev/null | grep -q "$PKG"; then
-    echo "app process listed in launchctl (${ELAPSED}s)"
-    APP_READY=1
-    break
+  READ_HITS=""
+  if [ -f "$PROBE_XREF" ] && [ "$(atime_of "$PROBE_XREF")" -gt "$PRIOR_XREF" ]; then
+    READ_HITS="$READ_HITS /dictionary/a/xref.json"
   fi
-  if xcrun simctl spawn "$UDID" ps -A 2>/dev/null | grep -v grep | grep -qE '[[:space:]]App$|/App.app/App'; then
-    echo "app process listed in ps (${ELAPSED}s)"
+  if [ -f "$PROBE_PACK" ] && [ "$(atime_of "$PROBE_PACK")" -gt "$PRIOR_PACK" ]; then
+    READ_HITS="$READ_HITS /dictionary/pack/12.txt"
+  fi
+  if [ -f "$PROBE_STROKE" ] && [ "$(atime_of "$PROBE_STROKE")" -gt "$PRIOR_STROKE" ]; then
+    READ_HITS="$READ_HITS /stroke-json/840c.json"
+  fi
+  xcrun simctl io "$UDID" screenshot "$SCREEN_FILE" >/dev/null 2>&1
+  SCR_BYTES="$(stat -f%z "$SCREEN_FILE" 2>/dev/null || stat -c%s "$SCREEN_FILE" 2>/dev/null || echo 0)"
+  SCR_BYTES="$(echo "$SCR_BYTES" | tr -d ' ')"
+  RENDERED=0
+  if png_looks_rendered "$SCREEN_FILE" "$SCR_BYTES"; then
+    RENDERED=1
+  fi
+  printf '  %ss screenshot=%s bytes rendered=%s reads=%s\n' \
+    "$ELAPSED" "$SCR_BYTES" "$RENDERED" "${READ_HITS:-none}"
+  if [ "$RENDERED" -eq 1 ] && [ -n "$READ_HITS" ]; then
     APP_READY=1
     break
   fi
@@ -133,15 +236,18 @@ while [ "$ELAPSED" -lt "$SETTLE_TIMEOUT" ]; do
   ELAPSED=$((ELAPSED + 1))
 done
 if [ "$APP_READY" -ne 1 ]; then
-  fail "app process $PKG never appeared within ${SETTLE_TIMEOUT}s"
+  fail "app never reached rendered content + bundled-path read within ${SETTLE_TIMEOUT}s (last screenshot ${SCR_BYTES:-0} bytes, reads=${READ_HITS:-none})"
+  echo ""
+  echo "Smoke test FAILED with $FAIL_COUNT errors."
+  exit 1
 fi
+echo "ready at ${ELAPSED}s; screenshot $SCREEN_FILE ($SCR_BYTES bytes); served:$READ_HITS"
+
 
 hdr "Screenshot"
-xcrun simctl io "$UDID" screenshot "$SCREEN_FILE"
-SCR_BYTES="$(stat -f%z "$SCREEN_FILE" 2>/dev/null || stat -c%s "$SCREEN_FILE" 2>/dev/null || echo 0)"
 echo "Screenshot: $SCREEN_FILE ($SCR_BYTES bytes)"
-if [ "$SCR_BYTES" -lt 10240 ]; then
-  fail "Screenshot size < 10 KB -- webview may be blank."
+if [ "$SCR_BYTES" -lt "$MIN_RENDERED_BYTES" ]; then
+  fail "Screenshot $SCR_BYTES bytes < ${MIN_RENDERED_BYTES} — blank/chrome-only (calibrated blank=76093, rendered~788000)."
 fi
 
 hdr "Log Assertions"
@@ -163,6 +269,14 @@ else
   echo "No failed resource loads detected on bundled asset paths."
 fi
 
+# Positive control: WebKit does not log Capacitor scheme-handler URLs, so the
+# proof that a bundled path was served is the atime bump recorded above.
+if [ -n "$READ_HITS" ]; then
+  echo "positive control: bundled path served:$READ_HITS"
+else
+  fail "no bundled /dictionary/ or /stroke-json/ file was read after launch"
+fi
+
 if [ "$FAIL_COUNT" -gt 0 ]; then
   echo ""
   echo "Smoke test FAILED with $FAIL_COUNT errors."
@@ -172,3 +286,4 @@ else
   echo "Smoke test PASSED!"
   exit 0
 fi
+
