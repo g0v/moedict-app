@@ -1,13 +1,23 @@
 #!/bin/sh
 # smoke-android.sh -- end-to-end offline smoke test for the moedict-app APK.
 #
-# What it does: installs the debug APK on a connected Android device/emulator,
-# flips airplane mode on, launches the app, waits for it to settle, and then
-# asserts via logcat + a screenshot that the webview came up without fatal
-# JS errors and without 404s on any bundled /dictionary/, /search-index/,
-# /stroke-json/, /assets-legacy/, /assets/fonts/, or /fonts/ path. The
-# Worker-first /assets/fonts/MOEDICT.woff2?v=* miss is allowed only when
-# /assets-legacy/fonts/MOEDICT.woff2 was then served (the Capacitor fallback).
+# What it does: installs the given APK (debug default) on a connected Android
+# device/emulator, flips airplane mode on, launches the app, waits for it to
+# settle, and then asserts via logcat + a screenshot that the webview came up
+# without fatal JS errors and without 404s on any bundled /dictionary/,
+# /search-index/, /stroke-json/, /assets-legacy/, /assets/fonts/, or /fonts/
+# path. The Worker-first /assets/fonts/MOEDICT.woff2?v=* miss is allowed only
+# when /assets-legacy/fonts/MOEDICT.woff2 was then served (the Capacitor
+# fallback).
+#
+# Positive control differs by build type. Debug builds emit Capacitor's
+# Logger.debug lines, so a served bundled request is asserted directly in
+# logcat. Release builds cannot: Capacitor defaults loggingBehavior to debug,
+# which sets loggingEnabled = isDebug (CapConfig.java), silencing every
+# Logger.debug("Handling local request: ...") line. For release, the positive
+# control is instead: airplane mode provably on + a substantially rendered
+# first screenshot. With no network available, a ~500 KB render of the entry
+# route can only come from locally served bundled JS/CSS/data.
 #
 # Assumptions:
 #   * An Android emulator or physical device is already connected (`adb devices`
@@ -48,6 +58,16 @@ fi
 if [ -z "$PKG" ]; then
   PKG="org.audreyt.dict.moe.debug"
 fi
+# Release builds silence Capacitor Logger.debug (see header), so the
+# logcat positive control below only applies to debug packages.
+case "$PKG" in
+  *.debug) IS_RELEASE=0 ;;
+  *) IS_RELEASE=1 ;;
+esac
+# Calibrated 2026-09-13 on 1080x2400 emulator screenshots: healthy renders
+# of the default entry route are ~500 KB; a blank/error page compresses far
+# smaller. Release renders must clear this bar (see positive control).
+RELEASE_MIN_SCREEN_BYTES=100000
 LOGCAT_FILE="/tmp/moedict-smoke-logcat.txt"
 LOGCAT_FILE_T="/tmp/moedict-smoke-logcat-t.txt"
 SCREEN_FILE="/tmp/moedict-smoke-screen.png"
@@ -170,12 +190,25 @@ if [ -n "$INSTALLED_PATH" ]; then
   echo "  New APK SHA-256      : ${APK_CERT_DIGEST:-unknown}"
 
   SIGNERS_MATCH=0
-  if [ -n "$INSTALLED_CERT_DIGEST" ] && [ -n "$APK_CERT_DIGEST" ] && [ "$INSTALLED_CERT_DIGEST" = "$APK_CERT_DIGEST" ]; then
-    SIGNERS_MATCH=1
+  KNOWN_MISMATCH=0
+  if [ -n "$INSTALLED_CERT_DIGEST" ] && [ -n "$APK_CERT_DIGEST" ]; then
+    if [ "$INSTALLED_CERT_DIGEST" = "$APK_CERT_DIGEST" ]; then
+      SIGNERS_MATCH=1
+    else
+      KNOWN_MISMATCH=1
+    fi
   fi
 
   if [ "$SIGNERS_MATCH" -eq 1 ]; then
     echo "Signers MATCH. Safe to update/reinstall matching debug package."
+  elif [ "$KNOWN_MISMATCH" -eq 0 ]; then
+    # The installed signer could not be read (pull/verify hiccup), so there
+    # is no proven mismatch. Proceed to the install attempt below: Android
+    # itself refuses an incompatible update (INSTALL_FAILED_UPDATE_INCOMPATIBLE)
+    # without touching app data, and the install step already fails cleanly
+    # on anything but "Success". Only a proven mismatch takes the
+    # uninstall/opt-in path.
+    echo "WARNING: installed signer unreadable; proceeding to install attempt (Android enforces signature compatibility safely)."
   else
     echo "SIGNER MISMATCH / NON-DEBUG SIGNATURE DETECTED on target package '$PKG'!"
     if [ "${ALLOW_DESTRUCTIVE_UNINSTALL:-0}" = "1" ] || [ "${ALLOW_UNINSTALL_STORE_APP:-0}" = "1" ]; then
@@ -236,6 +269,10 @@ fi
 sleep 2
 AM_NOW="$(adb shell settings get global airplane_mode_on 2>/dev/null | tr -d '\r\n ' || echo unknown)"
 echo "airplane_mode_on now: $AM_NOW"
+if [ "$AM_NOW" = "0" ]; then
+  fail "airplane mode did not engage; offline assertions would be meaningless"
+  exit 1
+fi
 
 hdr "Clear logcat"
 adb logcat -c >/dev/null 2>&1 || true
@@ -305,6 +342,12 @@ fi
 if grep -E 'net::ERR_|Unable to open asset URL' "$LOGCAT_FILE" 2>/dev/null | grep -q '/assets/fonts/MOEDICT.woff2'; then
   if legacy_woff2_served "$LOGCAT_FILE"; then
     echo "font fallback: Worker /assets/fonts/MOEDICT.woff2 missed; served /assets-legacy/fonts/MOEDICT.woff2"
+  elif [ "$IS_RELEASE" = "1" ]; then
+    # The serve confirmation is a Logger.debug line, absent in release
+    # builds, so a miss here cannot distinguish "fallback served silently"
+    # from "fallback broken". Downgrade to a warning rather than fail;
+    # the render-size positive control below still guards the outcome.
+    echo "WARNING: Worker /assets/fonts/MOEDICT.woff2 missed; legacy serve unconfirmable in release logcat."
   else
     fail "Worker /assets/fonts/MOEDICT.woff2 missed and /assets-legacy/fonts/MOEDICT.woff2 was not served"
   fi
@@ -320,12 +363,24 @@ fi
 # dictionary/a/xref.json, and stroke-json/840c.json. Require at least one
 # successful local request under those trees (not dictionary-corpus/, which
 # 404s and is not bundled).
-GOOD_SERVED="$(grep 'Handling local request: https://localhost/' "$LOGCAT_FILE" 2>/dev/null | grep -E '/dictionary/pack/|/dictionary/.*/xref|/stroke-json/|/search-index/' || true)"
-if [ -n "$GOOD_SERVED" ]; then
-  echo "positive control: bundled path served"
-  echo "$GOOD_SERVED" | sed -n '1,5p'
+if [ "$IS_RELEASE" = "0" ]; then
+  GOOD_SERVED="$(grep 'Handling local request: https://localhost/' "$LOGCAT_FILE" 2>/dev/null | grep -E '/dictionary/pack/|/dictionary/.*/xref|/stroke-json/|/search-index/' || true)"
+  if [ -n "$GOOD_SERVED" ]; then
+    echo "positive control: bundled path served"
+    echo "$GOOD_SERVED" | sed -n '1,5p'
+  else
+    fail "no successful bundled /dictionary/, /stroke-json/, or /search-index/ request in logcat"
+  fi
 else
-  fail "no successful bundled /dictionary/, /stroke-json/, or /search-index/ request in logcat"
+  # Release builds never log "Handling local request" (Logger.debug gated
+  # on isDebug), so require a substantially rendered first screenshot
+  # instead. Airplane mode is provably on above, so a large render of the
+  # entry route can only come from locally served bundled assets.
+  if [ "$SCR_BYTES" -ge "$RELEASE_MIN_SCREEN_BYTES" ]; then
+    echo "positive control (release): airplane-mode render is $SCR_BYTES bytes (>= $RELEASE_MIN_SCREEN_BYTES)"
+  else
+    fail "release render only $SCR_BYTES bytes (< $RELEASE_MIN_SCREEN_BYTES); webview may be blank or on an error page"
+  fi
 fi
 CAP_PIDS="$(grep -Eo 'Capacitor[^:]*: *pid=[0-9]+|pid=[0-9]+ .*Capacitor' "$LOGCAT_FILE" 2>/dev/null | head -n 5 || true)"
 CHR_PIDS="$(grep -E 'chromium' "$LOGCAT_FILE" 2>/dev/null | head -n 3 || true)"
