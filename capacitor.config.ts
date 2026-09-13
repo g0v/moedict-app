@@ -9,10 +9,15 @@ const config: CapacitorConfig = {
     androidScheme: 'https',
     iosScheme: 'https',
   },
+  android: {
+    // targetSdk 36 makes edge-to-edge mandatory. With no theme opt-out,
+    // 'auto' installs system-bar margins on API 35+ (see CapacitorWebView).
+    adjustMarginsForEdgeToEdge: 'auto',
+  },
   plugins: {
     StatusBar: {
-      // Android 15 enforces edge-to-edge; overlaysWebView=false requires
-      // windowOptOutEdgeToEdgeEnforcement=true in AppTheme (android/app/src/main/res/values/styles.xml).
+      // Non-overlay bar + Capacitor edge-to-edge margins keep the WebView
+      // below the status bar on Android 15/16.
       overlaysWebView: false,
       // 'LIGHT' = light-appearance bar (white bg + dark icons); 'DARK' would invert.
       style: 'LIGHT',

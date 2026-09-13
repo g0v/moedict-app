@@ -80,11 +80,24 @@ if [ -d "$MOEDICT_TW/public/fonts" ]; then
   cp -r "$MOEDICT_TW/public/fonts/." public/fonts/
 fi
 
-# Stroke animation data (download if not already present)
+# Stroke animation data. The upstream constant and corpus manifest define the
+# exact set. Network sync is opt-in so default builds stay reproducible offline.
 stroke_count=$(find public/stroke-json -name '*.json' 2>/dev/null | wc -l | tr -d ' ')
-if [ "$stroke_count" -lt 1000 ]; then
-  echo "Downloading stroke animation data..."
-  sh scripts/download-strokes.sh
+expected_stroke_count=$(sed -nE 's/^export const STROKE_CORPUS_EXPECTED_COUNT = ([0-9]+);$/\1/p' "$MOEDICT_TW/src/utils/stroke-corpus.ts")
+if [ -z "$expected_stroke_count" ]; then
+  echo "Error: Cannot read STROKE_CORPUS_EXPECTED_COUNT from $MOEDICT_TW/src/utils/stroke-corpus.ts"
+  exit 1
+fi
+if [ "$stroke_count" -ne "$expected_stroke_count" ]; then
+  if [ "${ALLOW_NETWORK:-}" = "1" ]; then
+    echo "Synchronizing stroke animation corpus ($stroke_count/$expected_stroke_count present)..."
+    sh scripts/download-strokes.sh
+  else
+    echo "WARNING: stroke-json corpus incomplete ($stroke_count/$expected_stroke_count present)."
+    echo "         Continuing without network sync. To resync deliberately:"
+    echo "           ALLOW_NETWORK=1 sh scripts/download-strokes.sh"
+    echo "         or: ALLOW_NETWORK=1 bun run prepare-data"
+  fi
 fi
 
 stroke_size=$(du -sh public/stroke-json 2>/dev/null | cut -f1 || echo "0")

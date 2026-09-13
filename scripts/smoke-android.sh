@@ -1,11 +1,23 @@
 #!/bin/sh
 # smoke-android.sh -- end-to-end offline smoke test for the moedict-app APK.
 #
-# What it does: installs the debug APK on a connected Android device/emulator,
-# flips airplane mode on, launches the app, waits for it to settle, and then
-# asserts via logcat + a screenshot that the webview came up without fatal
-# JS errors and without 404s on any bundled /dictionary/, /search-index/,
-# /stroke-json/, or /assets-legacy/ path.
+# What it does: installs the given APK (debug default) on a connected Android
+# device/emulator, flips airplane mode on, launches the app, waits for it to
+# settle, and then asserts via logcat + a screenshot that the webview came up
+# without fatal JS errors and without 404s on any bundled /dictionary/,
+# /search-index/, /stroke-json/, /assets-legacy/, /assets/fonts/, or /fonts/
+# path. The Worker-first /assets/fonts/MOEDICT.woff2?v=* miss is allowed only
+# when /assets-legacy/fonts/MOEDICT.woff2 was then served (the Capacitor
+# fallback).
+#
+# Positive control differs by build type. Debug builds emit Capacitor's
+# Logger.debug lines, so a served bundled request is asserted directly in
+# logcat. Release builds cannot: Capacitor defaults loggingBehavior to debug,
+# which sets loggingEnabled = isDebug (CapConfig.java), silencing every
+# Logger.debug("Handling local request: ...") line. For release, the positive
+# control is instead: airplane mode provably on + a substantially rendered
+# first screenshot. With no network available, a ~500 KB render of the entry
+# route can only come from locally served bundled JS/CSS/data.
 #
 # Assumptions:
 #   * An Android emulator or physical device is already connected (`adb devices`
@@ -20,14 +32,42 @@ set -u
 # Resolve repo root (parent of scripts/).
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+if [ -f "$SCRIPT_DIR/env.sh" ]; then
+  . "$SCRIPT_DIR/env.sh"
+fi
 
-PKG="org.audreyt.dict.moe"
-# Note: applicationId (PKG) and namespace diverge in android/app/build.gradle,
-# so the launcher class lives in tw.moedict.app.* rather than org.audreyt.dict.moe.*.
-# Use `monkey -p $PKG -c LAUNCHER` to avoid hardcoding the class name.
 DEFAULT_APK="$REPO_ROOT/android/app/build/outputs/apk/debug/app-debug.apk"
 APK_PATH="${1:-$DEFAULT_APK}"
 
+# Resolve AAPT and APKSIGNER from PATH or ANDROID_HOME
+AAPT_BIN="$(command -v aapt 2>/dev/null || true)"
+if [ -z "$AAPT_BIN" ] && [ -n "${ANDROID_HOME:-}" ] && [ -d "$ANDROID_HOME/build-tools" ]; then
+  AAPT_BIN="$(find "$ANDROID_HOME/build-tools" -name aapt 2>/dev/null | sort -V | tail -n1 || true)"
+fi
+
+APKSIGNER_BIN="$(command -v apksigner 2>/dev/null || true)"
+if [ -z "$APKSIGNER_BIN" ] && [ -n "${ANDROID_HOME:-}" ] && [ -d "$ANDROID_HOME/build-tools" ]; then
+  APKSIGNER_BIN="$(find "$ANDROID_HOME/build-tools" -name apksigner 2>/dev/null | sort -V | tail -n1 || true)"
+fi
+
+# Extract package name dynamically from APK if possible
+PKG=""
+if [ -f "$APK_PATH" ] && [ -n "$AAPT_BIN" ] && [ -x "$AAPT_BIN" ]; then
+  PKG="$("$AAPT_BIN" dump badging "$APK_PATH" 2>/dev/null | awk -F"'" '/package: name=/{print $2; exit}' || true)"
+fi
+if [ -z "$PKG" ]; then
+  PKG="org.audreyt.dict.moe.debug"
+fi
+# Release builds silence Capacitor Logger.debug (see header), so the
+# logcat positive control below only applies to debug packages.
+case "$PKG" in
+  *.debug) IS_RELEASE=0 ;;
+  *) IS_RELEASE=1 ;;
+esac
+# Calibrated 2026-09-13 on 1080x2400 emulator screenshots: healthy renders
+# of the default entry route are ~500 KB; a blank/error page compresses far
+# smaller. Release renders must clear this bar (see positive control).
+RELEASE_MIN_SCREEN_BYTES=100000
 LOGCAT_FILE="/tmp/moedict-smoke-logcat.txt"
 LOGCAT_FILE_T="/tmp/moedict-smoke-logcat-t.txt"
 SCREEN_FILE="/tmp/moedict-smoke-screen.png"
@@ -113,10 +153,106 @@ PRIOR_AIRPLANE="$(adb shell settings get global airplane_mode_on 2>/dev/null | t
 [ -z "$PRIOR_AIRPLANE" ] && PRIOR_AIRPLANE="0"
 echo "airplane_mode_on was: $PRIOR_AIRPLANE"
 
-hdr "Uninstall any prior install"
-adb uninstall "$PKG" >/dev/null 2>&1 || true
-echo "done."
+hdr "Safety check: inspect device installation of $PKG"
+echo "Target package: $PKG"
 
+# 1. Get signer certificate SHA-256 digest of the new APK
+APK_CERT_DIGEST=""
+APK_CERT_DN=""
+if [ -n "$APKSIGNER_BIN" ] && [ -x "$APKSIGNER_BIN" ]; then
+  APK_CERTS_RAW="$("$APKSIGNER_BIN" verify --print-certs "$APK_PATH" 2>/dev/null || true)"
+  APK_CERT_DIGEST="$(echo "$APK_CERTS_RAW" | awk -F': ' '/Signer #[0-9]+ certificate SHA-256 digest:/{print tolower($2); exit}' || true)"
+  APK_CERT_DN="$(echo "$APK_CERTS_RAW" | awk -F': ' '/Signer #[0-9]+ certificate DN:/{print $2; exit}' || true)"
+fi
+
+# 2. Check if the target package is already installed on the device
+INSTALLED_PATH="$(adb shell pm path "$PKG" 2>/dev/null | head -n1 | sed -e 's/^package://' | tr -d '\r\n' || true)"
+
+if [ -n "$INSTALLED_PATH" ]; then
+  echo "Package '$PKG' is ALREADY INSTALLED on device at: $INSTALLED_PATH"
+  
+  # Pull installed base.apk to inspect its signer
+  INSTALLED_CERT_DIGEST=""
+  INSTALLED_CERT_DN=""
+  INSTALLED_TEMP="/tmp/moedict-installed-check-$$.apk"
+  if adb pull "$INSTALLED_PATH" "$INSTALLED_TEMP" >/dev/null 2>&1; then
+    if [ -n "$APKSIGNER_BIN" ] && [ -x "$APKSIGNER_BIN" ]; then
+      INSTALLED_CERTS_RAW="$("$APKSIGNER_BIN" verify --print-certs "$INSTALLED_TEMP" 2>/dev/null || true)"
+      INSTALLED_CERT_DIGEST="$(echo "$INSTALLED_CERTS_RAW" | awk -F': ' '/Signer #[0-9]+ certificate SHA-256 digest:/{print tolower($2); exit}' || true)"
+      INSTALLED_CERT_DN="$(echo "$INSTALLED_CERTS_RAW" | awk -F': ' '/Signer #[0-9]+ certificate DN:/{print $2; exit}' || true)"
+    fi
+    rm -f "$INSTALLED_TEMP"
+  fi
+
+  echo "  Installed app signer : ${INSTALLED_CERT_DN:-unknown}"
+  echo "  Installed SHA-256    : ${INSTALLED_CERT_DIGEST:-unknown}"
+  echo "  New APK signer       : ${APK_CERT_DN:-unknown}"
+  echo "  New APK SHA-256      : ${APK_CERT_DIGEST:-unknown}"
+
+  SIGNERS_MATCH=0
+  KNOWN_MISMATCH=0
+  if [ -n "$INSTALLED_CERT_DIGEST" ] && [ -n "$APK_CERT_DIGEST" ]; then
+    if [ "$INSTALLED_CERT_DIGEST" = "$APK_CERT_DIGEST" ]; then
+      SIGNERS_MATCH=1
+    else
+      KNOWN_MISMATCH=1
+    fi
+  fi
+
+  if [ "$SIGNERS_MATCH" -eq 1 ]; then
+    echo "Signers MATCH. Safe to update/reinstall matching debug package."
+  elif [ "$KNOWN_MISMATCH" -eq 0 ]; then
+    # The installed signer could not be read (pull/verify hiccup), so there
+    # is no proven mismatch. Proceed to the install attempt below: Android
+    # itself refuses an incompatible update (INSTALL_FAILED_UPDATE_INCOMPATIBLE)
+    # without touching app data, and the install step already fails cleanly
+    # on anything but "Success". Only a proven mismatch takes the
+    # uninstall/opt-in path.
+    echo "WARNING: installed signer unreadable; proceeding to install attempt (Android enforces signature compatibility safely)."
+  else
+    echo "SIGNER MISMATCH / NON-DEBUG SIGNATURE DETECTED on target package '$PKG'!"
+    if [ "${ALLOW_DESTRUCTIVE_UNINSTALL:-0}" = "1" ] || [ "${ALLOW_UNINSTALL_STORE_APP:-0}" = "1" ]; then
+      echo "WARNING: Explicit opt-in set (ALLOW_DESTRUCTIVE_UNINSTALL=1)."
+      echo "Proceeding to uninstall '$PKG' (ALL SAVED USER DATA FOR THIS PACKAGE WILL BE LOST)..."
+      adb uninstall "$PKG" || true
+    else
+      printf '\n'
+      echo "================================================================================"
+      echo "SAFETY GUARD: REFUSING DESTRUCTIVE UNINSTALL ON TARGET DEVICE"
+      echo "================================================================================"
+      echo "Target package '$PKG' is ALREADY INSTALLED on this device, but its signer"
+      echo "differs from the APK being tested:"
+      echo ""
+      echo "  Installed signer : ${INSTALLED_CERT_DN:-unknown}"
+      echo "  Installed SHA-256: ${INSTALLED_CERT_DIGEST:-unknown}"
+      echo "  New APK signer   : ${APK_CERT_DN:-unknown}"
+      echo "  New APK SHA-256  : ${APK_CERT_DIGEST:-unknown}"
+      echo ""
+      echo "Because Android enforces signature compatibility (INSTALL_FAILED_UPDATE_INCOMPATIBLE),"
+      echo "installing over this package requires UNINSTALLING the existing app first."
+      echo ""
+      echo "HAZARD:"
+      echo "Uninstalling '$PKG' will PERMANENTLY DESTROY all existing app data, including:"
+      echo "  - Starred words (字詞記錄簿) in WebView localStorage"
+      echo "  - User preferences and search history"
+      echo "  - Offline cache"
+      echo ""
+      echo "HOW TO PROCEED:"
+      echo "1. Non-destructive side-by-side testing (RECOMMENDED):"
+      echo "   The debug build (org.audreyt.dict.moe.debug) has its own data sandbox and"
+      echo "   installs alongside the store app without touching its saved data."
+      echo ""
+      echo "2. Destructive override (if you INTENTIONALLY want to wipe the device install):"
+      echo "   Re-run with ALLOW_DESTRUCTIVE_UNINSTALL=1:"
+      echo "     ALLOW_DESTRUCTIVE_UNINSTALL=1 sh scripts/smoke-android.sh"
+      echo "================================================================================"
+      fail "Safety guard blocked destructive uninstall of '$PKG'"
+      exit 1
+    fi
+  fi
+else
+  echo "Package '$PKG' is not currently installed on device. Safe to proceed."
+fi
 hdr "Install APK"
 INSTALL_OUT="$(adb install -r "$APK_PATH" 2>&1 || true)"
 echo "$INSTALL_OUT"
@@ -133,6 +269,10 @@ fi
 sleep 2
 AM_NOW="$(adb shell settings get global airplane_mode_on 2>/dev/null | tr -d '\r\n ' || echo unknown)"
 echo "airplane_mode_on now: $AM_NOW"
+if [ "$AM_NOW" = "0" ]; then
+  fail "airplane mode did not engage; offline assertions would be meaningless"
+  exit 1
+fi
 
 hdr "Clear logcat"
 adb logcat -c >/dev/null 2>&1 || true
@@ -179,20 +319,68 @@ if [ "$SCR_BYTES" -lt 10240 ]; then
 fi
 
 hdr "Logcat assertions"
-BAD_PATHS='/dictionary/\|/stroke-json/\|/search-index/\|/assets-legacy/'
-if grep -q 'FATAL EXCEPTION' "$LOGCAT_FILE" 2>/dev/null; then
-  fail "FATAL EXCEPTION in logcat"
-  grep 'FATAL EXCEPTION' "$LOGCAT_FILE" | head -n 5
+BAD_PATHS='/dictionary/\|/stroke-json/\|/search-index/\|/assets-legacy/\|/assets/fonts/\|/fonts/'
+# Worker-first Same-Origin face: Capacitor cannot serve
+# /assets/fonts/MOEDICT.*?v=20260713-cors. The bundled second src is
+# /assets-legacy/fonts/MOEDICT.woff2. Drop that expected miss from the
+# fail set only when the legacy file was actually handled.
+legacy_woff2_served() {
+  grep -q 'Handling local request: https://localhost/assets-legacy/fonts/MOEDICT.woff2' "$1" 2>/dev/null
+}
+drop_expected_font_miss() {
+  if legacy_woff2_served "$1"; then
+    grep -v '/assets/fonts/MOEDICT.woff2' || true
+  else
+    cat
+  fi
+}
+ASSET_FAILS="$(grep -E 'net::ERR_|Unable to open asset URL' "$LOGCAT_FILE" 2>/dev/null | grep "$BAD_PATHS" | drop_expected_font_miss "$LOGCAT_FILE" || true)"
+if [ -n "$ASSET_FAILS" ]; then
+  fail "net::ERR_* / Unable to open asset URL for a bundled data path"
+  echo "$ASSET_FAILS" | head -n 10
 fi
-if grep -E 'net::ERR_' "$LOGCAT_FILE" 2>/dev/null | grep -q "$BAD_PATHS"; then
-  fail "net::ERR_* for a bundled data path"
-  grep -E 'net::ERR_' "$LOGCAT_FILE" | grep "$BAD_PATHS" | head -n 10
+if grep -E 'net::ERR_|Unable to open asset URL' "$LOGCAT_FILE" 2>/dev/null | grep -q '/assets/fonts/MOEDICT.woff2'; then
+  if legacy_woff2_served "$LOGCAT_FILE"; then
+    echo "font fallback: Worker /assets/fonts/MOEDICT.woff2 missed; served /assets-legacy/fonts/MOEDICT.woff2"
+  elif [ "$IS_RELEASE" = "1" ]; then
+    # The serve confirmation is a Logger.debug line, absent in release
+    # builds, so a miss here cannot distinguish "fallback served silently"
+    # from "fallback broken". Downgrade to a warning rather than fail;
+    # the render-size positive control below still guards the outcome.
+    echo "WARNING: Worker /assets/fonts/MOEDICT.woff2 missed; legacy serve unconfirmable in release logcat."
+  else
+    fail "Worker /assets/fonts/MOEDICT.woff2 missed and /assets-legacy/fonts/MOEDICT.woff2 was not served"
+  fi
 fi
 # 404 detection: require the literal " 404 " or "=404" or "/404" around the number
 # to avoid catching log timestamp millis like "18:39:40.404".
 if grep -E 'chromium|Console' "$LOGCAT_FILE" 2>/dev/null | grep -E '( 404 |=404|/404[^0-9]|HTTP.{0,10}404|status.{0,10}404)' | grep -q "$BAD_PATHS"; then
   fail "HTTP 404 for a bundled data path in chromium console"
   grep -E 'chromium|Console' "$LOGCAT_FILE" | grep -E '( 404 |=404|/404[^0-9]|HTTP.{0,10}404|status.{0,10}404)' | grep "$BAD_PATHS" | head -n 10
+fi
+# Positive control: absence-of-failure is not enough. A passing 2026-08-14
+# emulator run logged Capacitor serving dictionary/pack/12.txt,
+# dictionary/a/xref.json, and stroke-json/840c.json. Require at least one
+# successful local request under those trees (not dictionary-corpus/, which
+# 404s and is not bundled).
+if [ "$IS_RELEASE" = "0" ]; then
+  GOOD_SERVED="$(grep 'Handling local request: https://localhost/' "$LOGCAT_FILE" 2>/dev/null | grep -E '/dictionary/pack/|/dictionary/.*/xref|/stroke-json/|/search-index/' || true)"
+  if [ -n "$GOOD_SERVED" ]; then
+    echo "positive control: bundled path served"
+    echo "$GOOD_SERVED" | sed -n '1,5p'
+  else
+    fail "no successful bundled /dictionary/, /stroke-json/, or /search-index/ request in logcat"
+  fi
+else
+  # Release builds never log "Handling local request" (Logger.debug gated
+  # on isDebug), so require a substantially rendered first screenshot
+  # instead. Airplane mode is provably on above, so a large render of the
+  # entry route can only come from locally served bundled assets.
+  if [ "$SCR_BYTES" -ge "$RELEASE_MIN_SCREEN_BYTES" ]; then
+    echo "positive control (release): airplane-mode render is $SCR_BYTES bytes (>= $RELEASE_MIN_SCREEN_BYTES)"
+  else
+    fail "release render only $SCR_BYTES bytes (< $RELEASE_MIN_SCREEN_BYTES); webview may be blank or on an error page"
+  fi
 fi
 CAP_PIDS="$(grep -Eo 'Capacitor[^:]*: *pid=[0-9]+|pid=[0-9]+ .*Capacitor' "$LOGCAT_FILE" 2>/dev/null | head -n 5 || true)"
 CHR_PIDS="$(grep -E 'chromium' "$LOGCAT_FILE" 2>/dev/null | head -n 3 || true)"
@@ -220,7 +408,7 @@ echo "second screenshot: $SCREEN_FILE_T"
 # Compare: lines in T snapshot that were not in the first snapshot, for the bad paths.
 # Same 404-pattern specificity as above.
 if [ -f "$LOGCAT_FILE" ] && [ -f "$LOGCAT_FILE_T" ]; then
-  NEW_ERRS="$(diff "$LOGCAT_FILE" "$LOGCAT_FILE_T" 2>/dev/null | grep '^>' | grep -E 'net::ERR_|FATAL EXCEPTION|( 404 |=404|/404[^0-9]|HTTP.{0,10}404|status.{0,10}404)' | grep "$BAD_PATHS" || true)"
+  NEW_ERRS="$(diff "$LOGCAT_FILE" "$LOGCAT_FILE_T" 2>/dev/null | grep '^>' | grep -E 'net::ERR_|Unable to open asset URL|FATAL EXCEPTION|( 404 |=404|/404[^0-9]|HTTP.{0,10}404|status.{0,10}404)' | grep "$BAD_PATHS" | drop_expected_font_miss "$LOGCAT_FILE_T" || true)"
   if [ -n "$NEW_ERRS" ]; then
     fail "new errors after /t deep-link"
     echo "$NEW_ERRS" | head -n 10

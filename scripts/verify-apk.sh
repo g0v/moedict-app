@@ -10,6 +10,9 @@ set -u
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+if [ -f "$SCRIPT_DIR/env.sh" ]; then
+  . "$SCRIPT_DIR/env.sh"
+fi
 APK="${1:-$REPO_ROOT/android/app/build/outputs/apk/debug/app-debug.apk}"
 PUBLIC="$REPO_ROOT/public"
 
