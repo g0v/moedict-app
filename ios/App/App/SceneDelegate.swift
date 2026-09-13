@@ -12,6 +12,16 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // for apps without a scene delegate, so this class must exist even
         // though no manual wiring is needed here.
         guard let _ = (scene as? UIWindowScene) else { return }
+        // Cold launch from a URL or activity delivers it in the connection
+        // options — the openURLContexts/continue callbacks below only fire
+        // for already-connected scenes. Forward both so the App API sees
+        // the launch link exactly once.
+        for context in connectionOptions.urlContexts {
+            _ = ApplicationDelegateProxy.shared.application(UIApplication.shared, open: context.url, options: [:])
+        }
+        for activity in connectionOptions.userActivities {
+            _ = ApplicationDelegateProxy.shared.application(UIApplication.shared, continue: activity, restorationHandler: { _ in })
+        }
     }
 
     func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>) {
