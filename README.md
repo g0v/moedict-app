@@ -16,11 +16,12 @@ moedict-app/
   macos/                    ← Swift WebView 殼（見 scripts/build-macos.sh，非 npx cap sync）
 ```
 
-兩個專案共用**完全相同**的 `src/`。離線行為由 `src/offline-api.ts` 以執行環境偵測自動切換：
+兩個專案共用**完全相同**的 `src/`。離線行為由 `src/offline-api.ts` 以執行環境或 App 建置旗標自動切換：
 
 ```typescript
-// offline-api.ts — 在 Capacitor 中攔截 fetch；在網頁版完全不執行
-if (typeof window !== 'undefined' && (window as any).Capacitor) {
+// offline-api.ts — 在 Capacitor 或 moedict-app build 中攔截 fetch；一般網頁版完全不執行
+if (typeof window !== 'undefined' &&
+    (import.meta.env.VITE_MOEDICT_OFFLINE_APP === '1' || (window as any).Capacitor)) {
   // monkey-patch fetch → 從本地檔案服務辭典資料
 }
 ```
@@ -145,7 +146,8 @@ moedict.tw/src/（React 19 + TypeScript + Vite 7）
 - **Vite 7** — 開發與打包
 - **Capacitor 7** — 原生 App 容器
 - **Fuse.js** — 全文模糊搜尋（Web Worker 背景執行）
-- **環境偵測** — `window.Capacitor` 判斷是否啟用離線 API 攔截
+- **環境偵測** — 原生 WebView 以 `window.Capacitor`、App 的 Vite dev/build 以
+  `VITE_MOEDICT_OFFLINE_APP=1` 啟用同一套離線 API 攔截
 
 ## 資料來源與授權
 
