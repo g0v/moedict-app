@@ -21,6 +21,9 @@ export default defineConfig({
   plugins: [react()],
   define: {
     'import.meta.env.VITE_MOEDICT_SHA': JSON.stringify(getMoedictSha()),
+    // Enable moedict.tw's bundled-data API shim even in browser-based `vite` dev,
+    // where Capacitor has not injected window.Capacitor.
+    'import.meta.env.VITE_MOEDICT_OFFLINE_APP': JSON.stringify('1'),
   },
   resolve: {
     dedupe: ['react', 'react-dom'],
