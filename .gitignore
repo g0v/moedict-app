@@ -34,6 +34,7 @@ draft-reply-bestian.md
 
 # Local screenshot scratch (device captures, not release assets)
 screenshots/
+
 # Xcode user-specific state
 xcuserdata/
 *.xcuserstate
