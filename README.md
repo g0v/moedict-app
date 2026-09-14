@@ -16,11 +16,12 @@ moedict-app/
   macos/                    ← Swift WebView 殼（見 scripts/build-macos.sh，非 npx cap sync）
 ```
 
-兩個專案共用**完全相同**的 `src/`。離線行為由 `src/offline-api.ts` 以執行環境偵測自動切換：
+兩個專案共用**完全相同**的 `src/`。離線行為由 `src/offline-api.ts` 以執行環境或 App 建置旗標自動切換：
 
 ```typescript
-// offline-api.ts — 在 Capacitor 中攔截 fetch；在網頁版完全不執行
-if (typeof window !== 'undefined' && (window as any).Capacitor) {
+// offline-api.ts — 在 Capacitor 或 moedict-app build 中攔截 fetch；一般網頁版完全不執行
+if (typeof window !== 'undefined' &&
+    (import.meta.env.VITE_MOEDICT_OFFLINE_APP === '1' || (window as any).Capacitor)) {
   // monkey-patch fetch → 從本地檔案服務辭典資料
 }
 ```
@@ -41,7 +42,7 @@ if (typeof window !== 'undefined' && (window as any).Capacitor) {
 | 臺灣客語 | 教育部《臺灣客語辭典》 | 14,000+ | `/:` |
 | 兩岸詞典 | 中華文化總會 | — | `/~` |
 
-另含英／法／德文對照（CC-CEDict、CFDict、HanDeDict）及 4,806 字的筆順動畫資料。
+另含英／法／德文對照（CC-CEDict、CFDict、HanDeDict）及 6,063 字的筆順動畫資料。
 
 ## 開發
 
@@ -67,11 +68,30 @@ git commit -m "Update moedict.tw submodule"
 
 ### 建置 Android APK
 
+Capacitor 7 的 Android 層編譯**需要 Java 21**（JDK 17 會在編譯時報 `invalid source release: 21` 錯誤）。`android/gradlew` 與相關建置腳本會自動透過 `scripts/env.sh` 載入 JDK 21 與專案本機 Android SDK / Gradle 設定：
+
 ```bash
-npm run build:android  # prepare-data → tsc → vite build → cap sync
+# 本機專案環境設定 (scripts/env.sh 自動載入)
+JAVA_HOME=/opt/homebrew/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home
+ANDROID_HOME=/Users/au/w/moedict-app/.android-sdk
+GRADLE_USER_HOME=/Users/au/w/moedict-app/.gradle-user-home
+ANDROID_USER_HOME=/Users/au/w/moedict-app/.android-home
 ```
 
-然後用 Android Studio 開啟 `android/` 進行簽章與發佈。
+筆順動畫 JSON（`public/stroke-json/`，6,063 字）已提交進 repo。預設建置**不會**自動下載；只有在本機數量與上游 `STROKE_CORPUS_EXPECTED_COUNT` 不一致、且明確設定 `ALLOW_NETWORK=1` 時才會同步：
+
+```bash
+ALLOW_NETWORK=1 sh scripts/download-strokes.sh
+# 或：
+ALLOW_NETWORK=1 bun run prepare-data
+```
+
+```bash
+npm run build:android  # prepare-data → tsc → vite build → cap sync
+cd android && ./gradlew assembleDebug
+```
+
+發佈版本可以 Android Studio 開啟 `android/` 進行簽章與發佈。
 
 ### 建置 iOS
 
@@ -126,7 +146,8 @@ moedict.tw/src/（React 19 + TypeScript + Vite 7）
 - **Vite 7** — 開發與打包
 - **Capacitor 7** — 原生 App 容器
 - **Fuse.js** — 全文模糊搜尋（Web Worker 背景執行）
-- **環境偵測** — `window.Capacitor` 判斷是否啟用離線 API 攔截
+- **環境偵測** — 原生 WebView 以 `window.Capacitor`、App 的 Vite dev/build 以
+  `VITE_MOEDICT_OFFLINE_APP=1` 啟用同一套離線 API 攔截
 
 ## 資料來源與授權
 
