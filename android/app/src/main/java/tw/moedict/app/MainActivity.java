@@ -13,12 +13,14 @@ public class MainActivity extends BridgeActivity {
         WebSettings settings = this.bridge.getWebView().getSettings();
         settings.setTextZoom(100);
 
-        // 攔截 Android 邊緣返回手勢，避免在 WebView 無上一頁時直接退出 App
+        // Android 返回鍵／邊緣返回手勢：有上一頁時返回，無上一頁時結束 Activity
         getOnBackPressedDispatcher().addCallback(this, new OnBackPressedCallback(true) {
             @Override
             public void handleOnBackPressed() {
                 if (bridge != null && bridge.getWebView() != null && bridge.getWebView().canGoBack()) {
                     bridge.getWebView().goBack();
+                } else {
+                    finish();
                 }
             }
         });
