@@ -2,6 +2,8 @@
 
 **moedict-app** 是[萌典](https://www.moedict.tw/)的原生離線版本，以 [Capacitor](https://capacitorjs.com/) 將同一套 React 前端打包為 Android、iOS 與 macOS 應用程式。所有辭典資料、筆順動畫與全文檢索索引皆隨 App 一起安裝，不需網路即可使用。
 
+供 g0v 專案索引使用的名稱、狀態與相關連結記錄於 [`g0v.json`](g0v.json)；其中 `licenses` 描述程式碼授權，隨附辭典與其他素材另依[資料來源與授權](#資料來源與授權)說明。
+
 ## 與 moedict.tw 的關係
 
 本專案不包含任何 React 原始碼。`src/` 是一個 symlink，指向 [moedict.tw](https://github.com/g0v/moedict.tw) 的 git submodule：
