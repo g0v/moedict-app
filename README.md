@@ -93,6 +93,8 @@ cd android && ./gradlew assembleDebug
 
 發佈版本可以 Android Studio 開啟 `android/` 進行簽章與發佈。
 
+Android 系統返回鍵與左右邊緣返回手勢：WebView 有上一頁時返回上一頁；無上一頁時結束目前 Activity、離開 App，不強制終止程序（[#23](https://github.com/g0v/moedict-app/issues/23)）。App 內容區內的左右滑動仍由前端處理，與系統邊緣返回手勢不同。
+
 ### 建置 iOS
 
 ```bash
