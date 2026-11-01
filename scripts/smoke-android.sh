@@ -200,7 +200,7 @@ if [ -n "$INSTALLED_PATH" ]; then
   fi
 
   if [ "$SIGNERS_MATCH" -eq 1 ]; then
-    echo "Signers MATCH. Safe to update/reinstall matching debug package."
+    echo "Signers MATCH. Safe to update/reinstall matching package."
   elif [ "$KNOWN_MISMATCH" -eq 0 ]; then
     # The installed signer could not be read (pull/verify hiccup), so there
     # is no proven mismatch. Proceed to the install attempt below: Android
@@ -282,10 +282,10 @@ hdr "Launch app"
 adb shell input keyevent KEYCODE_WAKEUP >/dev/null 2>&1 || true
 adb shell wm dismiss-keyguard >/dev/null 2>&1 || true
 START_TS="$(date +%s)"
-LAUNCH_OUT="$(adb shell monkey -p "$PKG" -c android.intent.category.LAUNCHER 1 2>&1 || true)"
+LAUNCH_OUT="$(adb shell am start -W -n "$PKG/tw.moedict.app.MainActivity" 2>&1 || true)"
 echo "$LAUNCH_OUT"
 echo "launch timestamp: $START_TS"
-if echo "$LAUNCH_OUT" | grep -qE 'No activities found|Error|does not exist'; then
+if ! echo "$LAUNCH_OUT" | grep -q 'Status: ok'; then
   fail "launcher intent did not resolve for $PKG"
   exit 1
 fi
@@ -316,6 +316,14 @@ SCR_BYTES="$(echo "$SCR_BYTES" | tr -d ' ')"
 echo "screenshot: $SCREEN_FILE ($SCR_BYTES bytes)"
 if [ "$SCR_BYTES" -lt 10240 ]; then
   echo "WARNING: screenshot < 10 KB -- webview may be blank."
+fi
+APP_PID_NOW="$(adb shell pidof "$PKG" 2>/dev/null | tr -d '\r\n ' || true)"
+if [ -z "$APP_PID_NOW" ]; then
+  fail "app process exited before screenshot"
+fi
+TOP_ACTIVITY="$(adb shell dumpsys activity activities 2>/dev/null | grep -m 1 -E 'topResumedActivity=|mResumedActivity:' || true)"
+if ! printf '%s' "$TOP_ACTIVITY" | grep -Fq "$PKG/"; then
+  fail "app is not the foreground activity at screenshot time"
 fi
 
 hdr "Logcat assertions"
@@ -387,30 +395,35 @@ CHR_PIDS="$(grep -E 'chromium' "$LOGCAT_FILE" 2>/dev/null | head -n 3 || true)"
 [ -n "$CAP_PIDS" ] && echo "Capacitor trace sample: $CAP_PIDS"
 [ -n "$CHR_PIDS" ] && echo "Chromium trace sample (first 3 lines): $CHR_PIDS"
 
-hdr "Navigation probe: in-app route change to /t"
-# Capacitor uses androidScheme: 'https' with host 'localhost', not a registered deep-link scheme,
-# so a VIEW intent won't reach the webview. Instead, evaluate a small JS hop via the shared
-# webview by sending a BROADCAST that the app doesn't listen for -- the real lever here is
-# to simply kill+relaunch and then rely on the app's initial route, OR just keep the same
-# session and note that the first launch already exercised the root route. For a second
-# probe, relaunch and assert the app survives a cold start in airplane mode.
+hdr "Cold-start probe"
+# Relaunch and assert that the app survives another cold start in airplane mode.
 adb shell am force-stop "$PKG" >/dev/null 2>&1 || true
 sleep 1
 adb logcat -c >/dev/null 2>&1 || true
 adb shell input keyevent KEYCODE_WAKEUP >/dev/null 2>&1 || true
 adb shell wm dismiss-keyguard >/dev/null 2>&1 || true
-adb shell monkey -p "$PKG" -c android.intent.category.LAUNCHER 1 >/dev/null 2>&1 || true
+RELAUNCH_OUT="$(adb shell am start -W -n "$PKG/tw.moedict.app.MainActivity" 2>&1 || true)"
+if ! echo "$RELAUNCH_OUT" | grep -q 'Status: ok'; then
+  fail "app did not relaunch for $PKG"
+fi
 sleep 3
 adb logcat -d >"$LOGCAT_FILE_T" 2>/dev/null || true
 adb exec-out screencap -p >"$SCREEN_FILE_T" 2>/dev/null || true
 echo "second screenshot: $SCREEN_FILE_T"
+if ! adb shell pidof "$PKG" 2>/dev/null | grep -q '[0-9]'; then
+  fail "app process exited after relaunch"
+fi
+SECOND_TOP_ACTIVITY="$(adb shell dumpsys activity activities 2>/dev/null | grep -m 1 -E 'topResumedActivity=|mResumedActivity:' || true)"
+if ! printf '%s' "$SECOND_TOP_ACTIVITY" | grep -Fq "$PKG/"; then
+  fail "app is not the foreground activity after relaunch"
+fi
 
 # Compare: lines in T snapshot that were not in the first snapshot, for the bad paths.
 # Same 404-pattern specificity as above.
 if [ -f "$LOGCAT_FILE" ] && [ -f "$LOGCAT_FILE_T" ]; then
   NEW_ERRS="$(diff "$LOGCAT_FILE" "$LOGCAT_FILE_T" 2>/dev/null | grep '^>' | grep -E 'net::ERR_|Unable to open asset URL|FATAL EXCEPTION|( 404 |=404|/404[^0-9]|HTTP.{0,10}404|status.{0,10}404)' | grep "$BAD_PATHS" | drop_expected_font_miss "$LOGCAT_FILE_T" || true)"
   if [ -n "$NEW_ERRS" ]; then
-    fail "new errors after /t deep-link"
+    fail "new errors after relaunch"
     echo "$NEW_ERRS" | head -n 10
   fi
 fi
