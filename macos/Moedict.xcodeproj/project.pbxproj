@@ -223,7 +223,7 @@
 				CODE_SIGN_ENTITLEMENTS = Moedict.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 14;
+				CURRENT_PROJECT_VERSION = 15;
 				DEVELOPMENT_TEAM = P8PJ468WJ2;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = "萌典.app/Contents/Info.plist";
@@ -232,7 +232,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 7.1.0;
+				MARKETING_VERSION = 7.1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = org.audreyt.dict.moe;
 				PRODUCT_NAME = "萌典";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -247,7 +247,7 @@
 				CODE_SIGN_ENTITLEMENTS = Moedict.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 14;
+				CURRENT_PROJECT_VERSION = 15;
 				DEVELOPMENT_TEAM = P8PJ468WJ2;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = "萌典.app/Contents/Info.plist";
@@ -256,7 +256,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 7.1.0;
+				MARKETING_VERSION = 7.1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = org.audreyt.dict.moe;
 				PRODUCT_NAME = "萌典";
 				SWIFT_EMIT_LOC_STRINGS = YES;
