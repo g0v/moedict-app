@@ -57,22 +57,23 @@ TARGET="$ARCH-apple-macos$DEPLOYMENT_TARGET"
 
 # Ensure dist/ exists (run web build if needed)
 if [ ! -d "$ROOT/dist" ] || [ ! -f "$ROOT/dist/index.html" ]; then
-    echo "dist/ not found — running npm run build..."
+    echo "dist/ not found — running bun run build..."
     cd "$ROOT"
-    npm run build
+    bun run build
 fi
 
 mkdir -p "$BUILD_DIR"
 mkdir -p "$SWIFT_MODULE_CACHE"
 
-echo "Compiling main.swift for $TARGET..."
+echo "Compiling macOS sources for $TARGET..."
 swiftc \
     -target "$TARGET" \
     -sdk "$(xcrun --show-sdk-path --sdk macosx)" \
     -module-cache-path "$SWIFT_MODULE_CACHE" \
     -O \
     -o "$BUILD_DIR/萌典-binary" \
-    "$MACOS_DIR/main.swift"
+    "$MACOS_DIR/main.swift" \
+    "$MACOS_DIR/LocalResourceResolver.swift"
 
 echo "Assembling app bundle..."
 # Clean previous build

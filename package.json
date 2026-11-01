@@ -17,7 +17,8 @@
 		"build:macos:arm64": "bun run prepare-data && bun run build && sh scripts/build-macos.sh",
 		"build:macos:intel": "bun run prepare-data && bun run build && sh scripts/build-macos.sh --intel",
 		"prepare-data": "sh scripts/prepare-data.sh",
-		"lint": "eslint ."
+		"lint": "eslint .",
+		"test:macos": "sh scripts/test-macos-resource-resolver.sh"
 	},
 	"dependencies": {
 		"@capacitor/ios": "^7.6.0",
