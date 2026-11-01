@@ -1,7 +1,7 @@
 {
 	"name": "moedict-app",
 	"private": true,
-	"version": "7.1.1",
+	"version": "7.1.2",
 	"type": "module",
 	"scripts": {
 		"postinstall": "git submodule update --init --depth 1",
@@ -17,20 +17,22 @@
 		"build:macos:arm64": "bun run prepare-data && bun run build && sh scripts/build-macos.sh",
 		"build:macos:intel": "bun run prepare-data && bun run build && sh scripts/build-macos.sh --intel",
 		"prepare-data": "sh scripts/prepare-data.sh",
-		"lint": "eslint ."
+		"lint": "eslint .",
+		"test:macos": "sh scripts/test-macos-resource-resolver.sh"
 	},
 	"dependencies": {
-		"@capacitor/ios": "^7.6.0",
+		"@capacitor/ios": "7.6.9",
 		"@capacitor/status-bar": "^7.0.6",
 		"fuse.js": "^7.1.0",
+		"htmlparser2": "12.0.0",
 		"react": "^19.1.1",
 		"react-dom": "^19.1.1",
-		"react-router-dom": "^7.13.1"
+		"react-router-dom": "7.18.5"
 	},
 	"devDependencies": {
-		"@capacitor/android": "^7.2.0",
-		"@capacitor/cli": "^7.2.0",
-		"@capacitor/core": "^7.2.0",
+		"@capacitor/android": "7.6.9",
+		"@capacitor/cli": "7.6.9",
+		"@capacitor/core": "7.6.9",
 		"@types/react": "^19.1.10",
 		"@types/react-dom": "^19.1.7",
 		"@vitejs/plugin-react": "^5.0.0",

@@ -18,29 +18,8 @@ class LocalSchemeHandler: NSObject, WKURLSchemeHandler {
             return
         }
 
-        // Map URL path to file on disk
-        var path = url.path
-        if path.isEmpty || path == "/" {
-            path = "/index.html"
-        }
-
-        let fileURL = rootDirectory.appendingPathComponent(path)
-        var isDir: ObjCBool = false
-
-        // If the path is a directory or doesn't exist and doesn't have an extension,
-        // serve index.html (SPA fallback)
-        let fileExists = FileManager.default.fileExists(atPath: fileURL.path, isDirectory: &isDir)
-        let serveURL: URL
-        if !fileExists && fileURL.pathExtension.isEmpty {
-            // SPA route – serve index.html
-            serveURL = rootDirectory.appendingPathComponent("index.html")
-        } else if fileExists && isDir.boolValue {
-            serveURL = fileURL.appendingPathComponent("index.html")
-        } else {
-            serveURL = fileURL
-        }
-
-        guard FileManager.default.fileExists(atPath: serveURL.path) else {
+        guard let serveURL = LocalResourceResolver.resolve(url, under: rootDirectory),
+              FileManager.default.fileExists(atPath: serveURL.path) else {
             let response = HTTPURLResponse(url: url, statusCode: 404, httpVersion: "HTTP/1.1", headerFields: nil)!
             urlSchemeTask.didReceive(response)
             urlSchemeTask.didReceive(Data("404 Not Found".utf8))
@@ -58,7 +37,6 @@ class LocalSchemeHandler: NSObject, WKURLSchemeHandler {
                 headerFields: [
                     "Content-Type": mimeType,
                     "Content-Length": "\(data.count)",
-                    "Access-Control-Allow-Origin": "*",
                     "Cache-Control": "no-cache",
                 ]
             )!
