@@ -1,0 +1,39 @@
+{
+  "$schema": "https://raw.githubusercontent.com/g0v/g0v.json/master/schemas/v1.json",
+  "repo": "https://github.com/g0v/moedict-app",
+  "author": "Audrey Tang",
+  "status": "Released",
+  "name": "moedict-app",
+  "name_zh": "萌典",
+  "description": "Native offline Moedict dictionary app for Android, iOS, and macOS.",
+  "description_zh": "萌典原生離線 App，提供臺灣華語、臺灣台語、臺灣客語與兩岸詞典，支援 Android、iOS 與 macOS。",
+  "homepage": "https://www.moedict.tw/",
+  "thumbnail": "https://www.moedict.tw/assets/images/icon.png",
+  "document": "https://www.moedict.tw/about",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g0v/moedict-app"
+  },
+  "licenses": [
+    {
+      "type": "CC0-1.0"
+    }
+  ],
+  "keywords": [
+    "dictionary",
+    "g0v.tw",
+    "education",
+    "offline"
+  ],
+  "audience": [
+    "public"
+  ],
+  "products": [],
+  "partOf": "",
+  "contributors": [
+    "audreyt",
+    "bestian",
+    "Sea-n"
+  ],
+  "needs": []
+}
