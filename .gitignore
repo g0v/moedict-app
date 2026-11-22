@@ -6,6 +6,7 @@ public/dictionary/
 public/assets-legacy/
 public/fonts/
 public/search-index/
+public/images/guide/
 # stroke-json/ IS committed (minified, ~115MB, compresses well with git)
 
 # Capacitor generated

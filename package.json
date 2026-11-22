@@ -18,6 +18,7 @@
 		"build:macos:intel": "bun run prepare-data && bun run build && sh scripts/build-macos.sh --intel",
 		"prepare-data": "sh scripts/prepare-data.sh",
 		"lint": "eslint .",
+		"test:prepare-data": "sh scripts/test-prepare-data.sh",
 		"test:macos": "sh scripts/test-macos-resource-resolver.sh"
 	},
 	"dependencies": {
