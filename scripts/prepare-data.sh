@@ -72,6 +72,11 @@ cp -r "$MOEDICT_TW/data/assets/fonts"   public/assets-legacy/
 cp -r "$MOEDICT_TW/data/assets/images"  public/assets-legacy/
 cp "$MOEDICT_TW/data/assets/styles.css" public/assets-legacy/
 
+# About usage screenshots are public assets, separate from the legacy images.
+# Preserve /images/guide/ so thumbnails and the lightbox both work offline.
+mkdir -p public/images/guide
+cp -r "$MOEDICT_TW/public/images/guide/." public/images/guide/
+
 # PUA variant-headword font (MOE revised-dict.woff, 標楷體2) — referenced by
 # src/index.css @font-face at /fonts/revised-dict.woff for the 110 plane-15 PUA
 # variant headwords. Copied from the submodule's public/fonts/ (NOT data/assets).
