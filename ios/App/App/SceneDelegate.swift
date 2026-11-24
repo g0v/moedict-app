@@ -24,6 +24,16 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         }
     }
 
+    func sceneDidBecomeActive(_ scene: UIScene) {
+        // iOS has no system back button, and Capacitor leaves WKWebView's
+        // edge-swipe history gesture off, so after following a cross-ref,
+        // radical or category link there was no way back except the search
+        // chevron. Enable swipe-back/forward over the SPA history stack
+        // (the iOS counterpart of Android's back handling in MainActivity).
+        (window?.rootViewController as? CAPBridgeViewController)?
+            .webView?.allowsBackForwardNavigationGestures = true
+    }
+
     func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>) {
         // Preserve the App API's URL-open tracking under the scene lifecycle
         // (application(_:open:options:) is not called for scene-based apps).
